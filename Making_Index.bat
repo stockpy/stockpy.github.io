@@ -7,4 +7,5 @@ REM
 d:
 cd python
 
-start /b "C:\Program Files\Internet Explorer\iexplore.exe" http://192.168.10.51:8889/notebooks/Making_Index.ipynb
+REM start /b "C:\Program Files\Internet Explorer\iexplore.exe" http://192.168.10.51:8889/notebooks/Making_Index.ipynb
+start /b "C:\Program Files\Internet Explorer\iexplore.exe" http://192.168.219.104:8889/notebooks/Making_Index.ipynb
