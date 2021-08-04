@@ -7,4 +7,4 @@ REM
 d:
 cd python
 
-start /b "C:\Program Files\Internet Explorer\iexplore.exe" http://192.168.10.51:8889/notebooks/Stock_Price_Get_From_Naver.ipynb
+start /b "C:\Program Files\Internet Explorer\iexplore.exe" http://192.168.219.150:8889/notebooks/Stock_Price_Get_From_Naver.ipynb
