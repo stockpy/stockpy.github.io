@@ -1,0 +1,23 @@
+```sql
+############################################################
+# 2021.04.28
+
+-- ST22
+--select * from snap_adt
+--select datum, count(*) from snap where seqno = 000 group by datum order by datum desc
+--날짜별 개수
+--select datum, count(*) from snap_adt group by datum order by datum
+--Client 별 개수
+--select mandt, count(*) from snap_adt where datum = current_date group by mandt order by mandt
+--select mandt, count(*) from snap_adt where datum = '20210602' group by mandt order by mandt -- add_days(CURRENT_DATE, -7)
+--select mandt, count(*) from snap_adt where datum between '20210602' and current_date group by mandt order by mandt
+--select datum, mandt, count(*) from snap_adt where datum between add_days(CURRENT_DATE, -7) and current_date group by datum, mandt order by datum, mandt
+--프로그램, 유저별 개수
+--select mainprog, uname, count(*) from snap_adt where runtime_error = 'GEN_ILLEGAL_SWITCH_VALUE' group by mainprog, uname order by count(*) desc
+--select TOP 10 mainprog, count(*) from snap_adt where datum = CURRENT_DATE group by mainprog order by count(*) desc
+--select datum, count(*) from snap_adt where datum between add_days(CURRENT_DATE, -7) and current_date group by datum order by datum
+
+--select datum, uname, mainprog, runtime_error, object_name as "Canceld Program", exc as "Exception" from snap_adt where datum = add_days(CURRENT_DATE, -1) and mandt = '200' order by uname--group by datum, mandt order by datum, mandt
+
+############################################################
+```
