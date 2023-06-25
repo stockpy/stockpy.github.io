@@ -126,3 +126,5 @@ I want to keep Jekyll Now as minimal as possible. Every line of code should be o
 {{ site.pages }}
 
 {{ page./IndeX }}
+
+{{ page.IndeX }}
