@@ -1,4 +1,5 @@
-<head><meta charset="utf-8"><title>Vers : 20250504_0900 </title></head>
+<head><meta charset="utf-8"><title>Vers : 20250504_1000 </title></head>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2129472)
 #### [경마-소버니티, 제151회 켄터키 더비 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2129471)
 #### [카모기 선수들은 경기 전에 짧은 숏 슈트를 입고 치마로 갈아입어야 했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2129470)
 #### [소버린티, 제151회 켄터키 더비 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2129469)
@@ -60,8 +61,8 @@
 #### [버핏이 버크셔 회의에서 인용한 내용: 무역, 기회, 미국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2129414)
 #### [배드민턴-중국, 수디르만컵 결승서 한국과 맞붙다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2129415)
 #### [미국 근로자 안전 기관에서 직원 해고 통보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2129412)
+<head><meta charset="utf-8"><title>Vers : 20250504_1000 </title></head>
 #### [트럼프, 교황으로 변신한 자신의 AI 생성 사진 게시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2129413)
-<head><meta charset="utf-8"><title>Vers : 20250504_0900 </title></head>
 #### [우크라이나, 해상 드론으로 러시아 전투기를 처음으로 격추했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2129411)
 #### [애플, 아이폰 출시 일정 변경, 새로운 스타일 계획 - 더 정보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2129410)
 #### [버크셔의 자인은 Geico가 "빠른 진전"을 이루었다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2129409)
@@ -125,4 +126,3 @@
 #### [베트남은 중국에 반대하고 필리핀은 분쟁중인 남중국해 암초에 대해 행동합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2129356)
 #### [월시, 여자 접영 50m에서 미국 신기록을 경신하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2129353)
 #### [월시, 접영 50m에서 미국 신기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2129354)
-#### [러시아, 우크라이나 노보로시스크 드론 공격 후 항구에서 비상사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2129352)
