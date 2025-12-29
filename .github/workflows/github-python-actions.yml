@@ -1,10 +1,10 @@
 name: GitHub Python Actions Demo
 
-on: [push]
+#on: [push]
 
-# on:
-#  schedule:
-#    - cron: '*/5 * * * *'  # 5분마다 실행 (UTC 시간 기준)
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # 5분마다 실행 (UTC 시간 기준)
 
 jobs:
   run-python-script:
