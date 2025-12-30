@@ -1,5 +1,5 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_1830 </title></head>
-<center>Vers : 20251230_1830 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_1916 </title></head>
+<center>Vers : 20251230_1916 </center>
 <br><br><br>
 #### [금값, 오늘이 가장 싸다더니…'14% 급락' 무슨 일이 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005230972)
 #### [많이 벌면 내년부터 혜택없다… '3000만원' 비과세 막차타려면](https://m.stock.naver.com/news/ranknews/view/008/0005298290)

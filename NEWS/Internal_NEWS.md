@@ -1,6 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_1830 </title></head>
-<center>Vers : 20251230_1830 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_1916 </title></head>
+<center>Vers : 20251230_1916 </center>
 <br><br><br>
+#### [미국 사이버 전문가 2명, 악명 높은 랜섬웨어 조직과 협력한 혐의 유죄 인정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423326)
+#### [디즈니, 아동 개인정보 보호법 위반 혐의로 1,000만 달러 벌금 및 금지 명령에 합의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423324)
+#### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423325)
+#### [콜롬비아 채권 시장의 주요 업체들이 시장 외 운영에 대해 경종을 울립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423322)
+#### [인도, 저가 수입을 억제하기 위해 일부 철강 제품에 3년 관세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423323)
+#### [번스타인, 버켄스탁의 PT를 55달러로 인하하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423320)
+#### [분석-예멘 공격은 사우디아라비아와 UAE 간의 불신의 깊이를 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423321)
+#### [브라질 볼소나루, 딸꾹질 치료 시술 다시 받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423319)
+#### [옥수수, 대두 가공업체 입찰이 꾸준히 강세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423318)
+#### [미국 시추 업체, 2 주 연속 석유, 가스 굴착 장치 추가, 베이커 휴즈는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423313)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
+#### [피어리스 칼슨, 5번째? 신속하고 전격적인 더블 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423317)
+#### [노퍽 서던, 시카고 시설 운영에 미치는 날씨 영향을 알리는 깃발 꽂기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423311)
+#### [판사, 브라운앤브라운의 하우덴에 대한 TRO 승인, 헤이스는 '급습' 혐의에 관여하지 않았다고 주장 300](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423312)
+#### [멕시코 열차 탈선 사고, 대형 프로젝트의 안전에 대한 셰인바움의 압박 가중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423316)
+#### [초반 상승 후 다시 박스권으로 돌아온 BUZZ-USD/JPY](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423310)
+#### [중국의 매수로 미국 대두 선물 시장 안정; 곡물 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423314)
+#### [뉴욕 연준, 리버스 리포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423315)
 #### [이란 정부, 시위가 대학으로 확산되자 대화 제의?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423306)
 #### [인도, 값싼 수입을 억제하기 위해 일부 철강 제품에 3년간 관세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423309)
 #### [젤렌스키, 트럼프와 우크라이나 주둔 미군에 대해 논의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423304)
@@ -47,21 +65,3 @@
 #### [미국 최고 외교관 루비오, 예멘에 대해 사우디 카운터 파트와 대화, 국무부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423266)
 #### [엔비디아, 이스라엘의 AI21 연구소를 최대 30억 달러에 인수하기 위해 사전 협의 중, 보고서에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423267)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [사우스 캐롤라이나의 홍역 사례가 20 건에서 176 건으로 증가했다고 주 보건부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423272)
-#### [챔프 타이틀, 신규 자금 조달로 5,500만 달러 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423265)
-#### [사우스캐롤라이나 보건부, 12월 30일 기준 총 179건의 홍역 사례 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423270)
-#### [피치, 브라스켐의 신용등급을 'CCC+'에서 'CC'로 하향 조정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423271)
-#### [미국 수익률은 큰 변동 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423253)
-#### [아메리카의 테스트 키친, Food52, Inc의 특정 자산 인수 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423258)
-#### [서트란, 1,000만 달러 규모의 자사주 매입 계약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423261)
-#### [EDPR, 스페인에서 190MWac 태양광 포트폴리오에 대한 자산 순환 거래 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423252)
-#### [RT&L, 277,000주에 대한 그린슈 옵션 행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423257)
-#### [Jet.AI, 공모 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423260)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/JTAI.O/total>
-#### [온두라스 대선 준우승자 나스랄라, 패배에 도전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423255)
-#### [미국 원유 재고는 지난주 감소한 것으로 보이며, 제품? 재고는 상승할 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423256)
-#### [인슈어, 주당 0.35 유로의 중간 배당금 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423259)
-#### [미국의 봉쇄에도 불구하고 여전히 베네수엘라에 도착하는 유조선, 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423254)
-#### [쿠노바 보통주 자본금 약 1억 8천만 유로를 보유하는 KME 그룹](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423262)
-#### [프랑스 외무부는 대만 주변에서 중국의 군사 훈련에 대해 우려를 표명했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423246)
-#### [골드 리바운드, 40년 만에 최고의 해를 마무리할 준비 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423250)
