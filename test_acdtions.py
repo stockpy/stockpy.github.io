@@ -55,7 +55,9 @@ def __NEWS(SECTION) :
         DateTime_TT = datetime.today().strftime("%Y%m%d_%H%M")
 
         output.write('<head><meta charset="utf-8"><title>Vers : %s </title></head>\n' % DateTime_TT)
-
+        output.write('<center>Vers : %s </center>\n' % DateTime_TT)
+        output.write('<br><br><br>\n' % DateTime_TT)
+        
         for key, val in enumerate(j) :
 
             if val['dt'][:8] != DateTime :
