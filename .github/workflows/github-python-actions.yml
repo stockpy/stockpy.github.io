@@ -4,7 +4,7 @@ name: GitHub Python Actions Demo
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # 5분마다 실행 (UTC 시간 기준)
+    - cron: '*/30 * * * *'  # 30분마다 실행 (UTC 시간 기준)
 
 jobs:
   run-python-script:
