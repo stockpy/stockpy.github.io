@@ -1,6 +1,26 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_1720 </title></head>
-<center>Vers : 20251230_1720 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_1744 </title></head>
+<center>Vers : 20251230_1744 </center>
 <br><br><br>
+#### [사이펨, 사우디에서 약 6억 달러 규모의 오프쇼어 계약 2건 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423277)
+#### [노퍽 서던, 시카고 랜더스 복합 운송 시설에서 상업용 정전 발생했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423280)
+#### [영국 FTSE 100, 연말 거래 부진으로 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423279)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
+#### [가솔린 정제 이익률 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423276)
+#### [하이로리스 파마슈티컬스, 아보메드로부터 윌슨병 치료제에 대한 유럽 및 터키 내 독점 라이선스권 획득했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423275)
+#### [네덜란드 경찰, IS 대원 및 공격 계획 혐의로 시리아 남성 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423278)
+#### [사우스 캐롤라이나의 홍역 사례가 20 건에서 176 건으로 증가했다고 주 보건부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423264)
+#### [WTI 상승, 40달러 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423269)
+#### [제니아 호텔러리 솔루션, 약 240만 유로에 호텔 팔리오 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423274)
+#### [브라질, 11월에 예상보다 많은 공식 일자리 창출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423263)
+#### [노르웨이의 Gassco, 계획되지 않은 가스 공급 중단 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423268)
+#### [휴고 보스, 소시에테 제네랄 SA, 총 의결권 및 상품 중 0.00% 보유(이전 5.12%)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423273)
+#### [미국 최고 외교관 루비오, 예멘에 대해 사우디 카운터 파트와 대화, 국무부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423266)
+#### [엔비디아, 이스라엘의 AI21 연구소를 최대 30억 달러에 인수하기 위해 사전 협의 중, 보고서에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423267)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [사우스 캐롤라이나의 홍역 사례가 20 건에서 176 건으로 증가했다고 주 보건부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423272)
+#### [챔프 타이틀, 신규 자금 조달로 5,500만 달러 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423265)
+#### [사우스캐롤라이나 보건부, 12월 30일 기준 총 179건의 홍역 사례 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423270)
+#### [피치, 브라스켐의 신용등급을 'CCC+'에서 'CC'로 하향 조정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423271)
 #### [미국 수익률은 큰 변동 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423253)
 #### [아메리카의 테스트 키친, Food52, Inc의 특정 자산 인수 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423258)
 #### [서트란, 1,000만 달러 규모의 자사주 매입 계약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423261)
@@ -46,25 +66,3 @@
 #### [러시아-우크라이나 평화 희망이 사라지고 예멘 긴장이 고조되면서 에너지 기업 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423214)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FANG.O/total>
 #### [터키의 에르도안, 소말리란드를 인정하는 이스라엘의 결정은 용납 할 수없고 불법이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423223)
-#### [연준 의사록 발표 전 외환-달러 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423220)
-#### [우크라이나가 푸틴의 거주지를 표적으로 삼았다는 증거는 없다고 마크롱과 가까운 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423213)
-#### [몰리나 헬스케어, '빅 쇼트' 투자자 버리의 게시물 이후 급등세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423222)
-#### [아피온 시멘토, 2026년 1월 1일부로 우무트 제나르를 회장으로, 부락 투르구트 오르훈을 부의장으로 선출하기로 결정했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423219)
-#### [독일, 대만 인근에서 중국 군사 훈련 우려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423217)
-#### [영국, 캐나다, 프랑스 등, 가자지구 인도주의적 악화 심각한 우려 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423221)
-#### [크레디아뱅크, 가맹점 인수 사업과 ATM 네트워크를 유로넷에 매각하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423218)
-#### [독일은 러시아의 확전 가능성에 대한 우크라이나의 우려를 공유합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423216)
-#### [도마 퍼페추얼 캐피털 매니지먼트, 파시라 바이오사이언스 이사회에 회사 매각 추진 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423201)
-#### [터키 알틴 이슬레멜리, 2026년 1월 1일부터 2027년 12월 31일까지 단체 노동 협약 협상 시작한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423208)
-#### [유로스타는 채널 터널이 재개됨에 따라 서비스를 점진적으로 재개한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423202)
-#### [악칸사 시멘토, 2026년 1월 1일부로 우무트 제나르가 회장으로 선출됐다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423200)
-#### [침사 시멘토, 우무트 제나르를 회장으로, 부락 투르구트 오르훈을 부회장으로 선출하기로 결정했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423212)
-#### [DL 홀딩스, 가상자산 거래 서비스에 대한 조건부 SFC 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423199)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1709.HK/total>
-#### [기술주 주가가 새로운 압력을 받으면서 월스트리트가 하락세를 보이고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423211)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [다이도 그룹, 델라웨어에 JV 설립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423207)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0544.HK/total>
-#### [엑스트라웰 제약, 440만 위안에 지분 10.06% 매입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423198)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0858.HK/total>
-#### [캐나다 은행, 142억 5,000만 캐나다 달러 지폐 경매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423210)
