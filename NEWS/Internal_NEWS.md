@@ -1,6 +1,32 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_2140 </title></head>
-<center>Vers : 20251230_2140 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_2219 </title></head>
+<center>Vers : 20251230_2219 </center>
 <br><br><br>
+#### [WF 인터내셔널, 최저 입찰 가격 미달에 관한 나스닥 통지서 접수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423397)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WXM.O/total>
+#### [리얼파, RSU 인센티브와 함께 국가 대출 책임자 모집 프로그램 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423399)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AIRE.O/total>
+#### [Axe2 인수, 비중개 사모 투자 유치 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423400)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423396)
+#### [연준 의사록에서 마지못해 12월 금리 인하가 드러나면서 매수세 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423398)
+#### [법원은 22개 주에서 트럼프가 지원하는 Planned Parenthood의 메디케이드 자금 삭감을 허용합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423395)
+#### [미국, 중국으로 대두 판매, 목적지 불명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423394)
+#### [국경없는의사회, 이스라엘 시한을 놓친 후 가자 지구에서 금지될 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423389)
+#### [펀드, CBOT 옥수수, 대두, 대두 및 밀의 순 판매자, 거래자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423391)
+#### [트럼프의 압박으로 베네수엘라 통화 가치가 전년 대비 83% 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423393)
+#### [브라질 SLC Agricola: 주주, 5540만 주 보너스 주식 발행을 통한 자본금 증자 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423388)
+#### [브라질 포지티보, 특별 배당금으로 2,500만 헤알 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423390)
+#### [브라질 페트로브라스, 제트 연료 가격 9.4% 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423392)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423381)
+#### [미국 곡물 바지선 운임 값은? 12월 30일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423387)
+#### [대두 선물 하락, 중국 매수세 위축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423380)
+#### [TSX, 기술주 하락으로 사흘째 하락세 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423384)
+#### [UAE, 미국, 예멘과 가자 지구의 지역 개발 논의, WAM 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423386)
+#### [S&P 500, 나스닥은 휴일 약세 거래로 소폭 하락 마감, 메타는 거래에서 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423379)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [산타를 기다리며](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423383)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
+#### [미국 항소법원, 학교의 반인종주의 교육에 대한 언론의 자유에 대한 도전 부활](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423385)
+#### [미국 사이버 전문가 2명, 악명 높은 랜섬웨어 조직과 협력한 혐의 유죄 인정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423382)
 #### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423378)
 #### [xAI는 Macrohardrr라는 세 번째 건물을 구입했으며 xAI 교육 컴퓨팅을 거의 2GW로 끌어 올릴 것입니다 - Elon Musk](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423377)
 #### [메타, 사기 및 어린이 위험 광고로 미국령 버진아일랜드에서 고소당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423374)
@@ -44,27 +70,3 @@
 #### [아르헨티나의 2025/26 밀 수확량이 기록적인 2780 만 톤을 기록했다고 거래소는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423341)
 #### [JFK의 손녀 타티아나 슐로스버그, 백혈병 진단 후 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423339)
 #### [그린쉴드, 애니엑스 리스크의 소터를 CUO로 영입하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423344)
-#### [미국 나토 특사, 우크라이나가 푸틴 대통령 관저를 공격했다는 러시아 주장에 의구심 던져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423346)
-#### [미국 국채 수익률, 2025년 마지막 주에 상승세로 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423338)
-#### [브라질 대규모 노조, 페트로브라스 반대 제안 수용하고 파업 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423343)
-#### [S&P 500, 나스닥은 휴일 거래로 약세, 메타는 거래로 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423337)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [GBP/USD가 1주일 만에 최저치로 떨어졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423335)
-#### [디즈니는 아동 개인 정보 보호법 위반 혐의를 해결하기 위해 천만 달러를 지불하기로 합의했다고 법무부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423333)
-#### [소 122,000마리, 돼지 492,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423336)
-#### [칠레의 25억 달러 규모의 볼타 그린 암모니아 프로젝트, 환경 허가 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423334)
-#### [웨이모는 네바다 주로부터 승인을 받았으며 라스베가스에서 운전대를 잡은 운전자와 함께 자율 테스트를 시작했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423328)
-#### [테네시 주 멤피스 외곽에 계획 중인 세 번째 초대형 데이터 센터를 위한 건물을 매입한 BRIEF-xAI - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423329)
-#### [정전 후 채널 터널이 다시 열립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423331)
-#### [영국, 대만 주변에서 중국의 군사 훈련에 대한 자제 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423327)
-#### [Fed 관계자들은 12월 회의에서 깊은 분열을 보였습니다 - 회의록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423332)
-#### [미국 주식의 움직임 - 몰리나 헬스케어, BHP 그룹, 트윌리오](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423330)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EKSO.O/total>
-#### [미국 사이버 전문가 2명, 악명 높은 랜섬웨어 조직과 협력한 혐의 유죄 인정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423326)
-#### [디즈니, 아동 개인정보 보호법 위반 혐의로 1,000만 달러 벌금 및 금지 명령에 합의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423324)
-#### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423325)
-#### [콜롬비아 채권 시장의 주요 업체들이 시장 외 운영에 대해 경종을 울립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423322)
-#### [인도, 저가 수입을 억제하기 위해 일부 철강 제품에 3년 관세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423323)
-#### [번스타인, 버켄스탁의 PT를 55달러로 인하하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423320)
-#### [분석-예멘 공격은 사우디아라비아와 UAE 간의 불신의 깊이를 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423321)
-#### [브라질 볼소나루, 딸꾹질 치료 시술 다시 받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423319)
