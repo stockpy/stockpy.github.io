@@ -1,5 +1,4 @@
 from datetime import datetime
-import datetime, time # for sleep
 
 print("# blog python")
 print(datetime.now())
