@@ -1,5 +1,5 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_1022 </title></head>
-<center>Vers : 20251230_1022 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_1047 </title></head>
+<center>Vers : 20251230_1047 </center>
 <br><br><br>
 #### [많이 벌면 내년부터 혜택없다… '3000만원' 비과세 막차타려면](https://m.stock.naver.com/news/ranknews/view/008/0005298290)
 #### [3조→970만원 '와르르' 개미들 눈물…주가 11% 하락, 정체는](https://m.stock.naver.com/news/ranknews/view/243/0000090342)
@@ -61,8 +61,8 @@
 #### [코스피 '76%' 올랐다 … 실적 발판 내년 5천피 진격](https://m.stock.naver.com/news/ranknews/view/009/0005614099)
 #### ["연말정산 막차 타자"… IRP·연금저축 급증](https://m.stock.naver.com/news/ranknews/view/009/0005614023)
 #### ['12만전자'·'65만닉스'…삼성전자·SK하이닉스 장중 신고가](https://m.stock.naver.com/news/ranknews/view/003/0013682911)
-<head><meta charset="utf-8"><title>Vers : 20251230_1022 </title></head>
-<center>Vers : 20251230_1022 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_1047 </title></head>
+<center>Vers : 20251230_1047 </center>
 <br><br><br>
 #### [“개미들은 두 달째 피가 마릅니다”...반등 없이 공포만 남은 코인시장 [매일코인]](https://m.stock.naver.com/news/ranknews/view/009/0005613827)
 #### [머스크가 스타링크 대신 스페이스X 상장 택한 이유](https://m.stock.naver.com/news/ranknews/view/015/0005230868)
