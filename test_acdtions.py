@@ -56,7 +56,7 @@ def __NEWS(SECTION) :
 
         output.write('<head><meta charset="utf-8"><title>Vers : %s </title></head>\n' % DateTime_TT)
         output.write('<center>Vers : %s </center>\n' % DateTime_TT)
-        output.write('<br><br><br>\n' % DateTime_TT)
+        output.write('<br><br><br>\n')
         
         for key, val in enumerate(j) :
 
