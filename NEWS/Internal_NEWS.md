@@ -1,6 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_2022 </title></head>
-<center>Vers : 20251230_2022 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_2044 </title></head>
+<center>Vers : 20251230_2044 </center>
 <br><br><br>
+#### [연준 정책 입안자들이 '충분한' 수준의 준비금으로 법안 구매를 보장한다고 판단한 회의록에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423360)
+#### [테네시 라인 근처에서 유독성 유황을 실은 CSX 열차가 탈선했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423359)
+#### [CBOT 밀의 글로벌 공급 감소, 평화 회담 진전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423357)
+#### [연준 정책 입안자들은 '충분한' 수준의 준비금 보유가 국채 매입을 보장한다고 판단했습니다 -분](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423358)
 #### [아르헨티나의 2025/26 밀 수확량이 2780 만 톤을 기록했다고 거래소는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423356)
 #### [옹호 단체, 미국 항소법원 판사의 법률 사무원 학대 혐의 고발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423354)
 #### [달러, 연준 의사록 이후 상승세 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423353)
@@ -61,7 +65,3 @@
 #### [EUR/USD-Bull은 초기 미국 달러 상승에서 회복할 수 없습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423307)
 #### [독일 은행 금고에 침입해 수백만 달러를 훔친 도둑들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423302)
 #### [미국 의원들은 대만 주변에서 중국의 군사 훈련을 '고의적 확대'라고 부릅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423300)
-#### [브라질의 볼 소나로가 딸꾹질 치료를위한 새로운 절차를 거쳤습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423301)
-#### [멕시코, 목요일부터 중국에 대한 관세 인상?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423298)
-#### [AUD/USD-엔 매도, 강세장 회복에 도움이 되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423299)
-#### [미국 법무부, 이민자를위한 주내 수업료 문제로 버지니아 주를 고소하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423296)
