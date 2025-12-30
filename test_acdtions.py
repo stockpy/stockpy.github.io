@@ -24,6 +24,9 @@ def __NEWS(SECTION) :
     output = open(File_Name, 'w+t')
 
     print("############# 1")
+    print(File_Name)
+    output_path = os.environ.get("GITHUB_OUTPUT")
+    print(output_path)
     
     for i in range(1,8) :
         if Break_Stop == 1 :
