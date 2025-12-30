@@ -1,5 +1,5 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_0925 </title></head>
-<center>Vers : 20251230_0925 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_0947 </title></head>
+<center>Vers : 20251230_0947 </center>
 <br><br><br>
 #### [많이 벌면 내년부터 혜택없다… '3000만원' 비과세 막차타려면](https://m.stock.naver.com/news/ranknews/view/008/0005298290)
 #### [3조→970만원 '와르르' 개미들 눈물…주가 11% 하락, 정체는](https://m.stock.naver.com/news/ranknews/view/243/0000090342)
@@ -61,8 +61,8 @@
 #### [2026년 달라지는 금융, 주담대 줄이고 첨단산업에 30조 푼다…청년미래적금도 출시](https://m.stock.naver.com/news/ranknews/view/088/0000989511)
 #### ['12만전자'·'65만닉스'…삼성전자·SK하이닉스 장중 신고가](https://m.stock.naver.com/news/ranknews/view/003/0013682911)
 #### [4세대 실손 손해율 150% 육박…내년엔 보험료 7.8% 오른다](https://m.stock.naver.com/news/ranknews/view/016/0002579052)
-<head><meta charset="utf-8"><title>Vers : 20251230_0925 </title></head>
-<center>Vers : 20251230_0925 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_0947 </title></head>
+<center>Vers : 20251230_0947 </center>
 <br><br><br>
 #### [서부T&D, 2.7조 자산재평가에 주가 ‘방긋’... 늘어나는 대차거래 잔고, 공매도 우려도](https://m.stock.naver.com/news/ranknews/view/366/0001133227)
 #### [올해 코스피 상승률 75.6%…G20·OECD 1위…전기·전자 등 견인](https://m.stock.naver.com/news/ranknews/view/001/0015821431)
