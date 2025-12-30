@@ -1,5 +1,5 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_1420 </title></head>
-<center>Vers : 20251230_1420 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_1447 </title></head>
+<center>Vers : 20251230_1447 </center>
 <br><br><br>
 #### [많이 벌면 내년부터 혜택없다… '3000만원' 비과세 막차타려면](https://m.stock.naver.com/news/ranknews/view/008/0005298290)
 #### [3조→970만원 '와르르' 개미들 눈물…주가 11% 하락, 정체는](https://m.stock.naver.com/news/ranknews/view/243/0000090342)
@@ -61,8 +61,8 @@
 #### [금융위, 두나무·빗썸·코인원·코빗 '대주주 지분율 제한' 추진](https://m.stock.naver.com/news/ranknews/view/018/0006192331)
 #### [타이거리서치 "내년 알트코인 낙수효과 없을 것…비트코인·이더리움에 집중"](https://m.stock.naver.com/news/ranknews/view/119/0003042518)
 #### [김성식 변호사 예보 사장, 김은경 교수 서금원장 내정](https://m.stock.naver.com/news/ranknews/view/030/0003385506)
-<head><meta charset="utf-8"><title>Vers : 20251230_1420 </title></head>
-<center>Vers : 20251230_1420 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_1447 </title></head>
+<center>Vers : 20251230_1447 </center>
 <br><br><br>
 #### [HLB바이오스텝, HLB이노 지분 확대…"차세대 CAR-T에 베팅"](https://m.stock.naver.com/news/ranknews/view/008/0005298480)
 #### [‘12만 전자·64만 닉스’ 현실로…내년 초 ‘역대급 호황’ 예고](https://m.stock.naver.com/news/ranknews/view/014/0005455617)
