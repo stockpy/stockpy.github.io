@@ -1,5 +1,5 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_1521 </title></head>
-<center>Vers : 20251230_1521 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_1544 </title></head>
+<center>Vers : 20251230_1544 </center>
 <br><br><br>
 #### [많이 벌면 내년부터 혜택없다… '3000만원' 비과세 막차타려면](https://m.stock.naver.com/news/ranknews/view/008/0005298290)
 #### [금값, 오늘이 가장 싸다더니…'14% 급락' 무슨 일이 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005230972)
@@ -61,8 +61,8 @@
 #### [기업공시 [12월 30일]](https://m.stock.naver.com/news/ranknews/view/011/0004573067)
 #### [HLB바이오스텝, HLB이노 지분 확대…"차세대 CAR-T에 베팅"](https://m.stock.naver.com/news/ranknews/view/008/0005298480)
 #### [손절해도 '세금'...증권거래세 부활에 두 번 우는 단타 개미들](https://m.stock.naver.com/news/ranknews/view/008/0005298468)
-<head><meta charset="utf-8"><title>Vers : 20251230_1521 </title></head>
-<center>Vers : 20251230_1521 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_1544 </title></head>
+<center>Vers : 20251230_1544 </center>
 <br><br><br>
 #### [예보 사장에 李대통령 사시 동기 김성식 변호사](https://m.stock.naver.com/news/ranknews/view/009/0005614139)
 #### [타이거리서치 "내년 알트코인 낙수효과 없을 것…비트코인·이더리움에 집중"](https://m.stock.naver.com/news/ranknews/view/119/0003042518)
