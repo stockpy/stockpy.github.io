@@ -23,13 +23,14 @@ def __NEWS(SECTION) :
     else :
         File_Name = "NEWS/Ranking_NEWS.md"
     output = open(File_Name, 'w+t')
+    print(type)
 
     print("############# 1")
     print(File_Name)
     output_path = os.environ.get("GITHUB_OUTPUT")
     print(output_path)
-    file_list = os.listdir(output_path)
-    print ("file_list: {}".format(file_list))
+    # file_list = os.listdir(output_path)    # Not a directory
+    # print ("file_list: {}".format(file_list))
     
     for i in range(1,8) :
         if Break_Stop == 1 :
@@ -85,6 +86,9 @@ def __NEWS(SECTION) :
     f = open(File_Name, 'r')
     lines = f.readlines()
     print(lines)
+
+    print("# OUTPUT PATH")
+    print(output_path)
 
 __NEWS("Internal")
 __NEWS("Ranking")
