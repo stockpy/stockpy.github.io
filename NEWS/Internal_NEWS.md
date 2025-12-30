@@ -1,6 +1,7 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_2119 </title></head>
-<center>Vers : 20251230_2119 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_2140 </title></head>
+<center>Vers : 20251230_2140 </center>
 <br><br><br>
+#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423378)
 #### [xAI는 Macrohardrr라는 세 번째 건물을 구입했으며 xAI 교육 컴퓨팅을 거의 2GW로 끌어 올릴 것입니다 - Elon Musk](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423377)
 #### [메타, 사기 및 어린이 위험 광고로 미국령 버진아일랜드에서 고소당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423374)
 #### [S&P 500, 나스닥은 휴일 약세 거래로 보합세로 마감, 메타는 거래로 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423375)
@@ -67,4 +68,3 @@
 #### [번스타인, 버켄스탁의 PT를 55달러로 인하하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423320)
 #### [분석-예멘 공격은 사우디아라비아와 UAE 간의 불신의 깊이를 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423321)
 #### [브라질 볼소나루, 딸꾹질 치료 시술 다시 받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423319)
-#### [옥수수, 대두 가공업체 입찰이 꾸준히 강세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423318)
