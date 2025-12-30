@@ -1,16 +1,17 @@
+import requests
 from datetime import datetime
 
 print("# blog python")
 print(datetime.now())
 print("#############")
 
-import requests
-import datetime, time # for sleep
 
-start = time.time()
+# import datetime, time # for sleep
+
 headers={'user-agent': 'Mozilla/5.0'}
 
 DateTime = datetime.today().strftime("%Y%m%d_%H%M")
+print(DateTime)
     
 File_Name = "NEWS.md"
 output = open(File_Name, 'w+t')
@@ -69,5 +70,5 @@ def __NEWS(SECTION) :
                 
     output.close()
 
-__NEWS("Internal")
-__NEWS("Ranking")
+# __NEWS("Internal")
+# __NEWS("Ranking")
