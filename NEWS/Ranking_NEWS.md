@@ -1,5 +1,5 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_1118 </title></head>
-<center>Vers : 20251230_1118 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_1140 </title></head>
+<center>Vers : 20251230_1140 </center>
 <br><br><br>
 #### [많이 벌면 내년부터 혜택없다… '3000만원' 비과세 막차타려면](https://m.stock.naver.com/news/ranknews/view/008/0005298290)
 #### [3조→970만원 '와르르' 개미들 눈물…주가 11% 하락, 정체는](https://m.stock.naver.com/news/ranknews/view/243/0000090342)
@@ -61,8 +61,8 @@
 #### [2025 국내 증시 폐장…삼성전자, SK하이닉스 최고치 경신 [HK영상]](https://m.stock.naver.com/news/ranknews/view/015/0005230790)
 #### [산타랠리보다 ‘1월 효과’… "이익상향·수급개선 반영 종목에 주목"](https://m.stock.naver.com/news/ranknews/view/014/0005456122)
 #### [‘4000피는 상상도 못 했다’…증권사 센터장의 반성문](https://m.stock.naver.com/news/ranknews/view/243/0000090364)
-<head><meta charset="utf-8"><title>Vers : 20251230_1118 </title></head>
-<center>Vers : 20251230_1118 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_1140 </title></head>
+<center>Vers : 20251230_1140 </center>
 <br><br><br>
 #### [소비쿠폰 약발 끝나자 21개월 만에 최대폭 '뚝'…근데 대책이 없다](https://m.stock.naver.com/news/ranknews/view/057/0001927645)
 #### [올해 코스피 75% 뛰었다…韓 증시, G20·OECD 중 ‘최고 성적표’](https://m.stock.naver.com/news/ranknews/view/243/0000090363)
