@@ -1,5 +1,5 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_2318 </title></head>
-<center>Vers : 20251230_2318 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_2340 </title></head>
+<center>Vers : 20251230_2340 </center>
 <br><br><br>
 #### [금값, 오늘이 가장 싸다더니…'14% 급락' 무슨 일이 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005230972)
 #### [3년 치 연봉 준대도 "안 나가요"...보험사 희망퇴직 '버티기' 왜?](https://m.stock.naver.com/news/ranknews/view/008/0005298670)

@@ -1,6 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_2318 </title></head>
-<center>Vers : 20251230_2318 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_2340 </title></head>
+<center>Vers : 20251230_2340 </center>
 <br><br><br>
+#### [중국에 본사를 둔 OmniVision Integrated Circuits, 홍콩 상장을 통해 최대 6억 1,700만 달러 조달 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423481)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2097.HK/total>
+#### [반다 파마슈티컬스, 네레우스(트레이디피탄트)의 FDA 승인 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423482)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNDA.O/total>
+#### [스타라이트 미국 주거 투자 LP, 구조조정 거래 완료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423483)
+#### [미국 FDA, 반다 파마슈티컬스의 멀미약 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423480)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNDA.O/total>
+#### [옴니비전 인테그레이티드 회로, 글로벌 공모에서 4580만 주 미만 공모 주식 수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423479)
+#### [기가디바이스 반도체, 글로벌 공모에 따른 공모 주식 수 2,890만 H-주 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423475)
+#### [미니막스 그룹, 글로벌 공모 청약 주식 수 2,540만 주에 달한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423477)
+#### [마스 사워가 1년 만에 최저치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423478)
+#### [조용한 휴일 거래에서 미국 평야 HRW 밀-기초 보합세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423476)
 #### [중국 기반 기가디바이스 반도체, 홍콩 IPO로 6억 달러 이상 모금 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423473)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603986.SS/total>
 #### [독일 메르츠 총리는 유럽에 평화와 번영을 지키기 위해 스스로를 주장하라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423471)
@@ -73,14 +85,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603501.SS/total>
 #### [아이소에너지, 프리미어 아메리칸 우라늄의 추가 증권 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423445)
 #### [프로파운드 메디컬, 사모 투자 유치 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423411)
-#### [파트너스 밸류 인베스트먼트, 일반 코스 발행사 입찰 갱신 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423418)
-#### [엠마우스 라이프 사이언스, 네오이뮤네텍과 라이선스 및 유통 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423421)
-#### [엘로메이 캐피털, 9월 30일로 마감된 3분기 및 9개월 실적 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423410)
-#### [스마트 파워르, 주주 매각을 통한 주식 재판매를 위한 투자 설명서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423417)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CREG.O/total>
-#### [맘다니, 트럼프 비판가인 드 블라시오 동문을 뉴욕 최고의 변호사로 영입하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423424)
-#### [스탤리온 우라늄, 플로우스루 파이낸싱 증액 발표 및 사모 발행 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423409)
-#### [Ayr Wellness, 리더십 업데이트 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423416)
-#### [젤렌스키, 트럼프와 우크라이나 주둔 미군에 대해 논의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423423)
-#### [퓨얼셀 에너지, 최대 2억 달러의 보통주 공모 신청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423414)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FCEL.O/total>
