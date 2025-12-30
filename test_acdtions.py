@@ -12,9 +12,6 @@ headers={'user-agent': 'Mozilla/5.0'}
 
 DateTime = datetime.today().strftime("%Y%m%d_%H%M")
 print(DateTime)
-    
-File_Name = "NEWS.md"
-output = open(File_Name, 'w+t')
 
 def __NEWS(SECTION) :
 
@@ -25,10 +22,12 @@ def __NEWS(SECTION) :
         File_Name = "NEWS/Ranking_NEWS.md"
     output = open(File_Name, 'w+t')
 
+    print("############# 1")
+    
     for i in range(1,8) :
         if Break_Stop == 1 :
             break
-        
+        print("############# 2")
         if SECTION == "Internal" :
             url = 'https://api.stock.naver.com/news/worldNews?pageSize=60&page='+str(i)
         else :
@@ -37,7 +36,9 @@ def __NEWS(SECTION) :
 
         req = requests.get(url, headers=headers)
         j = json.loads(req.text) # to Dictionary
-
+        
+        print("############# 3")
+        
         if len(j) == 0 :
             break
 
@@ -52,6 +53,7 @@ def __NEWS(SECTION) :
             if val['dt'][:8] != DateTime :
                 print("# Date NOT OK")
                 Break_Stop = 1
+                
             if SECTION == "Internal" :
                 if len(val['relatedItems']) > 0 :
                     print("#### %s(https://m.stock.naver.com/news/worldnews/view/fnGuide/%s)\n" % (val['tit'], val['aid']))
@@ -67,8 +69,10 @@ def __NEWS(SECTION) :
                 print("#### [%s](https://m.stock.naver.com/news/ranknews/view/%s/%s)\n" % (val['tit'], val['oid'], val['aid']))
                 output.write("#### [%s](https://m.stock.naver.com/news/ranknews/view/%s/%s)\n" % (val['tit'], val['oid'], val['aid']))
                 # https://m.stock.naver.com/api/news/item/008/0004722452
-                
+
+        print("############# 4")
+    
     output.close()
 
-# __NEWS("Internal")
-# __NEWS("Ranking")
+__NEWS("Internal")
+__NEWS("Ranking")
