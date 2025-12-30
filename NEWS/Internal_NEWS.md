@@ -1,6 +1,34 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_2219 </title></head>
-<center>Vers : 20251230_2219 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_2243 </title></head>
+<center>Vers : 20251230_2243 </center>
 <br><br><br>
+#### [프로파운드 메디컬, 사모 투자 유치 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423411)
+#### [파트너스 밸류 인베스트먼트, 일반 코스 발행사 입찰 갱신 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423418)
+#### [엠마우스 라이프 사이언스, 네오이뮤네텍과 라이선스 및 유통 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423421)
+#### [엘로메이 캐피털, 9월 30일로 마감된 3분기 및 9개월 실적 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423410)
+#### [스마트 파워르, 주주 매각을 통한 주식 재판매를 위한 투자 설명서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423417)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CREG.O/total>
+#### [맘다니, 트럼프 비판가인 드 블라시오 동문을 뉴욕 최고의 변호사로 영입하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423424)
+#### [스탤리온 우라늄, 플로우스루 파이낸싱 증액 발표 및 사모 발행 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423409)
+#### [Ayr Wellness, 리더십 업데이트 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423416)
+#### [젤렌스키, 트럼프와 우크라이나 주둔 미군에 대해 논의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423423)
+#### [퓨얼셀 에너지, 최대 2억 달러의 보통주 공모 신청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423414)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FCEL.O/total>
+#### [센티넬 시큐리티 생명 보험 회사와 애틀랜틱 코스트 생명 보험 회사, 데이터 보안 이벤트 공지 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423415)
+#### [유로맥스, 비중개 사모펀드 첫 번째 트랜치 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423422)
+#### [FCPT, 유나이티드 렌탈과 버팔로 와일드 윙스 부동산을 540만 달러에 인수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423413)
+#### [중국 미니맥스, 홍콩 IPO에서 5억 3,900만 달러 모금 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423420)
+#### [로미코 메탈, 플로우스루 파이낸싱 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423408)
+#### [앙가미, 2025년 상반기 재무 결과 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423412)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ANGH.O/total>
+#### [미국 항소법원, 학교의 반인종주의 교육에 대한 언론의 자유 문제 제기 부활](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423419)
+#### [Fcpt, 버팔로 와일드 윙스 부동산 280만 달러에 인수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423407)
+#### [법원, 22개 주에서 트럼프가 지지하는 Planned Parenthood의 메디케이드 자금 삭감 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423402)
+#### [독일 은행 금고에 침입해 수백만 달러를 훔친 도둑들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423404)
+#### [브라질 페츠: 주주 세르지오 지머만, 지분 38.55%로 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423406)
+#### [사보로소, 2,500만 달러에 KFC 브라질 잔여 지분 매입권 행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423401)
+#### [머스크의 xAI, AI 컴퓨팅 파워 확장을 위해 세 번째 건물 매입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423405)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
+#### [대두 바지선 기준 인근 선적량 하락세로 전환, 옥수수 입찰 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423403)
 #### [WF 인터내셔널, 최저 입찰 가격 미달에 관한 나스닥 통지서 접수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423397)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WXM.O/total>
 #### [리얼파, RSU 인센티브와 함께 국가 대출 책임자 모집 프로그램 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423399)
@@ -44,29 +72,3 @@
 #### [CBOT 대두는 하락하지만 중국 구매는 무게가 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423366)
 #### [로펌 클리어리 고틀립, 행동주의 실천을 위해 알스하이머를 고용하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423365)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BL.O/total>
-#### [2026년 프록터 앤 갬블이 '다크호스'가 될 것이라고 포트폴리오 매니저는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423362)
-#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423363)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.SSEC>
-#### [캐나다 은행, 최대 5억 캐나다 달러 규모의 채권 매입 - RTRS](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423364)
-#### [멕시코, 11월 2,521.5억 페소 적자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423361)
-#### [연준 정책 입안자들이 '충분한' 수준의 준비금으로 법안 구매를 보장한다고 판단한 회의록에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423360)
-#### [테네시 라인 근처에서 유독성 유황을 실은 CSX 열차가 탈선했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423359)
-#### [CBOT 밀의 글로벌 공급 감소, 평화 회담 진전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423357)
-#### [연준 정책 입안자들은 '충분한' 수준의 준비금 보유가 국채 매입을 보장한다고 판단했습니다 -분](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423358)
-#### [아르헨티나의 2025/26 밀 수확량이 2780 만 톤을 기록했다고 거래소는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423356)
-#### [옹호 단체, 미국 항소법원 판사의 법률 사무원 학대 혐의 고발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423354)
-#### [달러, 연준 의사록 이후 상승세 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423353)
-#### [미국 천연가스 선물은 추운 날씨 전망에 4% 상승했지만 보합세로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423355)
-#### [미국 북서부 강 유량 최대 98% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423351)
-#### [JFK의 손녀 타티아나 슐로스버그, 희귀한 형태의 백혈병으로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423352)
-#### [나키키 SE, 리걸 파이낸스 SE 지분 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423350)
-#### [칠레의 25억 달러 규모의 볼타 그린 암모니아 프로젝트, 환경 허가 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423347)
-#### [메타, 고급 AI 강화를 위해 중국 스타트업 마누스 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423348)
-#### [미국 요약: 달러가 한 주 최고치를 기록하면서 EUR / USD가 압박을받습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423349)
-#### [브라질, 실업률이 2012년 이후 최저치를 기록하면서 라틴아메리카 외환이 상승세를 주도합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423342)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BVSP>
-#### [아시아 외환 시장 오픈 - 12월 31일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423340)
-#### [골드 리바운드, 40년 만에 최고의 해를 마무리할 준비 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423345)
-#### [아르헨티나의 2025/26 밀 수확량이 기록적인 2780 만 톤을 기록했다고 거래소는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423341)
-#### [JFK의 손녀 타티아나 슐로스버그, 백혈병 진단 후 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423339)
-#### [그린쉴드, 애니엑스 리스크의 소터를 CUO로 영입하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423344)
