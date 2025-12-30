@@ -1,6 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_1916 </title></head>
-<center>Vers : 20251230_1916 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_1937 </title></head>
+<center>Vers : 20251230_1937 </center>
 <br><br><br>
+#### [S&P 500, 나스닥은 휴일 거래로 약세, 메타는 거래로 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423337)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [GBP/USD가 1주일 만에 최저치로 떨어졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423335)
+#### [디즈니는 아동 개인 정보 보호법 위반 혐의를 해결하기 위해 천만 달러를 지불하기로 합의했다고 법무부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423333)
+#### [소 122,000마리, 돼지 492,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423336)
+#### [칠레의 25억 달러 규모의 볼타 그린 암모니아 프로젝트, 환경 허가 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423334)
+#### [웨이모는 네바다 주로부터 승인을 받았으며 라스베가스에서 운전대를 잡은 운전자와 함께 자율 테스트를 시작했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423328)
+#### [테네시 주 멤피스 외곽에 계획 중인 세 번째 초대형 데이터 센터를 위한 건물을 매입한 BRIEF-xAI - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423329)
+#### [정전 후 채널 터널이 다시 열립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423331)
+#### [영국, 대만 주변에서 중국의 군사 훈련에 대한 자제 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423327)
+#### [Fed 관계자들은 12월 회의에서 깊은 분열을 보였습니다 - 회의록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423332)
+#### [미국 주식의 움직임 - 몰리나 헬스케어, BHP 그룹, 트윌리오](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423330)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EKSO.O/total>
 #### [미국 사이버 전문가 2명, 악명 높은 랜섬웨어 조직과 협력한 혐의 유죄 인정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423326)
 #### [디즈니, 아동 개인정보 보호법 위반 혐의로 1,000만 달러 벌금 및 금지 명령에 합의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423324)
 #### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423325)
@@ -53,15 +66,3 @@
 #### [노퍽 서던, 시카고 랜더스 복합 운송 시설에서 상업용 정전 발생했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423280)
 #### [영국 FTSE 100, 연말 거래 부진으로 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423279)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
-#### [가솔린 정제 이익률 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423276)
-#### [하이로리스 파마슈티컬스, 아보메드로부터 윌슨병 치료제에 대한 유럽 및 터키 내 독점 라이선스권 획득했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423275)
-#### [네덜란드 경찰, IS 대원 및 공격 계획 혐의로 시리아 남성 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423278)
-#### [사우스 캐롤라이나의 홍역 사례가 20 건에서 176 건으로 증가했다고 주 보건부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423264)
-#### [WTI 상승, 40달러 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423269)
-#### [제니아 호텔러리 솔루션, 약 240만 유로에 호텔 팔리오 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423274)
-#### [브라질, 11월에 예상보다 많은 공식 일자리 창출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423263)
-#### [노르웨이의 Gassco, 계획되지 않은 가스 공급 중단 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423268)
-#### [휴고 보스, 소시에테 제네랄 SA, 총 의결권 및 상품 중 0.00% 보유(이전 5.12%)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423273)
-#### [미국 최고 외교관 루비오, 예멘에 대해 사우디 카운터 파트와 대화, 국무부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423266)
-#### [엔비디아, 이스라엘의 AI21 연구소를 최대 30억 달러에 인수하기 위해 사전 협의 중, 보고서에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423267)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
