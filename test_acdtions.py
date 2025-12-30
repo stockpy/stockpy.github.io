@@ -28,6 +28,8 @@ def __NEWS(SECTION) :
     print(File_Name)
     output_path = os.environ.get("GITHUB_OUTPUT")
     print(output_path)
+    file_list = os.listdir(output_path)
+    print ("file_list: {}".format(file_list))
     
     for i in range(1,8) :
         if Break_Stop == 1 :
@@ -78,6 +80,11 @@ def __NEWS(SECTION) :
         print("############# 4")
     
     output.close()
+
+    print(File_Name)
+    f = open(File_Name, 'r')
+    lines = f.readlines()
+    print(lines)
 
 __NEWS("Internal")
 __NEWS("Ranking")
