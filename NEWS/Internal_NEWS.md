@@ -1,6 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20251230_2044 </title></head>
-<center>Vers : 20251230_2044 </center>
+<head><meta charset="utf-8"><title>Vers : 20251230_2119 </title></head>
+<center>Vers : 20251230_2119 </center>
 <br><br><br>
+#### [xAI는 Macrohardrr라는 세 번째 건물을 구입했으며 xAI 교육 컴퓨팅을 거의 2GW로 끌어 올릴 것입니다 - Elon Musk](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423377)
+#### [메타, 사기 및 어린이 위험 광고로 미국령 버진아일랜드에서 고소당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423374)
+#### [S&P 500, 나스닥은 휴일 약세 거래로 보합세로 마감, 메타는 거래로 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423375)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [토론토 증권 거래소 비공식 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423376)
+#### [연준 의사록에서 깊은 분열이 드러나면서 BUZZ-AUD/USD가 통합됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423369)
+#### [12월 30일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423370)
+#### [미국산 오일 및 지방 - 12월 30일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423371)
+#### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423373)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [ICE 카놀라 선물 상승, 박스권 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423372)
+#### [모기지, 자동차 대출은 2026 년에 소비자를 압박 할 수 있다고 시장 전문가는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423368)
+#### [CBOT 옥수수, 남미 대규모 작황 기대에 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423367)
+#### [CBOT 대두는 하락하지만 중국 구매는 무게가 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423366)
+#### [로펌 클리어리 고틀립, 행동주의 실천을 위해 알스하이머를 고용하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423365)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BL.O/total>
+#### [2026년 프록터 앤 갬블이 '다크호스'가 될 것이라고 포트폴리오 매니저는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423362)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423363)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.SSEC>
+#### [캐나다 은행, 최대 5억 캐나다 달러 규모의 채권 매입 - RTRS](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423364)
+#### [멕시코, 11월 2,521.5억 페소 적자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423361)
 #### [연준 정책 입안자들이 '충분한' 수준의 준비금으로 법안 구매를 보장한다고 판단한 회의록에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423360)
 #### [테네시 라인 근처에서 유독성 유황을 실은 CSX 열차가 탈선했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423359)
 #### [CBOT 밀의 글로벌 공급 감소, 평화 회담 진전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423357)
@@ -47,21 +68,3 @@
 #### [분석-예멘 공격은 사우디아라비아와 UAE 간의 불신의 깊이를 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423321)
 #### [브라질 볼소나루, 딸꾹질 치료 시술 다시 받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423319)
 #### [옥수수, 대두 가공업체 입찰이 꾸준히 강세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423318)
-#### [미국 시추 업체, 2 주 연속 석유, 가스 굴착 장치 추가, 베이커 휴즈는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423313)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
-#### [피어리스 칼슨, 5번째? 신속하고 전격적인 더블 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423317)
-#### [노퍽 서던, 시카고 시설 운영에 미치는 날씨 영향을 알리는 깃발 꽂기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423311)
-#### [판사, 브라운앤브라운의 하우덴에 대한 TRO 승인, 헤이스는 '급습' 혐의에 관여하지 않았다고 주장 300](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423312)
-#### [멕시코 열차 탈선 사고, 대형 프로젝트의 안전에 대한 셰인바움의 압박 가중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423316)
-#### [초반 상승 후 다시 박스권으로 돌아온 BUZZ-USD/JPY](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423310)
-#### [중국의 매수로 미국 대두 선물 시장 안정; 곡물 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423314)
-#### [뉴욕 연준, 리버스 리포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423315)
-#### [이란 정부, 시위가 대학으로 확산되자 대화 제의?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423306)
-#### [인도, 값싼 수입을 억제하기 위해 일부 철강 제품에 3년간 관세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423309)
-#### [젤렌스키, 트럼프와 우크라이나 주둔 미군에 대해 논의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423304)
-#### [아르헨티나의 젠니아, 멘도사에 1억 8천만 달러 규모의 태양광 발전소 개장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423305)
-#### [미국 석유 굴착장비 수 412개로 3개 증가 - Baker Hughes](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423308)
-#### [미국 천연가스 굴착장비 수가 125개로 2개 감소 - Baker Hughes](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423303)
-#### [EUR/USD-Bull은 초기 미국 달러 상승에서 회복할 수 없습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423307)
-#### [독일 은행 금고에 침입해 수백만 달러를 훔친 도둑들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423302)
-#### [미국 의원들은 대만 주변에서 중국의 군사 훈련을 '고의적 확대'라고 부릅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2423300)
