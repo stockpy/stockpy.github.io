@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_2022 </title></head>
-<center>Vers : 20251231_2022 </center>
-<center>Vers : 20260101_0522 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_2043 </title></head>
+<center>Vers : 20251231_2043 </center>
+<center>Vers : 20260101_0543 </center>
 <br><br><br>
+#### [러시아, 키예프 공격 혐의에 대해 이의를 제기하는 비디오 영상 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424266)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424267)
+#### [니만 마커스를 인수하기 위해 인수 한 부채에 대한이자 지불을 놓친 후 몇 주 안에 파산 신청 준비중인 BRIEF-Saks Global - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424265)
 #### [국내 원유 재고가 감소하면서 미국 서부텍사스산원유 등급이 상승세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424264)
 #### [거시적 트렌드가 암호화폐에 부담을 주면서 2022년 이후 처음으로 연간 손실이 예상되는 비트코인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424262)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
@@ -66,7 +69,3 @@
 #### [아폴로, 알래스카 구매자에게 코인스타 매각, 채권 상환 예정 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424211)
 #### [미국 주간 전력 생산량이 전년 동기 대비 1.1% 감소했다고 EEI는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424209)
 #### [USDA 11 월 대두 크러쉬는 2 억 2,523 만 9 천만 부셸로 분석가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424204)
-#### [미국 데이터는 새해에도 상승세를 이어가고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424206)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424208)
-#### [월스트리트는 기술 무게가 계속 증가함에 따라 하락하지만 연간 이익에 가까워집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424203)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNDA.O/total>
