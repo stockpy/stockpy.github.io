@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_1625 </title></head>
-<center>Vers : 20251231_1625 </center>
-<center>Vers : 20260101_0125 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_1649 </title></head>
+<center>Vers : 20251231_1649 </center>
+<center>Vers : 20260101_0149 </center>
 <br><br><br>
+#### [인도, 저회분탄 코크스 수입에 잠정 반덤핑 관세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424180)
+#### [?미국 포장 식품 제조업체, 수요 부진으로 2025년 부진 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424182)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BYND.O/total>
+#### [미국 17주물 고금리 3.540%](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424181)
+#### [스위스 SNB, 3분기 외화 매입 규모 대폭 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424179)
+#### [폴로니아 요금은 변동 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424177)
+#### [미국 17주 지폐에 대한 비경쟁 입찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424178)
 #### [프랑스, 2026년 9월부터 15세 미만 청소년의 소셜 미디어 사용을 금지한다고 르몽드가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424174)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
 #### [중국 AI 칩 회사 비렌, 홍콩 IPO에서 7억 1,700만 달러 조달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424173)
@@ -66,17 +73,9 @@
 #### [Mtt 그룹, 홍콩 후이랑 기술 8,750만 홍콩달러에 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424124)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2350.HK/total>
 #### [미국 일부 항공사는 2025년 고공 비행, 소규모 경쟁사는 난기류에 직면하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424123)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
 #### [트럼프 미디어, 주주들에게 새로운 디지털 토큰 배포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424119)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DJT.O/total>
 #### [글로벌 과잉 생산과 유로화 강세로 2025년 EU 밀 가격이 20% 하락할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424128)
 #### [파로스 에너지, 이집트 석유공사로부터 2,000만 달러 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424118)
 #### [북해산 원유 등급 안정적, 거래 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424127)
-#### [시진핑, 신년 메시지에서 중국의 통일은 멈출 수 없다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424121)
-#### [미국 8주물 고금리 3.580%](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424117)
-#### [미국 4주물 고금리 3.590%](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424126)
-#### [베이징 로보락 테크놀로지, 홍콩 상장 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424120)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688169.SS/total>
-#### [열차 탈선 사고 후 켄터키에서 운영을 복구한 CSX](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424122)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CSX.O/total>
-#### [US 정유사, S&P 500 에너지 섹터 아웃퍼폼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424125)
