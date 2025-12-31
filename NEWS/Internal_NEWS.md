@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_2319 </title></head>
-<center>Vers : 20251231_2319 </center>
-<center>Vers : 20260101_0819 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_2341 </title></head>
+<center>Vers : 20251231_2341 </center>
+<center>Vers : 20260101_0841 </center>
 <br><br><br>
+#### [월스트리트는 2025 년 마지막 세션을 하락세로 마감했지만 연간 큰 상승세를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424368)
+#### [젤렌스키, 전쟁을 장기화할 뿐인 약한 협상에 서명하지 않겠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424367)
+#### [우크라이나, EU 관리들, 푸틴 관저 공격 혐의 일축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424366)
 #### [벤지 테크놀로지스, 재스퍼 PIM 솔루션 사업 인수 거래 완료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424362)
 #### [토마 골드, 초과 청약 된 플로우 스루 사모, 신규 사모 및 스톡 옵션 부여 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424364)
 #### [펜타곤, 록히드 마틴, 3 억 2850 만 달러 대만 군사 판매 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424365)
@@ -81,6 +84,3 @@
 #### [미 해안 경비대, 마약 의심 선박에 대한 공격 후 생존자 수색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424310)
 #### [미국 원자력 발전소 정전 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424311)
 #### [수요일에 미국 원자력 발전 용량이 2,828MW로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424307)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424308)
-#### [시카고 대두는 하락하지만 3 년 만에 처음으로 연간 상승을 달성합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424309)
-#### [젤렌스키, 전쟁을 연장할 뿐인 약한 협상은 체결하지 않겠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424302)

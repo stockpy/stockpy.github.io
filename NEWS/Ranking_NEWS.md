@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_2319 </title></head>
-<center>Vers : 20251231_2319 </center>
-<center>Vers : 20260101_0819 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_2341 </title></head>
+<center>Vers : 20251231_2341 </center>
+<center>Vers : 20260101_0841 </center>
 <br><br><br>
 #### [“금·은값만 난리인 줄 알았더니”…한 달 새 34% 폭등한 ‘이것’](https://m.stock.naver.com/news/ranknews/view/016/0002579601)
 #### [뉴욕증시, '위험 회피' 클로징벨…S&P500, 한해 16% 뛰었다](https://m.stock.naver.com/news/ranknews/view/215/0001236378)
