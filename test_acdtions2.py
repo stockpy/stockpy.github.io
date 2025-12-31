@@ -252,6 +252,7 @@ def __KO_ETF_Allocation() :
         # print(ETF_Price_List[:250]) # 1년 52주 중에서 52*주말 2일 = 104일(주말) + 공휴일까지 대충 110 빼서 1년을 250일
 
         print(ETF_Symbol)
+        print(ETF_Symbol_List)
         print(ETF_Symbol_List.index(ETF_Symbol))
         print(ETF_Symbol_List[ETF_Symbol_List.index(ETF_Symbol)])
         
