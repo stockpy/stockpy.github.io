@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_0326 </title></head>
-<center>Vers : 20251231_0326 </center>
-<center>Vers : 20251231_1226 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_0413 </title></head>
+<center>Vers : 20251231_0413 </center>
+<center>Vers : 20251231_1313 </center>
 <br><br><br>
 #### [주가 160% 뛰더니…"다시는 안 산다" 개미들 울린 회사 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005231133)
 #### [금값, 오늘이 가장 싸다더니…'14% 급락' 무슨 일이 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005230972)
