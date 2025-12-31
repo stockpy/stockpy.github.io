@@ -1,7 +1,47 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_2220 </title></head>
-<center>Vers : 20251231_2220 </center>
-<center>Vers : 20260101_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_2244 </title></head>
+<center>Vers : 20251231_2244 </center>
+<center>Vers : 20260101_0744 </center>
 <br><br><br>
+#### [태평양 연안 석유 신탁, 월별 순이익 이자 계산 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424330)
+#### [헛 8 코퍼레이션 유닛, 수정 및 재작성된 신용 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424332)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HUT.O/total>
+#### [최대 1,410만 주의 클래스 A 보통주 공모를 위한 간략한 증권신고서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424327)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CELU.O/total>
+#### [넥스테라 에너지, 보통주를 최대 40억 달러에 매각하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424329)
+#### [리버티, 상장 발행사 금융 면제 (생명) 오퍼링의 초기 트랜치 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424331)
+#### [코디악 에이아이, 선순위 부채 시설 리파이낸싱 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424326)
+#### [루비코, 신조 메가 요트 인수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424338)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RUBI.O/total>
+#### [알보텍, 1억 달러 규모의 장기 대출 시설 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424335)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ALVO.O/total>
+#### [한국자원공사, 정리계획 인가 및 기업공개 최종 명령 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424325)
+#### [사렙타 테라퓨틱스, 나스닥 상장 규정 5635(C)(4)에 따른 유도 보조금 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424337)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SRPT.O/total>
+#### [인텔리전트 바이오 솔루션, 나스닥 규정에 따라 1,000만 달러 규모의 사모 발행 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424334)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INBS.O/total>
+#### [국방부, 록히드 마틴, 3 억 2850 만 달러 대만 군사 판매 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424328)
+#### [폐기물 연결, 2026년 가격 주도 유기적 성장 및 인수로 한 자릿수 중반의 매출 성장 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424336)
+#### [바오, 미국 IPO 계획 철회 서류 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424333)
+#### [퍼스트 파이낸셜 뱅코프, 뱅크파이낸셜 인수 완료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424317)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FFBC.O/total>
+#### [룬딘 골드 주식 자본 및 의결권 업데이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424321)
+#### [메렌, 주식 자본 업데이트 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424324)
+#### [머스탱, 비중개 사모 공모 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424316)
+#### [매각 주주에 의한 보통주 재판매와 관련된 BRIEF-SMX 파일 투자 설명서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424320)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMX.O/total>
+#### [라이온 원 메탈스, 즉시 효력이 발생하는 CEO 이안 버진스 퇴임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424323)
+#### [아웃룩 테라퓨틱스, 미국 FDA가 안과 질환 치료제를 거부한 후 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424315)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OTLK.O/total>
+#### [SPDR 금 보유량 0.13% 또는 1.43톤 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424319)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLD/total>
+#### [보잉, 아파치 헬리콥터 지원을위한 27 억 달러 계약 체결, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424322)
+#### [미국 주식: 변동성이 큰 2025년에 대한 장부 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424318)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MDLN.O/total>
+#### [옥수수, 대두 기준 입찰이 빈 바지선 운임 상승으로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424313)
+#### [펀드, CBOT 대두 및 밀 선물 순매도, 트레이더들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424312)
+#### [연휴를 앞두고 밀 선물이 하락하면서 미국 평야 HRW 밀 베이시스가 보합세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424314)
+#### [미 해안 경비대, 마약 의심 선박에 대한 공격 후 생존자 수색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424310)
+#### [미국 원자력 발전소 정전 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424311)
 #### [수요일에 미국 원자력 발전 용량이 2,828MW로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424307)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424308)
 #### [시카고 대두는 하락하지만 3 년 만에 처음으로 연간 상승을 달성합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424309)
@@ -41,36 +81,3 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424280)
 #### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424281)
 #### [미국, 중국으로의 미국 칩 제조 도구 선적에 대한 TSMC의 연례 승인 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424278)
-#### [12월 31일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424277)
-#### [미국산 오일 및 지방 - 12월 31일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424279)
-#### [ICE 카놀라 선물은 2025년 시작과 비슷한 연말까지 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424270)
-#### [브리지워터의 대표 펀드인 퓨어 알파가 2025년 33% 급등하며 대형 헤지펀드 동종 업체를 앞질렀습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424276)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
-#### [철도, 연휴 앞두고 트럭 기준 안정적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424271)
-#### [투기꾼들이 옥수수 순매도 포지션 정리 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424275)
-#### [투기꾼들이 미국 원유 순매도를 줄인다-CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424269)
-#### [펀드 매니저들은 최근 한 주 동안 S&P 500 선물 순매수 포지션을 줄였습니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424273)
-#### [CBOT 대두는 수요 약세로 하락했지만 올해에는 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424268)
-#### [하와이주 공공요금 위원회, 하와이 전기 산불 완화 계획 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424274)
-#### [미국, 중국으로의 칩 제조 도구 수출을 위해 TSMC에 연례 승인 부여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424272)
-#### [러시아, 키예프 공격 혐의에 대해 이의를 제기하는 비디오 영상 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424266)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424267)
-#### [니만 마커스를 인수하기 위해 인수 한 부채에 대한이자 지불을 놓친 후 몇 주 안에 파산 신청 준비중인 BRIEF-Saks Global - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424265)
-#### [국내 원유 재고가 감소하면서 미국 서부텍사스산원유 등급이 상승세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424264)
-#### [거시적 트렌드가 암호화폐에 부담을 주면서 2022년 이후 처음으로 연간 손실이 예상되는 비트코인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424262)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
-#### [CBOT 옥수수는 가벼운 거래의 날에 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424263)
-#### [면화 선물이 풍부한 공급과 무역 불확실성으로 4년 연속 하락세를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424261)
-#### [미국 천연가스 선물 보고서가 1월 1일에 발행되지 않습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424260)
-#### [수익률 사냥과 다각화에 힘입어 2025년 기치를 올린 라틴아메리카 FX](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424256)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BVSP>
-#### [마크롱, 2026년 9월부터 15세 미만 청소년의 소셜 미디어 사용을 금지하려 한다고 르몽드가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424257)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [마크롱: 동맹국들은 1월 6일 회의에서 우크라이나 보호에 대한 약속을 할 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424259)
-#### [미국 천연 가스 선물은 정상 이상의 날씨 전망으로 7 % 이상 하락, 연간 상승 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424258)
-#### [미국 곡물 바지선 운임 값은? 12월 31일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424253)
-#### [미국 현금 원유 보고서는 1월 1일, 2일에 발행되지 않습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424254)
-#### [미국 석유 생산량이 10 월에 사상 최고치를 기록했다고 EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424252)
-#### [10월 미국 원유 철도 수송량 30,000배럴 증가 - EIA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424255)
-#### [미국, 새로운 베네수엘라 관련 제재에서 원유 유조선과 기업을 표적으로 삼고 재무부 웹 사이트에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424250)
-#### [미국 석유 생산량이 10 월에 사상 최고치를 기록했다고 EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424249)
