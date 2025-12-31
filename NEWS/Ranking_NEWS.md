@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_0526 </title></head>
-<center>Vers : 20251231_0526 </center>
-<center>Vers : 20251231_1426 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_0548 </title></head>
+<center>Vers : 20251231_0548 </center>
+<center>Vers : 20251231_1448 </center>
 <br><br><br>
 #### ["얘 또 회비 안 냈네" 이제 딱 걸린다…진화하는 '모임통장'[금융현미경]](https://m.stock.naver.com/news/ranknews/view/277/0005700487)
 #### [주가 15% 하락했는데 알고보니 공매도 종목 1위 [이런국장 저런주식]](https://m.stock.naver.com/news/ranknews/view/011/0004573339)
