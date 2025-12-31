@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_1118 </title></head>
-<center>Vers : 20251231_1118 </center>
-<center>Vers : 20251231_2018 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_1139 </title></head>
+<center>Vers : 20251231_1139 </center>
+<center>Vers : 20251231_2039 </center>
 <br><br><br>
 #### [“내년 실손보험 많이 바뀌네”…도수치료 등 보장 빠지고 5세대 출시](https://m.stock.naver.com/news/ranknews/view/009/0005614541)
 #### [5천피 향한 질주…반도체 앞세우고 바이오·로봇으로 지원 사격](https://m.stock.naver.com/news/ranknews/view/009/0005614743)
