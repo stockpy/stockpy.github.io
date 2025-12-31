@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_2118 </title></head>
-<center>Vers : 20251231_2118 </center>
-<center>Vers : 20260101_0618 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_2140 </title></head>
+<center>Vers : 20251231_2140 </center>
+<center>Vers : 20260101_0640 </center>
 <br><br><br>
+#### [미국 FDA, 아웃룩 테라퓨틱스의 안과 질환 치료제 승인 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424286)
+#### [강력한 한 해의 부드러운 마무리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424288)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
+#### [삭스 글로벌, 부채 상환 누락 후 파산 준비, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424287)
+#### [트럼프, 시카고, LA, 포틀랜드에서 주방위군이 철수한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424285)
+#### [토론토 증권 거래소 비공식 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424284)
+#### [월스트리트는 올해 마지막 세션을 하락세로 마감했지만 2025 년에는 큰 연간 상승으로 마감합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424283)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNDA.O/total>
+#### [CBOT 밀은 제한된 거래에서 대규모 글로벌 공급에 속합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424282)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424280)
 #### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424281)
 #### [미국, 중국으로의 미국 칩 제조 도구 선적에 대한 TSMC의 연례 승인 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424278)
@@ -61,10 +70,3 @@
 #### [레볼루션 바 소유주 레벨 콜렉티브, 현금 위기 심화로 신속한 매각 계획-Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424231)
 #### ['주토피아 2', 디즈니 애니메이션 영화 최고 수익 기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424229)
 #### [페루 시장, 정치적 혼란 속에서도 수년 만에 가장 강세를 보이며 2025년 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424227)
-#### [캐나다, 밀라노-코르티나 남자 아이스하키 대표팀 명단 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424228)
-#### [현금 부족에 시달리는 삭스, 채권단과 협상 중 채권 지급 생략 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424230)
-#### [트럼프 행정부, 미네소타주 아동 보육비 지급 동결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424226)
-#### [우크라이나 협상가 우메 로프, 키예프가 안보 고문과의 회담에서 미국, 유럽과 입장을 조정했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424223)
-#### [아시아 외환 시장 오픈 - 1월 2일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424224)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424225)
-#### [뉴욕 연준, 리버스 리포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424222)
