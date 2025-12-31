@@ -1,7 +1,34 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_2140 </title></head>
-<center>Vers : 20251231_2140 </center>
-<center>Vers : 20260101_0640 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_2220 </title></head>
+<center>Vers : 20251231_2220 </center>
+<center>Vers : 20260101_0720 </center>
 <br><br><br>
+#### [수요일에 미국 원자력 발전 용량이 2,828MW로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424307)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424308)
+#### [시카고 대두는 하락하지만 3 년 만에 처음으로 연간 상승을 달성합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424309)
+#### [젤렌스키, 전쟁을 연장할 뿐인 약한 협상은 체결하지 않겠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424302)
+#### [우크라이나, EU 관리, 푸틴 거주지 공격 혐의 일축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424304)
+#### ['주토피아 2'가 디즈니 애니메이션 영화 중 최고 수익 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424305)
+#### ['주토피아 2'가 디즈니 애니메이션 영화 중 최고 수익 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424306)
+#### [버크셔, 버핏의 CEO 마지막 날, 60 년 동안 6,100,000 % 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424303)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
+#### [트럼프, 주 방위군이 시카고, LA, 포틀랜드에서 철수한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424297)
+#### [아르헨티나, 밀 수확량 기록 전망; 중국, 소고기 수입 억제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424300)
+#### [멕시코 주요 주가지수, 2025년 30% 가까이 상승하며 2009년 이후 최고 실적 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424295)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
+#### [월스트리트는 올해 마지막 세션을 하락세로 마감했지만 2025 년에는 큰 연간 상승세를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424296)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNDA.O/total>
+#### [미국 FDA, 아웃룩 테라퓨틱스의 안과 질환 치료제 승인 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424299)
+#### [미국, 우크라이나가 드론 공격에서 푸틴을 표적으로 삼지 않았다는 사실 발견, WSJ 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424294)
+#### [미국 증시, 연간 두 자릿수 상승률 기록하며 최고의 한 해를 마감하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424301)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
+#### [넷플릭스 크리스마스 당일 NFL 스트리밍이 미국 시청률 기록을 세웠습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424298)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
+#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424293)
+#### [미군, 마약 호송 의심 공격으로 3 명이 사망했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424292)
+#### [TSX, 연말 하락에도 불구하고 15년 만에 최대 연간 상승률 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424290)
+#### [2026년 견조할 소형주, CIO는 이렇게 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424289)
+#### [분석-AI 지출, 기업 이익 호조, 연준 금리 인하가 2026년 미국 주식 시장의 핵심으로 꼽히는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424291)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
 #### [미국 FDA, 아웃룩 테라퓨틱스의 안과 질환 치료제 승인 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424286)
 #### [강력한 한 해의 부드러운 마무리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424288)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
@@ -47,26 +74,3 @@
 #### [10월 미국 원유 철도 수송량 30,000배럴 증가 - EIA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424255)
 #### [미국, 새로운 베네수엘라 관련 제재에서 원유 유조선과 기업을 표적으로 삼고 재무부 웹 사이트에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424250)
 #### [미국 석유 생산량이 10 월에 사상 최고치를 기록했다고 EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424249)
-#### [미국 북서부 강 유량이 97%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424251)
-#### [마크롱, 동맹국들이 1월 6일 회의에서 우크라이나 보호에 대한 약속을 할 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424246)
-#### [인도, 2월 1일부터 담배에 소비세를 부과합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424248)
-#### [월스트리트, 기술주 하락, 연간 상승세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424247)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNDA.O/total>
-#### [플로리다 중심의 보험사, 모멘텀 확대로 2025년 고공행진 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424245)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SLDE.O/total>
-#### [미국, 새로운 베네수엘라 관련 제재에서 원유 유조선, 기업 표적, 재무부 웹 사이트에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424244)
-#### [레이몬드 제임스, 구리 전망과 그라스버그 운영 개선에 대해 프리포트-맥모란?PT 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424242)
-#### [제약회사, 트럼프의 압력에도 불구하고 미국 내 350개 의약품 가격 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424240)
-#### [ICE, FCOJ 선물 일일 가격 한도를 파운드당 15센트로 인상합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424243)
-#### [옥수수, 대두 기준, 연휴를 앞두고 혼조세 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424241)
-#### [소 85,000마리, 돼지 418,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424239)
-#### [미국 판사가 온두라스, 네팔 및 니카라과 출신 수천 명의 보호 신분을 종료하려는 트럼프의 움직임을 차단합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424238)
-#### [1월 1일 목요일 귀금속 시장 보고서 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424237)
-#### [인도, 2월 1일부터 담배에 소비세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424233)
-#### [미국 요약: 한 해를 마감하는 달러, 상승세로 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424235)
-#### [연준 매수, 기록적인 레포 시설 이용으로 연말 미국 자금시장 호조 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424236)
-#### [시카고 대두는 하락하지만 3 년 만에 처음으로 연간 상승세를 보일 예정입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424232)
-#### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424234)
-#### [레볼루션 바 소유주 레벨 콜렉티브, 현금 위기 심화로 신속한 매각 계획-Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424231)
-#### ['주토피아 2', 디즈니 애니메이션 영화 최고 수익 기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424229)
-#### [페루 시장, 정치적 혼란 속에서도 수년 만에 가장 강세를 보이며 2025년 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424227)
