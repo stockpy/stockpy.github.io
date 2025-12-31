@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_1021 </title></head>
-<center>Vers : 20251231_1021 </center>
-<center>Vers : 20251231_1921 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_1046 </title></head>
+<center>Vers : 20251231_1046 </center>
+<center>Vers : 20251231_1946 </center>
 <br><br><br>
 #### [“내년 실손보험 많이 바뀌네”…도수치료 등 보장 빠지고 5세대 출시](https://m.stock.naver.com/news/ranknews/view/009/0005614541)
 #### [‘만능통장’ ISA 도입 10년…미래에셋증권, 잔고 8.3조 ‘업계 1위’](https://m.stock.naver.com/news/ranknews/view/009/0005614515)
