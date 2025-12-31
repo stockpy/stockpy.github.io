@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_1853 </title></head>
-<center>Vers : 20251231_1853 </center>
-<center>Vers : 20260101_0353 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_1916 </title></head>
+<center>Vers : 20251231_1916 </center>
+<center>Vers : 20260101_0416 </center>
 <br><br><br>
+#### [소 85,000마리, 돼지 418,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424239)
+#### [미국 판사가 온두라스, 네팔 및 니카라과 출신 수천 명의 보호 신분을 종료하려는 트럼프의 움직임을 차단합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424238)
+#### [1월 1일 목요일 귀금속 시장 보고서 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424237)
+#### [인도, 2월 1일부터 담배에 소비세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424233)
+#### [미국 요약: 한 해를 마감하는 달러, 상승세로 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424235)
+#### [연준 매수, 기록적인 레포 시설 이용으로 연말 미국 자금시장 호조 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424236)
+#### [시카고 대두는 하락하지만 3 년 만에 처음으로 연간 상승세를 보일 예정입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424232)
+#### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424234)
 #### [레볼루션 바 소유주 레벨 콜렉티브, 현금 위기 심화로 신속한 매각 계획-Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424231)
 #### ['주토피아 2', 디즈니 애니메이션 영화 최고 수익 기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424229)
 #### [페루 시장, 정치적 혼란 속에서도 수년 만에 가장 강세를 보이며 2025년 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424227)
@@ -40,7 +48,7 @@
 #### [라이언 록, 램 메이 란 전무이사 은퇴 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424201)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1127.HK/total>
 #### [히트 또는 실패? 2025년 미국 최대 IPO의 성과는 어땠을까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424197)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MDLN.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRWV.O/total>
 #### [중국 천원 헬스케어, 닝샤 데샹 클리닉 지분 70% 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424199)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0557.HK/total>
 #### [수출이 거의 마비 된 상태로 유지되면서 베네수엘라의 탱크에 잔여 연료가 가득 차 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424195)
@@ -66,13 +74,3 @@
 #### [?미국 포장 식품 제조업체, 수요 부진으로 2025년 부진 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424182)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CPB.O/total>
 #### [미국 17주물 고금리 3.540%](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424181)
-#### [스위스 SNB, 3분기 외화 매입 규모 대폭 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424179)
-#### [폴로니아 요금은 변동 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424177)
-#### [미국 17주 지폐에 대한 비경쟁 입찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424178)
-#### [프랑스, 2026년 9월부터 15세 미만 청소년의 소셜 미디어 사용을 금지한다고 르몽드가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424174)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [중국 AI 칩 회사 비렌, 홍콩 IPO에서 7억 1,700만 달러 조달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424173)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0020.HK/total>
-#### [옵션, 엔화로 인해 2026년까지 격동적인 출발 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424171)
-#### [인스존 인슈어런스 서비스, 텍사스 기반 비어슈발레-리스 보험 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424176)
-#### [지난주 미국 원유 수입이 2021 년 2 월 이후 최저치로 떨어 졌다고 EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424172)
