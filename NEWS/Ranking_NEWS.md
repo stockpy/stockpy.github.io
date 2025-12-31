@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_1419 </title></head>
-<center>Vers : 20251231_1419 </center>
-<center>Vers : 20251231_2319 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_1444 </title></head>
+<center>Vers : 20251231_1444 </center>
+<center>Vers : 20251231_2344 </center>
 <br><br><br>
 #### [“금·은값만 난리인 줄 알았더니”…한 달 새 34% 폭등한 ‘이것’](https://m.stock.naver.com/news/ranknews/view/016/0002579601)
 #### [금·은 저리가라…16년만 역대 최대 상승, 올해 40% 급등한 구리](https://m.stock.naver.com/news/ranknews/view/009/0005614589)
