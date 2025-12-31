@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_2043 </title></head>
-<center>Vers : 20251231_2043 </center>
-<center>Vers : 20260101_0543 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_2118 </title></head>
+<center>Vers : 20251231_2118 </center>
+<center>Vers : 20260101_0618 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424280)
+#### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424281)
+#### [미국, 중국으로의 미국 칩 제조 도구 선적에 대한 TSMC의 연례 승인 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424278)
+#### [12월 31일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424277)
+#### [미국산 오일 및 지방 - 12월 31일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424279)
+#### [ICE 카놀라 선물은 2025년 시작과 비슷한 연말까지 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424270)
+#### [브리지워터의 대표 펀드인 퓨어 알파가 2025년 33% 급등하며 대형 헤지펀드 동종 업체를 앞질렀습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424276)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
+#### [철도, 연휴 앞두고 트럭 기준 안정적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424271)
+#### [투기꾼들이 옥수수 순매도 포지션 정리 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424275)
+#### [투기꾼들이 미국 원유 순매도를 줄인다-CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424269)
+#### [펀드 매니저들은 최근 한 주 동안 S&P 500 선물 순매수 포지션을 줄였습니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424273)
+#### [CBOT 대두는 수요 약세로 하락했지만 올해에는 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424268)
+#### [하와이주 공공요금 위원회, 하와이 전기 산불 완화 계획 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424274)
+#### [미국, 중국으로의 칩 제조 도구 수출을 위해 TSMC에 연례 승인 부여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424272)
 #### [러시아, 키예프 공격 혐의에 대해 이의를 제기하는 비디오 영상 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424266)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424267)
 #### [니만 마커스를 인수하기 위해 인수 한 부채에 대한이자 지불을 놓친 후 몇 주 안에 파산 신청 준비중인 BRIEF-Saks Global - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424265)
@@ -53,19 +68,3 @@
 #### [아시아 외환 시장 오픈 - 1월 2일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424224)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424225)
 #### [뉴욕 연준, 리버스 리포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424222)
-#### [GBP/USD가 고전하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424220)
-#### [미국 뷰티 브랜드가 수요 부진으로 어려움을 겪으면서 향수 판매는 번창할까요? 2025년?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424221)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ULTA.O/total>
-#### [중앙은행 금 보유량, IMF 데이터 기준](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424216)
-#### [미국, 우크라이나 전쟁 종식을위한 다음 단계에 대해 우크라이나, 유럽 국가들과 회담 개최, 위트 코프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424218)
-#### [수출이 최소로 줄면서 베네수엘라의 저장 탱크에 잔여 연료가 가득 차 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424214)
-#### [BUZZ-USD/JPY 강세는 2026년까지 우위를 유지합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424217)
-#### [미국 천연 가스 선물은 정상 이상의 날씨 전망으로 5 % 이상 하락, 눈 연간 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424219)
-#### [미국, 우크라이나 전쟁 종식의 다음 단계에 대해 우크라이나, 유럽 국가들과 회담 개최, 위트 코프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424213)
-#### [미국 증시 약세, 귀금속은 하락세로 돌아서며 호황의 한 해를 맞이합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424215)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
-#### [미국 실업수당 청구 이후 BUZZ-EUR/USD-초기 랠리 지워짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424212)
-#### [귀금속, 2025년 연간 큰 폭의 상승세로 마감할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424210)
-#### [아폴로, 알래스카 구매자에게 코인스타 매각, 채권 상환 예정 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424211)
-#### [미국 주간 전력 생산량이 전년 동기 대비 1.1% 감소했다고 EEI는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424209)
-#### [USDA 11 월 대두 크러쉬는 2 억 2,523 만 9 천만 부셸로 분석가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424204)
