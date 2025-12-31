@@ -1,7 +1,7 @@
 import requests
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 print("# blog python")
 print(datetime.now())
@@ -51,11 +51,17 @@ def __NEWS(SECTION) :
             break
 
         # print(type(j)) # <class 'list'>
+
         DateTime = datetime.today().strftime("%Y%m%d")
         DateTime_TT = datetime.today().strftime("%Y%m%d_%H%M")
 
+        utc_now = datetime.now(timezone.utc)
+        seoul_time = utc_now + timedelta(hours=9)
+        formatted_time = seoul_time.strftime("%Y%m%d_%H%M")
+
         output.write('<head><meta charset="utf-8"><title>Vers : %s </title></head>\n' % DateTime_TT)
         output.write('<center>Vers : %s </center>\n' % DateTime_TT)
+        output.write('<center>Vers : %s </center>\n' % formatted_time)
         output.write('<br><br><br>\n')
         
         for key, val in enumerate(j) :
