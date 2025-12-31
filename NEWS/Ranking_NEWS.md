@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_1916 </title></head>
-<center>Vers : 20251231_1916 </center>
-<center>Vers : 20260101_0416 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_1937 </title></head>
+<center>Vers : 20251231_1937 </center>
+<center>Vers : 20260101_0437 </center>
 <br><br><br>
 #### [“금·은값만 난리인 줄 알았더니”…한 달 새 34% 폭등한 ‘이것’](https://m.stock.naver.com/news/ranknews/view/016/0002579601)
 #### ['12만전자'에 '65만닉스'까지...올해 반도체株 2막 열린다](https://m.stock.naver.com/news/ranknews/view/014/0005456500)

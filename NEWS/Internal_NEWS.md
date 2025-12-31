@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_1916 </title></head>
-<center>Vers : 20251231_1916 </center>
-<center>Vers : 20260101_0416 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_1937 </title></head>
+<center>Vers : 20251231_1937 </center>
+<center>Vers : 20260101_0437 </center>
 <br><br><br>
+#### [마크롱, 동맹국들이 1월 6일 회의에서 우크라이나 보호에 대한 약속을 할 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424246)
+#### [인도, 2월 1일부터 담배에 소비세를 부과합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424248)
+#### [월스트리트, 기술주 하락, 연간 상승세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424247)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNDA.O/total>
+#### [플로리다 중심의 보험사, 모멘텀 확대로 2025년 고공행진 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424245)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SLDE.O/total>
+#### [미국, 새로운 베네수엘라 관련 제재에서 원유 유조선, 기업 표적, 재무부 웹 사이트에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424244)
+#### [레이몬드 제임스, 구리 전망과 그라스버그 운영 개선에 대해 프리포트-맥모란?PT 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424242)
+#### [제약회사, 트럼프의 압력에도 불구하고 미국 내 350개 의약품 가격 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424240)
+#### [ICE, FCOJ 선물 일일 가격 한도를 파운드당 15센트로 인상합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424243)
+#### [옥수수, 대두 기준, 연휴를 앞두고 혼조세 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424241)
 #### [소 85,000마리, 돼지 418,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424239)
 #### [미국 판사가 온두라스, 네팔 및 니카라과 출신 수천 명의 보호 신분을 종료하려는 트럼프의 움직임을 차단합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424238)
 #### [1월 1일 목요일 귀금속 시장 보고서 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424237)
@@ -62,15 +73,3 @@
 #### [바이오세레스 크롭 솔루션즈, CFO에 에제키엘 시머마허 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424190)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BIOX.O/total>
 #### [휴가철 여행이 확산되면서 미국 전역에서 독감 환자가 증가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424188)
-#### [제때 조정이 있을까요? 주식은 돌파에 가까워질 수 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424186)
-#### [미국 주간 천연가스 재고 38 BCF 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424189)
-#### [러시아 푸틴, 신년 연설에서 우크라이나 승리에 대한 자신감 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424187)
-#### [힐 CEO가 100만 달러 상당의 주식을 매입한 후 나이키 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424185)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [아거스 리서치, 메리어트 인터내셔널에 대한 PT를 370달러로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424184)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MAR.O/total>
-#### [미국 원유 수입이 지난주 2021 년 2 월 이후 최저치로 감소했다고 EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424183)
-#### [인도, 저회분탄 코크스 수입에 잠정 반덤핑 관세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424180)
-#### [?미국 포장 식품 제조업체, 수요 부진으로 2025년 부진 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424182)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CPB.O/total>
-#### [미국 17주물 고금리 3.540%](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424181)
