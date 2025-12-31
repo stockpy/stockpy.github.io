@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_0829 </title></head>
-<center>Vers : 20251231_0829 </center>
-<center>Vers : 20251231_1729 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_0855 </title></head>
+<center>Vers : 20251231_0855 </center>
+<center>Vers : 20251231_1755 </center>
 <br><br><br>
 #### [“0하나 더 붙을 줄이야, 1년전에 알았더라면”…올해 10배 뛴 ‘텐배거 3인방’](https://m.stock.naver.com/news/ranknews/view/009/0005614477)
 #### ["얘 또 회비 안 냈네" 이제 딱 걸린다…진화하는 '모임통장'[금융현미경]](https://m.stock.naver.com/news/ranknews/view/277/0005700487)
