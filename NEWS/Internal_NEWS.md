@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_1829 </title></head>
-<center>Vers : 20251231_1829 </center>
-<center>Vers : 20260101_0329 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_1853 </title></head>
+<center>Vers : 20251231_1853 </center>
+<center>Vers : 20260101_0353 </center>
 <br><br><br>
+#### [레볼루션 바 소유주 레벨 콜렉티브, 현금 위기 심화로 신속한 매각 계획-Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424231)
+#### ['주토피아 2', 디즈니 애니메이션 영화 최고 수익 기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424229)
+#### [페루 시장, 정치적 혼란 속에서도 수년 만에 가장 강세를 보이며 2025년 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424227)
+#### [캐나다, 밀라노-코르티나 남자 아이스하키 대표팀 명단 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424228)
+#### [현금 부족에 시달리는 삭스, 채권단과 협상 중 채권 지급 생략 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424230)
+#### [트럼프 행정부, 미네소타주 아동 보육비 지급 동결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424226)
+#### [우크라이나 협상가 우메 로프, 키예프가 안보 고문과의 회담에서 미국, 유럽과 입장을 조정했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424223)
+#### [아시아 외환 시장 오픈 - 1월 2일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424224)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424225)
+#### [뉴욕 연준, 리버스 리포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424222)
 #### [GBP/USD가 고전하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424220)
 #### [미국 뷰티 브랜드가 수요 부진으로 어려움을 겪으면서 향수 판매는 번창할까요? 2025년?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424221)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ULTA.O/total>
@@ -54,7 +64,7 @@
 #### [미국 원유 수입이 지난주 2021 년 2 월 이후 최저치로 감소했다고 EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424183)
 #### [인도, 저회분탄 코크스 수입에 잠정 반덤핑 관세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424180)
 #### [?미국 포장 식품 제조업체, 수요 부진으로 2025년 부진 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424182)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BYND.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CPB.O/total>
 #### [미국 17주물 고금리 3.540%](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424181)
 #### [스위스 SNB, 3분기 외화 매입 규모 대폭 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424179)
 #### [폴로니아 요금은 변동 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424177)
@@ -66,15 +76,3 @@
 #### [옵션, 엔화로 인해 2026년까지 격동적인 출발 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424171)
 #### [인스존 인슈어런스 서비스, 텍사스 기반 비어슈발레-리스 보험 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424176)
 #### [지난주 미국 원유 수입이 2021 년 2 월 이후 최저치로 떨어 졌다고 EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424172)
-#### [우버, 주차 앱 스팟히어로 인수 검토 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424170)
-#### [은행, 뉴욕 연준의 대기성 레포 시설에서 기록적인 유동성 활용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424175)
-#### [웨이모, 내년 런던에서 상용 출시 준비 중이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424169)
-#### [LNG 수출 급증, 생산량 호조로 2025 년 말 BUZZ-Natgas 주식 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424166)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EXE.O/total>
-#### [코르크 마개를 열다: 계절적 변동성 속에서 실업수당 청구 건수 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424164)
-#### [달러는 클레임 데이터 이후 상승했지만 2025년에는 여전히 하락세입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424168)
-#### [우크라이나, 러시아 투 압세, 크라 스노 다르의 터미널에있는 정유 공장을 공격했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424165)
-#### [지난주 미국 걸프 연안 정유소 가동률이 2023 년 6 월 이후 최고치를 기록했다고 EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424163)
-#### [생명과학 및 수탁 연구 주식, 2025년 격랑을 헤쳐나갈 수 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424167)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NEO.O/total>
-#### [미국 원유 재고 감소, 휘발유 및 증류유 재고 증가, EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424161)
