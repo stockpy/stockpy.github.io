@@ -1,7 +1,45 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_2244 </title></head>
-<center>Vers : 20251231_2244 </center>
-<center>Vers : 20260101_0744 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_2319 </title></head>
+<center>Vers : 20251231_2319 </center>
+<center>Vers : 20260101_0819 </center>
 <br><br><br>
+#### [벤지 테크놀로지스, 재스퍼 PIM 솔루션 사업 인수 거래 완료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424362)
+#### [토마 골드, 초과 청약 된 플로우 스루 사모, 신규 사모 및 스톡 옵션 부여 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424364)
+#### [펜타곤, 록히드 마틴, 3 억 2850 만 달러 대만 군사 판매 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424365)
+#### [CME 소 선물은 공급 부족에 대한 기대감으로 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424361)
+#### [트럼프 행정부, 미국 보육 보고 요건 강화, 미네소타주에서는 자금 동결 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424363)
+#### [2025년 시장: 금, 골디락스 그리고 달러 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424360)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [머천트 뱅크 코퍼레이션, 이스턴 미시간 파이낸셜 코퍼레이션과의 합병 완료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424359)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MBWM.O/total>
+#### [앨거논, 사모 자금 조달에 추가 증액 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424340)
+#### [게임스퀘어 홀딩스 루 슈워츠, 회장 겸 이사직 사임 - SEC 파일링](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424349)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GAME.O/total>
+#### [플루언트, 레이크 스트리트 캐피털 마켓과 ATM 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424344)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FLNT.O/total>
+#### [넷플릭스, 라이온스-바이킹스가 미국 역사상 가장 많이 스트리밍된 NFL 경기가 되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424339)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
+#### [캐나비스트 공동 홀딩스, 2028년 12월 31일 만기 9.25% 선순위 담보채권에 대한 이자 미지급 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424348)
+#### [멕시코 페소화, 30년 만에 최대 연간 상승률 기록, 주요 주가지수 2025년 30% 상승 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424343)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
+#### [사이트 센터, 경계 지점 매각 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424354)
+#### [2026년 운동 에너지 저장 사업에서 비용 절감 기대하는 주즈 전략 개요](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424347)
+#### [오웬스 앤 마이너, 플래티넘 에퀴티에 제품 및 의료 서비스 사업 매각 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424342)
+#### [머천트 은행 - 12월 24일, 미국 은행 협회와 신용 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424353)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MBWM.O/total>
+#### [쿠물루사이, 직접 상장을 위한 등록 명세서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424358)
+#### [누브, 사모 시리즈 A 우선주 및 워런트 발행 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424341)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVVE.O/total>
+#### [윌밍턴 캐피털 매니지먼트, 이사회 변경 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424352)
+#### [클라임 바이오, 알루미스 및 아셀린에 대한 불만 제기 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424357)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CLYM.O/total>
+#### [아웃룩 테라퓨틱스, 리테나바에 대한 미국 FDA 검토에 대한 규제 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424346)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OTLK.O/total>
+#### [Gsr, 2025년 12월 26일부로 Upexi와 자산 관리 계약 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424351)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UPXI.O/total>
+#### [사우스랜드 홀딩스 버크셔 해서웨이 특수 보험 회사, 사우스랜드에 최대 3천만 달러 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424356)
+#### [앰플리파이 에너지, 수정된 리볼빙 신용 시설의 폐쇄 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424345)
+#### [카시 인터내셔널, 미 우주군에 2억 1,200만 달러 규모의 과제 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424350)
+#### [빅베어닷에이아이, 2억 5천만 달러 규모의 애스크 세이지 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424355)
 #### [태평양 연안 석유 신탁, 월별 순이익 이자 계산 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424330)
 #### [헛 8 코퍼레이션 유닛, 수정 및 재작성된 신용 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424332)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HUT.O/total>
@@ -46,38 +84,3 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424308)
 #### [시카고 대두는 하락하지만 3 년 만에 처음으로 연간 상승을 달성합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424309)
 #### [젤렌스키, 전쟁을 연장할 뿐인 약한 협상은 체결하지 않겠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424302)
-#### [우크라이나, EU 관리, 푸틴 거주지 공격 혐의 일축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424304)
-#### ['주토피아 2'가 디즈니 애니메이션 영화 중 최고 수익 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424305)
-#### ['주토피아 2'가 디즈니 애니메이션 영화 중 최고 수익 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424306)
-#### [버크셔, 버핏의 CEO 마지막 날, 60 년 동안 6,100,000 % 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424303)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [트럼프, 주 방위군이 시카고, LA, 포틀랜드에서 철수한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424297)
-#### [아르헨티나, 밀 수확량 기록 전망; 중국, 소고기 수입 억제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424300)
-#### [멕시코 주요 주가지수, 2025년 30% 가까이 상승하며 2009년 이후 최고 실적 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424295)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
-#### [월스트리트는 올해 마지막 세션을 하락세로 마감했지만 2025 년에는 큰 연간 상승세를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424296)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNDA.O/total>
-#### [미국 FDA, 아웃룩 테라퓨틱스의 안과 질환 치료제 승인 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424299)
-#### [미국, 우크라이나가 드론 공격에서 푸틴을 표적으로 삼지 않았다는 사실 발견, WSJ 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424294)
-#### [미국 증시, 연간 두 자릿수 상승률 기록하며 최고의 한 해를 마감하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424301)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
-#### [넷플릭스 크리스마스 당일 NFL 스트리밍이 미국 시청률 기록을 세웠습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424298)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
-#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424293)
-#### [미군, 마약 호송 의심 공격으로 3 명이 사망했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424292)
-#### [TSX, 연말 하락에도 불구하고 15년 만에 최대 연간 상승률 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424290)
-#### [2026년 견조할 소형주, CIO는 이렇게 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424289)
-#### [분석-AI 지출, 기업 이익 호조, 연준 금리 인하가 2026년 미국 주식 시장의 핵심으로 꼽히는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424291)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [미국 FDA, 아웃룩 테라퓨틱스의 안과 질환 치료제 승인 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424286)
-#### [강력한 한 해의 부드러운 마무리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424288)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
-#### [삭스 글로벌, 부채 상환 누락 후 파산 준비, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424287)
-#### [트럼프, 시카고, LA, 포틀랜드에서 주방위군이 철수한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424285)
-#### [토론토 증권 거래소 비공식 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424284)
-#### [월스트리트는 올해 마지막 세션을 하락세로 마감했지만 2025 년에는 큰 연간 상승으로 마감합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424283)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNDA.O/total>
-#### [CBOT 밀은 제한된 거래에서 대규모 글로벌 공급에 속합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424282)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424280)
-#### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424281)
-#### [미국, 중국으로의 미국 칩 제조 도구 선적에 대한 TSMC의 연례 승인 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424278)
