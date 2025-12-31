@@ -8,7 +8,7 @@ import platform
 # import shutil
 # import datetime, time # for sleep
 # import matplotlib.pyplot as plt
-from matplotlib import rc
+# from matplotlib import rc
 from datetime import datetime
 from tabulate import tabulate
 
