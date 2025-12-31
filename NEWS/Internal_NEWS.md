@@ -1,10 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_1649 </title></head>
-<center>Vers : 20251231_1649 </center>
-<center>Vers : 20260101_0149 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_1718 </title></head>
+<center>Vers : 20251231_1718 </center>
+<center>Vers : 20260101_0218 </center>
 <br><br><br>
+#### [바이오세레스 크롭 솔루션즈, CFO에 에제키엘 시머마허 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424190)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BIOX.O/total>
+#### [휴가철 여행이 확산되면서 미국 전역에서 독감 환자가 증가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424188)
+#### [제때 조정이 있을까요? 주식은 돌파에 가까워질 수 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424186)
+#### [미국 주간 천연가스 재고 38 BCF 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424189)
+#### [러시아 푸틴, 신년 연설에서 우크라이나 승리에 대한 자신감 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424187)
+#### [힐 CEO가 100만 달러 상당의 주식을 매입한 후 나이키 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424185)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
+#### [아거스 리서치, 메리어트 인터내셔널에 대한 PT를 370달러로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424184)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MAR.O/total>
+#### [미국 원유 수입이 지난주 2021 년 2 월 이후 최저치로 감소했다고 EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424183)
 #### [인도, 저회분탄 코크스 수입에 잠정 반덤핑 관세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424180)
 #### [?미국 포장 식품 제조업체, 수요 부진으로 2025년 부진 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424182)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BYND.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CPB.O/total>
 #### [미국 17주물 고금리 3.540%](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424181)
 #### [스위스 SNB, 3분기 외화 매입 규모 대폭 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424179)
 #### [폴로니아 요금은 변동 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424177)
@@ -67,15 +78,3 @@
 #### [제프리, 넥스트에라 에너지의 PT를 88달러로 인상하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424134)
 #### [IWG, 1월 2일부터 최대 5천만 달러 규모의 2026년 신규 자사주 매입 프로그램 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424129)
 #### [원전 수요 증가로 2025년 우라늄 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424131)
-#### [소프트 뱅크가 지원하는 Oyo 호텔의 모회사가 기밀 IPO를 신청했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424133)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
-#### [꾸준한 여행 수요로 2025 년 크루즈 운영사 이익, 비용으로 노르웨이 크루즈 물기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424130)
-#### [Mtt 그룹, 홍콩 후이랑 기술 8,750만 홍콩달러에 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424124)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2350.HK/total>
-#### [미국 일부 항공사는 2025년 고공 비행, 소규모 경쟁사는 난기류에 직면하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424123)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
-#### [트럼프 미디어, 주주들에게 새로운 디지털 토큰 배포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424119)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DJT.O/total>
-#### [글로벌 과잉 생산과 유로화 강세로 2025년 EU 밀 가격이 20% 하락할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424128)
-#### [파로스 에너지, 이집트 석유공사로부터 2,000만 달러 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424118)
-#### [북해산 원유 등급 안정적, 거래 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424127)
