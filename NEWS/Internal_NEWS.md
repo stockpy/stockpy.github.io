@@ -1,7 +1,26 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_1937 </title></head>
-<center>Vers : 20251231_1937 </center>
-<center>Vers : 20260101_0437 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_2022 </title></head>
+<center>Vers : 20251231_2022 </center>
+<center>Vers : 20260101_0522 </center>
 <br><br><br>
+#### [국내 원유 재고가 감소하면서 미국 서부텍사스산원유 등급이 상승세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424264)
+#### [거시적 트렌드가 암호화폐에 부담을 주면서 2022년 이후 처음으로 연간 손실이 예상되는 비트코인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424262)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
+#### [CBOT 옥수수는 가벼운 거래의 날에 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424263)
+#### [면화 선물이 풍부한 공급과 무역 불확실성으로 4년 연속 하락세를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424261)
+#### [미국 천연가스 선물 보고서가 1월 1일에 발행되지 않습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424260)
+#### [수익률 사냥과 다각화에 힘입어 2025년 기치를 올린 라틴아메리카 FX](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424256)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BVSP>
+#### [마크롱, 2026년 9월부터 15세 미만 청소년의 소셜 미디어 사용을 금지하려 한다고 르몽드가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424257)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [마크롱: 동맹국들은 1월 6일 회의에서 우크라이나 보호에 대한 약속을 할 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424259)
+#### [미국 천연 가스 선물은 정상 이상의 날씨 전망으로 7 % 이상 하락, 연간 상승 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424258)
+#### [미국 곡물 바지선 운임 값은? 12월 31일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424253)
+#### [미국 현금 원유 보고서는 1월 1일, 2일에 발행되지 않습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424254)
+#### [미국 석유 생산량이 10 월에 사상 최고치를 기록했다고 EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424252)
+#### [10월 미국 원유 철도 수송량 30,000배럴 증가 - EIA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424255)
+#### [미국, 새로운 베네수엘라 관련 제재에서 원유 유조선과 기업을 표적으로 삼고 재무부 웹 사이트에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424250)
+#### [미국 석유 생산량이 10 월에 사상 최고치를 기록했다고 EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424249)
+#### [미국 북서부 강 유량이 97%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424251)
 #### [마크롱, 동맹국들이 1월 6일 회의에서 우크라이나 보호에 대한 약속을 할 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424246)
 #### [인도, 2월 1일부터 담배에 소비세를 부과합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424248)
 #### [월스트리트, 기술주 하락, 연간 상승세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424247)
@@ -41,7 +60,7 @@
 #### [미국 천연 가스 선물은 정상 이상의 날씨 전망으로 5 % 이상 하락, 눈 연간 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424219)
 #### [미국, 우크라이나 전쟁 종식의 다음 단계에 대해 우크라이나, 유럽 국가들과 회담 개최, 위트 코프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424213)
 #### [미국 증시 약세, 귀금속은 하락세로 돌아서며 호황의 한 해를 맞이합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424215)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
 #### [미국 실업수당 청구 이후 BUZZ-EUR/USD-초기 랠리 지워짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424212)
 #### [귀금속, 2025년 연간 큰 폭의 상승세로 마감할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424210)
 #### [아폴로, 알래스카 구매자에게 코인스타 매각, 채권 상환 예정 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424211)
@@ -51,25 +70,3 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424208)
 #### [월스트리트는 기술 무게가 계속 증가함에 따라 하락하지만 연간 이익에 가까워집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424203)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNDA.O/total>
-#### [독일 은행 강도 피해자는 TV를 통해 강도에 대해 처음 알았다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424205)
-#### [2026~2027년 나스닥에서 상승을 모색하는 에지모드 개요](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424207)
-#### [피처 엔터테인먼트 그룹, 10억 유로 규모의 해외 주식 자금 조달 약정 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424202)
-#### [리틀 웨스트 홀딩스, 보통주 380만 주 IPO 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424198)
-#### [번햄 홀딩스, 석면 부채의 대부분을 번햄 인더스트리에 매각 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424200)
-#### [라이언 록, 램 메이 란 전무이사 은퇴 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424201)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1127.HK/total>
-#### [히트 또는 실패? 2025년 미국 최대 IPO의 성과는 어땠을까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424197)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRWV.O/total>
-#### [중국 천원 헬스케어, 닝샤 데샹 클리닉 지분 70% 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424199)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0557.HK/total>
-#### [수출이 거의 마비 된 상태로 유지되면서 베네수엘라의 탱크에 잔여 연료가 가득 차 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424195)
-#### [CCT 포티스, 1710만 홍콩달러에 블랙버드 작품 공급의 95% 판매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424196)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0138.HK/total>
-#### [자신 국제 자원 투자, CEO에 시에 웬보 전무이사 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424193)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3858.HK/total>
-#### [문터스, 총 21억 달러 규모의 데이터 센터 장비 수주 기록 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424194)
-#### [OPG 온타리오 143MW 디큐폴스 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424191)
-#### [미국 실업수당 청구 건수가 감소하며 고용 시장의 험난한 한 해를 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424192)
-#### [바이오세레스 크롭 솔루션즈, CFO에 에제키엘 시머마허 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424190)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BIOX.O/total>
-#### [휴가철 여행이 확산되면서 미국 전역에서 독감 환자가 증가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424188)
