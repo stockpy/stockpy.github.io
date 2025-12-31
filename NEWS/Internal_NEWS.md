@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20251231_1718 </title></head>
-<center>Vers : 20251231_1718 </center>
-<center>Vers : 20260101_0218 </center>
+<head><meta charset="utf-8"><title>Vers : 20251231_1741 </title></head>
+<center>Vers : 20251231_1741 </center>
+<center>Vers : 20260101_0241 </center>
 <br><br><br>
+#### [피처 엔터테인먼트 그룹, 10억 유로 규모의 해외 주식 자금 조달 약정 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424202)
+#### [리틀 웨스트 홀딩스, 보통주 380만 주 IPO 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424198)
+#### [번햄 홀딩스, 석면 부채의 대부분을 번햄 인더스트리에 매각 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424200)
+#### [라이언 록, 램 메이 란 전무이사 은퇴 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424201)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1127.HK/total>
+#### [히트 또는 실패? 2025년 미국 최대 IPO의 성과는 어땠을까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424197)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MDLN.O/total>
+#### [중국 천원 헬스케어, 닝샤 데샹 클리닉 지분 70% 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424199)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0557.HK/total>
+#### [수출이 거의 마비 된 상태로 유지되면서 베네수엘라의 탱크에 잔여 연료가 가득 차 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424195)
+#### [CCT 포티스, 1710만 홍콩달러에 블랙버드 작품 공급의 95% 판매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424196)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0138.HK/total>
+#### [자신 국제 자원 투자, CEO에 시에 웬보 전무이사 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424193)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3858.HK/total>
+#### [문터스, 총 21억 달러 규모의 데이터 센터 장비 수주 기록 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424194)
+#### [OPG 온타리오 143MW 디큐폴스 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424191)
+#### [미국 실업수당 청구 건수가 감소하며 고용 시장의 험난한 한 해를 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424192)
 #### [바이오세레스 크롭 솔루션즈, CFO에 에제키엘 시머마허 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424190)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BIOX.O/total>
 #### [휴가철 여행이 확산되면서 미국 전역에서 독감 환자가 증가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424188)
@@ -15,7 +32,7 @@
 #### [미국 원유 수입이 지난주 2021 년 2 월 이후 최저치로 감소했다고 EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424183)
 #### [인도, 저회분탄 코크스 수입에 잠정 반덤핑 관세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424180)
 #### [?미국 포장 식품 제조업체, 수요 부진으로 2025년 부진 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424182)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CPB.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BYND.O/total>
 #### [미국 17주물 고금리 3.540%](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424181)
 #### [스위스 SNB, 3분기 외화 매입 규모 대폭 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424179)
 #### [폴로니아 요금은 변동 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424177)
@@ -65,16 +82,3 @@
 #### [우크라이나, 푸틴 거주지에 대한 드론 공격 혐의의 증거로 러시아가 제시 한 영상 일축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424148)
 #### [PADD별 EIA 주간 석유 재고량](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424149)
 #### [EIA 주간 현황 보고서-미국 석유 재고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424139)
-#### [EIA 주간 미국 석유 공급 및 수요](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424137)
-#### [프리시전 일렉트로닉스, 2730만 루피의 수주 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424142)
-#### [테이크 솔루션, 베다미르탐 벤카테산 CFO 사임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424138)
-#### [방글라데시 이슬람 정당, 2월 투표 후 통합 정부 구성에 개방적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424136)
-#### [우선적으로 증권 발행을 고려하는 양조장 및 증류주 양조장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424141)
-#### [아마라 라자 에너지 & 모빌리티, 4,400만 루피의 세금 벌금을 부과받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424143)
-#### [세계는 불꽃놀이와 빙판길로 2025년에 작별을 고하기 시작합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424135)
-#### [크리티컬 메탈, 2026년 1분기에 그린란드 공급 계약 체결 예정, CEO는 이렇게 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424140)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRML.O/total>
-#### [미국 판사는 트럼프가 노동 중재 기관의 범위를 제한하는 것을 금지합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424132)
-#### [제프리, 넥스트에라 에너지의 PT를 88달러로 인상하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424134)
-#### [IWG, 1월 2일부터 최대 5천만 달러 규모의 2026년 신규 자사주 매입 프로그램 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424129)
-#### [원전 수요 증가로 2025년 우라늄 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424131)
