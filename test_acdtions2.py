@@ -181,6 +181,10 @@ def __KO_ETF_Allocation() :
     DF_ETF_Average = pd.DataFrame()
     DF_ETF_Average_Hist = pd.DataFrame()
     DF_ETF_Profit = pd.DataFrame()
+    DF_Pension = pd.DataFrame()
+
+    DF_Pension_List = []
+    DF_Pension_StockName = []
 
     # 아래 ETF 리스트 중 ETF그룹을 선별
     
@@ -266,22 +270,20 @@ def __KO_ETF_Allocation() :
         # print(ETF_Date_List[:250]) # 1년 52주 중에서 52*주말 2일 = 104일(주말) + 공휴일까지 대충 110 빼서 1년을 250일
         # print(ETF_Price_List[:250]) # 1년 52주 중에서 52*주말 2일 = 104일(주말) + 공휴일까지 대충 110 빼서 1년을 250일
 
-        print("# ETF Date List")
-        print(ETF_Date_List)
-        print("# ETF_Price_List")
-        print(ETF_Price_List)
+        # print("# ETF Date List")
+        # print(ETF_Date_List)
+        # print("# ETF_Price_List")
+        # print(ETF_Price_List)
 
-        print("# ETF_Symbol")
-        print(ETF_Symbol)
-        print("# ETF_Symbol_List")
-        print(ETF_Symbol_List)
-        print("# ETF_Symbol_List --> ETF Symbol")
-        print(ETF_Symbol_List.index(ETF_Symbol))
-        print(ETF_Symbol_List[ETF_Symbol_List.index(ETF_Symbol)])
-        
-        print(ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)])
-        
-        print("# %s : %s" % (ETF_Symbol_List[ETF_Symbol_List.index(ETF_Symbol)], ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)]))
+        # print("# ETF_Symbol")
+        # print(ETF_Symbol)
+        # print("# ETF_Symbol_List")
+        # print(ETF_Symbol_List)
+        # print("# ETF_Symbol_List --> ETF Symbol")
+        # print(ETF_Symbol_List.index(ETF_Symbol))
+        # print(ETF_Symbol_List[ETF_Symbol_List.index(ETF_Symbol)])
+        # print(ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)])
+        # print("# %s : %s" % (ETF_Symbol_List[ETF_Symbol_List.index(ETF_Symbol)], ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)]))
 
         ETF_StockName = ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)]
 
@@ -336,7 +338,15 @@ def __KO_ETF_Allocation() :
                 else :
                     ETF_History.append(int(-1))
 
+        print("# %s : %s" % (ETF_Symbol_List[ETF_Symbol_List.index(ETF_Symbol)], ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)]))
         print("# 마지막 종가 : %s, %i" % (ETF_Date_List[-1], ETF_Price_List[-1]))
+
+        DF_Pension_StockName.append(ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)])
+        DF_Pension_List.append(ETF_Price_List[-1])
+
+        print("# Pension List")
+        print(DF_Pension_StockName)
+        print(DF_Pension_List)
 
         DF_ETF_Average[ETF_StockName] = ETF_Mean
         DF_ETF_Average_Hist[ETF_StockName] = ETF_History
