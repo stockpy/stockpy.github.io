@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_0722 </title></head>
-<center>Vers : 20260101_0722 </center>
-<center>Vers : 20260101_1622 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_0743 </title></head>
+<center>Vers : 20260101_0743 </center>
+<center>Vers : 20260101_1643 </center>
 <br><br><br>
 #### [“금·은값만 난리인 줄 알았더니”…한 달 새 34% 폭등한 ‘이것’](https://m.stock.naver.com/news/ranknews/view/016/0002579601)
 #### [비트코인, 사상 최고가 경신에도 3년 만에 연간 하락](https://m.stock.naver.com/news/ranknews/view/654/0000159365)
