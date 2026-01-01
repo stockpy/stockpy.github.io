@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_1938 </title></head>
-<center>Vers : 20260101_1938 </center>
-<center>Vers : 20260102_0438 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_2023 </title></head>
+<center>Vers : 20260101_2023 </center>
+<center>Vers : 20260102_0523 </center>
 <br><br><br>
 #### [미국 북서부 강 유량 최대 98% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424599)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424600)
