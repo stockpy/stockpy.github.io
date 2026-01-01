@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_2044 </title></head>
-<center>Vers : 20260101_2044 </center>
-<center>Vers : 20260102_0544 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_2119 </title></head>
+<center>Vers : 20260101_2119 </center>
+<center>Vers : 20260102_0619 </center>
 <br><br><br>
+#### [이탈리아, 미국이 검토 후 파스타 관세안을 대폭 인하했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424603)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424604)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
+#### [1월 1일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424602)
 #### [우크라이나 군, 엄격하게 군사, 에너지 목표물 공격한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424601)
 #### [미국 북서부 강 유량 최대 98% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424599)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424600)
@@ -60,6 +64,3 @@
 #### [아메다바드 스틸 크래프트, 5억9270만 루피 상당의 계약 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424552)
 #### [카브라제약, 바스만 오토모티브 인수 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424549)
 #### [라쉬트리야 화학 및 비료, 총 8580만 루피에 달하는 세금 수요 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424544)
-#### [TVS 모터 Q3FY26 매출 27% 성장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424551)
-#### [SG 핀서브, 321억1000만 루피의 대출 장부로 26년 3분기 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424548)
-#### [모디의 나브니르만, 뭄바이에서 25억 5천만 루피 재개발 사업 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424543)
