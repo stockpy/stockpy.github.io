@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_1916 </title></head>
-<center>Vers : 20260101_1916 </center>
-<center>Vers : 20260102_0416 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_1938 </title></head>
+<center>Vers : 20260101_1938 </center>
+<center>Vers : 20260102_0438 </center>
 <br><br><br>
+#### [미국 북서부 강 유량 최대 98% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424599)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424600)
 #### [러시아, 푸틴 관저에 대한 우크라이나 공격 시도 증거를 미국에 넘기다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424598)
 #### [이주민 보트 전복 후 7 구 시신 수습, 96 명 구조, 감비아는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424597)
 #### [러시아, 미국에 도주 유조선 추격 중단 요청, 뉴욕 타임즈 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424595)
@@ -61,5 +63,3 @@
 #### [SG 핀서브, 321억1000만 루피의 대출 장부로 26년 3분기 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424548)
 #### [모디의 나브니르만, 뭄바이에서 25억 5천만 루피 재개발 사업 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424543)
 #### [레일텔, 5억 6,710만 루피 상당의 수주 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424542)
-#### [인도, 1월 추위 예상으로 겨울 작물 전망 밝아져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424540)
-#### [일렉트라 그린, 12월 31일을 전기차 시설의 상업 가동일로 선언하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424539)
