@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_1542 </title></head>
-<center>Vers : 20260101_1542 </center>
-<center>Vers : 20260102_0042 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_1626 </title></head>
+<center>Vers : 20260101_1626 </center>
+<center>Vers : 20260102_0126 </center>
 <br><br><br>
+#### [러시아와 우크라이나, 새해 첫날 민간인 공격 의혹을 주고받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424579)
+#### [네덜란드에서 불꽃놀이 사고로 2명이 사망하고 암스테르담의 유서 깊은 교회에 화재가 발생했습니다,](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424580)
+#### [Yum Brands' 인도, 사파이어와 데브야니 합병으로 거대 패스트푸드 프랜차이즈 탄생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424578)
+#### [슬로베니아의 프레브치, 포 힐스 2연패에 도전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424577)
+#### [우크라이나의 수석 평화 협상가가 터키 외무 장관을 만났다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424575)
+#### [사파이어 푸드, 데브야니 인터내셔널 합병으로 인도 패스트푸드 프랜차이즈 대기업 탄생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424576)
+#### [페루, 국영 페트로 페루, 조직 개편 후 민간 투자에 개방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424573)
+#### [브리타니아, 10억 9천만 루피의 세금 요구받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424571)
+#### [사파이어 푸드 인디아, 데브야니 인터내셔널과 계획 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424574)
+#### [페루 소비자 물가, 12월 0.24% 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424572)
+#### [스위스 화재 후 16 명의 이탈리아 인 실종, 외무 장관은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424570)
 #### [재난 지역으로 변한 스위스 스키 리조트의 새해 파티](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424569)
 #### [OpenAI, 팀을 통합하여 곧 출시될 디바이스의 오디오 AI 모델 향상 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424568)
 #### [크리슈나 의학 연구소, 1억 4,420만 루피에 대한 세금 요구 명령서 수령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424567)
@@ -55,15 +66,3 @@
 #### [오리콘 엔터프라이즈, 테인 제조 사업부 자산 매각 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424523)
 #### [BYD, 국내 역풍으로 5년 만에 가장 낮은 매출 성장률 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424522)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9863.HK/total>
-#### [우크라이나 군, 러시아 일 스키 정유소를 공격했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424520)
-#### [분석-AI 지출, 기업 이익 호조, 연준 금리 인하가 2026년 미국 주식 시장의 핵심으로 여겨집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424519)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [연방준비은행 이벤트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424517)
-#### [에피그랄, 5억 2,520만 루피에 대한 세금 수요 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424518)
-#### [KEC 인터내셔널, 10.5억 루피 상당의 신규 수주 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424516)
-#### [안나푸르나 스와디쉬트, 안드리 아그로 푸드 75% 구매 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424513)
-#### [인도 12월 잠정 석탄 생산량 전년대비 4.6% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424515)
-#### [BEL, 56억 9천만 루피 상당의 주문 접수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424508)
-#### [브리프 케이 브이 토이즈 인도, 480만 루피 상당의 주문 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424514)
-#### [카루르 비샤 은행, 2025년 12월 31일 기준 총 예금이 전년 대비 15.57% 증가한 1.15조 루피라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424509)
-#### [세인시스 테크, 1억 2,060만 루피 상당의 수주 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424507)
