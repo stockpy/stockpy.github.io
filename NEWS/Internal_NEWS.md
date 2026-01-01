@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_2319 </title></head>
-<center>Vers : 20260101_2319 </center>
-<center>Vers : 20260102_0819 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_2341 </title></head>
+<center>Vers : 20260101_2341 </center>
+<center>Vers : 20260102_0841 </center>
 <br><br><br>
+#### [중국 몰리 <603993.SS> 마진 롱 금액 : 36,946 (x10000) 위안, 공매도 거래대금 : 8 (x10000) 주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424614)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603993.SS/total>
 #### [스위스, 치명적인 술집 화재의 희생자 확인이라는 힘든 과제에 직면하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424613)
 #### [셀트리온 미국 법인 셀트리온 미국, 일라이 릴리와 4억 7300만 달러 규모의 생산 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424612)
 #### [베네수엘라, 선거 후 시위 이후 구금된 수감자 88명 추가 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424611)
@@ -63,4 +65,3 @@
 #### [이탈리아, 미국이 검토 후 제안 된 파스타 관세를 대폭 인하했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424557)
 #### [샥티 언론, 기관 배치를 통한 자금 조달 제안 고려 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424555)
 #### [펀잡 & 신드 은행 총수익, 12월 말 기준 전년 동기 대비 15.25% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424556)
-#### [실버 터치 테크놀로지스 이사회, 보너스 주식 발행 고려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424547)

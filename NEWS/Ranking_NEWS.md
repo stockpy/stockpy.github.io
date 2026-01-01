@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_2319 </title></head>
-<center>Vers : 20260101_2319 </center>
-<center>Vers : 20260102_0819 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_2341 </title></head>
+<center>Vers : 20260101_2341 </center>
+<center>Vers : 20260102_0841 </center>
 <br><br><br>
 #### ["11만전자·65만닉스는 시작"…줄줄이 '엄지척'](https://m.stock.naver.com/news/ranknews/view/215/0001236429)
 #### ["삼전·하이닉스 더 오른다" 증권가 올해 톱픽..."비중 축소" 외친 업종은](https://m.stock.naver.com/news/ranknews/view/008/0005299295)
