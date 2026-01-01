@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_2220 </title></head>
-<center>Vers : 20260101_2220 </center>
-<center>Vers : 20260102_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_2244 </title></head>
+<center>Vers : 20260101_2244 </center>
+<center>Vers : 20260102_0744 </center>
 <br><br><br>
+#### [베네수엘라, 선거 후 시위 이후 구금된 수감자 88명 추가 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424611)
 #### [브라질의 볼 소나로, 수술 후 병원 퇴원, 감옥으로 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424610)
 #### [스타링크는 2026년에 안전을 강화하기 위해 위성 궤도를 낮출 계획입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424609)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424608)
@@ -63,4 +64,3 @@
 #### [실버 터치 테크놀로지스 이사회, 보너스 주식 발행 고려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424547)
 #### [남인도 은행 총 예금, 2025년 12월 31일 기준 1조 1,800억 루피, 전년 대비 12.17% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424554)
 #### [그라인드웰 노턴, 세금 수요를 2억3570만 루피에서 4170만 루피로 낮추는 명령을 받았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424541)
-#### [트라이던트 라이프라인, 트라이던트 메디킵 지분 9.04% 추가 매입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424546)

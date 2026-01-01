@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_2220 </title></head>
-<center>Vers : 20260101_2220 </center>
-<center>Vers : 20260102_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_2244 </title></head>
+<center>Vers : 20260101_2244 </center>
+<center>Vers : 20260102_0744 </center>
 <br><br><br>
 #### ["11만전자·65만닉스는 시작"…줄줄이 '엄지척'](https://m.stock.naver.com/news/ranknews/view/215/0001236429)
 #### [비트코인, 사상 최고가 경신에도 3년 만에 연간 하락](https://m.stock.naver.com/news/ranknews/view/654/0000159365)
