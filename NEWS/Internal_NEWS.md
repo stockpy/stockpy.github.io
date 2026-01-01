@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_2119 </title></head>
-<center>Vers : 20260101_2119 </center>
-<center>Vers : 20260102_0619 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_2140 </title></head>
+<center>Vers : 20260101_2140 </center>
+<center>Vers : 20260102_0640 </center>
 <br><br><br>
+#### [프랑스, 크랑 몬타나 화재 이후 자국민 8 명 실종](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424606)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424605)
 #### [이탈리아, 미국이 검토 후 파스타 관세안을 대폭 인하했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424603)
 #### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424604)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
@@ -62,5 +64,3 @@
 #### [압축 가스용 타입 3 완전 랩핑 섬유 강화 복합 실린더를 만드는 데 고개를 끄덕이는 짧은 시간 테크노플라스트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424550)
 #### [아오로빈도 파마, 칸델왈 연구소의 비종양학 처방 제제 사업 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424545)
 #### [아메다바드 스틸 크래프트, 5억9270만 루피 상당의 계약 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424552)
-#### [카브라제약, 바스만 오토모티브 인수 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424549)
-#### [라쉬트리야 화학 및 비료, 총 8580만 루피에 달하는 세금 수요 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424544)
