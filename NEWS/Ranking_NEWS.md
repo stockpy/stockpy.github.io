@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_0828 </title></head>
-<center>Vers : 20260101_0828 </center>
-<center>Vers : 20260101_1728 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_0854 </title></head>
+<center>Vers : 20260101_0854 </center>
+<center>Vers : 20260101_1754 </center>
 <br><br><br>
 #### [“금·은값만 난리인 줄 알았더니”…한 달 새 34% 폭등한 ‘이것’](https://m.stock.naver.com/news/ranknews/view/016/0002579601)
 #### [李대통령 산 ETF 똑같이 샀다면…7개월간 2000만원 벌었다](https://m.stock.naver.com/news/ranknews/view/020/0003686150)
