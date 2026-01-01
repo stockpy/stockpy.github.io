@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_1626 </title></head>
-<center>Vers : 20260101_1626 </center>
-<center>Vers : 20260102_0126 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_1651 </title></head>
+<center>Vers : 20260101_1651 </center>
+<center>Vers : 20260102_0151 </center>
 <br><br><br>
+#### [사파이어 푸드, 데브야니 인터내셔널, 합병일로부터 15~18개월 내 완전 통합 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424582)
+#### [트랜살타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424581)
 #### [러시아와 우크라이나, 새해 첫날 민간인 공격 의혹을 주고받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424579)
 #### [네덜란드에서 불꽃놀이 사고로 2명이 사망하고 암스테르담의 유서 깊은 교회에 화재가 발생했습니다,](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424580)
 #### [Yum Brands' 인도, 사파이어와 데브야니 합병으로 거대 패스트푸드 프랜차이즈 탄생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424578)
@@ -63,6 +65,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BSESN>
 #### [인도 주식, 루피, 스왑, 마감 시 통화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424521)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BSESN>
-#### [오리콘 엔터프라이즈, 테인 제조 사업부 자산 매각 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424523)
-#### [BYD, 국내 역풍으로 5년 만에 가장 낮은 매출 성장률 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424522)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9863.HK/total>
