@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_1521 </title></head>
-<center>Vers : 20260101_1521 </center>
-<center>Vers : 20260102_0021 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_1542 </title></head>
+<center>Vers : 20260101_1542 </center>
+<center>Vers : 20260102_0042 </center>
 <br><br><br>
+#### [재난 지역으로 변한 스위스 스키 리조트의 새해 파티](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424569)
 #### [OpenAI, 팀을 통합하여 곧 출시될 디바이스의 오디오 AI 모델 향상 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424568)
 #### [크리슈나 의학 연구소, 1억 4,420만 루피에 대한 세금 요구 명령서 수령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424567)
 #### [크란스-몬타나: 치명적인 바 화재의 중심에 있는 스위스 리조트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424566)
@@ -66,4 +67,3 @@
 #### [브리프 케이 브이 토이즈 인도, 480만 루피 상당의 주문 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424514)
 #### [카루르 비샤 은행, 2025년 12월 31일 기준 총 예금이 전년 대비 15.57% 증가한 1.15조 루피라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424509)
 #### [세인시스 테크, 1억 2,060만 루피 상당의 수주 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424507)
-#### [아툴 오토 12월 총 판매량 3,602대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424511)
