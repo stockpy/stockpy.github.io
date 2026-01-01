@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_2140 </title></head>
-<center>Vers : 20260101_2140 </center>
-<center>Vers : 20260102_0640 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_2220 </title></head>
+<center>Vers : 20260101_2220 </center>
+<center>Vers : 20260102_0720 </center>
 <br><br><br>
+#### [브라질의 볼 소나로, 수술 후 병원 퇴원, 감옥으로 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424610)
+#### [스타링크는 2026년에 안전을 강화하기 위해 위성 궤도를 낮출 계획입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424609)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424608)
+#### [GQG 파트너스, 신임 CFO에 찰스 팔크 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424607)
 #### [프랑스, 크랑 몬타나 화재 이후 자국민 8 명 실종](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424606)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424605)
 #### [이탈리아, 미국이 검토 후 파스타 관세안을 대폭 인하했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424603)
@@ -60,7 +64,3 @@
 #### [남인도 은행 총 예금, 2025년 12월 31일 기준 1조 1,800억 루피, 전년 대비 12.17% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424554)
 #### [그라인드웰 노턴, 세금 수요를 2억3570만 루피에서 4170만 루피로 낮추는 명령을 받았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424541)
 #### [트라이던트 라이프라인, 트라이던트 메디킵 지분 9.04% 추가 매입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424546)
-#### [인도 은행의 12월 말 기준 총수익, 전년 대비 14.5% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424553)
-#### [압축 가스용 타입 3 완전 랩핑 섬유 강화 복합 실린더를 만드는 데 고개를 끄덕이는 짧은 시간 테크노플라스트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424550)
-#### [아오로빈도 파마, 칸델왈 연구소의 비종양학 처방 제제 사업 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424545)
-#### [아메다바드 스틸 크래프트, 5억9270만 루피 상당의 계약 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424552)
