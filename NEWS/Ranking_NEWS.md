@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_1022 </title></head>
-<center>Vers : 20260101_1022 </center>
-<center>Vers : 20260101_1922 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_1047 </title></head>
+<center>Vers : 20260101_1047 </center>
+<center>Vers : 20260101_1947 </center>
 <br><br><br>
 #### [“금·은값만 난리인 줄 알았더니”…한 달 새 34% 폭등한 ‘이것’](https://m.stock.naver.com/news/ranknews/view/016/0002579601)
 #### ['14만전자·115만닉스 된다'…파격 전망에 '환호성'](https://m.stock.naver.com/news/ranknews/view/015/0005231564)
