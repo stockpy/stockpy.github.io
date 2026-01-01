@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_1651 </title></head>
-<center>Vers : 20260101_1651 </center>
-<center>Vers : 20260102_0151 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_1719 </title></head>
+<center>Vers : 20260101_1719 </center>
+<center>Vers : 20260102_0219 </center>
 <br><br><br>
+#### [미국 연방 근로자들이 트럼프의 성평등 정책에 도전합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424584)
+#### [페루의 비공식 광부들에 대한 새해 전야 공격으로 3 명 사망, 7 명 실종](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424583)
 #### [사파이어 푸드, 데브야니 인터내셔널, 합병일로부터 15~18개월 내 완전 통합 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424582)
 #### [트랜살타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424581)
 #### [러시아와 우크라이나, 새해 첫날 민간인 공격 의혹을 주고받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424579)
@@ -61,7 +63,3 @@
 #### [인도 채권은 수요가 흔들리면서 2026 년 첫날 거의 변동이 없었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424525)
 #### [인도 용매 추출기 협회 - Jan 01](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424524)
 #### [인도는 1월에 더 추울 것으로 기상청은 예보했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424526)
-#### [인도 주식, 루피, 스왑, 마감 시 통화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424528)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BSESN>
-#### [인도 주식, 루피, 스왑, 마감 시 통화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424521)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BSESN>
