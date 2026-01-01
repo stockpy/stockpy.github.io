@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_0527 </title></head>
-<center>Vers : 20260101_0527 </center>
-<center>Vers : 20260101_1427 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_0550 </title></head>
+<center>Vers : 20260101_0550 </center>
+<center>Vers : 20260101_1450 </center>
 <br><br><br>
 #### [“금·은값만 난리인 줄 알았더니”…한 달 새 34% 폭등한 ‘이것’](https://m.stock.naver.com/news/ranknews/view/016/0002579601)
 #### [“대출 막혀 힘들었는데 이제야 숨통”…시중은행 비대면·갈아타기 속속 재개](https://m.stock.naver.com/news/ranknews/view/009/0005614947)

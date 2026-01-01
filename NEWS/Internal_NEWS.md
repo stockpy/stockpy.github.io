@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_0526 </title></head>
-<center>Vers : 20260101_0526 </center>
-<center>Vers : 20260101_1426 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_0550 </title></head>
+<center>Vers : 20260101_0550 </center>
+<center>Vers : 20260101_1450 </center>
 <br><br><br>
+#### [어드밴스드 테크놀로지스, 푸시팍 AI 지분 최대 100% 매입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424430)
+#### [아이허 모터스, 12월 총 VECV 판매량 10,384대 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424429)
+#### [스틸 스트립 휠, 12월 매출이 전년 대비 22% 증가했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424428)
 #### [핀란드, 케이블 사보타주 혐의로 러시아 연계 선박 나포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424425)
 #### [모틸랄 오스왈이 '매수'로 시작하면서 버즈인디아의 자이더스 웰니스가 상승세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424426)
 #### [인도 마힌드라, 12월 SUV 판매량 23% 증가로 수익성 개선](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424427)
@@ -64,13 +67,13 @@
 #### [이머징 마켓 경제 이벤트 2월 26일까지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424373)
 #### [2월 25일까지의 주요 경제 이벤트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424372)
 #### [미국, 2025년 자산 60조 달러 기록으로 국영 투자 유치 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424371)
+<head><meta charset="utf-8"><title>Vers : 20260101_0550 </title></head>
+<center>Vers : 20260101_0550 </center>
+<center>Vers : 20260101_1450 </center>
+<br><br><br>
 #### [모스크바 행 드론 3 대를 격추시킨 러시아 방공망, 시장은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424369)
 #### [USDA, 쌀, 면화에 유리한 120 억 달러 규모의 농업 지원 패키지 세부 사항; 콩 농부들은 긴장에 대해 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424370)
 #### [월스트리트는 2025 년 마지막 세션을 하락세로 마감했지만 연간 큰 상승세를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424368)
-<head><meta charset="utf-8"><title>Vers : 20260101_0526 </title></head>
-<center>Vers : 20260101_0526 </center>
-<center>Vers : 20260101_1426 </center>
-<br><br><br>
 #### [젤렌스키, 전쟁을 장기화할 뿐인 약한 협상에 서명하지 않겠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424367)
 #### [우크라이나, EU 관리들, 푸틴 관저 공격 혐의 일축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424366)
 #### [벤지 테크놀로지스, 재스퍼 PIM 솔루션 사업 인수 거래 완료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424362)
@@ -150,13 +153,13 @@
 #### [펀드, CBOT 대두 및 밀 선물 순매도, 트레이더들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424312)
 #### [연휴를 앞두고 밀 선물이 하락하면서 미국 평야 HRW 밀 베이시스가 보합세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424314)
 #### [미 해안 경비대, 마약 의심 선박에 대한 공격 후 생존자 수색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424310)
+<head><meta charset="utf-8"><title>Vers : 20260101_0550 </title></head>
+<center>Vers : 20260101_0550 </center>
+<center>Vers : 20260101_1450 </center>
+<br><br><br>
 #### [미국 원자력 발전소 정전 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424311)
 #### [수요일에 미국 원자력 발전 용량이 2,828MW로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424307)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424308)
-<head><meta charset="utf-8"><title>Vers : 20260101_0527 </title></head>
-<center>Vers : 20260101_0527 </center>
-<center>Vers : 20260101_1427 </center>
-<br><br><br>
 #### [시카고 대두는 하락하지만 3 년 만에 처음으로 연간 상승을 달성합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424309)
 #### [젤렌스키, 전쟁을 연장할 뿐인 약한 협상은 체결하지 않겠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424302)
 #### [우크라이나, EU 관리, 푸틴 거주지 공격 혐의 일축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424304)
@@ -226,13 +229,13 @@
 #### [미국 석유 생산량이 10 월에 사상 최고치를 기록했다고 EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424252)
 #### [10월 미국 원유 철도 수송량 30,000배럴 증가 - EIA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424255)
 #### [미국, 새로운 베네수엘라 관련 제재에서 원유 유조선과 기업을 표적으로 삼고 재무부 웹 사이트에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424250)
+<head><meta charset="utf-8"><title>Vers : 20260101_0550 </title></head>
+<center>Vers : 20260101_0550 </center>
+<center>Vers : 20260101_1450 </center>
+<br><br><br>
 #### [미국 석유 생산량이 10 월에 사상 최고치를 기록했다고 EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424249)
 #### [미국 북서부 강 유량이 97%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424251)
 #### [마크롱, 동맹국들이 1월 6일 회의에서 우크라이나 보호에 대한 약속을 할 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424246)
-<head><meta charset="utf-8"><title>Vers : 20260101_0527 </title></head>
-<center>Vers : 20260101_0527 </center>
-<center>Vers : 20260101_1427 </center>
-<br><br><br>
 #### [인도, 2월 1일부터 담배에 소비세를 부과합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424248)
 #### [월스트리트, 기술주 하락, 연간 상승세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424247)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNDA.O/total>
@@ -300,14 +303,14 @@
 #### [문터스, 총 21억 달러 규모의 데이터 센터 장비 수주 기록 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424194)
 #### [OPG 온타리오 143MW 디큐폴스 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424191)
 #### [미국 실업수당 청구 건수가 감소하며 고용 시장의 험난한 한 해를 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424192)
+<head><meta charset="utf-8"><title>Vers : 20260101_0550 </title></head>
+<center>Vers : 20260101_0550 </center>
+<center>Vers : 20260101_1450 </center>
+<br><br><br>
 #### [바이오세레스 크롭 솔루션즈, CFO에 에제키엘 시머마허 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424190)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BIOX.O/total>
 #### [휴가철 여행이 확산되면서 미국 전역에서 독감 환자가 증가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424188)
 #### [제때 조정이 있을까요? 주식은 돌파에 가까워질 수 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424186)
-<head><meta charset="utf-8"><title>Vers : 20260101_0527 </title></head>
-<center>Vers : 20260101_0527 </center>
-<center>Vers : 20260101_1427 </center>
-<br><br><br>
 #### [미국 주간 천연가스 재고 38 BCF 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424189)
 #### [러시아 푸틴, 신년 연설에서 우크라이나 승리에 대한 자신감 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424187)
 #### [힐 CEO가 100만 달러 상당의 주식을 매입한 후 나이키 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424185)
@@ -380,15 +383,15 @@
 #### [제프리, 넥스트에라 에너지의 PT를 88달러로 인상하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424134)
 #### [IWG, 1월 2일부터 최대 5천만 달러 규모의 2026년 신규 자사주 매입 프로그램 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424129)
 #### [원전 수요 증가로 2025년 우라늄 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424131)
+<head><meta charset="utf-8"><title>Vers : 20260101_0550 </title></head>
+<center>Vers : 20260101_0550 </center>
+<center>Vers : 20260101_1450 </center>
+<br><br><br>
 #### [소프트 뱅크가 지원하는 Oyo 호텔의 모회사가 기밀 IPO를 신청했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424133)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
 #### [꾸준한 여행 수요로 2025 년 크루즈 운영사 이익, 비용으로 노르웨이 크루즈 물기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424130)
 #### [Mtt 그룹, 홍콩 후이랑 기술 8,750만 홍콩달러에 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424124)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2350.HK/total>
-<head><meta charset="utf-8"><title>Vers : 20260101_0527 </title></head>
-<center>Vers : 20260101_0527 </center>
-<center>Vers : 20260101_1427 </center>
-<br><br><br>
 #### [미국 일부 항공사는 2025년 고공 비행, 소규모 경쟁사는 난기류에 직면하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424123)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
 #### [트럼프 미디어, 주주들에게 새로운 디지털 토큰 배포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424119)
@@ -458,6 +461,3 @@
 #### [웨이크핏 이노베이션스 CFO 나베시 굽타 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424084)
 #### [나빈 플루오린 인터내셔널, 듀와스 CGMP-4 공장의 1단계 상업 생산이 오늘 시작됐다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424098)
 #### [펀잡 국립 은행의 1 년 MCLR 8.75 %로 변동 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424079)
-#### [밀 1~2센트 하락, 옥수수 1/2~1센트 하락, 대두 2~3센트 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424083)
-#### [에버레스트 산업, 세금 수요가 560.6백만 루피에서 3.9백만 루피로 감소했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424097)
-#### [미국 주택 개선 체인, 주택 시장 정체, 관세 비용으로 2025 년 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424078)
