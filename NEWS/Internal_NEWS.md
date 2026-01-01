@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_1719 </title></head>
-<center>Vers : 20260101_1719 </center>
-<center>Vers : 20260102_0219 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_1743 </title></head>
+<center>Vers : 20260101_1743 </center>
+<center>Vers : 20260102_0243 </center>
 <br><br><br>
+#### [페루에서 새해 전야 비공식 광부 공격으로 3명이 사망하고 7명이 실종되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424587)
+#### [스위스 스키 리조트 바에서 화재로 약 40 명이 사망했다고 스위스 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424586)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424585)
 #### [미국 연방 근로자들이 트럼프의 성평등 정책에 도전합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424584)
 #### [페루의 비공식 광부들에 대한 새해 전야 공격으로 3 명 사망, 7 명 실종](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424583)
 #### [사파이어 푸드, 데브야니 인터내셔널, 합병일로부터 15~18개월 내 완전 통합 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424582)
@@ -60,6 +63,3 @@
 #### [우크라이나 드론, 타타르스탄 크라스노다르 지역의 러시아 에너지 목표물 공격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424530)
 #### [아트팩트 프로젝트, 3,120만 루피 규모의 프로젝트 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424529)
 #### [기도와 의식의 딥으로 새해를 맞이하는 인디언들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424527)
-#### [인도 채권은 수요가 흔들리면서 2026 년 첫날 거의 변동이 없었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424525)
-#### [인도 용매 추출기 협회 - Jan 01](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424524)
-#### [인도는 1월에 더 추울 것으로 기상청은 예보했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424526)
