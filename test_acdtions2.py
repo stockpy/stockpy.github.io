@@ -62,6 +62,9 @@ def __KO_Price(Dart_Exp_Code) :
     # https://m.stock.naver.com/api/stock/251340/price?pageSize=10&page=1
     url = 'https://api.finance.naver.com/siseJson.naver?symbol='+Dart_Exp_Code+'&requestType=1&startTime=1800&endTime=2100&timeframe=day'
 
+    print("# called URL")
+    print(url)
+
     try :
         req = requests.get(url, headers=headers)
         # print("# req")
@@ -108,6 +111,7 @@ def __KO_Price(Dart_Exp_Code) :
     DF_KO_Price_List_LEN = float(len(DF_KO_Price_List))
     DF_KO_Price_List_SUM = sum(DF_KO_Price_List)
     DF_KO_Price_Value = DF_KO_Price_List_SUM / DF_KO_Price_List_LEN # 200일 간의 평균값
+    print("# 200일 간의 평균값")
     print(DF_KO_Price_Value)
 
     return DF_KO_Date_List, DF_KO_Price_List
@@ -223,11 +227,11 @@ def __KO_ETF_Allocation() :
     # 114820 : TIGER 국채3년 : 연 0.15% (운용: 0.07%, 지정참가: 0.055%, 신탁: 0.01%, 일반사무: 0.015%)
     # 319640 : TIGER 골드선물(H)
 
-    ETF_List = ["102110", "123310", "319640", "139310", "160580", "130680", "137610"]
+    # ETF_List = ["102110", "123310", "319640", "160580", "130680", "137610"]
     # 102110 : TIGER 200 : 연 0.05% (운용: 0.029%, 지정참가: 0.001%, 신탁: 0.01%, 일반사무: 0.01%)
     # 123310 : TIGER 인버스 : 연 0.022% (운용: 0.001%, 지정참가: 0.001%, 신탁: 0.01%, 일반사무: 0.01%)
     # 319640 : TIGER 골드선물(H)
-    # 139310 : TIGER 금속선물
+    # 139310 : TIGER 금속선물 --> 없어짐 (2026.01.01)
     # 160580 : TIGER 구리실물
     # 130680 : TIGER 원유선물Enhanced(H)
     # 137610 : TIGER 농산물선물Enhanced(H)
@@ -244,6 +248,17 @@ def __KO_ETF_Allocation() :
 
     # 225060 : TIGER 이머징마켓MSCI 레버리지(합성H) : 0.58%(운용: 0.51%, 지정참가: 0.01%, 신탁: 0.03%, 일반사무 0.03%)
 
+    ETF_List = ["278530", "379800", "468630", "308620", "484790", "489250", "381180", "457480"]
+    # 278530 코스피 KODEX 200TR
+    # 069500 코스피배당 KODEX 200
+    # 379800 코스피배당 KODEX 미국S&P500
+    # 468630 코스피배당 KODEX iShares미국투자등급회사채액티브
+    # 308620 코스피배당 KODEX 미국10년국채선물
+    # 484790 코스피배당 KODEX 미국30년국채액티브(H)
+    # 489250 코스피배당 KODEX 미국배당다우존스
+    # 381180 코스피배당 TIGER 미국필라델피아반도체나스닥
+    # 457480 코스피배당 ACE 테슬라밸류체인액티브
+
     for ETF_Symbol in ETF_List : # 선별된 ETF그룹의 각 ETF별 가격을 확보 (날짜, 종가)
         # print(ETF_Symbol)
         # ETF_Date_List, ETF_Price_List = __Get_ETF_Price(ETF_Symbol)
@@ -251,8 +266,16 @@ def __KO_ETF_Allocation() :
         # print(ETF_Date_List[:250]) # 1년 52주 중에서 52*주말 2일 = 104일(주말) + 공휴일까지 대충 110 빼서 1년을 250일
         # print(ETF_Price_List[:250]) # 1년 52주 중에서 52*주말 2일 = 104일(주말) + 공휴일까지 대충 110 빼서 1년을 250일
 
+        print("# ETF Date List")
+        print(ETF_Date_List)
+        print("# ETF_Price_List")
+        print(ETF_Price_List)
+
+        print("# ETF_Symbol")
         print(ETF_Symbol)
+        print("# ETF_Symbol_List")
         print(ETF_Symbol_List)
+        print("# ETF_Symbol_List --> ETF Symbol")
         print(ETF_Symbol_List.index(ETF_Symbol))
         print(ETF_Symbol_List[ETF_Symbol_List.index(ETF_Symbol)])
         
@@ -312,7 +335,9 @@ def __KO_ETF_Allocation() :
                     ETF_History.append(int(0))
                 else :
                     ETF_History.append(int(-1))
-        
+
+        print("# 마지막 종가 : %s, %i" % (ETF_Date_List[-1], ETF_Price_List[-1]))
+
         DF_ETF_Average[ETF_StockName] = ETF_Mean
         DF_ETF_Average_Hist[ETF_StockName] = ETF_History
         DF_ETF_Profit[ETF_StockName] = ETF_Profit
