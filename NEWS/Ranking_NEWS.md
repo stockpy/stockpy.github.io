@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_1419 </title></head>
-<center>Vers : 20260101_1419 </center>
-<center>Vers : 20260101_2319 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_1444 </title></head>
+<center>Vers : 20260101_1444 </center>
+<center>Vers : 20260101_2344 </center>
 <br><br><br>
 #### ['14만전자·115만닉스 된다' 파격 전망…개미들 '흥분'](https://m.stock.naver.com/news/ranknews/view/015/0005231564)
 #### [비트코인, 사상 최고가 경신에도 3년 만에 연간 하락](https://m.stock.naver.com/news/ranknews/view/654/0000159365)
