@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260101_1829 </title></head>
-<center>Vers : 20260101_1829 </center>
-<center>Vers : 20260102_0329 </center>
+<head><meta charset="utf-8"><title>Vers : 20260101_1854 </title></head>
+<center>Vers : 20260101_1854 </center>
+<center>Vers : 20260102_0354 </center>
 <br><br><br>
+#### [스위스 스키 리조트 바에서 발생한 치명적인 화재에 세계가 반응하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424592)
+#### [러시아, 미국에 도망친 유조선 추격 중단 요청, 뉴욕 타임즈 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424590)
+#### [미국, 대만 인근에서 중국의 군사 활동으로 '불필요하게' 긴장 고조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424591)
 #### [사립 병원 대기업 스파이어, 구혼자 모집 마감일 설정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424589)
 #### [축제 러너들이 연례 베를린 새해맞이 행사에 참여합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424588)
 #### [페루에서 새해 전야 비공식 광부 공격으로 3명이 사망하고 7명이 실종되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424587)
@@ -59,7 +62,3 @@
 #### [불가리아, 유로화 도입으로 유럽 21개국 통화 클럽 가입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424534)
 #### [불가리아, 유로화 도입으로 유럽 21개국 통화 클럽 가입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424535)
 #### [불가리아, 유로존 가입 기념, 레프 통화 역사 속으로 사라져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424533)
-#### [인도 Cenbank, 인프라 프로젝트에 대한 NBFC의 노출에 대한 위험 가중치 프레임 워크에 대한 수정 지침 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424532)
-#### [중국 BYD, 자국 내 역풍으로 5년 만에 가장 저조한 판매 성장률 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424531)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601633.SS/total>
-#### [우크라이나 드론, 타타르스탄 크라스노다르 지역의 러시아 에너지 목표물 공격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424530)
