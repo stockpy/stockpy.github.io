@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_1829 </title></head>
-<center>Vers : 20260102_1829 </center>
-<center>Vers : 20260103_0329 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_1854 </title></head>
+<center>Vers : 20260102_1854 </center>
+<center>Vers : 20260103_0354 </center>
 <br><br><br>
+#### [캐나다 달러, 공장 침체가 길어지면서 주간 하락폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425256)
+#### [차등가격은 안정적 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425257)
+#### [2025년 S&P 500을 능가하는 D.E. 쇼의 주력 펀드가 시장 변동성을 능가할 것이라고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425254)
+#### [오스트리아의 리엔스베르거, 훈련 중 낙상 후 무릎 수술을 받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425252)
+#### [미국 판사가 워싱턴에 파이프 폭탄을 설치한 혐의로 기소된 남성에게 구금 유지를 명령했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425255)
+#### [뉴욕 연준, 리버스 리포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425253)
 #### [USD/JPY가 도지를 형성합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425250)
 #### [복싱-나이지리아 경찰, 조슈아 운전자에게 치명적인 충돌 사고로 위험 운전 혐의 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425251)
 #### [에코피스크 및 포티즈 상품 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425246)
@@ -67,9 +73,3 @@
 #### [버크셔 해서웨이, 주가 하락으로 포스트 버핏 시대 개막](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425196)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
 #### [스위스, 술집 화재 피해자를 확인하는 데 며칠이 걸릴 수 있다고 말하다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425195)
-#### [암스테르담 공항, 눈으로 인해 수백 건의 결항이 예상된다고 ANP가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425199)
-#### [이탈리아 알프스에서 눈사태로 2명이 사망하고 여러 명이 부상당했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425197)
-#### [미국, 노스캐롤라이나에서 ISIS가 영감을 받은 새해 전야 공격을 저지했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425194)
-#### [브라질 반독점 당국, 마이크로소프트에 대한 조사 개시, Valor Economico 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425198)
-#### [미국 농무부 주간 곡물, 대두 수출 판매량 추정치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425190)
-#### [숀펠드 스트래티직 어드바이저는 두 개의 펀드에서 두 자릿수 2025년 수익률을 기록했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425193)
