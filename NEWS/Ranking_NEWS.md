@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_0525 </title></head>
-<center>Vers : 20260102_0525 </center>
-<center>Vers : 20260102_1425 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_0549 </title></head>
+<center>Vers : 20260102_0549 </center>
+<center>Vers : 20260102_1449 </center>
 <br><br><br>
 #### [“지금 사도 안 늦었다?” ‘86만원’까지 간다…높아지는 SK하이닉스 ‘목표가’ [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002580152)
 #### [이창용 "원화가 곧 휴지조각? 국내서 유튜버들 하는 얘기"](https://m.stock.naver.com/news/ranknews/view/001/0015825453)

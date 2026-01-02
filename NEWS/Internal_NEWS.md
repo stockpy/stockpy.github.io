@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_0525 </title></head>
-<center>Vers : 20260102_0525 </center>
-<center>Vers : 20260102_1425 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_0549 </title></head>
+<center>Vers : 20260102_0549 </center>
+<center>Vers : 20260102_1449 </center>
 <br><br><br>
+#### [인도의 Olectra Greentech, 전기차 공장에서 1단계 가동 시작 후 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424705)
+#### [채권 매각 전 인도 채권 하락, 국채 공급에 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424704)
+#### [베트남 동, 금 환율 - 1월 2일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424701)
+#### [싱가포르, 한국, 대만의 주식이 새해를 맞아 기록적인 상승세를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424700)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.TWII>
+#### [영국 금융 감시단, 100건의 조사 종료 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424703)
+#### [인도 중앙 은행은 국영 은행을 통해 90 달러에 가까운 활동을 할 가능성이 있다고 상인들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424702)
+#### [1월 2일에 주목해야 할 요소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424699)
 #### [싱가포르, 한국, 대만의 주식이 새해를 맞아 기록적인 상승세를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424694)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.TWII>
 #### [자동차 판매 데이터 호조로 자동차가 랠리를 주도하면서 인도 증시 상승, ITC 상한선 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424692)
@@ -68,6 +76,10 @@
 #### [대부분의 아시아 통화 하락으로 한국 원화, 인도네시아 루피아가 하락세 주도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424649)
 #### [바이두 홍콩 주가, AI 칩 부문 분사 계획으로 3개월 만에 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424647)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9888.HK/total>
+<head><meta charset="utf-8"><title>Vers : 20260102_0549 </title></head>
+<center>Vers : 20260102_0549 </center>
+<center>Vers : 20260102_1449 </center>
+<br><br><br>
 #### [미국 유가는 $ 57.17에서 지지선을 다시 테스트 할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424645)
 #### [구리, 기록적인 2025년 랠리 이후 견조하게 새해를 시작하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424643)
 #### [1월 2일 인도 경제, 기업 이벤트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424644)
@@ -77,10 +89,6 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6082.HK/total>
 #### [바이두, 1월 1일 쿤룬신, 홍콩 증권거래소에 상장 신청서 제출했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424635)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9888.HK/total>
-<head><meta charset="utf-8"><title>Vers : 20260102_0525 </title></head>
-<center>Vers : 20260102_0525 </center>
-<center>Vers : 20260102_1425 </center>
-<br><br><br>
 #### [링크 부동산 투자, 전무이사에 존 러셀 손더스 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424639)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0823.HK/total>
 #### [ASIA RICE- 인도 금리, 3 개월 최고치; 수요 우려로 태국, 베트남 상인들을 사로 잡다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424637)
@@ -146,6 +154,10 @@
 #### [축제 러너들이 연례 베를린 새해맞이 행사에 참여합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424588)
 #### [페루에서 새해 전야 비공식 광부 공격으로 3명이 사망하고 7명이 실종되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424587)
 #### [스위스 스키 리조트 바에서 화재로 약 40 명이 사망했다고 스위스 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424586)
+<head><meta charset="utf-8"><title>Vers : 20260102_0549 </title></head>
+<center>Vers : 20260102_0549 </center>
+<center>Vers : 20260102_1449 </center>
+<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424585)
 #### [미국 연방 근로자들이 트럼프의 성평등 정책에 도전합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424584)
 #### [페루의 비공식 광부들에 대한 새해 전야 공격으로 3 명 사망, 7 명 실종](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424583)
@@ -153,10 +165,6 @@
 #### [트랜살타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424581)
 #### [러시아와 우크라이나, 새해 첫날 민간인 공격 의혹을 주고받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424579)
 #### [네덜란드에서 불꽃놀이 사고로 2명이 사망하고 암스테르담의 유서 깊은 교회에 화재가 발생했습니다,](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424580)
-<head><meta charset="utf-8"><title>Vers : 20260102_0525 </title></head>
-<center>Vers : 20260102_0525 </center>
-<center>Vers : 20260102_1425 </center>
-<br><br><br>
 #### [Yum Brands' 인도, 사파이어와 데브야니 합병으로 거대 패스트푸드 프랜차이즈 탄생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424578)
 #### [슬로베니아의 프레브치, 포 힐스 2연패에 도전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424577)
 #### [우크라이나의 수석 평화 협상가가 터키 외무 장관을 만났다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424575)
@@ -211,14 +219,3 @@
 #### [기도와 의식의 딥으로 새해를 맞이하는 인디언들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424527)
 #### [인도 채권은 수요가 흔들리면서 2026 년 첫날 거의 변동이 없었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424525)
 #### [인도 용매 추출기 협회 - Jan 01](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424524)
-#### [인도는 1월에 더 추울 것으로 기상청은 예보했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424526)
-#### [인도 주식, 루피, 스왑, 마감 시 통화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424528)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BSESN>
-#### [인도 주식, 루피, 스왑, 마감 시 통화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424521)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BSESN>
-#### [오리콘 엔터프라이즈, 테인 제조 사업부 자산 매각 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424523)
-#### [BYD, 국내 역풍으로 5년 만에 가장 낮은 매출 성장률 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424522)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1211.HK/total>
-#### [우크라이나 군, 러시아 일 스키 정유소를 공격했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424520)
-#### [분석-AI 지출, 기업 이익 호조, 연준 금리 인하가 2026년 미국 주식 시장의 핵심으로 여겨집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2424519)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
