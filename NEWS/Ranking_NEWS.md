@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_2220 </title></head>
-<center>Vers : 20260102_2220 </center>
-<center>Vers : 20260103_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_2244 </title></head>
+<center>Vers : 20260102_2244 </center>
+<center>Vers : 20260103_0744 </center>
 <br><br><br>
 #### ["10억 벌었다" 그야말로 초대박…삼성전자 개미들 '축제' [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005232104)
 #### ["아직 40세인데 나가라니"...86년생부터 선택의 기로](https://m.stock.naver.com/news/ranknews/view/008/0005299623)

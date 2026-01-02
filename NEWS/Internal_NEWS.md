@@ -1,7 +1,60 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_2220 </title></head>
-<center>Vers : 20260102_2220 </center>
-<center>Vers : 20260103_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_2244 </title></head>
+<center>Vers : 20260102_2244 </center>
+<center>Vers : 20260103_0744 </center>
 <br><br><br>
+#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425360)
+#### [브라질 아제베두 & 트라바소스: 주주 호세 마우리시오 곤칼베스, 지분을 19.44%로 늘리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425363)
+#### [한국, 미국산 옥수수 구매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425365)
+#### [브라질의 테크노: 주주 호아킴 페드로 안드레스 리베이로, 지분을 20.19%로 늘리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425359)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425364)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425362)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425358)
+#### [글림프 그룹, 최대 $9,478,200의 보통주 공모 신청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425361)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VRAR.O/total>
+#### [맥코믹, 맥코믹 데 멕시코의 지배 지분 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425357)
+#### [트레저 글로벌, 12월 26일 V 갤런트와 세 번째 추가 서신 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425350)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TGL.O/total>
+#### [인텔리아 테라퓨틱스, 나스닥 상장 규정 5635(C)(4)에 따른 인센티브 보조금 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425336)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NTLA.O/total>
+#### [후커 퍼니싱, 업계 전문성을 갖춘 새로운 사외이사 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425356)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOFT.O/total>
+#### [아타라 바이오테라퓨틱스, 피에르 파브르와 제4차 수정안 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425349)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ATRA.O/total>
+#### [카리오팜 테라퓨틱스, 나스닥 상장 규정 5635(C)(4)에 따른 유도 보조금 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425346)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KPTI.O/total>
+#### [베리사인, 4분기 및 2025년 전체 재무 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425355)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VRSN.O/total>
+#### [샌디스크, 알렉산더 R. 브래들리를 이사회에 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425348)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SNDK.O/total>
+#### [나스닥 상장 규정 5635(C)(4)에 따라 신입 직원에 대한 장려금 지급을 보고한 턴스 파마슈티컬스(Terns Pharmaceuticals) 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425345)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TERN.O/total>
+#### [Southwest Gas Holdings Inc - 2025년 12월 31일, 앤드류 테노가 사우스웨스트 가스 홀딩스 이사회에서 사임 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425354)
+#### [mF 국제 제한 파일 미공개 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425347)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MFI.O/total>
+#### [Genasys Inc - 12월 24일, 이사회에서 카산드라 에르난데스-몬테온을 CFO로 승진 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425344)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GNSS.O/total>
+#### [Alumis Inc - 공동 및 그 사업부, 바이오 등반에 대한 중대한 위반 통지 및 배상 청구 통지 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425353)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ALMS.O/total>
+#### [나이트-스위프트 운송 홀딩스 - 2025 년 12 월 31 일, 사업부, 채권 매입 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425334)
+#### [슈퍼 마이크로 컴퓨터 - 12월 29일, 신용 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425343)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMCI.O/total>
+#### [바우쉬 앤 롬 코퍼레이션, 2022년 5월 10일자로 신용 계약에 대한 네 번째 수정안 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425352)
+#### [뉴욕증권거래소 상장 규정 303A.08에 따른 폭력적 보고 유도 상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425333)
+#### [1월 내내 투자자들과 만나는 넥테라 에너지 브리핑](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425342)
+#### [제리스 파마슈티컬스, 나스닥 상장 규정 5635(C)(4)에 따른 인센티브 보조금 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425351)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/XERS.O/total>
+#### [자이 매디슨 주식 프리미엄 인컴 펀드, 주당 $ 0.060의 월별 분배금 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425332)
+#### [포토닉스, 최고 기술 책임자 크리스토퍼 프로글러 박사의 교체 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425341)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLAB.O/total>
+#### [볼드윈 그룹, CAC 그룹과의 합병 거래 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425338)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BWIN.O/total>
+#### [빅베어닷에이아이, 부채 대폭 감소를 통해 대차대조표를 강화하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425331)
+#### [칼라 바이오, 합의 계약의 일환으로 옥스포드 파이낸스에 200만 달러 지불](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425340)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KALA.O/total>
+#### [그랑드 그룹 싱 혼, 램 CFO 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425337)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GRAN.O/total>
+#### [피나클 파이낸셜 파트너스, 혼합형 선반 크기 미공개 - SEC 파일링](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425335)
+#### [미국 공유 병원 서비스 미감사 요약 재무상태표 9월 30일 현재 재무제표의 일부 비현실적임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425339)
 #### [퀸스트리트, 선순위 담보 신용 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425315)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/QNST.O/total>
 #### [12월 24일, 다음/잉글 홀딩스가 발행한 약속 어음에 따른 채무 불이행을 주장하는 코헨 글로벌 에너지의 고소장 접수 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425323)
@@ -37,44 +90,3 @@
 #### [시카고 대두, 브라질 수출과의 경쟁으로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425307)
 #### [미국 연준 주간 대차 대조표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425308)
 #### [캘리포니아의 공개 총기 소지 금지는 위헌이라고 법원은 판결했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425306)
-#### [미국 곡물 바지선 운임 값은? Jan 2](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425305)
-#### [브라질 감사원, 방코 마스터의 청산에 대한 중앙은행의 행위를 조사하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425300)
-#### [일본, 유럽, 인도는 2026년 투자자들에게 유망한 시장이라고 CIO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425304)
-#### [일자리 데이터는 2026 년이 시작되면서 휴일 평온에서 주가를 뒤흔들 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425302)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
-#### [페트로브라스는 2분기에 P-79 석유 플랫폼에서 생산을 시작할 것으로 예상한다고 이사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425299)
-#### [캘리포니아주 토랜스 정유공장, 1월 6일부터 18일까지 계획된 플레어 이벤트 발생 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425303)
-#### [나스닥 마감 후 신년 파티](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425301)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
-#### [다우, 2026년 첫날 상승 마감...여전히 산타클로스 랠리는 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425298)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
-#### [CBOT 밀이 전 세계 대량 공급으로 하락세를 보이고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425297)
-#### [미디어넥스트, 어려움을 겪고 있는 패션 브랜드 LK 베넷의 가격 인하를 단행하다 - 스카이뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425295)
-#### [젤렌스키, 우크라이나의 새 국방부 장관으로 페도로프 제1부총리 임명 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425296)
-#### [미국산 오일 및 지방 - 1월 2일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425294)
-#### [브라질 수출과의 경쟁으로 CBOT 대두 가격 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425291)
-#### [1월 2일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425292)
-#### [미국 천연가스 선물이 더운 날씨와 수요 둔화 전망에 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425293)
-#### [비즈니스 전망: 새해, 같은 FOMO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425290)
-#### [휴일 이후 제한된 거래로 CBOT 옥수수 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425289)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425288)
-#### [젤렌스키, 우크라이나의 새 국방부 장관으로 페도로프 제1부총리 임명 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425285)
-#### [새해 벽두부터 월가가 요동치고 국채 금리는 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425286)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
-#### [에퀴노르, 미국의 엠파이어 윈드 프로젝트 중단 명령에 이의를 제기하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425287)
-#### [중남미 자산 강세로 한 해 시작, 베네수엘라가 외교적으로 유화적인 행보를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425280)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
-#### [디이쇼, 브리지워터, 발야스니가 이끄는 상위 헤지펀드들이 2025년에 큰 수익을 낼 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425283)
-#### [미국 원자력 발전소 정전 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425279)
-#### [금요일에 미국 원자력 발전 용량이 1,419MW로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425282)
-#### [ICE, FCOJ 선물 일일 가격 제한을 파운드당 10센트로 낮추다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425281)
-#### [2026년 첫 거래일 미국 국채 수익률 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425284)
-#### [달러는 8년 만에 가장 큰 연간 하락 후 2026 년 초 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425277)
-#### [79 석유 플랫폼에서 생산을 시작할 것으로 예상한다고 이사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425278)
-#### [미국 북서부 강 유량 최대 99퍼센트 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425275)
-#### [재생-달러 상승, USD/엔 상승 편향, USD/CNH 하락 추세 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425276)
-#### [치명적인 스위스 술집 화재에서 '기적적으로' 탈출한 생존자 이야기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425272)
-#### [중국의 소고기 수입 억제 움직임 이후 브라질 육류 포장 업체 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425271)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BVSP>
-#### [아시아 외환 시장 오픈 - 1월 5일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425274)
-#### [에퀴노르, 엠파이어가 임대 중단 명령에 대한 가처분 신청을 제기한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425269)
