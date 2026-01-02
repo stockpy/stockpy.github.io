@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_2319 </title></head>
-<center>Vers : 20260102_2319 </center>
-<center>Vers : 20260103_0819 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_2340 </title></head>
+<center>Vers : 20260102_2340 </center>
+<center>Vers : 20260103_0840 </center>
 <br><br><br>
 #### [주가 8만원 가나 했는데…5만원대 추락에 '망연자실'한 개미 [윤현주의 主食이 주식]](https://m.stock.naver.com/news/ranknews/view/015/0005232163)
 #### ["10억 벌었다" 그야말로 초대박…삼성전자 개미들 '축제' [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005232104)

@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_2319 </title></head>
-<center>Vers : 20260102_2319 </center>
-<center>Vers : 20260103_0819 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_2340 </title></head>
+<center>Vers : 20260102_2340 </center>
+<center>Vers : 20260103_0840 </center>
 <br><br><br>
+#### [연준이 2026 년에 인하하지 않으면 간과 된 주식이 혜택을받을 수 있다고 CIO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425384)
+#### [대두, 옥수수 바지선 기준은 인근 선적량에서 꾸준히 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425383)
 #### [Atco Power Alberta 385MW 배틀 리버 5 석탄 발전소 가동 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425381)
 #### [치명적인 화재 이후 스위스 바의 안전 설정에 대한 조사가 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425380)
 #### [리엇 플랫폼, 최고 재무 책임자로 제이슨 정 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425382)
@@ -86,6 +88,3 @@
 #### [최대 2억 달러의 혼합 선반에 대한 간략한 코인체크 그룹 NV 파일 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425322)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CNCK.O/total>
 #### [앱티브, 2025년 4분기 재무 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425319)
-#### [파트리아 인베스트먼트, 솔리스 인베스티멘토스 지분 51% 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425327)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PAX.O/total>
-#### [바우쉬 + 롬, 만기 B 대출의 리파이낸싱 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425321)
