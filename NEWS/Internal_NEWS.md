@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_1914 </title></head>
-<center>Vers : 20260102_1914 </center>
-<center>Vers : 20260103_0414 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_1938 </title></head>
+<center>Vers : 20260102_1938 </center>
+<center>Vers : 20260103_0438 </center>
 <br><br><br>
+#### [치명적인 스위스 술집 화재에서 '기적적으로' 탈출한 생존자 이야기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425272)
+#### [중국의 소고기 수입 억제 움직임 이후 브라질 육류 포장 업체 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425271)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BVSP>
+#### [아시아 외환 시장 오픈 - 1월 5일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425274)
+#### [에퀴노르, 엠파이어가 임대 중단 명령에 대한 가처분 신청을 제기한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425269)
+#### [슈가로프 TGIF 경영진의 TGI 프라이데이스 파산 계획으로 수백 개의 일자리가 사라질 것 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425270)
+#### [S&P 500, 나스닥은 작년의 견조한 상승 이후 2026 년을 시작하기 위해 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425273)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
+#### [USA가 사이버 보안 문제에 대한 업데이트를 제공한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425268)
+#### [베이스는 연휴 이후 조용한 거래에서 안정적입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425266)
+#### [코멘트-미국 요약: 유로화, 달러 혼조세에 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425267)
+#### [북유럽 원자력 발전소 정전 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425264)
+#### [귀금속, 금리 인하 베팅과 안전자산 수요로 2026년 초 상승세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425265)
 #### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425263)
 #### [수요 감소, 크레딧 만료로 테슬라가 BYD에 전기차 왕좌를 빼앗기다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425260)
 #### [시카고 대두, 브라질 수출과의 경쟁으로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425262)
@@ -59,16 +72,3 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425216)
 #### [나이지리아 경찰, 조슈아 운전자에게 치명적인 충돌로 위험 운전 혐의 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425214)
 #### [2025년 이탈리아 공공 부문 적자, 전년대비 소폭 확대될 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425217)
-#### [이탈리아의 테슬라 신차 판매량, 2025년 연간 18% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425215)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [디젤 수익 마진 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425213)
-#### [바바라 게이센 CFO가 물러나기로 결정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425209)
-#### [사우스 캐롤라이나의 홍역 사례가 9 명에서 185 명으로 증가했다고 주 보건부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425210)
-#### [사우스캐롤라이나 보건부, 1월 2일 기준 188건의 홍역 사례 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425206)
-#### [미국 여자 아이스하키, 밀라노-코르티나에서 라이벌 캐나다에 복수 노리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425208)
-#### [미국 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425212)
-#### [캐나다 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425205)
-#### [업데이트 1 글로벌 AI 붐이 투자 심리를 끌어올리면서 FTSE 100 지수 10,000 돌파](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425207)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
-#### [우크라이나 하르키프에 대한 러시아의 공격으로 최소 25 명이 부상 당했다고 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425211)
-#### [영국 규제 당국, 조사 중인 클레임 회사 이름을 밝히기 위한 법정 싸움에서 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425202)
