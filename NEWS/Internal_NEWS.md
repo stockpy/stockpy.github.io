@@ -1,7 +1,28 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_2244 </title></head>
-<center>Vers : 20260102_2244 </center>
-<center>Vers : 20260103_0744 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_2319 </title></head>
+<center>Vers : 20260102_2319 </center>
+<center>Vers : 20260103_0819 </center>
 <br><br><br>
+#### [Atco Power Alberta 385MW 배틀 리버 5 석탄 발전소 가동 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425381)
+#### [치명적인 화재 이후 스위스 바의 안전 설정에 대한 조사가 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425380)
+#### [리엇 플랫폼, 최고 재무 책임자로 제이슨 정 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425382)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RIOT.O/total>
+#### [코바시 합병으로 인한 우니아오 펫 주식, 1월 5일 거래 개시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425376)
+#### [크루드-서부 캐나다 셀렉트 할인 좁혀보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425379)
+#### [마르티네즈 정유 공장 운영에 대한 업데이트와 2026년 연간 지침 정보를 제공하는 브리프-PBF 에너지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425373)
+#### [PBF 에너지, 마르티네즈 정유소 재건이 2월까지 연장될 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425375)
+#### [제임스 C. 마스탄드레아, 화이트스톤 리츠 이사회 교체 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425378)
+#### [코어위브, Ddtl 3.0 신용 계약 수정 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425372)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRWV.O/total>
+#### [안테리스 테크놀로지스 글로벌, 최대 5억 달러의 혼합 선반에 대한 파일링 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425374)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AVR.O/total>
+#### [2020년 11월 24일자 특정 신용 계약에 대한 네 번째 수정안 체결 - SEC 제출 - 요약-프로그 홀딩스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425377)
+#### [이스라엘의 NGO 중단에 대해 깊이 우려하는 유엔 책임자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425369)
+#### [베이스, 연휴 이후 조용한 거래 속 강세 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425371)
+#### [브라질 남부에서 버스가 트럭과 정면 충돌해 11명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425370)
+#### [PBF 에너지, 마르티네즈 정유소 재건이 2월까지 연장될 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425368)
+#### [펀드는 CBOT 대두, 대두유, 옥수수 및 밀 선물의 순 판매자라고 트레이더들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425366)
+#### [SPDR 금 보유량 0.51% 또는 5.43톤 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425367)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLD/total>
 #### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425360)
 #### [브라질 아제베두 & 트라바소스: 주주 호세 마우리시오 곤칼베스, 지분을 19.44%로 늘리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425363)
 #### [한국, 미국산 옥수수 구매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425365)
@@ -68,25 +89,3 @@
 #### [파트리아 인베스트먼트, 솔리스 인베스티멘토스 지분 51% 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425327)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PAX.O/total>
 #### [바우쉬 + 롬, 만기 B 대출의 리파이낸싱 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425321)
-#### [특정 블랙록 시립 폐쇄형 펀드에 대한 분배 날짜 및 금액 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425318)
-#### [아폴로 - 4분기 대체 순투자 수익 약 3억 2,500만 달러(세전) 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425326)
-#### [넥테라 에너지, 2025년 조정 EPS 3.62~3.70달러, 2026년 조정 EPS 3.92~4.02달러 예상 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425330)
-#### [솔메이트 인프라, 에레즈 심하 사외이사 겸 감사위원회 위원장 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425317)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SLMT.O/total>
-#### [구겐하임 인베스트먼트, 2026년 1월 폐쇄형 펀드 분배 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425325)
-#### [펠토스 테라퓨틱스 - 12월 23일, 해치테크와 자산 인수 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425329)
-#### [얼라이드 골드 코퍼레이션, 2026년까지 생산량 50% 증가 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425316)
-#### [레전스, 바우어스 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425324)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LGN.O/total>
-#### [TSX, 에너지 주가 상승으로 2026년 상승세로 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425328)
-#### ['탑건: 매버릭'의 파라마운트에 대한 저작권 소송, 미국 항소법원에서 기각됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425313)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
-#### [월가는 새해 첫날 혼조세로 마감, 국채 금리는 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425311)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
-#### [ICE 카놀라 선물은 일찍 하락했지만 세션이 끝날 때쯤 회복했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425312)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425310)
-#### [다우, 2026년 첫날 상승 마감...여전히 산타클로스 랠리는 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425309)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [시카고 대두, 브라질 수출과의 경쟁으로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425307)
-#### [미국 연준 주간 대차 대조표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425308)
-#### [캘리포니아의 공개 총기 소지 금지는 위헌이라고 법원은 판결했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425306)
