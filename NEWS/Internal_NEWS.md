@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_1938 </title></head>
-<center>Vers : 20260102_1938 </center>
-<center>Vers : 20260103_0438 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_2022 </title></head>
+<center>Vers : 20260102_2022 </center>
+<center>Vers : 20260103_0522 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425288)
+#### [젤렌스키, 우크라이나의 새 국방부 장관으로 페도로프 제1부총리 임명 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425285)
+#### [새해 벽두부터 월가가 요동치고 국채 금리는 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425286)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
+#### [에퀴노르, 미국의 엠파이어 윈드 프로젝트 중단 명령에 이의를 제기하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425287)
+#### [중남미 자산 강세로 한 해 시작, 베네수엘라가 외교적으로 유화적인 행보를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425280)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
+#### [디이쇼, 브리지워터, 발야스니가 이끄는 상위 헤지펀드들이 2025년에 큰 수익을 낼 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425283)
+#### [미국 원자력 발전소 정전 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425279)
+#### [금요일에 미국 원자력 발전 용량이 1,419MW로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425282)
+#### [ICE, FCOJ 선물 일일 가격 제한을 파운드당 10센트로 낮추다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425281)
+#### [2026년 첫 거래일 미국 국채 수익률 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425284)
+#### [달러는 8년 만에 가장 큰 연간 하락 후 2026 년 초 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425277)
+#### [79 석유 플랫폼에서 생산을 시작할 것으로 예상한다고 이사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425278)
+#### [미국 북서부 강 유량 최대 99퍼센트 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425275)
+#### [재생-달러 상승, USD/엔 상승 편향, USD/CNH 하락 추세 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425276)
 #### [치명적인 스위스 술집 화재에서 '기적적으로' 탈출한 생존자 이야기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425272)
 #### [중국의 소고기 수입 억제 움직임 이후 브라질 육류 포장 업체 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425271)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BVSP>
@@ -33,7 +49,7 @@
 #### [복싱-나이지리아 경찰, 조슈아 운전자에게 치명적인 충돌 사고로 위험 운전 혐의 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425251)
 #### [에코피스크 및 포티즈 상품 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425246)
 #### [중국 브랜드가 시장 점유율을 늘리면서 이탈리아의 신차 판매량은 2025 년에 2.12 % 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425249)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002594.SZ/total>
 #### [버크셔 해서웨이, 포스트 버핏 시대 개막으로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425245)
 #### [미국 상업 어음 시장이 주간 연방에서 축소되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425243)
 #### [멕시코 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425248)
@@ -55,20 +71,3 @@
 #### [인도 히스데샛, 우주 입자 충돌 후 비상 계획 시작 스페인Sat NG II 위성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425234)
 #### [러시아 국방부, 러시아의 하르 키우 공격에 대한 보도는 사실이 아니라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425229)
 #### [개인투자자 2024년 10월 이후 최저치 ?- AAII](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425227)
-#### [미국 판사는 워싱턴에 파이프 폭탄을 설치 한 혐의로 기소 된 남자에게 구금 유지를 명령합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425233)
-#### [PMGC 홀딩스, 1대 4 역 주식 분할 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425228)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ELAB.O/total>
-#### [피나클 파이낸셜 파트너스, 혼합 선반용 파일, 크기 미공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425225)
-#### [HHS 및 DEA, 2026년까지 규제 약물 처방을 위한 원격 의료 유연성 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425222)
-#### [브라질 반독점 당국, Microsoft의 클라우드 서비스에 대한 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425226)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [남자 아이스하키 대표팀이 밀라노-코르티나에서 금메달 가뭄을 해소하는 데 도움을 준 올림픽-미국 희망팀 케미스트리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425224)
-#### [옥수수, 대두 기준 입찰 대부분 안정에서 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425221)
-#### [미국은 새로운 용량을 통해 새로운 LNG 수출 기록을 세웠습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425219)
-#### [2026년 거래 첫날 미국 국채 수익률 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425223)
-#### [사우스 캐롤라이나의 홍역 사례가 9 건에서 185 건으로 증가했다고 주 보건부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425220)
-#### [유럽 증시, 2026년 사상 최고치 기록, 기술, 방위 산업이 상승세 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425218)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FCHI>
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425216)
-#### [나이지리아 경찰, 조슈아 운전자에게 치명적인 충돌로 위험 운전 혐의 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425214)
-#### [2025년 이탈리아 공공 부문 적자, 전년대비 소폭 확대될 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425217)
