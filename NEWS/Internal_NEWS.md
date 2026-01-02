@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_2116 </title></head>
-<center>Vers : 20260102_2116 </center>
-<center>Vers : 20260103_0616 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_2139 </title></head>
+<center>Vers : 20260102_2139 </center>
+<center>Vers : 20260103_0639 </center>
 <br><br><br>
+#### [브라질 감사원, 방코 마스터의 청산에 대한 중앙은행의 행위를 조사하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425300)
+#### [일본, 유럽, 인도는 2026년 투자자들에게 유망한 시장이라고 CIO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425304)
+#### [일자리 데이터는 2026 년이 시작되면서 휴일 평온에서 주가를 뒤흔들 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425302)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
+#### [페트로브라스는 2분기에 P-79 석유 플랫폼에서 생산을 시작할 것으로 예상한다고 이사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425299)
+#### [캘리포니아주 토랜스 정유공장, 1월 6일부터 18일까지 계획된 플레어 이벤트 발생 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425303)
+#### [나스닥 마감 후 신년 파티](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425301)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
+#### [다우, 2026년 첫날 상승 마감...여전히 산타클로스 랠리는 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425298)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
+#### [CBOT 밀이 전 세계 대량 공급으로 하락세를 보이고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425297)
 #### [미디어넥스트, 어려움을 겪고 있는 패션 브랜드 LK 베넷의 가격 인하를 단행하다 - 스카이뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425295)
 #### [젤렌스키, 우크라이나의 새 국방부 장관으로 페도로프 제1부총리 임명 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425296)
 #### [미국산 오일 및 지방 - 1월 2일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425294)
@@ -61,13 +72,3 @@
 #### [버크셔 해서웨이, 포스트 버핏 시대 개막으로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425245)
 #### [미국 상업 어음 시장이 주간 연방에서 축소되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425243)
 #### [멕시코 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425248)
-#### [EUR/USD-달러 급락으로 하룻밤 사이에 손실이 일부 회복되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425244)
-#### [독점- 엘리엇 파트너 제이슨 젠리치가 헤지 펀드를 떠났다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425242)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LULU.O/total>
-#### [미디어 캐피탈, 220만 유로에 이네비타벨 & 펀더멘털 지분 80% 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425247)
-#### [리스크에 대한 매수세가 약해지면서 상승세가 일부 꺾인 BUZZ-AUD/USD-Bulls](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425241)
-#### [S&P 500, 나스닥은 작년의 견조한 상승 이후 2026 년까지 소강 상태를 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425239)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [다이이치 산쿄, 표적 항암제 생산 시설 설립에 약 3,000억 엔 지출, 닛케이 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425237)
-#### [미지근한 개화기 속에서 좁은 범위에 갇힌 버즈 케이블](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425240)
-#### [Grok, 세이프가드 위반으로 인해 X에서 '최소한의 옷을 입은 미성년자' 이미지가 발견되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425238)
