@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_1521 </title></head>
-<center>Vers : 20260102_1521 </center>
-<center>Vers : 20260103_0021 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_1543 </title></head>
+<center>Vers : 20260102_1543 </center>
+<center>Vers : 20260103_0043 </center>
 <br><br><br>
+#### [Orsted, 미국의 50억 달러 해상 풍력 프로젝트 중단에 도전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425157)
+#### [사우디의 영웅 알 라지, 다카르 타이틀 방어에 도전장을 내밀다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425160)
+#### [럭셔리 리테일러 삭스 글로벌의 CEO 마크 메트릭 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425159)
+#### [젤렌스키, 올레 이바슈첸코를 새 군사 정보국장으로 임명할 것이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425156)
+#### [에어버스, 배송 신뢰도 증가에 따라 1월 12일 데이터 발행 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425155)
+#### [헤지펀드 밀레니엄, 2025년 투자자들에게 10.5% 수익률 제공 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425158)
+#### [중남미 자산, 연초 강세 출발; 투자자들은 베네수엘라에 대한 기대감을 저울질하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425152)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
+#### [멕시코로의 송금액, 11월 5.7% 감소하며 8개월 연속 감소세 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425150)
+#### [친환경적인 한 해의 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425154)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
+#### [GBP/USD, 미국 데이터를 앞두고 중앙은행 발언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425151)
+#### [멕시코, 이틀 만에 두 번째 나사벌레 사례 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425153)
 #### [트루이스트, MGM 리조트 인터내셔널에서 PT를 진행하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425147)
 #### [상장폐지 신청에 대한 간략한 설명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425149)
 #### [Tesla, 4분기 배송량 감소 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425148)
@@ -62,21 +75,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MTUM.K/total>
 #### [테슬라의 분기별 인도량이 전기차 수요 감소로 예상보다 많이 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425101)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [Cct Fortis, 주식 통합 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425092)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0138.HK/total>
-#### [캐나다 달러 약세, 벤치마크 수익률 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425096)
-#### [브라질 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425091)
-#### [HKC 인터내셔널, 주식 통합 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425100)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0248.HK/total>
-#### [홍콩증권거래소, 1월 7일 덱신 차이나의 주식 상장 취소 예정 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425095)
-#### [한버키, 이춘호 프레드릭을 전무이사로 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425098)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3322.HK/total>
-#### [베이스트로피, 한 쉬와 리 에이밍 전무이사 사임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425099)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8460.HK/total>
-#### [임페리얼 파이낸셜, 쳉팅콩 회장 사임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425094)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8029.HK/total>
-#### [유펑창 홀딩스, 산시 유펑창이 그룹에 속하지 않는다고 해명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425097)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8631.HK/total>
-#### [유펑창 홀딩스, 선콩 홀딩스로 사명 변경 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425093)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8631.HK/total>
-#### [트럼프, 시위 사망자 문제로 이란을 위협하며 정정 불안 고조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425085)
