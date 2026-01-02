@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_1625 </title></head>
-<center>Vers : 20260102_1625 </center>
-<center>Vers : 20260103_0125 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_1649 </title></head>
+<center>Vers : 20260102_1649 </center>
+<center>Vers : 20260103_0149 </center>
 <br><br><br>
+#### [미국 농무부 주간 곡물, 대두 수출 판매량 추정치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425190)
+#### [숀펠드 스트래티직 어드바이저는 두 개의 펀드에서 두 자릿수 2025년 수익률을 기록했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425193)
+#### [양처럼: S&P 글로벌 PMI는 12월 공장 활동이 확장되었음을 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425192)
+#### [FBI, 새해 전야에 ISIS에서 영감을 받은 잠재적 공격을 막았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425189)
+#### [COMMENT-USD/JPY- 200HMA를 상회하는 통합으로 단기 편향성 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425191)
+#### [포르투갈, 1월 7일에 10개월짜리 T-Bill 경매 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425185)
+#### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425187)
+#### [TSX는 2026 년을 이익으로 시작합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425188)
+#### [폴로니아 요금이 0.11퍼센트 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425186)
+#### [베네수엘라 마두로, 미국과 '진지한' 회담 의향 있어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425184)
+#### [에어버스, 배송 신뢰도 증가에 따라 1월 12일 데이터 발행 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425182)
+#### [귀금속, 금리 인하 베팅과 안전자산 수요로 2026년 초 상승세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425183)
+#### [우크라이나 곡물 수출량(1월 2일 기준)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425181)
 #### [버크셔 해서웨이, 주가 하락으로 포스트 버핏 시대 개막](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425179)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
 #### [협상 실패 후 칠레 Capstone Copper의 만토베르데 광산에서 광부들이 파업을 벌입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425180)
@@ -33,7 +46,7 @@
 #### [에어버스, 배송 신뢰도 증가에 따라 1월 12일 데이터 발행 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425155)
 #### [헤지펀드 밀레니엄, 2025년 투자자들에게 10.5% 수익률 제공 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425158)
 #### [중남미 자산, 연초 강세 출발; 투자자들은 베네수엘라에 대한 기대감을 저울질하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425152)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
 #### [멕시코로의 송금액, 11월 5.7% 감소하며 8개월 연속 감소세 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425150)
 #### [친환경적인 한 해의 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425154)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
@@ -58,19 +71,3 @@
 #### [새해, 엔화 이슈는 여전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425145)
 #### [페트로브라스, 부지오스 유전에서 7번째 플랫폼 가동, 비료 공장 재가동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425133)
 #### [인도 주정부, 1월~3월 분기에 기록적인 5조 루피 차입 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425119)
-#### [오이 와 전당포 크레딧, 코어 데이터 인터내셔널에 5,500만 홍콩 달러 대출 진행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425127)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1319.HK/total>
-#### [2026년 첫 거래일 캐나다증권거래소-TSX 상승 개장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425132)
-#### [에버레스트 인더스트리, 세금 수요가 1450만 루피 감소했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425122)
-#### [월스트리트, 2026년 첫 거래일 상승 개장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425126)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
-#### [미래 세계, 상장 유가증권 처분](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425131)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0572.HK/total>
-#### [캐나다 - 1월 2일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425121)
-#### [신규 주문이 3개월 만에 최저치를 기록하면서 캐나다 공장 침체가 길어집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425125)
-#### [BUZZ- 금요일 뉴욕 컷에 대한 더 큰 옵션 만료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425130)
-#### [반다리 양말 수출위원회, 신주 발행을 통해 4억 9300만 루피 조달 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425120)
-#### [재생-미국 일자리 데이터, 금 랠리 및 외환, 도박, 외환 베팅](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425124)
-#### [종교 기업, 수레쉬 마할링암을 회장으로 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425135)
-#### [페트로넷 LNG, 판카즈 자인 회장직 사임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425123)
-#### [유포리아 인포테크(인도), 샴바 반자를 3년 임기의 전무 이사로 재임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425118)

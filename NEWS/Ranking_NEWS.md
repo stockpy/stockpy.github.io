@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_1625 </title></head>
-<center>Vers : 20260102_1625 </center>
-<center>Vers : 20260103_0125 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_1649 </title></head>
+<center>Vers : 20260102_1649 </center>
+<center>Vers : 20260103_0149 </center>
 <br><br><br>
 #### [“하이닉스 5억 베팅했다” 야수 공무원…1.4억 ‘익절’ 인증](https://m.stock.naver.com/news/ranknews/view/009/0005615653)
 #### ["10억 벌었다" 그야말로 초대박…삼성전자 개미들 '축제' [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005232104)
