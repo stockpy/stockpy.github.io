@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_1118 </title></head>
-<center>Vers : 20260102_1118 </center>
-<center>Vers : 20260102_2018 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_1139 </title></head>
+<center>Vers : 20260102_1139 </center>
+<center>Vers : 20260102_2039 </center>
 <br><br><br>
 #### [이제 막 40대 됐는데 나가라고?…고개 숙인 85년생 김과장](https://m.stock.naver.com/news/ranknews/view/015/0005232018)
 #### [삼전·하이닉스 나란히 '신고가'..."지금 더 사도 되나" 증권가 전망은](https://m.stock.naver.com/news/ranknews/view/008/0005299672)
