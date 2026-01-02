@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_2022 </title></head>
-<center>Vers : 20260102_2022 </center>
-<center>Vers : 20260103_0522 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_2043 </title></head>
+<center>Vers : 20260102_2043 </center>
+<center>Vers : 20260103_0543 </center>
 <br><br><br>
+#### [비즈니스 전망: 새해, 같은 FOMO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425290)
+#### [휴일 이후 제한된 거래로 CBOT 옥수수 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425289)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425288)
 #### [젤렌스키, 우크라이나의 새 국방부 장관으로 페도로프 제1부총리 임명 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425285)
 #### [새해 벽두부터 월가가 요동치고 국채 금리는 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425286)
@@ -49,7 +51,7 @@
 #### [복싱-나이지리아 경찰, 조슈아 운전자에게 치명적인 충돌 사고로 위험 운전 혐의 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425251)
 #### [에코피스크 및 포티즈 상품 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425246)
 #### [중국 브랜드가 시장 점유율을 늘리면서 이탈리아의 신차 판매량은 2025 년에 2.12 % 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425249)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002594.SZ/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
 #### [버크셔 해서웨이, 포스트 버핏 시대 개막으로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425245)
 #### [미국 상업 어음 시장이 주간 연방에서 축소되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425243)
 #### [멕시코 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425248)
@@ -69,5 +71,3 @@
 #### [클레피에르, 2025년 말 이탈리아 카사마시마 몰 인수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425230)
 #### [EU 밀, 새해 첫날 가벼운 거래에서 하락세로 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425231)
 #### [인도 히스데샛, 우주 입자 충돌 후 비상 계획 시작 스페인Sat NG II 위성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425234)
-#### [러시아 국방부, 러시아의 하르 키우 공격에 대한 보도는 사실이 아니라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425229)
-#### [개인투자자 2024년 10월 이후 최저치 ?- AAII](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425227)
