@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_1854 </title></head>
-<center>Vers : 20260102_1854 </center>
-<center>Vers : 20260103_0354 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_1914 </title></head>
+<center>Vers : 20260102_1914 </center>
+<center>Vers : 20260103_0414 </center>
 <br><br><br>
+#### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425263)
+#### [수요 감소, 크레딧 만료로 테슬라가 BYD에 전기차 왕좌를 빼앗기다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425260)
+#### [시카고 대두, 브라질 수출과의 경쟁으로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425262)
+#### [미국 주식이 움직인다-올타 뷰티와 버크셔 해서웨이](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425258)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IRWD.O/total>
+#### ['Top Gun: 매버릭'의 파라마운트에 대한 저작권 소송, 미국 항소법원에서 기각됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425259)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
+#### [콜로라도에서 희귀한 산사자 공격 의심 사건으로 등산객 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425261)
 #### [캐나다 달러, 공장 침체가 길어지면서 주간 하락폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425256)
 #### [차등가격은 안정적 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425257)
 #### [2025년 S&P 500을 능가하는 D.E. 쇼의 주력 펀드가 시장 변동성을 능가할 것이라고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425254)
@@ -64,12 +72,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
 #### [우크라이나 하르키프에 대한 러시아의 공격으로 최소 25 명이 부상 당했다고 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425211)
 #### [영국 규제 당국, 조사 중인 클레임 회사 이름을 밝히기 위한 법정 싸움에서 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425202)
-#### [아거스가 PT를 올린 후 버즈-울타 뷰티가 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425203)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ULTA.O/total>
-#### [이반호 광산, 카모아-카쿨라 구리 제련소에서 첫 음극 생산 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425204)
-#### [월가, 2026년 첫 거래일 혼조세...귀금속, 랠리 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425201)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
-#### [셰인바움 행사 중 멕시코에서 규모 6.5의 강진 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425200)
-#### [버크셔 해서웨이, 주가 하락으로 포스트 버핏 시대 개막](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425196)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [스위스, 술집 화재 피해자를 확인하는 데 며칠이 걸릴 수 있다고 말하다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425195)
