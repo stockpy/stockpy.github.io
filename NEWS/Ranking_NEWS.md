@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_0723 </title></head>
-<center>Vers : 20260102_0723 </center>
-<center>Vers : 20260102_1623 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_0743 </title></head>
+<center>Vers : 20260102_0743 </center>
+<center>Vers : 20260102_1643 </center>
 <br><br><br>
 #### [새해 첫날 개미들 ‘날벼락’… 연말 휴장 틈탄 ‘올빼미 공시’ 기승](https://m.stock.naver.com/news/ranknews/view/366/0001133831)
 #### [“지금 사도 안 늦었다?” ‘86만원’까지 간다…높아지는 SK하이닉스 ‘목표가’ [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002580152)
