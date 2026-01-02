@@ -1,7 +1,33 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_1717 </title></head>
-<center>Vers : 20260102_1717 </center>
-<center>Vers : 20260103_0217 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_1742 </title></head>
+<center>Vers : 20260102_1742 </center>
+<center>Vers : 20260103_0242 </center>
 <br><br><br>
+#### [피나클 파이낸셜 파트너스, 혼합 선반용 파일, 크기 미공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425225)
+#### [HHS 및 DEA, 2026년까지 규제 약물 처방을 위한 원격 의료 유연성 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425222)
+#### [브라질 반독점 당국, Microsoft의 클라우드 서비스에 대한 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425226)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
+#### [남자 아이스하키 대표팀이 밀라노-코르티나에서 금메달 가뭄을 해소하는 데 도움을 준 올림픽-미국 희망팀 케미스트리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425224)
+#### [옥수수, 대두 기준 입찰 대부분 안정에서 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425221)
+#### [미국은 새로운 용량을 통해 새로운 LNG 수출 기록을 세웠습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425219)
+#### [2026년 거래 첫날 미국 국채 수익률 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425223)
+#### [사우스 캐롤라이나의 홍역 사례가 9 건에서 185 건으로 증가했다고 주 보건부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425220)
+#### [유럽 증시, 2026년 사상 최고치 기록, 기술, 방위 산업이 상승세 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425218)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FCHI>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425216)
+#### [나이지리아 경찰, 조슈아 운전자에게 치명적인 충돌로 위험 운전 혐의 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425214)
+#### [2025년 이탈리아 공공 부문 적자, 전년대비 소폭 확대될 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425217)
+#### [이탈리아의 테슬라 신차 판매량, 2025년 연간 18% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425215)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002594.SZ/total>
+#### [디젤 수익 마진 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425213)
+#### [바바라 게이센 CFO가 물러나기로 결정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425209)
+#### [사우스 캐롤라이나의 홍역 사례가 9 명에서 185 명으로 증가했다고 주 보건부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425210)
+#### [사우스캐롤라이나 보건부, 1월 2일 기준 188건의 홍역 사례 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425206)
+#### [미국 여자 아이스하키, 밀라노-코르티나에서 라이벌 캐나다에 복수 노리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425208)
+#### [미국 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425212)
+#### [캐나다 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425205)
+#### [업데이트 1 글로벌 AI 붐이 투자 심리를 끌어올리면서 FTSE 100 지수 10,000 돌파](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425207)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
+#### [우크라이나 하르키프에 대한 러시아의 공격으로 최소 25 명이 부상 당했다고 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425211)
 #### [영국 규제 당국, 조사 중인 클레임 회사 이름을 밝히기 위한 법정 싸움에서 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425202)
 #### [아거스가 PT를 올린 후 버즈-울타 뷰티가 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425203)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ULTA.O/total>
@@ -45,30 +71,3 @@
 #### [미국, 밀라노-코르티나 올림픽에서 금메달 가뭄을 끝내기 위한 남자 아이스하키 대표팀 명단 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425173)
 #### [컨트롤매틱, 알퍼 셀레브리 총지배인 사임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425177)
 #### [영국 규제 당국, 조사 중인 클레임 회사 이름을 밝히기 위한 법정 싸움에서 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425169)
-#### [미국 주식의 움직임-리비안, 테슬라, MGM 리조트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425172)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IRWD.O/total>
-#### [발트해 수중 사보타주 의심 사건의 타임라인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425176)
-#### [타이슨 푸드, 8,250만 달러에 미국 소고기 가격 담합 소송 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425164)
-#### [S&P, 나스닥은 최근 손실 이후 기술 반등으로 2026 년을 확고한 발판으로 시작합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425162)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [스위스 검찰, '분수 양초'가 크란스-몬타나 화재를 일으켰을 수 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425161)
-#### [ARA 휘발유 재고 15% 상승, 인사이트 글로벌 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425163)
-#### [Orsted, 미국의 50억 달러 해상 풍력 프로젝트 중단에 도전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425157)
-#### [사우디의 영웅 알 라지, 다카르 타이틀 방어에 도전장을 내밀다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425160)
-#### [럭셔리 리테일러 삭스 글로벌의 CEO 마크 메트릭 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425159)
-#### [젤렌스키, 올레 이바슈첸코를 새 군사 정보국장으로 임명할 것이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425156)
-#### [에어버스, 배송 신뢰도 증가에 따라 1월 12일 데이터 발행 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425155)
-#### [헤지펀드 밀레니엄, 2025년 투자자들에게 10.5% 수익률 제공 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425158)
-#### [중남미 자산, 연초 강세 출발; 투자자들은 베네수엘라에 대한 기대감을 저울질하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425152)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
-#### [멕시코로의 송금액, 11월 5.7% 감소하며 8개월 연속 감소세 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425150)
-#### [친환경적인 한 해의 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425154)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
-#### [GBP/USD, 미국 데이터를 앞두고 중앙은행 발언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425151)
-#### [멕시코, 이틀 만에 두 번째 나사벌레 사례 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425153)
-#### [트루이스트, MGM 리조트 인터내셔널에서 PT를 진행하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425147)
-#### [상장폐지 신청에 대한 간략한 설명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425149)
-#### [Tesla, 4분기 배송량 감소 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425148)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [롤링 옵틱스, 새로운 CFO로 수잔 아케슨 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425138)
-#### [트래블러스, 24억 달러 규모의 거래로 캐나다 보험 사업부를 디피니티에 매각 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425144)
