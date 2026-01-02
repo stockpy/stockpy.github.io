@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260102_1021 </title></head>
-<center>Vers : 20260102_1021 </center>
-<center>Vers : 20260102_1921 </center>
+<head><meta charset="utf-8"><title>Vers : 20260102_1045 </title></head>
+<center>Vers : 20260102_1045 </center>
+<center>Vers : 20260102_1945 </center>
 <br><br><br>
 #### ['설마 설마했는데' 11% 껑충…증권가 '깜짝 전망'에 환호 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005231934)
 #### [“지금 사도 안 늦었다?” ‘86만원’까지 간다…높아지는 SK하이닉스 ‘목표가’ [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002580152)
