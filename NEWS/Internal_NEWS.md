@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_2243 </title></head>
-<center>Vers : 20260103_2243 </center>
-<center>Vers : 20260104_0743 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_2319 </title></head>
+<center>Vers : 20260103_2319 </center>
+<center>Vers : 20260104_0819 </center>
 <br><br><br>
+#### [영국, 프랑스와 함께 시리아 내 이슬람국가(IS) 무기 저장소를 폭격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425573)
+#### [영국과 프랑스, 시리아 내 이슬람 국가 시설 폭격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425572)
+#### [베네수엘라 지도자 마두로, 뉴욕에 도착, 뉴스 매체 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425571)
 #### [마크롱 프랑스 대통령: 에드문도 곤잘레스가 베네수엘라의 권력 교체를 감독해야 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425570)
 #### [위스콘신 판사, 이민자 체포 방해 혐의로 유죄 판결 후 사임?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425569)
 #### [로이터 뉴스 일정 오후 10시(GMT/6시(한국 시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425568)
@@ -62,6 +65,3 @@
 #### [스위스 술집에서 화재가 발생하자 '장난인 줄 알았다'는 불신감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425515)
 #### [트럼프, 미국은 대형 석유 회사들이 베네수엘라에 진출 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425516)
 #### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425514)
-#### [트럼프, 미국은 '안전한'전환까지 베네수엘라에서 역할을 계속할 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425511)
-#### [트럼프, 마두로와 그의 아내가 미국의 정의에 직면 해 있다고 말함; 작전에 사용되는 공중, 육지 및 해상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425512)
-#### [모의 주택, CIA 정보원 및 특수 부대: 마두로 생포를 위한 미국의 작전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425510)
