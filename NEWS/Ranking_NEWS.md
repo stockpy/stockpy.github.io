@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_1020 </title></head>
-<center>Vers : 20260103_1020 </center>
-<center>Vers : 20260103_1920 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_1044 </title></head>
+<center>Vers : 20260103_1044 </center>
+<center>Vers : 20260103_1944 </center>
 <br><br><br>
 #### ["삼전으로 4억5000만원"…'12만전자'에 김구라도 대박?](https://m.stock.naver.com/news/ranknews/view/015/0005232202)
 #### ["삼전으로 4.5억 벌었다"…김구라·박용진도 '12만전자' 대박?](https://m.stock.naver.com/news/ranknews/view/421/0008693357)
