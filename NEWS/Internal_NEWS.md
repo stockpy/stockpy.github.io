@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_1540 </title></head>
-<center>Vers : 20260103_1540 </center>
-<center>Vers : 20260104_0040 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_1624 </title></head>
+<center>Vers : 20260103_1624 </center>
+<center>Vers : 20260104_0124 </center>
 <br><br><br>
+#### [에어버스, 연간 항공기 인도 목표 790대 돌파, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425504)
+#### [에어버스, 2025년 연간 항공기 790대 인도 목표 달성 전망-블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425503)
+#### [미국이 베네수엘라의 마두로를 체포하자 라틴 아메리카에서 비난과 박수가 쏟아지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425502)
+#### [러시아, 자 포리 지아 원자력 발전소 두 전력선 중 하나에서 연결 해제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425500)
+#### [미국의 베네수엘라 마두로 체포에 대한 투자자와 경제학자들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425501)
+#### [베를린 화재로 1월 8일까지 45,000가구가 전력 공급을 받지 못할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425499)
+#### [마드리드의 베네수엘라 야당 활동가들이 마두로 체포에 환호하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425497)
+#### [이스라엘, 미국의 베네수엘라 마두로 정권 퇴진 환영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425496)
+#### [베네수엘라 마두로, 협상 거부 후 해임, 곤잘레스 대통령직 맡아야-야당의 마차도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425498)
+#### [베네수엘라 디아스포라, 마두로 퇴진을 축하하며 다음 행보를 궁금해하는 베네수엘라 교민들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425495)
 #### [델타항공, 카리브해 항공편 취소, 해당 지역의 진행 상황을 면밀히 모니터링하고 있다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425494)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425492)
 #### [연준의 폴슨이 공동 집필한 논문은 단기 금리 정책을 논의하지 않습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425493)
@@ -52,13 +62,3 @@
 #### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425446)
 #### [이란 최고 지도자는 시위가 끓어 오르고 미국이 위협함에 따라 양보하지 않을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425447)
 #### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425445)
-#### [공군 기지를 포함한 카라카스에 대한 미국의 공습을 포착한 목격자 영상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425441)
-#### [베네수엘라의 PDVSA는 미국의 공격으로 인한 피해를 입지 않았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425443)
-#### [베네수엘라의 대통령 니콜라스 마두로는 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425444)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425442)
-#### [EU의 최고 외교관, 베네수엘라의 마두로가 '정당성이 부족하다', 자제 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425440)
-#### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425439)
-#### [트럼프가 미국이 마두로를 점령했다고 말하면서 헬리콥터가 카라카스 상공을 날아갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425438)
-#### [이탈리아의 조르지아 멜로니 총리는 베네수엘라 상황을 면밀히 모니터링하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425437)
-#### [벨기에, 베네수엘라 상황을 모니터링하기 위해 유럽 파트너와 협력하고 있다고 외무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425436)
-#### [미국 상원 의원은 루비오가 마두로에게 미국에서 재판을 받으라고 말했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425435)
