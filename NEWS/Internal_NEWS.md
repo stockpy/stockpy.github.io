@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_2043 </title></head>
-<center>Vers : 20260103_2043 </center>
-<center>Vers : 20260104_0543 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_2117 </title></head>
+<center>Vers : 20260103_2117 </center>
+<center>Vers : 20260104_0617 </center>
 <br><br><br>
+#### [쿠바 대통령, 베네수엘라에 대한 '국가 테러'를 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425558)
+#### ['우리가 국가를 운영할 것입니다.' 트럼프, 베네수엘라 정권 교체에 베팅하다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425559)
+#### [카리브해 영공 폐쇄 후 미국 항공사, 항공편 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425555)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425557)
+#### [아다니 엔터프라이즈, 아다니 도로 운송, SVVPL 지분 49% 인수한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425556)
+#### ['우리가 이 나라를 운영할 것입니다.' 트럼프는 베네수엘라의 정권 교체에 베팅합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425554)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425553)
 #### [영국 총리 스타 머, 베네수엘라 마두로에 대해 '눈물을 흘리지 않을 것'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425552)
 #### [연준의 폴슨, 또 다른 금리 인하는 시간이 걸릴 수 있다고 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425551)
@@ -57,9 +64,3 @@
 #### [미국이 베네수엘라의 마두로를 체포하자 라틴 아메리카에서 비난과 박수가 쏟아지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425502)
 #### [러시아, 자 포리 지아 원자력 발전소 두 전력선 중 하나에서 연결 해제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425500)
 #### [미국의 베네수엘라 마두로 체포에 대한 투자자와 경제학자들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425501)
-#### [베를린 화재로 1월 8일까지 45,000가구가 전력 공급을 받지 못할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425499)
-#### [마드리드의 베네수엘라 야당 활동가들이 마두로 체포에 환호하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425497)
-#### [이스라엘, 미국의 베네수엘라 마두로 정권 퇴진 환영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425496)
-#### [베네수엘라 마두로, 협상 거부 후 해임, 곤잘레스 대통령직 맡아야-야당의 마차도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425498)
-#### [베네수엘라 디아스포라, 마두로 퇴진을 축하하며 다음 행보를 궁금해하는 베네수엘라 교민들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425495)
-#### [델타항공, 카리브해 항공편 취소, 해당 지역의 진행 상황을 면밀히 모니터링하고 있다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425494)
