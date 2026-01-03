@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_0310 </title></head>
-<center>Vers : 20260103_0310 </center>
-<center>Vers : 20260103_1210 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0407 </title></head>
+<center>Vers : 20260103_0407 </center>
+<center>Vers : 20260103_1307 </center>
 <br><br><br>
+#### [트럼프와 연계된 MAGA Inc 슈퍼 팩, 3억 달러 비축으로 2026년 진입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425404)
 #### [트럼프, 보안 및 중국 관련 우려로 칩 거래 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425403)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425402)
 #### [호주 경찰, 본다이 비치 테러 이후 시드니 애쉬 테스트 보안 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425401)
@@ -78,11 +79,11 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GNSS.O/total>
 #### [Alumis Inc - 공동 및 그 사업부, 바이오 등반에 대한 중대한 위반 통지 및 배상 청구 통지 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425353)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ALMS.O/total>
-#### [나이트-스위프트 운송 홀딩스 - 2025 년 12 월 31 일, 사업부, 채권 매입 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425334)
-<head><meta charset="utf-8"><title>Vers : 20260103_0310 </title></head>
-<center>Vers : 20260103_0310 </center>
-<center>Vers : 20260103_1210 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0407 </title></head>
+<center>Vers : 20260103_0407 </center>
+<center>Vers : 20260103_1307 </center>
 <br><br><br>
+#### [나이트-스위프트 운송 홀딩스 - 2025 년 12 월 31 일, 사업부, 채권 매입 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425334)
 #### [슈퍼 마이크로 컴퓨터 - 12월 29일, 신용 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425343)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMCI.O/total>
 #### [바우쉬 앤 롬 코퍼레이션, 2022년 5월 10일자로 신용 계약에 대한 네 번째 수정안 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425352)
@@ -162,12 +163,12 @@
 #### [새해 벽두부터 월가가 요동치고 국채 금리는 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425286)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
 #### [에퀴노르, 미국의 엠파이어 윈드 프로젝트 중단 명령에 이의를 제기하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425287)
+<head><meta charset="utf-8"><title>Vers : 20260103_0407 </title></head>
+<center>Vers : 20260103_0407 </center>
+<center>Vers : 20260103_1307 </center>
+<br><br><br>
 #### [중남미 자산 강세로 한 해 시작, 베네수엘라가 외교적으로 유화적인 행보를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425280)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
-<head><meta charset="utf-8"><title>Vers : 20260103_0311 </title></head>
-<center>Vers : 20260103_0311 </center>
-<center>Vers : 20260103_1211 </center>
-<br><br><br>
 #### [디이쇼, 브리지워터, 발야스니가 이끄는 상위 헤지펀드들이 2025년에 큰 수익을 낼 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425283)
 #### [미국 원자력 발전소 정전 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425279)
 #### [금요일에 미국 원자력 발전 용량이 1,419MW로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425282)
@@ -235,12 +236,12 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ELAB.O/total>
 #### [피나클 파이낸셜 파트너스, 혼합 선반용 파일, 크기 미공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425225)
 #### [HHS 및 DEA, 2026년까지 규제 약물 처방을 위한 원격 의료 유연성 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425222)
+<head><meta charset="utf-8"><title>Vers : 20260103_0407 </title></head>
+<center>Vers : 20260103_0407 </center>
+<center>Vers : 20260103_1307 </center>
+<br><br><br>
 #### [브라질 반독점 당국, Microsoft의 클라우드 서비스에 대한 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425226)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260103_0311 </title></head>
-<center>Vers : 20260103_0311 </center>
-<center>Vers : 20260103_1211 </center>
-<br><br><br>
 #### [남자 아이스하키 대표팀이 밀라노-코르티나에서 금메달 가뭄을 해소하는 데 도움을 준 올림픽-미국 희망팀 케미스트리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425224)
 #### [옥수수, 대두 기준 입찰 대부분 안정에서 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425221)
 #### [미국은 새로운 용량을 통해 새로운 LNG 수출 기록을 세웠습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425219)
@@ -309,11 +310,11 @@
 #### [미국 주식의 움직임-리비안, 테슬라, MGM 리조트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425172)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IRWD.O/total>
 #### [발트해 수중 사보타주 의심 사건의 타임라인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425176)
-#### [타이슨 푸드, 8,250만 달러에 미국 소고기 가격 담합 소송 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425164)
-<head><meta charset="utf-8"><title>Vers : 20260103_0311 </title></head>
-<center>Vers : 20260103_0311 </center>
-<center>Vers : 20260103_1211 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0407 </title></head>
+<center>Vers : 20260103_0407 </center>
+<center>Vers : 20260103_1307 </center>
 <br><br><br>
+#### [타이슨 푸드, 8,250만 달러에 미국 소고기 가격 담합 소송 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425164)
 #### [S&P, 나스닥은 최근 손실 이후 기술 반등으로 2026 년을 확고한 발판으로 시작합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425162)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
 #### [스위스 검찰, '분수 양초'가 크란스-몬타나 화재를 일으켰을 수 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425161)
@@ -384,5 +385,3 @@
 #### [수출업체, 미국산 옥수수를 한국으로 판매하다 - USDA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425112)
 #### [규모 6.3의 지진이 멕시코를 강타했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425106)
 #### [인도 주정부, 1 ~ 3 월 분기에 5 조 루피 차입 가능성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425103)
-#### [테슬라, 4분기 총 생산량 434,358대, 인도량 418,227대 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425104)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
