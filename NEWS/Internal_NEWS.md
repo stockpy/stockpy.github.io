@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_2319 </title></head>
-<center>Vers : 20260103_2319 </center>
-<center>Vers : 20260104_0819 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_2340 </title></head>
+<center>Vers : 20260103_2340 </center>
+<center>Vers : 20260104_0840 </center>
 <br><br><br>
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425575)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425574)
 #### [영국, 프랑스와 함께 시리아 내 이슬람국가(IS) 무기 저장소를 폭격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425573)
 #### [영국과 프랑스, 시리아 내 이슬람 국가 시설 폭격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425572)
 #### [베네수엘라 지도자 마두로, 뉴욕에 도착, 뉴스 매체 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425571)
@@ -63,5 +65,3 @@
 #### [트럼프, 베네수엘라 석유에 대한 미국의 금수 조치가 여전히 유효하다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425518)
 #### [인도, 베네수엘라에 필수적이지 않은 모든 여행 자제 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425517)
 #### [스위스 술집에서 화재가 발생하자 '장난인 줄 알았다'는 불신감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425515)
-#### [트럼프, 미국은 대형 석유 회사들이 베네수엘라에 진출 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425516)
-#### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425514)
