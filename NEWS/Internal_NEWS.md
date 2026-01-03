@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_2139 </title></head>
-<center>Vers : 20260103_2139 </center>
-<center>Vers : 20260104_0639 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_2219 </title></head>
+<center>Vers : 20260103_2219 </center>
+<center>Vers : 20260104_0719 </center>
 <br><br><br>
+#### [로이터 뉴스 일정 오후 10시(GMT/6시(한국 시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425568)
+#### [다트-리틀러, PDC 세계 타이틀 2연패 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425567)
+#### [미국의 베네수엘라 마두로 체포 이후 라틴 아메리카의 비난과 박수갈채](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425566)
+#### [리틀러, PDC 세계 타이틀 2연패에 도전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425565)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425564)
+#### [미국 민주당 의원들은 베네수엘라에 대해 오해를 받았다고 말하며 계획을 요구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425563)
+#### [베네수엘라의 석유 수출이 정치적 혼란으로 마비되었다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425562)
 #### [미국 항공사, 카리브해 영공 폐쇄 후 항공편 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425561)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
 #### [미국의 베네수엘라 대통령 체포는 합법적이었나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425560)
@@ -58,10 +65,3 @@
 #### [모의 주택, CIA 정보원 및 특수 부대: 마두로 생포를 위한 미국의 작전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425510)
 #### [베네수엘라 석유 산업: 세계 최대 매장량, 쇠락하는 인프라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425513)
 #### [독일, 베네수엘라 위기에 대한 정치적 해법 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425509)
-#### [베네수엘라에 대한 유엔 책임자: 미국의 조치는 '위험한 선례'를 남긴다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425506)
-#### [Airbus, 연간 항공기 인도 목표 790대 돌파, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425507)
-#### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425508)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425505)
-#### [에어버스, 연간 항공기 인도 목표 790대 돌파, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425504)
-#### [에어버스, 2025년 연간 항공기 790대 인도 목표 달성 전망-블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425503)
-#### [미국이 베네수엘라의 마두로를 체포하자 라틴 아메리카에서 비난과 박수가 쏟아지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425502)
