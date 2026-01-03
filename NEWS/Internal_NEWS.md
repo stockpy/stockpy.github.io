@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_1937 </title></head>
-<center>Vers : 20260103_1937 </center>
-<center>Vers : 20260104_0437 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_2021 </title></head>
+<center>Vers : 20260103_2021 </center>
+<center>Vers : 20260104_0521 </center>
 <br><br><br>
+#### [연준의 폴슨, 또 다른 금리 인하는 시간이 걸릴 수 있다고 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425551)
+#### [베네수엘라의 델시 로드리게스, 마두로만이 국가 대통령이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425550)
+#### [미국 북서부 강 유량이 98%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425549)
 #### [미국의 베네수엘라 마두로 체포에 대한 투자자와 경제학자들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425547)
 #### [트럼프, 마차도의 베네수엘라 통치 능력에 의구심 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425546)
 #### [트럼프, 우크라이나 전쟁에 대해 푸틴에게 '흥분하지 않는다' 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425548)
@@ -60,6 +63,3 @@
 #### [델타항공, 카리브해 항공편 취소, 해당 지역의 진행 상황을 면밀히 모니터링하고 있다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425494)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425492)
 #### [연준의 폴슨이 공동 집필한 논문은 단기 금리 정책을 논의하지 않습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425493)
-#### [러시아, 미국에 베네수엘라 마두로 석방 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425490)
-#### [본디 미국 법무 장관, 마두로와 그의 아내의 경우 봉인되지 않은 기소장 게시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425491)
-#### [프랑스, 마두로 체포 뒤의 군사 작전은 국제법에 위배된다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425489)
