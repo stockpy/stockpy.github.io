@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_2021 </title></head>
-<center>Vers : 20260103_2021 </center>
-<center>Vers : 20260104_0521 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_2043 </title></head>
+<center>Vers : 20260103_2043 </center>
+<center>Vers : 20260104_0543 </center>
 <br><br><br>
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425553)
+#### [영국 총리 스타 머, 베네수엘라 마두로에 대해 '눈물을 흘리지 않을 것'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425552)
 #### [연준의 폴슨, 또 다른 금리 인하는 시간이 걸릴 수 있다고 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425551)
 #### [베네수엘라의 델시 로드리게스, 마두로만이 국가 대통령이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425550)
 #### [미국 북서부 강 유량이 98%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425549)
@@ -61,5 +63,3 @@
 #### [베네수엘라 마두로, 협상 거부 후 해임, 곤잘레스 대통령직 맡아야-야당의 마차도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425498)
 #### [베네수엘라 디아스포라, 마두로 퇴진을 축하하며 다음 행보를 궁금해하는 베네수엘라 교민들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425495)
 #### [델타항공, 카리브해 항공편 취소, 해당 지역의 진행 상황을 면밀히 모니터링하고 있다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425494)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425492)
-#### [연준의 폴슨이 공동 집필한 논문은 단기 금리 정책을 논의하지 않습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425493)
