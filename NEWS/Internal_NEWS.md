@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_0452 </title></head>
-<center>Vers : 20260103_0452 </center>
-<center>Vers : 20260103_1352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0521 </title></head>
+<center>Vers : 20260103_0521 </center>
+<center>Vers : 20260103_1421 </center>
 <br><br><br>
 #### [미국 해안 경비대, 마약 의심 선박 공격 후 생존자 수색 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425405)
 #### [트럼프와 연계된 MAGA Inc 슈퍼 팩, 3억 달러 비축으로 2026년 진입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425404)
@@ -78,9 +78,9 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MFI.O/total>
 #### [Genasys Inc - 12월 24일, 이사회에서 카산드라 에르난데스-몬테온을 CFO로 승진 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425344)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GNSS.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260103_0452 </title></head>
-<center>Vers : 20260103_0452 </center>
-<center>Vers : 20260103_1352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0521 </title></head>
+<center>Vers : 20260103_0521 </center>
+<center>Vers : 20260103_1421 </center>
 <br><br><br>
 #### [Alumis Inc - 공동 및 그 사업부, 바이오 등반에 대한 중대한 위반 통지 및 배상 청구 통지 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425353)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ALMS.O/total>
@@ -163,9 +163,9 @@
 #### [젤렌스키, 우크라이나의 새 국방부 장관으로 페도로프 제1부총리 임명 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425285)
 #### [새해 벽두부터 월가가 요동치고 국채 금리는 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425286)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
-<head><meta charset="utf-8"><title>Vers : 20260103_0452 </title></head>
-<center>Vers : 20260103_0452 </center>
-<center>Vers : 20260103_1352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0521 </title></head>
+<center>Vers : 20260103_0521 </center>
+<center>Vers : 20260103_1421 </center>
 <br><br><br>
 #### [에퀴노르, 미국의 엠파이어 윈드 프로젝트 중단 명령에 이의를 제기하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425287)
 #### [중남미 자산 강세로 한 해 시작, 베네수엘라가 외교적으로 유화적인 행보를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425280)
@@ -236,9 +236,9 @@
 #### [PMGC 홀딩스, 1대 4 역 주식 분할 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425228)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ELAB.O/total>
 #### [피나클 파이낸셜 파트너스, 혼합 선반용 파일, 크기 미공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425225)
-<head><meta charset="utf-8"><title>Vers : 20260103_0452 </title></head>
-<center>Vers : 20260103_0452 </center>
-<center>Vers : 20260103_1352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0521 </title></head>
+<center>Vers : 20260103_0521 </center>
+<center>Vers : 20260103_1421 </center>
 <br><br><br>
 #### [HHS 및 DEA, 2026년까지 규제 약물 처방을 위한 원격 의료 유연성 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425222)
 #### [브라질 반독점 당국, Microsoft의 클라우드 서비스에 대한 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425226)
@@ -310,9 +310,9 @@
 #### [영국 규제 당국, 조사 중인 클레임 회사 이름을 밝히기 위한 법정 싸움에서 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425169)
 #### [미국 주식의 움직임-리비안, 테슬라, MGM 리조트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425172)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IRWD.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260103_0452 </title></head>
-<center>Vers : 20260103_0452 </center>
-<center>Vers : 20260103_1352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0521 </title></head>
+<center>Vers : 20260103_0521 </center>
+<center>Vers : 20260103_1421 </center>
 <br><br><br>
 #### [발트해 수중 사보타주 의심 사건의 타임라인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425176)
 #### [타이슨 푸드, 8,250만 달러에 미국 소고기 가격 담합 소송 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425164)
