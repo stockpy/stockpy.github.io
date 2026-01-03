@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_0941 </title></head>
-<center>Vers : 20260103_0941 </center>
-<center>Vers : 20260103_1841 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_1020 </title></head>
+<center>Vers : 20260103_1020 </center>
+<center>Vers : 20260103_1920 </center>
 <br><br><br>
+#### [베네수엘라 수도에서 폭발음과 큰 소음이 들립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425424)
+#### [미국 특수 부대에 의해 체포 된 마두로, 미국 관리, 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425423)
+#### [베를린 케이블 링크에서 방화 가능성으로 50,000 가구의 전력이 끊어 졌다고 경찰은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425422)
+#### [베네수엘라 국방부 장관, 외국 군대의 주둔에 저항 할 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425419)
+#### [러시아는 우크라이나의 도네츠크에서 또 다른 정착지를 점령했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425421)
+#### [트럼프, 미국이 베네수엘라 마두로 대통령을 체포했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425420)
 #### [기아 미국, 2025년 852,155대 판매 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425418)
 #### [이란, 미국의 베네수엘라 공격은 국가 주권에 대한 노골적인 침해라고 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425417)
 #### [미국, 베네수엘라에서 파업을 벌이고 있다고 미국 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425416)
@@ -61,16 +67,16 @@
 #### [SPDR 금 보유량 0.51% 또는 5.43톤 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425367)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLD/total>
 #### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425360)
+<head><meta charset="utf-8"><title>Vers : 20260103_1020 </title></head>
+<center>Vers : 20260103_1020 </center>
+<center>Vers : 20260103_1920 </center>
+<br><br><br>
 #### [브라질 아제베두 & 트라바소스: 주주 호세 마우리시오 곤칼베스, 지분을 19.44%로 늘리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425363)
 #### [한국, 미국산 옥수수 구매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425365)
 #### [브라질의 테크노: 주주 호아킴 페드로 안드레스 리베이로, 지분을 20.19%로 늘리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425359)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425364)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425362)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425358)
-<head><meta charset="utf-8"><title>Vers : 20260103_0941 </title></head>
-<center>Vers : 20260103_0941 </center>
-<center>Vers : 20260103_1841 </center>
-<br><br><br>
 #### [글림프 그룹, 최대 $9,478,200의 보통주 공모 신청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425361)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VRAR.O/total>
 #### [맥코믹, 맥코믹 데 멕시코의 지배 지분 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425357)
@@ -153,6 +159,10 @@
 #### [미국 연준 주간 대차 대조표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425308)
 #### [캘리포니아의 공개 총기 소지 금지는 위헌이라고 법원은 판결했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425306)
 #### [미국 곡물 바지선 운임 값은? Jan 2](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425305)
+<head><meta charset="utf-8"><title>Vers : 20260103_1020 </title></head>
+<center>Vers : 20260103_1020 </center>
+<center>Vers : 20260103_1920 </center>
+<br><br><br>
 #### [브라질 감사원, 방코 마스터의 청산에 대한 중앙은행의 행위를 조사하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425300)
 #### [일본, 유럽, 인도는 2026년 투자자들에게 유망한 시장이라고 CIO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425304)
 #### [일자리 데이터는 2026 년이 시작되면서 휴일 평온에서 주가를 뒤흔들 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425302)
@@ -161,10 +171,6 @@
 #### [캘리포니아주 토랜스 정유공장, 1월 6일부터 18일까지 계획된 플레어 이벤트 발생 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425303)
 #### [나스닥 마감 후 신년 파티](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425301)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
-<head><meta charset="utf-8"><title>Vers : 20260103_0941 </title></head>
-<center>Vers : 20260103_0941 </center>
-<center>Vers : 20260103_1841 </center>
-<br><br><br>
 #### [다우, 2026년 첫날 상승 마감...여전히 산타클로스 랠리는 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425298)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
 #### [CBOT 밀이 전 세계 대량 공급으로 하락세를 보이고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425297)
@@ -227,6 +233,10 @@
 #### [버크셔 해서웨이, 포스트 버핏 시대 개막으로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425245)
 #### [미국 상업 어음 시장이 주간 연방에서 축소되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425243)
 #### [멕시코 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425248)
+<head><meta charset="utf-8"><title>Vers : 20260103_1020 </title></head>
+<center>Vers : 20260103_1020 </center>
+<center>Vers : 20260103_1920 </center>
+<br><br><br>
 #### [EUR/USD-달러 급락으로 하룻밤 사이에 손실이 일부 회복되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425244)
 #### [독점- 엘리엇 파트너 제이슨 젠리치가 헤지 펀드를 떠났다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425242)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LULU.O/total>
@@ -235,10 +245,6 @@
 #### [S&P 500, 나스닥은 작년의 견조한 상승 이후 2026 년까지 소강 상태를 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425239)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
 #### [다이이치 산쿄, 표적 항암제 생산 시설 설립에 약 3,000억 엔 지출, 닛케이 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425237)
-<head><meta charset="utf-8"><title>Vers : 20260103_0941 </title></head>
-<center>Vers : 20260103_0941 </center>
-<center>Vers : 20260103_1841 </center>
-<br><br><br>
 #### [미지근한 개화기 속에서 좁은 범위에 갇힌 버즈 케이블](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425240)
 #### [Grok, 세이프가드 위반으로 인해 X에서 '최소한의 옷을 입은 미성년자' 이미지가 발견되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425238)
 #### [콜로라도에서 희귀한 산사자 공격 의심으로 등산객 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425236)
@@ -301,6 +307,10 @@
 #### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425187)
 #### [TSX는 2026 년을 이익으로 시작합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425188)
 #### [폴로니아 요금이 0.11퍼센트 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425186)
+<head><meta charset="utf-8"><title>Vers : 20260103_1020 </title></head>
+<center>Vers : 20260103_1020 </center>
+<center>Vers : 20260103_1920 </center>
+<br><br><br>
 #### [베네수엘라 마두로, 미국과 '진지한' 회담 의향 있어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425184)
 #### [에어버스, 배송 신뢰도 증가에 따라 1월 12일 데이터 발행 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425182)
 #### [귀금속, 금리 인하 베팅과 안전자산 수요로 2026년 초 상승세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425183)
@@ -308,10 +318,6 @@
 #### [버크셔 해서웨이, 주가 하락으로 포스트 버핏 시대 개막](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425179)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
 #### [협상 실패 후 칠레 Capstone Copper의 만토베르데 광산에서 광부들이 파업을 벌입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425180)
-<head><meta charset="utf-8"><title>Vers : 20260103_0941 </title></head>
-<center>Vers : 20260103_0941 </center>
-<center>Vers : 20260103_1841 </center>
-<br><br><br>
 #### [메디쿠스 파마에 대한 권고 날짜 알림이 철회되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425178)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MDCX.O/total>
 #### [프랑스 장관, X 플랫폼에서 Grok의 성 관련 콘텐츠를 검찰에 신고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425168)
@@ -377,9 +383,3 @@
 #### [신규 주문이 3개월 만에 최저치를 기록하면서 캐나다 공장 침체가 길어집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425125)
 #### [BUZZ- 금요일 뉴욕 컷에 대한 더 큰 옵션 만료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425130)
 #### [반다리 양말 수출위원회, 신주 발행을 통해 4억 9300만 루피 조달 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425120)
-#### [재생-미국 일자리 데이터, 금 랠리 및 외환, 도박, 외환 베팅](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425124)
-#### [종교 기업, 수레쉬 마할링암을 회장으로 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425135)
-#### [페트로넷 LNG, 판카즈 자인 회장직 사임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425123)
-#### [유포리아 인포테크(인도), 샴바 반자를 3년 임기의 전무 이사로 재임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425118)
-#### [NTPC, CCTE와 파트너십 계약을 체결하지 않았다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425134)
-#### [멕시코 남부에서 규모 6.3의 강진 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425129)
