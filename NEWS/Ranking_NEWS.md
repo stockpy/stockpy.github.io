@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_2219 </title></head>
-<center>Vers : 20260103_2219 </center>
-<center>Vers : 20260104_0719 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_2243 </title></head>
+<center>Vers : 20260103_2243 </center>
+<center>Vers : 20260104_0743 </center>
 <br><br><br>
 #### [“삼전·하닉만 날아간게 아니네”…오랜만에 서학개미 웃게한 ‘이 종목’](https://m.stock.naver.com/news/ranknews/view/009/0005615745)
 #### ["미국 주식 팔아요" 국장 돌아오나 했는데...다시 무섭게 사들였다](https://m.stock.naver.com/news/ranknews/view/008/0005299891)

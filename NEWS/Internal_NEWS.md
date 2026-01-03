@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_2219 </title></head>
-<center>Vers : 20260103_2219 </center>
-<center>Vers : 20260104_0719 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_2243 </title></head>
+<center>Vers : 20260103_2243 </center>
+<center>Vers : 20260104_0743 </center>
 <br><br><br>
+#### [마크롱 프랑스 대통령: 에드문도 곤잘레스가 베네수엘라의 권력 교체를 감독해야 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425570)
+#### [위스콘신 판사, 이민자 체포 방해 혐의로 유죄 판결 후 사임?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425569)
 #### [로이터 뉴스 일정 오후 10시(GMT/6시(한국 시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425568)
 #### [다트-리틀러, PDC 세계 타이틀 2연패 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425567)
 #### [미국의 베네수엘라 마두로 체포 이후 라틴 아메리카의 비난과 박수갈채](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425566)
@@ -63,5 +65,3 @@
 #### [트럼프, 미국은 '안전한'전환까지 베네수엘라에서 역할을 계속할 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425511)
 #### [트럼프, 마두로와 그의 아내가 미국의 정의에 직면 해 있다고 말함; 작전에 사용되는 공중, 육지 및 해상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425512)
 #### [모의 주택, CIA 정보원 및 특수 부대: 마두로 생포를 위한 미국의 작전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425510)
-#### [베네수엘라 석유 산업: 세계 최대 매장량, 쇠락하는 인프라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425513)
-#### [독일, 베네수엘라 위기에 대한 정치적 해법 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425509)
