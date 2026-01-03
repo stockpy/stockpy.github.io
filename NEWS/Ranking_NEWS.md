@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_1418 </title></head>
-<center>Vers : 20260103_1418 </center>
-<center>Vers : 20260103_2318 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_1442 </title></head>
+<center>Vers : 20260103_1442 </center>
+<center>Vers : 20260103_2342 </center>
 <br><br><br>
 #### ["삼전으로 4억5000만원"…'12만전자'에 김구라도 대박?](https://m.stock.naver.com/news/ranknews/view/015/0005232202)
 #### ['연말에 깜빡할 뻔'…2개월 만에 7000억 '재테크족' 몰린 곳](https://m.stock.naver.com/news/ranknews/view/015/0005232277)
