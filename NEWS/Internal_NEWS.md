@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_1624 </title></head>
-<center>Vers : 20260103_1624 </center>
-<center>Vers : 20260104_0124 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_1647 </title></head>
+<center>Vers : 20260103_1647 </center>
+<center>Vers : 20260104_0147 </center>
 <br><br><br>
+#### [베네수엘라에 대한 유엔 책임자: 미국의 조치는 '위험한 선례'를 남긴다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425506)
+#### [Airbus, 연간 항공기 인도 목표 790대 돌파, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425507)
+#### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425508)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425505)
 #### [에어버스, 연간 항공기 인도 목표 790대 돌파, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425504)
 #### [에어버스, 2025년 연간 항공기 790대 인도 목표 달성 전망-블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425503)
 #### [미국이 베네수엘라의 마두로를 체포하자 라틴 아메리카에서 비난과 박수가 쏟아지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425502)
@@ -58,7 +62,3 @@
 #### [충격에 휩싸인 베네수엘라 국민, 앞으로 닥칠 일에 대해 확신하지 못한 채 몸을 웅크리고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425452)
 #### [쿠바 대통령에 대한 '국가 테러' 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425450)
 #### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425449)
-#### [러시아는 마두로의 생포를 '독립 국가의 주권에 대한 용납 할 수없는 침해'라고 부릅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425448)
-#### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425446)
-#### [이란 최고 지도자는 시위가 끓어 오르고 미국이 위협함에 따라 양보하지 않을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425447)
-#### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425445)
