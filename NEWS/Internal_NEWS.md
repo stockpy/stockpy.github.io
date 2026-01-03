@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_1828 </title></head>
-<center>Vers : 20260103_1828 </center>
-<center>Vers : 20260104_0328 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_1851 </title></head>
+<center>Vers : 20260103_1851 </center>
+<center>Vers : 20260104_0351 </center>
 <br><br><br>
+#### [우크라이나, 1 월 미국 정상 회담 희망, 젤 렌 스키, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425538)
+#### [충격, 우려, 그리고 축하: 미국의 파업에 대한 베네수엘라 국민들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425537)
+#### [트럼프, 미국 석유 회사들이 베네수엘라에 수십억 달러를 지출할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425536)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
 #### [엑스트롬, 포드 원투로 다카르 프롤로그 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425535)
 #### [미국의 베네수엘라 공습, 새로운 글로벌 파열을 위협하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425534)
 #### [트럼프가 마두로를 대신했다고 말한 델시 로드리게스 부통령은 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425533)
@@ -59,6 +63,3 @@
 #### [미국은 베네수엘라의 석유 산업에 강력하게 관여 할 것이라고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425481)
 #### [독일 CSU, 유럽 증권 거래소 계획 추진하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425478)
 #### [러시아에있는 베네수엘라 부통령 로드리게스, 4 명의 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425479)
-#### [젤렌스키, 우크라이나의 새 에너지 장관으로 슈미할 국방부 장관 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425480)
-#### [트럼프 : 베네수엘라 작전으로 우리 측 부상자 거의없고 사망자 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425474)
-#### [베네수엘라의 마두로를 대체할 수 있는 부통령 델시 로드리게스는 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425477)
