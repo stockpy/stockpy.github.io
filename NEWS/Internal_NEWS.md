@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_1717 </title></head>
-<center>Vers : 20260103_1717 </center>
-<center>Vers : 20260104_0217 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_1740 </title></head>
+<center>Vers : 20260103_1740 </center>
+<center>Vers : 20260104_0240 </center>
 <br><br><br>
+#### [미군 고위 장교, 베네수엘라 작전에 150 대 이상의 항공기가 포함되었다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425519)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425520)
+#### [트럼프, 베네수엘라 석유에 대한 미국의 금수 조치가 여전히 유효하다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425518)
 #### [인도, 베네수엘라에 필수적이지 않은 모든 여행 자제 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425517)
 #### [스위스 술집에서 화재가 발생하자 '장난인 줄 알았다'는 불신감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425515)
 #### [트럼프, 미국은 대형 석유 회사들이 베네수엘라에 진출 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425516)
@@ -59,6 +62,3 @@
 #### [트럼프, 베네수엘라 마두로 퇴진, 미국 파업 후 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425462)
 #### [노르웨이의 가스코, 계획된 가스 용량 증설 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425463)
 #### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425461)
-#### [젤렌스키, 우크라이나의 새 에너지 장관으로 슈미할 국방부 장관 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425460)
-#### [영국 스타 머는 영국이 베네수엘라에 대한 미국의 파업에 관여하지 않았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425459)
-#### [미국 파업으로 베네수엘라의 석유 시설이 손상되지 않았다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425458)
