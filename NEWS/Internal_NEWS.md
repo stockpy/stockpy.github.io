@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_0850 </title></head>
-<center>Vers : 20260103_0850 </center>
-<center>Vers : 20260103_1750 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0920 </title></head>
+<center>Vers : 20260103_0920 </center>
+<center>Vers : 20260103_1820 </center>
 <br><br><br>
 #### [미국, 베네수엘라에서 파업을 벌이고 있다고 미국 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425416)
 #### [베네수엘라, 미국의 '군사적 침략'을 거부한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425414)
@@ -68,9 +68,9 @@
 #### [글림프 그룹, 최대 $9,478,200의 보통주 공모 신청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425361)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VRAR.O/total>
 #### [맥코믹, 맥코믹 데 멕시코의 지배 지분 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425357)
-<head><meta charset="utf-8"><title>Vers : 20260103_0850 </title></head>
-<center>Vers : 20260103_0850 </center>
-<center>Vers : 20260103_1750 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0920 </title></head>
+<center>Vers : 20260103_0920 </center>
+<center>Vers : 20260103_1820 </center>
 <br><br><br>
 #### [트레저 글로벌, 12월 26일 V 갤런트와 세 번째 추가 서신 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425350)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TGL.O/total>
@@ -162,9 +162,9 @@
 #### [다우, 2026년 첫날 상승 마감...여전히 산타클로스 랠리는 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425298)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
 #### [CBOT 밀이 전 세계 대량 공급으로 하락세를 보이고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425297)
-<head><meta charset="utf-8"><title>Vers : 20260103_0850 </title></head>
-<center>Vers : 20260103_0850 </center>
-<center>Vers : 20260103_1750 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0920 </title></head>
+<center>Vers : 20260103_0920 </center>
+<center>Vers : 20260103_1820 </center>
 <br><br><br>
 #### [미디어넥스트, 어려움을 겪고 있는 패션 브랜드 LK 베넷의 가격 인하를 단행하다 - 스카이뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425295)
 #### [젤렌스키, 우크라이나의 새 국방부 장관으로 페도로프 제1부총리 임명 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425296)
@@ -235,9 +235,9 @@
 #### [다이이치 산쿄, 표적 항암제 생산 시설 설립에 약 3,000억 엔 지출, 닛케이 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425237)
 #### [미지근한 개화기 속에서 좁은 범위에 갇힌 버즈 케이블](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425240)
 #### [Grok, 세이프가드 위반으로 인해 X에서 '최소한의 옷을 입은 미성년자' 이미지가 발견되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425238)
-<head><meta charset="utf-8"><title>Vers : 20260103_0850 </title></head>
-<center>Vers : 20260103_0850 </center>
-<center>Vers : 20260103_1750 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0920 </title></head>
+<center>Vers : 20260103_0920 </center>
+<center>Vers : 20260103_1820 </center>
 <br><br><br>
 #### [콜로라도에서 희귀한 산사자 공격 의심으로 등산객 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425236)
 #### [귀금속, 금리 인하 베팅과 안전자산 수요로 2026년 초 상승세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425232)
@@ -309,9 +309,9 @@
 #### [메디쿠스 파마에 대한 권고 날짜 알림이 철회되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425178)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MDCX.O/total>
 #### [프랑스 장관, X 플랫폼에서 Grok의 성 관련 콘텐츠를 검찰에 신고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425168)
-<head><meta charset="utf-8"><title>Vers : 20260103_0850 </title></head>
-<center>Vers : 20260103_0850 </center>
-<center>Vers : 20260103_1750 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0920 </title></head>
+<center>Vers : 20260103_0920 </center>
+<center>Vers : 20260103_1820 </center>
 <br><br><br>
 #### [BME, 카탈라나 옥시덴테 1억 2천만 주를 1월 5일부터 거래에서 제외하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425166)
 #### [터키 동부에 내린 폭설로 수천 개 마을의 도로가 막혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425175)
