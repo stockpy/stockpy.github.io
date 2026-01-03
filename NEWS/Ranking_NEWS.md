@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_0521 </title></head>
-<center>Vers : 20260103_0521 </center>
-<center>Vers : 20260103_1421 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0545 </title></head>
+<center>Vers : 20260103_0545 </center>
+<center>Vers : 20260103_1445 </center>
 <br><br><br>
 #### ["삼전으로 4억5000만원"…'12만전자'에 김구라도 대박?](https://m.stock.naver.com/news/ranknews/view/015/0005232202)
 #### [40대 여성, 아버지에게 180억 물려 받았는데 결국… [영앤리치 포트폴리오]](https://m.stock.naver.com/news/ranknews/view/015/0005232194)
