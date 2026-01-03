@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_1328 </title></head>
-<center>Vers : 20260103_1328 </center>
-<center>Vers : 20260103_2228 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_1347 </title></head>
+<center>Vers : 20260103_1347 </center>
+<center>Vers : 20260103_2247 </center>
 <br><br><br>
+#### [EU는 베네수엘라 국민 편에 서서 민주적 전환을지지한다고 폰 데어 라이 엔은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425466)
+#### [브라질, 미국이 베네수엘라에 대한 군사 공격에 대해 '용납 할 수없는 선'을 넘었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425465)
+#### [영국 스타머는 영국이 미국의 베네수엘라 공격에 관여하지 않았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425464)
 #### [트럼프, 베네수엘라 마두로 퇴진, 미국 파업 후 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425462)
 #### [노르웨이의 가스코, 계획된 가스 용량 증설 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425463)
 #### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425461)
@@ -59,13 +62,13 @@
 #### [트럼프 행정부가 베네수엘라 수도에서보고 된 폭발을 알고 있다고 CBS 기자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425410)
 #### [베네수엘라 수도에서 연기가 보이고 큰 소음이 들립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425408)
 #### [베네수엘라 수도, 전기가 없는 남부 지역에서 큰 소리로 들리는 소음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425407)
+<head><meta charset="utf-8"><title>Vers : 20260103_1347 </title></head>
+<center>Vers : 20260103_1347 </center>
+<center>Vers : 20260103_2247 </center>
+<br><br><br>
 #### [Atco Power Alberta 385MW 배틀 리버 5 석탄 발전소 오프라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425406)
 #### [미국 해안 경비대, 마약 의심 선박 공격 후 생존자 수색 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425405)
 #### [트럼프와 연계된 MAGA Inc 슈퍼 팩, 3억 달러 비축으로 2026년 진입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425404)
-<head><meta charset="utf-8"><title>Vers : 20260103_1328 </title></head>
-<center>Vers : 20260103_1328 </center>
-<center>Vers : 20260103_2228 </center>
-<br><br><br>
 #### [트럼프, 보안 및 중국 관련 우려로 칩 거래 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425403)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425402)
 #### [호주 경찰, 본다이 비치 테러 이후 시드니 애쉬 테스트 보안 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425401)
@@ -138,15 +141,15 @@
 #### [Southwest Gas Holdings Inc - 2025년 12월 31일, 앤드류 테노가 사우스웨스트 가스 홀딩스 이사회에서 사임 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425354)
 #### [mF 국제 제한 파일 미공개 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425347)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MFI.O/total>
+<head><meta charset="utf-8"><title>Vers : 20260103_1347 </title></head>
+<center>Vers : 20260103_1347 </center>
+<center>Vers : 20260103_2247 </center>
+<br><br><br>
 #### [Genasys Inc - 12월 24일, 이사회에서 카산드라 에르난데스-몬테온을 CFO로 승진 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425344)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GNSS.O/total>
 #### [Alumis Inc - 공동 및 그 사업부, 바이오 등반에 대한 중대한 위반 통지 및 배상 청구 통지 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425353)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ALMS.O/total>
 #### [나이트-스위프트 운송 홀딩스 - 2025 년 12 월 31 일, 사업부, 채권 매입 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425334)
-<head><meta charset="utf-8"><title>Vers : 20260103_1328 </title></head>
-<center>Vers : 20260103_1328 </center>
-<center>Vers : 20260103_2228 </center>
-<br><br><br>
 #### [슈퍼 마이크로 컴퓨터 - 12월 29일, 신용 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425343)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMCI.O/total>
 #### [바우쉬 앤 롬 코퍼레이션, 2022년 5월 10일자로 신용 계약에 대한 네 번째 수정안 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425352)
@@ -223,15 +226,15 @@
 #### [휴일 이후 제한된 거래로 CBOT 옥수수 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425289)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425288)
 #### [젤렌스키, 우크라이나의 새 국방부 장관으로 페도로프 제1부총리 임명 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425285)
+<head><meta charset="utf-8"><title>Vers : 20260103_1347 </title></head>
+<center>Vers : 20260103_1347 </center>
+<center>Vers : 20260103_2247 </center>
+<br><br><br>
 #### [새해 벽두부터 월가가 요동치고 국채 금리는 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425286)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
 #### [에퀴노르, 미국의 엠파이어 윈드 프로젝트 중단 명령에 이의를 제기하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425287)
 #### [중남미 자산 강세로 한 해 시작, 베네수엘라가 외교적으로 유화적인 행보를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425280)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
-<head><meta charset="utf-8"><title>Vers : 20260103_1328 </title></head>
-<center>Vers : 20260103_1328 </center>
-<center>Vers : 20260103_2228 </center>
-<br><br><br>
 #### [디이쇼, 브리지워터, 발야스니가 이끄는 상위 헤지펀드들이 2025년에 큰 수익을 낼 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425283)
 #### [미국 원자력 발전소 정전 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425279)
 #### [금요일에 미국 원자력 발전 용량이 1,419MW로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425282)
@@ -297,14 +300,14 @@
 #### [미국 판사는 워싱턴에 파이프 폭탄을 설치 한 혐의로 기소 된 남자에게 구금 유지를 명령합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425233)
 #### [PMGC 홀딩스, 1대 4 역 주식 분할 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425228)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ELAB.O/total>
+<head><meta charset="utf-8"><title>Vers : 20260103_1347 </title></head>
+<center>Vers : 20260103_1347 </center>
+<center>Vers : 20260103_2247 </center>
+<br><br><br>
 #### [피나클 파이낸셜 파트너스, 혼합 선반용 파일, 크기 미공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425225)
 #### [HHS 및 DEA, 2026년까지 규제 약물 처방을 위한 원격 의료 유연성 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425222)
 #### [브라질 반독점 당국, Microsoft의 클라우드 서비스에 대한 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425226)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260103_1328 </title></head>
-<center>Vers : 20260103_1328 </center>
-<center>Vers : 20260103_2228 </center>
-<br><br><br>
 #### [남자 아이스하키 대표팀이 밀라노-코르티나에서 금메달 가뭄을 해소하는 데 도움을 준 올림픽-미국 희망팀 케미스트리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425224)
 #### [옥수수, 대두 기준 입찰 대부분 안정에서 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425221)
 #### [미국은 새로운 용량을 통해 새로운 LNG 수출 기록을 세웠습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425219)
@@ -370,14 +373,14 @@
 #### [미국, 밀라노-코르티나 올림픽에서 금메달 가뭄을 끝내기 위한 남자 아이스하키 대표팀 명단 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425173)
 #### [컨트롤매틱, 알퍼 셀레브리 총지배인 사임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425177)
 #### [영국 규제 당국, 조사 중인 클레임 회사 이름을 밝히기 위한 법정 싸움에서 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425169)
+<head><meta charset="utf-8"><title>Vers : 20260103_1347 </title></head>
+<center>Vers : 20260103_1347 </center>
+<center>Vers : 20260103_2247 </center>
+<br><br><br>
 #### [미국 주식의 움직임-리비안, 테슬라, MGM 리조트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425172)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IRWD.O/total>
 #### [발트해 수중 사보타주 의심 사건의 타임라인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425176)
 #### [타이슨 푸드, 8,250만 달러에 미국 소고기 가격 담합 소송 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425164)
-<head><meta charset="utf-8"><title>Vers : 20260103_1328 </title></head>
-<center>Vers : 20260103_1328 </center>
-<center>Vers : 20260103_2228 </center>
-<br><br><br>
 #### [S&P, 나스닥은 최근 손실 이후 기술 반등으로 2026 년을 확고한 발판으로 시작합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425162)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
 #### [스위스 검찰, '분수 양초'가 크란스-몬타나 화재를 일으켰을 수 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425161)
@@ -446,7 +449,3 @@
 #### [인도는 MGA를 인정하지만 주요 운영 문제는 여전히 남아 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425109)
 #### [우크라이나, EU로부터 더 많은 전력 수입 가능](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425115)
 #### [수출업체, 미국산 옥수수를 한국으로 판매하다 - USDA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425112)
-#### [규모 6.3의 지진이 멕시코를 강타했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425106)
-#### [인도 주정부, 1 ~ 3 월 분기에 5 조 루피 차입 가능성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425103)
-#### [테슬라, 4분기 총 생산량 434,358대, 인도량 418,227대 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425104)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
