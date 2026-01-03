@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_0920 </title></head>
-<center>Vers : 20260103_0920 </center>
-<center>Vers : 20260103_1820 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0941 </title></head>
+<center>Vers : 20260103_0941 </center>
+<center>Vers : 20260103_1841 </center>
 <br><br><br>
+#### [기아 미국, 2025년 852,155대 판매 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425418)
+#### [이란, 미국의 베네수엘라 공격은 국가 주권에 대한 노골적인 침해라고 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425417)
 #### [미국, 베네수엘라에서 파업을 벌이고 있다고 미국 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425416)
 #### [베네수엘라, 미국의 '군사적 침략'을 거부한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425414)
 #### [치명적인 화재 이후 스위스 바의 안전 설정에 대한 조사가 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425415)
@@ -65,13 +67,13 @@
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425364)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425362)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425358)
+<head><meta charset="utf-8"><title>Vers : 20260103_0941 </title></head>
+<center>Vers : 20260103_0941 </center>
+<center>Vers : 20260103_1841 </center>
+<br><br><br>
 #### [글림프 그룹, 최대 $9,478,200의 보통주 공모 신청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425361)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VRAR.O/total>
 #### [맥코믹, 맥코믹 데 멕시코의 지배 지분 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425357)
-<head><meta charset="utf-8"><title>Vers : 20260103_0920 </title></head>
-<center>Vers : 20260103_0920 </center>
-<center>Vers : 20260103_1820 </center>
-<br><br><br>
 #### [트레저 글로벌, 12월 26일 V 갤런트와 세 번째 추가 서신 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425350)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TGL.O/total>
 #### [인텔리아 테라퓨틱스, 나스닥 상장 규정 5635(C)(4)에 따른 인센티브 보조금 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425336)
@@ -159,13 +161,13 @@
 #### [캘리포니아주 토랜스 정유공장, 1월 6일부터 18일까지 계획된 플레어 이벤트 발생 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425303)
 #### [나스닥 마감 후 신년 파티](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425301)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
+<head><meta charset="utf-8"><title>Vers : 20260103_0941 </title></head>
+<center>Vers : 20260103_0941 </center>
+<center>Vers : 20260103_1841 </center>
+<br><br><br>
 #### [다우, 2026년 첫날 상승 마감...여전히 산타클로스 랠리는 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425298)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
 #### [CBOT 밀이 전 세계 대량 공급으로 하락세를 보이고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425297)
-<head><meta charset="utf-8"><title>Vers : 20260103_0920 </title></head>
-<center>Vers : 20260103_0920 </center>
-<center>Vers : 20260103_1820 </center>
-<br><br><br>
 #### [미디어넥스트, 어려움을 겪고 있는 패션 브랜드 LK 베넷의 가격 인하를 단행하다 - 스카이뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425295)
 #### [젤렌스키, 우크라이나의 새 국방부 장관으로 페도로프 제1부총리 임명 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425296)
 #### [미국산 오일 및 지방 - 1월 2일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425294)
@@ -233,12 +235,12 @@
 #### [S&P 500, 나스닥은 작년의 견조한 상승 이후 2026 년까지 소강 상태를 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425239)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
 #### [다이이치 산쿄, 표적 항암제 생산 시설 설립에 약 3,000억 엔 지출, 닛케이 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425237)
+<head><meta charset="utf-8"><title>Vers : 20260103_0941 </title></head>
+<center>Vers : 20260103_0941 </center>
+<center>Vers : 20260103_1841 </center>
+<br><br><br>
 #### [미지근한 개화기 속에서 좁은 범위에 갇힌 버즈 케이블](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425240)
 #### [Grok, 세이프가드 위반으로 인해 X에서 '최소한의 옷을 입은 미성년자' 이미지가 발견되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425238)
-<head><meta charset="utf-8"><title>Vers : 20260103_0920 </title></head>
-<center>Vers : 20260103_0920 </center>
-<center>Vers : 20260103_1820 </center>
-<br><br><br>
 #### [콜로라도에서 희귀한 산사자 공격 의심으로 등산객 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425236)
 #### [귀금속, 금리 인하 베팅과 안전자산 수요로 2026년 초 상승세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425232)
 #### [가솔린 정제 이익이 재고 증가로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425235)
@@ -306,13 +308,13 @@
 #### [버크셔 해서웨이, 주가 하락으로 포스트 버핏 시대 개막](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425179)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
 #### [협상 실패 후 칠레 Capstone Copper의 만토베르데 광산에서 광부들이 파업을 벌입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425180)
+<head><meta charset="utf-8"><title>Vers : 20260103_0941 </title></head>
+<center>Vers : 20260103_0941 </center>
+<center>Vers : 20260103_1841 </center>
+<br><br><br>
 #### [메디쿠스 파마에 대한 권고 날짜 알림이 철회되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425178)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MDCX.O/total>
 #### [프랑스 장관, X 플랫폼에서 Grok의 성 관련 콘텐츠를 검찰에 신고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425168)
-<head><meta charset="utf-8"><title>Vers : 20260103_0920 </title></head>
-<center>Vers : 20260103_0920 </center>
-<center>Vers : 20260103_1820 </center>
-<br><br><br>
 #### [BME, 카탈라나 옥시덴테 1억 2천만 주를 1월 5일부터 거래에서 제외하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425166)
 #### [터키 동부에 내린 폭설로 수천 개 마을의 도로가 막혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425175)
 #### [달러, 8년 만에 최대 연간 하락 후 2026년부터 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425167)
@@ -381,5 +383,3 @@
 #### [유포리아 인포테크(인도), 샴바 반자를 3년 임기의 전무 이사로 재임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425118)
 #### [NTPC, CCTE와 파트너십 계약을 체결하지 않았다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425134)
 #### [멕시코 남부에서 규모 6.3의 강진 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425129)
-#### [에르고, 겐시디게의 발틱 사업부 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425117)
-#### [라즈카말 신세틱스, 자회사 인도프레임 인더스트리에 대한 투자 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425108)
