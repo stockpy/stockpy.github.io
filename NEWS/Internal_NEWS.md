@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_1851 </title></head>
-<center>Vers : 20260103_1851 </center>
-<center>Vers : 20260104_0351 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_1915 </title></head>
+<center>Vers : 20260103_1915 </center>
+<center>Vers : 20260104_0415 </center>
 <br><br><br>
+#### [프랑스 항공사, 베네수엘라 민간 항공 당국에 영공 회피 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425543)
+#### [민주당 의원들은 베네수엘라에 대해 오해를 받았다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425544)
+#### [스페인은 베네수엘라에 대한 미국의 개입을 인정하지 않을 것이라고 PM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425539)
+#### [베네수엘라 디아스포라, 마두로 퇴진을 축하하며 다음 행보를 궁금해합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425540)
+#### [마크롱 프랑스 대통령: 에드문도 곤잘레스 우루티아가 베네수엘라의 권력 교체를 감독해야 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425542)
+#### [엑소르, 창업자의 아들과 페라리 주주 계약 갱신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425541)
 #### [우크라이나, 1 월 미국 정상 회담 희망, 젤 렌 스키, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425538)
 #### [충격, 우려, 그리고 축하: 미국의 파업에 대한 베네수엘라 국민들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425537)
 #### [트럼프, 미국 석유 회사들이 베네수엘라에 수십억 달러를 지출할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425536)
@@ -57,9 +63,3 @@
 #### [콜롬비아, 미국 공격 후 베네수엘라와 국경 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425486)
 #### [중국, 베네수엘라에서 미국의 조치가 국제법 위반이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425485)
 #### [베네수엘라에 대한 유엔 책임자: 미국의 조치는 '위험한 선례'를 남긴다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425487)
-#### [스위스 검찰, 치명적인 화재 후 술집 매니저를 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425484)
-#### [러시아 라브로프, 베네수엘라 로드리게스와의 전화 통화에서 연대를 표명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425482)
-#### [마두로와 아내는 뉴욕으로 끌려 갈 것이라고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425483)
-#### [미국은 베네수엘라의 석유 산업에 강력하게 관여 할 것이라고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425481)
-#### [독일 CSU, 유럽 증권 거래소 계획 추진하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425478)
-#### [러시아에있는 베네수엘라 부통령 로드리게스, 4 명의 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425479)
