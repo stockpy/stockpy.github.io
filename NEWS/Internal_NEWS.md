@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_1915 </title></head>
-<center>Vers : 20260103_1915 </center>
-<center>Vers : 20260104_0415 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_1937 </title></head>
+<center>Vers : 20260103_1937 </center>
+<center>Vers : 20260104_0437 </center>
 <br><br><br>
+#### [미국의 베네수엘라 마두로 체포에 대한 투자자와 경제학자들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425547)
+#### [트럼프, 마차도의 베네수엘라 통치 능력에 의구심 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425546)
+#### [트럼프, 우크라이나 전쟁에 대해 푸틴에게 '흥분하지 않는다' 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425548)
+#### [독일 메르츠 : 미국 베네수엘라 작전에 대한 법적 검토는 시간이 걸릴 것이며 선거 기반 전환을 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425545)
 #### [프랑스 항공사, 베네수엘라 민간 항공 당국에 영공 회피 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425543)
 #### [민주당 의원들은 베네수엘라에 대해 오해를 받았다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425544)
 #### [스페인은 베네수엘라에 대한 미국의 개입을 인정하지 않을 것이라고 PM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425539)
@@ -59,7 +63,3 @@
 #### [러시아, 미국에 베네수엘라 마두로 석방 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425490)
 #### [본디 미국 법무 장관, 마두로와 그의 아내의 경우 봉인되지 않은 기소장 게시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425491)
 #### [프랑스, 마두로 체포 뒤의 군사 작전은 국제법에 위배된다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425489)
-#### [남아공, 베네수엘라에서 미국의 조치에 대한 긴급 유엔 안보리 회의 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425488)
-#### [콜롬비아, 미국 공격 후 베네수엘라와 국경 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425486)
-#### [중국, 베네수엘라에서 미국의 조치가 국제법 위반이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425485)
-#### [베네수엘라에 대한 유엔 책임자: 미국의 조치는 '위험한 선례'를 남긴다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425487)

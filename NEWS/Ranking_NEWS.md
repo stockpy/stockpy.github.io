@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_1915 </title></head>
-<center>Vers : 20260103_1915 </center>
-<center>Vers : 20260104_0415 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_1937 </title></head>
+<center>Vers : 20260103_1937 </center>
+<center>Vers : 20260104_0437 </center>
 <br><br><br>
 #### [“삼전·하닉만 날아간게 아니네”…오랜만에 서학개미 웃게한 ‘이 종목’](https://m.stock.naver.com/news/ranknews/view/009/0005615745)
 #### ["삼전으로 4억5000만원"…'12만전자'에 김구라도 대박?](https://m.stock.naver.com/news/ranknews/view/015/0005232202)
