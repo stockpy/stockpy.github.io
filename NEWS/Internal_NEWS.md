@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_1647 </title></head>
-<center>Vers : 20260103_1647 </center>
-<center>Vers : 20260104_0147 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_1717 </title></head>
+<center>Vers : 20260103_1717 </center>
+<center>Vers : 20260104_0217 </center>
 <br><br><br>
+#### [인도, 베네수엘라에 필수적이지 않은 모든 여행 자제 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425517)
+#### [스위스 술집에서 화재가 발생하자 '장난인 줄 알았다'는 불신감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425515)
+#### [트럼프, 미국은 대형 석유 회사들이 베네수엘라에 진출 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425516)
+#### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425514)
+#### [트럼프, 미국은 '안전한'전환까지 베네수엘라에서 역할을 계속할 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425511)
+#### [트럼프, 마두로와 그의 아내가 미국의 정의에 직면 해 있다고 말함; 작전에 사용되는 공중, 육지 및 해상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425512)
+#### [모의 주택, CIA 정보원 및 특수 부대: 마두로 생포를 위한 미국의 작전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425510)
+#### [베네수엘라 석유 산업: 세계 최대 매장량, 쇠락하는 인프라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425513)
+#### [독일, 베네수엘라 위기에 대한 정치적 해법 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425509)
 #### [베네수엘라에 대한 유엔 책임자: 미국의 조치는 '위험한 선례'를 남긴다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425506)
 #### [Airbus, 연간 항공기 인도 목표 790대 돌파, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425507)
 #### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425508)
@@ -53,12 +62,3 @@
 #### [젤렌스키, 우크라이나의 새 에너지 장관으로 슈미할 국방부 장관 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425460)
 #### [영국 스타 머는 영국이 베네수엘라에 대한 미국의 파업에 관여하지 않았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425459)
 #### [미국 파업으로 베네수엘라의 석유 시설이 손상되지 않았다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425458)
-#### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425454)
-#### [터키의 2025년 수출은 전년 대비 4.5% 증가한 2,734억 달러를 기록할 것이라고 에르도안 대통령은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425457)
-#### [베네수엘라 부통령, 트럼프에게 마두로와 부인의 '생명 증명'을 요구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425455)
-#### [EU는 베네수엘라의 평화적이고 민주적 인 해결책을지지한다고 유럽 이사회 의장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425456)
-#### [페이먼츠 그룹 홀딩 GmbH & Co, TPG 인수 완료 가능성이 더 이상 우세하지 않다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425453)
-#### [런던 부동산 중개인 덱스터스, '판매용' 간판 5억 스트게 올리다 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425451)
-#### [충격에 휩싸인 베네수엘라 국민, 앞으로 닥칠 일에 대해 확신하지 못한 채 몸을 웅크리고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425452)
-#### [쿠바 대통령에 대한 '국가 테러' 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425450)
-#### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425449)
