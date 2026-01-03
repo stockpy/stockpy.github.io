@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_2117 </title></head>
-<center>Vers : 20260103_2117 </center>
-<center>Vers : 20260104_0617 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_2139 </title></head>
+<center>Vers : 20260103_2139 </center>
+<center>Vers : 20260104_0639 </center>
 <br><br><br>
+#### [미국 항공사, 카리브해 영공 폐쇄 후 항공편 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425561)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
+#### [미국의 베네수엘라 대통령 체포는 합법적이었나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425560)
 #### [쿠바 대통령, 베네수엘라에 대한 '국가 테러'를 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425558)
 #### ['우리가 국가를 운영할 것입니다.' 트럼프, 베네수엘라 정권 교체에 베팅하다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425559)
 #### [카리브해 영공 폐쇄 후 미국 항공사, 항공편 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425555)
@@ -62,5 +65,3 @@
 #### [에어버스, 연간 항공기 인도 목표 790대 돌파, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425504)
 #### [에어버스, 2025년 연간 항공기 790대 인도 목표 달성 전망-블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425503)
 #### [미국이 베네수엘라의 마두로를 체포하자 라틴 아메리카에서 비난과 박수가 쏟아지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425502)
-#### [러시아, 자 포리 지아 원자력 발전소 두 전력선 중 하나에서 연결 해제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425500)
-#### [미국의 베네수엘라 마두로 체포에 대한 투자자와 경제학자들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425501)
