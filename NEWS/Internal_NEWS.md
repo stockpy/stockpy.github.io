@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_1740 </title></head>
-<center>Vers : 20260103_1740 </center>
-<center>Vers : 20260104_0240 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_1828 </title></head>
+<center>Vers : 20260103_1828 </center>
+<center>Vers : 20260104_0328 </center>
 <br><br><br>
+#### [엑스트롬, 포드 원투로 다카르 프롤로그 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425535)
+#### [미국의 베네수엘라 공습, 새로운 글로벌 파열을 위협하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425534)
+#### [트럼프가 마두로를 대신했다고 말한 델시 로드리게스 부통령은 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425533)
+#### [엑소르와 페라리 가족, 페라리에 대한 주주 계약 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425532)
+#### [니콜라스 마두로의 베네수엘라 장악력, 트럼프 공세에 흔들리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425531)
+#### [트럼프는? 마두로 체포, 미국이 베네수엘라를 운영 할 것이라고 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425529)
+#### [트럼프는 우크라이나 전쟁에 대해 푸틴에게 '흥분하지 않는다'고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425530)
+#### [트럼프, 마차도의 베네수엘라 통치 능력에 의구심 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425528)
+#### [미국의 베네수엘라 마두로 체포에 대한 투자자와 경제학자들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425525)
+#### [모의 집, CIA 정보원, 특수부대: 마두로 생포를 위한 미국의 작전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425526)
+#### [트럼프, 미국이 베네수엘라 작전 중 쿠바로 초점을 확대 할 수 있다는 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425527)
+#### [플로리다 도랄의 베네수엘라 주민들이 마두로 생포를 축하합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425524)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425523)
+#### [루비오, 트럼프 행정부가 베네수엘라 작전 후 의회에 전화했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425521)
+#### [트럼프, 미국이 베네수엘라를 그룹으로 운영 할 것이라고 말하며 미군을 지상에 배치하는 것을 두려워하지 않는다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425522)
 #### [미군 고위 장교, 베네수엘라 작전에 150 대 이상의 항공기가 포함되었다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425519)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425520)
 #### [트럼프, 베네수엘라 석유에 대한 미국의 금수 조치가 여전히 유효하다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425518)
@@ -47,18 +62,3 @@
 #### [젤렌스키, 우크라이나의 새 에너지 장관으로 슈미할 국방부 장관 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425480)
 #### [트럼프 : 베네수엘라 작전으로 우리 측 부상자 거의없고 사망자 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425474)
 #### [베네수엘라의 마두로를 대체할 수 있는 부통령 델시 로드리게스는 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425477)
-#### [브라질, 미국이 베네수엘라 군사 공격에 대해 '용납 할 수없는 선'을 넘었다 고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425475)
-#### [베네수엘라 석유 산업: 세계 최대 매장량, 쇠락하는 인프라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425476)
-#### [미국의 베네수엘라 마두로 체포에 대한 투자자와 경제학자들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425472)
-#### [이란 최고 지도자, 시위 격화와 미국 위협에도 굴복하지 않겠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425473)
-#### [니콜라스 마두로의 베네수엘라 강압 통치가 마침내 트럼프에 의해 종식되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425470)
-#### [베네수엘라의 마두로를 대체할 수 있는 부통령 델시 로드리게스는 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425468)
-#### [스위스 라스트, 월드컵 대회전 첫 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425471)
-#### [사이클로크로스 충돌 사고로 골절상을 입은 사이클링-반 에르트가 성공적인 수술을 받습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425469)
-#### [덴마크는 미국의 베네수엘라 공격에 따라 국제법을 존중해야한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425467)
-#### [EU는 베네수엘라 국민 편에 서서 민주적 전환을지지한다고 폰 데어 라이 엔은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425466)
-#### [브라질, 미국이 베네수엘라에 대한 군사 공격에 대해 '용납 할 수없는 선'을 넘었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425465)
-#### [영국 스타머는 영국이 미국의 베네수엘라 공격에 관여하지 않았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425464)
-#### [트럼프, 베네수엘라 마두로 퇴진, 미국 파업 후 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425462)
-#### [노르웨이의 가스코, 계획된 가스 용량 증설 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425463)
-#### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425461)
