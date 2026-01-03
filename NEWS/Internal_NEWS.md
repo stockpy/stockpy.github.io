@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260103_0739 </title></head>
-<center>Vers : 20260103_0739 </center>
-<center>Vers : 20260103_1639 </center>
+<head><meta charset="utf-8"><title>Vers : 20260103_0826 </title></head>
+<center>Vers : 20260103_0826 </center>
+<center>Vers : 20260103_1726 </center>
 <br><br><br>
+#### [베네수엘라, 미국의 '군사적 침략'을 거부한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425414)
+#### [치명적인 화재 이후 스위스 바의 안전 설정에 대한 조사가 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425415)
+#### [흔적을 남긴 여성 기수 크럼프, 77세 나이로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425412)
+#### [Atco Power Alberta 155MW 배틀 리버 4 석탄 발전소 오프라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425413)
 #### [공사 중인 덴버 아파트 건물에 화재가 발생하여 정전이 발생했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425409)
 #### [마틴 아일랜드 총리, 중국이 EU 관계를 강화함에 따라 중국 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425411)
 #### [트럼프 행정부가 베네수엘라 수도에서보고 된 폭발을 알고 있다고 CBS 기자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425410)
@@ -65,6 +69,10 @@
 #### [맥코믹, 맥코믹 데 멕시코의 지배 지분 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425357)
 #### [트레저 글로벌, 12월 26일 V 갤런트와 세 번째 추가 서신 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425350)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TGL.O/total>
+<head><meta charset="utf-8"><title>Vers : 20260103_0826 </title></head>
+<center>Vers : 20260103_0826 </center>
+<center>Vers : 20260103_1726 </center>
+<br><br><br>
 #### [인텔리아 테라퓨틱스, 나스닥 상장 규정 5635(C)(4)에 따른 인센티브 보조금 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425336)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NTLA.O/total>
 #### [후커 퍼니싱, 업계 전문성을 갖춘 새로운 사외이사 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425356)
@@ -73,10 +81,6 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ATRA.O/total>
 #### [카리오팜 테라퓨틱스, 나스닥 상장 규정 5635(C)(4)에 따른 유도 보조금 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425346)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KPTI.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260103_0739 </title></head>
-<center>Vers : 20260103_0739 </center>
-<center>Vers : 20260103_1639 </center>
-<br><br><br>
 #### [베리사인, 4분기 및 2025년 전체 재무 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425355)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VRSN.O/total>
 #### [샌디스크, 알렉산더 R. 브래들리를 이사회에 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425348)
@@ -158,14 +162,14 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
 #### [CBOT 밀이 전 세계 대량 공급으로 하락세를 보이고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425297)
 #### [미디어넥스트, 어려움을 겪고 있는 패션 브랜드 LK 베넷의 가격 인하를 단행하다 - 스카이뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425295)
+<head><meta charset="utf-8"><title>Vers : 20260103_0826 </title></head>
+<center>Vers : 20260103_0826 </center>
+<center>Vers : 20260103_1726 </center>
+<br><br><br>
 #### [젤렌스키, 우크라이나의 새 국방부 장관으로 페도로프 제1부총리 임명 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425296)
 #### [미국산 오일 및 지방 - 1월 2일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425294)
 #### [브라질 수출과의 경쟁으로 CBOT 대두 가격 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425291)
 #### [1월 2일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425292)
-<head><meta charset="utf-8"><title>Vers : 20260103_0739 </title></head>
-<center>Vers : 20260103_0739 </center>
-<center>Vers : 20260103_1639 </center>
-<br><br><br>
 #### [미국 천연가스 선물이 더운 날씨와 수요 둔화 전망에 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425293)
 #### [비즈니스 전망: 새해, 같은 FOMO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425290)
 #### [휴일 이후 제한된 거래로 CBOT 옥수수 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425289)
@@ -231,14 +235,14 @@
 #### [미지근한 개화기 속에서 좁은 범위에 갇힌 버즈 케이블](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425240)
 #### [Grok, 세이프가드 위반으로 인해 X에서 '최소한의 옷을 입은 미성년자' 이미지가 발견되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425238)
 #### [콜로라도에서 희귀한 산사자 공격 의심으로 등산객 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425236)
+<head><meta charset="utf-8"><title>Vers : 20260103_0826 </title></head>
+<center>Vers : 20260103_0826 </center>
+<center>Vers : 20260103_1726 </center>
+<br><br><br>
 #### [귀금속, 금리 인하 베팅과 안전자산 수요로 2026년 초 상승세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425232)
 #### [가솔린 정제 이익이 재고 증가로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425235)
 #### [클레피에르, 2025년 말 이탈리아 카사마시마 몰 인수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425230)
 #### [EU 밀, 새해 첫날 가벼운 거래에서 하락세로 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425231)
-<head><meta charset="utf-8"><title>Vers : 20260103_0739 </title></head>
-<center>Vers : 20260103_0739 </center>
-<center>Vers : 20260103_1639 </center>
-<br><br><br>
 #### [인도 히스데샛, 우주 입자 충돌 후 비상 계획 시작 스페인Sat NG II 위성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425234)
 #### [러시아 국방부, 러시아의 하르 키우 공격에 대한 보도는 사실이 아니라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425229)
 #### [개인투자자 2024년 10월 이후 최저치 ?- AAII](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425227)
@@ -305,14 +309,14 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MDCX.O/total>
 #### [프랑스 장관, X 플랫폼에서 Grok의 성 관련 콘텐츠를 검찰에 신고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425168)
 #### [BME, 카탈라나 옥시덴테 1억 2천만 주를 1월 5일부터 거래에서 제외하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425166)
+<head><meta charset="utf-8"><title>Vers : 20260103_0826 </title></head>
+<center>Vers : 20260103_0826 </center>
+<center>Vers : 20260103_1726 </center>
+<br><br><br>
 #### [터키 동부에 내린 폭설로 수천 개 마을의 도로가 막혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425175)
 #### [달러, 8년 만에 최대 연간 하락 후 2026년부터 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425167)
 #### [2025년 두 자릿수 수익률을 기록할 것으로 전망되는 AQR 캐피털 매니지먼트, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425165)
 #### [WR 버클리, 이아나론 부사장에 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425171)
-<head><meta charset="utf-8"><title>Vers : 20260103_0739 </title></head>
-<center>Vers : 20260103_0739 </center>
-<center>Vers : 20260103_1639 </center>
-<br><br><br>
 #### [스카이워드 스페셜티, 아폴로 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425174)
 #### [미국 소고기/돼지고기 포장업체 마진 - Hedgersedge](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425170)
 #### [미국, 밀라노-코르티나 올림픽에서 금메달 가뭄을 끝내기 위한 남자 아이스하키 대표팀 명단 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425173)
@@ -379,8 +383,3 @@
 #### [에르고, 겐시디게의 발틱 사업부 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425117)
 #### [라즈카말 신세틱스, 자회사 인도프레임 인더스트리에 대한 투자 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425108)
 #### [약세 기술에서 연초 손실에 대한 BUZZ-COMMENT-EUR/USD 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425128)
-#### [인도 시장 규제 당국, 가맹점 뱅킹 개편의 단계적 시행 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425111)
-#### [리버스톤 에너지, 인피니텀에 최대 520만 달러 투자 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425107)
-#### [밀, 옥수수, 대두 선물이 혼조세를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425114)
-#### [미국 주식의 움직임-마이크론, 아이언우드 제약, 치폴레 멕시칸 그릴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425110)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IRWD.O/total>
