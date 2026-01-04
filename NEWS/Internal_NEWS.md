@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_1041 </title></head>
-<center>Vers : 20260104_1041 </center>
-<center>Vers : 20260104_1941 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1052 </title></head>
+<center>Vers : 20260104_1052 </center>
+<center>Vers : 20260104_1952 </center>
 <br><br><br>
+#### [북한, 미국의 베네수엘라 공격에 대해 '심각한 주권 침해' 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425637)
 #### [그리스 공항, 무선 주파수 문제로 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425633)
 #### [터키, 아제르바이잔과 33cm 천연 가스 수입 계약 체결, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425634)
 #### [북한, 미국의 베네수엘라 공격에 대해 '주권 침해'라며 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425636)
@@ -77,11 +78,11 @@
 #### [트럼프, 미국이 마두로 체포 후 베네수엘라를 운영 할 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425580)
 #### [베네수엘라의 마두로, 뉴욕에 도착했다고 뉴스 매체들이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425579)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425578)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425577)
-<head><meta charset="utf-8"><title>Vers : 20260104_1041 </title></head>
-<center>Vers : 20260104_1041 </center>
-<center>Vers : 20260104_1941 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1052 </title></head>
+<center>Vers : 20260104_1052 </center>
+<center>Vers : 20260104_1952 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425577)
 #### [대리석 쇼핑, 이란 위협, 마두로 체포: 트럼프의 어지러운 휴가 루틴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425576)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425575)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425574)
@@ -144,11 +145,11 @@
 #### [미군 고위 장교, 베네수엘라 작전에 150 대 이상의 항공기가 포함되었다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425519)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425520)
 #### [트럼프, 베네수엘라 석유에 대한 미국의 금수 조치가 여전히 유효하다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425518)
-#### [인도, 베네수엘라에 필수적이지 않은 모든 여행 자제 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425517)
-<head><meta charset="utf-8"><title>Vers : 20260104_1041 </title></head>
-<center>Vers : 20260104_1041 </center>
-<center>Vers : 20260104_1941 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1052 </title></head>
+<center>Vers : 20260104_1052 </center>
+<center>Vers : 20260104_1952 </center>
 <br><br><br>
+#### [인도, 베네수엘라에 필수적이지 않은 모든 여행 자제 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425517)
 #### [스위스 술집에서 화재가 발생하자 '장난인 줄 알았다'는 불신감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425515)
 #### [트럼프, 미국은 대형 석유 회사들이 베네수엘라에 진출 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425516)
 #### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425514)
@@ -208,4 +209,3 @@
 #### [젤렌스키, 우크라이나의 새 에너지 장관으로 슈미할 국방부 장관 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425460)
 #### [영국 스타 머는 영국이 베네수엘라에 대한 미국의 파업에 관여하지 않았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425459)
 #### [미국 파업으로 베네수엘라의 석유 시설이 손상되지 않았다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425458)
-#### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425454)
