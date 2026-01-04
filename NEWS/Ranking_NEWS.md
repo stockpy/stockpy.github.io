@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_2253 </title></head>
-<center>Vers : 20260104_2253 </center>
-<center>Vers : 20260105_0753 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_2315 </title></head>
+<center>Vers : 20260104_2315 </center>
+<center>Vers : 20260105_0815 </center>
 <br><br><br>
 #### [수억빚 영끌족 ‘비명’ 더 커진다…주담대 금리, 어느덧 6%대 훌쩍](https://m.stock.naver.com/news/ranknews/view/009/0005616151)
 #### ["국장 돌아오나 했더니" 미국 주식 팔고 절세만 '쏙'...다시 미장 우르르](https://m.stock.naver.com/news/ranknews/view/008/0005300087)

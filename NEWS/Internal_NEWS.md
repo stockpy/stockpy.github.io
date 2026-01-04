@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_2253 </title></head>
-<center>Vers : 20260104_2253 </center>
-<center>Vers : 20260105_0753 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_2314 </title></head>
+<center>Vers : 20260104_2314 </center>
+<center>Vers : 20260105_0814 </center>
 <br><br><br>
+#### [바클레이즈 데이터에 따르면, 2025년 활동가 투자자들은 기록적인 캠페인 수를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425738)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LYFT.O/total>
+#### [분석-미국, 중국의 영토 주장을 강화하기 위해 베네수엘라에 대한 공격, 대만 공격 가능성은 낮다고 분석가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425737)
+#### [우크라이나 드론 공격으로 러시아 리페 츠크의 산업 지대에서 화재가 발생했다고 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425735)
+#### [영국의 오클리 캐피털, 13억 5천만 달러 규모의 거래로 GLAS 인수, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425736)
 #### [미국, 부채 회수를 위해 석유 메이저에 베네수엘라에 대규모 투자 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425734)
 #### [오클리 캐피탈, 13억 5천만 달러 규모의 거래로 GLAS 인수, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425732)
 #### [오클리, 10억 파운드 규모의 거래로 금융 전문 기업 글래스 인수 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425733)
@@ -63,7 +68,3 @@
 #### [시노백, 2025년 반기 보고서 늦게 제출에 관한 나스닥 통지를 받았다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425681)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SVA.O/total>
 #### [여자 선수들, 포 힐스 토너먼트 첫 출전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425680)
-#### [오스트리아 수도 유대교 회당 근처에서 수류탄 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425678)
-#### [투자자들은 트럼프의 베네수엘라 도박으로 인해 더 많은 지정학적 타격에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425677)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425676)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425675)
