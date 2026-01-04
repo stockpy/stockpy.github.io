@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_2118 </title></head>
-<center>Vers : 20260104_2118 </center>
-<center>Vers : 20260105_0618 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_2220 </title></head>
+<center>Vers : 20260104_2220 </center>
+<center>Vers : 20260105_0720 </center>
 <br><br><br>
+#### [에너지 저장 붐으로 리튬의 수요 전망 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425730)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300750.SZ/total>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425729)
+#### [삭스, 10억 달러 대출을 위한 협상 중, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425727)
+#### [미국의 베네수엘라 개입에도 불구하고 BUZZ-EUR/USD는 안정적입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425728)
 #### [독점-L3해리스가 우주 추진 자산 지분을 AE 인더스트리얼에 매각할 예정이라고 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425726)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FLY.O/total>
 #### [트럼프, 협박에 베팅하여 베네수엘라 지도자들을 줄 세우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425725)
@@ -62,8 +67,3 @@
 #### [베네수엘라의 수십억 달러에 달하는 부실채권: 누가 채권을 회수할 것인가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425672)
 #### [보츠와나, 모스크바에 대사관 개설, 러시아에 희토류 및 다이아몬드 개방, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425674)
 #### [베네수엘라의 PDVSA는 일부 합작 투자에 석유 생산량을 줄 이도록 요청했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425669)
-#### [베네수엘라 이벤트, 2026 년 시작에 따라 주가를 뒤흔들 일자리 데이터 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425671)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
-#### [시리아 정부, 경제 부흥을 위해 지폐 교환 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425668)
-#### [시리아 정부, 경제 부흥을 위해 지폐 교환 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425670)
-#### [여행 사이트 겟유어가이드, 흑자 전환 후 지분 매각 - 스카이뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425667)
