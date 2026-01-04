@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_1241 </title></head>
-<center>Vers : 20260104_1241 </center>
-<center>Vers : 20260104_2141 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1320 </title></head>
+<center>Vers : 20260104_1320 </center>
+<center>Vers : 20260104_2220 </center>
 <br><br><br>
+#### [스피릿 항공, 미국 연방항공청의 영공 폐쇄 명령이 만료됨에 따라 1월 4일 카리브해 왕복 항공편 운항 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425660)
+#### [투자자들은 트럼프의 베네수엘라 도박으로 인해 더 많은 지정학적 타격에 직면합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425659)
+#### [라스트, 시프린의 시즌 슬라럼 연승 행진을 끝내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425658)
 #### [네덜란드 항공사 KLM, 눈이 내리면서 124편의 항공편 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425657)
 #### [인권단체, 이란에서 시위 일주일 동안 최소 16명이 사망했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425656)
 #### [세르비아의 국정원 정유소, 1월 17일 또는 18일 가동 예정, 대통령 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425655)
@@ -75,13 +78,13 @@
 #### [치명적인 술집 화재로 기절한 스위스 알파인 리조트, 함께 위안을 찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425603)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425602)
 #### [중국, 미국은 베네수엘라의 마두로를 즉시 석방해야한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425601)
+<head><meta charset="utf-8"><title>Vers : 20260104_1320 </title></head>
+<center>Vers : 20260104_1320 </center>
+<center>Vers : 20260104_2220 </center>
+<br><br><br>
 #### [알 주프 시멘트, MD로 바크르 빈 아테프 신디 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425600)
 #### [베네수엘라 마두로 구금, 트럼프는 미국이 국가를 운영 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425598)
 #### [이 한국 대통령이 국빈 방문을 위해 베이징에 도착했다고 중국 관영 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425599)
-<head><meta charset="utf-8"><title>Vers : 20260104_1241 </title></head>
-<center>Vers : 20260104_1241 </center>
-<center>Vers : 20260104_2141 </center>
-<br><br><br>
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425596)
 #### [노스랜드 파워 131MW 이리쿼이 폭포 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425597)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425595)
@@ -143,13 +146,13 @@
 #### [민주당 의원들은 베네수엘라에 대해 오해를 받았다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425544)
 #### [스페인은 베네수엘라에 대한 미국의 개입을 인정하지 않을 것이라고 PM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425539)
 #### [베네수엘라 디아스포라, 마두로 퇴진을 축하하며 다음 행보를 궁금해합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425540)
+<head><meta charset="utf-8"><title>Vers : 20260104_1320 </title></head>
+<center>Vers : 20260104_1320 </center>
+<center>Vers : 20260104_2220 </center>
+<br><br><br>
 #### [마크롱 프랑스 대통령: 에드문도 곤잘레스 우루티아가 베네수엘라의 권력 교체를 감독해야 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425542)
 #### [엑소르, 창업자의 아들과 페라리 주주 계약 갱신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425541)
 #### [우크라이나, 1 월 미국 정상 회담 희망, 젤 렌 스키, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425538)
-<head><meta charset="utf-8"><title>Vers : 20260104_1241 </title></head>
-<center>Vers : 20260104_1241 </center>
-<center>Vers : 20260104_2141 </center>
-<br><br><br>
 #### [충격, 우려, 그리고 축하: 미국의 파업에 대한 베네수엘라 국민들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425537)
 #### [트럼프, 미국 석유 회사들이 베네수엘라에 수십억 달러를 지출할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425536)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
@@ -208,6 +211,3 @@
 #### [러시아 라브로프, 베네수엘라 로드리게스와의 전화 통화에서 연대를 표명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425482)
 #### [마두로와 아내는 뉴욕으로 끌려 갈 것이라고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425483)
 #### [미국은 베네수엘라의 석유 산업에 강력하게 관여 할 것이라고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425481)
-#### [독일 CSU, 유럽 증권 거래소 계획 추진하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425478)
-#### [러시아에있는 베네수엘라 부통령 로드리게스, 4 명의 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425479)
-#### [젤렌스키, 우크라이나의 새 에너지 장관으로 슈미할 국방부 장관 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425480)
