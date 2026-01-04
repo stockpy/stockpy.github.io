@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_0351 </title></head>
-<center>Vers : 20260104_0351 </center>
-<center>Vers : 20260104_1251 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_0448 </title></head>
+<center>Vers : 20260104_0448 </center>
+<center>Vers : 20260104_1348 </center>
 <br><br><br>
+#### [-관심해야 할 요소 - 1월 4일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425591)
+#### [마두로는 퇴진했지만 누가 베네수엘라를 이끌고 있는지는 불분명합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425590)
+#### [델타 항공, 이전에 영향을받은 카리브해의 13 개 공항을 오가는 항공편을 재개 할 것이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425589)
+#### [유나이티드, 토요일 밤 푸에르토리코 산후안 출발을 시작으로 카리브해행 항공편 재개 준비 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425588)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
+#### [카리브해 영공에 대한 미국의 제한은 0500 GMT에 종료 될 것이라고 Duffy는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425587)
 #### [베네수엘라 대법원, 델시 로드리게스에게 임시 대통령 취임 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425586)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425585)
 #### [미국의 베네수엘라 공격으로 중단된 라틴 아메리카의 평화, RIA, 길 베네수엘라 외무장관 인용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425584)
@@ -61,15 +67,15 @@
 #### [미국의 베네수엘라 공습, 새로운 글로벌 파열을 위협하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425534)
 #### [트럼프가 마두로를 대신했다고 말한 델시 로드리게스 부통령은 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425533)
 #### [엑소르와 페라리 가족, 페라리에 대한 주주 계약 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425532)
+<head><meta charset="utf-8"><title>Vers : 20260104_0448 </title></head>
+<center>Vers : 20260104_0448 </center>
+<center>Vers : 20260104_1348 </center>
+<br><br><br>
 #### [니콜라스 마두로의 베네수엘라 장악력, 트럼프 공세에 흔들리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425531)
 #### [트럼프는? 마두로 체포, 미국이 베네수엘라를 운영 할 것이라고 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425529)
 #### [트럼프는 우크라이나 전쟁에 대해 푸틴에게 '흥분하지 않는다'고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425530)
 #### [트럼프, 마차도의 베네수엘라 통치 능력에 의구심 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425528)
 #### [미국의 베네수엘라 마두로 체포에 대한 투자자와 경제학자들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425525)
-<head><meta charset="utf-8"><title>Vers : 20260104_0351 </title></head>
-<center>Vers : 20260104_0351 </center>
-<center>Vers : 20260104_1251 </center>
-<br><br><br>
 #### [모의 집, CIA 정보원, 특수부대: 마두로 생포를 위한 미국의 작전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425526)
 #### [트럼프, 미국이 베네수엘라 작전 중 쿠바로 초점을 확대 할 수 있다는 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425527)
 #### [플로리다 도랄의 베네수엘라 주민들이 마두로 생포를 축하합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425524)
@@ -125,8 +131,3 @@
 #### [베네수엘라 석유 산업: 세계 최대 매장량, 쇠락하는 인프라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425476)
 #### [미국의 베네수엘라 마두로 체포에 대한 투자자와 경제학자들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425472)
 #### [이란 최고 지도자, 시위 격화와 미국 위협에도 굴복하지 않겠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425473)
-#### [니콜라스 마두로의 베네수엘라 강압 통치가 마침내 트럼프에 의해 종식되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425470)
-#### [베네수엘라의 마두로를 대체할 수 있는 부통령 델시 로드리게스는 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425468)
-#### [스위스 라스트, 월드컵 대회전 첫 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425471)
-#### [사이클로크로스 충돌 사고로 골절상을 입은 사이클링-반 에르트가 성공적인 수술을 받습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425469)
-#### [덴마크는 미국의 베네수엘라 공격에 따라 국제법을 존중해야한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425467)
