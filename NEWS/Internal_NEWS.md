@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_0741 </title></head>
-<center>Vers : 20260104_0741 </center>
-<center>Vers : 20260104_1641 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_0842 </title></head>
+<center>Vers : 20260104_0842 </center>
+<center>Vers : 20260104_1742 </center>
 <br><br><br>
+#### [우크라이나의 러시아 국경 지역에서 드론 공격으로 1 명 사망, 2 명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425607)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425606)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425605)
+#### [트럼프, 마두로 체포 후 미국이 베네수엘라를 운영할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425604)
+#### [치명적인 술집 화재로 기절한 스위스 알파인 리조트, 함께 위안을 찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425603)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425602)
 #### [중국, 미국은 베네수엘라의 마두로를 즉시 석방해야한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425601)
 #### [알 주프 시멘트, MD로 바크르 빈 아테프 신디 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425600)
@@ -61,15 +66,15 @@
 #### [베네수엘라의 델시 로드리게스, 마두로만이 국가 대통령이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425550)
 #### [미국 북서부 강 유량이 98%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425549)
 #### [미국의 베네수엘라 마두로 체포에 대한 투자자와 경제학자들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425547)
+<head><meta charset="utf-8"><title>Vers : 20260104_0842 </title></head>
+<center>Vers : 20260104_0842 </center>
+<center>Vers : 20260104_1742 </center>
+<br><br><br>
 #### [트럼프, 마차도의 베네수엘라 통치 능력에 의구심 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425546)
 #### [트럼프, 우크라이나 전쟁에 대해 푸틴에게 '흥분하지 않는다' 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425548)
 #### [독일 메르츠 : 미국 베네수엘라 작전에 대한 법적 검토는 시간이 걸릴 것이며 선거 기반 전환을 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425545)
 #### [프랑스 항공사, 베네수엘라 민간 항공 당국에 영공 회피 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425543)
 #### [민주당 의원들은 베네수엘라에 대해 오해를 받았다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425544)
-<head><meta charset="utf-8"><title>Vers : 20260104_0741 </title></head>
-<center>Vers : 20260104_0741 </center>
-<center>Vers : 20260104_1641 </center>
-<br><br><br>
 #### [스페인은 베네수엘라에 대한 미국의 개입을 인정하지 않을 것이라고 PM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425539)
 #### [베네수엘라 디아스포라, 마두로 퇴진을 축하하며 다음 행보를 궁금해합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425540)
 #### [마크롱 프랑스 대통령: 에드문도 곤잘레스 우루티아가 베네수엘라의 권력 교체를 감독해야 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425542)
@@ -126,8 +131,3 @@
 #### [본디 미국 법무 장관, 마두로와 그의 아내의 경우 봉인되지 않은 기소장 게시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425491)
 #### [프랑스, 마두로 체포 뒤의 군사 작전은 국제법에 위배된다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425489)
 #### [남아공, 베네수엘라에서 미국의 조치에 대한 긴급 유엔 안보리 회의 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425488)
-#### [콜롬비아, 미국 공격 후 베네수엘라와 국경 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425486)
-#### [중국, 베네수엘라에서 미국의 조치가 국제법 위반이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425485)
-#### [베네수엘라에 대한 유엔 책임자: 미국의 조치는 '위험한 선례'를 남긴다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425487)
-#### [스위스 검찰, 치명적인 화재 후 술집 매니저를 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425484)
-#### [러시아 라브로프, 베네수엘라 로드리게스와의 전화 통화에서 연대를 표명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425482)
