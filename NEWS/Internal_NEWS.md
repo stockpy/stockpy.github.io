@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_1112 </title></head>
-<center>Vers : 20260104_1112 </center>
-<center>Vers : 20260104_2012 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1241 </title></head>
+<center>Vers : 20260104_1241 </center>
+<center>Vers : 20260104_2141 </center>
 <br><br><br>
+#### [네덜란드 항공사 KLM, 눈이 내리면서 124편의 항공편 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425657)
+#### [인권단체, 이란에서 시위 일주일 동안 최소 16명이 사망했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425656)
+#### [세르비아의 국정원 정유소, 1월 17일 또는 18일 가동 예정, 대통령 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425655)
+#### [레오 교황, 베네수엘라에 독립 국가 유지 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425654)
+#### [아메리칸 항공, 1월 4일 일요일 정기편 운항 재개와 더불어 지금까지 카리브해 출도착 좌석 3,700석 이상을 추가했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425653)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
+#### [완방 디지털 에너지, 홍콩 상장 신청서 제출 - HKEX](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425652)
+#### [영국 스타머, 리더십 변화는 '국익에 도움이 되지 않는다' 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425651)
+#### [표준 로봇 (우시), 홍콩 상장 신청서 제출 - HKEX](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425650)
+#### [레오 교황, 베네수엘라는 독립 국가로 남아야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425649)
+#### [트럼프의 베네수엘라 파업으로 미국 정유업체는 승리, 중국 경쟁업체는 패배: Bousso](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425648)
+#### [프랑스, 메르코수르의 반대 속에서 농민을 돕기 위해 새로운 조치를 취하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425646)
+#### [인권 단체, 이란에서 시위 일주일 동안 최소 16명이 사망했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425647)
+#### [세르비아의 미국 제재 석유 회사 국정원의 정유소가 1 월 17 일 또는 18 일에 가동 될 것이라고 대통령은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425645)
+#### [미국의 공습으로 불에 탄 베네수엘라 카라카스 공군기지 차량](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425644)
+#### [회원국 간 혼란에도 불구하고 석유 생산량을 안정적으로 유지하기 위해 1-OPEC + 업데이트, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425643)
 #### [마두로, 구금 후 미국 마약 단속 기관 복도를 걷다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425642)
 #### [세라노, 텔레즈 꺾고 세계 타이틀 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425641)
 #### [그리스 공항, 무선 주파수 문제로 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425640)
@@ -62,6 +78,10 @@
 #### [알 주프 시멘트, MD로 바크르 빈 아테프 신디 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425600)
 #### [베네수엘라 마두로 구금, 트럼프는 미국이 국가를 운영 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425598)
 #### [이 한국 대통령이 국빈 방문을 위해 베이징에 도착했다고 중국 관영 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425599)
+<head><meta charset="utf-8"><title>Vers : 20260104_1241 </title></head>
+<center>Vers : 20260104_1241 </center>
+<center>Vers : 20260104_2141 </center>
+<br><br><br>
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425596)
 #### [노스랜드 파워 131MW 이리쿼이 폭포 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425597)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425595)
@@ -78,10 +98,6 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425585)
 #### [미국의 베네수엘라 공격으로 중단된 라틴 아메리카의 평화, RIA, 길 베네수엘라 외무장관 인용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425584)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425583)
-<head><meta charset="utf-8"><title>Vers : 20260104_1112 </title></head>
-<center>Vers : 20260104_1112 </center>
-<center>Vers : 20260104_2012 </center>
-<br><br><br>
 #### [북한, 동해안 해상으로 탄도 미사일 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425582)
 #### [분석-베네수엘라의 석유 매장량 확보에 성공하지 못한 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425581)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VLO/total>
@@ -130,6 +146,10 @@
 #### [마크롱 프랑스 대통령: 에드문도 곤잘레스 우루티아가 베네수엘라의 권력 교체를 감독해야 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425542)
 #### [엑소르, 창업자의 아들과 페라리 주주 계약 갱신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425541)
 #### [우크라이나, 1 월 미국 정상 회담 희망, 젤 렌 스키, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425538)
+<head><meta charset="utf-8"><title>Vers : 20260104_1241 </title></head>
+<center>Vers : 20260104_1241 </center>
+<center>Vers : 20260104_2141 </center>
+<br><br><br>
 #### [충격, 우려, 그리고 축하: 미국의 파업에 대한 베네수엘라 국민들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425537)
 #### [트럼프, 미국 석유 회사들이 베네수엘라에 수십억 달러를 지출할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425536)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
@@ -146,10 +166,6 @@
 #### [트럼프, 미국이 베네수엘라 작전 중 쿠바로 초점을 확대 할 수 있다는 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425527)
 #### [플로리다 도랄의 베네수엘라 주민들이 마두로 생포를 축하합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425524)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425523)
-<head><meta charset="utf-8"><title>Vers : 20260104_1112 </title></head>
-<center>Vers : 20260104_1112 </center>
-<center>Vers : 20260104_2012 </center>
-<br><br><br>
 #### [루비오, 트럼프 행정부가 베네수엘라 작전 후 의회에 전화했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425521)
 #### [트럼프, 미국이 베네수엘라를 그룹으로 운영 할 것이라고 말하며 미군을 지상에 배치하는 것을 두려워하지 않는다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425522)
 #### [미군 고위 장교, 베네수엘라 작전에 150 대 이상의 항공기가 포함되었다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425519)
@@ -195,18 +211,3 @@
 #### [독일 CSU, 유럽 증권 거래소 계획 추진하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425478)
 #### [러시아에있는 베네수엘라 부통령 로드리게스, 4 명의 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425479)
 #### [젤렌스키, 우크라이나의 새 에너지 장관으로 슈미할 국방부 장관 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425480)
-#### [트럼프 : 베네수엘라 작전으로 우리 측 부상자 거의없고 사망자 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425474)
-#### [베네수엘라의 마두로를 대체할 수 있는 부통령 델시 로드리게스는 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425477)
-#### [브라질, 미국이 베네수엘라 군사 공격에 대해 '용납 할 수없는 선'을 넘었다 고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425475)
-#### [베네수엘라 석유 산업: 세계 최대 매장량, 쇠락하는 인프라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425476)
-#### [미국의 베네수엘라 마두로 체포에 대한 투자자와 경제학자들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425472)
-#### [이란 최고 지도자, 시위 격화와 미국 위협에도 굴복하지 않겠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425473)
-#### [니콜라스 마두로의 베네수엘라 강압 통치가 마침내 트럼프에 의해 종식되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425470)
-#### [베네수엘라의 마두로를 대체할 수 있는 부통령 델시 로드리게스는 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425468)
-#### [스위스 라스트, 월드컵 대회전 첫 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425471)
-#### [사이클로크로스 충돌 사고로 골절상을 입은 사이클링-반 에르트가 성공적인 수술을 받습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425469)
-#### [덴마크는 미국의 베네수엘라 공격에 따라 국제법을 존중해야한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425467)
-#### [EU는 베네수엘라 국민 편에 서서 민주적 전환을지지한다고 폰 데어 라이 엔은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425466)
-#### [브라질, 미국이 베네수엘라에 대한 군사 공격에 대해 '용납 할 수없는 선'을 넘었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425465)
-#### [영국 스타머는 영국이 미국의 베네수엘라 공격에 관여하지 않았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425464)
-#### [트럼프, 베네수엘라 마두로 퇴진, 미국 파업 후 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425462)
