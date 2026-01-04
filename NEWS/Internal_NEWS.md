@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_2042 </title></head>
-<center>Vers : 20260104_2042 </center>
-<center>Vers : 20260105_0542 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_2054 </title></head>
+<center>Vers : 20260104_2054 </center>
+<center>Vers : 20260105_0554 </center>
 <br><br><br>
+#### [덴마크 총리, 트럼프에게 그린란드 점령 위협 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425723)
+#### [한 주 앞으로- 2026년을 좌우할 미국 일자리 데이터에 주목하세요.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425722)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425721)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425720)
 #### [베네수엘라의 민주주의 회복은 국민의 의사를 존중해야한다고 EU 국가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425719)
@@ -64,5 +66,3 @@
 #### [미국 대사관, 예멘 소코트라 섬에서 비행 중단에 대한보고가 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425666)
 #### [프랑스, 농민들의 메르코수르 반대 속에 식품 수입 검사 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425665)
 #### [슬픔에 잠긴 스위스 마을, 치명적인 술집 화재 희생자를 위한 묵념 행렬 진행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425662)
-#### [드 메비우스, 챔피언 알 라지의 불이익으로 다카르 선두 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425663)
-#### [스페인은 베네수엘라의 국제법 위반을 '강력히 비난'한다고 PM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425664)
