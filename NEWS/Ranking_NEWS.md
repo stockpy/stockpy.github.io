@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_1052 </title></head>
-<center>Vers : 20260104_1052 </center>
-<center>Vers : 20260104_1952 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1112 </title></head>
+<center>Vers : 20260104_1112 </center>
+<center>Vers : 20260104_2012 </center>
 <br><br><br>
 #### [‘30억 자산가’ 46% “코스피 4500 돌파”…58% “주식에 80% 이상 투자”](https://m.stock.naver.com/news/ranknews/view/020/0003686627)
 #### ["코스피, 상상 못한 숫자 본다"…투자 고수의 '파격 전망'](https://m.stock.naver.com/news/ranknews/view/015/0005232356)
@@ -62,9 +62,9 @@
 #### [증권사들이 뽑은 이달의 '픽'은…반도체 소재 종목 주목](https://m.stock.naver.com/news/ranknews/view/001/0015827215)
 #### [외환당국 개입에도 달러 수요 폭증…5대銀 달러예금 12% 늘어](https://m.stock.naver.com/news/ranknews/view/015/0005232411)
 #### [초고액 자산가들 “올해 증시는 美보다 韓… 국내에선 코스닥”](https://m.stock.naver.com/news/ranknews/view/366/0001134023)
-<head><meta charset="utf-8"><title>Vers : 20260104_1053 </title></head>
-<center>Vers : 20260104_1053 </center>
-<center>Vers : 20260104_1953 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1112 </title></head>
+<center>Vers : 20260104_1112 </center>
+<center>Vers : 20260104_2012 </center>
 <br><br><br>
 #### [신년 증시 쾌조의 출발… 시총 4000조 넘고 ‘1월 효과’ 시동](https://m.stock.naver.com/news/ranknews/view/014/0005457829)
 #### [“이제 시작일 뿐”…주식 시장 ‘1월 효과’ 제대로 누리려면 [송현주의 재.밌.돈]](https://m.stock.naver.com/news/ranknews/view/243/0000090595)

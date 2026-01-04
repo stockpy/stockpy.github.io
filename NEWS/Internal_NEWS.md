@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_1052 </title></head>
-<center>Vers : 20260104_1052 </center>
-<center>Vers : 20260104_1952 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1112 </title></head>
+<center>Vers : 20260104_1112 </center>
+<center>Vers : 20260104_2012 </center>
 <br><br><br>
+#### [마두로, 구금 후 미국 마약 단속 기관 복도를 걷다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425642)
+#### [세라노, 텔레즈 꺾고 세계 타이틀 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425641)
+#### [그리스 공항, 무선 주파수 문제로 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425640)
+#### [OPEC +, 석유 생산량 인상 중단 유지에 동의, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425639)
+#### [장쑤 로팔 테크 그룹, 프로젝트에 최대 20억 위안 투자 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425638)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603906.SS/total>
 #### [북한, 미국의 베네수엘라 공격에 대해 '심각한 주권 침해' 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425637)
 #### [그리스 공항, 무선 주파수 문제로 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425633)
 #### [터키, 아제르바이잔과 33cm 천연 가스 수입 계약 체결, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425634)
@@ -72,16 +78,16 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425585)
 #### [미국의 베네수엘라 공격으로 중단된 라틴 아메리카의 평화, RIA, 길 베네수엘라 외무장관 인용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425584)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425583)
+<head><meta charset="utf-8"><title>Vers : 20260104_1112 </title></head>
+<center>Vers : 20260104_1112 </center>
+<center>Vers : 20260104_2012 </center>
+<br><br><br>
 #### [북한, 동해안 해상으로 탄도 미사일 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425582)
 #### [분석-베네수엘라의 석유 매장량 확보에 성공하지 못한 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425581)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VLO/total>
 #### [트럼프, 미국이 마두로 체포 후 베네수엘라를 운영 할 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425580)
 #### [베네수엘라의 마두로, 뉴욕에 도착했다고 뉴스 매체들이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425579)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425578)
-<head><meta charset="utf-8"><title>Vers : 20260104_1052 </title></head>
-<center>Vers : 20260104_1052 </center>
-<center>Vers : 20260104_1952 </center>
-<br><br><br>
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425577)
 #### [대리석 쇼핑, 이란 위협, 마두로 체포: 트럼프의 어지러운 휴가 루틴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425576)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425575)
@@ -140,15 +146,15 @@
 #### [트럼프, 미국이 베네수엘라 작전 중 쿠바로 초점을 확대 할 수 있다는 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425527)
 #### [플로리다 도랄의 베네수엘라 주민들이 마두로 생포를 축하합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425524)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425523)
+<head><meta charset="utf-8"><title>Vers : 20260104_1112 </title></head>
+<center>Vers : 20260104_1112 </center>
+<center>Vers : 20260104_2012 </center>
+<br><br><br>
 #### [루비오, 트럼프 행정부가 베네수엘라 작전 후 의회에 전화했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425521)
 #### [트럼프, 미국이 베네수엘라를 그룹으로 운영 할 것이라고 말하며 미군을 지상에 배치하는 것을 두려워하지 않는다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425522)
 #### [미군 고위 장교, 베네수엘라 작전에 150 대 이상의 항공기가 포함되었다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425519)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425520)
 #### [트럼프, 베네수엘라 석유에 대한 미국의 금수 조치가 여전히 유효하다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425518)
-<head><meta charset="utf-8"><title>Vers : 20260104_1052 </title></head>
-<center>Vers : 20260104_1052 </center>
-<center>Vers : 20260104_1952 </center>
-<br><br><br>
 #### [인도, 베네수엘라에 필수적이지 않은 모든 여행 자제 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425517)
 #### [스위스 술집에서 화재가 발생하자 '장난인 줄 알았다'는 불신감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425515)
 #### [트럼프, 미국은 대형 석유 회사들이 베네수엘라에 진출 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425516)
@@ -204,8 +210,3 @@
 #### [브라질, 미국이 베네수엘라에 대한 군사 공격에 대해 '용납 할 수없는 선'을 넘었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425465)
 #### [영국 스타머는 영국이 미국의 베네수엘라 공격에 관여하지 않았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425464)
 #### [트럼프, 베네수엘라 마두로 퇴진, 미국 파업 후 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425462)
-#### [노르웨이의 가스코, 계획된 가스 용량 증설 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425463)
-#### [베네수엘라에 대한 미국의 공격에 대한 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425461)
-#### [젤렌스키, 우크라이나의 새 에너지 장관으로 슈미할 국방부 장관 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425460)
-#### [영국 스타 머는 영국이 베네수엘라에 대한 미국의 파업에 관여하지 않았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425459)
-#### [미국 파업으로 베네수엘라의 석유 시설이 손상되지 않았다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425458)
