@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_1647 </title></head>
-<center>Vers : 20260104_1647 </center>
-<center>Vers : 20260105_0147 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1658 </title></head>
+<center>Vers : 20260104_1658 </center>
+<center>Vers : 20260105_0158 </center>
 <br><br><br>
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425692)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425691)
