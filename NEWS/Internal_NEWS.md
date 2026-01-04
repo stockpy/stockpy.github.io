@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_0548 </title></head>
-<center>Vers : 20260104_0548 </center>
-<center>Vers : 20260104_1448 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_0631 </title></head>
+<center>Vers : 20260104_0631 </center>
+<center>Vers : 20260104_1531 </center>
 <br><br><br>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425602)
+#### [중국, 미국은 베네수엘라의 마두로를 즉시 석방해야한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425601)
+#### [알 주프 시멘트, MD로 바크르 빈 아테프 신디 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425600)
 #### [베네수엘라 마두로 구금, 트럼프는 미국이 국가를 운영 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425598)
 #### [이 한국 대통령이 국빈 방문을 위해 베이징에 도착했다고 중국 관영 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425599)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425596)
@@ -63,13 +66,13 @@
 #### [독일 메르츠 : 미국 베네수엘라 작전에 대한 법적 검토는 시간이 걸릴 것이며 선거 기반 전환을 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425545)
 #### [프랑스 항공사, 베네수엘라 민간 항공 당국에 영공 회피 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425543)
 #### [민주당 의원들은 베네수엘라에 대해 오해를 받았다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425544)
+<head><meta charset="utf-8"><title>Vers : 20260104_0631 </title></head>
+<center>Vers : 20260104_0631 </center>
+<center>Vers : 20260104_1531 </center>
+<br><br><br>
 #### [스페인은 베네수엘라에 대한 미국의 개입을 인정하지 않을 것이라고 PM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425539)
 #### [베네수엘라 디아스포라, 마두로 퇴진을 축하하며 다음 행보를 궁금해합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425540)
 #### [마크롱 프랑스 대통령: 에드문도 곤잘레스 우루티아가 베네수엘라의 권력 교체를 감독해야 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425542)
-<head><meta charset="utf-8"><title>Vers : 20260104_0548 </title></head>
-<center>Vers : 20260104_0548 </center>
-<center>Vers : 20260104_1448 </center>
-<br><br><br>
 #### [엑소르, 창업자의 아들과 페라리 주주 계약 갱신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425541)
 #### [우크라이나, 1 월 미국 정상 회담 희망, 젤 렌 스키, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425538)
 #### [충격, 우려, 그리고 축하: 미국의 파업에 대한 베네수엘라 국민들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425537)
@@ -128,6 +131,3 @@
 #### [베네수엘라에 대한 유엔 책임자: 미국의 조치는 '위험한 선례'를 남긴다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425487)
 #### [스위스 검찰, 치명적인 화재 후 술집 매니저를 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425484)
 #### [러시아 라브로프, 베네수엘라 로드리게스와의 전화 통화에서 연대를 표명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425482)
-#### [마두로와 아내는 뉴욕으로 끌려 갈 것이라고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425483)
-#### [미국은 베네수엘라의 석유 산업에 강력하게 관여 할 것이라고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425481)
-#### [독일 CSU, 유럽 증권 거래소 계획 추진하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425478)
