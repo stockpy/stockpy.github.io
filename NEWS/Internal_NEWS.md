@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_0448 </title></head>
-<center>Vers : 20260104_0448 </center>
-<center>Vers : 20260104_1348 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_0525 </title></head>
+<center>Vers : 20260104_0525 </center>
+<center>Vers : 20260104_1425 </center>
 <br><br><br>
+#### [마두로는 퇴진했지만 그의 최측근들은 여전히 베네수엘라에서 권력을 쥐고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425594)
+#### [스타링크, 2월 3일까지 베네수엘라 국민에게 무료 광대역 서비스를 제공한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425593)
+#### [호주 10대 브라운이 첫 월드컵 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425592)
 #### [-관심해야 할 요소 - 1월 4일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425591)
 #### [마두로는 퇴진했지만 누가 베네수엘라를 이끌고 있는지는 불분명합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425590)
 #### [델타 항공, 이전에 영향을받은 카리브해의 13 개 공항을 오가는 항공편을 재개 할 것이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425589)
@@ -64,13 +67,13 @@
 #### [트럼프, 미국 석유 회사들이 베네수엘라에 수십억 달러를 지출할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425536)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
 #### [엑스트롬, 포드 원투로 다카르 프롤로그 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425535)
+<head><meta charset="utf-8"><title>Vers : 20260104_0525 </title></head>
+<center>Vers : 20260104_0525 </center>
+<center>Vers : 20260104_1425 </center>
+<br><br><br>
 #### [미국의 베네수엘라 공습, 새로운 글로벌 파열을 위협하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425534)
 #### [트럼프가 마두로를 대신했다고 말한 델시 로드리게스 부통령은 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425533)
 #### [엑소르와 페라리 가족, 페라리에 대한 주주 계약 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425532)
-<head><meta charset="utf-8"><title>Vers : 20260104_0448 </title></head>
-<center>Vers : 20260104_0448 </center>
-<center>Vers : 20260104_1348 </center>
-<br><br><br>
 #### [니콜라스 마두로의 베네수엘라 장악력, 트럼프 공세에 흔들리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425531)
 #### [트럼프는? 마두로 체포, 미국이 베네수엘라를 운영 할 것이라고 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425529)
 #### [트럼프는 우크라이나 전쟁에 대해 푸틴에게 '흥분하지 않는다'고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425530)
@@ -128,6 +131,3 @@
 #### [트럼프 : 베네수엘라 작전으로 우리 측 부상자 거의없고 사망자 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425474)
 #### [베네수엘라의 마두로를 대체할 수 있는 부통령 델시 로드리게스는 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425477)
 #### [브라질, 미국이 베네수엘라 군사 공격에 대해 '용납 할 수없는 선'을 넘었다 고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425475)
-#### [베네수엘라 석유 산업: 세계 최대 매장량, 쇠락하는 인프라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425476)
-#### [미국의 베네수엘라 마두로 체포에 대한 투자자와 경제학자들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425472)
-#### [이란 최고 지도자, 시위 격화와 미국 위협에도 굴복하지 않겠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425473)
