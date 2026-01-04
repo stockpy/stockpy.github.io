@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_0842 </title></head>
-<center>Vers : 20260104_0842 </center>
-<center>Vers : 20260104_1742 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_0857 </title></head>
+<center>Vers : 20260104_0857 </center>
+<center>Vers : 20260104_1757 </center>
 <br><br><br>
 #### ["미국 주식 팔아요" 국장 돌아오나 했는데...다시 무섭게 사들였다](https://m.stock.naver.com/news/ranknews/view/008/0005299891)
 #### [‘30억 자산가’ 46% “코스피 4500 돌파”…58% “주식에 80% 이상 투자”](https://m.stock.naver.com/news/ranknews/view/020/0003686627)
