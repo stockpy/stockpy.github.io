@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_0857 </title></head>
-<center>Vers : 20260104_0857 </center>
-<center>Vers : 20260104_1757 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_0925 </title></head>
+<center>Vers : 20260104_0925 </center>
+<center>Vers : 20260104_1825 </center>
 <br><br><br>
+#### [러시아, 우크라이나 하르 키우 지역의 정착촌을 장악했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425614)
+#### [충칭 창안 자동차, 2025년 자동차 판매량 8.5% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425613)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000625.SZ/total>
+#### [그레이트 월 모터 12월 차량 판매량 전년 동기 대비 8.3% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425615)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601633.SS/total>
+#### [샤먼 옌잔 신소재의 주식 거래가 1월 5일부터 중단됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425612)
+#### [스위스 경찰, 새해 전야 술집 화재 후 시신 16구 추가 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425611)
 #### [화수 홀딩스, 주식 사모 발행 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425609)
 #### [심천 금웅 전자, 홍콩 상장 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425610)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603228.SS/total>
@@ -62,15 +69,15 @@
 #### [카리브해 영공 폐쇄 후 미국 항공사, 항공편 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425555)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425557)
+<head><meta charset="utf-8"><title>Vers : 20260104_0925 </title></head>
+<center>Vers : 20260104_0925 </center>
+<center>Vers : 20260104_1825 </center>
+<br><br><br>
 #### [아다니 엔터프라이즈, 아다니 도로 운송, SVVPL 지분 49% 인수한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425556)
 #### ['우리가 이 나라를 운영할 것입니다.' 트럼프는 베네수엘라의 정권 교체에 베팅합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425554)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425553)
 #### [영국 총리 스타 머, 베네수엘라 마두로에 대해 '눈물을 흘리지 않을 것'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425552)
 #### [연준의 폴슨, 또 다른 금리 인하는 시간이 걸릴 수 있다고 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425551)
-<head><meta charset="utf-8"><title>Vers : 20260104_0857 </title></head>
-<center>Vers : 20260104_0857 </center>
-<center>Vers : 20260104_1757 </center>
-<br><br><br>
 #### [베네수엘라의 델시 로드리게스, 마두로만이 국가 대통령이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425550)
 #### [미국 북서부 강 유량이 98%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425549)
 #### [미국의 베네수엘라 마두로 체포에 대한 투자자와 경제학자들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425547)
@@ -127,15 +134,15 @@
 #### [마드리드의 베네수엘라 야당 활동가들이 마두로 체포에 환호하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425497)
 #### [이스라엘, 미국의 베네수엘라 마두로 정권 퇴진 환영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425496)
 #### [베네수엘라 마두로, 협상 거부 후 해임, 곤잘레스 대통령직 맡아야-야당의 마차도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425498)
+<head><meta charset="utf-8"><title>Vers : 20260104_0925 </title></head>
+<center>Vers : 20260104_0925 </center>
+<center>Vers : 20260104_1825 </center>
+<br><br><br>
 #### [베네수엘라 디아스포라, 마두로 퇴진을 축하하며 다음 행보를 궁금해하는 베네수엘라 교민들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425495)
 #### [델타항공, 카리브해 항공편 취소, 해당 지역의 진행 상황을 면밀히 모니터링하고 있다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425494)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425492)
 #### [연준의 폴슨이 공동 집필한 논문은 단기 금리 정책을 논의하지 않습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425493)
 #### [러시아, 미국에 베네수엘라 마두로 석방 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425490)
-<head><meta charset="utf-8"><title>Vers : 20260104_0857 </title></head>
-<center>Vers : 20260104_0857 </center>
-<center>Vers : 20260104_1757 </center>
-<br><br><br>
 #### [본디 미국 법무 장관, 마두로와 그의 아내의 경우 봉인되지 않은 기소장 게시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425491)
 #### [프랑스, 마두로 체포 뒤의 군사 작전은 국제법에 위배된다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425489)
 #### [남아공, 베네수엘라에서 미국의 조치에 대한 긴급 유엔 안보리 회의 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425488)
@@ -191,8 +198,3 @@
 #### [트럼프가 미국이 마두로를 점령했다고 말하면서 헬리콥터가 카라카스 상공을 날아갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425438)
 #### [이탈리아의 조르지아 멜로니 총리는 베네수엘라 상황을 면밀히 모니터링하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425437)
 #### [벨기에, 베네수엘라 상황을 모니터링하기 위해 유럽 파트너와 협력하고 있다고 외무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425436)
-#### [미국 상원 의원은 루비오가 마두로에게 미국에서 재판을 받으라고 말했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425435)
-#### [이탈리아 외무 장관, 이탈리아 공동체에 초점을 맞춘 베네수엘라의 발전 상황을 모니터링한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425434)
-#### [독일 외무부는 베네수엘라를 큰 우려로 지켜보고 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425433)
-#### [이란의 지도자 카메네이, 미국에 대한 명백한 대응으로 테헤란은 '적에게 굴복하지 않을 것'이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425427)
-#### [트럼프, NYT에 베네수엘라 파업은 '좋은 계획'의 결과라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425432)
