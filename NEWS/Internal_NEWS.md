@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_1450 </title></head>
-<center>Vers : 20260104_1450 </center>
-<center>Vers : 20260104_2350 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1500 </title></head>
+<center>Vers : 20260104_1500 </center>
+<center>Vers : 20260105_0000 </center>
 <br><br><br>
 #### [투자자들은 트럼프의 베네수엘라 도박으로 인해 더 많은 지정학적 타격에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425677)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425676)
@@ -76,9 +76,9 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600104.SS/total>
 #### [저장 세기 화통 그룹, 공동 A주 매입 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425619)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002602.SZ/total>
-<head><meta charset="utf-8"><title>Vers : 20260104_1450 </title></head>
-<center>Vers : 20260104_1450 </center>
-<center>Vers : 20260104_2350 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1500 </title></head>
+<center>Vers : 20260104_1500 </center>
+<center>Vers : 20260105_0000 </center>
 <br><br><br>
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425618)
 #### [베이징 콘룬즈 제약 이사회, 회장 선출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425616)
@@ -147,9 +147,9 @@
 #### [미국의 베네수엘라 대통령 체포는 합법적이었나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425560)
 #### [쿠바 대통령, 베네수엘라에 대한 '국가 테러'를 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425558)
 #### ['우리가 국가를 운영할 것입니다.' 트럼프, 베네수엘라 정권 교체에 베팅하다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425559)
-<head><meta charset="utf-8"><title>Vers : 20260104_1450 </title></head>
-<center>Vers : 20260104_1450 </center>
-<center>Vers : 20260104_2350 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1500 </title></head>
+<center>Vers : 20260104_1500 </center>
+<center>Vers : 20260105_0000 </center>
 <br><br><br>
 #### [카리브해 영공 폐쇄 후 미국 항공사, 항공편 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425555)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
@@ -213,9 +213,9 @@
 #### [미국의 베네수엘라 마두로 체포에 대한 투자자와 경제학자들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425501)
 #### [베를린 화재로 1월 8일까지 45,000가구가 전력 공급을 받지 못할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425499)
 #### [마드리드의 베네수엘라 야당 활동가들이 마두로 체포에 환호하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425497)
-<head><meta charset="utf-8"><title>Vers : 20260104_1450 </title></head>
-<center>Vers : 20260104_1450 </center>
-<center>Vers : 20260104_2350 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1500 </title></head>
+<center>Vers : 20260104_1500 </center>
+<center>Vers : 20260105_0000 </center>
 <br><br><br>
 #### [이스라엘, 미국의 베네수엘라 마두로 정권 퇴진 환영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425496)
 #### [베네수엘라 마두로, 협상 거부 후 해임, 곤잘레스 대통령직 맡아야-야당의 마차도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425498)
