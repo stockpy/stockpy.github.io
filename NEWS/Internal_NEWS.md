@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_2054 </title></head>
-<center>Vers : 20260104_2054 </center>
-<center>Vers : 20260105_0554 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_2118 </title></head>
+<center>Vers : 20260104_2118 </center>
+<center>Vers : 20260105_0618 </center>
 <br><br><br>
+#### [독점-L3해리스가 우주 추진 자산 지분을 AE 인더스트리얼에 매각할 예정이라고 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425726)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FLY.O/total>
+#### [트럼프, 협박에 베팅하여 베네수엘라 지도자들을 줄 세우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425725)
+#### [지정학적 혼란이 고조되는 가운데 BUZZ-AUD/USD가 약세를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425724)
 #### [덴마크 총리, 트럼프에게 그린란드 점령 위협 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425723)
 #### [한 주 앞으로- 2026년을 좌우할 미국 일자리 데이터에 주목하세요.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425722)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425721)
@@ -63,6 +67,3 @@
 #### [시리아 정부, 경제 부흥을 위해 지폐 교환 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425668)
 #### [시리아 정부, 경제 부흥을 위해 지폐 교환 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425670)
 #### [여행 사이트 겟유어가이드, 흑자 전환 후 지분 매각 - 스카이뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425667)
-#### [미국 대사관, 예멘 소코트라 섬에서 비행 중단에 대한보고가 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425666)
-#### [프랑스, 농민들의 메르코수르 반대 속에 식품 수입 검사 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425665)
-#### [슬픔에 잠긴 스위스 마을, 치명적인 술집 화재 희생자를 위한 묵념 행렬 진행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425662)
