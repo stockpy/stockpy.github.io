@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_2220 </title></head>
-<center>Vers : 20260104_2220 </center>
-<center>Vers : 20260105_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_2241 </title></head>
+<center>Vers : 20260104_2241 </center>
+<center>Vers : 20260105_0741 </center>
 <br><br><br>
+#### [오클리 캐피탈, 13억 5천만 달러 규모의 거래로 GLAS 인수, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425732)
+#### [오클리, 10억 파운드 규모의 거래로 금융 전문 기업 글래스 인수 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425733)
+#### [로이터 뉴스 일정 오후 10시(GMT/ 오전 6시(싱가포르 표준시))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425731)
 #### [에너지 저장 붐으로 리튬의 수요 전망 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425730)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300750.SZ/total>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425729)
@@ -64,6 +67,3 @@
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425676)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425675)
 #### [복싱 타이슨 퓨리, 은퇴 후 최근 복귀 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425673)
-#### [베네수엘라의 수십억 달러에 달하는 부실채권: 누가 채권을 회수할 것인가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425672)
-#### [보츠와나, 모스크바에 대사관 개설, 러시아에 희토류 및 다이아몬드 개방, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425674)
-#### [베네수엘라의 PDVSA는 일부 합작 투자에 석유 생산량을 줄 이도록 요청했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425669)
