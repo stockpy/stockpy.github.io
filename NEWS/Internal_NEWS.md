@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_1658 </title></head>
-<center>Vers : 20260104_1658 </center>
-<center>Vers : 20260105_0158 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1724 </title></head>
+<center>Vers : 20260104_1724 </center>
+<center>Vers : 20260105_0224 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425693)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425692)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425691)
 #### [마두로 보안팀 상당수, 미국 작전으로 사망-베네수엘라 국방부 장관](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425690)
@@ -67,4 +68,3 @@
 #### [그리스 공항, 무선 주파수 문제로 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425633)
 #### [터키, 아제르바이잔과 33cm 천연 가스 수입 계약 체결, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425634)
 #### [북한, 미국의 베네수엘라 공격에 대해 '주권 침해'라며 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425636)
-#### [이탈리아 베르가모 공항이 운항을 중단하면서 수천 명이 하룻밤 사이에 발이 묶였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425635)
