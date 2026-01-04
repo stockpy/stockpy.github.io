@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_0631 </title></head>
-<center>Vers : 20260104_0631 </center>
-<center>Vers : 20260104_1531 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_0720 </title></head>
+<center>Vers : 20260104_0720 </center>
+<center>Vers : 20260104_1620 </center>
 <br><br><br>
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425602)
 #### [중국, 미국은 베네수엘라의 마두로를 즉시 석방해야한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425601)
@@ -66,9 +66,9 @@
 #### [독일 메르츠 : 미국 베네수엘라 작전에 대한 법적 검토는 시간이 걸릴 것이며 선거 기반 전환을 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425545)
 #### [프랑스 항공사, 베네수엘라 민간 항공 당국에 영공 회피 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425543)
 #### [민주당 의원들은 베네수엘라에 대해 오해를 받았다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425544)
-<head><meta charset="utf-8"><title>Vers : 20260104_0631 </title></head>
-<center>Vers : 20260104_0631 </center>
-<center>Vers : 20260104_1531 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_0720 </title></head>
+<center>Vers : 20260104_0720 </center>
+<center>Vers : 20260104_1620 </center>
 <br><br><br>
 #### [스페인은 베네수엘라에 대한 미국의 개입을 인정하지 않을 것이라고 PM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425539)
 #### [베네수엘라 디아스포라, 마두로 퇴진을 축하하며 다음 행보를 궁금해합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425540)
