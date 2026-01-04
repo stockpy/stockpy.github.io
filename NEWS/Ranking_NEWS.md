@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_1438 </title></head>
-<center>Vers : 20260104_1438 </center>
-<center>Vers : 20260104_2338 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1450 </title></head>
+<center>Vers : 20260104_1450 </center>
+<center>Vers : 20260104_2350 </center>
 <br><br><br>
 #### [수억빚 영끌족 ‘비명’ 더 커진다…주담대 금리, 어느덧 6%대 훌쩍](https://m.stock.naver.com/news/ranknews/view/009/0005616151)
 #### [“올해는 굳이 미국주식 할 필요가”...30억 이상 부자, 투자원칙 정했다](https://m.stock.naver.com/news/ranknews/view/009/0005616170)
@@ -62,9 +62,9 @@
 #### ["미국 주식 팔아요" 국장 돌아오나 했는데...다시 무섭게 사들였다](https://m.stock.naver.com/news/ranknews/view/008/0005299891)
 #### [이더리움, 올해 사상 최고가 경신 가능성](https://m.stock.naver.com/news/ranknews/view/015/0005232381)
 #### [하나證 “베네수엘라 공습 여파…원유·금·달러 가격 단기 ↑”](https://m.stock.naver.com/news/ranknews/view/366/0001134062)
-<head><meta charset="utf-8"><title>Vers : 20260104_1438 </title></head>
-<center>Vers : 20260104_1438 </center>
-<center>Vers : 20260104_2338 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1450 </title></head>
+<center>Vers : 20260104_1450 </center>
+<center>Vers : 20260104_2350 </center>
 <br><br><br>
 #### ["국내 주식 외국인 비중 5년 8개월 만에 최대"](https://m.stock.naver.com/news/ranknews/view/001/0015827149)
 #### [“아버님, 꼭 오래 사세요”…국내 첫 낸 돈보다 38% 더주는 ‘이 연금’ 나온다 [언제까지 직장인]](https://m.stock.naver.com/news/ranknews/view/009/0005615856)
