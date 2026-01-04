@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_1853 </title></head>
-<center>Vers : 20260104_1853 </center>
-<center>Vers : 20260105_0353 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1911 </title></head>
+<center>Vers : 20260104_1911 </center>
+<center>Vers : 20260105_0411 </center>
 <br><br><br>
+#### [알파인 스키-라스트, 쉬프린의 시즌 슬라럼 우승 행진을 끝내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425706)
+#### [라트비아 PM, 발트해 광케이블이 손상되었다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425708)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425707)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
 #### ['아바타: 파이어 앤 애쉬', 글로벌 티켓 판매액 10억 달러 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425705)
 #### [미국 북서부 강 유량 최대 99퍼센트 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425704)
 #### [라트비아 총리, 발트해 광케이블이 손상되었다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425703)
@@ -64,6 +68,3 @@
 #### [영국 스타머, 리더십 변화는 '국익에 도움이 되지 않는다' 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425651)
 #### [표준 로봇 (우시), 홍콩 상장 신청서 제출 - HKEX](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425650)
 #### [레오 교황, 베네수엘라는 독립 국가로 남아야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425649)
-#### [트럼프의 베네수엘라 파업으로 미국 정유업체는 승리, 중국 경쟁업체는 패배: Bousso](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425648)
-#### [프랑스, 메르코수르의 반대 속에서 농민을 돕기 위해 새로운 조치를 취하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425646)
-#### [인권 단체, 이란에서 시위 일주일 동안 최소 16명이 사망했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425647)
