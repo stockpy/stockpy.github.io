@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_1829 </title></head>
-<center>Vers : 20260104_1829 </center>
-<center>Vers : 20260105_0329 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1853 </title></head>
+<center>Vers : 20260104_1853 </center>
+<center>Vers : 20260105_0353 </center>
 <br><br><br>
 #### [수억빚 영끌족 ‘비명’ 더 커진다…주담대 금리, 어느덧 6%대 훌쩍](https://m.stock.naver.com/news/ranknews/view/009/0005616151)
 #### [“아버님, 꼭 오래 사세요”…국내 첫 낸 돈보다 38% 더주는 ‘이 연금’ 나온다 [언제까지 직장인]](https://m.stock.naver.com/news/ranknews/view/009/0005615856)

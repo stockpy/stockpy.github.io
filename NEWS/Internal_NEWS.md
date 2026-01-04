@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_1829 </title></head>
-<center>Vers : 20260104_1829 </center>
-<center>Vers : 20260105_0329 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1853 </title></head>
+<center>Vers : 20260104_1853 </center>
+<center>Vers : 20260105_0353 </center>
 <br><br><br>
+#### ['아바타: 파이어 앤 애쉬', 글로벌 티켓 판매액 10억 달러 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425705)
+#### [미국 북서부 강 유량 최대 99퍼센트 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425704)
+#### [라트비아 총리, 발트해 광케이블이 손상되었다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425703)
 #### [베네수엘라의 마두로, 충성파가 반항을 맹세하면서 미국에 구금 됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425702)
 #### [트럼프, 잡지 인터뷰에서 베네수엘라 델시 로드리게스 부사장에게 경고하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425701)
 #### [영국은 EU 단일 시장과 더 긴밀하게 연계되어야 한다고 스타머는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425700)
@@ -64,6 +67,3 @@
 #### [트럼프의 베네수엘라 파업으로 미국 정유업체는 승리, 중국 경쟁업체는 패배: Bousso](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425648)
 #### [프랑스, 메르코수르의 반대 속에서 농민을 돕기 위해 새로운 조치를 취하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425646)
 #### [인권 단체, 이란에서 시위 일주일 동안 최소 16명이 사망했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425647)
-#### [세르비아의 미국 제재 석유 회사 국정원의 정유소가 1 월 17 일 또는 18 일에 가동 될 것이라고 대통령은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425645)
-#### [미국의 공습으로 불에 탄 베네수엘라 카라카스 공군기지 차량](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425644)
-#### [회원국 간 혼란에도 불구하고 석유 생산량을 안정적으로 유지하기 위해 1-OPEC + 업데이트, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425643)
