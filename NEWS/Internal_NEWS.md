@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_1724 </title></head>
-<center>Vers : 20260104_1724 </center>
-<center>Vers : 20260105_0224 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_1829 </title></head>
+<center>Vers : 20260104_1829 </center>
+<center>Vers : 20260105_0329 </center>
 <br><br><br>
+#### [베네수엘라의 마두로, 충성파가 반항을 맹세하면서 미국에 구금 됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425702)
+#### [트럼프, 잡지 인터뷰에서 베네수엘라 델시 로드리게스 부사장에게 경고하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425701)
+#### [영국은 EU 단일 시장과 더 긴밀하게 연계되어야 한다고 스타머는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425700)
+#### [트럼프, 잡지 인터뷰에서 베네수엘라 델시 로드리게스 부사장 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425699)
+#### [베네수엘라는 독립 국가로 남아야 한다고 레오 교황은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425697)
+#### ['아바타: 파이어 앤 애쉬', 전 세계 티켓 판매액 10억 달러 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425698)
+#### [디즈니 - '아바타 파이어 앤 애쉬', 전 세계 박스오피스에서 10억 달러 돌파](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425696)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425695)
+#### [클라보와 디긴스가 투르 드 스키 타이틀과 함께 올림픽의 새로운 이정표를 세웁니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425694)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425693)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425692)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425691)
@@ -58,13 +67,3 @@
 #### [세르비아의 미국 제재 석유 회사 국정원의 정유소가 1 월 17 일 또는 18 일에 가동 될 것이라고 대통령은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425645)
 #### [미국의 공습으로 불에 탄 베네수엘라 카라카스 공군기지 차량](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425644)
 #### [회원국 간 혼란에도 불구하고 석유 생산량을 안정적으로 유지하기 위해 1-OPEC + 업데이트, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425643)
-#### [마두로, 구금 후 미국 마약 단속 기관 복도를 걷다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425642)
-#### [세라노, 텔레즈 꺾고 세계 타이틀 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425641)
-#### [그리스 공항, 무선 주파수 문제로 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425640)
-#### [OPEC +, 석유 생산량 인상 중단 유지에 동의, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425639)
-#### [장쑤 로팔 테크 그룹, 프로젝트에 최대 20억 위안 투자 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425638)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603906.SS/total>
-#### [북한, 미국의 베네수엘라 공격에 대해 '심각한 주권 침해' 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425637)
-#### [그리스 공항, 무선 주파수 문제로 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425633)
-#### [터키, 아제르바이잔과 33cm 천연 가스 수입 계약 체결, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425634)
-#### [북한, 미국의 베네수엘라 공격에 대해 '주권 침해'라며 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425636)
