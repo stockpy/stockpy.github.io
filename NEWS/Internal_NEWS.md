@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_0151 </title></head>
-<center>Vers : 20260104_0151 </center>
-<center>Vers : 20260104_1051 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_0351 </title></head>
+<center>Vers : 20260104_0351 </center>
+<center>Vers : 20260104_1251 </center>
 <br><br><br>
+#### [베네수엘라 대법원, 델시 로드리게스에게 임시 대통령 취임 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425586)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425585)
 #### [미국의 베네수엘라 공격으로 중단된 라틴 아메리카의 평화, RIA, 길 베네수엘라 외무장관 인용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425584)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425583)
 #### [북한, 동해안 해상으로 탄도 미사일 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425582)
@@ -64,12 +66,12 @@
 #### [트럼프는 우크라이나 전쟁에 대해 푸틴에게 '흥분하지 않는다'고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425530)
 #### [트럼프, 마차도의 베네수엘라 통치 능력에 의구심 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425528)
 #### [미국의 베네수엘라 마두로 체포에 대한 투자자와 경제학자들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425525)
+<head><meta charset="utf-8"><title>Vers : 20260104_0351 </title></head>
+<center>Vers : 20260104_0351 </center>
+<center>Vers : 20260104_1251 </center>
+<br><br><br>
 #### [모의 집, CIA 정보원, 특수부대: 마두로 생포를 위한 미국의 작전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425526)
 #### [트럼프, 미국이 베네수엘라 작전 중 쿠바로 초점을 확대 할 수 있다는 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425527)
-<head><meta charset="utf-8"><title>Vers : 20260104_0151 </title></head>
-<center>Vers : 20260104_0151 </center>
-<center>Vers : 20260104_1051 </center>
-<br><br><br>
 #### [플로리다 도랄의 베네수엘라 주민들이 마두로 생포를 축하합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425524)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425523)
 #### [루비오, 트럼프 행정부가 베네수엘라 작전 후 의회에 전화했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425521)
@@ -128,5 +130,3 @@
 #### [스위스 라스트, 월드컵 대회전 첫 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425471)
 #### [사이클로크로스 충돌 사고로 골절상을 입은 사이클링-반 에르트가 성공적인 수술을 받습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425469)
 #### [덴마크는 미국의 베네수엘라 공격에 따라 국제법을 존중해야한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425467)
-#### [EU는 베네수엘라 국민 편에 서서 민주적 전환을지지한다고 폰 데어 라이 엔은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425466)
-#### [브라질, 미국이 베네수엘라에 대한 군사 공격에 대해 '용납 할 수없는 선'을 넘었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425465)
