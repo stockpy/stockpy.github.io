@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_1911 </title></head>
-<center>Vers : 20260104_1911 </center>
-<center>Vers : 20260105_0411 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_2023 </title></head>
+<center>Vers : 20260104_2023 </center>
+<center>Vers : 20260105_0523 </center>
 <br><br><br>
+#### [베네수엘라의 민주주의 회복은 국민의 의사를 존중해야한다고 EU 국가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425719)
+#### [덴마크 총리, 트럼프에게 그린란드 점령 위협 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425718)
+#### [스위스 경찰 : 새해 술집 화재의 마지막 16 명의 희생자가 확인되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425717)
+#### [신원 확인 절차가 계속되는 가운데 스위스 술집 화재 희생자 애도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425715)
+#### [주말 뉴스-미국의 베네수엘라 공습, 연준 금리 인하 지연?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425716)
+#### [베네수엘라의 민주주의 회복을 위해서는 베네수엘라 국민의 의사를 존중해야한다고 EU 국가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425713)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425711)
+#### [노스랜드 파워 131MW 이리쿼이 폭포 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425712)
+#### [미국의 공격으로 파괴 된 베네수엘라 주택, 사망자에 대한 공식 통계 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425714)
+#### [베네수엘라 혼란으로 유가 상승 가능성, 충분한 공급으로 상승폭 제한할 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425710)
+#### [1월 4일 일요일 오후 1시 48분(동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425709)
 #### [알파인 스키-라스트, 쉬프린의 시즌 슬라럼 우승 행진을 끝내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425706)
 #### [라트비아 PM, 발트해 광케이블이 손상되었다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425708)
 #### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425707)
@@ -56,15 +67,3 @@
 #### [젯블루, FAA가 카리브해 영공을 재개했으며 정상 운항을 재개할 계획이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425661)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/JBLU.O/total>
 #### [스피릿 항공, 미국 연방항공청의 영공 폐쇄 명령이 만료됨에 따라 1월 4일 카리브해 왕복 항공편 운항 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425660)
-#### [투자자들은 트럼프의 베네수엘라 도박으로 인해 더 많은 지정학적 타격에 직면합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425659)
-#### [라스트, 시프린의 시즌 슬라럼 연승 행진을 끝내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425658)
-#### [네덜란드 항공사 KLM, 눈이 내리면서 124편의 항공편 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425657)
-#### [인권단체, 이란에서 시위 일주일 동안 최소 16명이 사망했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425656)
-#### [세르비아의 국정원 정유소, 1월 17일 또는 18일 가동 예정, 대통령 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425655)
-#### [레오 교황, 베네수엘라에 독립 국가 유지 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425654)
-#### [아메리칸 항공, 1월 4일 일요일 정기편 운항 재개와 더불어 지금까지 카리브해 출도착 좌석 3,700석 이상을 추가했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425653)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
-#### [완방 디지털 에너지, 홍콩 상장 신청서 제출 - HKEX](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425652)
-#### [영국 스타머, 리더십 변화는 '국익에 도움이 되지 않는다' 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425651)
-#### [표준 로봇 (우시), 홍콩 상장 신청서 제출 - HKEX](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425650)
-#### [레오 교황, 베네수엘라는 독립 국가로 남아야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425649)
