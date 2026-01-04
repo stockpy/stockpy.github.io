@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_2023 </title></head>
-<center>Vers : 20260104_2023 </center>
-<center>Vers : 20260105_0523 </center>
+<head><meta charset="utf-8"><title>Vers : 20260104_2042 </title></head>
+<center>Vers : 20260104_2042 </center>
+<center>Vers : 20260105_0542 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425721)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425720)
 #### [베네수엘라의 민주주의 회복은 국민의 의사를 존중해야한다고 EU 국가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425719)
 #### [덴마크 총리, 트럼프에게 그린란드 점령 위협 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425718)
 #### [스위스 경찰 : 새해 술집 화재의 마지막 16 명의 희생자가 확인되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425717)
@@ -64,6 +66,3 @@
 #### [슬픔에 잠긴 스위스 마을, 치명적인 술집 화재 희생자를 위한 묵념 행렬 진행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425662)
 #### [드 메비우스, 챔피언 알 라지의 불이익으로 다카르 선두 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425663)
 #### [스페인은 베네수엘라의 국제법 위반을 '강력히 비난'한다고 PM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425664)
-#### [젯블루, FAA가 카리브해 영공을 재개했으며 정상 운항을 재개할 계획이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425661)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/JBLU.O/total>
-#### [스피릿 항공, 미국 연방항공청의 영공 폐쇄 명령이 만료됨에 따라 1월 4일 카리브해 왕복 항공편 운항 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425660)
