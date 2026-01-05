@@ -26,13 +26,12 @@ jobs:
       run: |
         python test_acdtions2.py  # 실행할 Python 스크립트 파일 이름 지정
 
-    # - name: Commit and Push Changes
-    #   run: |
-    #     git config --global user.name "${{ github.actor }}"
-    #     git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "${{ github.actor }}"
+        git config --global user.email "${{ github.actor }}@users.noreply.github.com"
 
-    #     git add NEWS/Internal_NEWS.md
-    #     git add NEWS/Ranking_NEWS.md
+        git add NEWS/Today_Invest.md
 
-    #     git commit -m 'Update downloaded file'
-    #     git push
+        git commit -m 'Update downloaded file'
+        git push
