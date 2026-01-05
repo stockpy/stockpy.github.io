@@ -379,14 +379,12 @@ def __KO_ETF_Allocation() :
         'CALL': PENSION_CALL
         })
     
-    output.write("
-    <style>
-        table, th,td {
-        border: 1px solid black;
-        border-collapse: collapse;
-        }
-    </style>
-    ")
+    output.write("<style> \
+        table, th,td { \
+        border: 1px solid black; \
+        border-collapse: collapse; \
+        } \
+    </style>")
 
     # pd.set_option('display.max_rows', n)
     # pd.set_option('display.max_columns', n)
