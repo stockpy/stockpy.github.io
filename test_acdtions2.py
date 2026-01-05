@@ -379,8 +379,9 @@ def __KO_ETF_Allocation() :
         'CALL': PENSION_CALL
         })
     
-    output.write("<style>
-    table, th,td {
+    output.write("
+    <style>
+        table, th,td {
         border: 1px solid black;
         border-collapse: collapse;
         }
