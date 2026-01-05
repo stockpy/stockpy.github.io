@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260105_0640 </title></head>
-<center>Vers : 20260105_0640 </center>
-<center>Vers : 20260105_1540 </center>
+<head><meta charset="utf-8"><title>Vers : 20260105_0706 </title></head>
+<center>Vers : 20260105_0706 </center>
+<center>Vers : 20260105_1606 </center>
 <br><br><br>
 #### ['잘 먹고 갑니다'…'상위 1%' 고수들 삼전 팔고 쓸어담은 종목 [마켓PRO]](https://m.stock.naver.com/news/ranknews/view/015/0005232655)
 #### [반도체 팔고 원전·바이오 담았다…초고수, 두산에너빌·에이비엘 매집[주식 초고수는 지금]](https://m.stock.naver.com/news/ranknews/view/011/0004574781)
