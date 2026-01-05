@@ -142,17 +142,6 @@ def __Get_ETF_Price(ETF_Symbol) : # Market에 따른 기업명 Symbols를 가져
         if len(j) == 0 :
             print("# For 1 out : 페이지 조회 0 ?")
             break
-
-        # print(j[1]) 
-        # {'localTradedAt': '2022-02-11',
-        # 'closePrice': '37,240',
-        # 'compareToPreviousClosePrice': '-350',
-        # 'compareToPreviousPrice': {'code': '5','text': '하락', 'name': 'FALLING'},
-        # 'fluctuationsRatio': '-0.93',
-        # 'openPrice': '37,250',
-        # 'highPrice': '37,505',
-        # 'lowPrice': '37,065',
-        # 'accumulatedTradingVolume': 2801655}
         
         Breaker_2 = False
         for x in range(len(j)) :
@@ -193,71 +182,6 @@ def __KO_ETF_Allocation() :
     DF_Pension_StockName, PENSION_PRICES = [], []
 
     # 아래 ETF 리스트 중 ETF그룹을 선별
-    
-    # ETF_Symbol_List.index(x)
-    # ETF_List = ["069500", "229200", "114800", "153130", "152380", "132030", "219480", "261240"]
-    # 069500 : KODEX 200 : 연 0.150% (지정참가회사 : 0.005%, 집합투자 : 0.120%, 신탁 : 0.010%, 일반사무 : 0.015%)
-    # 229200 : KODEX 코스닥 150 : 연 0.250% (지정참가회사 : 0.010%, 집합투자 : 0.200%, 신탁 : 0.020%, 일반사무 : 0.020%)
-    # 114800 : KODEX 인버스 : 연 0.640% (지정참가회사 : 0.020%, 집합투자 : 0.580%, 신탁 : 0.020%, 일반사무 : 0.020%)
-    # 153130 : KODEX 단기채권 : 연 0.150% (지정참가회사 : 0.020%, 집합투자 : 0.110%, 신탁 : 0.010%, 일반사무 : 0.010%)
-    # 152380 : KODEX 국채선물10년 : 연 0.070% (지정참가회사 : 0.005%, 집합투자 : 0.045%, 신탁 : 0.010%, 일반사무 : 0.010%)
-    # 132030 : KODEX 골드선물(H) : 연 0.680% (지정참가회사 : 0.100%, 집합투자 : 0.500%, 신탁 : 0.040%, 일반사무 : 0.040%)
-    # 219480 : KODEX 미국S&P500선물(H) : 연 0.250% (지정참가회사 : 0.020%, 집합투자 : 0.190%, 신탁 : 0.020%, 일반사무 : 0.020%)
-    # 261240 : KODEX 미국달러선물 : 연 0.250% (지정참가회사 : 0.020%, 집합투자 : 0.190%, 신탁 : 0.020%, 일반사무 : 0.020%)
-
-    # 363570 : KODEX 장기종합채권(AA-이상)액티브KAP : 연 0.070% (지정참가회사 : 0.005%, 집합투자 : 0.050%, 신탁 : 0.005%, 일반사무 : 0.010%)
-    # 308620 : KODEX 미국채10년선물 : 연 0.090% (지정참가회사 : 0.005%, 집합투자 : 0.045%, 신탁 : 0.020%, 일반사무 : 0.020%)
-    # 304660 : KODEX 미국채울트라30년선물(H) : 연 0.300% (지정참가회사 : 0.010%, 집합투자 : 0.250%, 신탁 : 0.020%, 일반사무 : 0.020%)
-
-    # ETF_List = ["069500", "229200", "219480", "283580", "101280", "251350"]
-    # 069500 : KODEX 200 : 연 0.150% (지정참가회사 : 0.005%, 집합투자 : 0.120%, 신탁 : 0.010%, 일반사무 : 0.015%)
-    # 229200 : KODEX 코스닥 150 : 연 0.250% (지정참가회사 : 0.010%, 집합투자 : 0.200%, 신탁 : 0.020%, 일반사무 : 0.020%)
-    # 219480 : KODEX 미국S&P500선물(H) : 연 0.250% (지정참가회사 : 0.020%, 집합투자 : 0.190%, 신탁 : 0.020%, 일반사무 : 0.020%)
-    # 283580 : KODEX 차이나CSI300 : 연 0.120% (지정참가회사 : 0.010%, 집합투자 : 0.050%, 신탁 : 0.040%, 일반사무 : 0.020%)
-    # 101280 : KODEX 일본TOPIX 100
-    # 251350 : KODEX 선진국MSCI World
-
-    # ETF_List = ["102110", "360750", "319640", "192090", "105010", "195930", "241180", "360750", "225060"]
-    # 102110 : TIGER 200 : 연 0.05% (운용: 0.029%, 지정참가: 0.001%, 신탁: 0.01%, 일반사무: 0.01%)
-    # 360750 : TIGER 미국S&P500연 0.07%(집합투자 : 0.05%, LP : 0.001%, 신탁 : 0.01%, 사무관리 0.009%)
-    # 319640 : TIGER 골드선물(H)
-    # 192090 : TIGER 차이나CSI300
-    # 105010 : TIGER 라틴35
-    # 195930 : TIGER 유로스탁스50 (합성 H)
-    # 241180 : TIGER 일본니케이225
-    # 360750 : TIGER 미국S&P500
-    # 225060 : TIGER 이머징마켓MSCI 레버리지(합성H) : 0.58%(운용: 0.51%, 지정참가: 0.01%, 신탁: 0.03%, 일반사무 0.03%)
-
-    # ETF_List = ["102110", "123310", "232080", "272580", "302190", "114820", "319640"]
-    # 102110 : TIGER 200 : 연 0.05% (운용: 0.029%, 지정참가: 0.001%, 신탁: 0.01%, 일반사무: 0.01%)
-    # 123310 : TIGER 인버스 : 연 0.022% (운용: 0.001%, 지정참가: 0.001%, 신탁: 0.01%, 일반사무: 0.01%)
-    # 232080 : TIGER 코스닥150 : 0.19% (운용 0.14%, 지정참가 0.01%, 수탁 0.02%, 사무관리 0.02%)
-    # 272580 : TIGER 단기채권액티브 : 연 0.07% (운용: 0.055%, 지정참가: 0.005%, 신탁: 0.005%, 일반사무: 0.005%)
-    # 302190 : TIGER 중장기국채 : 연 0.15% ( 운용 : 0.12%, 지정참가 0.01%, 신탁 : 0.01%, 일반사무 : 0.01%)
-    # 114820 : TIGER 국채3년 : 연 0.15% (운용: 0.07%, 지정참가: 0.055%, 신탁: 0.01%, 일반사무: 0.015%)
-    # 319640 : TIGER 골드선물(H)
-
-    # ETF_List = ["102110", "123310", "319640", "160580", "130680", "137610"]
-    # 102110 : TIGER 200 : 연 0.05% (운용: 0.029%, 지정참가: 0.001%, 신탁: 0.01%, 일반사무: 0.01%)
-    # 123310 : TIGER 인버스 : 연 0.022% (운용: 0.001%, 지정참가: 0.001%, 신탁: 0.01%, 일반사무: 0.01%)
-    # 319640 : TIGER 골드선물(H)
-    # 139310 : TIGER 금속선물 --> 없어짐 (2026.01.01)
-    # 160580 : TIGER 구리실물
-    # 130680 : TIGER 원유선물Enhanced(H)
-    # 137610 : TIGER 농산물선물Enhanced(H)
-
-    # ETF_List = ["174350", "147970", "227570", "319640", "160580", "329750", "305080", "192090"]
-    # 174350 : TIGER 로우볼 : 연 0.40%(운용 : 0.28%, 지정참가 : 0.07%, 신탁 : 0.02%, 일반사무 : 0.03%)
-    # 147970 : TIGER 모멘텀 : 연 0.29% (운용: 0.20%, 지정참가: 0.03%, 신탁: 0.03%, 일반사무: 0.03%)
-    # 227570 : TIGER 우량가치 : 연 0.40% (운용: 0.28%, 지정참가: 0.07%, 신탁: 0.02%, 일반사무: 0.03%)
-    # 319640 : TIGER 골드선물(H) : 연 0.39% (운용: 0.34%, 지정참가: 0.01%, 신탁: 0.02%, 일반사무: 0.02%)
-    # 160580 : TIGER 구리실물 : 연 0.83% (운용: 0.73%, 지정참가: 0.02%, 신탁: 0.05%, 일반사무: 0.03%)
-    # 329750 : TIGER 미국달러단기채권액티브 : 연 0.30%(운용 : 0.225%, 지정참가 : 0.025%, 신탁 : 0.025%, 일반사무 : 0.025%)
-    # 305080 : TIGER 미국채10년선물 : 연 0.29%(운용 : 0.23%, 지정참가 : 0.02%, 신탁 : 0.02%, 사무 : 0.02%)
-    # 192090 : TIGER 차이나CSI300 : 연 0.63%(운용 : 0.50%, 지정참가 : 0.04%, 신탁 : 0.05%, 일반사무 : 0.04%) 
-
-    # 225060 : TIGER 이머징마켓MSCI 레버리지(합성H) : 0.58%(운용: 0.51%, 지정참가: 0.01%, 신탁: 0.03%, 일반사무 0.03%)
-
     ETF_List = ["278530", "379800", "468630", "308620", "484790", "489250", "381180", "457480"]
     # 278530 코스피 KODEX 200TR
     # 069500 코스피배당 KODEX 200
@@ -275,21 +199,6 @@ def __KO_ETF_Allocation() :
         ETF_Date_List, ETF_Price_List = __KO_Price(ETF_Symbol)
         # print(ETF_Date_List[:250]) # 1년 52주 중에서 52*주말 2일 = 104일(주말) + 공휴일까지 대충 110 빼서 1년을 250일
         # print(ETF_Price_List[:250]) # 1년 52주 중에서 52*주말 2일 = 104일(주말) + 공휴일까지 대충 110 빼서 1년을 250일
-
-        # print("# ETF Date List")
-        # print(ETF_Date_List)
-        # print("# ETF_Price_List")
-        # print(ETF_Price_List)
-
-        # print("# ETF_Symbol")
-        # print(ETF_Symbol)
-        # print("# ETF_Symbol_List")
-        # print(ETF_Symbol_List)
-        # print("# ETF_Symbol_List --> ETF Symbol")
-        # print(ETF_Symbol_List.index(ETF_Symbol))
-        # print(ETF_Symbol_List[ETF_Symbol_List.index(ETF_Symbol)])
-        # print(ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)])
-        # print("# %s : %s" % (ETF_Symbol_List[ETF_Symbol_List.index(ETF_Symbol)], ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)]))
 
         ETF_StockName = ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)]
 
@@ -410,35 +319,6 @@ def __KO_ETF_Allocation() :
     # print("# HeatMap_New")
     # __HeatMap_New(DF_ETF)
 
-# def __US_Allocation() :
-
-#     DF_ETF = pd.DataFrame()
-#     ETF_List = ["IEF.O", "SPY", "AOR", "VT", "EEM", "TLT.O", "BWX", "GLD", "DBC", "BIL"]
-
-#     Breaker = False
-#     Price_List, Date_List = [], []
-#     Breaker_1 = False
-
-#     for y in ETF_List :
-#         Date_List, Price_List = __US_ETF_Price(y)
-#         DF_ETF["DATE_List"] = Date_List[:250]
-#         DF_ETF[y] = Price_List[:250]
-#         DF_ETF[y] = round(DF_ETF[y].astype(float))
-
-#     print("# DF_ETF")
-#     print(DF_ETF)
-
-#     plt.rcParams['axes.unicode_minus'] = False
-#     plt.rcParams['font.family'] = 'AppleGothic'
-
-#     DF_ETF_corr = DF_ETF.corr()
-#     DF_ETF_corr = DF_ETF_corr.apply(lambda x: round(x ,2))
-#     print("# corr")
-#     # print(DF_ETF_corr)
-#     print(tabulate(DF_ETF_corr, headers='keys', tablefmt='psql'))
-    
-#     __HeatMap(DF_ETF)
-
 def __Mix_Allocation() :
 
     EN_DF_ETF, KO_DF_ETF = pd.DataFrame(), pd.DataFrame()
@@ -536,93 +416,4 @@ def __US_ETF_Price(Symbol) :
 
     return Date_List, Price_List
 
-# def __HeatMap(DF_ETF) :
-
-#     plt.rcParams['axes.unicode_minus'] = False
-#     plt.rcParams['font.family'] = 'AppleGothic'
-
-#     DF_ETF_corr = DF_ETF.corr()
-#     DF_ETF_corr = DF_ETF_corr.apply(lambda x: round(x ,2))
-#     print("# corr")
-#     # print(DF_ETF_corr)
-#     print(tabulate(DF_ETF_corr, headers='keys', tablefmt='psql'))
-
-#     ax = sns.heatmap(DF_ETF_corr, annot=True, annot_kws=dict(color='g'), cmap='BuGn_r')
-#     # ax = sns.heatmap(DF_ETF_corr, annot=True, annot_kws=dict(color='g'), cmap='RdYlBu_r')
-
-#     # supported values are 'Accent', 'Accent_r', 'Blues', 'Blues_r', 'BrBG', 'BrBG_r', 'BuGn', 'BuGn_r', 'BuPu', 'BuPu_r', \
-#     # 'CMRmap', 'CMRmap_r', 'Dark2', 'Dark2_r', 'GnBu', 'GnBu_r', 'Greens', 'Greens_r', 'Greys', 'Greys_r', 'OrRd', 'OrRd_r', \
-#     # 'Oranges', 'Oranges_r', 'PRGn', 'PRGn_r', 'Paired', 'Paired_r', 'Pastel1', 'Pastel1_r', 'Pastel2', 'Pastel2_r', 'PiYG', \
-#     # 'PiYG_r', 'PuBu', 'PuBuGn', 'PuBuGn_r', 'PuBu_r', 'PuOr', 'PuOr_r', 'PuRd', 'PuRd_r', 'Purples', 'Purples_r', 'RdBu', \
-#     # 'RdBu_r', 'RdGy', 'RdGy_r', 'RdPu', 'RdPu_r', 'RdYlBu', 'RdYlBu_r', 'RdYlGn', 'RdYlGn_r', 'Reds', 'Reds_r', 'Set1', \
-#     # 'Set1_r', 'Set2', 'Set2_r', 'Set3', 'Set3_r', 'Spectral', 'Spectral_r', 'Wistia', 'Wistia_r', 'YlGn', 'YlGnBu', \
-#     # 'YlGnBu_r', 'YlGn_r', 'YlOrBr', 'YlOrBr_r', 'YlOrRd', 'YlOrRd_r', 'afmhot', 'afmhot_r', 'autumn', 'autumn_r', \
-#     # 'binary', 'binary_r', 'bone', 'bone_r', 'brg', 'brg_r', 'bwr', 'bwr_r', 'cividis', 'cividis_r', 'cool', 'cool_r', \
-#     # 'coolwarm', 'coolwarm_r', 'copper', 'copper_r', 'crest', 'crest_r', 'cubehelix', 'cubehelix_r', 'flag', 'flag_r', \
-#     # 'flare', 'flare_r', 'gist_earth', 'gist_earth_r', 'gist_gray', 'gist_gray_r', 'gist_heat', 'gist_heat_r', 'gist_ncar', \
-#     # 'gist_ncar_r', 'gist_rainbow', 'gist_rainbow_r', 'gist_stern', 'gist_stern_r', 'gist_yarg', 'gist_yarg_r', 'gnuplot', \
-#     # 'gnuplot2', 'gnuplot2_r', 'gnuplot_r', 'gray', 'gray_r', 'hot', 'hot_r', 'hsv', 'hsv_r', 'icefire', 'icefire_r', \
-#     # 'inferno', 'inferno_r', 'jet', 'jet_r', 'magma', 'magma_r', 'mako', 'mako_r', 'nipy_spectral', 'nipy_spectral_r', \
-#     # 'ocean', 'ocean_r', 'pink', 'pink_r', 'plasma', 'plasma_r', 'prism', 'prism_r', 'rainbow', 'rainbow_r', 'rocket', \
-#     # 'rocket_r', 'seismic', 'seismic_r', 'spring', 'spring_r', 'summer', 'summer_r', 'tab10', 'tab10_r', 'tab20', 'tab20_r', \
-#     # 'tab20b', 'tab20b_r', 'tab20c', 'tab20c_r', 'terrain', 'terrain_r', 'twilight', 'twilight_r', 'twilight_shifted', \
-#     # 'twilight_shifted_r', 'viridis', 'viridis_r', 'vlag', 'vlag_r', 'winter', 'winter_r'
-
-#     ax.tick_params(
-#         left=True, labelleft=True, \
-#         right=False, labelright=False, \
-#         top=True, labeltop=True, \
-#         bottom=False, labelbottom=False \
-#         # top=False, labeltop=False, \
-#         # bottom=True, labelbottom=True \
-#         )
-#     ax.tick_params(axis='x', labelrotation=90)
-
-#     if platform.system() == 'Darwin' : # or win32
-#         DateTime = datetime.today().strftime("%Y%m%d")
-#         plt.savefig("/Users/choiyoungmin/PycharmProjects/2020Y/Anal_Comp/Allocation_"+DateTime+".png")
-#         File_Name_fig = "/Users/choiyoungmin/PycharmProjects/2020Y/Anal_Comp/Allocation_"+DateTime+".png"
-#     else :
-#         DateTime = datetime.today().strftime("%Y%m%d")
-#         plt.savefig("C:\\Python\\Allocation\\Allocation_"+DateTime+".png")
-#         File_Name_fig = "C:\\Python\\Allocation\\Allocation_"+DateTime+".png"
-#         shutil.copyfile(File_Name_fig, 'C:\\Python\\Allocation\\Allocation.png')
-
-    # plt.show()
-
-    # with io.open(File_Name, 'w', encoding='utf-8') as f:
-    #     f.write('<head><meta charset="utf-8"></head>')
-    #     f.write('<style>')
-    #     f.write('table {border: 1px solid #444444;border-collapse: collapse}')
-    #     f.write('th, td {text-align: center}')
-    #     f.write('</style>')
-    #     f.write(DF_ETF_corr.to_html())
-    #     f.write('<br><br><br>')
-    #     if platform.system() == 'Darwin' : # or win32
-    #         f.write('<img class=\"fit-picture\" src=/Users/choiyoungmin/PycharmProjects/2020Y/Anal_Comp/Allocation_'+DateTime+'.png')
-    #     else :
-    #         f.write('<img class=\"fit-picture\" src=Allocation.png>\n')
-    #     f.write('<br><br><br>')
-    # f.close()
-
-# def __HeatMap_New(DF_ETF) :
-
-#     plt.rcParams['axes.unicode_minus'] = False
-#     plt.rcParams['font.family'] = 'AppleGothic'
-
-#     df = DF_ETF.corr()
-#     df = df.corr.apply(lambda x: round(x ,2))
-#     # df = sns.heatmap(DF_ETF_corr, annot=True, annot_kws=dict(color='g'), cmap='BuGn_r')
-#     sns.clustermap(df, 
-#                 annot = True,      # 실제 값 화면에 나타내기
-#                 cmap = 'RdYlBu_r',  # Red, Yellow, Blue 색상으로 표시
-#                 vmin = -1, vmax = 1, #컬러차트 -1 ~ 1 범위로 표시
-#                 )
-#     plt.show()
-
 __KO_ETF_Allocation()
-
-# __US_Allocation()
-# __Mix_Allocation() # --> TEST 중 (2022.02.20)
-
-# shutil.copyfile(File_Name, 'C:\\Python\\Allocation\\Allocation.html')
