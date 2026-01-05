@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260105_2026 </title></head>
-<center>Vers : 20260105_2026 </center>
-<center>Vers : 20260106_0526 </center>
+<head><meta charset="utf-8"><title>Vers : 20260105_2048 </title></head>
+<center>Vers : 20260105_2048 </center>
+<center>Vers : 20260106_0548 </center>
 <br><br><br>
+#### [미국 IPO를 위한 디지털 은행 PicPay 파일 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426903)
+#### [암스테르담의 눈으로 인해 화요일에 KLM이 300편의 항공편을 결항했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426901)
+#### [미국, 독감 등 4가지 소아 백신에 대한 광범위한 권장량 삭감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426905)
+#### [미국인 3분의 1이 미국의 베네수엘라 파업을 지지한다고 로이터/입소스 여론조사 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426902)
+#### [브라질 주요 곡물 거래업체, 아마존 보호 협정 탈퇴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426898)
+#### [디지털 은행 PicPay, 미국 기업공개 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426899)
+#### [재생-EUR/USD 리스크, 지정학적 우려, 엔 매도세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426897)
+#### [인텔, 라스베이거스 CES에서 차세대 PC 칩 출시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426900)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
+#### [미국 광대역 제공업체 Brightspeed, 보안 침해 주장 조사 - BleepingComputer](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426904)
+#### [CBOT 밀, 광범위한 매수세에 상승 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426906)
 #### [브라질 대통령, 토요일 베네수엘라 임시 대통령과 통화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426895)
 #### [트레이더들이 주요 고용 데이터를 기다리면서 미국 국채 수익률 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426894)
 #### [미국, 유엔 안보리에서 마두로 작전 옹호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426896)
@@ -42,7 +53,7 @@
 #### [UBS가 주식을 '매수'로 상향 조정한 후 BUZZ-유나이티드 렌탈이 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426862)
 #### [골드만삭스, EMEA 지역에서 세컨더리 자문 프랜차이즈 출범, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426865)
 #### [미국 주식의 움직임-동기화 금융, 코인베이스, 버산트 미디어 그룹](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426861)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SATL.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GHRS.O/total>
 #### [미국, 우라늄 농축을 위해 27 억 달러 상당의 주문 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426857)
 #### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426858)
 #### [트럼프가 베네수엘라 매장량에 대한 접근 신호를 보낸 후 미국 석유 재고가 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426856)
@@ -58,15 +69,3 @@
 #### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426848)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
 #### [브라질 판사, 방코 마스터 사건에서 자산 매각 차단 고려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426847)
-#### [유니크레딧, 알파뱅크 지분 약 29.8%로 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426844)
-#### [우크라이나 외무 장관, 러시아가 우크라이나에있는 미국 기업을 표적으로 삼고 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426845)
-#### [미국 자동차 판매, 규제 불확실성에도 불구하고 2025년 2% 증가할 것으로 분석가들 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426846)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7203.T/total>
-#### [유니크레딧, 알파뱅크 직접 지분 및 의결권 약 29.8%로 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426835)
-#### [암스테르담과 파리의 항공, 기차, 도로 교통을 마비시킨 눈](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426838)
-#### [이탈리아, AI '환각' 위험 경고 약속 후 딥시크에 대한 조사 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426843)
-#### [뉴욕 연준, 리버스 리포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426834)
-#### [골드만삭스가 등급을 '매수'로 상향 조정한 후 버즈-코인베이스 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426837)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
-#### [미국 에너지 장관 크리스 라이트, 이번 주 석유 산업 경영진과 베네수엘라 에너지 부문 부흥에 대해 논의 할 계획 - 블룸버그 법률](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426842)
-#### [CSN, 브라질 MRS 로지스티카 지분 13.69% 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426840)
