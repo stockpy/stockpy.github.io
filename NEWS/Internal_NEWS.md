@@ -1,7 +1,34 @@
-<head><meta charset="utf-8"><title>Vers : 20260105_1927 </title></head>
-<center>Vers : 20260105_1927 </center>
-<center>Vers : 20260106_0427 </center>
+<head><meta charset="utf-8"><title>Vers : 20260105_2026 </title></head>
+<center>Vers : 20260105_2026 </center>
+<center>Vers : 20260106_0526 </center>
 <br><br><br>
+#### [브라질 대통령, 토요일 베네수엘라 임시 대통령과 통화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426895)
+#### [트레이더들이 주요 고용 데이터를 기다리면서 미국 국채 수익률 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426894)
+#### [미국, 유엔 안보리에서 마두로 작전 옹호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426896)
+#### [미국 천연가스, 따뜻한 날씨로 4회 연속 상승세 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426890)
+#### [베네수엘라 격변에 대한 시장의 부담으로 중남미 증시 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426892)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
+#### [사우디아라비아, 2월 아랍 라이트 원유 가격을 아시아 지역으로 3개월 연속 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426893)
+#### [이탈리아 반독점청, 전기차 충전 네트워크를 통한 A2A 조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426889)
+#### [펀드 매수로 CBOT 대두가 상승세로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426891)
+#### [미국 북서부 강 유량은 99 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426884)
+#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426886)
+#### [족쇄에 묶인 채 반항하는 마두로, 미국 마약 혐의에 무죄를 주장하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426883)
+#### [145개국 이상이 미국의 우려를 해소하는 글로벌 최저세 협정 업데이트에 동의했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426888)
+#### [독점: Helix, 새로운 E&S 상업용 중소기업 자산 프로그램을 위한 QBE NA 용량 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426885)
+#### [CBOT 옥수수가 2주 만에 최저 수준에서 반등했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426882)
+#### [깜짝 강설로 파리가 겨울왕국으로 변신하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426887)
+#### [다우 지수 기록, 미국 베네수엘라 공격 후 에너지주 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426881)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
+#### [미국 CDC는 2025-26 년 독감 시즌이 11 만 건에 도달함에 따라 '중등도 중증'이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426879)
+#### [오늘 하루 주목해야 할 사항 - 1월 6일 화요일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426880)
+#### [그린란드는 베네수엘라와 비교할 수 없다고 총리, 총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426878)
+#### [서비스나우, 호세인 나우바를 사장 겸 CLO로 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426873)
+#### [미국, 우라늄 농축 강화를 위해 27억 달러 상당의 주문 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426877)
+#### [피프티1 랩스, 루나르 에어로스페이스와 공식 파트너십 체결 안 함을 분명히 하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426874)
+#### [미국 작전으로 베네수엘라 마두로 체포 후 트럼프의 주요 발언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426872)
+#### [어산지의 변호사 배리 폴락, 마두로의 미국 마약 혐의에 맞서 싸우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426875)
+#### [미국 요약: 데이터, 연준 발언 이후 수익률과 함께 달러 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426876)
 #### [스위스 바 화재에 대한 해답을 요구하는 압력 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426869)
 #### [트럼프 전 변호사 무카시, 로펌에 합류?시파스 쇼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426871)
 #### [델시 로드리게스, 베네수엘라 임시 대통령으로 공식 취임하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426870)
@@ -43,31 +70,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
 #### [미국 에너지 장관 크리스 라이트, 이번 주 석유 산업 경영진과 베네수엘라 에너지 부문 부흥에 대해 논의 할 계획 - 블룸버그 법률](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426842)
 #### [CSN, 브라질 MRS 로지스티카 지분 13.69% 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426840)
-#### [테슬라의 슬럼프가 엘론 머스크의 미래학자 신용을 떨어뜨리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426836)
-#### [브라질의 룰라, 토요일 베네수엘라 임시 대통령과 통화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426841)
-#### [브라운스, 레이더스, 카디널스 감독 해고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426839)
-#### [차등가격은 안정적 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426830)
-#### [AUD/USD-미국 달러 강세가 흩어진 후 세 세션 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426833)
-#### [D.E. Shaw, Bridgewater, Balyasny가 이끄는 상위 헤지펀드, 2025년 큰 수익률 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426832)
-#### [관세가 인플레이션을 낮출 수 있다는 SF 연준의 연구 결과가 나왔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426829)
-#### [따뜻한 일기 예보, 수요 감소로 미국 천연가스 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426827)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NEXT.O/total>
-#### [미국 공장 부문 12월 10개월 연속 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426831)
-#### [스톤엑스, 브라질의 2025/26년 대두 작황 전망 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426828)
-#### [주식, 유가 상승; 투자자들은 베네수엘라 사건을 경시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426826)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
-#### [EUR/USD-미국 달러 강세 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426825)
-#### [프랑스의 브리짓 마크롱을 사이버 괴롭힌 혐의로 유죄 판결을 받은 10명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426817)
-#### [코델코의 2025년 구리 생산량이 133만 2천 톤에 달한다고 칠레 언론이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426822)
-#### [2026년에 주목해야 할 대규모 불법 행위 소송](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426820)
-#### [휘발유 정제 이익이 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426824)
-#### [골드만, EMEA에서 세컨더리 어드바이저리 프랜차이즈 출시, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426821)
-#### [미국 경차 판매량 2025년 4분기 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426819)
-#### [26 년 독감 시즌이 11 만 건에 도달함에 따라 '중등도 중증'이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426823)
-#### [포티, WTI 및 에코피스크 상승, 4가지 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426816)
-#### [브라질 최고의 농장 주, 주요 곡물 거래자들이 대두 모라토리엄 종료 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426818)
-#### [트럼프 행정부는 베네수엘라에 대해 미국 석유 메이저와 협의하지 않았다고 석유 경영진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426812)
-#### [제논의 수정된 입찰 제안이 재정적으로 적절하다고 판단한 엘레스의 간략한 설명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426808)
-#### [엔비디아 CEO 황, 라스베이거스 CES에서 경쟁이 치열해지는 가운데 무대에 서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426815)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [베를린 시장, 발전소 공격 후 인프라에 대한 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426811)
