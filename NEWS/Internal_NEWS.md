@@ -1,7 +1,65 @@
-<head><meta charset="utf-8"><title>Vers : 20260104_2314 </title></head>
-<center>Vers : 20260104_2314 </center>
-<center>Vers : 20260105_0814 </center>
+<head><meta charset="utf-8"><title>Vers : 20260105_0155 </title></head>
+<center>Vers : 20260105_0155 </center>
+<center>Vers : 20260105_1055 </center>
 <br><br><br>
+#### [쿠바 정부, 마두로 추방 과정에서 32 명의 쿠바인이 사망했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425788)
+#### [트럼프, 우크라이나가 푸틴 대통령 관저를 공격했다고 믿지 않는다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425785)
+#### [브리티시 비즈니스 - 1월 5일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425787)
+#### [중국, 미국 마두로 체포 후 '세계 심판자'역할을하는 국가를 받아 들일 수 없다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425786)
+#### [벌컨 스틸, 개빈 스트리트를 벌컨의 CEO 겸 전무이사로 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425783)
+#### [인실리코 메디신 케이맨 탑코, 서비에와 8억 8,800만 달러 규모의 협업 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425784)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3696.HK/total>
+#### [트럼프, 베네수엘라 공습 후 콜롬비아에 대한 군사 작전 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425781)
+#### [쿠바가 무너질 준비가 된 것 같다고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425782)
+#### [중국 퍼스트 캐피탈 그룹, 구조조정 지원 협약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425779)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1269.HK/total>
+#### [BUZZ-주말 뉴스-미국의 베네수엘라 공습, 연준 금리 인하 지연?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425780)
+#### [러시아, 우크라이나 키예프에 공습 시작, 시장은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425778)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425775)
+#### [트럼프, 콜롬비아에 초점을 맞춘 새로운 군사 작전이 그에게 좋게 들린다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425774)
+#### [일본 닛케이는 칩 주식이 미국 반도체 랠리를 따라 가면서 2 % 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425777)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6857.T/total>
+#### [베네수엘라의 정치적 혼란에도 불구하고 석유는 횡보합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425776)
+#### [스카이워스 그룹, 주식 거래가 1월 5일 오전 9시에 중단되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425763)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0751.HK/total>
+#### [지정학적 긴장으로 달러가 큰 폭으로 상승함에 따라 BUZZ-GBP/USD- 완화됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425770)
+#### [아시아 증시, 베네수엘라 충격에서 벗어나 상승세, 유가 변동성 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425769)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [패닉이 확대되지 않는 한 일시적인 BUZZ-AUD/USD 약세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425762)
+#### [BUZZ-COMMENT-Week Ahead-미국 일자리 데이터, 2026년 고용률에 주목하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425767)
+#### [섬코, 3월 27일부로 류타 지로 부사장이 사장으로 임명됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425768)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3436.T/total>
+#### [일본의 공장 활동은 수요 감소가 둔화됨에 따라 안정적이라고 PMI는 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425761)
+#### [CBOT 대두 밀 배달 - 1월 05일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425766)
+#### [파이낸셜 타임즈 - 1월 5일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425773)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [러시아 정치인들은 트럼프의 베네수엘라 공격이 불법적이고 불안정하다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425760)
+#### [CBOT 콩오일 배송 - Jan 05](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425765)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425772)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425759)
+#### [CBOT 대두 배송 - Jan 05](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425764)
+#### [USD/JPY- 베네수엘라 사태를 주시하며 입찰 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425771)
+#### [트럼프 정치 기반, 고립주의를 제쳐두고 마두로 생포를 응원하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425757)
+#### [일본의 니혼 노하쿠 Co: 자회사 십캠 니치노 브라질, FMC 퀴미카 두 브라질과 720만 달러에 합의 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425751)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/4997.T/total>
+#### [달러 강세, 투자심리가 위축되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425758)
+#### [2월 27일까지의 정부 부채 경매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425756)
+#### [이머징 마켓 경제 이벤트 2월 26일까지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425755)
+#### [2월 25일까지의 주요 경제 이벤트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425754)
+#### [CBOT 쌀 배송 - Jan 05](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425748)
+#### [아미야키 테이 <2753.T>- 9개월 그룹 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425750)
+#### [한국 당국, 금융시장 면밀히 모니터링할 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425753)
+#### [베네수엘라의 석유 생산 전망을 결정하는 미국 제재 정책, 골드만 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425752)
+#### [베네수엘라의 석유 및 광업 부문: 큰 잠재력, 취약한 인프라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425749)
+#### [지정학이 심리에 부담을 주면서 호주 달러는 보합세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425747)
+#### [미국의 베네수엘라 마두로 체포의 합법성, 유엔에서 집중 조명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425746)
+#### [아시아의 날을 앞두고-베네수엘라 사건에 대한 반응이 주목받고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425745)
+#### [투자자들은 트럼프의 베네수엘라 도박으로 인해 새로운 지정학적 위험에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425742)
+#### [우크라이나는 올해 드론으로 매일 모스크바를 목표로 삼고 있다고 러시아는 분명히 확대되고 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425741)
+#### [베네수엘라 대통령 권한대행인 '차리나' 델시 로드리게스는 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425743)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425744)
+#### [베네수엘라의 정치적 혼란에도 불구하고 충분한 공급으로 유가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425740)
+#### [ROI-미국 정유사 승리, 중국 경쟁사 패배: Bousso](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425739)
 #### [바클레이즈 데이터에 따르면, 2025년 활동가 투자자들은 기록적인 캠페인 수를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425738)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LYFT.O/total>
 #### [분석-미국, 중국의 영토 주장을 강화하기 위해 베네수엘라에 대한 공격, 대만 공격 가능성은 낮다고 분석가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425737)
@@ -14,6 +72,10 @@
 #### [에너지 저장 붐으로 리튬의 수요 전망 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425730)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300750.SZ/total>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425729)
+<head><meta charset="utf-8"><title>Vers : 20260105_0155 </title></head>
+<center>Vers : 20260105_0155 </center>
+<center>Vers : 20260105_1055 </center>
+<br><br><br>
 #### [삭스, 10억 달러 대출을 위한 협상 중, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425727)
 #### [미국의 베네수엘라 개입에도 불구하고 BUZZ-EUR/USD는 안정적입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425728)
 #### [독점-L3해리스가 우주 추진 자산 지분을 AE 인더스트리얼에 매각할 예정이라고 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425726)
@@ -68,3 +130,14 @@
 #### [시노백, 2025년 반기 보고서 늦게 제출에 관한 나스닥 통지를 받았다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425681)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SVA.O/total>
 #### [여자 선수들, 포 힐스 토너먼트 첫 출전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425680)
+#### [오스트리아 수도 유대교 회당 근처에서 수류탄 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425678)
+#### [투자자들은 트럼프의 베네수엘라 도박으로 인해 더 많은 지정학적 타격에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425677)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425676)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425675)
+#### [복싱 타이슨 퓨리, 은퇴 후 최근 복귀 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425673)
+#### [베네수엘라의 수십억 달러에 달하는 부실채권: 누가 채권을 회수할 것인가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425672)
+#### [보츠와나, 모스크바에 대사관 개설, 러시아에 희토류 및 다이아몬드 개방, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425674)
+#### [베네수엘라의 PDVSA는 일부 합작 투자에 석유 생산량을 줄 이도록 요청했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425669)
+#### [베네수엘라 이벤트, 2026 년 시작에 따라 주가를 뒤흔들 일자리 데이터 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425671)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
+#### [시리아 정부, 경제 부흥을 위해 지폐 교환 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2425668)
