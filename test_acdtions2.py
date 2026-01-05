@@ -350,9 +350,9 @@ def __KO_ETF_Allocation() :
         DF_Pension_StockName.append(ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)])
         PENSION_PRICES.append(ETF_Price_List[-1])
 
-        print("# Pension List")
-        print(DF_Pension_StockName)
-        print(DF_Pension_List)
+        # print("# Pension List")
+        # print(DF_Pension_StockName)
+        # print(DF_Pension_List)
 
         DF_ETF_Average[ETF_StockName] = ETF_Mean
         DF_ETF_Average_Hist[ETF_StockName] = ETF_History
