@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260105_1859 </title></head>
-<center>Vers : 20260105_1859 </center>
-<center>Vers : 20260106_0359 </center>
+<head><meta charset="utf-8"><title>Vers : 20260105_1927 </title></head>
+<center>Vers : 20260105_1927 </center>
+<center>Vers : 20260106_0427 </center>
 <br><br><br>
+#### [스위스 바 화재에 대한 해답을 요구하는 압력 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426869)
+#### [트럼프 전 변호사 무카시, 로펌에 합류?시파스 쇼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426871)
+#### [델시 로드리게스, 베네수엘라 임시 대통령으로 공식 취임하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426870)
+#### [미국의 베네수엘라 파업 이후 금이 1 주일 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426868)
+#### [소 115,000마리, 돼지 498,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426864)
+#### [힐튼의 미니애폴리스 호텔, 법 집행관 예약 취소, DHS는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426867)
+#### [미국, 아동 백신 접종 횟수를 줄이도록 권장하는 백신 일정 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426860)
+#### [유조선이 깃발이나 안전 서류 없이 베네수엘라에서 항해하는 것으로 나타났습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426863)
+#### [BofA 글로벌 리서치, 힐튼 월드와이드에 대한 PT를 324달러로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426866)
+#### [국채 수익률과 함께 하락하는 BUZZ-USD / JPY, 교차 압력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426859)
+#### [UBS가 주식을 '매수'로 상향 조정한 후 BUZZ-유나이티드 렌탈이 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426862)
+#### [골드만삭스, EMEA 지역에서 세컨더리 자문 프랜차이즈 출범, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426865)
+#### [미국 주식의 움직임-동기화 금융, 코인베이스, 버산트 미디어 그룹](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426861)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SATL.O/total>
+#### [미국, 우라늄 농축을 위해 27 억 달러 상당의 주문 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426857)
+#### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426858)
 #### [트럼프가 베네수엘라 매장량에 대한 접근 신호를 보낸 후 미국 석유 재고가 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426856)
 #### [트럼프가 베네수엘라 매장량에 대한 접근 신호를 보낸 후 미국 석유 재고가 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426853)
 #### [스털링 오후 노람 오후 급등, 1.3559로 9월 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426850)
@@ -55,20 +71,3 @@
 #### [엔비디아 CEO 황, 라스베이거스 CES에서 경쟁이 치열해지는 가운데 무대에 서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426815)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
 #### [베를린 시장, 발전소 공격 후 인프라에 대한 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426811)
-#### [유로넥스트 밀은 더 하락하고 유채는 반등합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426807)
-#### [UK의 FTSE 100은 채굴, 방어 이익으로 처음으로 10,000 이상으로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426814)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
-#### [이탈리아 반독점 당국, 전기차 충전에 대한 A2A 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426810)
-#### [베네수엘라 파업 이후 에너지 급등으로 미국 증시-월스트리트 랠리, 다우지수 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426809)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
-#### [올덴부르크 란데스방크, 크리스토프 예한이 OLB의 새 CEO로 취임하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426813)
-#### [그룹, 2026년 1월 15일 배당 계획의 일환으로 주당 0.172유로를 지급할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426806)
-#### [미국 곡물 선물이 수 주래 최저치에서 상승세로 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426791)
-#### [UBS, 주가 상승과 일시적인 지정학적 영향에 주목하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426801)
-#### [노보 노디스크, 웨고비 알약 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426805)
-#### [회원들의 자발적 청산에 돌입하는 BRIEF-PRS REIT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426790)
-#### [미국, 트럼프가 카라카스 대사관 재개를 결정할 경우를 대비해 준비 중이라고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426800)
-#### [미쓰비시 자동차 북미, 2025년 4분기 21,354대 판매량 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426797)
-#### [GenNx360 캐피털 파트너스, 에어로 3, Inc. 를 VSE Corporation에 매각 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426789)
-#### [터키의 에르도안, 트럼프에게 베네수엘라가 불안정성에 끌려 가서는 안된다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426799)
-#### [캔들 레이크, 12월 29일 기준 플러터 엔터테인먼트 지분 15% 보고 - 파일링](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426796)
