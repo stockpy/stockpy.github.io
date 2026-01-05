@@ -12,7 +12,9 @@ import platform
 from datetime import datetime
 from tabulate import tabulate
 
-# File_Name = "C:\\Python\\Allocation\\"+Market+"_"+DateTime+".html"
+File_Name = "NEWS/Today_Invest.md"
+output = open(File_Name, 'w+t')
+
 pageSize=60
 headers={'user-agent': 'Mozilla/5.0'}
 
@@ -385,6 +387,7 @@ def __KO_ETF_Allocation() :
     # df.set_index('ETF_Name', inplace=True)
     # print(tabulate(df, headers=COLUMNS_V))
     print(df.to_markdown())
+    output.write(df.to_markdown())
 
     # print("# ETF_Symbol_List.index(x)")
     # for x in ETF_List :
