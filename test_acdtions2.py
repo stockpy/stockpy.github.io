@@ -294,30 +294,18 @@ def __KO_ETF_Allocation() :
     # print(tabulate(df))
     # df.set_index('ETF_Name', inplace=True)
     # print(tabulate(df, headers=COLUMNS_V))
+    
+    DateTime_TT = datetime.today().strftime("%Y%m%d_%H%M")
+    utc_now = datetime.now(timezone.utc)
+    seoul_time = utc_now + timedelta(hours=9)
+    formatted_time = seoul_time.strftime("%Y%m%d_%H%M")
+    
+    output.write('<center>Vers : %s </center>\n' % DateTime_TT)
+    output.write('<center>Vers : %s </center>\n' % formatted_time)
+    output.write('<br><br><br>\n')
+
     print(df.to_markdown(index=False))
     output.write(df.to_markdown())
-
-    # print("# ETF_Symbol_List.index(x)")
-    # for x in ETF_List :
-    #     print("# %s : %s" % (ETF_Symbol_List[ETF_Symbol_List.index(x)], ETF_stockName_List[ETF_Symbol_List.index(x)]))
-
-    # print("# DF_ETF_Average")
-    # print(DF_ETF_Average)
-    # print(tabulate(DF_ETF_Average, headers='keys', tablefmt='psql'))
-
-    # print("# ETF History")
-    # # print(DF_ETF_Average_Hist)
-    # print(tabulate(DF_ETF_Average_Hist, headers='keys', tablefmt='psql'))
-
-    # print("# ETF History")
-    # # print(DF_ETF_Average_Hist)
-    # print(tabulate(DF_ETF_Profit, headers='keys', tablefmt='psql'))
-
-    # print("# HeatMap")
-    # __HeatMap(DF_ETF)
-
-    # print("# HeatMap_New")
-    # __HeatMap_New(DF_ETF)
 
 def __Mix_Allocation() :
 
