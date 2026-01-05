@@ -1,7 +1,36 @@
-<head><meta charset="utf-8"><title>Vers : 20260105_2059 </title></head>
-<center>Vers : 20260105_2059 </center>
-<center>Vers : 20260106_0559 </center>
+<head><meta charset="utf-8"><title>Vers : 20260105_2130 </title></head>
+<center>Vers : 20260105_2130 </center>
+<center>Vers : 20260106_0630 </center>
 <br><br><br>
+#### [다우지수, 은행과 에너지에 힘입어 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426945)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
+#### [호주 비리디스, 거상 프로젝트를 위해 최대 5천만 달러의 자금 지원 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426941)
+#### [터키의 에르도안과 트럼프, 전화 통화에서 가자지구와 베네수엘라에 대해 논의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426942)
+#### [덴마크 총리, 트럼프가 그린란드를 원하는 것을 진지하게 받아 들여야한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426944)
+#### [리얼티 인컴, 전환사채 공모 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426940)
+#### [SGH와 스틸 다이내믹스, 블루스코프 인수를 위한 NBIO 제출 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426946)
+#### [핸콕 휘트니, 최고 은행 책임자로 에모리 메이필드 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426943)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HWC.O/total>
+#### [콜롬비아, 마약 밀매에 대해 미국과 계속 협력 할 것이라고 정부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426939)
+#### [아제르바이잔의 석유 펀드는 금 투자로 10 억 달러 이상을 벌어 들였다고 대통령은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426936)
+#### [스웨덴의 포스마크 블록1 원자로가 1월 6일에 재가동될 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426938)
+#### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426933)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/STLD.O/total>
+#### [아르헨티나 중앙 은행, 새로운 통화 프로그램 시작으로 2,100만 달러 매입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426935)
+#### [증시, 에너지주, 유가 급등; 투자자들은 베네수엘라 사태를 경시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426932)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
+#### [다우 지수 기록, 미국 베네수엘라 공격 후 에너지주 상승 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426934)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
+#### [현대자동차그룹, 2028년부터 미국 공장에 휴머노이드 로봇 배치 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426937)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [미국 공장 활동에 대한 관세 부담으로 BUZZ-EUR/USD가 회복세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426931)
+#### [미국 레이더 시스템 교체 계약, Rtx와 인드라에 체결 -미국 교통부 성명서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426925)
+#### [마두로 이후 '긴장된 평온'의 일상을 살아가는 베네수엘라 국민들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426928)
+#### [아제르바이잔 알리 예프 대통령 : 2026 년에 가스 수출을 두 나라로 더 확대 할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426927)
+#### [미네아폴리스 힐튼 호텔, 이민국 직원들의 예약을 취소한다고 DHS는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426926)
+#### [변호사 앨런 더쇼위츠, 대법원에 CNN 소송 부활 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426924)
+#### [스텔란티스, FCA 캐나다, 4분기 27,340대의 차량 판매량 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426929)
+#### [미국산 오일 및 지방 - 1월 5일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426930)
 #### [델시 로드리게스, 베네수엘라 임시 대통령 취임 선서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426920)
 #### [7월에 물러나는 델라웨어 대법관 발리후라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426923)
 #### [펀드, CBOT 곡물 및 대두 순매수, 트레이더들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426922)
@@ -42,27 +71,3 @@
 #### [펀드 매수로 CBOT 대두가 상승세로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426891)
 #### [미국 북서부 강 유량은 99 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426884)
 #### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426886)
-#### [족쇄에 묶인 채 반항하는 마두로, 미국 마약 혐의에 무죄를 주장하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426883)
-#### [145개국 이상이 미국의 우려를 해소하는 글로벌 최저세 협정 업데이트에 동의했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426888)
-#### [독점: Helix, 새로운 E&S 상업용 중소기업 자산 프로그램을 위한 QBE NA 용량 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426885)
-#### [CBOT 옥수수가 2주 만에 최저 수준에서 반등했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426882)
-#### [깜짝 강설로 파리가 겨울왕국으로 변신하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426887)
-#### [다우 지수 기록, 미국 베네수엘라 공격 후 에너지주 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426881)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
-#### [미국 CDC는 2025-26 년 독감 시즌이 11 만 건에 도달함에 따라 '중등도 중증'이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426879)
-#### [오늘 하루 주목해야 할 사항 - 1월 6일 화요일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426880)
-#### [그린란드는 베네수엘라와 비교할 수 없다고 총리, 총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426878)
-#### [서비스나우, 호세인 나우바를 사장 겸 CLO로 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426873)
-#### [미국, 우라늄 농축 강화를 위해 27억 달러 상당의 주문 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426877)
-#### [피프티1 랩스, 루나르 에어로스페이스와 공식 파트너십 체결 안 함을 분명히 하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426874)
-#### [미국 작전으로 베네수엘라 마두로 체포 후 트럼프의 주요 발언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426872)
-#### [어산지의 변호사 배리 폴락, 마두로의 미국 마약 혐의에 맞서 싸우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426875)
-#### [미국 요약: 데이터, 연준 발언 이후 수익률과 함께 달러 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426876)
-#### [스위스 바 화재에 대한 해답을 요구하는 압력 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426869)
-#### [트럼프 전 변호사 무카시, 로펌에 합류?시파스 쇼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426871)
-#### [델시 로드리게스, 베네수엘라 임시 대통령으로 공식 취임하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426870)
-#### [미국의 베네수엘라 파업 이후 금이 1 주일 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426868)
-#### [소 115,000마리, 돼지 498,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426864)
-#### [힐튼의 미니애폴리스 호텔, 법 집행관 예약 취소, DHS는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426867)
-#### [미국, 아동 백신 접종 횟수를 줄이도록 권장하는 백신 일정 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426860)
-#### [유조선이 깃발이나 안전 서류 없이 베네수엘라에서 항해하는 것으로 나타났습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426863)
