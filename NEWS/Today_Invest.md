@@ -1,4 +1,4 @@
-<style>         table, th,td {         border: 1px solid black;         border-collapse: collapse;         }     </style>|    | ETF_Name                  | Alloc_P   |   Price |   Alloc_C |   CALL |
+|    | ETF_Name                  | Alloc_P   |   Price |   Alloc_C |   CALL |
 |---:|:--------------------------|:----------|--------:|----------:|-------:|
 |  0 | KODEX 200TR               | 0%        |   23370 |         0 |      0 |
 |  1 | KODEX 미국S&P500            | 50%       |   22575 |    300000 |     13 |
