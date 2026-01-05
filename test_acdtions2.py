@@ -376,7 +376,7 @@ def __KO_ETF_Allocation() :
         'Price': PENSION_PRICES,
         'Alloc_C': PENSION_DIVIDENDS,
         'CALL': PENSION_CALL
-        }
+        })
                   
     # pd.set_option('display.max_rows', n)
     # pd.set_option('display.max_columns', n)
