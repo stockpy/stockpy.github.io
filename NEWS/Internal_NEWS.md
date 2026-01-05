@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20260105_1834 </title></head>
-<center>Vers : 20260105_1834 </center>
-<center>Vers : 20260106_0334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260105_1859 </title></head>
+<center>Vers : 20260105_1859 </center>
+<center>Vers : 20260106_0359 </center>
 <br><br><br>
+#### [트럼프가 베네수엘라 매장량에 대한 접근 신호를 보낸 후 미국 석유 재고가 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426856)
+#### [트럼프가 베네수엘라 매장량에 대한 접근 신호를 보낸 후 미국 석유 재고가 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426853)
+#### [스털링 오후 노람 오후 급등, 1.3559로 9월 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426850)
+#### [미국인의 33 %만이 미국의 베네수엘라 파업에 찬성, 로이터 / 입소스 여론 조사 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426855)
+#### [제나스, 면역 질환 치료제 데이터 부진으로 50% 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426852)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ZBIO.O/total>
+#### [CES 2026, 기술 혁신을 공개하는 AI가 중심이 되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426849)
+#### [노보 노디스크가 미국에서 웨고비 알약을 출시하면서 버즈-텔레헬스 주가가 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426854)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LFMD.O/total>
+#### [CES 2026, 기술 혁신을 공개하는 AI가 중심이 되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426851)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426848)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [브라질 판사, 방코 마스터 사건에서 자산 매각 차단 고려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426847)
+#### [유니크레딧, 알파뱅크 지분 약 29.8%로 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426844)
+#### [우크라이나 외무 장관, 러시아가 우크라이나에있는 미국 기업을 표적으로 삼고 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426845)
+#### [미국 자동차 판매, 규제 불확실성에도 불구하고 2025년 2% 증가할 것으로 분석가들 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426846)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7203.T/total>
 #### [유니크레딧, 알파뱅크 직접 지분 및 의결권 약 29.8%로 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426835)
 #### [암스테르담과 파리의 항공, 기차, 도로 교통을 마비시킨 눈](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426838)
 #### [이탈리아, AI '환각' 위험 경고 약속 후 딥시크에 대한 조사 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426843)
@@ -55,18 +72,3 @@
 #### [GenNx360 캐피털 파트너스, 에어로 3, Inc. 를 VSE Corporation에 매각 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426789)
 #### [터키의 에르도안, 트럼프에게 베네수엘라가 불안정성에 끌려 가서는 안된다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426799)
 #### [캔들 레이크, 12월 29일 기준 플러터 엔터테인먼트 지분 15% 보고 - 파일링](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426796)
-#### [마쓰다 북미, 12월 총 판매량 32,610대 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426804)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7261.T/total>
-#### [링커 비전, 글로벌 AI 생태계 가속화를 위해 3,500만 달러 규모의 시리즈 A 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426798)
-#### [보잉, EAA와 플래티넘 레벨 스폰서십 지속 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426795)
-#### [포인트 광대역: Co와 클리어웨이브 광케이블의 결합](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426803)
-#### [L3해리스, 사업 재편 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426793)
-#### [베네수엘라의 석유 및 광업 부문: 큰 잠재력, 취약한 인프라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426794)
-#### [아르간 4분기 임대 수입 5,330만 유로 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426802)
-#### [GM, 4분기 미국 총 판매량 703,001대 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426792)
-#### [L3해리스, 우주 추진 사업 지분 60% 8억 4,500만 달러에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426782)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FLY.O/total>
-#### [취리히, 만테로를 재보험 그룹 총괄로 승진 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426778)
-#### [AT&T, 달라스 다운타운에서 인근 교외 지역인 플래노로 본사 이전 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426788)
-#### [미국 혼다, 12월 판매량 118,659대 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426781)
-#### [베네수엘라의 호르헤 로드리게스, 국회의장에 재임명되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426785)
