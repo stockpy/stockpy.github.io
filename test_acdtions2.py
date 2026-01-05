@@ -361,7 +361,6 @@ def __KO_ETF_Allocation() :
     print("# DF_ETF")
     print(DF_ETF)
 
-
     # DF_Pension_StockName = ['KODEX 200TR', 'KODEX 미국S&P500', 'KODEX iShares미국투자등급회사채액티브', 'KODEX 미국10년국채선물', 'KODEX 미국30년국채액티브(H)', 'KODEX 미국배당다우존스', 'TIGER 미국필라델피아반도체나스닥', 'ACE 테슬라밸류체인액티브']
     # PENSION_PRICES = [23165, 22635, 11810, 12300, 8825, 11080, 28175, 21870]
 
@@ -379,7 +378,15 @@ def __KO_ETF_Allocation() :
         'Alloc_C': PENSION_DIVIDENDS,
         'CALL': PENSION_CALL
         })
-                  
+    
+    output.write("<style>
+    table, th,td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        }
+    </style>
+    ")
+
     # pd.set_option('display.max_rows', n)
     # pd.set_option('display.max_columns', n)
     # pd.set_option('display.max_colwidth', 10)
