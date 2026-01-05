@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260105_1425 </title></head>
-<center>Vers : 20260105_1425 </center>
-<center>Vers : 20260105_2325 </center>
+<head><meta charset="utf-8"><title>Vers : 20260105_1451 </title></head>
+<center>Vers : 20260105_1451 </center>
+<center>Vers : 20260105_2351 </center>
 <br><br><br>
 #### ["삼성전자 18년 투자 인증"…"적금 2억 깨서 오늘 들어갑니다"](https://m.stock.naver.com/news/ranknews/view/421/0008697057)
 #### ["대세 계속 된다"...개미·외인이 던진 이 주식, 국민연금은 쓸어 담았다](https://m.stock.naver.com/news/ranknews/view/008/0005300443)
