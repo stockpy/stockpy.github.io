@@ -385,7 +385,7 @@ def __KO_ETF_Allocation() :
     # print(tabulate(df))
     # df.set_index('ETF_Name', inplace=True)
     # print(tabulate(df, headers=COLUMNS_V))
-    print(df.to_markdown())
+    print(df.to_markdown(index=False))
     output.write(df.to_markdown())
 
     # print("# ETF_Symbol_List.index(x)")
