@@ -16,6 +16,11 @@ from tabulate import tabulate
 pageSize=60
 headers={'user-agent': 'Mozilla/5.0'}
 
+# Pension List
+AMOUNT_BUDGET = 600000
+PENSION_PERCS = ['0%', '50%', '15%', '10%', '10%', '15%', '0%', '0%']
+PENSION_DIVIDENDS, PENSION_CALL = [], []
+
 def __Get_ETF_List() : # Market에 따른 기업명 Symbols를 가져온다
 
     DF_ETF_list = []
@@ -183,8 +188,7 @@ def __KO_ETF_Allocation() :
     DF_ETF_Profit = pd.DataFrame()
     DF_Pension = pd.DataFrame()
 
-    DF_Pension_List = []
-    DF_Pension_StockName = []
+    DF_Pension_StockName, PENSION_PRICES = [], []
 
     # 아래 ETF 리스트 중 ETF그룹을 선별
     
@@ -342,7 +346,7 @@ def __KO_ETF_Allocation() :
         print("# 마지막 종가 : %s, %i" % (ETF_Date_List[-1], ETF_Price_List[-1]))
 
         DF_Pension_StockName.append(ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)])
-        DF_Pension_List.append(ETF_Price_List[-1])
+        PENSION_PRICES.append(ETF_Price_List[-1])
 
         print("# Pension List")
         print(DF_Pension_StockName)
@@ -355,21 +359,48 @@ def __KO_ETF_Allocation() :
     print("# DF_ETF")
     print(DF_ETF)
 
-    print("# ETF_Symbol_List.index(x)")
-    for x in ETF_List :
-        print("# %s : %s" % (ETF_Symbol_List[ETF_Symbol_List.index(x)], ETF_stockName_List[ETF_Symbol_List.index(x)]))
 
-    print("# DF_ETF_Average")
-    print(DF_ETF_Average)
-    print(tabulate(DF_ETF_Average, headers='keys', tablefmt='psql'))
+    # DF_Pension_StockName = ['KODEX 200TR', 'KODEX 미국S&P500', 'KODEX iShares미국투자등급회사채액티브', 'KODEX 미국10년국채선물', 'KODEX 미국30년국채액티브(H)', 'KODEX 미국배당다우존스', 'TIGER 미국필라델피아반도체나스닥', 'ACE 테슬라밸류체인액티브']
+    # PENSION_PRICES = [23165, 22635, 11810, 12300, 8825, 11080, 28175, 21870]
 
-    print("# ETF History")
-    # print(DF_ETF_Average_Hist)
-    print(tabulate(DF_ETF_Average_Hist, headers='keys', tablefmt='psql'))
+    for index, price in enumerate(PENSION_PRICES):
+    #     print(index, price, PENSION_PERCS[index])
+        percentage_value = float(PENSION_PERCS[index].rstrip('%')) / 100
+        dividend_amount = int(AMOUNT_BUDGET * percentage_value)
+        PENSION_DIVIDENDS.append(dividend_amount)
+        PENSION_CALL.append(int(dividend_amount/PENSION_PRICES[index]))
 
-    print("# ETF History")
-    # print(DF_ETF_Average_Hist)
-    print(tabulate(DF_ETF_Profit, headers='keys', tablefmt='psql'))
+    df = pd.DataFrame({
+        'ETF_Name': DF_Pension_StockName,
+        'Alloc_P': PENSION_PERCS,
+        'Price': PENSION_PRICES,
+        'Alloc_C': PENSION_DIVIDENDS,
+        'CALL': PENSION_CALL
+        }
+                  
+    # pd.set_option('display.max_rows', n)
+    # pd.set_option('display.max_columns', n)
+    # pd.set_option('display.max_colwidth', 10)
+    # print(tabulate(df))
+    # df.set_index('ETF_Name', inplace=True)
+    # print(tabulate(df, headers=COLUMNS_V))
+    print(df.to_markdown())
+
+    # print("# ETF_Symbol_List.index(x)")
+    # for x in ETF_List :
+    #     print("# %s : %s" % (ETF_Symbol_List[ETF_Symbol_List.index(x)], ETF_stockName_List[ETF_Symbol_List.index(x)]))
+
+    # print("# DF_ETF_Average")
+    # print(DF_ETF_Average)
+    # print(tabulate(DF_ETF_Average, headers='keys', tablefmt='psql'))
+
+    # print("# ETF History")
+    # # print(DF_ETF_Average_Hist)
+    # print(tabulate(DF_ETF_Average_Hist, headers='keys', tablefmt='psql'))
+
+    # print("# ETF History")
+    # # print(DF_ETF_Average_Hist)
+    # print(tabulate(DF_ETF_Profit, headers='keys', tablefmt='psql'))
 
     # print("# HeatMap")
     # __HeatMap(DF_ETF)
