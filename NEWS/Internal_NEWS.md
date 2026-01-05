@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260105_1628 </title></head>
-<center>Vers : 20260105_1628 </center>
-<center>Vers : 20260106_0128 </center>
+<head><meta charset="utf-8"><title>Vers : 20260105_1654 </title></head>
+<center>Vers : 20260105_1654 </center>
+<center>Vers : 20260106_0154 </center>
 <br><br><br>
+#### [볼로냐 공항, 2025년 전년대비 3.4% 증가한 1,110만 명의 승객을 기록할 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426747)
+#### [다카르 2스테이지에서 도요타가 선두를 달리는 가운데 알-아티야가 랠리 하이파이브](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426742)
+#### [미국 3개월물 고금리 3.540%](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426744)
+#### [미국 6개월물 고금리 3.475%](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426746)
+#### [볼로냐 법원이 2월 6일까지 예방 조치 요청을 승인했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426741)
+#### [타타 모터스, 26 회계연도 3분기 JLR 판매량 59,200대, 25 회계연도 3분기 대비 43.3% 감소했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426743)
+#### [채굴업자들이 TSX를 사상 최고치로 밀어 올렸습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426745)
+#### [엔화 매도자는 위험에 대해 신중하게 진행합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426734)
+#### [무장 경비병들이 마두로를 감옥에서 뉴욕 법정으로 이송합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426739)
+#### [옥수수 기준 보합, 대두 기준 보합](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426736)
+#### [AI 붐은 초기 거품 단계에 있다고 브릿지워터 설립자 레이 달리오는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426733)
+#### [제네럴, 3억 5천만 파운드 6.269% 영구 고정/변동금리 채권 조기 상환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426738)
+#### [마두로 체포 이후 베네수엘라 내 국제 석유 기업의 현황은 어떤가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426735)
+#### [영국, 그루크의 성적인 사진에 대한 엘론 머스크의 X 답변 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426740)
+#### [피나클 파이낸셜, 파이퍼 샌들러가 '비중확대'로 업그레이드한 후 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426737)
 #### [자동차 파트너 예비조사. 12월 판매 수익 3억 2,200만 즐로티 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426732)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426726)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426723)
@@ -57,23 +72,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BLZE.O/total>
 #### [독점-노보 노디스크의 미국 홍보 책임자가 회사를 떠난다, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426694)
 #### [사틴 크레딧케어, 5억 루피의 그린슈 옵션 포함 10억 루피 상당의 NCD 발행 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426677)
-#### [킬로이 리얼티 코퍼레이션, 30만 평방 피트 추가 임대 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426662)
-#### [Dcx 시스템, 1억 1,330만 루피 상당의 구매 주문 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426666)
-#### [우트카르시 소액 금융 은행 총 대출 포트폴리오, 12월 말 기준 전년 대비 3.9% 감소한 1,830억 6,000만 루피](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426676)
-#### [텔레다인 플리어 OEM, CES에서 자율주행 및 ADAS용 Tura 자동차 인증 열화상 카메라 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426661)
-#### [퀘스트 뉴트리션, 새로운 칩 맛으로 고단백 스낵 라인 확장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426665)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMPL.O/total>
-#### [헤사이, 무빙과 파트너십 발표하며 3D 모션 캡처의 미래 재정의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426685)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2525.HK/total>
-#### [닷에이아이, 제품 전략을 이끌 최고전략책임자로 안스가르 티데 박사 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426660)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DAIC.O/total>
-#### [월즈 미네소타 주지사는 복지 사기 스캔들에 집중하기 위해 3선에 도전하지 않을 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426664)
-#### [버크셔 해서웨이, 알리안츠를 제치고 비은행 자산 기준 최대 보험사로 올라서다: AM Best](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426684)
-#### [뷰빅스, 퀀텀 엑스 랩 인수를 위한 주주 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426688)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VBIX.O/total>
-#### [미국 대형 은행의 급등? 월스트리트 랠리와 함께](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426663)
-#### [사브라 헬스케어 리츠, 최고투자책임자로 대린 스미스 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426683)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SBRA.O/total>
-#### [미국 농무부 곡물 수출 검사에 대한 무역 추정치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426687)
-#### [발트해 수중 사보타주 의심 사건의 타임라인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426669)
-#### [145개국 이상, 글로벌 최저세 협정 업데이트에 동의하며 미국의 우려 해소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426682)
