@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260105_2048 </title></head>
-<center>Vers : 20260105_2048 </center>
-<center>Vers : 20260106_0548 </center>
+<head><meta charset="utf-8"><title>Vers : 20260105_2059 </title></head>
+<center>Vers : 20260105_2059 </center>
+<center>Vers : 20260106_0559 </center>
 <br><br><br>
+#### [델시 로드리게스, 베네수엘라 임시 대통령 취임 선서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426920)
+#### [7월에 물러나는 델라웨어 대법관 발리후라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426923)
+#### [펀드, CBOT 곡물 및 대두 순매수, 트레이더들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426922)
+#### [아마존은 가격 폭리 소송에 직면해야한다, 미국 판사 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426919)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [1월 5일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426921)
+#### [베이스 입찰은 조용한 거래에서 꾸준히 유지됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426918)
+#### [이퀄라이파이낸셜, JP모건 체이스와 1억 달러 규모의 자본 시설 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426917)
+#### [미국 IPO를 위한 BRIEF-PicS N.V. 파일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426907)
+#### [FDA, 12세 이상 소아 환자의 희귀 혈액 질환 치료 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426913)
+#### [캐나다 달러가 베네수엘라 불확실성으로 G10 통화보다 뒤처짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426916)
+#### [펀드 매니저들이 최근 한 주 동안 S&P 500 선물 순매수 포지션을 늘렸습니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426912)
+#### [투기꾼들의 옥수수 순매도 포지션 증가 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426910)
+#### [투기꾼들이 미국 원유 순매도 증가-CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426915)
+#### [미국 곡물 선물이 수 주래 최저치에서 상승세로 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426909)
+#### [뉴욕타임스, 비영리 뉴스룸의 NYT 성 소수자 보도 비판에 대해 "사실과 다르다" 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426911)
+#### [미국 제조업 활동 부진에 BUZZ-AUD/USD 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426914)
+#### [뉴욕 법원 밖 시위대, 박수 치며 마두로 체포 규탄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426908)
 #### [미국 IPO를 위한 디지털 은행 PicPay 파일 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426903)
 #### [암스테르담의 눈으로 인해 화요일에 KLM이 300편의 항공편을 결항했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426901)
 #### [미국, 독감 등 4가지 소아 백신에 대한 광범위한 권장량 삭감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426905)
@@ -10,7 +28,7 @@
 #### [디지털 은행 PicPay, 미국 기업공개 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426899)
 #### [재생-EUR/USD 리스크, 지정학적 우려, 엔 매도세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426897)
 #### [인텔, 라스베이거스 CES에서 차세대 PC 칩 출시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426900)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMD.O/total>
 #### [미국 광대역 제공업체 Brightspeed, 보안 침해 주장 조사 - BleepingComputer](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426904)
 #### [CBOT 밀, 광범위한 매수세에 상승 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426906)
 #### [브라질 대통령, 토요일 베네수엘라 임시 대통령과 통화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426895)
@@ -48,24 +66,3 @@
 #### [힐튼의 미니애폴리스 호텔, 법 집행관 예약 취소, DHS는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426867)
 #### [미국, 아동 백신 접종 횟수를 줄이도록 권장하는 백신 일정 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426860)
 #### [유조선이 깃발이나 안전 서류 없이 베네수엘라에서 항해하는 것으로 나타났습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426863)
-#### [BofA 글로벌 리서치, 힐튼 월드와이드에 대한 PT를 324달러로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426866)
-#### [국채 수익률과 함께 하락하는 BUZZ-USD / JPY, 교차 압력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426859)
-#### [UBS가 주식을 '매수'로 상향 조정한 후 BUZZ-유나이티드 렌탈이 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426862)
-#### [골드만삭스, EMEA 지역에서 세컨더리 자문 프랜차이즈 출범, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426865)
-#### [미국 주식의 움직임-동기화 금융, 코인베이스, 버산트 미디어 그룹](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426861)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GHRS.O/total>
-#### [미국, 우라늄 농축을 위해 27 억 달러 상당의 주문 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426857)
-#### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426858)
-#### [트럼프가 베네수엘라 매장량에 대한 접근 신호를 보낸 후 미국 석유 재고가 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426856)
-#### [트럼프가 베네수엘라 매장량에 대한 접근 신호를 보낸 후 미국 석유 재고가 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426853)
-#### [스털링 오후 노람 오후 급등, 1.3559로 9월 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426850)
-#### [미국인의 33 %만이 미국의 베네수엘라 파업에 찬성, 로이터 / 입소스 여론 조사 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426855)
-#### [제나스, 면역 질환 치료제 데이터 부진으로 50% 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426852)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ZBIO.O/total>
-#### [CES 2026, 기술 혁신을 공개하는 AI가 중심이 되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426849)
-#### [노보 노디스크가 미국에서 웨고비 알약을 출시하면서 버즈-텔레헬스 주가가 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426854)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LFMD.O/total>
-#### [CES 2026, 기술 혁신을 공개하는 AI가 중심이 되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426851)
-#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426848)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
-#### [브라질 판사, 방코 마스터 사건에서 자산 매각 차단 고려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2426847)

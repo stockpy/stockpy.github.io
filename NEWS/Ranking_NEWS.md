@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260105_2048 </title></head>
-<center>Vers : 20260105_2048 </center>
-<center>Vers : 20260106_0548 </center>
+<head><meta charset="utf-8"><title>Vers : 20260105_2059 </title></head>
+<center>Vers : 20260105_2059 </center>
+<center>Vers : 20260106_0559 </center>
 <br><br><br>
 #### ["삼성전자 18년 투자 인증"…"적금 2억 깨서 오늘 들어갑니다"](https://m.stock.naver.com/news/ranknews/view/421/0008697057)
 #### [SK하닉도, 삼전도 아녔다…주식 큰손들, '이것' 쓸어담았다 [코스피 고수Pick]](https://m.stock.naver.com/news/ranknews/view/243/0000090669)
