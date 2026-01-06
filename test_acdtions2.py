@@ -300,108 +300,11 @@ def __KO_ETF_Allocation() :
     seoul_time = utc_now + timedelta(hours=9)
     formatted_time = seoul_time.strftime("%Y%m%d_%H%M")
     
-    output.write('<center>Vers : %s </center>\n' % DateTime_TT)
-    output.write('<center>Vers : %s </center>\n' % formatted_time)
-    output.write('<br><br><br>\n')
+    # output.write('<center>Vers : %s </center>\n' % DateTime_TT)
+    # output.write('<center>Vers : %s </center>\n' % formatted_time)
+    # output.write('<br><br><br>\n')
 
     print(df.to_markdown(index=False))
     output.write(df.to_markdown())
-
-def __Mix_Allocation() :
-
-    EN_DF_ETF, KO_DF_ETF = pd.DataFrame(), pd.DataFrame()
-    EN_ETF_List = ["IEF.O", "SPY", "AOR", "VT", "EEM", "TLT.O", "BWX", "GLD", "DBC", "BIL"]
-    KO_ETF_List = ["272580", "114820", "360750", "225060", "102110", "069500"]
-
-    for ETF_Symbol in EN_ETF_List :
-        Date_List, Price_List = __US_ETF_Price(ETF_Symbol)
-        EN_DF_ETF["DATE_List"] = Date_List[:250]
-        EN_DF_ETF[ETF_Symbol] = Price_List[:250]
-        EN_DF_ETF[ETF_Symbol] = round(EN_DF_ETF[ETF_Symbol].astype(float))
-
-    for ETF_Symbol in KO_ETF_List :
-        Date_List, Price_List = __Get_ETF_Price(ETF_Symbol)
-        KO_DF_ETF["DATE_List"] = Date_List[:250]
-        KO_DF_ETF[ETF_Symbol] = Price_List[:250]
-        KO_DF_ETF[ETF_Symbol] = round(KO_DF_ETF[ETF_Symbol].astype(float))
-
-    print("# DF_ETF EN")
-    print(EN_DF_ETF)
-
-    print("# DF_ETF KO")
-    print(KO_DF_ETF)
-
-    Mix_DF_ETF = pd.DataFrame()
-    print("# For Start")
-    for index, row in KO_DF_ETF.iterrows() :
-        if row["DATE_List"] in EN_DF_ETF.values :
-            print("# True")
-            print(type(row)) # <class 'pandas.core.series.Series'>
-            print(index)
-            print(row)
-            print(row.iloc[index])
-            print(type(EN_DF_ETF.loc[EN_DF_ETF["DATE_List"] == row["DATE_List"]])) # <class 'pandas.core.frame.DataFrame'>
-            print(EN_DF_ETF.loc[EN_DF_ETF["DATE_List"] == row["DATE_List"]])
-            # DF_Length = len(Mix_DF_ETF)
-            # Mix_DF_ETF.loc[DF_Length] = LIST
-            Mix_DF_ETF = pd.concat([row,EN_DF_ETF.loc[EN_DF_ETF["DATE_List"] == row["DATE_List"]]], axis=1, join='inner')
-            # Mix_DF_ETF = pd.concat([row,df2],axis=1, join='inner')
-        else :
-            print("# False")
-            print(row["DATE_List"])
-    print("# For Done")
-
-    print(Mix_DF_ETF)
-
-    DF_ETF = pd.merge(left = EN_DF_ETF , right = KO_DF_ETF, how = "outer", on = "Date_List")
-
-        # df.loc[df['column_name'] == some_value]
-        # dataFrame[dataFrame['column name'].str.match('string')]
-
-
-    print("# Total DF_ETF")
-    print(DF_ETF)
-
-def __US_ETF_Price(Symbol) :
-
-    Date_List, Price_List = [], []
-    for i in range(1,500) : # 60*50 = 3000 개 기업을 가져오지만 페이지는 그만큼 없음
-        url = 'https://api.stock.naver.com/stock/'+Symbol+'/price?page='+str(i)+'&pageSize='+str(pageSize)
-        print(url)
-        req = requests.get(url, headers=headers)
-        j = json.loads(req.text) # to Dictionary
-        # print(type(j)) # <class 'list'>
-        # print(len(j)) # <class 'list'>
-        if len(j) == 0 :
-            # print("# For 1 out")
-            break
-        
-        Breaker_2 = False
-        for x in range(len(j)) :
-            for j_key, j_value in j[x].items():
-                # print("# 2 - Key : %s, Value : %s" % (j_key, j_value))
-                if j_key == '' :
-                    Breaker_2 = True
-                else :
-                    if j_key == "localTradedAt" :
-                        j_value = j_value[:10]
-                        ETF_Date = datetime.strptime(j_value, "%Y-%m-%d")
-                        Date_List.append(j_value)
-                    if j_key == "closePrice" :
-                        j_value = j_value.replace(",","")
-                        # print("# 2 - Key : %s, Value : %s" % (j_key, j_value))
-                        Price_List.append(j_value)
-            if Breaker_2 == True :
-                print("# Breaker 2")
-                Breaker_1 = True
-                break
-        if Breaker_2 == True :
-            print("# Breaker 1")
-            break
-
-    print(Date_List)
-    print(Price_List)
-
-    return Date_List, Price_List
 
 __KO_ETF_Allocation()
