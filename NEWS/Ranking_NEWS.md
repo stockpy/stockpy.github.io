@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260106_1024 </title></head>
-<center>Vers : 20260106_1024 </center>
-<center>Vers : 20260106_1924 </center>
+<head><meta charset="utf-8"><title>Vers : 20260106_1049 </title></head>
+<center>Vers : 20260106_1049 </center>
+<center>Vers : 20260106_1949 </center>
 <br><br><br>
 #### [“3억 손절, 다 잃고 떠난다”…예상 밖 랠리에 초토화 된 ‘종목 토론방’ 무슨 일?](https://m.stock.naver.com/news/ranknews/view/009/0005617080)
 #### ["3억5000만원 손실, 다 잃고 떠납니다"…코스피 랠리에 오열하는 '종목 토론방'](https://m.stock.naver.com/news/ranknews/view/011/0004575454)
