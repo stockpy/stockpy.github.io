@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260106_1658 </title></head>
-<center>Vers : 20260106_1658 </center>
-<center>Vers : 20260107_0158 </center>
+<head><meta charset="utf-8"><title>Vers : 20260106_1730 </title></head>
+<center>Vers : 20260106_1730 </center>
+<center>Vers : 20260107_0230 </center>
 <br><br><br>
 #### ["주당 7800원에 전재산 올인"…SK하닉 '전설의 직원' 재조명 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005233639)
 #### ["3억5000만원 손실, 다 잃고 떠납니다"…코스피 랠리에 오열하는 '종목 토론방'](https://m.stock.naver.com/news/ranknews/view/011/0004575454)
