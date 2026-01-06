@@ -293,11 +293,11 @@ def __KO_ETF_Allocation() :
         PENSION_CALL.append(int(dividend_amount/PENSION_PRICES[index]))
 
     for idx, val in enumerate(list(MY_STOCK_COUNT_Dict.values())) :
-    print("%s, %i" %(DF_Pension_StockName[idx], PENSION_PRICES[idx]*val))
-    Result = int(PENSION_PRICES[idx]*val)
-    MY_STOCK_PRICE.append(Result)
-    sum+=Result
-    if PENSION_PERCS[idx] != '0%' :
+      print("%s, %i" %(DF_Pension_StockName[idx], PENSION_PRICES[idx]*val))
+      Result = int(PENSION_PRICES[idx]*val)
+      MY_STOCK_PRICE.append(Result)
+      sum+=Result
+      if PENSION_PERCS[idx] != '0%' :
         sum1+=Result
 
     for idx, val in enumerate(MY_STOCK_PRICE) :
