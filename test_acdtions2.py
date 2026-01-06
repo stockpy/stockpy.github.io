@@ -214,10 +214,6 @@ def __KO_ETF_Allocation() :
 
         ETF_StockName = ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)]
 
-        DF_ETF['DATE'] = ETF_Date_List[:250]
-        DF_ETF[ETF_StockName] = ETF_Price_List[:250]
-        DF_ETF[ETF_StockName] = round(DF_ETF[ETF_StockName].astype(float))
-
         ETF_Price_List = [int(i) for i in ETF_Price_List]
 
         print("# %s : %s" % (ETF_Symbol_List[ETF_Symbol_List.index(ETF_Symbol)], ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)]))
@@ -225,9 +221,6 @@ def __KO_ETF_Allocation() :
 
         DF_Pension_StockName.append(ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)])
         PENSION_PRICES.append(ETF_Price_List[-1])
-
-    print("# DF_ETF")
-    print(DF_ETF)
 
     for index, price in enumerate(PENSION_PRICES):
     #     print(index, price, PENSION_PERCS[index])
