@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260106_2045 </title></head>
-<center>Vers : 20260106_2045 </center>
-<center>Vers : 20260107_0545 </center>
+<head><meta charset="utf-8"><title>Vers : 20260106_2056 </title></head>
+<center>Vers : 20260106_2056 </center>
+<center>Vers : 20260107_0556 </center>
 <br><br><br>
+#### [ICE, FCOJ 선물 일일 가격 한도를 파운드당 25센트로 인상하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428324)
+#### [브라질의 생두 수출이 3월 이후 처음으로 연간 증가세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428327)
+#### [캐나다 은행, 최대 5억 캐나다 달러 규모의 채권 매입 - RTRS](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428325)
+#### [스코티아뱅크 CEO 스콧 톰슨, 특히 투자 은행 사업을 위해 인재를 계속 추가할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428323)
+#### [우크라이나 안보 보장에 관한 파리 회의의 주요 인용문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428322)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428326)
 #### [아르헨티나, 주요 부채 상환을 앞두고 외환보유고 강화 움직임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428317)
 #### [펀드, CBOT 대두 및 대두유 순 판매자, 거래자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428319)
 #### [기술적 매도 압력으로 CBOT 밀이 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428321)
@@ -68,10 +74,3 @@
 #### [에버스팬, 프로그램 계약 위반 혐의로 카디건과 부모 벤브룩 고소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428267)
 #### [우크라이나에 대한 보안 프로토콜이 대부분 완료되었다고 미국 특사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428271)
 #### [미국의 베네수엘라 공격으로 사망 한 여성을 가족이 묻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428266)
-#### [토론토-토론토 도미니언 은행 CEO 레이몬드 천이 RBC 캐피탈 마켓 캐나다 은행 CEO 컨퍼런스에서 연설하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428273)
-#### [스타머 영국 총리, 우크라이나에 '가장 힘든 시기'를 앞두고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428270)
-#### [시리아, 이스라엘 철수에 대한 명확한 구속력있는 일정 없이는 회담 진전이 불가능하다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428265)
-#### [코메리카 주주들, Fifth Third Bancorp와 109억 달러 규모의 거래 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428272)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FITB.O/total>
-#### [연준 매파와 비둘기파: 미국 중앙은행 인사들의 발언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428269)
-#### [마두로 정권의 베네수엘라, 스위스에 52억 달러 상당의 금 선적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428258)
