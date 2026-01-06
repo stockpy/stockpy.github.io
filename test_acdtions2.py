@@ -280,17 +280,11 @@ def __KO_ETF_Allocation() :
     output.write(".tg .tg-0lax{text-align:left;vertical-align:top}\n")
     output.write("</style>\n")
     output.write("<center>\n")
-    output.write("<table class=\"tg\">\n")
-    output.write("<thead>\n")
-    output.write("</thead>\n")
-    output.write("<tbody>\n")
 
     print(df.to_markdown(index=False))
     # output.write(df.to_markdown())
-    output.write(df.to_html())
+    output.write(df.to_html(classes='tg'))
 
-    output.write("</tbody>\n")
-    output.write("</table>\n")
     output.write("</center>\n")
 
 __KO_ETF_Allocation()
