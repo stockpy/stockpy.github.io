@@ -1,3 +1,15 @@
+<style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<center>
+<table class="tg">
+<thead>
+</thead>
+<tbody>
 |    | ETF_Name                  | Alloc_P   |   Price |   Alloc_C |   CALL | MY_PERC   |
 |---:|:--------------------------|:----------|--------:|----------:|-------:|:----------|
 |  0 | KODEX 200TR               | 0%        |   23805 |         0 |      0 | 0%        |
@@ -7,4 +19,6 @@
 |  4 | KODEX 미국30년국채액티브(H)       | 10%       |    8810 |     60000 |      6 | 7.0%      |
 |  5 | KODEX 미국배당다우존스            | 15%       |   11090 |     90000 |      8 | 11.0%     |
 |  6 | TIGER 미국필라델피아반도체나스닥       | 0%        |   28465 |         0 |      0 | 0%        |
-|  7 | ACE 테슬라밸류체인액티브            | 0%        |   22280 |         0 |      0 | 0%        |
+|  7 | ACE 테슬라밸류체인액티브            | 0%        |   22280 |         0 |      0 | 0%        |</tbody>
+</table>
+</center>
