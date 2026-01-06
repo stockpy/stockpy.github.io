@@ -6,20 +6,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <center>
-<table class="tg">
-<thead>
-</thead>
-<tbody>
-|    | ETF_Name                  | Alloc_P   |   Price |   Alloc_C |   CALL | MY_PERC   |
-|---:|:--------------------------|:----------|--------:|----------:|-------:|:----------|
-|  0 | KODEX 200TR               | 0%        |   23805 |         0 |      0 | 0%        |
-|  1 | KODEX 미국S&P500            | 50%       |   22755 |    300000 |     13 | 56.0%     |
-|  2 | KODEX iShares미국투자등급회사채액티브 | 15%       |   11805 |     90000 |      7 | 11.0%     |
-|  3 | KODEX 미국10년국채선물           | 10%       |   12295 |     60000 |      4 | 15.0%     |
-|  4 | KODEX 미국30년국채액티브(H)       | 10%       |    8810 |     60000 |      6 | 7.0%      |
-|  5 | KODEX 미국배당다우존스            | 15%       |   11090 |     90000 |      8 | 11.0%     |
-|  6 | TIGER 미국필라델피아반도체나스닥       | 0%        |   28465 |         0 |      0 | 0%        |
-|  7 | ACE 테슬라밸류체인액티브            | 0%        |   22280 |         0 |      0 | 0%        |<table border="1" class="dataframe">
+<table border="1" class="dataframe tg">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -105,6 +92,4 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <td>0%</td>
     </tr>
   </tbody>
-</table></tbody>
-</table>
-</center>
+</table></center>
