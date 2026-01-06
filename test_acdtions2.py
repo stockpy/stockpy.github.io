@@ -272,7 +272,24 @@ def __KO_ETF_Allocation() :
     # output.write('<center>Vers : %s </center>\n' % formatted_time)
     # output.write('<br><br><br>\n')
 
+    output.write("<style type=\"text/css\"> .tg  {border-collapse:collapse;border-spacing:0;}\n")
+    output.write(".tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n")
+    output.write("overflow:hidden;padding:10px 5px;word-break:normal;}\n")
+    output.write(".tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n")
+    output.write("font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n")
+    output.write(".tg .tg-0lax{text-align:left;vertical-align:top}\n")
+    output.write("</style>\n")
+    output.write("<center>\n")
+    output.write("<table class=\"tg\">\n")
+    output.write("<thead>\n")
+    output.write("</thead>\n")
+    output.write("<tbody>\n")
+
     print(df.to_markdown(index=False))
     output.write(df.to_markdown())
+
+    output.write("</tbody>\n")
+    output.write("</table>\n")
+    output.write("</center>\n")
 
 __KO_ETF_Allocation()
