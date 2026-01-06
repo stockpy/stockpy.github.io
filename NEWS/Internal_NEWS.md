@@ -1,7 +1,26 @@
-<head><meta charset="utf-8"><title>Vers : 20260106_1832 </title></head>
-<center>Vers : 20260106_1832 </center>
-<center>Vers : 20260107_0332 </center>
+<head><meta charset="utf-8"><title>Vers : 20260106_1856 </title></head>
+<center>Vers : 20260106_1856 </center>
+<center>Vers : 20260107_0356 </center>
 <br><br><br>
+#### [EU 밀은 안정적이고 유채는 이익을 확대합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428239)
+#### [USD / JPY는 견고하고 달러는 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428234)
+#### [G7 외무 장관, 화요일 늦게 통화에서 베네수엘라와 우크라이나 논의 -- 프랑스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428243)
+#### [프랑스, 영국, 우크라이나, 향후 우크라이나에 다국적군 배치에 대한 의향서 서명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428238)
+#### [독점-코메리카 주주들, 피프스 서드 뱅코프와 109억 달러 규모의 거래 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428233)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FITB.O/total>
+#### [엔비디아, 자율 주행 차량용 오픈 소스 AI 모델 공개 후 버즈-테슬라 다운](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428242)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LYFT.O/total>
+#### [공급 우려와 베네수엘라 불확실성으로 원유 가격이 하락하면서 에너지 기업 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428237)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/APA.O/total>
+#### [브라질 페트로브라스, 유체 누출 후 포즈 두 아마조나스 시추 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428232)
+#### [이스라엘, 시리아, 전용 통신 셀에 동의, 미국은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428241)
+#### [2026년 집단 소송 항소심에 맞서 싸우는 미국 기업들에 수십억 달러의 균형이 유지됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428236)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
+#### [메타, 미국 수요 강세와 공급 압박으로 레이밴 디스플레이 안경의 글로벌 출시 연기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428231)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [트럼프는 아내 멜라니아가 그의 춤을 싫어한다고 말한다 : '그것은 너무 비 대통령적이다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428240)
+#### [우크라이나의 동맹국들이 나토 스타일의 안보 보장을 추진한다고 이탈리아는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428235)
+#### [판사, 트랜스젠더 치료에 대한 콜로라도 아동 병원에 대한 법무부의 소환장 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428230)
 #### [스페인, 우크라이나에 군사 참여 제안 "평화 공고화"](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428216)
 #### [미지근한 글로벌 PMI 데이터 이후 수개월 만에 최고치를 경신한 버즈-스털링이 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428227)
 #### [이스라엘, 시리아와의 회담에서 지역 안정에 대한 약속 재차 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428218)
@@ -59,17 +78,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8246.HK/total>
 #### [NBC유니버설, RPA, 프리휠 및 뉴턴 리서치, 프리미엄 비디오를 위한 선형 및 디지털 전반의 에이전트 AI 구매 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428188)
 #### [UBS, 모기지 금리 인상으로 빌더스 퍼스트소스 PT 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428173)
-#### [록히드 마틴, 패트리어트 미사일 생산 능력 3배 이상 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428186)
-#### [페트로브라스, 유체 누출 후 포즈 두 아마조나스 작전 중단, CNN 브라질 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428172)
-#### [포티지가 상승 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428181)
-#### [브라질 보우소나루, 낙상 후 병원에 가기 위해 법원 승인을 기다리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428185)
-#### [미국 원유, 제품 재고는 지난주 상승했을 가능성이 높습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428184)
-#### [CPC, 로딩 재개, 가격 논의 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428180)
-#### [디젤 이익률 3% 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428177)
-#### [트럼프의 관세가 위태로운 가운데, 미국 대법원은 금요일에 판결을 내릴 계획입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428183)
-#### [엔비디아 CEO 황의 발언 이후 데이터센터 냉각 관련 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428179)
-#### [셰브론은 베네수엘라 석유를 계속 선적하고 있지만 중국 구매자를 위해 선적을 보류하고 있다고 선적 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428176)
-#### [눈이 계속됨에 따라 수요일에 암스테르담에서 KLM 600 편을 폐기합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428175)
-#### [산타는 나타나지 않았지만 1월에 선물을 가져올지도 모른다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428178)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428171)
-#### [노스랜드 파워 131MW 이리쿼이 폭포 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428164)
