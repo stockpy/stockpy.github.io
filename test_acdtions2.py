@@ -9,7 +9,7 @@ import platform
 # import datetime, time # for sleep
 # import matplotlib.pyplot as plt
 # from matplotlib import rc
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from tabulate import tabulate
 
 File_Name = "NEWS/Today_Invest.md"
