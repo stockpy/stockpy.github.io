@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260106_0440 </title></head>
-<center>Vers : 20260106_0440 </center>
-<center>Vers : 20260106_1340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260106_0503 </title></head>
+<center>Vers : 20260106_0503 </center>
+<center>Vers : 20260106_1403 </center>
 <br><br><br>
 #### [“3억 손절, 다 잃고 떠난다”…예상 밖 랠리에 초토화 된 ‘종목 토론방’ 무슨 일?](https://m.stock.naver.com/news/ranknews/view/009/0005617080)
 #### ["지금 안사면 늦는다" 초고수도 18만전자·80만닉스에 베팅[주식 초고수는 지금]](https://m.stock.naver.com/news/ranknews/view/011/0004575273)
