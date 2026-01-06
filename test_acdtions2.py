@@ -23,6 +23,17 @@ AMOUNT_BUDGET = 600000
 PENSION_PERCS = ['0%', '50%', '15%', '10%', '10%', '15%', '0%', '0%']
 PENSION_DIVIDENDS, PENSION_CALL = [], []
 
+MY_STOCK_PRICE, MY_PERC = [], []
+# MY_STOCK_COUNT = [191, 507, 193, 259, 175, 197, 1054, 795]
+MY_STOCK_COUNT_Dict = {'KODEX 200TR' : 191,
+                       'KODEX 미국S&P500' : 507,
+                       'KODEX iShares미국투자등급회사채액티브' : 193,
+                       'KODEX 미국10년국채선물' : 259,
+                       'KODEX 미국30년국채액티브(H)' : 175,
+                       'KODEX 미국배당다우존스' : 197,
+                       'TIGER 미국필라델피아반도체나스닥' : 1054,
+                       'ACE 테슬라밸류체인액티브' : 795}
+
 def __Get_ETF_List() : # Market에 따른 기업명 Symbols를 가져온다
 
     DF_ETF_list = []
@@ -180,7 +191,8 @@ def __KO_ETF_Allocation() :
     DF_Pension = pd.DataFrame()
 
     DF_Pension_StockName, PENSION_PRICES = [], []
-
+    sum, sum1 =0, 0
+    
     # 아래 ETF 리스트 중 ETF그룹을 선별
     ETF_List = ["278530", "379800", "468630", "308620", "484790", "489250", "381180", "457480"]
     # 278530 코스피 KODEX 200TR
@@ -280,6 +292,24 @@ def __KO_ETF_Allocation() :
         PENSION_DIVIDENDS.append(dividend_amount)
         PENSION_CALL.append(int(dividend_amount/PENSION_PRICES[index]))
 
+    for idx, val in enumerate(list(MY_STOCK_COUNT_Dict.values())) :
+    print("%s, %i" %(DF_Pension_StockName[idx], PENSION_PRICES[idx]*val))
+    Result = int(PENSION_PRICES[idx]*val)
+    MY_STOCK_PRICE.append(Result)
+    sum+=Result
+    if PENSION_PERCS[idx] != '0%' :
+        sum1+=Result
+
+    for idx, val in enumerate(MY_STOCK_PRICE) :
+        if PENSION_PERCS[idx] != '0%' :
+            print(f"{round((val/sum1*100), 0)}%")
+            MY_PERC.append(f"{round((val/sum1*100), 0)}%")
+        else :
+            MY_PERC.append("0%")
+
+    print("# MY_PERC")
+    print(MY_PERC)
+    
     df = pd.DataFrame({
         'ETF_Name': DF_Pension_StockName,
         'Alloc_P': PENSION_PERCS,
@@ -294,6 +324,7 @@ def __KO_ETF_Allocation() :
     # print(tabulate(df))
     # df.set_index('ETF_Name', inplace=True)
     # print(tabulate(df, headers=COLUMNS_V))
+    df['MY_PERC'] = MY_PERC
     
     DateTime_TT = datetime.today().strftime("%Y%m%d_%H%M")
     utc_now = datetime.now(timezone.utc)
