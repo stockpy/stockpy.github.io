@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260106_2244 </title></head>
-<center>Vers : 20260106_2244 </center>
-<center>Vers : 20260107_0744 </center>
+<head><meta charset="utf-8"><title>Vers : 20260106_2256 </title></head>
+<center>Vers : 20260106_2256 </center>
+<center>Vers : 20260107_0756 </center>
 <br><br><br>
+#### [실리콘랩스, 엔터프라이즈 보안 전략을 이끌 최고정보보안책임자로 이안 도슨 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428441)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SLAB.O/total>
+#### [Agf, 2025년 12월 관리 자산 및 수수료 수익 자산 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428442)
+#### [AIG - 에릭 앤더슨, CEO로서 초기 연간 목표 직접 보수는 1,400만 달러로, 연간 기본급 125만 달러로 구성 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428439)
+#### [멀비힐 강화 분할 우선주 ETF, 월별 분배금 지급 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428443)
+#### [미국 곡물 바지선 운임 값은? Jan 6](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428438)
+#### [Onestream Inc - Onestream, 일부 상황에서 합병 종료 시 2억 7천만 달러의 수수료 지급 예정(영문)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428440)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OS.O/total>
 #### [젤렌스키: 파리 회의에서 합의된 내용은 연합의 진지함을 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428437)
 #### [CME 소 선물은 미국의 타이트한 공급으로 10월 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428436)
 #### [프리미엄 인컴 코퍼레이션, 클래스 A 주식 분할 및 총 배당금 증가 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428430)
@@ -68,11 +76,3 @@
 #### [북미, 1월 7일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428381)
 #### [센트러스, 미국의 국내 우라늄 농축 추진에 따라 9억 달러 규모의 DOE 과제 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428387)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428376)
-#### [브라질 엠브라에르, 4분기에 91대의 항공기 인도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428385)
-#### [트럼프, 그린란드 인수 방법 논의, 미군은 항상 옵션이라고 백악관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428386)
-#### [넷캐피탈, 아이버슨 디자인 자산 및 독점 AI 설계 기술 제품군 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428375)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NCPL.O/total>
-#### [센트러스, 미국 에너지부로부터 9억 달러 규모의 과제 수주 확보, 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428384)
-#### [모바일아이, 휴머노이드 로봇 스타트업 멘티와 9억 달러 계약 체결 후 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428371)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MBLY.O/total>
-#### [미국, 파리에서 열린 키예프 동맹국 정상 회담에서 우크라이나에 대한 안보 보장 지원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428374)
