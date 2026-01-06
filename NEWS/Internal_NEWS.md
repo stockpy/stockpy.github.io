@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260106_2024 </title></head>
-<center>Vers : 20260106_2024 </center>
-<center>Vers : 20260107_0524 </center>
+<head><meta charset="utf-8"><title>Vers : 20260106_2045 </title></head>
+<center>Vers : 20260106_2045 </center>
+<center>Vers : 20260107_0545 </center>
 <br><br><br>
+#### [아르헨티나, 주요 부채 상환을 앞두고 외환보유고 강화 움직임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428317)
+#### [펀드, CBOT 대두 및 대두유 순 판매자, 거래자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428319)
+#### [기술적 매도 압력으로 CBOT 밀이 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428321)
+#### [미국산 오일 및 지방 - 1월 6일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428320)
+#### [석유 CEO들은 이르면 목요일 백악관을 방문하여 베네수엘라에 대해 논의 할 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428318)
+#### [와이오밍 대법원, 낙태 금지를 폐기하고 절차를 합법적으로 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428316)
+#### [분석-베네수엘라 석유는 미국 정유 업체를 강화하고 캐나다 생산자에게 피해를 줄 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428312)
+#### [건강 회진: AI는 수면 연구 데이터를 사용하여 수십 가지 건강 문제를 정확하게 예측합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428314)
+#### [재생-호주 강세, 스털링 압력, 엔화 장애물](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428315)
+#### [xAI, 시리즈 E에서 200억 달러 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428311)
+#### [독점-베네수엘라, 미국, 미국으로의 베네수엘라 석유 수출 협상 중, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428313)
 #### [CBOT 대두가 하락세로 돌아서고 USDA는 중국이 미국 공급을 구매했다고 확인했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428308)
 #### [미국 천연가스 선물이 온화한 겨울 날씨로 수요가 억제되면서 5% 하락해 10주 최저치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428309)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EXE.O/total>
@@ -64,16 +75,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FITB.O/total>
 #### [연준 매파와 비둘기파: 미국 중앙은행 인사들의 발언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428269)
 #### [마두로 정권의 베네수엘라, 스위스에 52억 달러 상당의 금 선적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428258)
-#### [소 118,000마리, 돼지 495,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428259)
-#### [2026년 동계 올림픽 광고 슬롯이 '전례 없는' 수요로 매진된 NBC유니버설의 광고 캠페인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428257)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CMCSA.O/total>
-#### [연준 은행 대다수, 12월 할인율 변경에 반대 투표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428255)
-#### [젤렌스키에 따르면 동맹국들은 전후 억지력을 어떻게 운용할지 결정했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428261)
-#### [유럽 지도자들, 미국의 새로운 위협에 그린란드 지지 집결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428256)
-#### [에버코어 ISI, 메트라이프 신용등급 하향 조정, 풍부한 밸류에이션 인용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428254)
-#### [프레빅, 결승에서 쵸페닉에게 패했지만 포 힐스 종합 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428260)
-#### [미국 주식이 움직인다-유나이티드 항공 홀딩스, 에너지 기업, 테슬라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428262)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ALMS.O/total>
-#### [위트 코프 미국 특사, 안보 보장을 포함한 우크라이나 회담에서 상당한 진전 언급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428250)
-#### [우크라이나의 동맹국들이 나토 스타일의 안보 보장을 추진한다고 이탈리아는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428248)
-#### [마크롱 프랑스 대통령 : 안보 보장 서명은 우크라이나의 미래 침략을 설득 할 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428253)
