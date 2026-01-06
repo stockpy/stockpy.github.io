@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260106_2222 </title></head>
-<center>Vers : 20260106_2222 </center>
-<center>Vers : 20260107_0722 </center>
+<head><meta charset="utf-8"><title>Vers : 20260106_2244 </title></head>
+<center>Vers : 20260106_2244 </center>
+<center>Vers : 20260107_0744 </center>
 <br><br><br>
+#### [젤렌스키: 파리 회의에서 합의된 내용은 연합의 진지함을 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428437)
+#### [CME 소 선물은 미국의 타이트한 공급으로 10월 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428436)
+#### [프리미엄 인컴 코퍼레이션, 클래스 A 주식 분할 및 총 배당금 증가 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428430)
+#### [수출업자가 미국산 대두를 중국에 판매 - USDA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428434)
+#### [머피 석유 공사, 신용 시설 만기를 2031년 1월 2일까지 연장 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428432)
+#### [프리미엄 글로벌 소득 분할 Corp. 월별 분배 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428435)
+#### [아다마스 트러스트, Inc. 선순위 채권 공모 가격 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428433)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ADAM.O/total>
+#### [미들비 코퍼레이션, 가든 인베스트먼트 매니지먼트와 협력 계약 수정 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428431)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MIDD.O/total>
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428429)
+#### [중요한 데이터 업데이트가 다가오면서 BUZZ-EUR/USD가 하락세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428428)
+#### [트럼프, 백악관에서 석유 회사들과 베네수엘라 관련 회의 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428425)
+#### [브라질 엠브라에르, 4분기에 91대의 비행기를 인도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428427)
+#### [CNH 산업 자본 LLC 5억 달러 어음의 가격 책정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428424)
+#### [버즈 리테일 리츠 탠저, 2억 달러 규모의 교환 가능한 상품 공개 후 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428426)
 #### [브라데스코 게스타오 드 사우드, 오돈토프레브 지분을 브래드세그에 양도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428414)
 #### [슈퍼마이크로 컴퓨터, 새로운 리볼빙 크레딧 시설에 진출 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428423)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMCI.O/total>
@@ -60,21 +76,3 @@
 #### [모바일아이, 휴머노이드 로봇 스타트업 멘티와 9억 달러 계약 체결 후 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428371)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MBLY.O/total>
 #### [미국, 파리에서 열린 키예프 동맹국 정상 회담에서 우크라이나에 대한 안보 보장 지원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428374)
-#### [콥트 디펜스, 메릴랜드 대학교 디스커버리 디스트릭트에 110,000평방피트 규모의 빌드 투 슈트 임대 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428383)
-#### [브라질의 면화 수출이 아시아 수요로 12월 사상 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428370)
-#### [럼블, 노던 데이터와의 사업 결합 제안과 관련하여 S-4 양식의 등록 명세서 초안 기밀 제출 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428380)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RUM.O/total>
-#### [새로운 부품 유통 부문의 호조로 AAR Corp 2분기 매출이 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428382)
-#### [헌팅턴 뱅크셰어스와 케이던스 은행 주주, 보류 중인 합병 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428379)
-#### [칩 주식이 AI 낙관론에 뛰어 오르다; 다우 지수는 사상 최고치로 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428373)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SNDK.O/total>
-#### [루니 약세로 ICE 카놀라 선물이 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428369)
-#### [데이터 센터 기업 Penguin의 1분기 조정 수익이 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428378)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428372)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428357)
-#### [애콘 유틸리티, 고전압 테스트, 시운전 및 계량 솔루션 계약업체 KPC 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428354)
-#### [미국 주식, 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428350)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [알루미스, 보통주 공모 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428356)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ALMS.O/total>
-#### [아크락, 8억 달러 규모의 선순위 채권 규모 및 가격 상향 조정 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2428353)
