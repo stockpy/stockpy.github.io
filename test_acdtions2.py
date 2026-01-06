@@ -219,51 +219,6 @@ def __KO_ETF_Allocation() :
         DF_ETF[ETF_StockName] = round(DF_ETF[ETF_StockName].astype(float))
 
         ETF_Price_List = [int(i) for i in ETF_Price_List]
-        ETF_Mean_Now = ETF_Price_List[0]
-        ETF_Mean_2M = sum(ETF_Price_List[20:40]) / len(ETF_Price_List[20:40]) # 한달은 대충 20일
-        ETF_Mean_3M = sum(ETF_Price_List[41:60]) / len(ETF_Price_List[41:60]) # 한달은 대충 20일
-        ETF_Mean_4M = sum(ETF_Price_List[61:80]) / len(ETF_Price_List[61:80]) # 석달은 대충 60일
-        ETF_Mean_5M = sum(ETF_Price_List[81:100]) / len(ETF_Price_List[81:100]) # 석달은 대충 60일
-        ETF_Mean_6M = sum(ETF_Price_List[111:120]) / len(ETF_Price_List[111:120]) # 석달은 대충 60일
-        ETF_Mean_7M = sum(ETF_Price_List[121:140]) / len(ETF_Price_List[121:140]) # 여섯달 120일
-        ETF_Mean_8M = sum(ETF_Price_List[141:160]) / len(ETF_Price_List[141:160]) # 여섯달 120일
-        ETF_Mean_9M = sum(ETF_Price_List[161:180]) / len(ETF_Price_List[161:180]) # 여섯달 120일
-        ETF_Mean_10M = sum(ETF_Price_List[181:200]) / len(ETF_Price_List[181:200]) # 여섯달 120일
-        ETF_Mean_11M = sum(ETF_Price_List[201:220]) / len(ETF_Price_List[201:220]) # 여섯달 120일
-        ETF_Mean_12M = sum(ETF_Price_List[221:241]) / len(ETF_Price_List[221:241]) # 1년 : 끝까지
-
-        ETF_Profit_Now = 0
-        ETF_Profit_2M = (ETF_Price_List[0] - (sum(ETF_Price_List[20:40]) / len(ETF_Price_List[20:40]))) /             (sum(ETF_Price_List[20:40]) / len(ETF_Price_List[20:40]))
-        ETF_Profit_3M = (ETF_Price_List[0] - (sum(ETF_Price_List[41:60]) / len(ETF_Price_List[41:60]))) /             (sum(ETF_Price_List[41:60]) / len(ETF_Price_List[41:60]))
-        ETF_Profit_4M = (ETF_Price_List[0] - (sum(ETF_Price_List[61:80]) / len(ETF_Price_List[61:80]))) /             (sum(ETF_Price_List[61:80]) / len(ETF_Price_List[61:80]))
-        ETF_Profit_5M = (ETF_Price_List[0] - (sum(ETF_Price_List[81:100]) / len(ETF_Price_List[81:100]))) /             (sum(ETF_Price_List[81:100]) / len(ETF_Price_List[81:100]))
-        ETF_Profit_6M = (ETF_Price_List[0] - (sum(ETF_Price_List[101:120]) / len(ETF_Price_List[101:120]))) /             (sum(ETF_Price_List[101:120]) / len(ETF_Price_List[101:120]))
-        ETF_Profit_7M = (ETF_Price_List[0] - (sum(ETF_Price_List[121:140]) / len(ETF_Price_List[121:140]))) /             (sum(ETF_Price_List[121:140]) / len(ETF_Price_List[121:140]))
-        ETF_Profit_8M = (ETF_Price_List[0] - (sum(ETF_Price_List[141:160]) / len(ETF_Price_List[141:160]))) /             (sum(ETF_Price_List[141:160]) / len(ETF_Price_List[141:160]))
-        ETF_Profit_9M = (ETF_Price_List[0] - (sum(ETF_Price_List[161:180]) / len(ETF_Price_List[161:180]))) /             (sum(ETF_Price_List[161:180]) / len(ETF_Price_List[161:180]))
-        ETF_Profit_10M = (ETF_Price_List[0] - (sum(ETF_Price_List[181:200]) / len(ETF_Price_List[181:200]))) /             (sum(ETF_Price_List[181:200]) / len(ETF_Price_List[181:200]))
-        ETF_Profit_11M = (ETF_Price_List[0] - (sum(ETF_Price_List[201:220]) / len(ETF_Price_List[201:220]))) /             (sum(ETF_Price_List[201:220]) / len(ETF_Price_List[201:220]))
-        ETF_Profit_12M = (ETF_Price_List[0] - (sum(ETF_Price_List[221:241]) / len(ETF_Price_List[221:241]))) /             (sum(ETF_Price_List[221:241]) / len(ETF_Price_List[221:241]))
-        # 한한달  5일  * 4주  = 20일
-        # 20일 * 12 = 240 + Buffer -> 250
-        
-        ETF_Mean = [round(ETF_Mean_Now), round(ETF_Mean_2M), round(ETF_Mean_3M), round(ETF_Mean_4M),             round(ETF_Mean_5M), round(ETF_Mean_6M), round(ETF_Mean_7M), round(ETF_Mean_8M),             round(ETF_Mean_9M), round(ETF_Mean_10M), round(ETF_Mean_11M), round(ETF_Mean_12M)]
-        ETF_History = []
-        ETF_Profit = [round(ETF_Profit_Now, 2), round(ETF_Profit_2M, 2), round(ETF_Profit_3M, 2), round(ETF_Profit_4M, 2),             round(ETF_Profit_5M, 2), round(ETF_Profit_6M, 2), round(ETF_Profit_7M, 2), round(ETF_Profit_8M, 2),             round(ETF_Profit_9M, 2), round(ETF_Profit_10M, 2), round(ETF_Profit_11M, 2), round(ETF_Profit_12M, 2)]
-
-        for idx, val in enumerate(ETF_Mean) :
-            print("# idx : %s, val : %s" % (idx, val))
-            if idx == 0:
-                print("# ETF_History Fist insert 현재값")
-                ETF_History.append(val)
-            else :
-                print("# ETF_History Next insert 현재값")
-                if ETF_Mean[0] > ETF_Mean[idx] :
-                    ETF_History.append(int(1))
-                elif ETF_Mean[0] * 1.1 > ETF_Mean[idx] and ETF_Mean[0] * -1.1 < ETF_Mean[idx] :
-                    ETF_History.append(int(0))
-                else :
-                    ETF_History.append(int(-1))
 
         print("# %s : %s" % (ETF_Symbol_List[ETF_Symbol_List.index(ETF_Symbol)], ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)]))
         print("# 마지막 종가 : %s, %i" % (ETF_Date_List[-1], ETF_Price_List[-1]))
@@ -271,19 +226,8 @@ def __KO_ETF_Allocation() :
         DF_Pension_StockName.append(ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)])
         PENSION_PRICES.append(ETF_Price_List[-1])
 
-        # print("# Pension List")
-        # print(DF_Pension_StockName)
-        # print(DF_Pension_List)
-
-        DF_ETF_Average[ETF_StockName] = ETF_Mean
-        DF_ETF_Average_Hist[ETF_StockName] = ETF_History
-        DF_ETF_Profit[ETF_StockName] = ETF_Profit
-
     print("# DF_ETF")
     print(DF_ETF)
-
-    # DF_Pension_StockName = ['KODEX 200TR', 'KODEX 미국S&P500', 'KODEX iShares미국투자등급회사채액티브', 'KODEX 미국10년국채선물', 'KODEX 미국30년국채액티브(H)', 'KODEX 미국배당다우존스', 'TIGER 미국필라델피아반도체나스닥', 'ACE 테슬라밸류체인액티브']
-    # PENSION_PRICES = [23165, 22635, 11810, 12300, 8825, 11080, 28175, 21870]
 
     for index, price in enumerate(PENSION_PRICES):
     #     print(index, price, PENSION_PERCS[index])
