@@ -286,7 +286,7 @@ def __KO_ETF_Allocation() :
     output.write("<tbody>\n")
 
     print(df.to_markdown(index=False))
-    output.write(df.to_markdown())
+    # output.write(df.to_markdown())
     output.write(df.to_html())
 
     output.write("</tbody>\n")
