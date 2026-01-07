@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20260107_2026 </title></head>
-<center>Vers : 20260107_2026 </center>
-<center>Vers : 20260108_0526 </center>
+<head><meta charset="utf-8"><title>Vers : 20260107_2049 </title></head>
+<center>Vers : 20260107_2049 </center>
+<center>Vers : 20260108_0549 </center>
 <br><br><br>
+#### [독점-백악관, FTC에 대한 라이언 바쉬 지명 철회, 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429856)
+#### [1월 7일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429858)
+#### [사우스캐롤라이나 보건부, 사우스캐롤라이나에서 시즌 첫 소아 독감 관련 사망 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429857)
+#### [펀드, CBOT 옥수수, 대두, 밀 순매수자, 트레이더들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429853)
+#### [OpenAI, 의료 기록과 웰니스 앱 연결을 위한 ChatGPT Health 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429850)
+#### [UAE, 일부 네슬레 유아용 조제 분유 제품 리콜, 카타르, 소비자 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429855)
+#### [트럼프의 생산 문제 발언 후 미국 방위주 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429852)
+#### [에퀴노르와 장기 유지보수 및 수정 프레임워크 계약을 체결한 에이커 솔루션즈](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429849)
+#### [M2i 글로벌, 볼라토 그룹, 티타늄 엑스와 미국 내 중요 광물 개발 진전을 위한 전략적 협력 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429854)
+#### [아벨로, 1월 말까지 미국 추방 비행 종료 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429851)
+#### [혼재된 경제 신호로 미국 국채 수익률 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429846)
+#### [Saks가 살아남으려면 '진정한 상인' CEO가 필요하다고 소매업 애널리스트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429843)
+#### [재생-EUR/USD 의심, 부드럽고 랭키 스털링, 엔 보컬](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429840)
+#### [미국 사기 소송 해결을 위해 777만 달러를 지불하는 KeyCorp 사업부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429845)
+#### [미국 공급에 대한 중국의 수요로 CBOT 대두가 상승 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429842)
+#### [AbbVie, 바이오테크 레볼루션 메디신스 인수 협상 중, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429848)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RVMD.O/total>
+#### [트레이더들이 미국 작황 데이터를 기다리면서 CBOT 옥수수가 1주일 만에 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429844)
+#### [브라질의 돼지고기 수출, 2025년 세계 3위로 기록될 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429841)
+#### [ICE, FCOJ 선물 일일 가격 제한을 파운드당 15센트로 낮추다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429847)
 #### [S&P 500, AI 거래 수익률로 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429839)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ZG.O/total>
 #### [생명 공학 레볼루션 메디신스 인수 협상 중인 AbbVie, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429838)
@@ -50,24 +70,3 @@
 #### [소 115,000마리, 돼지 496,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429798)
 #### [새로운 종류의 칩 부족으로 월스트리트가 들썩입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429806)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [밀 선물은 건조가 미국 작물 우려를 불러 일으키면서 1 주 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429804)
-#### [베네바와 고어 뮤추얼의 합병 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429797)
-#### [플로리다, 4 월에 의회 재 구획을 채택 할 것이라고 DeSantis는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429794)
-#### [옥수수, 대두 기준 대부분 조용한 거래에서 안정적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429790)
-#### [그린란드 구매가 활발히 논의되고 있다고 백악관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429796)
-#### [미국 주식이 움직인다 - 엔비디아, 보잉, 로우스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429792)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLUE.O/total>
-#### [필요한 강우량으로 아르헨티나의 옥수수, 콩 생산량을 강화할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429789)
-#### [미국, 마두로 구출 임무에 공군력 투입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429795)
-#### [베네수엘라의 PDVSA는 미국과의 석유 공급 협상이 진행되고 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429791)
-#### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429793)
-#### [브라질, 미국을 제치고 최고의 소고기 생산국으로 부상하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429788)
-#### [브라질, 미국을 제치고 최고의 소고기 생산국으로 부상하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429784)
-#### [NATGAS 파이프라인 중요 공지: 얼라이언스 얼라이언스 파이프라인 유한 파트너십 AB30 골드 크릭 미터/압축기 스테이션 오프라인 - 업데이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429786)
-#### [독점 옥타브 기업 개발 책임자, CEO 르블랑이 에버스팬 매각 협상을 주도하면서 퇴사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429787)
-#### [아벨로 항공, 상업용 항공편과 일자리를 줄이면서 ICE 추방 전세기 종료 - CNBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429783)
-#### [밀리콤, 텔레포니카 칠레 사업부 인수에 관심 보여 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429785)
-#### [안트로픽이 3,500억 달러 규모의 새로운 펀드레이징을 계획하고 있다고 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429781)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [스털링은 미국 JOLTS 강세 후 세션 최저치로 하락, ISM 데이터로 달러 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429782)
-#### [베네수엘라의 석유 주장은 매끄럽고 끈적끈적한 엉망진창입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429779)
