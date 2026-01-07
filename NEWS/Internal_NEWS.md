@@ -1,7 +1,35 @@
-<head><meta charset="utf-8"><title>Vers : 20260107_2256 </title></head>
-<center>Vers : 20260107_2256 </center>
-<center>Vers : 20260108_0756 </center>
+<head><meta charset="utf-8"><title>Vers : 20260107_2323 </title></head>
+<center>Vers : 20260107_2323 </center>
+<center>Vers : 20260108_0823 </center>
 <br><br><br>
+#### [BUZZ-재생-EUR/USD 의심, 소프트 및 랭키 스털링, 엔 보컬](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430058)
+#### [컨스텔레이션 브랜드, 꾸준한 모델로, 코로나 맥주 수요로 3분기 예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430059)
+#### [퓨처 미네랄, 450만 달러 자금 조달 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430054)
+#### [보네이도, 프리미어 플라자 지구 개발 부지인 이스트 54번가 3번지 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430057)
+#### [미국 상원 공화당, '불량' 판사 탄핵 청문회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430053)
+#### [페루, 현금 부족에 시달리는 페트로페루를 위해 민간 투자자 유치 고려 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430056)
+#### [미 하원, 의료 보조금 복원을 위한 민주당의 노력 진전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430047)
+#### [페루, 현금 부족에 시달리는 페트로 페루를 위해 민간 투자자 유치 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430050)
+#### [트럼프와 연계된 월드 리버티 파이낸셜, 신탁 은행 인가 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430055)
+#### [애플과 체이스, 체이스가 애플 카드의 새로운 발급사가 될 것이라고 발표했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430046)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
+#### [골드만삭스, 애플 카드 프로그램을 체이스로 전환하는 계약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430049)
+#### [보네이도, 7 년 만기 채권 5 억 달러 공모 가격 책정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430052)
+#### [대두 기준은 양호한 수요로 견고하게 유지, 옥수수 입찰은 보합세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430045)
+#### [미국 법무부, 천연 가스 금지로 캘리포니아 도시 두 곳 고소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430048)
+#### [미국 상원 의원, 그린란드에 대한 트럼프 재선 투표 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430051)
+#### [미국 옥수수, 대두 생산량에 대한 POLL-무역 추정치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430044)
+#### [삼성전자, 예상치를 상회하는 4분기 영업이익 기록 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430042)
+#### [제프리, 딜메이킹으로 수익 증가, 퍼스트 브랜드 관련 3천만 달러 손실 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430041)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ETOR.O/total>
+#### [미국, 외국인 트럭 운전사 면허증으로 캘리포니아에서 1억 6천만 달러 지원금 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430039)
+#### [알파 모더스 홀딩스, 최대 2억 5천만 달러의 혼합형 선반 오퍼링 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430037)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMOD.O/total>
+#### [파나마의 시놀람, 반경쟁적 관행 혐의로 AES와 인터에너지를 고소하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430040)
+#### [삼성전자의 4분기 영업이익이 208% 증가해 예상치를 상회할 것으로 전망됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430036)
+#### [겨울 날씨가 지역을 휩쓸면서 보스니아가 홍수와 폭설에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430043)
+#### [트럼프의 베네수엘라 원유 협상 타결로 유가 하락, 증시 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430038)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
 #### [트럼프, 수십 개의 국제기구에서 미국 철수, 백악관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430023)
 #### [트럼프가 최대 20 억 달러 상당의 베네수엘라 원유를 수입하기로 한 후 미국 현금 원유-마스는 1 년 만에 최저치로 완화되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430021)
 #### [퍼스트 브랜드, 챕터 11 종료 계획에 따라 매각 절차 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430018)
@@ -51,39 +79,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/JSPR.O/total>
 #### [Health In Tech, Benefit Re와 협력하여 고용주를 위한 100개 이상의 맞춤형 손절매 자가 자금 지원 의료 플랜 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430000)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HIT.O/total>
-#### [보르도 부동산 Lp-VRLP, 회전 신용 시설의 만기 연장 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430006)
-#### [몬테 로사 테라퓨틱스 - 판매 계약 안내서 종료 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429996)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLUE.O/total>
-#### [릴리, 염증 매개 질환을 표적으로 하는 경구용 치료제 개발을 위해 벤텍스 바이오사이언스를 인수하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430007)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VTYX.O/total>
-#### [비너스 컨셉 Inc-12 월 31 일, 공동 및 그 부서가 Madryn Health Partners 및 기타 업체와 동의 계약 체결-SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430005)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VERO.O/total>
-#### [Aeries Technology Inc - 12월 31일, 편지 계약에 대한 수정 번호 1 입력 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429995)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AERT.O/total>
-#### [넥스젤, 2026년 1월 1일부로 아담 E. 드랩척 3세를 임시 CFO로 임명 - SEC 파일링](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429998)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NXGL.O/total>
-#### [간략한 에버지, 뱅크오브아메리카와 5,500만 달러 장기 대출 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430004)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EVRG.O/total>
-#### [컨스텔레이션, 칼파인 인수 완료로 미국의 청정 에너지 미래 지원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429994)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CEG.O/total>
-#### [Asure Software, 운영 담당 수석 부사장에 마이크 에랄리 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429997)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ASUR.O/total>
-#### [높은 가치를 정당화하기 위해 AI의 생산성이 필요하다고 전문가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430009)
-#### [미국의 베네수엘라 유조선 압류로 러시아 충돌 심화, 애널리스트 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429993)
-#### [포토닉스, 미셸 알메이다를 이사회에 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429968)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLAB.O/total>
-#### [헬스케어 리얼티, 최고 재무 책임자 전환 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429988)
-#### [RPM, 칼집 인수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429985)
-#### [MCB 부동산, 매력적인 전액 현금 인수 제안과 관련하여 화이트스톤 REIT 이사회에 답변 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429967)
-#### [미국 곡물 바지선 운임 값은? Jan 7](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429987)
-#### [공백 수표 Co, Willow Lane 인수 Corp II, 최대 1 억 2,500 만 달러의 IPO 신청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429984)
-#### [미국 에너지부, 국내 고농축 저농축 우라늄 공급을 위해 일반 물질에 9억 달러 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429975)
-#### [베네수엘라, 석유 판매 수익으로 미국 상품 구매, 트럼프는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429986)
-#### [Clearsign Technologies Corp - 4분기 360만 달러의 매출 예상 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429983)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CLIR.O/total>
-#### [독점-쉐브론, 베네수엘라 면허 확대를 위해 미국 정부와 협상 중, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429974)
-#### [랜자테크, 일본 MSW-에탄올 플랜트에서 성능 보장 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429979)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/4204.T/total>
-#### [앱비 - 2025년 조정 EPS 가이던스 범위 $9.90 - $9.94 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429982)
-#### [Angi Inc - 글로벌 인력 350명 감축 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429973)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ANGI.O/total>
