@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260107_1025 </title></head>
-<center>Vers : 20260107_1025 </center>
-<center>Vers : 20260107_1925 </center>
+<head><meta charset="utf-8"><title>Vers : 20260107_1050 </title></head>
+<center>Vers : 20260107_1050 </center>
+<center>Vers : 20260107_1950 </center>
 <br><br><br>
 #### [‘7800원’에 전재산 베팅 하이닉스 직원, 수익률 9천%대](https://m.stock.naver.com/news/ranknews/view/005/0001824653)
 #### [“현대차 주주 5년, 이런 날이 오네요”...하루 14% 폭등 뒤엔 젠슨 황](https://m.stock.naver.com/news/ranknews/view/009/0005618097)
