@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260107_0635 </title></head>
-<center>Vers : 20260107_0635 </center>
-<center>Vers : 20260107_1535 </center>
+<head><meta charset="utf-8"><title>Vers : 20260107_0700 </title></head>
+<center>Vers : 20260107_0700 </center>
+<center>Vers : 20260107_1600 </center>
 <br><br><br>
 #### [‘7800원’에 전재산 베팅 하이닉스 직원, 수익률 9천%대](https://m.stock.naver.com/news/ranknews/view/005/0001824653)
 #### [삼성전자 24만원·하이닉스 112만원...믿기 힘든 목표가 나왔다](https://m.stock.naver.com/news/ranknews/view/009/0005617782)
