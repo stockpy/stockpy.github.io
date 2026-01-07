@@ -23,7 +23,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>0</th>
       <td>KODEX 200TR</td>
       <td>0%</td>
-      <td>23765</td>
+      <td>23750</td>
       <td>0</td>
       <td>0</td>
       <td>0%</td>
@@ -59,7 +59,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>4</th>
       <td>KODEX 미국30년국채액티브(H)</td>
       <td>10%</td>
-      <td>8835</td>
+      <td>8845</td>
       <td>60000</td>
       <td>6</td>
       <td>7.0%</td>
@@ -68,7 +68,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>5</th>
       <td>KODEX 미국배당다우존스</td>
       <td>15%</td>
-      <td>11182</td>
+      <td>11185</td>
       <td>90000</td>
       <td>8</td>
       <td>11.0%</td>
@@ -77,7 +77,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>6</th>
       <td>TIGER 미국필라델피아반도체나스닥</td>
       <td>0%</td>
-      <td>28920</td>
+      <td>28910</td>
       <td>0</td>
       <td>0</td>
       <td>0%</td>
