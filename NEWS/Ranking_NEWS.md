@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260107_2243 </title></head>
-<center>Vers : 20260107_2243 </center>
-<center>Vers : 20260108_0743 </center>
+<head><meta charset="utf-8"><title>Vers : 20260107_2256 </title></head>
+<center>Vers : 20260107_2256 </center>
+<center>Vers : 20260108_0756 </center>
 <br><br><br>
 #### [[단독] “뼈 빠지게 빚 다 갚았는데”…원금의 5%만 갚으면 ‘탕감받을 자격’ 준다](https://m.stock.naver.com/news/ranknews/view/009/0005618150)
 #### ["24만전자·112만닉스 간다"…'지금 들어가기에는 늦었어' 했는데 반전 전망 나왔다](https://m.stock.naver.com/news/ranknews/view/011/0004576030)

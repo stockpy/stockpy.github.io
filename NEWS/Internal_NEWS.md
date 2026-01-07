@@ -1,7 +1,35 @@
-<head><meta charset="utf-8"><title>Vers : 20260107_2243 </title></head>
-<center>Vers : 20260107_2243 </center>
-<center>Vers : 20260108_0743 </center>
+<head><meta charset="utf-8"><title>Vers : 20260107_2256 </title></head>
+<center>Vers : 20260107_2256 </center>
+<center>Vers : 20260108_0756 </center>
 <br><br><br>
+#### [트럼프, 수십 개의 국제기구에서 미국 철수, 백악관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430023)
+#### [트럼프가 최대 20 억 달러 상당의 베네수엘라 원유를 수입하기로 한 후 미국 현금 원유-마스는 1 년 만에 최저치로 완화되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430021)
+#### [퍼스트 브랜드, 챕터 11 종료 계획에 따라 매각 절차 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430018)
+#### [부다 주스, 2천만 달러 규모의 기업공개 가격 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430022)
+#### [인도 규제 당국, 뱅크 오브 아메리카가 블록 거래를 앞두고 기밀 정보를 공유한 사실을 발견 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430020)
+#### [시 오피스 REIT, 2025년 분배금에 대한 세금 처리 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430017)
+#### [보네이도, 20억 달러 규모의 회전 신용 시설 및 기간 대출 만기 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430028)
+#### [LGL 그룹 - 1월 5일, 제이슨 램, LGL 그룹 CEO로 임명 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430019)
+#### [미국의 베네수엘라 유조선 압류로 러시아 충돌 심화, 애널리스트 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430016)
+#### [이뮤논 - 임시 CFO 킴벌리 그레이퍼, 2026년 1월 14일 사임 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430027)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IMNN.O/total>
+#### [센먀오 테크놀로지, 이청과 제청의 지분 100% 처분 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430032)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AIHS.O/total>
+#### [Ecd Automotive Design Inc - 대출 기관이 2 백만 달러-$ 10 백만 가치의 전략적 거래를 위해 Co와 협의 중 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430015)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ECDA.O/total>
+#### [푸마 생명공학, 나스닥 상장 규정 5635(C)(4)에 따른 인센티브 어워드 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430026)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PBYI.O/total>
+#### [트랜스포스와 BHE 트랜스미션, 위스콘신에 약 200마일의 765kV 송전선 구축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430031)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AEP.O/total>
+#### [USDA 분기별 곡물 재고에 대한 POLL-무역 추정치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430035)
+#### [Green Dot Corp - 윌리엄 제이콥스, CEO로 임명 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430025)
+#### [벤텍스 바이오사이언스, 특정 상황에서 합병이 종료되면 일라이 릴리에게 4400만 달러의 해지 수수료를 지불해야 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430030)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VTYX.O/total>
+#### [슈퍼 리그 엔터프라이즈 Inc - 1월 5일, 렛츠 바운스와 자산 매입 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430034)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SLE.O/total>
+#### [1 월 1 일, 공동 및 그 단위가 세 번째 수정 자문 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430024)
+#### [Citgo, 엘리엇 거래 보류 중 베네수엘라 석유 재매입 검토 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430029)
+#### [퍼스트 브랜드 그룹, 브랜드와 글로벌 플랫폼의 장기적 미래 확보를 위한 마케팅 및 판매 프로세스 시작 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430033)
 #### [식스 플래그, 2032년 만기 8.625% 선순위 채권 10억 달러 가격 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2430012)
 #### [KKR 소득 기회 펀드, 주당 0.1215달러의 월별 배당금 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429992)
 #### [World Liberty Financial, WLTC Holdings LLC가 USD1 스테이블코인 발행 및 수탁을 위한 내셔널 트러스트 은행 인가 신청서를 제출했다고 발표했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429999)
@@ -59,35 +87,3 @@
 #### [앱비 - 2025년 조정 EPS 가이던스 범위 $9.90 - $9.94 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429982)
 #### [Angi Inc - 글로벌 인력 350명 감축 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429973)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ANGI.O/total>
-#### [주주, 브라질 온코클리니카의 새 이사회 의장 선출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429978)
-#### [M&A 변호사들은 딜에 미친 한 해를 보낸 2026년에 '부풀어 오르는 파이프라인'을 봅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429972)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBD.O/total>
-#### [파톰 파마슈티컬스, 보통주 및 신주인수권부사채 공모 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429977)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PHAT.O/total>
-#### [Applied Digital, AI 데이터 센터 수요에 힘입어 분기 매출 예상치 상회, 주가 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429981)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EKSO.O/total>
-#### [턴스 파마슈티컬스, 제44회 연례 JP모건 헬스케어 컨퍼런스에서 2026년 우선순위 및 프로그램 마일스톤 발표 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429970)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TERN.O/total>
-#### [인도, 화석 연료 반대 운동으로 환경 운동가 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429976)
-#### [퍼미안 리소스, 이전에 발표한 기업 조직 개편 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429980)
-#### [후보, 2029년 만기 전환사채 환매 제로 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429969)
-#### [턴 테라퓨틱스, 마틴 듀허스트를 이사회에 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429971)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TTRX.O/total>
-#### [록히드, 수요 증가로 2025 년 F-35 인도량 191 건 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429961)
-#### [브라질, 2026년 효율성 계획을 지원하기 위해 알바레즈 앤 마살을 고용한 GPA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429963)
-#### [크리스탈 바이오텍, 낭포성 섬유증 환자 대상 KB407 평가 임상 1상 CORAL-1 연구의 최고용량 코호트 중간 임상 업데이트 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429957)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KRYS.O/total>
-#### [Applied Digital의 2분기 매출 급증, 순손실 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429960)
-#### [십이시 투자 회사 3, 2026년 1월 9일부터 클래스 A 보통주 및 권리의 분리 거래 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429962)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TWLVU.O/total>
-#### [제네룩스 코퍼레이션, 보통주 공모 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429956)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GNLX.O/total>
-#### [미국, 외국인 트럭 운전자 면허에 대해 캘리포니아에서 1억 6천만 달러 원천 징수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429959)
-#### [리퍼블릭 파워 그룹 리미티드, 나스닥으로부터 입찰 불합격 통지서 수령 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429966)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RPGL.O/total>
-#### [트럼프, 국제기구 탈퇴 선언문에 서명, 백악관 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429955)
-#### [화창한 시작, 우울한 끝](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429958)
-#### [아트 테크놀로지 인퀴지션, 2억2천만 달러 규모의 기업공개 마감 2억 2천만 달러 규모의 기업공개 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429965)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ARTCU.O/total>
-#### [캐나다 솔라, 2031년 만기 미화 2억 달러 규모의 전환사채 발행 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429964)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CSIQ.O/total>
