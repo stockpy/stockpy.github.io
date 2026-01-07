@@ -1,7 +1,34 @@
-<head><meta charset="utf-8"><title>Vers : 20260107_1834 </title></head>
-<center>Vers : 20260107_1834 </center>
-<center>Vers : 20260108_0334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260107_1859 </title></head>
+<center>Vers : 20260107_1859 </center>
+<center>Vers : 20260108_0359 </center>
 <br><br><br>
+#### [브라질, 미국을 제치고 최고의 소고기 생산국으로 부상하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429788)
+#### [브라질, 미국을 제치고 최고의 소고기 생산국으로 부상하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429784)
+#### [NATGAS 파이프라인 중요 공지: 얼라이언스 얼라이언스 파이프라인 유한 파트너십 AB30 골드 크릭 미터/압축기 스테이션 오프라인 - 업데이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429786)
+#### [독점 옥타브 기업 개발 책임자, CEO 르블랑이 에버스팬 매각 협상을 주도하면서 퇴사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429787)
+#### [아벨로 항공, 상업용 항공편과 일자리를 줄이면서 ICE 추방 전세기 종료 - CNBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429783)
+#### [밀리콤, 텔레포니카 칠레 사업부 인수에 관심 보여 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429785)
+#### [안트로픽이 3,500억 달러 규모의 새로운 펀드레이징을 계획하고 있다고 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429781)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [스털링은 미국 JOLTS 강세 후 세션 최저치로 하락, ISM 데이터로 달러 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429782)
+#### [베네수엘라의 석유 주장은 매끄럽고 끈적끈적한 엉망진창입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429779)
+#### [096에 대한 생물학적 반응의 명확한 증거를 보여주는 1b상 바이오마커 데이터 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429764)
+#### [오픈웨스트, 최고재무책임자로 패트릭 브래튼 임명 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429775)
+#### [헬리오, 우주 기반 태양광 발전 이니셔티브를 위해 2천만 달러의 비희석성 유틸리티 토큰 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429771)
+#### [백악관, 그린란드 매입은 활발한 논의 중, 트럼프는 나토에 전념한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429768)
+#### [협상 실패 후 캡스톤 코퍼의 만토베르데 광산에서 파업이 계속되고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429774)
+#### [소비, 엠브럼 탑라인 데이터에 기반해 IDS에서 가미판트®(에마팔루맙)의 진전된 임상 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429770)
+#### [루비오, 다음 주 덴마크 지도자 만나 트럼프의 그린란드 목표에서 후퇴하지 않겠다는 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429767)
+#### [현대모비스, 퀄컴과 포괄적 계약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429778)
+#### [독점-남아공은 백인 소수를위한 미국 난민 프로그램을 방해하지 않을 것이라고 이메일은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429769)
+#### [세이프 앤 그린 홀딩스, 올레녹스 인더스트리로 브랜드 변경](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429777)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SGBX.O/total>
+#### [카탈리오 캐피털 매니지먼트, 의료 혁신을 위한 두 번째 신용 펀드로 3억 2,500만 달러 모금](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429766)
+#### [오티모 파마, OTP-01 임상시험용 신약 신청에 대한 FDA 승인 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429773)
+#### [인듀프로 테라퓨틱스, 릴리와 전략적 협력 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429765)
+#### [투자자들이 더 많은 미국 데이터를 기다리면서 BUZZ-EUR/USD- 타이트한 박스권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429776)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429772)
+#### [뉴욕 연준, 리버스 리포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429780)
 #### [리제네론 파마, BofA 등급 업그레이드에 따른 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429760)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/REGN.O/total>
 #### [워너 브라더스의 방어는 점점 더 허술해지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429762)
@@ -43,31 +70,3 @@
 #### [루비오는 베네수엘라에 대한 미국의 계획은 안정, 회복, 전환이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429733)
 #### [페드로 지너 버즈스톤코 CEO, 3월 물러나기로 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429735)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/STNE.O/total>
-#### [루비오는 그린란드를 둘러싼 긴장 속에서 다음 주에 덴마크 관리들을 만날 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429736)
-#### [제프리, 상용 엔진 서비스의 강력한 성장에 대해 GE Aerospace의 PT를 진행합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429732)
-#### [런던의 FTSE 100은 에너지, 금융 하락으로 사상 최고치에서 후퇴합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429720)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
-#### [아르큘8 AI, 아다라 벤처스가 주도하는 시리즈 B 발표, 5억 달러 가치 돌파](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429718)
-#### [AB8939에 대한 AB 과학 1상 AML 연구, 100% 부분 반응률 보여줌](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429726)
-#### [베네수엘라 석유 판매로 얻은 돈은 미국이 통제하는 은행 계좌에 보관 될 것이라고 에너지 부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429719)
-#### [리 오토모티브, 히참 압데사마드를 이사회 의장으로 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429717)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/REE.O/total>
-#### [영국 MHRA, 니로가세스타트 하이드로브로마이드(옥시베오) 승인에 대한 간략한 설명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429725)
-#### [JPMorgan, 투자은행 글로벌 의장에 스리 코사라주 임명 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429715)
-#### [캐터필러, AI 기반 미래 공개 및 인력 구축 IT에 투자하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429716)
-#### [윈처치 캐피탈, 프리미엄 브랜드에 스탬피드 컬리너리 파트너 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429724)
-#### [볼탈리아, 하반기 순손실 그룹 점유율이 상반기보다 높아질 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429714)
-#### [트럼프의 베네수엘라 석유 계획 발표 후 유가 하락, 증시 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429722)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
-#### [젤 렌 스키이는 평화 회담에서 우크라이나에 새로운 요구가 없다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429723)
-#### [경유 이익률 6% 이상 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429713)
-#### [가솔린 정제 마진 하락폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429721)
-#### [텍사스, 변호사 입학에서 ABA 역할을 종료하는 첫 번째 주가 됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429696)
-#### [KKR이 지원하는 카탈리오, 생명과학 사모펀드 목표 초과 달성 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429703)
-#### [그린란드는 국민에게 속해 있으며 EU의 전폭적 인 지원을 받고 있다고 EU의 코스타는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429698)
-#### [티켓마스터, 미국 FTC의 티켓 재판매 사건 종결을 위한 노력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429695)
-#### [독일 외무 장관, NATO가 그대로 유지 될 것이라고 확신한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429702)
-#### [백악관, 베네수엘라 선거 일정이 너무 이르다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429697)
-#### [퓨전그룹, 퓨전이 되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429694)
-#### [미국, 베네수엘라 제재를 선택적으로 철회, 백악관은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429701)
-#### [남, 5억 유로 규모의 그린본드를 이탈가스 주식으로 전환 발행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429707)
