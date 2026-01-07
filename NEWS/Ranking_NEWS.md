@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260107_0441 </title></head>
-<center>Vers : 20260107_0441 </center>
-<center>Vers : 20260107_1341 </center>
+<head><meta charset="utf-8"><title>Vers : 20260107_0504 </title></head>
+<center>Vers : 20260107_0504 </center>
+<center>Vers : 20260107_1404 </center>
 <br><br><br>
 #### [‘7800원’에 전재산 베팅 하이닉스 직원, 수익률 9천%대](https://m.stock.naver.com/news/ranknews/view/005/0001824653)
 #### ["아내 연봉이 더 높아요"…엘리트 상사도 수능 만점자도 줄퇴사 [김익환의 부처 핸즈업]](https://m.stock.naver.com/news/ranknews/view/015/0005233950)
