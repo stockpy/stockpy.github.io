@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260107_2049 </title></head>
-<center>Vers : 20260107_2049 </center>
-<center>Vers : 20260108_0549 </center>
+<head><meta charset="utf-8"><title>Vers : 20260107_2100 </title></head>
+<center>Vers : 20260107_2100 </center>
+<center>Vers : 20260108_0600 </center>
 <br><br><br>
+#### [CBOT 밀은 건조한 미국 작물 날씨에 대한 우려로 1 주 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429859)
+#### [JPM, 애플 신용 카드 인수 계약 체결 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429860)
+#### [올라플렉스, 독일 헨켈의 인수 관심을 끌다, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429861)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OLPX.O/total>
 #### [독점-백악관, FTC에 대한 라이언 바쉬 지명 철회, 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429856)
 #### [1월 7일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429858)
 #### [사우스캐롤라이나 보건부, 사우스캐롤라이나에서 시즌 첫 소아 독감 관련 사망 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429857)
@@ -23,7 +27,7 @@
 #### [브라질의 돼지고기 수출, 2025년 세계 3위로 기록될 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429841)
 #### [ICE, FCOJ 선물 일일 가격 제한을 파운드당 15센트로 낮추다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429847)
 #### [S&P 500, AI 거래 수익률로 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429839)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ZG.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
 #### [생명 공학 레볼루션 메디신스 인수 협상 중인 AbbVie, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429838)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RVMD.O/total>
 #### [AbbVie, 혁명적 의약품 구매를 위한 사전 협의 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429836)
@@ -66,7 +70,3 @@
 #### [마이크 존슨, 영국 의회에서 연설하는 최초의 미국 하원의장이 되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429799)
 #### ['원 배틀 어나더'와 '죄인'이 할리우드 배우상 후보를 이끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429807)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
-#### [EU, 메르코수르 무역 협상 추진을 위한 비료 관세 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429805)
-#### [소 115,000마리, 돼지 496,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429798)
-#### [새로운 종류의 칩 부족으로 월스트리트가 들썩입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2429806)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
