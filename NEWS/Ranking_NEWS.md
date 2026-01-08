@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260108_0635 </title></head>
-<center>Vers : 20260108_0635 </center>
-<center>Vers : 20260108_1535 </center>
+<head><meta charset="utf-8"><title>Vers : 20260108_0700 </title></head>
+<center>Vers : 20260108_0700 </center>
+<center>Vers : 20260108_1600 </center>
 <br><br><br>
 #### [나이키 “죄송합니다. 신발만 팔겠습니다”... 메타버스 다 접고 본업에만 집중](https://m.stock.naver.com/news/ranknews/view/009/0005618291)
 #### [억대 연봉 은행원, 40대도 짐싼다…은행권 희망퇴직 칼바람](https://m.stock.naver.com/news/ranknews/view/003/0013699550)
