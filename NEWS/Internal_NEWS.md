@@ -1,7 +1,33 @@
-<head><meta charset="utf-8"><title>Vers : 20260108_2026 </title></head>
-<center>Vers : 20260108_2026 </center>
-<center>Vers : 20260109_0526 </center>
+<head><meta charset="utf-8"><title>Vers : 20260108_2047 </title></head>
+<center>Vers : 20260108_2047 </center>
+<center>Vers : 20260109_0547 </center>
 <br><br><br>
+#### [미국 하원, 콜로라도 수자원 프로젝트에 대한 트럼프 거부권 거부 투표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431566)
+#### [공화당의 반대에도 불구하고 미국 하원, 건강 보조금 갱신 통과 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431571)
+#### [미국 하원, 플로리다 에버글레이즈 프로젝트에 대한 트럼프 거부권 차단 실패](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431569)
+#### [독점-빅 테크는 EU 디지털 규제 개편에서 엄격한 규칙을 아끼지 않았다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431565)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [애피안, 20억 달러 규모의 페가시스템즈 영업비밀 평결 취소 소송에서 패소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431570)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PEGA.O/total>
+#### [미니애폴리스에서 미국 이민국 요원에게 살해당한 여성 르네 니콜 굿은 누구였나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431568)
+#### [연방 검찰, 뉴욕 주지사 제임스의 금융 거래에 대한 새로운 조사 착수, CBS 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431567)
+#### [트레이더들이 USDA 작황 데이터를 기다리면서 CBOT 옥수수 가격은 거의 변동 없이 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431555)
+#### [소말리아, 미국 정부에 대한 원조 중단으로 미국 관계 최저치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431551)
+#### [독점-빅 테크는 EU 디지털 규제 개편에서 엄격한 규칙을 아끼지 않았다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431560)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [뉴욕 법무장관, 인스타카트에 가격 테스트에 대한 정보 공유 요청- WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431564)
+#### [지정학적 불안감이 리스크를 억제하면서 중남미 자산이 안정적으로 유지되는 가운데, 현지 데이터 분석 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431550)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
+#### [연준이 올해 금리를 소폭 인하할 것으로 CBO는 전망합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431559)
+#### [캐나다의 '국가 건설' 프로그램에서 기회를 포착하고 새로운 업종을 공략하는 플랫폼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431563)
+#### [재생-호주 경고, 스털링 저점, USD / JPY 편향](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431554)
+#### [연방 검찰, 뉴욕 AG James의 금융 거래에 대한 새로운 조사 시작, CBS 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431558)
+#### [글렌코어, 리오 틴토와 리오 틴토 리미티드와 합병 가능성에 대해 예비 논의 중임을 확인했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431562)
+#### [셰브론은 베네수엘라 석유 판매를 위해 라이벌들과 경쟁하고 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431553)
+#### [미국 북서부 강 유량 최대 101% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431557)
+#### [미국 11월 소비자 신용 데이터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431561)
+#### ['만료되면 만료됩니다', 트럼프, 미-러 핵 협정에 대해 NYT에 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431552)
+#### [올림픽을 앞둔 미국 스노보드 선수 김연아, 어깨 탈골 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431556)
 #### [건강 라운드: 요가는 오피오이드 금단증상 회복에 도움이 될 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431548)
 #### [독점-트럼프 지지자이자 석유 거물 인 해리 사리 건트가 베네수엘라에 대해 미국에 조언하고 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431549)
 #### [비로 인해 건조한 미국 날씨에 대한 우려가 완화되면서 CBOT 밀이 백 페달을 밟습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431546)
@@ -45,30 +71,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UNIT.O/total>
 #### [오터테일 코퍼레이션, 주당 0.5775달러의 분기 배당금 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431507)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OTTR.O/total>
-#### [소노테라, 제44회 JP모건 헬스케어 컨퍼런스에서 1억2500만 달러 규모의 시리즈 B 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431511)
-#### [커뮤니티 뱅코프, 나스닥 자본 시장 상장을 위한 신청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431517)
-#### [릴리의 제바운드 플러스 탈츠, 후기 임상시험에서 관절염 완화, 체중 감소 효과 입증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431515)
-#### [수은, 12억 달러 규모의 카자흐스탄 거래로 금속 추진력을 배가하다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431510)
-#### [크라우드스트라이크, AI 위협 대응을 위해 신원 보안 스타트업 SGNL을 7억 4천만 달러에 인수하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431516)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRWD.O/total>
-#### [미국 주식 이동 중- 도어대시, 듀오링고, 갭](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431514)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CGTL.O/total>
-#### [미국 판사가 트럼프, NRA에 대한 뉴욕 소송에 대한 정보에 대한 법무부 요구를 차단합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431505)
-#### [Appian, 20억 달러 규모의 페가시스템즈 영업비밀 평결 취소 소송에서 패소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431503)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PEGA.O/total>
-#### [11월 아르헨티나 산업 생산 8.7% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431502)
-#### [금은 시장이 미국 고용 데이터를 주시하면서 안정적이며 지수 조정에 무게가 실립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431504)
-#### [소 117,000마리, 돼지 496,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431497)
-#### [베센트는 대형 석유 회사들이 베네수엘라에서 더 느리게 움직일 가능성이 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431498)
-#### [브라질의 레반도프스키 법무부 장관 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431494)
-#### [BofA 글로벌 리서치, 코인베이스 '매수' 등급으로 업그레이드](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431496)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
-#### [럭셔리 강자에서 벼랑 끝으로: 삭스의 대형 합병 베팅이 실패한 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431501)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [콜롬비아의 2025 년 커피 생산량 2.27 % 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431493)
-#### [뉴 포트리스, 구조조정이 임박함에 따라 부채 기한을 연장하려 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431495)
-#### [구테흐스 유엔 총장은 일부 유엔 기구에서 철수하기로 한 미국의 결정을 유감스럽게 생각합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431500)
-#### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431499)
-#### [소말리아, 미국이 정부에 대한 원조를 중단하면서 미국 관계가 새로운 최저치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431488)
-#### [온라인 소매업체 베리 그룹, 20억 파운드 경매 개시 계획 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431485)
-#### [브라질의 오렌지 주스 수출은 2025/26 시즌 상반기에 8.1 % 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431487)
