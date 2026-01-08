@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260108_1025 </title></head>
-<center>Vers : 20260108_1025 </center>
-<center>Vers : 20260108_1925 </center>
+<head><meta charset="utf-8"><title>Vers : 20260108_1111 </title></head>
+<center>Vers : 20260108_1111 </center>
+<center>Vers : 20260108_2011 </center>
 <br><br><br>
 #### ["불장이라 이사하고 적금도 깼는데…" 30대 직장인 '눈물'](https://m.stock.naver.com/news/ranknews/view/015/0005234733)
 #### [나이키 “죄송합니다. 신발만 팔겠습니다”... 메타버스 다 접고 본업에만 집중](https://m.stock.naver.com/news/ranknews/view/009/0005618291)
