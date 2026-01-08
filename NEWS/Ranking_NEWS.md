@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260108_2244 </title></head>
-<center>Vers : 20260108_2244 </center>
-<center>Vers : 20260109_0744 </center>
+<head><meta charset="utf-8"><title>Vers : 20260108_2256 </title></head>
+<center>Vers : 20260108_2256 </center>
+<center>Vers : 20260109_0756 </center>
 <br><br><br>
 #### [하이닉스를 앞지르네…"364% 오른 비결이 뭐야"](https://m.stock.naver.com/news/ranknews/view/215/0001237266)
 #### [李 '잔인하다' 지적에 … 당국, 서민 대출금리 최대 6%P 인하](https://m.stock.naver.com/news/ranknews/view/009/0005618762)

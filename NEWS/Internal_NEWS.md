@@ -1,9 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260108_2244 </title></head>
-<center>Vers : 20260108_2244 </center>
-<center>Vers : 20260109_0744 </center>
+<head><meta charset="utf-8"><title>Vers : 20260108_2256 </title></head>
+<center>Vers : 20260108_2256 </center>
+<center>Vers : 20260109_0756 </center>
 <br><br><br>
+#### [키예프에 대한 러시아 드론 공격으로 화재가 발생했다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431687)
+#### [솔트앤페파, UMG의 음반 회수 입찰에서 패소하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431684)
+#### [독점 마켈 미국 사이버 책임자 보티첼리가 하우덴으로 떠나고 멜론이 임시 리더로 임명되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431685)
+#### [캐나다 중앙은행, 카니 총재가 예산 삭감을 추진함에 따라 고위직 이탈 전망 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431686)
 #### [수입업자들은 트럼프가 대법원에서 패소할 경우 1,500억 달러의 관세 환급 싸움에 대비합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431678)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7012.T/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/5101.T/total>
 #### [주초 약세를 보인 미국 서부 텍사스산 원유-걸프만 연안유가 강세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431683)
 #### [리그, 브라질 아제베도 & 트라바소스 지분 지우기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431680)
 #### [러시아 공격, 서부 리비우 지역의 인프라 목표 타격, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431681)
@@ -70,8 +74,3 @@
 #### [비욘드 오일, 미국 시장에서 상업적 확장을 지속하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431645)
 #### [독점-트럼프, 의회가 미네소타 북부 광업에 대한 바이든 시대의 금지를 취소하려는 움직임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431641)
 #### [국제 의료용 대마초 판매 성장에 힘입어 틸레이 2분기 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431626)
-#### [야누스 인터내셔널 그룹, 키위 II 건설 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431620)
-#### [칼비스타 파마, 강력한 EKTERLY 출시에 대한 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431618)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KALV.O/total>
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431619)
-#### [총 마진 개선에 따른 WD-40 1분기 순매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431617)
