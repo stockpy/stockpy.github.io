@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260108_1631 </title></head>
-<center>Vers : 20260108_1631 </center>
-<center>Vers : 20260109_0131 </center>
+<head><meta charset="utf-8"><title>Vers : 20260108_1830 </title></head>
+<center>Vers : 20260108_1830 </center>
+<center>Vers : 20260109_0330 </center>
 <br><br><br>
 #### ["전세금까지 빼서 월세 갔는데"…30대 직장인의 '눈물'](https://m.stock.naver.com/news/ranknews/view/015/0005234733)
 #### [하이닉스를 앞지르네…"364% 오른 비결이 뭐야"](https://m.stock.naver.com/news/ranknews/view/215/0001237266)
