@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260108_0831 </title></head>
-<center>Vers : 20260108_0831 </center>
-<center>Vers : 20260108_1731 </center>
+<head><meta charset="utf-8"><title>Vers : 20260108_0858 </title></head>
+<center>Vers : 20260108_0858 </center>
+<center>Vers : 20260108_1758 </center>
 <br><br><br>
 #### [나이키 “죄송합니다. 신발만 팔겠습니다”... 메타버스 다 접고 본업에만 집중](https://m.stock.naver.com/news/ranknews/view/009/0005618291)
 #### [강호동, 5성호텔서 수천만원 초과지출…수억 연봉 더 챙겼다](https://m.stock.naver.com/news/ranknews/view/009/0005618526)
