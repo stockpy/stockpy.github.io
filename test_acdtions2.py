@@ -268,9 +268,9 @@ def __KO_ETF_Allocation() :
     seoul_time = utc_now + timedelta(hours=9)
     formatted_time = seoul_time.strftime("%Y%m%d_%H%M")
     
-    # output.write('<center>Vers : %s </center>\n' % DateTime_TT)
-    # output.write('<center>Vers : %s </center>\n' % formatted_time)
-    # output.write('<br><br><br>\n')
+    output.write('<center>Vers : %s </center>\n' % DateTime_TT)
+    output.write('<center>Vers : %s </center>\n' % formatted_time)
+    output.write('<br><br><br>\n')
 
     output.write("<style type=\"text/css\"> .tg  {border-collapse:collapse;border-spacing:0;}\n")
     output.write(".tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n")
@@ -283,7 +283,7 @@ def __KO_ETF_Allocation() :
 
     print(df.to_markdown(index=False))
     # output.write(df.to_markdown())
-    output.write(df.to_html(classes='tg'))
+    output.write(df[['ETF_Name', 'Alloc_P', 'Price', 'CALL', 'MY_PERC']].to_html(classes='tg'))
 
     output.write("</center>\n")
 
