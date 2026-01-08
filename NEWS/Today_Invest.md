@@ -32,7 +32,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>1</th>
       <td>KODEX 미국S&amp;P500</td>
       <td>50%</td>
-      <td>22860</td>
+      <td>22855</td>
       <td>300000</td>
       <td>13</td>
       <td>56.0%</td>
@@ -50,7 +50,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>3</th>
       <td>KODEX 미국10년국채선물</td>
       <td>10%</td>
-      <td>12355</td>
+      <td>12350</td>
       <td>60000</td>
       <td>4</td>
       <td>15.0%</td>
@@ -77,7 +77,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>6</th>
       <td>TIGER 미국필라델피아반도체나스닥</td>
       <td>0%</td>
-      <td>28760</td>
+      <td>28750</td>
       <td>0</td>
       <td>0</td>
       <td>0%</td>
