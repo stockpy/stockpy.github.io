@@ -1,5 +1,5 @@
-<center>Vers : 20260108_0339 </center>
-<center>Vers : 20260108_1239 </center>
+<center>Vers : 20260108_0340 </center>
+<center>Vers : 20260108_1240 </center>
 <br><br><br>
 <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -25,7 +25,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>0</th>
       <td>KODEX 200TR</td>
       <td>0%</td>
-      <td>24115</td>
+      <td>24100</td>
       <td>0</td>
       <td>0%</td>
     </tr>
