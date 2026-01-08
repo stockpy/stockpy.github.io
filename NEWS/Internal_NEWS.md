@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260108_1830 </title></head>
-<center>Vers : 20260108_1830 </center>
-<center>Vers : 20260109_0330 </center>
+<head><meta charset="utf-8"><title>Vers : 20260108_1856 </title></head>
+<center>Vers : 20260108_1856 </center>
+<center>Vers : 20260109_0356 </center>
 <br><br><br>
+#### [베센트 미국, 사모 펀드 주택 구매에 대한 정확한 단속 윤곽을 결정하지 않았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431477)
+#### [이탈리아의 개인 정보 보호 감시 기관, 딥페이크 AI 콘텐츠에 대해 Grok에 경고하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431480)
+#### [재무부의 베센트는 미네소타 사기를 기소하고 다른 주를 조사하겠다고 맹세합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431474)
+#### [2027년 뉴욕주 웨이랜드 시설에서 철수하는 브리프-HNI Corp](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431476)
+#### [트럼프가 미국 방위 부문 배당금과 환매를 목표로 삼으면서 수십억 달러가 위태로워졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431479)
+#### [독점-트럼프, 의회가 미네소타 북부 광업에 대한 바이든 시대의 금지를 취소하려는 움직임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431481)
+#### [영국 스타머, 트럼프와 북극 지역 안보 및 러시아 억지력 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431475)
+#### [데이터 이후 달러화 최고치를 경신한 BUZZ-USD/JPY](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431478)
+#### [미국 주, 의회에 트럼프 세금 법안의 식량 지원 비용 조항 연기 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431470)
+#### [EUR/USD-미국 주요 고용 보고서를 앞두고 한 달래 최저치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431472)
+#### [프랑스, 메르코수르 무역 협상에 반대 투표, 마크롱은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431468)
+#### [독점-트럼프 행정부가 알코올 제한을 절반으로 줄이려는 제안 초안을 죽였다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431469)
+#### [미국 생산성 상승 후 하락, 1.34% 큰 폭의 지지선 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431471)
+#### [워너 브라더스의 최대 투자자들 중 일부는 파라마운트의 제안을 두고 의견이 분분합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431473)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
 #### [뉴욕 연준, 리버스 리포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431458)
 #### [터키 북서부에서 강풍으로 건물 지붕이 찢어지는 사고 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431464)
 #### [OpenAI, 경영진 코칭 AI 도구 Convogo 개발팀 인수 - TechCrunch](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431467)
@@ -53,20 +68,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2020.HK/total>
 #### [도이체방크가 '매수' 등급으로 커버리지 재개 후 BUZZ-미국 소매업체들 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431423)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COST.O/total>
-#### [사운드하운드 AI 주가 하락, DA 데이비슨 주당순자산가치(PT) 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431418)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SOUN.O/total>
-#### [심플리 굿 푸드, 분기 실적 호전 후 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431420)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMPL.O/total>
-#### [경유 수익률, 수요 약세로 하락세 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431422)
-#### [암코스탈, 기타 모든 위험 재해 XoL 재보험 계약 갱신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431417)
-#### [인슈어런스, 3천만 유로 선순위 담보 채권 만기를 2030년 12월 10일까지 연장하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431419)
-#### [구테 레스 유엔 총장은 일부 유엔기구에서 철수하기로 한 미국의 결정을 유감스럽게 생각합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431416)
-#### [반등 시도가 사라지면서 좁은 밴드에 갇힌 BUZZ-EUR / GBP](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431413)
-#### [옥수수 기준 혼조세, 대두는 소강 거래로 거의 변동 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431415)
-#### [이탈리아 재무부, 1 월 13 일 경매에서 최대 4.00 억 유로의 채권 매각 - Reuters News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431410)
-#### [볼드윈 그룹, 필라델피아 소재 보험 대행사 캡스톤 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431412)
-#### [러시아의 공격으로 우크라이나 170 만 가구 이상에 물 공급 중단, 부총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431414)
-#### [금은 시장이 미국 고용 데이터를 주시하면서 안정적이며 지수 조정에 무게가 실립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431409)
-#### [독점-중국의 안타 스포츠가 피노 가문의 푸마 지분 29 %를 인수하겠다고 제안했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431411)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2020.HK/total>
-#### [스페인 렙솔, 베네수엘라 석유 수출을 위한 미국 허가 신청- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431405)
