@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260108_2047 </title></head>
-<center>Vers : 20260108_2047 </center>
-<center>Vers : 20260109_0547 </center>
+<head><meta charset="utf-8"><title>Vers : 20260108_2059 </title></head>
+<center>Vers : 20260108_2059 </center>
+<center>Vers : 20260109_0559 </center>
 <br><br><br>
+#### [콜롬비아의 2025년 커피 생산량, 2.27% 감소 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431579)
+#### [포르투갈의 센테노, ECB 부총재직 출마 선언 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431575)
+#### [Vance, 유럽인들에게 그린란드 보안을 더 심각하게 받아들이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431578)
+#### [1월 8일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431573)
+#### [엔스케일, 엔비디아 지원으로 20억 달러 자금 조달 라운드에 주목 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431577)
+#### [캐나다, 2031년 만기 52억 5,000만 캐나다 달러 채권 경매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431572)
+#### [오후 03:30(동부 표준시) 기준 S&P 500 상위 및 하위 실적 종목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431574)
+#### [USI, 2026년 중반까지 손해보험 요율 완화, 손해율 안정화 조짐 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431576)
 #### [미국 하원, 콜로라도 수자원 프로젝트에 대한 트럼프 거부권 거부 투표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431566)
 #### [공화당의 반대에도 불구하고 미국 하원, 건강 보조금 갱신 통과 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431571)
 #### [미국 하원, 플로리다 에버글레이즈 프로젝트에 대한 트럼프 거부권 차단 실패](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431569)
@@ -60,14 +68,3 @@
 #### [Macy 's, Ulta Beauty가 더 높은 우위를 점하고 있다고 분석가는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431529)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ULTA.O/total>
 #### [릴리의 탈츠 플러스 제바운드, 관절염과 비만에 대한 3B상 임상시험에서 우수한 효능 입증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431519)
-#### [브라질 석유 규제 당국, 포즈 두 아마조나스에서 페트로브라스 시추 보류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431524)
-#### [제프리 주가가 3천만 달러 규모의 퍼스트 브랜드 실적 부진으로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431509)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431513)
-#### [블랙오팔, 브라질 신용카드 매출채권 토큰화를 위해 2억 달러 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431506)
-#### [기술주 하락과 방위주 랠리로 미국 증시-월가 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431508)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KTOS.O/total>
-#### [베네수엘라 주재 대사관, 미국 및 유럽 석유 회사 방문 계획, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431512)
-#### [유니티 그룹, 키네틱 파이버 유동화 채권 상품 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431518)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UNIT.O/total>
-#### [오터테일 코퍼레이션, 주당 0.5775달러의 분기 배당금 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431507)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OTTR.O/total>
