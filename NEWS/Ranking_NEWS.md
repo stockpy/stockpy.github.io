@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260108_1426 </title></head>
-<center>Vers : 20260108_1426 </center>
-<center>Vers : 20260108_2326 </center>
+<head><meta charset="utf-8"><title>Vers : 20260108_1453 </title></head>
+<center>Vers : 20260108_1453 </center>
+<center>Vers : 20260108_2353 </center>
 <br><br><br>
 #### ["전세금까지 빼서 월세 갔는데"…30대 직장인의 '눈물'](https://m.stock.naver.com/news/ranknews/view/015/0005234733)
 #### [하이닉스를 앞지르네…"364% 오른 비결이 뭐야"](https://m.stock.naver.com/news/ranknews/view/215/0001237266)
@@ -62,9 +62,9 @@
 #### [환율, 당국 개입 경계에도 6일 연속 상승…1450원 넘어](https://m.stock.naver.com/news/ranknews/view/015/0005234617)
 #### [로봇 테마 탄 현대차, PBR 0.5배 '만년 저평가' 굴레 넘어서나](https://m.stock.naver.com/news/ranknews/view/629/0000460712)
 #### [오케스트라PE, '매머드커피' 인수…日 저가커피 시장 공략 [fn마켓워치]](https://m.stock.naver.com/news/ranknews/view/014/0005460393)
-<head><meta charset="utf-8"><title>Vers : 20260108_1426 </title></head>
-<center>Vers : 20260108_1426 </center>
-<center>Vers : 20260108_2326 </center>
+<head><meta charset="utf-8"><title>Vers : 20260108_1453 </title></head>
+<center>Vers : 20260108_1453 </center>
+<center>Vers : 20260108_2353 </center>
 <br><br><br>
 #### [李 '잔인하다' 지적에 … 당국, 서민 대출금리 최대 6%P 인하](https://m.stock.naver.com/news/ranknews/view/009/0005618762)
 #### [삼성그룹펀드 수익률 '14만전자' 타고 동반 고공행진](https://m.stock.naver.com/news/ranknews/view/421/0008702171)
