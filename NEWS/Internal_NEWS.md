@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20260108_2221 </title></head>
-<center>Vers : 20260108_2221 </center>
-<center>Vers : 20260109_0721 </center>
+<head><meta charset="utf-8"><title>Vers : 20260108_2244 </title></head>
+<center>Vers : 20260108_2244 </center>
+<center>Vers : 20260109_0744 </center>
 <br><br><br>
+#### [수입업자들은 트럼프가 대법원에서 패소할 경우 1,500억 달러의 관세 환급 싸움에 대비합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431678)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7012.T/total>
+#### [주초 약세를 보인 미국 서부 텍사스산 원유-걸프만 연안유가 강세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431683)
+#### [리그, 브라질 아제베도 & 트라바소스 지분 지우기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431680)
+#### [러시아 공격, 서부 리비우 지역의 인프라 목표 타격, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431681)
+#### [파나마, 미국이 압류한 유조선의 깃발을 1년 전에 취소했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431682)
+#### [레볼루션 메디신스, 머크 인수 협상 공동 보도 후 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431679)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ERAS.O/total>
+#### [웨스트 프레이저, 영업권 손상 발표 및 2026년 운영 전망 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431670)
+#### [SS 이노베이션스, 글로벌 최고운영책임자 겸 최고재무책임자로 밀란 라오 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431676)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SSII.O/total>
+#### [의료 보조금 갱신 법안, 미국 하원 통과를 앞두고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431668)
+#### [콘메드, 최고 재무 책임자 전환 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431675)
+#### [기술보다 방어, 다음 단계는 급여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431672)
+#### [타이탄 아메리카, 키스톤 시멘트 회사 인수 계약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431669)
+#### [아메리칸 웰, 1월 1일부로 엘리밴스 헬스와의 업무 수정 명세서 발효 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431674)
+#### [앱테라 모터스, 토니 커튼을 이사회 의장으로 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431671)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SEV.O/total>
+#### [미국 비로 기상 우려 완화로 밀 선물이 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431677)
+#### [무디스 애널리스트, 1조 5천억 달러 규모의 트럼프 국방 예산 계획이 적자를 확대할 수 있다고 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431673)
 #### [머스크의 X, 영국에서 AI 챗봇 행렬로 금지될 수 있다 - 텔레그래프](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431665)
 #### [콜롬비아의 페트로, 브라질의 룰라에게 베네수엘라에 대한 연설 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431667)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431663)
@@ -55,24 +75,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KALV.O/total>
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431619)
 #### [총 마진 개선에 따른 WD-40 1분기 순매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431617)
-#### [GM, 전기차 철수로 60억 달러 상각, 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431625)
-#### [미국 항소법원, 일본 NHK 스프링에 대한 씨게이트의 반독점 청구 부활](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431615)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/STX.O/total>
-#### [목요일 마무리: 나스닥-다우 지수 시소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431616)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AVGO.O/total>
-#### [Simulations Plus 1분기 매출, 기대치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431624)
-#### [EUR/USD는 약세를 이어가고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431614)
-#### [GM - 2025년 12월 31일로 끝나는 3개월 동안 60억 달러의 청구가 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431622)
-#### [리오 틴토: Co와 글렌코어, 예비 논의 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431623)
-#### [파시라 2025 예비 매출은 예상치를 약간 하회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431613)
-#### [코닝은 AI 거래의 '큰손'이라고 시장 전문가는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431621)
-#### [아발로 테라퓨틱스, 최대 7억5천만 달러 규모의 혼합 선반에 대한 간략한 보고서 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431628)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AVTX.O/total>
-#### [크리스탈 바이오텍, KB407 임상 1상 CORAL-1 연구에서 긍정적인 중간 임상 업데이트 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431612)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KRYS.O/total>
-#### [Ascendis: 52주차 코치 임상시험 탑라인 결과, 연골형성부전증 소아에서 일관되고 지속적인 치료 효과 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431627)
-#### [글렌코어, 리오틴토와의 조기 인수 협상 확정에 따른 세계 10대 구리 광산](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431605)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/5713.T/total>
-#### [트럼프, 나이지리아에 더 많은 미국 파업이있을 수 있다고 NY Times에 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431608)
-#### [시뮬레이션 플러스 1분기 매출 1,840만 달러 대 IBES 추정치 1,800만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431611)
-#### [아리치아 3분기 조정 주당순이익 CAD 1.1 대 IBES 추정치 CAD 0.86](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431607)
