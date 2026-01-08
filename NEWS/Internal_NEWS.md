@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260108_2256 </title></head>
-<center>Vers : 20260108_2256 </center>
-<center>Vers : 20260109_0756 </center>
+<head><meta charset="utf-8"><title>Vers : 20260108_2321 </title></head>
+<center>Vers : 20260108_2321 </center>
+<center>Vers : 20260109_0821 </center>
 <br><br><br>
+#### [페루 중앙은행, 기준금리 4.25%로 동결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431699)
+#### [콜롬비아 12 월 인플레이션 5.10 % - 로이터 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431696)
+#### [분석-싱가포르의 나스닥 링크는 관심을 끌지만, 임계값과 유동성으로 인해 채택이 제한될 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431695)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
+#### [트럼프가 '대리인'에게 2천억 달러 규모의 모기지 채권 매입을 명령합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431698)
+#### [미국 상원, 트럼프의 베네수엘라 전쟁 권한 제한 법안 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431701)
+#### [JD 밴스, 미네소타 ICE 총격 사건 방어에 앞장서고 민주당에 교전 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431694)
+#### [머크, CDC가 아동 백신 목록을 줄인 후 과학 주도의 미국 백신 일정 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431697)
+#### [피트니스 트래킹 앱 스트라바, 비밀리에 IPO 신청, 정보 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431700)
+#### [KMC 프로퍼티 ASA와 BEWI 인베스트, 합병 계획 체결 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431702)
+#### [브라질, 라파엘 루소스키가 CFO 직책에서 사임했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431688)
+#### [베네수엘라 우려가 계속되면서 캐나다 서부 셀렉트 할인이 $15를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431692)
+#### [메타, 트럼프 선거 변호사 빌 맥긴리를 로비스트로 고용 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431690)
+#### [미 하원, 민주당의 승리로 의료 보조금 갱신안 통과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431693)
+#### [미국 곡물 바지선 운임 값은? Jan 8](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431691)
+#### [트럼프가 NYT에 말한다: 중국이 대만에서 무엇을 할지는 '시진핑에게 달려있다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431689)
 #### [키예프에 대한 러시아 드론 공격으로 화재가 발생했다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431687)
 #### [솔트앤페파, UMG의 음반 회수 입찰에서 패소하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431684)
 #### [독점 마켈 미국 사이버 책임자 보티첼리가 하우덴으로 떠나고 멜론이 임시 리더로 임명되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431685)
@@ -56,21 +72,3 @@
 #### [치명적인 미니애폴리스 총격 사건의 경찰관은 이전에 자동차에 끌려 갔다고 Vance는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431636)
 #### [북미, 1월 9일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431630)
 #### [이뮤셀 4분기 예비 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431634)
-#### [캐나다의 아리치아 3분기 조정 주당순이익이 이커머스 성장에 힘입어 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431640)
-#### [트럼프, 인텔 CEO와 좋은 만남을 가졌다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431629)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
-#### [교육개발공사 3분기 매출 700만 달러 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431633)
-#### [스트라바, 골드만삭스 고용하고 비밀리에 IPO 신청 - 더 정보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431639)
-#### [월가는 기술주 하락, 방위주 랠리로 혼조 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431644)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KTOS.O/total>
-#### [에어 테스트 시스템 2분기 매출이 예상치를 하회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431632)
-#### [베타 바이오닉스 4분기 순매출 예비치 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431638)
-#### [콥트 디펜스, 샌안토니오에서 132,000평방피트 규모의 빌드 투 슈트 임대 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431643)
-#### [프론트라인, 전략적 함대 리뉴얼 이니셔티브 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431647)
-#### [미국 연방 노동력, 최소 10년 만에 최저 수준으로 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431637)
-#### [캠든 내셔널, 최대 850,000주 매입 승인 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431642)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CAC.O/total>
-#### [EACO 1분기 순매출 18% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431646)
-#### [비욘드 오일, 미국 시장에서 상업적 확장을 지속하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431645)
-#### [독점-트럼프, 의회가 미네소타 북부 광업에 대한 바이든 시대의 금지를 취소하려는 움직임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431641)
-#### [국제 의료용 대마초 판매 성장에 힘입어 틸레이 2분기 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2431626)
