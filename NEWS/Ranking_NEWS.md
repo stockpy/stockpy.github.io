@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260109_0635 </title></head>
-<center>Vers : 20260109_0635 </center>
-<center>Vers : 20260109_1535 </center>
+<head><meta charset="utf-8"><title>Vers : 20260109_0701 </title></head>
+<center>Vers : 20260109_0701 </center>
+<center>Vers : 20260109_1601 </center>
 <br><br><br>
 #### ['고수들은 환희에 판다'…삼전·SK하닉 던지고 보로노이·한화오션 베팅[주식초고수는 지금]](https://m.stock.naver.com/news/ranknews/view/011/0004576782)
 #### [1억이 4억6000만원 됐다…SK하이닉스 덕분에 '주가 대박' [선한결의 이기업왜이래]](https://m.stock.naver.com/news/ranknews/view/015/0005234868)
