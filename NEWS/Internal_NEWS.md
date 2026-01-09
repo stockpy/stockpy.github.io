@@ -1,7 +1,30 @@
-<head><meta charset="utf-8"><title>Vers : 20260109_1833 </title></head>
-<center>Vers : 20260109_1833 </center>
-<center>Vers : 20260110_0333 </center>
+<head><meta charset="utf-8"><title>Vers : 20260109_1858 </title></head>
+<center>Vers : 20260109_1858 </center>
+<center>Vers : 20260110_0358 </center>
 <br><br><br>
+#### [미국 급여 미스, 더 넓은 불확실성으로 주간 상승세를 보인 금 세트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433068)
+#### [미국 주식 동향-인텔, 가트너, 치포틀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433073)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AKTS.O/total>
+#### [벼랑 끝에 선 시고: 베네수엘라 국영 석유회사에 대한 갈등, 채권자, 그리고 통제권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433071)
+#### [대두 선물은 중국의 수요에 초점을 맞춰 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433067)
+#### [브라이트라인 철도 채권자들, 이자 지급을 앞두고 고문들과 모여 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433072)
+#### [브라질, CFO 사임 후 GPA 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433070)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BVSP>
+#### [미국 판사, 트럼프의 중남미 이민자 10,000명 합법 신분 폐지 움직임 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433069)
+#### [바클레이즈, 여행자 PT를 312달러로 인하합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433063)
+#### ['미안하다고 말하고 싶다'고 눈물을 흘리는 스위스 바 주인의 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433066)
+#### [미국의 베네수엘라 석유 구매 허가를위한 협상에서 인도의 의존도, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433065)
+#### [Fed의 보스틱은 높은 인플레이션이 여전히 중앙은행의 주요 과제라고 말합니다 - 라디오 인터뷰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433062)
+#### [미니애폴리스에서 미국 이민국 요원에게 살해당한 여성 르네 굿은 누구였나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433058)
+#### [USD/JPY 강세가 고삐를 쥐고 고점을 높이다 158](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433064)
+#### [EUR/USD- 1개월래 최저치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433061)
+#### [미국 시추업체들이 3주 만에 처음으로 석유 및 가스 굴착 장비를 절단했다고 베이커 휴즈는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433057)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
+#### [12월 미국 일자리 성장률 둔화, 실업률 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433059)
+#### [미국 고용지표가 비둘기파적 연준에 대한 기대에 도전하면서 스털링이 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433060)
+#### [대두 기준 상승, 옥수수 WASDE 앞두고 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433056)
+#### [Fed's Barkin: 완만 한 일자리 증가는 의료, AI 이외의 기업들이 여전히 고용을 꺼려 함을 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433054)
+#### [뉴욕 연준, 리버스 리포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433055)
 #### [러시아, 나토 국경 근처 우크라이나 목표물에 극초음속 미사일 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433053)
 #### [미국 판사, 트럼프의 라틴 아메리카 이민자 10,000 명 '합법적 지위'종료 움직임 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433051)
 #### [미국 고용지표 이후에도 BUZZ-AUD/USD-약세 흐름 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433052)
@@ -54,25 +77,3 @@
 #### [USDA 데이터에 관심이 집중되면서 유로넥스트 밀이 잠시 주춤합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433014)
 #### [달러, 미국 고용지표 이후 2주 연속 상승세 이어가나?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433007)
 #### [베이와 CEO 프랭크 힐러, 물러나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433011)
-#### [데이터 회사 Agri Stats, 육류 노동자들의 임금 담합 소송 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433018)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SFD.O/total>
-#### [바클레이즈, 보야 파이낸셜을 '비중확대' 등급으로 업그레이드](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433010)
-#### [러시아 파업으로 아파트가 찢어진 후 키예프 주민들이 추위와 싸우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433017)
-#### [?WTI 거래 상승, CNOOC는 40 달러 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433020)
-#### [미국 고용지표 발표로 증시, 달러화 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433009)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
-#### [주말 유가 안정세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433016)
-#### [베네수엘라, 미국과의 외교 관계 회복을 모색하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433019)
-#### [벤타리스 서지컬 Inc. 3,000만 달러 규모의 시리즈 A 투자 유치 완료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433000)
-#### [트럼프의 관세는 어떻게 파급되나? 남부 캘리포니아 비즈니스 단지를 통해 살펴보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432992)
-#### [에키놉스, CEO에 라이오넬 치밀레프스키 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432991)
-#### [FDA, 고양이의 수술 후 통증에 대한 최초의 로베나콕시브 정제 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432999)
-#### [가솔린 정제 마진 슬라이드](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432996)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432990)
-#### [아보시나 헬스케어 솔루션, 데이터 사고 알림 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432998)
-#### [폴리마켓, 골든 글로브와 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432995)
-#### [자산운용사 애버딘, 놀라운 랠리 후 베네수엘라 국채를 정리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432997)
-#### [비스트라, 메타를 통한 PPAS의 완전한 제공으로 성장 가속화에 앞서 점진적인 조정 FCF 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432994)
-#### [젤렌스키, 러시아의 오레슈닉 공격이 '실증적으로' EU 국경에 가까웠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433006)
-#### [남부 공동 가스-Nicor Gas, 일리노이위원회에 연간 기본 요금 수입에서 2 억 2100 만 달러 인상 요청,제출 쇼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433002)
-#### [텔시가 "아웃퍼폼"으로 시작하면서 버즈-치포틀이 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432993)
