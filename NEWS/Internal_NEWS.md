@@ -1,7 +1,28 @@
-<head><meta charset="utf-8"><title>Vers : 20260109_1656 </title></head>
-<center>Vers : 20260109_1656 </center>
-<center>Vers : 20260110_0156 </center>
+<head><meta charset="utf-8"><title>Vers : 20260109_1726 </title></head>
+<center>Vers : 20260109_1726 </center>
+<center>Vers : 20260110_0226 </center>
 <br><br><br>
+#### [북유럽 원자력 발전소 정전 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432989)
+#### [VGP, 6억 유로 규모의 6년 만기 그린본드 발행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432985)
+#### [에나, Pmh Srl이 25% 지분 기준치를 초과하고 Cinzia Tarabella는 5% 미만으로 하락했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432988)
+#### [캐나다 기업 실적 발표 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432987)
+#### [미국 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432984)
+#### [미니애폴리스 시장은 시위가 확산됨에 따라 ICE 총격 사건에 대한 투명한 조사를 요구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432982)
+#### [멕시코의 셰인바움, 트럼프가 카르텔에 대한 지상 공격을 위협한 후 미국의 긴밀한 공조 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432986)
+#### [알미랄, 2026년 2분기부터 환자 등록 시작될 수 있는 판상 습진에 대한 레브리키주맙 3상 임상시험 개요 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432983)
+#### [옵스 리테일, 10만 유로 규모의 전환사채 대출 첫 트랜치 청약 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432981)
+#### [스웨덴 스파이 용의자가 러시아를 위해 일한 것으로 보인다고 검찰은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432980)
+#### [누스코 스파, 주당 1.35유로로 유상증자 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432979)
+#### [미국, 베네수엘라 봉쇄에서 나포 된 다섯 번째 선박 인 올리나 유조선 압류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432977)
+#### [이엘, 320만 주 규모의 자사주 매입 프로그램 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432975)
+#### [재무부, 미네소타 사기 조사 중 일부 기업에 통보, 베 센트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432973)
+#### [헬스케어 딜메이커들이 2026년 거대 합병을 기대하며 샌프란시스코로 향합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432976)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RVMD.O/total>
+#### [구글의 브린, 캘리포니아 사업 축소, 여러 개인 사업체를 타주로 이전- NYT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432972)
+#### [메리어트 인터내셔널을 '탁월한 성과'로 업그레이드한 BUZZ-BMO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432974)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MAR.O/total>
+#### [은행들, 베네수엘라 투자에 주목, JP모건은 유리하게 본다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432978)
+#### [메르코수르 무역 협정 체결 승인 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432971)
 #### [ACS와 GIP, 데이터 센터를 위한 50/50 JV 완성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432970)
 #### [부분적으로 흐린 급여: 일자리 증가 약세, 임금 강세, 실업률 하락, 경제활동참가율 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432964)
 #### [트럼프가 일부 일자리 데이터를 조기에 게시한 것으로 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432969)
@@ -30,7 +51,7 @@
 #### [트럼프는 일부 일자리 데이터를 조기에 게시한 것으로 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432947)
 #### [폴로니아 요금이 0.42퍼센트 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432945)
 #### [2026년 거대 합병을 기대하며 샌프란시스코로 향하는 헬스케어 딜메이커들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432946)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INSM.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RVMD.O/total>
 #### [BofA, FedEx 및 UPS 등급 상향 조정, 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432944)
 #### [휴전 진전이 흔들리는 가운데 이스라엘의 공격으로 가자 지구에서 11명이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432952)
 #### [유로넥스트, 원자재 선물 저녁 시간대 단축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432936)
@@ -47,25 +68,3 @@
 #### [알파 은행, 유니크레딧이 의결권 및 금융 상품에서 29.8 %를 보유하고있어 잠재적으로 2.27 %를 더 줄 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432932)
 #### [여러 순풍에 힘입어 상승세를 탄 USD/JPY](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432929)
 #### [자산운용사 애버딘, 놀라운 랠리 후 베네수엘라 채권 '정리'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432931)
-#### [LVMH 샴페인 노조, 추가 파업 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432927)
-#### [EU 국가들이 25년 만에 기록적인 남미 무역 협상을 다시 추진합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432928)
-#### [투자 펀드 라만차, 4억 3,500만 달러 규모의 거래에서 엔데버 마이닝 지분 정리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432930)
-#### [네덜란드 정당, 소수 정부 구성 목표, NOS 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432926)
-#### [볼터스 클루버, 마리아 몬테네그로를 기업 성과 및 ESG 사업부 CEO로 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432919)
-#### [인도는 미국의 베네수엘라 석유 구매 허가를위한 협상에 의존하고 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432923)
-#### [아르헨티나, 미국에 통화 스와프 계약 상환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432925)
-#### [미국 주식이 움직인다-스포티파이, 인스메드, 나노 원자력 에너지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432918)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OPEN.O/total>
-#### [스위스 검찰, 치명적인 화재 후 술집 주인을 구금하기 위해 움직입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432922)
-#### [GBP/USD가 하락하여 200DMA를 위협합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432916)
-#### [비리디앙, 센서 유닛 판매 가능성에 대한 보도에 뛰어들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432917)
-#### [러시아가 우크라이나를 향해 발사한 오레시닉 미사일이란 무엇인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432921)
-#### [터키, 사료 보리 21 만 톤 구매 및 수입 입찰, 상인들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432915)
-#### [TransRe, 토레스를 글로벌 부동산 포트폴리오 리더로 승진 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432913)
-#### [트럼프가 CEO와의 만남을 칭찬한 후 BUZZ-인텔 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432920)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
-#### [OFS 캐피탈, 뱅크 오브 캘리포니아와 대출 계약 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432914)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OFS.O/total>
-#### [폴란드, 그린란드를 둘러싼 나토의 긴장에 대해 우려, 투스크 의장 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432912)
-#### [러시아 드론이 오데사 지역에서 두 척의 외국 선박을 공격했다고 키예프가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432924)
-#### [카무루스, 오클레이즈 NDA 재신청에 대한 FDA 승인 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432897)
