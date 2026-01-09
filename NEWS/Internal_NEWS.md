@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260109_2221 </title></head>
-<center>Vers : 20260109_2221 </center>
-<center>Vers : 20260110_0721 </center>
+<head><meta charset="utf-8"><title>Vers : 20260109_2242 </title></head>
+<center>Vers : 20260109_2242 </center>
+<center>Vers : 20260110_0742 </center>
 <br><br><br>
+#### [바이오 제약 회사 Veradermics, 미국 IPO 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433200)
+#### [미국 곡물 바지선 운임 값은? Jan 9](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433202)
+#### [대두 선물이 중국의 적극적인 매수세에 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433198)
+#### [트럼프, 미국은 러시아와 중국을 억제하기 위해 그린란드를 소유해야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433199)
+#### [마켓 토크 일자리 보고서 '금리 인하를 보증 할만큼 나쁘지 않다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433201)
+#### [실업률 상승으로 캐나다 달러가 11개월 만에 주간 최대 하락폭 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433197)
+#### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
+#### [바이오 제약 회사 Veradermics, 미국 IPO 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433195)
+#### [중국, 4 ~ 5 월 선적을 위해 최소 10 개의 미국산 대두화물을 구매한다고 상인들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433196)
+#### [미국 증권거래위원회, 리오 틴토 전 CFO에 대한 소송 기각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433193)
+#### [미국 EPA는 제초제 파라콰트의 안전성을 재평가 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433194)
 #### [미 상무부, 중국산 드론에 대한 제한 계획 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433190)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688208.SS/total>
 #### [영국, 우크라이나 배치 가능성에 대비하기 위해 2억 7천만 달러 할당](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433191)
@@ -64,13 +75,3 @@
 #### [엑손 CEO, 베네수엘라 재진입 검토 준비 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433145)
 #### [미국 고용지표 호조로 증시 상승, 달러화 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433144)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
-#### [코노코필립스는 미국 은행들이 베네수엘라 석유 투자를 지원해야 할 수도 있다고 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433142)
-#### [트럼프, 중국이 미국이나 베네수엘라에서 원하는 모든 석유를 살 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433139)
-#### [IMM: 유로 강세 복귀로 USD 숏 추가, 157달러 이상 상승한 엔화 매도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433136)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433141)
-#### [엑손 CEO는 베네수엘라의 도전 과제는 자원 개발이라고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433138)
-#### [CBOT 대두는 USDA 데이터 이전에 트레이더가 포지션을 조정함에 따라 가격이 결정됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433135)
-#### [셰브론, 베네수엘라에 대한 투자를 계속할 것임을 밝힙니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433140)
-#### [CBOT 밀은 거의 안정적으로 끝나고 거래자들은 미국 작물 보고서를 기다리고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433137)
-#### [1월 9일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433134)
-#### [장비셰어와 모티브 테크놀로지스, 다음 주 마케팅 기업공개 검토- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433129)
