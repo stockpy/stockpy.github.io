@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260109_2025 </title></head>
-<center>Vers : 20260109_2025 </center>
-<center>Vers : 20260110_0525 </center>
+<head><meta charset="utf-8"><title>Vers : 20260109_2046 </title></head>
+<center>Vers : 20260109_2046 </center>
+<center>Vers : 20260110_0546 </center>
 <br><br><br>
+#### [장비셰어와 모티브 테크놀로지스, 다음 주 마케팅 기업공개 검토- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433129)
+#### [투기꾼들이 옥수수 순매도 포지션 정리 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433133)
+#### [펀드 매니저들이 최근 한 주 동안 S&P 500 선물 순매수 포지션을 늘렸습니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433131)
+#### [투기꾼들이 미국 원유 순매도를 줄인다-CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433128)
+#### [코코아 가격 하락과 수요 약세 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433132)
+#### [미국, 최대 5 천만 배럴의 베네수엘라 석유 정제 및 판매, 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433130)
+#### [FBI, 뉴욕 지부장에 2인자 자리를 노린다, NYT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433119)
+#### [월마트가 지원하는 핀테크 기업 원페이의 기업가치 40억 달러 달성 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433127)
+#### [캘리포니아 주지사가 2억 달러의 새로운 주 전기차 세금 환급을 제안합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433125)
+#### [머스크의 X, 라이선스 음모 혐의로 음악 퍼블리셔를 고소하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433122)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6758.T/total>
+#### [트럼프, 미국은 베네수엘라에 투자 할 수있는 석유 회사를 선택할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433126)
+#### [트럼프, 베네수엘라 논의를 위해 석유 회사들과 회의 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433124)
+#### [FBI, 뉴욕 사무소장을 2 번 직책으로 두드리다, NYT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433121)
+#### [미국 상무부, 중국산 드론에 대한 제한 계획 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433118)
+#### [트럼프? 베네수엘라에 '시추 베이비 드릴'의제를 밀어 붙이고 자국 생산자들에게 피해를 입히다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433123)
+#### [재생-EUR/USD의 기다림, 스털링의 생존, USD/JPY 순풍](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433120)
+#### [거래 둔화에도 변동 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433117)
 #### [트럼프, 미국이 승인없이 베네수엘라를 떠난 유조선을 압수했다고 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433113)
 #### [백악관, 일자리 데이터 '부주의' 공개 인정, 프로토콜 검토 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433110)
 #### [이란의 대규모 시위 속에서 트럼프는 신중한 접근을 취합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433114)
@@ -52,23 +70,3 @@
 #### [미국 북서부 강 유량은 101 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433076)
 #### [미네소타 당국, 시위 확산에 따라 ICE 총격 사건에 대한 자체 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433077)
 #### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433074)
-#### [미국 급여 미스, 더 넓은 불확실성으로 주간 상승세를 보인 금 세트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433068)
-#### [미국 주식 동향-인텔, 가트너, 치포틀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433073)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OPEN.O/total>
-#### [벼랑 끝에 선 시고: 베네수엘라 국영 석유회사에 대한 갈등, 채권자, 그리고 통제권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433071)
-#### [대두 선물은 중국의 수요에 초점을 맞춰 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433067)
-#### [브라이트라인 철도 채권자들, 이자 지급을 앞두고 고문들과 모여 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433072)
-#### [브라질, CFO 사임 후 GPA 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433070)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BVSP>
-#### [미국 판사, 트럼프의 중남미 이민자 10,000명 합법 신분 폐지 움직임 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433069)
-#### [바클레이즈, 여행자 PT를 312달러로 인하합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433063)
-#### ['미안하다고 말하고 싶다'고 눈물을 흘리는 스위스 바 주인의 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433066)
-#### [미국의 베네수엘라 석유 구매 허가를위한 협상에서 인도의 의존도, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433065)
-#### [Fed의 보스틱은 높은 인플레이션이 여전히 중앙은행의 주요 과제라고 말합니다 - 라디오 인터뷰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433062)
-#### [미니애폴리스에서 미국 이민국 요원에게 살해당한 여성 르네 굿은 누구였나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433058)
-#### [USD/JPY 강세가 고삐를 쥐고 고점을 높이다 158](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433064)
-#### [EUR/USD- 1개월래 최저치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433061)
-#### [미국 시추업체들이 3주 만에 처음으로 석유 및 가스 굴착 장비를 절단했다고 베이커 휴즈는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433057)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
-#### [12월 미국 일자리 성장률 둔화, 실업률 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433059)
-#### [미국 고용지표가 비둘기파적 연준에 대한 기대에 도전하면서 스털링이 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433060)
