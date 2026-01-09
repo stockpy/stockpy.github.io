@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260109_1858 </title></head>
-<center>Vers : 20260109_1858 </center>
-<center>Vers : 20260110_0358 </center>
+<head><meta charset="utf-8"><title>Vers : 20260109_1926 </title></head>
+<center>Vers : 20260109_1926 </center>
+<center>Vers : 20260110_0426 </center>
 <br><br><br>
+#### [예 귄도스 ECB 부총재 후임에 6명의 후보가 출사표를 던졌습니다 -Eurogroup](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433080)
+#### [소 86,000마리, 돼지 484,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433078)
+#### [베네수엘라, 로드리게스 임시 대통령, 해외 여행 계획 없어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433082)
+#### [트럼프, 콜롬비아 지도자와 2월 회동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433079)
+#### [트럼프는 석유 회사들과 만나 베네수엘라에 집중하고 가격을 낮추겠다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433081)
+#### [안드레센 호로위츠, AI 및 방위 분야 스타트업에 두 배로 투자하며 150억 달러 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433075)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
+#### [미국 북서부 강 유량은 101 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433076)
+#### [미네소타 당국, 시위 확산에 따라 ICE 총격 사건에 대한 자체 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433077)
+#### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433074)
 #### [미국 급여 미스, 더 넓은 불확실성으로 주간 상승세를 보인 금 세트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433068)
 #### [미국 주식 동향-인텔, 가트너, 치포틀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433073)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AKTS.O/total>
@@ -65,15 +75,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0459.HK/total>
 #### [스탠다드차타드, 7억5000만 싱가포르 달러 규모의 고정금리 리셋 영구 후순위 조건부 전환사채 발행 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433022)
 #### [칠레 코델코의 11월 구리 생산량 3% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433025)
-#### [S&P 500, 소프트 고용지표가 금리인하 기대감을 유지하면서 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433027)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OPEN.O/total>
-#### [페루 중앙은행, 11월 경제가 전년 대비 2% 성장했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433021)
-#### [나토의 루테는 미국 루비오 의원과 공동 안보에 있어 북극의 중요성에 대해 이야기했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433013)
-#### [런던의 FTSE 100은 미국 고용 데이터, 글렌 코어 상승으로 사상 최고치로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433015)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
-#### [독일 베이와, 구조조정으로 CEO 퇴진 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433008)
-#### [실업률 상승으로 캐나다 달러가 11 개월 만에 주간 최대 하락으로 향합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433012)
-#### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
-#### [USDA 데이터에 관심이 집중되면서 유로넥스트 밀이 잠시 주춤합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433014)
-#### [달러, 미국 고용지표 이후 2주 연속 상승세 이어가나?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433007)
-#### [베이와 CEO 프랭크 힐러, 물러나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433011)
