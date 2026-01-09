@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260109_0440 </title></head>
-<center>Vers : 20260109_0440 </center>
-<center>Vers : 20260109_1340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260109_0503 </title></head>
+<center>Vers : 20260109_0503 </center>
+<center>Vers : 20260109_1403 </center>
 <br><br><br>
 #### [“코스피 불장 예감했나”…외국인 한 달만에 ‘바이 코리아’ 전환, 매수 규모보니](https://m.stock.naver.com/news/ranknews/view/009/0005618968)
 #### [1억이 4억6000만원 됐다…SK하이닉스 덕분에 '주가 대박' [선한결의 이기업왜이래]](https://m.stock.naver.com/news/ranknews/view/015/0005234868)
