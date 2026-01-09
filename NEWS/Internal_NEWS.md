@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260109_2242 </title></head>
-<center>Vers : 20260109_2242 </center>
-<center>Vers : 20260110_0742 </center>
+<head><meta charset="utf-8"><title>Vers : 20260109_2254 </title></head>
+<center>Vers : 20260109_2254 </center>
+<center>Vers : 20260110_0754 </center>
 <br><br><br>
+#### [미국 EPA는 제초제 파라콰트의 안전성을 재평가 할 것이라고 수석은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433208)
+#### [베네수엘라 야당 의원들, 포로 석방으로 풀려난 것으로 알려짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433206)
+#### [FCC, SpaceX 승인?스타링크 위성 7,500개 추가 배치 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433204)
+#### [SPDR 골드 보유량 0.24% 또는 2.57톤 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433207)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLD/total>
+#### [카지노 운영사 윈의 CFO 줄리 카메론-도 은퇴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433205)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WYNN.O/total>
+#### [콜롬비아의 FARC 반군 지도자, 미국 개입주의에 맞서기 위해 게릴라 단결 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433203)
 #### [바이오 제약 회사 Veradermics, 미국 IPO 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433200)
 #### [미국 곡물 바지선 운임 값은? Jan 9](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433202)
 #### [대두 선물이 중국의 적극적인 매수세에 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433198)
@@ -68,10 +76,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
 #### [골드만삭스, 모건스탠리, RBC, 첫 학생 기업공개에 선정 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433154)
 #### [펀드, CBOT 옥수수, 대두, 밀 순매수자, 트레이더들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433148)
-#### [비즈니스 룩어헤드: 모자를 꽉 잡으세요, 바빠지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433146)
-#### [배전 회사 Forgent Power, 미국 IPO 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433153)
-#### [정부 셧다운으로 지연된 미국 경제 지표 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433147)
-#### [워싱턴 파이프 폭탄 용의자, 무죄 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433143)
-#### [엑손 CEO, 베네수엘라 재진입 검토 준비 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433145)
-#### [미국 고용지표 호조로 증시 상승, 달러화 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433144)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
