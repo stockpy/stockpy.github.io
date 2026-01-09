@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260109_2046 </title></head>
-<center>Vers : 20260109_2046 </center>
-<center>Vers : 20260110_0546 </center>
+<head><meta charset="utf-8"><title>Vers : 20260109_2058 </title></head>
+<center>Vers : 20260109_2058 </center>
+<center>Vers : 20260110_0558 </center>
 <br><br><br>
+#### [코노코필립스는 미국 은행들이 베네수엘라 석유 투자를 지원해야 할 수도 있다고 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433142)
+#### [트럼프, 중국이 미국이나 베네수엘라에서 원하는 모든 석유를 살 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433139)
+#### [IMM: 유로 강세 복귀로 USD 숏 추가, 157달러 이상 상승한 엔화 매도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433136)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433141)
+#### [엑손 CEO는 베네수엘라의 도전 과제는 자원 개발이라고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433138)
+#### [CBOT 대두는 USDA 데이터 이전에 트레이더가 포지션을 조정함에 따라 가격이 결정됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433135)
+#### [셰브론, 베네수엘라에 대한 투자를 계속할 것임을 밝힙니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433140)
+#### [CBOT 밀은 거의 안정적으로 끝나고 거래자들은 미국 작물 보고서를 기다리고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433137)
+#### [1월 9일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433134)
 #### [장비셰어와 모티브 테크놀로지스, 다음 주 마케팅 기업공개 검토- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433129)
 #### [투기꾼들이 옥수수 순매도 포지션 정리 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433133)
 #### [펀드 매니저들이 최근 한 주 동안 S&P 500 선물 순매수 포지션을 늘렸습니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433131)
@@ -60,13 +69,3 @@
 #### [페루, 주요 지표에 힘입어 11월 경제 성장률 2% 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433085)
 #### [OpenAI, 소프트뱅크, 스타게이트 파트너 SB에너지에 10억 달러 투자- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433086)
 #### [캘리포니아 주지사, 2억 달러 규모의 새로운 주 전기차 세금 환급 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433083)
-#### [예 귄도스 ECB 부총재 후임에 6명의 후보가 출사표를 던졌습니다 -Eurogroup](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433080)
-#### [소 86,000마리, 돼지 484,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433078)
-#### [베네수엘라, 로드리게스 임시 대통령, 해외 여행 계획 없어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433082)
-#### [트럼프, 콜롬비아 지도자와 2월 회동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433079)
-#### [트럼프는 석유 회사들과 만나 베네수엘라에 집중하고 가격을 낮추겠다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433081)
-#### [안드레센 호로위츠, AI 및 방위 분야 스타트업에 두 배로 투자하며 150억 달러 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433075)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
-#### [미국 북서부 강 유량은 101 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433076)
-#### [미네소타 당국, 시위 확산에 따라 ICE 총격 사건에 대한 자체 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433077)
-#### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433074)
