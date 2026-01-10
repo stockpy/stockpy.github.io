@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_1830 </title></head>
-<center>Vers : 20260110_1830 </center>
-<center>Vers : 20260111_0330 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1853 </title></head>
+<center>Vers : 20260110_1853 </center>
+<center>Vers : 20260111_0353 </center>
 <br><br><br>
+#### [메르코수르 협상으로 브뤼셀 중앙 광장에 감자 투기하는 트랙터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433376)
+#### [오스트리아의 스피드 스페셜리스트 에거의 시즌 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433377)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433375)
 #### [시리아 군대, 알레포에서 마지막 쿠르드 전사들을 쫓아 내려고 시도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433374)
 #### [노벨 연구소, 마차도 제안 후 평화상 양도 불가 입장 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433373)
 #### [독점-비톨, 이번 주말 베네수엘라 공급 계약에 따라 첫 희석제화물 선적, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433371)
@@ -61,6 +64,3 @@
 #### [이란의 군대는 테헤란이 증가하는 불안을 진압하기 위해 공공 재산을 보호하겠다고 맹세합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433320)
 #### [이란 혁명수비대, 안보 수호는 '레드라인'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433318)
 #### [스위스 주 지도자, 화재가 발생한 술집의 점검 부족에 분노 표출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433319)
-#### [이라크 석유 장관, 웨스트 쿠르나 2 유전에서 셰브론과 회담 진행 중이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433317)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433316)
-#### [아랍 걸프 철강 산업, 영국 특수강 인수에 눈독-스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433314)
