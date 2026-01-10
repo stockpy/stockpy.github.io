@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_2220 </title></head>
-<center>Vers : 20260110_2220 </center>
-<center>Vers : 20260111_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_2240 </title></head>
+<center>Vers : 20260110_2240 </center>
+<center>Vers : 20260111_0740 </center>
 <br><br><br>
+#### [캐시디, 혼란스러운 멕시코시티 레이스에서 시트로엥의 포뮬러 E 첫 우승 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433397)
 #### [포멘테라 파터스, 베네수엘라 셰일 유전 연구팀 구성 고려, CEO는 이렇게 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433396)
 #### [우크라이나 드론 공격으로 4 명 부상, 러시아 보로 네시에서 건물 손상, 주지사 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433395)
 #### [독점-미국이 다음 주에 베네수엘라 제재를 더 해제 할 수 있다고 Bessent는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433393)
@@ -62,4 +63,3 @@
 #### [리오 틴토의 글렌코어 입찰, BHP에 대한 압박 가중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433340)
 #### [본, 자우헨제 활강에서 84번째 월드컵 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433337)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433339)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433338)
