@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_1725 </title></head>
-<center>Vers : 20260110_1725 </center>
-<center>Vers : 20260111_0225 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1830 </title></head>
+<center>Vers : 20260110_1830 </center>
+<center>Vers : 20260111_0330 </center>
 <br><br><br>
+#### [시리아 군대, 알레포에서 마지막 쿠르드 전사들을 쫓아 내려고 시도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433374)
+#### [노벨 연구소, 마차도 제안 후 평화상 양도 불가 입장 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433373)
+#### [독점-비톨, 이번 주말 베네수엘라 공급 계약에 따라 첫 희석제화물 선적, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433371)
+#### [베네수엘라에서 석방 된 수감자 수가 18 명으로 증가했다고 인권 단체는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433372)
+#### [이란의 경비대, 이스라엘 스파이 혐의로 외국인 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433368)
+#### [슬로바키아, 미국과 원자력 협력 협정 체결, 피코 총리 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433370)
+#### [시리아 보안군은 일부 쿠르드 전사들이 알레포를 떠났고 다른 전사들은 여전히 숨어 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433369)
+#### [트럼프, 법원이 베네수엘라 석유 수입을 미국 계좌에서 압류하는 것을 막으려는 움직임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433367)
+#### [이란 당국, 불안이 커지면서 단속 강화 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433365)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433366)
 #### [베네수엘라에서 석방 된 수감자 수가 18 명으로 증가했다고 인권 단체들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433364)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433363)
 #### [경찰, 미니애폴리스에서 밤새 시위 중 29명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433362)
@@ -54,13 +64,3 @@
 #### [이라크 석유 장관, 웨스트 쿠르나 2 유전에서 셰브론과 회담 진행 중이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433317)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433316)
 #### [아랍 걸프 철강 산업, 영국 특수강 인수에 눈독-스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433314)
-#### [올림픽- 아직 할 일이 남았지만 밀라노 아이스하키 경기장이 문을 열었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433315)
-#### [미니애폴리스 활동가의 치명적인 ICE 총격 사건으로 전국적인 시위가 시작됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433312)
-#### [이란 군대, 시위 속에서 국익 수호 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433313)
-#### [중국, 러시아,이란, 남아공 해역에서 '브릭스 플러스' 해군 훈련 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433311)
-#### [일부 쿠르드 전사, 지휘관들은 시리아 알레포에서 철수한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433310)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433309)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433308)
-#### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433307)
-#### [이스라엘의 네타냐후는 향후 10 년 동안 이스라엘을 미국의 군사 지원에서 '축소'하기를 희망합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433305)
-#### [우크라이나 드론 공격으로 러시아 볼고그라드 지역의 석유 창고에 화재가 발생했다고 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433306)
