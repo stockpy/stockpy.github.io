@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_1419 </title></head>
-<center>Vers : 20260110_1419 </center>
-<center>Vers : 20260110_2319 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1440 </title></head>
+<center>Vers : 20260110_1440 </center>
+<center>Vers : 20260110_2340 </center>
 <br><br><br>
 #### [러닝 열풍에 잘나가더니…'3750원→1174원' 주가 폭락 '패닉' [진영기의 찐개미 찐투자]](https://m.stock.naver.com/news/ranknews/view/015/0005235277)
 #### [한 달 새 45%↑ 삼성전자보다 더 오른 ‘이 종목’… JP모건 “비싸다” 경고 [종목Pick]](https://m.stock.naver.com/news/ranknews/view/016/0002583739)
