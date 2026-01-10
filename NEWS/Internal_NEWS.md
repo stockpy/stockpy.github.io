@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_0434 </title></head>
-<center>Vers : 20260110_0434 </center>
-<center>Vers : 20260110_1334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0457 </title></head>
+<center>Vers : 20260110_0457 </center>
+<center>Vers : 20260110_1357 </center>
 <br><br><br>
 #### [트럼프 취임 후 케네디 센터를 떠나는 워싱턴 국립 오페라단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433296)
 #### [소비자 은행 협회, 은행들이 미국의 신용 카드 이자율 상한 제안에 대응한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433295)
@@ -69,9 +69,9 @@
 #### [이타우 유니방코, 산림 자산에 주력하는 덱스코 자회사에 2억 헤알 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433240)
 #### [최근 랠리 이후 차익 실현에 따른 가축-CME 소 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433244)
 #### [대두 기준 혼합, 중국 수요로 봄철 선적 가치 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433247)
-<head><meta charset="utf-8"><title>Vers : 20260110_0434 </title></head>
-<center>Vers : 20260110_0434 </center>
-<center>Vers : 20260110_1334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0457 </title></head>
+<center>Vers : 20260110_0457 </center>
+<center>Vers : 20260110_1357 </center>
 <br><br><br>
 #### [미국 고용지표 호조로 증시 상승, 달러화 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433231)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
@@ -154,9 +154,9 @@
 #### [트럼프의 베네수엘라 석유 전략으로 씨티고 경매가 난항을 겪다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433178)
 #### [인사이드 디베이트 - 1월 9일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433177)
 #### [트라 피구 라, 다음 주 미국으로의 베네수엘라 석유 수출을위한 첫 번째 선박 선적, CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433179)
-<head><meta charset="utf-8"><title>Vers : 20260110_0434 </title></head>
-<center>Vers : 20260110_0434 </center>
-<center>Vers : 20260110_1334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0457 </title></head>
+<center>Vers : 20260110_0457 </center>
+<center>Vers : 20260110_1357 </center>
 <br><br><br>
 #### [S&P 500, 브로드컴과 기타 칩 제조업체에 힘입어 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433176)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OPEN.O/total>
@@ -226,9 +226,9 @@
 #### [트럼프? 베네수엘라에 '시추 베이비 드릴'의제를 밀어 붙이고 자국 생산자들에게 피해를 입히다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433123)
 #### [재생-EUR/USD의 기다림, 스털링의 생존, USD/JPY 순풍](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433120)
 #### [거래 둔화에도 변동 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433117)
-<head><meta charset="utf-8"><title>Vers : 20260110_0434 </title></head>
-<center>Vers : 20260110_0434 </center>
-<center>Vers : 20260110_1334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0457 </title></head>
+<center>Vers : 20260110_0457 </center>
+<center>Vers : 20260110_1357 </center>
 <br><br><br>
 #### [트럼프, 미국이 승인없이 베네수엘라를 떠난 유조선을 압수했다고 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433113)
 #### [백악관, 일자리 데이터 '부주의' 공개 인정, 프로토콜 검토 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433110)
@@ -300,9 +300,9 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
 #### [12월 미국 일자리 성장률 둔화, 실업률 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433059)
 #### [미국 고용지표가 비둘기파적 연준에 대한 기대에 도전하면서 스털링이 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433060)
-<head><meta charset="utf-8"><title>Vers : 20260110_0434 </title></head>
-<center>Vers : 20260110_0434 </center>
-<center>Vers : 20260110_1334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0457 </title></head>
+<center>Vers : 20260110_0457 </center>
+<center>Vers : 20260110_1357 </center>
 <br><br><br>
 #### [대두 기준 상승, 옥수수 WASDE 앞두고 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433056)
 #### [Fed's Barkin: 완만 한 일자리 증가는 의료, AI 이외의 기업들이 여전히 고용을 꺼려 함을 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433054)
@@ -378,9 +378,9 @@
 #### [폴리마켓, 골든 글로브와 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432995)
 #### [자산운용사 애버딘, 놀라운 랠리 후 베네수엘라 국채를 정리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432997)
 #### [비스트라, 메타를 통한 PPAS의 완전한 제공으로 성장 가속화에 앞서 점진적인 조정 FCF 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432994)
-<head><meta charset="utf-8"><title>Vers : 20260110_0434 </title></head>
-<center>Vers : 20260110_0434 </center>
-<center>Vers : 20260110_1334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0457 </title></head>
+<center>Vers : 20260110_0457 </center>
+<center>Vers : 20260110_1357 </center>
 <br><br><br>
 #### [젤렌스키, 러시아의 오레슈닉 공격이 '실증적으로' EU 국경에 가까웠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433006)
 #### [남부 공동 가스-Nicor Gas, 일리노이위원회에 연간 기본 요금 수입에서 2 억 2100 만 달러 인상 요청,제출 쇼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433002)
@@ -448,9 +448,9 @@
 #### [비트첸, 이사회는 2025~2027년 배당금 지급을 권장하지 않을 것이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432933)
 #### [보스니아 세르비아의 반항적인 지도자, 금지된 국가 공휴일을 축하하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432942)
 #### [미디어랙 소유주, 50억 스톡 매각 또는 주식시장 유동화 계획 - 스카이뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432938)
-<head><meta charset="utf-8"><title>Vers : 20260110_0434 </title></head>
-<center>Vers : 20260110_0434 </center>
-<center>Vers : 20260110_1334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0457 </title></head>
+<center>Vers : 20260110_0457 </center>
+<center>Vers : 20260110_1357 </center>
 <br><br><br>
 #### [대사관 운영 재개를 평가하기 위해 미국 직원이 카라카스로 이동합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432941)
 #### [드문 소수 연립정부를 노리는 네덜란드 정당들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432939)

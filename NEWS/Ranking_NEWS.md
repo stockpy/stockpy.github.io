@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_0434 </title></head>
-<center>Vers : 20260110_0434 </center>
-<center>Vers : 20260110_1334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0457 </title></head>
+<center>Vers : 20260110_0457 </center>
+<center>Vers : 20260110_1357 </center>
 <br><br><br>
 #### ["여보, 15억 서울 집 팔고 이사 가자"…은퇴 앞둔 남편의 '로망' [돈 버는 법 아끼는 법]](https://m.stock.naver.com/news/ranknews/view/015/0005235249)
 #### ['2만원→6700원' 주가 추락…"반등 가능할까?" 개미들 '눈물'  [윤현주의 主食이 주식]](https://m.stock.naver.com/news/ranknews/view/015/0005235232)
