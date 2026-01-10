@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_2113 </title></head>
-<center>Vers : 20260110_2113 </center>
-<center>Vers : 20260111_0613 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_2220 </title></head>
+<center>Vers : 20260110_2220 </center>
+<center>Vers : 20260111_0720 </center>
 <br><br><br>
+#### [포멘테라 파터스, 베네수엘라 셰일 유전 연구팀 구성 고려, CEO는 이렇게 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433396)
+#### [우크라이나 드론 공격으로 4 명 부상, 러시아 보로 네시에서 건물 손상, 주지사 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433395)
+#### [독점-미국이 다음 주에 베네수엘라 제재를 더 해제 할 수 있다고 Bessent는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433393)
+#### [미군, 시리아 전역에서 이슬람 국가를 겨냥한 공습을 실시했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433394)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433390)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433391)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433392)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433389)
+#### [펜타곤, 혁신 부서 책임자로 DOGE 관계자 오웬 웨스트와 전직 트레이더를 선임 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433387)
+#### [베네수엘라에 이어 니카라과, 미국의 요구에 따라 수감자 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433388)
 #### [미군, 시리아 전역에서 이슬람 국가를 겨냥한 공습을 실시했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433386)
 #### [미시시피 남성, 7 세 어린이와 목사를 포함한 6 명을 살해 한 혐의로 기소 됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433385)
 #### [머스크의 X, 7일 만에 새로운 알고리즘을 오픈소스화하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433384)
@@ -53,13 +63,3 @@
 #### [본, 자우헨제 활강에서 84번째 월드컵 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433337)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433339)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433338)
-#### [시리아 군, 토요일 오후부터 알레포 지역에서 모든 군사 활동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433336)
-#### [키예프, 러시아 공격 후 파괴된 전력망 복구에 출동하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433335)
-#### [쿠르드군은 알레포에서 시리아 군의 공격이 터키의 지원을 받고 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433334)
-#### [인도 시장 규제 당국이 NSE 상장을 위한 길을 열다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433333)
-#### [이스라엘의 네타냐후, 향후 10 년 안에 이스라엘을 미국의 군사 지원에서 '축소'하기를 희망합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433332)
-#### [생산량이 완화 될 때까지 팜유 가격이 압력을받을 것이라고 분석가 Mistry는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433331)
-#### [트럼프의 과시적인 이민 단속이 폭력적인 대립으로 이어지다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433330)
-#### [미국 대법원의 다음 트랜스젠더 권리 싸움은 스포츠 그 이상에 영향을 미칠 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433329)
-#### [이란의 경비대, 테헤란이 불안을 진압하기 위해 안보에 '레드 라인'을 선포하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433328)
-#### [키예프의 전력, 수도, 난방 시스템이 강추위 속에 수리를 위해 중단되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433327)
