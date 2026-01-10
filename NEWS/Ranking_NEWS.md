@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_2240 </title></head>
-<center>Vers : 20260110_2240 </center>
-<center>Vers : 20260111_0740 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_2252 </title></head>
+<center>Vers : 20260110_2252 </center>
+<center>Vers : 20260111_0752 </center>
 <br><br><br>
 #### [“삼전·하이닉스, 2배로 먹을래”…100억 들고 홍콩 간 개미들](https://m.stock.naver.com/news/ranknews/view/018/0006198213)
 #### [러닝 열풍에 잘나가더니…'3750원→1174원' 주가 폭락 '패닉' [진영기의 찐개미 찐투자]](https://m.stock.naver.com/news/ranknews/view/015/0005235277)
