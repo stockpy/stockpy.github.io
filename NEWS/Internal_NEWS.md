@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_2022 </title></head>
-<center>Vers : 20260110_2022 </center>
-<center>Vers : 20260111_0522 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_2041 </title></head>
+<center>Vers : 20260110_2041 </center>
+<center>Vers : 20260111_0541 </center>
 <br><br><br>
 #### [독점-비톨, 이번 주말 베네수엘라 공급 계약에 따라 첫 희석제화물 선적, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433381)
 #### [구글, 애플 전직 연구원들이 새로운 시각 AI 스타트업을 위해 5천만 달러 모금 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433382)
