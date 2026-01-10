@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_1021 </title></head>
-<center>Vers : 20260110_1021 </center>
-<center>Vers : 20260110_1921 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1041 </title></head>
+<center>Vers : 20260110_1041 </center>
+<center>Vers : 20260110_1941 </center>
 <br><br><br>
 #### [러닝 열풍에 잘나가더니…'3750원→1174원' 주가 폭락 '패닉' [진영기의 찐개미 찐투자]](https://m.stock.naver.com/news/ranknews/view/015/0005235277)
 #### ["아직 안 온 거 였어?"...최대 20㎝ 폭설에 강풍까지 '비상'](https://m.stock.naver.com/news/ranknews/view/008/0005302822)
