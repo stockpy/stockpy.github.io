@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_1658 </title></head>
-<center>Vers : 20260110_1658 </center>
-<center>Vers : 20260111_0158 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1725 </title></head>
+<center>Vers : 20260110_1725 </center>
+<center>Vers : 20260111_0225 </center>
 <br><br><br>
+#### [베네수엘라에서 석방 된 수감자 수가 18 명으로 증가했다고 인권 단체들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433364)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433363)
+#### [경찰, 미니애폴리스에서 밤새 시위 중 29명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433362)
 #### [케랄라의 전통 '뱀 보트' 경주에서 자존심을 걸고 싸우는 30미터 선박들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433361)
 #### [트럼프, 미국 계좌에 보유한 베네수엘라 석유 수입 보호 명령 서명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433360)
 #### [미국 특사, 시리아 대통령과 만난 후 알레포에서 자제 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433359)
@@ -61,7 +64,3 @@
 #### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433307)
 #### [이스라엘의 네타냐후는 향후 10 년 동안 이스라엘을 미국의 군사 지원에서 '축소'하기를 희망합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433305)
 #### [우크라이나 드론 공격으로 러시아 볼고그라드 지역의 석유 창고에 화재가 발생했다고 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433306)
-#### [독점-베인의 마나 푸람 거래가 인도 규제 우려로 지연되었다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433304)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8306.T/total>
-#### [미니애폴리스 활동가에 대한 ICE의 치명적인 총격으로 전국적인 시위가 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433303)
-#### [루비오, 반정부 시위 속 이란 국민에 대한 미국의 지지 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433302)
