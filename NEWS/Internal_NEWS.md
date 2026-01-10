@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_0528 </title></head>
-<center>Vers : 20260110_0528 </center>
-<center>Vers : 20260110_1428 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0631 </title></head>
+<center>Vers : 20260110_0631 </center>
+<center>Vers : 20260110_1531 </center>
 <br><br><br>
+#### [분석-덴마크의 그린란드 딜레마: 이미 사라질 위기에 처한 영토를 지켜야 하는가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433297)
 #### [트럼프 취임 후 케네디 센터를 떠나는 워싱턴 국립 오페라단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433296)
 #### [소비자 은행 협회, 은행들이 미국의 신용 카드 이자율 상한 제안에 대응한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433295)
 #### [워싱턴 국립 오페라, 트럼프 인수 후 케네디 센터에서 가장 늦게 퇴장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433294)
@@ -68,11 +69,11 @@
 #### [미국 EPA, 콜로라도 주 석탄 발전소 조기 폐쇄 계획 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433248)
 #### [이타우 유니방코, 산림 자산에 주력하는 덱스코 자회사에 2억 헤알 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433240)
 #### [최근 랠리 이후 차익 실현에 따른 가축-CME 소 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433244)
-#### [대두 기준 혼합, 중국 수요로 봄철 선적 가치 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433247)
-<head><meta charset="utf-8"><title>Vers : 20260110_0528 </title></head>
-<center>Vers : 20260110_0528 </center>
-<center>Vers : 20260110_1428 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0631 </title></head>
+<center>Vers : 20260110_0631 </center>
+<center>Vers : 20260110_1531 </center>
 <br><br><br>
+#### [대두 기준 혼합, 중국 수요로 봄철 선적 가치 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433247)
 #### [미국 고용지표 호조로 증시 상승, 달러화 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433231)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
 #### [중국, 미국산 대두 구매, 한국산 옥수수 구매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433236)
@@ -153,11 +154,11 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
 #### [트럼프의 베네수엘라 석유 전략으로 씨티고 경매가 난항을 겪다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433178)
 #### [인사이드 디베이트 - 1월 9일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433177)
-#### [트라 피구 라, 다음 주 미국으로의 베네수엘라 석유 수출을위한 첫 번째 선박 선적, CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433179)
-<head><meta charset="utf-8"><title>Vers : 20260110_0528 </title></head>
-<center>Vers : 20260110_0528 </center>
-<center>Vers : 20260110_1428 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0631 </title></head>
+<center>Vers : 20260110_0631 </center>
+<center>Vers : 20260110_1531 </center>
 <br><br><br>
+#### [트라 피구 라, 다음 주 미국으로의 베네수엘라 석유 수출을위한 첫 번째 선박 선적, CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433179)
 #### [S&P 500, 브로드컴과 기타 칩 제조업체에 힘입어 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433176)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OPEN.O/total>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433173)
@@ -225,11 +226,11 @@
 #### [미국 상무부, 중국산 드론에 대한 제한 계획 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433118)
 #### [트럼프? 베네수엘라에 '시추 베이비 드릴'의제를 밀어 붙이고 자국 생산자들에게 피해를 입히다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433123)
 #### [재생-EUR/USD의 기다림, 스털링의 생존, USD/JPY 순풍](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433120)
-#### [거래 둔화에도 변동 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433117)
-<head><meta charset="utf-8"><title>Vers : 20260110_0528 </title></head>
-<center>Vers : 20260110_0528 </center>
-<center>Vers : 20260110_1428 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0631 </title></head>
+<center>Vers : 20260110_0631 </center>
+<center>Vers : 20260110_1531 </center>
 <br><br><br>
+#### [거래 둔화에도 변동 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433117)
 #### [트럼프, 미국이 승인없이 베네수엘라를 떠난 유조선을 압수했다고 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433113)
 #### [백악관, 일자리 데이터 '부주의' 공개 인정, 프로토콜 검토 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433110)
 #### [이란의 대규모 시위 속에서 트럼프는 신중한 접근을 취합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433114)
@@ -299,11 +300,11 @@
 #### [미국 시추업체들이 3주 만에 처음으로 석유 및 가스 굴착 장비를 절단했다고 베이커 휴즈는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433057)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
 #### [12월 미국 일자리 성장률 둔화, 실업률 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433059)
-#### [미국 고용지표가 비둘기파적 연준에 대한 기대에 도전하면서 스털링이 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433060)
-<head><meta charset="utf-8"><title>Vers : 20260110_0528 </title></head>
-<center>Vers : 20260110_0528 </center>
-<center>Vers : 20260110_1428 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0631 </title></head>
+<center>Vers : 20260110_0631 </center>
+<center>Vers : 20260110_1531 </center>
 <br><br><br>
+#### [미국 고용지표가 비둘기파적 연준에 대한 기대에 도전하면서 스털링이 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433060)
 #### [대두 기준 상승, 옥수수 WASDE 앞두고 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433056)
 #### [Fed's Barkin: 완만 한 일자리 증가는 의료, AI 이외의 기업들이 여전히 고용을 꺼려 함을 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433054)
 #### [뉴욕 연준, 리버스 리포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433055)
@@ -377,11 +378,11 @@
 #### [아보시나 헬스케어 솔루션, 데이터 사고 알림 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432998)
 #### [폴리마켓, 골든 글로브와 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432995)
 #### [자산운용사 애버딘, 놀라운 랠리 후 베네수엘라 국채를 정리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432997)
-#### [비스트라, 메타를 통한 PPAS의 완전한 제공으로 성장 가속화에 앞서 점진적인 조정 FCF 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432994)
-<head><meta charset="utf-8"><title>Vers : 20260110_0528 </title></head>
-<center>Vers : 20260110_0528 </center>
-<center>Vers : 20260110_1428 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0631 </title></head>
+<center>Vers : 20260110_0631 </center>
+<center>Vers : 20260110_1531 </center>
 <br><br><br>
+#### [비스트라, 메타를 통한 PPAS의 완전한 제공으로 성장 가속화에 앞서 점진적인 조정 FCF 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432994)
 #### [젤렌스키, 러시아의 오레슈닉 공격이 '실증적으로' EU 국경에 가까웠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433006)
 #### [남부 공동 가스-Nicor Gas, 일리노이위원회에 연간 기본 요금 수입에서 2 억 2100 만 달러 인상 요청,제출 쇼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433002)
 #### [텔시가 "아웃퍼폼"으로 시작하면서 버즈-치포틀이 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432993)
@@ -447,11 +448,11 @@
 #### [트럼프의 프레디, 패니에 대한 2,000 억 달러 모기지 채권 매입 명령으로 IPO 의구심 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432940)
 #### [비트첸, 이사회는 2025~2027년 배당금 지급을 권장하지 않을 것이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432933)
 #### [보스니아 세르비아의 반항적인 지도자, 금지된 국가 공휴일을 축하하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432942)
-#### [미디어랙 소유주, 50억 스톡 매각 또는 주식시장 유동화 계획 - 스카이뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432938)
-<head><meta charset="utf-8"><title>Vers : 20260110_0528 </title></head>
-<center>Vers : 20260110_0528 </center>
-<center>Vers : 20260110_1428 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0631 </title></head>
+<center>Vers : 20260110_0631 </center>
+<center>Vers : 20260110_1531 </center>
 <br><br><br>
+#### [미디어랙 소유주, 50억 스톡 매각 또는 주식시장 유동화 계획 - 스카이뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432938)
 #### [대사관 운영 재개를 평가하기 위해 미국 직원이 카라카스로 이동합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432941)
 #### [드문 소수 연립정부를 노리는 네덜란드 정당들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432939)
 #### [케이프알엑스, 암닐 파마슈티컬스와의 연구 협력 및 옵션 계약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432937)
@@ -522,4 +523,3 @@
 #### [미국 천연 가스 현물 가격은 2025 년 사상 최저치 인 2024 년보다 상승했다고 EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432877)
 #### [베네수엘라 채권단, 부채 구조조정 협상 개시 승인 기대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432871)
 #### [베단타, NCLT 뭄바이, TSPL이 제출한 회사 청원 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432895)
-#### [미국 대법원, 트럼프 관세 소송에서 판결을 내리지 않음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432890)
