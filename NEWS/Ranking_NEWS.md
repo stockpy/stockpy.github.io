@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_0850 </title></head>
-<center>Vers : 20260110_0850 </center>
-<center>Vers : 20260110_1750 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_0910 </title></head>
+<center>Vers : 20260110_0910 </center>
+<center>Vers : 20260110_1810 </center>
 <br><br><br>
 #### ["여보, 15억 서울 집 팔고 이사 가자"…은퇴 앞둔 남편의 '로망' [돈 버는 법 아끼는 법]](https://m.stock.naver.com/news/ranknews/view/015/0005235249)
 #### ["아직 안 온 거 였어?"...최대 20㎝ 폭설에 강풍까지 '비상'](https://m.stock.naver.com/news/ranknews/view/008/0005302822)
