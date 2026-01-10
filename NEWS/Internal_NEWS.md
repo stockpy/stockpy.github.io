@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_1053 </title></head>
-<center>Vers : 20260110_1053 </center>
-<center>Vers : 20260110_1953 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1113 </title></head>
+<center>Vers : 20260110_1113 </center>
+<center>Vers : 20260110_2013 </center>
 <br><br><br>
+#### [이란의 경비대, 테헤란이 불안을 진압하기 위해 안보에 '레드 라인'을 선포하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433328)
+#### [키예프의 전력, 수도, 난방 시스템이 강추위 속에 수리를 위해 중단되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433327)
 #### [독점-베인의 마나 푸람 거래가 인도 규제 우려로 지연되었다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433326)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8306.T/total>
 #### [그린란드 의회는 미국의 위협을 논의하기 위해 회의를 열 것이라고 당 지도자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433325)
@@ -65,12 +67,12 @@
 #### [트럼프, 미국 석유 대기업에 베네수엘라 에너지 산업 복구 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433273)
 #### [트럼프, 미국 석유 대기업에 베네수엘라 에너지 산업 복구 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433268)
 #### [트라피구라, 비톨, 미국 정부 요청에 따라 베네수엘라 석유 판매 지원 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433272)
+<head><meta charset="utf-8"><title>Vers : 20260110_1113 </title></head>
+<center>Vers : 20260110_1113 </center>
+<center>Vers : 20260110_2013 </center>
+<br><br><br>
 #### [베센트: MBS 매입의 목표는 연준의 유동성 공급과 일치하는 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433270)
 #### [3월 4일까지의 주요 경제 이벤트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433271)
-<head><meta charset="utf-8"><title>Vers : 20260110_1053 </title></head>
-<center>Vers : 20260110_1053 </center>
-<center>Vers : 20260110_1953 </center>
-<br><br><br>
 #### [이머징 마켓 경제 이벤트 2월 26일까지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433266)
 #### [2월 27일까지의 정부 부채 경매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433265)
 #### [FCC, SpaceX 승인?7,500개의 스타링크 위성 추가 배치 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433264)
@@ -146,12 +148,12 @@
 #### [커먼웰스 LNG, 비FTA 수출에 대한 미국 내 20년 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433209)
 #### [USDA 12월 곡물 재고 보고서의 무역 추정치 내역](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433211)
 #### [미국 농무부 겨울 밀 종자에 대한 무역 추정치 역사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433210)
+<head><meta charset="utf-8"><title>Vers : 20260110_1114 </title></head>
+<center>Vers : 20260110_1114 </center>
+<center>Vers : 20260110_2014 </center>
+<br><br><br>
 #### [미국 EPA는 제초제 파라콰트의 안전성을 재평가 할 것이라고 수석은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433208)
 #### [베네수엘라 야당 의원들, 포로 석방으로 풀려난 것으로 알려짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433206)
-<head><meta charset="utf-8"><title>Vers : 20260110_1053 </title></head>
-<center>Vers : 20260110_1053 </center>
-<center>Vers : 20260110_1953 </center>
-<br><br><br>
 #### [FCC, SpaceX 승인?스타링크 위성 7,500개 추가 배치 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433204)
 #### [SPDR 골드 보유량 0.24% 또는 2.57톤 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433207)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLD/total>
@@ -224,12 +226,12 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
 #### [골드만삭스, 모건스탠리, RBC, 첫 학생 기업공개에 선정 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433154)
 #### [펀드, CBOT 옥수수, 대두, 밀 순매수자, 트레이더들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433148)
+<head><meta charset="utf-8"><title>Vers : 20260110_1114 </title></head>
+<center>Vers : 20260110_1114 </center>
+<center>Vers : 20260110_2014 </center>
+<br><br><br>
 #### [비즈니스 룩어헤드: 모자를 꽉 잡으세요, 바빠지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433146)
 #### [배전 회사 Forgent Power, 미국 IPO 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433153)
-<head><meta charset="utf-8"><title>Vers : 20260110_1053 </title></head>
-<center>Vers : 20260110_1053 </center>
-<center>Vers : 20260110_1953 </center>
-<br><br><br>
 #### [정부 셧다운으로 지연된 미국 경제 지표 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433147)
 #### [워싱턴 파이프 폭탄 용의자, 무죄 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433143)
 #### [엑손 CEO, 베네수엘라 재진입 검토 준비 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433145)
@@ -296,12 +298,12 @@
 #### [소프트뱅크 그룹과 OpenAI, AI 데이터 센터 구축 및 운영을 위해 SB에너지에 10억 달러 투자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433089)
 #### [스텔란티스, 미국 플러그인 하이브리드 판매 중단, 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433094)
 #### [스텔란티스, 수요 약세를 이유로 미국 플러그인 하이브리드 판매 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433091)
+<head><meta charset="utf-8"><title>Vers : 20260110_1114 </title></head>
+<center>Vers : 20260110_1114 </center>
+<center>Vers : 20260110_2014 </center>
+<br><br><br>
 #### [프랑스, 영국, 독일,이란 시위대 살해 비난, 마크롱 사무실은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433088)
 #### [판사, 사기 조사 중 퍼스트 브랜드 파산에서 심사관 임명 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433093)
-<head><meta charset="utf-8"><title>Vers : 20260110_1053 </title></head>
-<center>Vers : 20260110_1053 </center>
-<center>Vers : 20260110_1953 </center>
-<br><br><br>
 #### [트럼프가 약속한 제조업 호황에도 불구하고 감소하는 미국 공장 수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433084)
 #### [페루, 주요 지표에 힘입어 11월 경제 성장률 2% 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433085)
 #### [OpenAI, 소프트뱅크, 스타게이트 파트너 SB에너지에 10억 달러 투자- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433086)
@@ -371,13 +373,13 @@
 #### [위다 인터내셔널, 유닛에 4천만 위안의 회전 신용 한도 부여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433032)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0629.HK/total>
 #### [올라브 톤 아이엔돔셀스캡, 4.91% 쿠폰으로 3억 녹 채권 발행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433033)
+<head><meta charset="utf-8"><title>Vers : 20260110_1114 </title></head>
+<center>Vers : 20260110_1114 </center>
+<center>Vers : 20260110_2014 </center>
+<br><br><br>
 #### [중국 공급망, 웡 카싱 전무이사 사임하고 CEO는 유지한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433028)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3708.HK/total>
 #### [디젤 수익 마진 반등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433023)
-<head><meta charset="utf-8"><title>Vers : 20260110_1053 </title></head>
-<center>Vers : 20260110_1053 </center>
-<center>Vers : 20260110_1953 </center>
-<br><br><br>
 #### [연준의 보스틱은 높은 인플레이션이 여전히 중앙 은행의 주요 과제라고 말합니다 - 라디오 인터뷰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433026)
 #### [레전드 업스타 홀딩스의 SATS 사업부, 4,200만 홍콩 달러 대출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433024)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0459.HK/total>
@@ -444,12 +446,12 @@
 #### [메르코수르 무역 협정 체결 승인 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432971)
 #### [ACS와 GIP, 데이터 센터를 위한 50/50 JV 완성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432970)
 #### [부분적으로 흐린 급여: 일자리 증가 약세, 임금 강세, 실업률 하락, 경제활동참가율 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432964)
+<head><meta charset="utf-8"><title>Vers : 20260110_1114 </title></head>
+<center>Vers : 20260110_1114 </center>
+<center>Vers : 20260110_2014 </center>
+<br><br><br>
 #### [트럼프가 일부 일자리 데이터를 조기에 게시한 것으로 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432969)
 #### [그린란드 주민들, 미국 가입을 유도하기 위해 돈을 주겠다는 제안을 거부하다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432966)
-<head><meta charset="utf-8"><title>Vers : 20260110_1053 </title></head>
-<center>Vers : 20260110_1053 </center>
-<center>Vers : 20260110_1953 </center>
-<br><br><br>
 #### [액티스 온콜로지가 3억1800만 달러 규모의 기업공개(IPO)로 데뷔 후 급등세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432963)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AKTS.O/total>
 #### [미국 천연가스 시즌 종료 저장량이 3월에 4년 만에 최저치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432968)
@@ -516,5 +518,3 @@
 #### [미국 증시, S&P 500지수와 함께 사상 최고치 경신에 박차를 가하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432911)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.SOX>
 #### [1월 초, 미국 소비자 심리 회복세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432910)
-#### [노바티스, 플로리다주 윈터파크에 방사성 리간드 치료 제조 시설 추가 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432904)
-#### [스텔란티스 유럽 책임자, EU 규정의 '불일치' 우려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432900)
