@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_2053 </title></head>
-<center>Vers : 20260110_2053 </center>
-<center>Vers : 20260111_0553 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_2113 </title></head>
+<center>Vers : 20260110_2113 </center>
+<center>Vers : 20260111_0613 </center>
 <br><br><br>
+#### [미군, 시리아 전역에서 이슬람 국가를 겨냥한 공습을 실시했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433386)
+#### [미시시피 남성, 7 세 어린이와 목사를 포함한 6 명을 살해 한 혐의로 기소 됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433385)
+#### [머스크의 X, 7일 만에 새로운 알고리즘을 오픈소스화하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433384)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433383)
 #### [독점-비톨, 이번 주말 베네수엘라 공급 계약에 따라 첫 희석제화물 선적, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433381)
 #### [구글, 애플 전직 연구원들이 새로운 시각 AI 스타트업을 위해 5천만 달러 모금 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433382)
@@ -60,7 +63,3 @@
 #### [미국 대법원의 다음 트랜스젠더 권리 싸움은 스포츠 그 이상에 영향을 미칠 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433329)
 #### [이란의 경비대, 테헤란이 불안을 진압하기 위해 안보에 '레드 라인'을 선포하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433328)
 #### [키예프의 전력, 수도, 난방 시스템이 강추위 속에 수리를 위해 중단되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433327)
-#### [독점-베인의 마나 푸람 거래가 인도 규제 우려로 지연되었다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433326)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8306.T/total>
-#### [그린란드 의회는 미국의 위협을 논의하기 위해 회의를 열 것이라고 당 지도자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433325)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433324)
