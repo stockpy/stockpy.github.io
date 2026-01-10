@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_1648 </title></head>
-<center>Vers : 20260110_1648 </center>
-<center>Vers : 20260111_0148 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1658 </title></head>
+<center>Vers : 20260110_1658 </center>
+<center>Vers : 20260111_0158 </center>
 <br><br><br>
 #### [케랄라의 전통 '뱀 보트' 경주에서 자존심을 걸고 싸우는 30미터 선박들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433361)
 #### [트럼프, 미국 계좌에 보유한 베네수엘라 석유 수입 보호 명령 서명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433360)
