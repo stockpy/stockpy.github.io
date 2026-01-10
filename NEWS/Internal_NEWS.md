@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_2041 </title></head>
-<center>Vers : 20260110_2041 </center>
-<center>Vers : 20260111_0541 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_2053 </title></head>
+<center>Vers : 20260110_2053 </center>
+<center>Vers : 20260111_0553 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433383)
 #### [독점-비톨, 이번 주말 베네수엘라 공급 계약에 따라 첫 희석제화물 선적, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433381)
 #### [구글, 애플 전직 연구원들이 새로운 시각 AI 스타트업을 위해 5천만 달러 모금 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433382)
 #### [니카라과, 미국의 요구 하루 만에 수십 명의 수감자 석방 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433380)
@@ -63,4 +64,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8306.T/total>
 #### [그린란드 의회는 미국의 위협을 논의하기 위해 회의를 열 것이라고 당 지도자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433325)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433324)
-#### [독점-CIA는 쿠바의 암울한 경제를 강조했지만 정부 몰락에 대해서는 엇갈린 견해를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433323)
