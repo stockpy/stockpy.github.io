@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_1512 </title></head>
-<center>Vers : 20260110_1512 </center>
-<center>Vers : 20260111_0012 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1625 </title></head>
+<center>Vers : 20260110_1625 </center>
+<center>Vers : 20260111_0125 </center>
 <br><br><br>
+#### [미국 특사, 시리아 대통령과 만난 후 알레포에서 자제 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433359)
+#### [우크라이나, 유엔 안보리가 최근 러시아 공격에 대한 긴급 회의를 개최 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433358)
+#### [중국은 제약에도 불구하고 미국의 기술 선두에 근접하고 있다고 AI 연구자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433357)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9988.HK/total>
+#### [젤렌스키, 우크라이나의 최고 협상가가 토요일에 미국과 대화했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433356)
+#### [미시시피에서 6 명이 사망 한 후 용의자 구금, 경찰, 현지 언론에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433355)
 #### [존슨앤드존슨, 라이브레반트 장기 연구 결과 치료가 어려운 대장암에서 유망하고 지속 가능한 반응을 보였다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433354)
 #### [화이자, 브레이크워터 임상시험 코호트 3의 긍정적 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433353)
 #### [알파인 스키-오더마트, 아델보덴 대회전 5연패 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433352)
@@ -59,8 +65,3 @@
 #### [루비오, 반정부 시위 속 이란 국민에 대한 미국의 지지 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433302)
 #### [시리아 군, 알레포 인근 지역 수색 완료, 쿠르드군 점령 신호 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433301)
 #### [인도의 2025 년 쌀 수출, 억제 해제에 따라 거의 기록적인 수준으로 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433300)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433299)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433298)
-#### [분석-덴마크의 그린란드 딜레마: 이미 사라질 위기에 처한 영토를 지켜야 하는가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433297)
-#### [트럼프 취임 후 케네디 센터를 떠나는 워싱턴 국립 오페라단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433296)
-#### [소비자 은행 협회, 은행들이 미국의 신용 카드 이자율 상한 제안에 대응한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433295)
