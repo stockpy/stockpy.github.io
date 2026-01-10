@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_1913 </title></head>
-<center>Vers : 20260110_1913 </center>
-<center>Vers : 20260111_0413 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_2022 </title></head>
+<center>Vers : 20260110_2022 </center>
+<center>Vers : 20260111_0522 </center>
 <br><br><br>
+#### [독점-비톨, 이번 주말 베네수엘라 공급 계약에 따라 첫 희석제화물 선적, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433381)
+#### [구글, 애플 전직 연구원들이 새로운 시각 AI 스타트업을 위해 5천만 달러 모금 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433382)
+#### [니카라과, 미국의 요구 하루 만에 수십 명의 수감자 석방 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433380)
+#### [미국 북서부 강 유량이 100퍼센트까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433379)
 #### [베를린 학생들, 안티구아로 향하는 RORC 대서양 횡단 레이스 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433378)
 #### [메르코수르 협상으로 브뤼셀 중앙 광장에 감자 투기하는 트랙터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433376)
 #### [오스트리아의 스피드 스페셜리스트 에거의 시즌 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433377)
@@ -60,7 +64,3 @@
 #### [그린란드 의회는 미국의 위협을 논의하기 위해 회의를 열 것이라고 당 지도자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433325)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433324)
 #### [독점-CIA는 쿠바의 암울한 경제를 강조했지만 정부 몰락에 대해서는 엇갈린 견해를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433323)
-#### [2025년을 정의한 단어에 대한 스테판 파티스(Stefan Fatsis)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433322)
-#### [러시아 벨고로드 지역 주지사, 우크라이나 파업 후 60만 명이 전력, 난방, 물 공급을 받지 못했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433321)
-#### [이란의 군대는 테헤란이 증가하는 불안을 진압하기 위해 공공 재산을 보호하겠다고 맹세합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433320)
-#### [이란 혁명수비대, 안보 수호는 '레드라인'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433318)
