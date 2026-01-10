@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_1853 </title></head>
-<center>Vers : 20260110_1853 </center>
-<center>Vers : 20260111_0353 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1913 </title></head>
+<center>Vers : 20260110_1913 </center>
+<center>Vers : 20260111_0413 </center>
 <br><br><br>
+#### [베를린 학생들, 안티구아로 향하는 RORC 대서양 횡단 레이스 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433378)
 #### [메르코수르 협상으로 브뤼셀 중앙 광장에 감자 투기하는 트랙터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433376)
 #### [오스트리아의 스피드 스페셜리스트 에거의 시즌 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433377)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433375)
@@ -63,4 +64,3 @@
 #### [러시아 벨고로드 지역 주지사, 우크라이나 파업 후 60만 명이 전력, 난방, 물 공급을 받지 못했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433321)
 #### [이란의 군대는 테헤란이 증가하는 불안을 진압하기 위해 공공 재산을 보호하겠다고 맹세합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433320)
 #### [이란 혁명수비대, 안보 수호는 '레드라인'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433318)
-#### [스위스 주 지도자, 화재가 발생한 술집의 점검 부족에 분노 표출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433319)
