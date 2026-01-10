@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_1439 </title></head>
-<center>Vers : 20260110_1439 </center>
-<center>Vers : 20260110_2339 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1451 </title></head>
+<center>Vers : 20260110_1451 </center>
+<center>Vers : 20260110_2351 </center>
 <br><br><br>
+#### [알파인 스키-오더마트, 아델보덴 대회전 5연패 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433352)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433351)
 #### [메르코수르 무역 협정에 반대하며 시위를 벌입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433350)
 #### [우크라이나 드론 공격으로 러시아 볼고그라드 지역 석유 저장고에 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433349)
@@ -63,11 +64,11 @@
 #### [소비자 은행 협회, 은행들이 미국의 신용 카드 이자율 상한 제안에 대응한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433295)
 #### [워싱턴 국립 오페라, 트럼프 인수 후 케네디 센터에서 가장 늦게 퇴장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433294)
 #### [분석-대만 지도자에 대한 베네수엘라식 파업은 중국에 까다로울 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433293)
-#### [베센트는 미국 재무부가 관세 환급을 쉽게 처리할 수 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433292)
-<head><meta charset="utf-8"><title>Vers : 20260110_1439 </title></head>
-<center>Vers : 20260110_1439 </center>
-<center>Vers : 20260110_2339 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1451 </title></head>
+<center>Vers : 20260110_1451 </center>
+<center>Vers : 20260110_2351 </center>
 <br><br><br>
+#### [베센트는 미국 재무부가 관세 환급을 쉽게 처리할 수 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433292)
 #### [빌 애크먼, 트럼프의 신용카드 금리 1년 상한제 요구는 '실수'라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433291)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433290)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433289)
@@ -137,11 +138,11 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DAIO.O/total>
 #### [마이크로바스트: 1월 7일, 로드니 워튼이 CFO로 임명됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433230)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MVST.O/total>
-#### [트리오 페트롤리엄: ATM 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433223)
-<head><meta charset="utf-8"><title>Vers : 20260110_1439 </title></head>
-<center>Vers : 20260110_1439 </center>
-<center>Vers : 20260110_2339 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1452 </title></head>
+<center>Vers : 20260110_1452 </center>
+<center>Vers : 20260110_2352 </center>
 <br><br><br>
+#### [트리오 페트롤리엄: ATM 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433223)
 #### [멕시코 시티의 모터스포츠 열정이 포뮬러 E의 150번째 레이스 이정표를 세웠습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433214)
 #### [최대 20억 달러의 두 부분으로 구성된 선순위 채권 발행을 위한 간략한 T-Mobile 파일 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433222)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TMUS.O/total>
@@ -220,12 +221,12 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433173)
 #### [북미, 1월 12일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433175)
 #### [UPDATE 2- 트럼프, 미국 석유 대기업에 베네수엘라의 '썩어가는'에너지 산업 복구 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433174)
+<head><meta charset="utf-8"><title>Vers : 20260110_1452 </title></head>
+<center>Vers : 20260110_1452 </center>
+<center>Vers : 20260110_2352 </center>
+<br><br><br>
 #### [US 주식: 스크래피](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433172)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SNDK.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260110_1440 </title></head>
-<center>Vers : 20260110_1440 </center>
-<center>Vers : 20260110_2340 </center>
-<br><br><br>
 #### [대규모 이란 시위 속에서 트럼프, 신중한 접근법 취하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433169)
 #### [달러가 2주 연속 주간 상승세를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433167)
 #### [바이오 제약 회사 에이콘 테라퓨틱스, 미국 IPO 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433170)
@@ -291,11 +292,11 @@
 #### [백악관, 일자리 데이터 '부주의' 공개 인정, 프로토콜 검토 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433110)
 #### [이란의 대규모 시위 속에서 트럼프는 신중한 접근을 취합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433114)
 #### [폴란드는 그린란드를 둘러싼 NATO의 긴장에 대해 우려하고 있다고 투스크는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433112)
-#### [USDA가 작황 데이터를 발표하기 전 CBOT 옥수수는 거의 보합세로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433116)
-<head><meta charset="utf-8"><title>Vers : 20260110_1440 </title></head>
-<center>Vers : 20260110_1440 </center>
-<center>Vers : 20260110_2340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1452 </title></head>
+<center>Vers : 20260110_1452 </center>
+<center>Vers : 20260110_2352 </center>
 <br><br><br>
+#### [USDA가 작황 데이터를 발표하기 전 CBOT 옥수수는 거의 보합세로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433116)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프 라인 유지보수 - 유지보수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433115)
 #### [미국 천연 가스 선물은 온화한 일기 예보로 7 % 하락하여 12 주 최저치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433111)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EXE.O/total>
@@ -365,11 +366,11 @@
 #### [Fed's Barkin: 완만 한 일자리 증가는 의료, AI 이외의 기업들이 여전히 고용을 꺼려 함을 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433054)
 #### [뉴욕 연준, 리버스 리포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433055)
 #### [러시아, 나토 국경 근처 우크라이나 목표물에 극초음속 미사일 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433053)
-#### [미국 판사, 트럼프의 라틴 아메리카 이민자 10,000 명 '합법적 지위'종료 움직임 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433051)
-<head><meta charset="utf-8"><title>Vers : 20260110_1440 </title></head>
-<center>Vers : 20260110_1440 </center>
-<center>Vers : 20260110_2340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1452 </title></head>
+<center>Vers : 20260110_1452 </center>
+<center>Vers : 20260110_2352 </center>
 <br><br><br>
+#### [미국 판사, 트럼프의 라틴 아메리카 이민자 10,000 명 '합법적 지위'종료 움직임 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433051)
 #### [미국 고용지표 이후에도 BUZZ-AUD/USD-약세 흐름 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433052)
 #### [스텔란티스, 전기차 판매 둔화로 플러그인 하이브리드 전기 지프 SUV와 크라이슬러 미니밴을 폐기하다 - CNBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433049)
 #### [사우스 캐롤라이나의 홍역 사례가 99 건에서 310 건으로 증가했다고 주 보건부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433050)
@@ -443,11 +444,11 @@
 #### [남부 공동 가스-Nicor Gas, 일리노이위원회에 연간 기본 요금 수입에서 2 억 2100 만 달러 인상 요청,제출 쇼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433002)
 #### [텔시가 "아웃퍼폼"으로 시작하면서 버즈-치포틀이 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432993)
 #### [베네수엘라에 대한 백악관 석유 회의에 독립파, 덴버와의 강력한 연계 포함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433005)
-#### [메르코수르 블록, 1월 17일 EU 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433001)
-<head><meta charset="utf-8"><title>Vers : 20260110_1440 </title></head>
-<center>Vers : 20260110_1440 </center>
-<center>Vers : 20260110_2340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1452 </title></head>
+<center>Vers : 20260110_1452 </center>
+<center>Vers : 20260110_2352 </center>
 <br><br><br>
+#### [메르코수르 블록, 1월 17일 EU 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433001)
 #### [개인투자자 중립적 심리가 후퇴 - AAII](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433003)
 #### [학생 승무원부터 슈퍼요트까지, 란사로테에서 출발하는 대서양 돌격대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433004)
 #### [북유럽 원자력 발전소 정전 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432989)
@@ -513,4 +514,3 @@
 #### [드문 소수 연립정부를 노리는 네덜란드 정당들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432939)
 #### [케이프알엑스, 암닐 파마슈티컬스와의 연구 협력 및 옵션 계약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432937)
 #### [글렌 코어의 무역 부문이 합병 협상에서 리오 틴토에 대한 매력의 일부라고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432935)
-#### [알파 은행, 유니크레딧이 의결권 및 금융 상품에서 29.8 %를 보유하고있어 잠재적으로 2.27 %를 더 줄 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2432932)
