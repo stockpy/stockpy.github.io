@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260110_1625 </title></head>
-<center>Vers : 20260110_1625 </center>
-<center>Vers : 20260111_0125 </center>
+<head><meta charset="utf-8"><title>Vers : 20260110_1648 </title></head>
+<center>Vers : 20260110_1648 </center>
+<center>Vers : 20260111_0148 </center>
 <br><br><br>
+#### [케랄라의 전통 '뱀 보트' 경주에서 자존심을 걸고 싸우는 30미터 선박들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433361)
+#### [트럼프, 미국 계좌에 보유한 베네수엘라 석유 수입 보호 명령 서명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433360)
 #### [미국 특사, 시리아 대통령과 만난 후 알레포에서 자제 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433359)
 #### [우크라이나, 유엔 안보리가 최근 러시아 공격에 대한 긴급 회의를 개최 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433358)
 #### [중국은 제약에도 불구하고 미국의 기술 선두에 근접하고 있다고 AI 연구자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433357)
@@ -63,5 +65,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8306.T/total>
 #### [미니애폴리스 활동가에 대한 ICE의 치명적인 총격으로 전국적인 시위가 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433303)
 #### [루비오, 반정부 시위 속 이란 국민에 대한 미국의 지지 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433302)
-#### [시리아 군, 알레포 인근 지역 수색 완료, 쿠르드군 점령 신호 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433301)
-#### [인도의 2025 년 쌀 수출, 억제 해제에 따라 거의 기록적인 수준으로 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433300)
