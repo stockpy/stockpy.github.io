@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_0726 </title></head>
-<center>Vers : 20260111_0726 </center>
-<center>Vers : 20260111_1626 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_0827 </title></head>
+<center>Vers : 20260111_0827 </center>
+<center>Vers : 20260111_1727 </center>
 <br><br><br>
+#### [광동 화테 가스 주주들, 주식 처분 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433431)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688268.SS/total>
+#### [지아메이 식품 포장 추저우의 주식 거래가 재개됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433428)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002969.SZ/total>
+#### [시리오 파마, 홍콩 상장 추진 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433429)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300791.SZ/total>
+#### [지우장 디푸 테크놀로지, 룩셈부르크 서킷 포일 인수 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433430)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301511.SZ/total>
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433427)
 #### [이란, 미국에 어떤 공격에도 보복하겠다고 경고하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433426)
 #### [러시아 보로 네즈에 대한 우크라이나 드론 공격으로 여성 사망, 건물 손상, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433425)
 #### [이란에 대한 미국의 개입 가능성에 대해 이스라엘이 높은 경계를하고 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433423)
@@ -57,15 +66,15 @@
 #### [시리아 군대, 알레포에서 마지막 쿠르드 전사들을 쫓아 내려고 시도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433374)
 #### [노벨 연구소, 마차도 제안 후 평화상 양도 불가 입장 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433373)
 #### [독점-비톨, 이번 주말 베네수엘라 공급 계약에 따라 첫 희석제화물 선적, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433371)
+<head><meta charset="utf-8"><title>Vers : 20260111_0827 </title></head>
+<center>Vers : 20260111_0827 </center>
+<center>Vers : 20260111_1727 </center>
+<br><br><br>
 #### [베네수엘라에서 석방 된 수감자 수가 18 명으로 증가했다고 인권 단체는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433372)
 #### [이란의 경비대, 이스라엘 스파이 혐의로 외국인 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433368)
 #### [슬로바키아, 미국과 원자력 협력 협정 체결, 피코 총리 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433370)
 #### [시리아 보안군은 일부 쿠르드 전사들이 알레포를 떠났고 다른 전사들은 여전히 숨어 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433369)
 #### [트럼프, 법원이 베네수엘라 석유 수입을 미국 계좌에서 압류하는 것을 막으려는 움직임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433367)
-<head><meta charset="utf-8"><title>Vers : 20260111_0726 </title></head>
-<center>Vers : 20260111_0726 </center>
-<center>Vers : 20260111_1626 </center>
-<br><br><br>
 #### [이란 당국, 불안이 커지면서 단속 강화 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433365)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433366)
 #### [베네수엘라에서 석방 된 수감자 수가 18 명으로 증가했다고 인권 단체들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433364)
@@ -123,8 +132,3 @@
 #### [올림픽- 아직 할 일이 남았지만 밀라노 아이스하키 경기장이 문을 열었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433315)
 #### [미니애폴리스 활동가의 치명적인 ICE 총격 사건으로 전국적인 시위가 시작됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433312)
 #### [이란 군대, 시위 속에서 국익 수호 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433313)
-#### [중국, 러시아,이란, 남아공 해역에서 '브릭스 플러스' 해군 훈련 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433311)
-#### [일부 쿠르드 전사, 지휘관들은 시리아 알레포에서 철수한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433310)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433309)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433308)
-#### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433307)
