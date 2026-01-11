@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_1241 </title></head>
-<center>Vers : 20260111_1241 </center>
-<center>Vers : 20260111_2141 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_1320 </title></head>
+<center>Vers : 20260111_1320 </center>
+<center>Vers : 20260111_2220 </center>
 <br><br><br>
+#### [분석-베네수엘라 공습으로 미국, 중국에 아메리카 대륙에서 멀리 떨어져 있으라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433471)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0001.HK/total>
+#### [브라질, 베네수엘라 주재 아르헨티나 외교 대표단 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433470)
+#### [항해 속도 악마 아르고와 줄루가 함대의 대서양 돌격을 이끌고 항해를 시작합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433469)
+#### [북유럽, 그린란드 주변에서 중국과 러시아 선박에 대한 트럼프의 주장을 거부, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433468)
+#### [트럼프, 쿠바에 미국과의 협상 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433467)
 #### [러시아 파업 이후에도 여전히 난방이 되지 않는 키예프 아파트 천 개 블록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433466)
 #### [중국 행킹, 광석 매장량 53.1% 증가했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433465)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3788.HK/total>
@@ -68,15 +74,15 @@
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433414)
 #### [루비오와 네타냐후가 이란, 시리아, 가자 지구에 대해 논의한다고 Axios가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433413)
 #### [포르멘테라 파트너스, 베네수엘라 셰일 유전 연구를 위한 팀 구성 고려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433409)
+<head><meta charset="utf-8"><title>Vers : 20260111_1320 </title></head>
+<center>Vers : 20260111_1320 </center>
+<center>Vers : 20260111_2220 </center>
+<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433411)
 #### [타카이치 일본 총리, 조기 선거를 소집 할 수 있다고 연합 파트너는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433410)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433412)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433408)
 #### [그레이트풀 데드의 공동 창립자이자 리듬 기타리스트 밥 위어, 78세 나이로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433407)
-<head><meta charset="utf-8"><title>Vers : 20260111_1241 </title></head>
-<center>Vers : 20260111_1241 </center>
-<center>Vers : 20260111_2141 </center>
-<br><br><br>
 #### [일본 연정 파트너 수장, 조기 총선이 가까워질 수 있다는 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433406)
 #### [그레이트풀 데드 공동 창립자 밥 위어, 향년 78세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433403)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433405)
@@ -133,8 +139,3 @@
 #### [존슨앤드존슨, 라이브레반트 장기 연구 결과 치료가 어려운 대장암에서 유망하고 지속 가능한 반응을 보였다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433354)
 #### [화이자, 브레이크워터 임상시험 코호트 3의 긍정적 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433353)
 #### [알파인 스키-오더마트, 아델보덴 대회전 5연패 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433352)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433351)
-#### [메르코수르 무역 협정에 반대하며 시위를 벌입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433350)
-#### [우크라이나 드론 공격으로 러시아 볼고그라드 지역 석유 저장고에 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433349)
-#### [알파인 스키 오더마트, 아델보덴 대회전 5연패 달성!](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433346)
-#### [우크라이나 군이 밤새 러시아 볼고그라드 지역의 석유 저장소를 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433347)
