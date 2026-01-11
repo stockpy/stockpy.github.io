@@ -281,9 +281,32 @@ def __KO_ETF_Allocation() :
     output.write("</style>\n")
     output.write("<center>\n")
 
+    output.write("<div id=\"barChart\"></div>")
+    output.write("<link rel=\"stylesheet\" href=\"https://naver.github.io/billboard.js/release/latest/dist/theme/datalab.min.css\">")
+    output.write("<script src=\"https://naver.github.io/billboard.js/release/latest/dist/billboard.pkgd.min.js\"></script>")
+    output.write("<script>")
+
     print(df.to_markdown(index=False))
     # output.write(df.to_markdown())
     output.write(df[['ETF_Name', 'Alloc_P', 'Price', 'CALL', 'MY_PERC']].to_html(classes='tg'))
+
+    output.write("var chart = bb.generate({")
+    output.write("data: {")
+    output.write("columns: [")
+    output.write("[\"data1\", 30],")
+    output.write("[\"data2\", 45],")
+    output.write("[\"data3\", 25]")
+    output.write("],")
+    output.write("type: \"pie\", // for ESM specify as: pie()")
+    output.write("},")
+    output.write("pie: {")
+    output.write("expand: {")
+    output.write("rate: 1.007")
+    output.write("}")
+    output.write("},")
+    output.write("bindto: \"#expandRate\"")
+    output.write("});?")
+    output.write("</script>")
 
     output.write("</center>\n")
 
