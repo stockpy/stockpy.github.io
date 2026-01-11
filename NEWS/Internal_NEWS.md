@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_1659 </title></head>
-<center>Vers : 20260111_1659 </center>
-<center>Vers : 20260112_0159 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_1725 </title></head>
+<center>Vers : 20260111_1725 </center>
+<center>Vers : 20260112_0225 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433492)
 #### [화요일에 예정된 이란 옵션에 대한 트럼프 브리핑, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433491)
 #### [화요일에 예정된 이란 옵션에 대한 트럼프 브리핑, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433490)
 #### [고대?외계인 이론을 대중화한 스위스 작가 에릭 폰 다이니켄, 90세 나이로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433489)
@@ -72,4 +73,3 @@
 #### [이란, 미국 공격 시 반격 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433433)
 #### [젠바이트 테크놀로지, 회장 선출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433434)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/003028.SZ/total>
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433432)
