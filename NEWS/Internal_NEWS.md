@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_1625 </title></head>
-<center>Vers : 20260111_1625 </center>
-<center>Vers : 20260112_0125 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_1659 </title></head>
+<center>Vers : 20260111_1659 </center>
+<center>Vers : 20260112_0159 </center>
 <br><br><br>
+#### [화요일에 예정된 이란 옵션에 대한 트럼프 브리핑, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433491)
+#### [화요일에 예정된 이란 옵션에 대한 트럼프 브리핑, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433490)
 #### [고대?외계인 이론을 대중화한 스위스 작가 에릭 폰 다이니켄, 90세 나이로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433489)
 #### [월마트, 알파벳의 구글과 공동 제휴하여 쇼핑객이 쌍둥이 자리를 통해 제품을 구매할 수 있도록 허용한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433488)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
@@ -71,7 +73,3 @@
 #### [젠바이트 테크놀로지, 회장 선출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433434)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/003028.SZ/total>
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433432)
-#### [광동 화테 가스 주주들, 주식 처분 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433431)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688268.SS/total>
-#### [지아메이 식품 포장 추저우의 주식 거래가 재개됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433428)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002969.SZ/total>
