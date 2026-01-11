@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_1117 </title></head>
-<center>Vers : 20260111_1117 </center>
-<center>Vers : 20260111_2017 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_1241 </title></head>
+<center>Vers : 20260111_1241 </center>
+<center>Vers : 20260111_2141 </center>
 <br><br><br>
+#### [러시아 파업 이후에도 여전히 난방이 되지 않는 키예프 아파트 천 개 블록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433466)
+#### [중국 행킹, 광석 매장량 53.1% 증가했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433465)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3788.HK/total>
+#### [중국 비철광, 참비시 남동 광산 생산 재개, 2026년 예상 구리 생산량 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433463)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1258.HK/total>
+#### [독일 외무 장관, 미국 방문 전 긴밀한 유대 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433464)
+#### [ECB, 방코 BPM의 크레디트 아그리콜 지분 증자에 조건부 승인을 내릴 태세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433462)
+#### [WH 스미스, 새 회장 찾기 계획 수립, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433461)
+#### [미니막스, 초과 할당 옵션 행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433459)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0100.HK/total>
+#### [WH 스미스, 새 회장 선임 계획 수립 중 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433460)
+#### [올림픽 출신 이탈리아 테너 보첼리, 밀라노 코르티나 동계올림픽 개막식에서 노래하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433458)
+#### [영국의 전 미국 특사가 엡스타인의 피해자들에게 자신의 관계가 아닌 사과를 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433457)
+#### [중국, 최고 외교관 방문 연기 후 소말리아에 대한 지원 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433456)
+#### [이란 대통령, 미국과 이스라엘이 '폭동'을 조장한다고 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433453)
+#### [이스라엘의 총격으로 가자 지구에서 3 명 사망, 긴장 고조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433455)
+#### [북유럽, 그린란드 주변에서 중국과 러시아 선박에 대한 트럼프의 주장을 거부, FT 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433452)
+#### [미군, 시리아 전역의 이슬람 국가를 표적으로 삼았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433454)
 #### [영국의 전 미국 특사는 자신의 관계가 아니라 엡스타인의 희생자들에게 사과합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433451)
 #### [미국, 희토류에 대한 중국 의존도를 줄이기 위해 더 빠른 조치를 추진합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433450)
 #### [러시아 파업 후에도 여전히 난방이 안되는 수천 개의 키예프 아파트 블록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433449)
@@ -55,6 +73,10 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433412)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433408)
 #### [그레이트풀 데드의 공동 창립자이자 리듬 기타리스트 밥 위어, 78세 나이로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433407)
+<head><meta charset="utf-8"><title>Vers : 20260111_1241 </title></head>
+<center>Vers : 20260111_1241 </center>
+<center>Vers : 20260111_2141 </center>
+<br><br><br>
 #### [일본 연정 파트너 수장, 조기 총선이 가까워질 수 있다는 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433406)
 #### [그레이트풀 데드 공동 창립자 밥 위어, 향년 78세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433403)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433405)
@@ -70,10 +92,6 @@
 #### [독점-미국이 다음 주에 베네수엘라 제재를 더 해제 할 수 있다고 Bessent는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433393)
 #### [미군, 시리아 전역에서 이슬람 국가를 겨냥한 공습을 실시했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433394)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433390)
-<head><meta charset="utf-8"><title>Vers : 20260111_1117 </title></head>
-<center>Vers : 20260111_1117 </center>
-<center>Vers : 20260111_2017 </center>
-<br><br><br>
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433391)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433392)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433389)
@@ -120,18 +138,3 @@
 #### [우크라이나 드론 공격으로 러시아 볼고그라드 지역 석유 저장고에 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433349)
 #### [알파인 스키 오더마트, 아델보덴 대회전 5연패 달성!](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433346)
 #### [우크라이나 군이 밤새 러시아 볼고그라드 지역의 석유 저장소를 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433347)
-#### [스위스 하슬러, 모노밥 유럽 선수권 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433348)
-#### [남아공 대통령, 여론 조사에 앞서 가난한 지방 정부를 고치라고 ANC에 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433345)
-#### [베네수엘라를 '암흑 모드'로 떠났던 유조선 4척이 다시 베네수엘라 해역으로 돌아왔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433344)
-#### [세 명의 항해사, 하나의 바다 - 라이벌 정신으로 대서양에 접근하는 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433343)
-#### [베네수엘라를 '암흑 모드'로 떠났던 유조선 4척이 다시 해역으로 돌아왔습니다 -Tankertrackers.com, PDVSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433341)
-#### [알파인 스키-본이 자우헨제 활강에서 84번째 월드컵 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433342)
-#### [리오 틴토의 글렌코어 입찰, BHP에 대한 압박 가중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433340)
-#### [본, 자우헨제 활강에서 84번째 월드컵 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433337)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433339)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433338)
-#### [시리아 군, 토요일 오후부터 알레포 지역에서 모든 군사 활동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433336)
-#### [키예프, 러시아 공격 후 파괴된 전력망 복구에 출동하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433335)
-#### [쿠르드군은 알레포에서 시리아 군의 공격이 터키의 지원을 받고 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433334)
-#### [인도 시장 규제 당국이 NSE 상장을 위한 길을 열다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433333)
-#### [이스라엘의 네타냐후, 향후 10 년 안에 이스라엘을 미국의 군사 지원에서 '축소'하기를 희망합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433332)
