@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_0516 </title></head>
-<center>Vers : 20260111_0516 </center>
-<center>Vers : 20260111_1416 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_0633 </title></head>
+<center>Vers : 20260111_0633 </center>
+<center>Vers : 20260111_1533 </center>
 <br><br><br>
+#### [머스크, 친환경 연료에 대한 중국 의존도를 줄이기 위해 더 많은 에탄올 사용을 모색하다 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433422)
+#### [머스크, 중국에 대한 의존도를 줄이기 위해 친환경 연료로 에탄올 사용 확대 모색, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433421)
 #### [주목해야 할 요소 - 1월 11일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433420)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433419)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433418)
@@ -60,12 +62,12 @@
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433366)
 #### [베네수엘라에서 석방 된 수감자 수가 18 명으로 증가했다고 인권 단체들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433364)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433363)
+<head><meta charset="utf-8"><title>Vers : 20260111_0633 </title></head>
+<center>Vers : 20260111_0633 </center>
+<center>Vers : 20260111_1533 </center>
+<br><br><br>
 #### [경찰, 미니애폴리스에서 밤새 시위 중 29명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433362)
 #### [케랄라의 전통 '뱀 보트' 경주에서 자존심을 걸고 싸우는 30미터 선박들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433361)
-<head><meta charset="utf-8"><title>Vers : 20260111_0516 </title></head>
-<center>Vers : 20260111_0516 </center>
-<center>Vers : 20260111_1416 </center>
-<br><br><br>
 #### [트럼프, 미국 계좌에 보유한 베네수엘라 석유 수입 보호 명령 서명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433360)
 #### [미국 특사, 시리아 대통령과 만난 후 알레포에서 자제 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433359)
 #### [우크라이나, 유엔 안보리가 최근 러시아 공격에 대한 긴급 회의를 개최 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433358)
@@ -127,5 +129,3 @@
 #### [독점-베인의 마나 푸람 거래가 인도 규제 우려로 지연되었다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433304)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8306.T/total>
 #### [미니애폴리스 활동가에 대한 ICE의 치명적인 총격으로 전국적인 시위가 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433303)
-#### [루비오, 반정부 시위 속 이란 국민에 대한 미국의 지지 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433302)
-#### [시리아 군, 알레포 인근 지역 수색 완료, 쿠르드군 점령 신호 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433301)
