@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_2252 </title></head>
-<center>Vers : 20260111_2252 </center>
-<center>Vers : 20260112_0752 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_2314 </title></head>
+<center>Vers : 20260111_2314 </center>
+<center>Vers : 20260112_0814 </center>
 <br><br><br>
+#### [쿠바인들은 트럼프의 베네수엘라 석유 공급 감축 공약에 반응합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433547)
 #### [템퍼스, 총 계약 금액 11억 달러 초과 기록 달성했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433546)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TEM.O/total>
 #### [브리티시 랜드의 사이먼 카터 사장, 유럽 물류 회사 P3 로지스틱 파크로 떠난다- 더 타임즈](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433545)
@@ -81,4 +82,3 @@
 #### [고대?외계인 이론을 대중화한 스위스 작가 에릭 폰 다이니켄, 90세 나이로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433489)
 #### [월마트, 알파벳의 구글과 공동 제휴하여 쇼핑객이 쌍둥이 자리를 통해 제품을 구매할 수 있도록 허용한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433488)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
-#### [휴전 3개월 만에 가자지구에서 이스라엘의 총격으로 3명이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433487)
