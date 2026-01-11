@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_2220 </title></head>
-<center>Vers : 20260111_2220 </center>
-<center>Vers : 20260112_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_2240 </title></head>
+<center>Vers : 20260111_2240 </center>
+<center>Vers : 20260112_0740 </center>
 <br><br><br>
+#### [마이크로소프트, 마이크로소프트 파운드리의 클라우드는 의료 및 생명 과학 고객을 위한 기능을 향상시킨다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433544)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
+#### [테바와 로열티 파마, 백반증 치료제 개발 가속화 위한 협약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433543)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RPRX.O/total>
+#### [얼리전트, 선 컨트리 항공을 15억 달러에 인수하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433540)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SNCY.O/total>
+#### [템퍼스 AI, 분기 매출 약 3억 6,700만 달러 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433539)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TEM.O/total>
+#### [가드언트 헬스 4분기 총 매출 약 2억 8천만 달러 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433542)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GH.O/total>
+#### [빔 테라퓨틱스, 유전 질환 및 혈액학 프랜차이즈의 전략적 우선 순위를 설정한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433537)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BEAM.O/total>
+#### [오올, 마스터카드와 협력하여 호주 기업에 AI 기반 현금 흐름 관리 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433538)
+#### [OJEMDA, 2026년 미국 순 제품 매출 2억2500만~2억5000만 달러 예상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433541)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DAWN.O/total>
+#### [오후 10시(GMT/5시(동부 표준시) 로이터 뉴스 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433536)
 #### [홍콩 미디어 재벌 지미 라이의 감형 심리, 선고를 앞두고 시작될 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433535)
 #### [분석-베네수엘라 공습으로 미국, 중국에 아메리카 대륙에서 멀리 떨어져 있으라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433534)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0001.HK/total>
@@ -65,14 +81,3 @@
 #### [휴전 3개월 만에 가자지구에서 이스라엘의 총격으로 3명이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433487)
 #### [스웨덴, 방공 시스템에 16억 달러 투자할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433486)
 #### [스위스 작가 에리히 폰 다이니켄, 90세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433483)
-#### [쿠바 외무 장관, 미국이 세계 평화를 위협하는 '범죄자'방식으로 행동한다고 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433484)
-#### [RxSight, 2026년 1월 11일부로 마크 윌터딩을 CFO로 임명한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433485)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RXST.O/total>
-#### [네타냐후, 이스라엘은이란 시위를 면밀히 주시하고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433482)
-#### [엑스트롬, 다카르 스테이지 우승, 알-아티야는 정상 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433481)
-#### [월스트리트 주간 전망-실적 발표 시작, 인플레이션 데이터는 탄력적인 미국 증시에 대한 시험대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433480)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
-#### [카타르와 UAE, 기술 공급망 강화를 위한 미국 주도의 노력에 동참하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433478)
-#### [프랑스의 라사트, 노르웨이 선수들을 제치고 아델보덴 활강 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433479)
-#### [우크라이나 군이 카스피해에서 루코일 시추 플랫폼을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433476)
-#### [오슬로 공항, 드론 감지로 인해 활주로 1개가 잠시 폐쇄됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433477)
