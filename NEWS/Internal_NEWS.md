@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_2042 </title></head>
-<center>Vers : 20260111_2042 </center>
-<center>Vers : 20260112_0542 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_2054 </title></head>
+<center>Vers : 20260111_2054 </center>
+<center>Vers : 20260112_0554 </center>
 <br><br><br>
+#### [한 주 앞으로-지정학, 미국 인플레이션, 연준 연설자 리드](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433519)
 #### [W/E 뉴스-이란에 대한 미국의 개입?, 그린란드 개발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433518)
 #### [BUZZ-Replay-EUR / USD의 기다림, 스털링 생존, USD / JPY 순풍](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433517)
 #### [분자 파트너스, 라디오-다르핀 Mp0712로 1/2A상 연구 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433515)
@@ -73,4 +74,3 @@
 #### [WH 스미스, 새 회장 찾기 계획 수립, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433461)
 #### [미니막스, 초과 할당 옵션 행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433459)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0100.HK/total>
-#### [WH 스미스, 새 회장 선임 계획 수립 중 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433460)
