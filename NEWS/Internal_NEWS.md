@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_2054 </title></head>
-<center>Vers : 20260111_2054 </center>
-<center>Vers : 20260112_0554 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_2117 </title></head>
+<center>Vers : 20260111_2117 </center>
+<center>Vers : 20260112_0617 </center>
 <br><br><br>
+#### [Mbx 바이오사이언스, 2026년 3분기 캔부파라타이드 임상 3상 시험 시작한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433523)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MBX.O/total>
+#### [엑셀릭시스, 2026 회계연도 순 제품 매출 가이던스 23억 2,500만 달러~24억 2,500만 달러 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433524)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EXEL.O/total>
+#### [캐슬 바이오사이언스, 2025년 총 매출 3억 4천만 달러 초과 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433525)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CSTL.O/total>
+#### [업데이트 2- 일본 총리 타카이치, 조기 선거를 요청할 수 있다고 연합 파트너는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433522)
+#### [러시아 파업 이후에도 여전히 난방이 되지 않는 키예프 아파트 수천 채](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433520)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433521)
 #### [한 주 앞으로-지정학, 미국 인플레이션, 연준 연설자 리드](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433519)
 #### [W/E 뉴스-이란에 대한 미국의 개입?, 그린란드 개발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433518)
 #### [BUZZ-Replay-EUR / USD의 기다림, 스털링 생존, USD / JPY 순풍](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433517)
@@ -65,12 +74,3 @@
 #### [북유럽, 그린란드 주변에서 중국과 러시아 선박에 대한 트럼프의 주장을 거부, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433468)
 #### [트럼프, 쿠바에 미국과의 협상 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433467)
 #### [러시아 파업 이후에도 여전히 난방이 되지 않는 키예프 아파트 천 개 블록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433466)
-#### [중국 행킹, 광석 매장량 53.1% 증가했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433465)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3788.HK/total>
-#### [중국 비철광, 참비시 남동 광산 생산 재개, 2026년 예상 구리 생산량 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433463)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1258.HK/total>
-#### [독일 외무 장관, 미국 방문 전 긴밀한 유대 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433464)
-#### [ECB, 방코 BPM의 크레디트 아그리콜 지분 증자에 조건부 승인을 내릴 태세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433462)
-#### [WH 스미스, 새 회장 찾기 계획 수립, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433461)
-#### [미니막스, 초과 할당 옵션 행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433459)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0100.HK/total>
