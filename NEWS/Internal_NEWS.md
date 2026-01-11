@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_0633 </title></head>
-<center>Vers : 20260111_0633 </center>
-<center>Vers : 20260111_1533 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_0657 </title></head>
+<center>Vers : 20260111_0657 </center>
+<center>Vers : 20260111_1557 </center>
 <br><br><br>
+#### [러시아 보로 네즈에 대한 우크라이나 드론 공격으로 여성 사망, 건물 손상, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433425)
+#### [이란에 대한 미국의 개입 가능성에 대해 이스라엘이 높은 경계를하고 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433423)
+#### [이스라엘, 미국의이란 개입 가능성에 대해 높은 경계, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433424)
 #### [머스크, 친환경 연료에 대한 중국 의존도를 줄이기 위해 더 많은 에탄올 사용을 모색하다 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433422)
 #### [머스크, 중국에 대한 의존도를 줄이기 위해 친환경 연료로 에탄올 사용 확대 모색, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433421)
 #### [주목해야 할 요소 - 1월 11일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433420)
@@ -59,13 +62,13 @@
 #### [시리아 보안군은 일부 쿠르드 전사들이 알레포를 떠났고 다른 전사들은 여전히 숨어 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433369)
 #### [트럼프, 법원이 베네수엘라 석유 수입을 미국 계좌에서 압류하는 것을 막으려는 움직임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433367)
 #### [이란 당국, 불안이 커지면서 단속 강화 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433365)
+<head><meta charset="utf-8"><title>Vers : 20260111_0657 </title></head>
+<center>Vers : 20260111_0657 </center>
+<center>Vers : 20260111_1557 </center>
+<br><br><br>
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433366)
 #### [베네수엘라에서 석방 된 수감자 수가 18 명으로 증가했다고 인권 단체들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433364)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433363)
-<head><meta charset="utf-8"><title>Vers : 20260111_0633 </title></head>
-<center>Vers : 20260111_0633 </center>
-<center>Vers : 20260111_1533 </center>
-<br><br><br>
 #### [경찰, 미니애폴리스에서 밤새 시위 중 29명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433362)
 #### [케랄라의 전통 '뱀 보트' 경주에서 자존심을 걸고 싸우는 30미터 선박들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433361)
 #### [트럼프, 미국 계좌에 보유한 베네수엘라 석유 수입 보호 명령 서명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433360)
@@ -125,7 +128,3 @@
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433308)
 #### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433307)
 #### [이스라엘의 네타냐후는 향후 10 년 동안 이스라엘을 미국의 군사 지원에서 '축소'하기를 희망합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433305)
-#### [우크라이나 드론 공격으로 러시아 볼고그라드 지역의 석유 창고에 화재가 발생했다고 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433306)
-#### [독점-베인의 마나 푸람 거래가 인도 규제 우려로 지연되었다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433304)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8306.T/total>
-#### [미니애폴리스 활동가에 대한 ICE의 치명적인 총격으로 전국적인 시위가 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433303)

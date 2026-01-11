@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_0633 </title></head>
-<center>Vers : 20260111_0633 </center>
-<center>Vers : 20260111_1533 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_0657 </title></head>
+<center>Vers : 20260111_0657 </center>
+<center>Vers : 20260111_1557 </center>
 <br><br><br>
 #### ["엄마, 나 주식 좀 알려줘"…'13만 전자·70만 닉스'에 웃은 건 60대 여성 장기 투자자?](https://m.stock.naver.com/news/ranknews/view/011/0004577167)
 #### [이제 막 40세 됐는데 짐 싼다…'역대급 실적' 은행들 속내는?](https://m.stock.naver.com/news/ranknews/view/008/0005302868)
