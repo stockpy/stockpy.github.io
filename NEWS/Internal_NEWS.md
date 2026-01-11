@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_2117 </title></head>
-<center>Vers : 20260111_2117 </center>
-<center>Vers : 20260112_0617 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_2220 </title></head>
+<center>Vers : 20260111_2220 </center>
+<center>Vers : 20260112_0720 </center>
 <br><br><br>
+#### [홍콩 미디어 재벌 지미 라이의 감형 심리, 선고를 앞두고 시작될 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433535)
+#### [분석-베네수엘라 공습으로 미국, 중국에 아메리카 대륙에서 멀리 떨어져 있으라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433534)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0001.HK/total>
+#### [트럼프, 화요일이란 옵션 논의 위해 고문들과 만날 예정, 미국 관리 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433532)
+#### [고무적인 데이터에도 불구하고 BUZZ-EUR/USD가 하락세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433531)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433533)
+#### [베라시타 전망 FY 매출 성장률 16%](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433530)
+#### [얼리전트, 선 컨트리 항공을 15억 달러에 인수하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433529)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SNCY.O/total>
+#### [선 컨트리 항공, 얼리전트와 선 컨트리 항공 합병 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433527)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ALGT.O/total>
+#### [NFP 이후 USD가 입찰 톤을 유지하면서 BUZZ-AUD/USD 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433528)
+#### [트럼프, 더 이상 베네수엘라 석유나 돈이 쿠바에 가지 않을 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433526)
 #### [Mbx 바이오사이언스, 2026년 3분기 캔부파라타이드 임상 3상 시험 시작한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433523)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MBX.O/total>
 #### [엑셀릭시스, 2026 회계연도 순 제품 매출 가이던스 23억 2,500만 달러~24억 2,500만 달러 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433524)
@@ -63,14 +76,3 @@
 #### [프랑스의 라사트, 노르웨이 선수들을 제치고 아델보덴 활강 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433479)
 #### [우크라이나 군이 카스피해에서 루코일 시추 플랫폼을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433476)
 #### [오슬로 공항, 드론 감지로 인해 활주로 1개가 잠시 폐쇄됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433477)
-#### [트럼프, 쿠바에 석유 경고, 미국과의 협상 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433475)
-#### ['참담한': 몇 주 동안 타오를 것으로 예상되는 호주 산불](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433474)
-#### [오슬로 공항, 드론 관측으로 활주로 1 개 폐쇄, 경찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433473)
-#### [스웨덴, 그린란드와 덴마크에 대한 미국의 수사에 대해 '매우 비판적', 총리 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433472)
-#### [분석-베네수엘라 공습으로 미국, 중국에 아메리카 대륙에서 멀리 떨어져 있으라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433471)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0001.HK/total>
-#### [브라질, 베네수엘라 주재 아르헨티나 외교 대표단 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433470)
-#### [항해 속도 악마 아르고와 줄루가 함대의 대서양 돌격을 이끌고 항해를 시작합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433469)
-#### [북유럽, 그린란드 주변에서 중국과 러시아 선박에 대한 트럼프의 주장을 거부, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433468)
-#### [트럼프, 쿠바에 미국과의 협상 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433467)
-#### [러시아 파업 이후에도 여전히 난방이 되지 않는 키예프 아파트 천 개 블록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433466)
