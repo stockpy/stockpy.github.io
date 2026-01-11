@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_0155 </title></head>
-<center>Vers : 20260111_0155 </center>
-<center>Vers : 20260111_1055 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_0351 </title></head>
+<center>Vers : 20260111_0351 </center>
+<center>Vers : 20260111_1251 </center>
 <br><br><br>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433418)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433417)
+#### [루비오와 네타냐후는 토요일에 전화로 통화했다고 미국 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433416)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433415)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433414)
+#### [루비오와 네타냐후가 이란, 시리아, 가자 지구에 대해 논의한다고 Axios가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433413)
 #### [포르멘테라 파트너스, 베네수엘라 셰일 유전 연구를 위한 팀 구성 고려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433409)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433411)
 #### [타카이치 일본 총리, 조기 선거를 소집 할 수 있다고 연합 파트너는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433410)
@@ -56,6 +62,10 @@
 #### [케랄라의 전통 '뱀 보트' 경주에서 자존심을 걸고 싸우는 30미터 선박들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433361)
 #### [트럼프, 미국 계좌에 보유한 베네수엘라 석유 수입 보호 명령 서명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433360)
 #### [미국 특사, 시리아 대통령과 만난 후 알레포에서 자제 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433359)
+<head><meta charset="utf-8"><title>Vers : 20260111_0351 </title></head>
+<center>Vers : 20260111_0351 </center>
+<center>Vers : 20260111_1251 </center>
+<br><br><br>
 #### [우크라이나, 유엔 안보리가 최근 러시아 공격에 대한 긴급 회의를 개최 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433358)
 #### [중국은 제약에도 불구하고 미국의 기술 선두에 근접하고 있다고 AI 연구자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433357)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9988.HK/total>
@@ -63,10 +73,6 @@
 #### [미시시피에서 6 명이 사망 한 후 용의자 구금, 경찰, 현지 언론에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433355)
 #### [존슨앤드존슨, 라이브레반트 장기 연구 결과 치료가 어려운 대장암에서 유망하고 지속 가능한 반응을 보였다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433354)
 #### [화이자, 브레이크워터 임상시험 코호트 3의 긍정적 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433353)
-<head><meta charset="utf-8"><title>Vers : 20260111_0155 </title></head>
-<center>Vers : 20260111_0155 </center>
-<center>Vers : 20260111_1055 </center>
-<br><br><br>
 #### [알파인 스키-오더마트, 아델보덴 대회전 5연패 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433352)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433351)
 #### [메르코수르 무역 협정에 반대하며 시위를 벌입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433350)
@@ -123,9 +129,3 @@
 #### [시리아 군, 알레포 인근 지역 수색 완료, 쿠르드군 점령 신호 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433301)
 #### [인도의 2025 년 쌀 수출, 억제 해제에 따라 거의 기록적인 수준으로 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433300)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433299)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433298)
-#### [분석-덴마크의 그린란드 딜레마: 이미 사라질 위기에 처한 영토를 지켜야 하는가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433297)
-#### [트럼프 취임 후 케네디 센터를 떠나는 워싱턴 국립 오페라단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433296)
-#### [소비자 은행 협회, 은행들이 미국의 신용 카드 이자율 상한 제안에 대응한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433295)
-#### [워싱턴 국립 오페라, 트럼프 인수 후 케네디 센터에서 가장 늦게 퇴장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433294)
-#### [분석-대만 지도자에 대한 베네수엘라식 파업은 중국에 까다로울 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433293)
