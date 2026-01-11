@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_0850 </title></head>
-<center>Vers : 20260111_0850 </center>
-<center>Vers : 20260111_1750 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_0910 </title></head>
+<center>Vers : 20260111_0910 </center>
+<center>Vers : 20260111_1810 </center>
 <br><br><br>
+#### [머스크, 중국에 대한 의존도를 줄이기 위해 친환경 연료로 에탄올 사용 확대 모색, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433438)
+#### [인도가 제안한 기술 기업이 우려하는 전화 보안 규칙](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433437)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [독점-인도, 스마트폰 제조업체에 보안 점검 시 소스 코드 제공 의무화 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433436)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
 #### [이집트, 18억 달러 규모의 재생 에너지 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433435)
 #### [이란, 미국 공격 시 반격 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433433)
 #### [젠바이트 테크놀로지, 회장 선출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433434)
@@ -64,13 +69,13 @@
 #### [구글, 애플 전직 연구원들이 새로운 시각 AI 스타트업을 위해 5천만 달러 모금 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433382)
 #### [니카라과, 미국의 요구 하루 만에 수십 명의 수감자 석방 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433380)
 #### [미국 북서부 강 유량이 100퍼센트까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433379)
+<head><meta charset="utf-8"><title>Vers : 20260111_0910 </title></head>
+<center>Vers : 20260111_0910 </center>
+<center>Vers : 20260111_1810 </center>
+<br><br><br>
 #### [베를린 학생들, 안티구아로 향하는 RORC 대서양 횡단 레이스 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433378)
 #### [메르코수르 협상으로 브뤼셀 중앙 광장에 감자 투기하는 트랙터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433376)
 #### [오스트리아의 스피드 스페셜리스트 에거의 시즌 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433377)
-<head><meta charset="utf-8"><title>Vers : 20260111_0850 </title></head>
-<center>Vers : 20260111_0850 </center>
-<center>Vers : 20260111_1750 </center>
-<br><br><br>
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433375)
 #### [시리아 군대, 알레포에서 마지막 쿠르드 전사들을 쫓아 내려고 시도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433374)
 #### [노벨 연구소, 마차도 제안 후 평화상 양도 불가 입장 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433373)
@@ -130,6 +135,3 @@
 #### [러시아 벨고로드 지역 주지사, 우크라이나 파업 후 60만 명이 전력, 난방, 물 공급을 받지 못했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433321)
 #### [이란의 군대는 테헤란이 증가하는 불안을 진압하기 위해 공공 재산을 보호하겠다고 맹세합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433320)
 #### [이란 혁명수비대, 안보 수호는 '레드라인'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433318)
-#### [스위스 주 지도자, 화재가 발생한 술집의 점검 부족에 분노 표출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433319)
-#### [이라크 석유 장관, 웨스트 쿠르나 2 유전에서 셰브론과 회담 진행 중이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433317)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433316)
