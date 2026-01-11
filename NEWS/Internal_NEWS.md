@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_1439 </title></head>
-<center>Vers : 20260111_1439 </center>
-<center>Vers : 20260111_2339 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_1451 </title></head>
+<center>Vers : 20260111_1451 </center>
+<center>Vers : 20260111_2351 </center>
 <br><br><br>
 #### [네타냐후, 이스라엘은이란 시위를 면밀히 주시하고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433482)
 #### [엑스트롬, 다카르 스테이지 우승, 알-아티야는 정상 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433481)
@@ -75,9 +75,9 @@
 #### [러시아 보로 네즈에 대한 우크라이나 드론 공격으로 여성 사망, 건물 손상, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433425)
 #### [이란에 대한 미국의 개입 가능성에 대해 이스라엘이 높은 경계를하고 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433423)
 #### [이스라엘, 미국의이란 개입 가능성에 대해 높은 경계, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433424)
-<head><meta charset="utf-8"><title>Vers : 20260111_1439 </title></head>
-<center>Vers : 20260111_1439 </center>
-<center>Vers : 20260111_2339 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_1451 </title></head>
+<center>Vers : 20260111_1451 </center>
+<center>Vers : 20260111_2351 </center>
 <br><br><br>
 #### [머스크, 친환경 연료에 대한 중국 의존도를 줄이기 위해 더 많은 에탄올 사용을 모색하다 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433422)
 #### [머스크, 중국에 대한 의존도를 줄이기 위해 친환경 연료로 에탄올 사용 확대 모색, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433421)
@@ -139,9 +139,9 @@
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433366)
 #### [베네수엘라에서 석방 된 수감자 수가 18 명으로 증가했다고 인권 단체들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433364)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433363)
-<head><meta charset="utf-8"><title>Vers : 20260111_1439 </title></head>
-<center>Vers : 20260111_1439 </center>
-<center>Vers : 20260111_2339 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_1451 </title></head>
+<center>Vers : 20260111_1451 </center>
+<center>Vers : 20260111_2351 </center>
 <br><br><br>
 #### [경찰, 미니애폴리스에서 밤새 시위 중 29명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433362)
 #### [케랄라의 전통 '뱀 보트' 경주에서 자존심을 걸고 싸우는 30미터 선박들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433361)
