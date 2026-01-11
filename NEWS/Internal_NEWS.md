@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_0448 </title></head>
-<center>Vers : 20260111_0448 </center>
-<center>Vers : 20260111_1348 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_0516 </title></head>
+<center>Vers : 20260111_0516 </center>
+<center>Vers : 20260111_1416 </center>
 <br><br><br>
 #### [주목해야 할 요소 - 1월 11일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433420)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433419)
@@ -62,9 +62,9 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433363)
 #### [경찰, 미니애폴리스에서 밤새 시위 중 29명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433362)
 #### [케랄라의 전통 '뱀 보트' 경주에서 자존심을 걸고 싸우는 30미터 선박들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433361)
-<head><meta charset="utf-8"><title>Vers : 20260111_0448 </title></head>
-<center>Vers : 20260111_0448 </center>
-<center>Vers : 20260111_1348 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_0516 </title></head>
+<center>Vers : 20260111_0516 </center>
+<center>Vers : 20260111_1416 </center>
 <br><br><br>
 #### [트럼프, 미국 계좌에 보유한 베네수엘라 석유 수입 보호 명령 서명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433360)
 #### [미국 특사, 시리아 대통령과 만난 후 알레포에서 자제 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433359)

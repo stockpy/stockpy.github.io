@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_0448 </title></head>
-<center>Vers : 20260111_0448 </center>
-<center>Vers : 20260111_1348 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_0516 </title></head>
+<center>Vers : 20260111_0516 </center>
+<center>Vers : 20260111_1416 </center>
 <br><br><br>
 #### [이제 막 40세 됐는데 짐 싼다…'역대급 실적' 은행들 속내는?](https://m.stock.naver.com/news/ranknews/view/008/0005302868)
 #### [“20만원 간다고? 그럼 묻고 더블로 가”…삼성전자 ‘빚투’ 역대 최고치](https://m.stock.naver.com/news/ranknews/view/009/0005619667)
