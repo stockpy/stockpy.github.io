@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_1021 </title></head>
-<center>Vers : 20260111_1021 </center>
-<center>Vers : 20260111_1921 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_1043 </title></head>
+<center>Vers : 20260111_1043 </center>
+<center>Vers : 20260111_1943 </center>
 <br><br><br>
+#### [다르 글로벌과 트럼프 조직, 100억 달러 규모의 사우디 개발 프로젝트 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433445)
+#### [ECB, 방코 BPM의 크레디트 아그리콜 지분 증자를 조건부로 승인할 태세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433444)
 #### [Dar Global, 트럼프 조직, 100 억 달러 규모의 사우디 부동산 프로젝트 시작, Dar Global CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433443)
 #### [이집트, 18억 달러 규모의 재생 에너지 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433442)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300274.SZ/total>
@@ -68,12 +70,12 @@
 #### [펜타곤, 혁신 부서 책임자로 DOGE 관계자 오웬 웨스트와 전직 트레이더를 선임 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433387)
 #### [베네수엘라에 이어 니카라과, 미국의 요구에 따라 수감자 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433388)
 #### [미군, 시리아 전역에서 이슬람 국가를 겨냥한 공습을 실시했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433386)
+<head><meta charset="utf-8"><title>Vers : 20260111_1043 </title></head>
+<center>Vers : 20260111_1043 </center>
+<center>Vers : 20260111_1943 </center>
+<br><br><br>
 #### [미시시피 남성, 7 세 어린이와 목사를 포함한 6 명을 살해 한 혐의로 기소 됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433385)
 #### [머스크의 X, 7일 만에 새로운 알고리즘을 오픈소스화하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433384)
-<head><meta charset="utf-8"><title>Vers : 20260111_1021 </title></head>
-<center>Vers : 20260111_1021 </center>
-<center>Vers : 20260111_1921 </center>
-<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433383)
 #### [독점-비톨, 이번 주말 베네수엘라 공급 계약에 따라 첫 희석제화물 선적, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433381)
 #### [구글, 애플 전직 연구원들이 새로운 시각 AI 스타트업을 위해 5천만 달러 모금 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433382)
@@ -134,5 +136,3 @@
 #### [키예프의 전력, 수도, 난방 시스템이 강추위 속에 수리를 위해 중단되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433327)
 #### [독점-베인의 마나 푸람 거래가 인도 규제 우려로 지연되었다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433326)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8306.T/total>
-#### [그린란드 의회는 미국의 위협을 논의하기 위해 회의를 열 것이라고 당 지도자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433325)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433324)
