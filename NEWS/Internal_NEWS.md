@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_2023 </title></head>
-<center>Vers : 20260111_2023 </center>
-<center>Vers : 20260112_0523 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_2042 </title></head>
+<center>Vers : 20260111_2042 </center>
+<center>Vers : 20260112_0542 </center>
 <br><br><br>
+#### [W/E 뉴스-이란에 대한 미국의 개입?, 그린란드 개발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433518)
+#### [BUZZ-Replay-EUR / USD의 기다림, 스털링 생존, USD / JPY 순풍](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433517)
 #### [분자 파트너스, 라디오-다르핀 Mp0712로 1/2A상 연구 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433515)
 #### [리젠엑스바이오, 2026년 주요 촉매제 강조하고 리드 듀센 유전자 치료 프로그램에서 긍정적인 장기적 기능적 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433516)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RGNX.O/total>
@@ -72,5 +74,3 @@
 #### [미니막스, 초과 할당 옵션 행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433459)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0100.HK/total>
 #### [WH 스미스, 새 회장 선임 계획 수립 중 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433460)
-#### [올림픽 출신 이탈리아 테너 보첼리, 밀라노 코르티나 동계올림픽 개막식에서 노래하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433458)
-#### [영국의 전 미국 특사가 엡스타인의 피해자들에게 자신의 관계가 아닌 사과를 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433457)
