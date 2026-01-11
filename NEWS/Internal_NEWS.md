@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_2240 </title></head>
-<center>Vers : 20260111_2240 </center>
-<center>Vers : 20260112_0740 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_2252 </title></head>
+<center>Vers : 20260111_2252 </center>
+<center>Vers : 20260112_0752 </center>
 <br><br><br>
+#### [템퍼스, 총 계약 금액 11억 달러 초과 기록 달성했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433546)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TEM.O/total>
+#### [브리티시 랜드의 사이먼 카터 사장, 유럽 물류 회사 P3 로지스틱 파크로 떠난다- 더 타임즈](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433545)
 #### [마이크로소프트, 마이크로소프트 파운드리의 클라우드는 의료 및 생명 과학 고객을 위한 기능을 향상시킨다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433544)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
 #### [테바와 로열티 파마, 백반증 치료제 개발 가속화 위한 협약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433543)
@@ -79,5 +82,3 @@
 #### [월마트, 알파벳의 구글과 공동 제휴하여 쇼핑객이 쌍둥이 자리를 통해 제품을 구매할 수 있도록 허용한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433488)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
 #### [휴전 3개월 만에 가자지구에서 이스라엘의 총격으로 3명이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433487)
-#### [스웨덴, 방공 시스템에 16억 달러 투자할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433486)
-#### [스위스 작가 에리히 폰 다이니켄, 90세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433483)
