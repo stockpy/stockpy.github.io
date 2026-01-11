@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_1853 </title></head>
-<center>Vers : 20260111_1853 </center>
-<center>Vers : 20260112_0353 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_1912 </title></head>
+<center>Vers : 20260111_1912 </center>
+<center>Vers : 20260112_0412 </center>
 <br><br><br>
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433506)
+#### [이스라엘 사이버 스타트업 토크, 12억 달러 가치로 1억 4천만 달러 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433505)
 #### [미국은 NATO 내에서 북대서양 안보 문제를 논의해야한다고 독일 외무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433501)
 #### [Rpt- 크리스탈 바이오텍, 2025년 4분기 VYJUVEK 순매출 1억6천만~1억7천만 달러 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433503)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KRYS.O/total>
@@ -70,5 +72,3 @@
 #### [러시아 파업 후에도 여전히 난방이 안되는 수천 개의 키예프 아파트 블록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433449)
 #### [이란의 전복 된 샤의 아들, 시위 확대에 따른 역할 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433447)
 #### [UPDATE 1-이라크, 2월 바스라 중질유 아시아향 OSP를 마이너스 $1.30/Bbl로 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433448)
-#### [시위에 직면한 이란, 미국이 공격하면 반격하겠다고 맹세하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433446)
-#### [다르 글로벌과 트럼프 조직, 100억 달러 규모의 사우디 개발 프로젝트 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433445)
