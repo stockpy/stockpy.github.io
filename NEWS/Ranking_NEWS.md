@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_1054 </title></head>
-<center>Vers : 20260111_1054 </center>
-<center>Vers : 20260111_1954 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_1117 </title></head>
+<center>Vers : 20260111_1117 </center>
+<center>Vers : 20260111_2017 </center>
 <br><br><br>
 #### ['큰손'들 삼전 살때, '고수'들 조용히 쓸어담은 주식…뭐길래](https://m.stock.naver.com/news/ranknews/view/015/0005235383)
 #### ["엄마, 나 주식 좀 알려줘"…'13만 전자·70만 닉스'에 웃은 건 60대 여성 장기 투자자?](https://m.stock.naver.com/news/ranknews/view/011/0004577167)

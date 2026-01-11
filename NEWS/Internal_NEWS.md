@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_1054 </title></head>
-<center>Vers : 20260111_1054 </center>
-<center>Vers : 20260111_1954 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_1117 </title></head>
+<center>Vers : 20260111_1117 </center>
+<center>Vers : 20260111_2017 </center>
 <br><br><br>
+#### [영국의 전 미국 특사는 자신의 관계가 아니라 엡스타인의 희생자들에게 사과합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433451)
+#### [미국, 희토류에 대한 중국 의존도를 줄이기 위해 더 빠른 조치를 추진합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433450)
+#### [러시아 파업 후에도 여전히 난방이 안되는 수천 개의 키예프 아파트 블록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433449)
+#### [이란의 전복 된 샤의 아들, 시위 확대에 따른 역할 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433447)
+#### [UPDATE 1-이라크, 2월 바스라 중질유 아시아향 OSP를 마이너스 $1.30/Bbl로 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433448)
 #### [시위에 직면한 이란, 미국이 공격하면 반격하겠다고 맹세하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433446)
 #### [다르 글로벌과 트럼프 조직, 100억 달러 규모의 사우디 개발 프로젝트 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433445)
 #### [ECB, 방코 BPM의 크레디트 아그리콜 지분 증자를 조건부로 승인할 태세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433444)
@@ -65,15 +70,15 @@
 #### [독점-미국이 다음 주에 베네수엘라 제재를 더 해제 할 수 있다고 Bessent는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433393)
 #### [미군, 시리아 전역에서 이슬람 국가를 겨냥한 공습을 실시했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433394)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433390)
+<head><meta charset="utf-8"><title>Vers : 20260111_1117 </title></head>
+<center>Vers : 20260111_1117 </center>
+<center>Vers : 20260111_2017 </center>
+<br><br><br>
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433391)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433392)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433389)
 #### [펜타곤, 혁신 부서 책임자로 DOGE 관계자 오웬 웨스트와 전직 트레이더를 선임 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433387)
 #### [베네수엘라에 이어 니카라과, 미국의 요구에 따라 수감자 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433388)
-<head><meta charset="utf-8"><title>Vers : 20260111_1054 </title></head>
-<center>Vers : 20260111_1054 </center>
-<center>Vers : 20260111_1954 </center>
-<br><br><br>
 #### [미군, 시리아 전역에서 이슬람 국가를 겨냥한 공습을 실시했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433386)
 #### [미시시피 남성, 7 세 어린이와 목사를 포함한 6 명을 살해 한 혐의로 기소 됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433385)
 #### [머스크의 X, 7일 만에 새로운 알고리즘을 오픈소스화하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433384)
@@ -130,8 +135,3 @@
 #### [쿠르드군은 알레포에서 시리아 군의 공격이 터키의 지원을 받고 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433334)
 #### [인도 시장 규제 당국이 NSE 상장을 위한 길을 열다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433333)
 #### [이스라엘의 네타냐후, 향후 10 년 안에 이스라엘을 미국의 군사 지원에서 '축소'하기를 희망합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433332)
-#### [생산량이 완화 될 때까지 팜유 가격이 압력을받을 것이라고 분석가 Mistry는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433331)
-#### [트럼프의 과시적인 이민 단속이 폭력적인 대립으로 이어지다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433330)
-#### [미국 대법원의 다음 트랜스젠더 권리 싸움은 스포츠 그 이상에 영향을 미칠 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433329)
-#### [이란의 경비대, 테헤란이 불안을 진압하기 위해 안보에 '레드 라인'을 선포하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433328)
-#### [키예프의 전력, 수도, 난방 시스템이 강추위 속에 수리를 위해 중단되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433327)
