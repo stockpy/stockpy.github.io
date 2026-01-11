@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_1830 </title></head>
-<center>Vers : 20260111_1830 </center>
-<center>Vers : 20260112_0330 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_1853 </title></head>
+<center>Vers : 20260111_1853 </center>
+<center>Vers : 20260112_0353 </center>
 <br><br><br>
+#### [미국은 NATO 내에서 북대서양 안보 문제를 논의해야한다고 독일 외무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433501)
+#### [Rpt- 크리스탈 바이오텍, 2025년 4분기 VYJUVEK 순매출 1억6천만~1억7천만 달러 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433503)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KRYS.O/total>
+#### [영국, 북극에서 러시아 억제를 위한 나토 회담은 '평소와 다름없는 사업'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433504)
+#### [이란 시위로 인한 사망자가 500 명 이상에 달한다고 인권 단체는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433502)
+#### [프랑스 사회당은 메르코수르 불신임안에 투표하지 않을 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433500)
+#### [미국 북서부 강 유량은 100 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433499)
 #### [러시아는 이제 우크라이나의 평화를 원한다는 것을 보여줄 책임이 있다고 EU의 폰 데어 라이엔은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433497)
 #### [시위에 직면한 이란, 미국이 공격하면 반격하겠다고 맹세하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433498)
 #### [크리스탈 바이오텍, 2025년 4분기 순매출 1억6천만~1억7천만 달러 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433496)
@@ -65,10 +72,3 @@
 #### [UPDATE 1-이라크, 2월 바스라 중질유 아시아향 OSP를 마이너스 $1.30/Bbl로 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433448)
 #### [시위에 직면한 이란, 미국이 공격하면 반격하겠다고 맹세하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433446)
 #### [다르 글로벌과 트럼프 조직, 100억 달러 규모의 사우디 개발 프로젝트 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433445)
-#### [ECB, 방코 BPM의 크레디트 아그리콜 지분 증자를 조건부로 승인할 태세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433444)
-#### [Dar Global, 트럼프 조직, 100 억 달러 규모의 사우디 부동산 프로젝트 시작, Dar Global CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433443)
-#### [이집트, 18억 달러 규모의 재생 에너지 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433442)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300274.SZ/total>
-#### [러시아 군이 우크라이나 자 포리 지아 지역의 마을을 점령했다고 타스 통신은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433441)
-#### [스카텍, 이집트에서 1.95GW 태양광 및 3.9GWh BESS 용량에 대한 PPA 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433440)
-#### [국제법은 미국을 포함한 모든 사람에게 적용된다고 독일 재무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433439)
