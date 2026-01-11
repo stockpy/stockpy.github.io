@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_1912 </title></head>
-<center>Vers : 20260111_1912 </center>
-<center>Vers : 20260112_0412 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_2023 </title></head>
+<center>Vers : 20260111_2023 </center>
+<center>Vers : 20260112_0523 </center>
 <br><br><br>
+#### [분자 파트너스, 라디오-다르핀 Mp0712로 1/2A상 연구 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433515)
+#### [리젠엑스바이오, 2026년 주요 촉매제 강조하고 리드 듀센 유전자 치료 프로그램에서 긍정적인 장기적 기능적 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433516)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RGNX.O/total>
+#### [코인베이스, 암호화폐 법안이 미국 상원 마크업으로 이동함에 따라 압력을 높이다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433514)
+#### [이란 시위로 인한 사망자가 500 명 이상에 달한다고 인권 단체는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433512)
+#### [1월 11일 일요일 오후 2시 40분(동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433513)
+#### [영국, 우크라이나 방어를위한 새로운 탄도 미사일 개발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433511)
+#### [나토는 북극의 안보를 강화하기 위해 작전을 시작해야한다고 벨기에 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433510)
+#### [BUZZ-IMM: 유로 강세 복귀로 USD 숏 추가, 157달러 이상 상승한 엔화 매도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433508)
+#### [이란에 대한 군사적 옵션에 회의적인 일부 미국 상원의원들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433509)
+#### [스토크 테라퓨틱스, 2026년 2분기 150명 환자 등록 완료, 2027년 중반 조레부너센 3상 데이터 판독 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433507)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/STOK.O/total>
 #### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433506)
 #### [이스라엘 사이버 스타트업 토크, 12억 달러 가치로 1억 4천만 달러 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433505)
 #### [미국은 NATO 내에서 북대서양 안보 문제를 논의해야한다고 독일 외무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433501)
@@ -62,13 +74,3 @@
 #### [WH 스미스, 새 회장 선임 계획 수립 중 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433460)
 #### [올림픽 출신 이탈리아 테너 보첼리, 밀라노 코르티나 동계올림픽 개막식에서 노래하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433458)
 #### [영국의 전 미국 특사가 엡스타인의 피해자들에게 자신의 관계가 아닌 사과를 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433457)
-#### [중국, 최고 외교관 방문 연기 후 소말리아에 대한 지원 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433456)
-#### [이란 대통령, 미국과 이스라엘이 '폭동'을 조장한다고 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433453)
-#### [이스라엘의 총격으로 가자 지구에서 3 명 사망, 긴장 고조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433455)
-#### [북유럽, 그린란드 주변에서 중국과 러시아 선박에 대한 트럼프의 주장을 거부, FT 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433452)
-#### [미군, 시리아 전역의 이슬람 국가를 표적으로 삼았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433454)
-#### [영국의 전 미국 특사는 자신의 관계가 아니라 엡스타인의 희생자들에게 사과합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433451)
-#### [미국, 희토류에 대한 중국 의존도를 줄이기 위해 더 빠른 조치를 추진합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433450)
-#### [러시아 파업 후에도 여전히 난방이 안되는 수천 개의 키예프 아파트 블록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433449)
-#### [이란의 전복 된 샤의 아들, 시위 확대에 따른 역할 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433447)
-#### [UPDATE 1-이라크, 2월 바스라 중질유 아시아향 OSP를 마이너스 $1.30/Bbl로 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433448)
