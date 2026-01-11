@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_0827 </title></head>
-<center>Vers : 20260111_0827 </center>
-<center>Vers : 20260111_1727 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_0850 </title></head>
+<center>Vers : 20260111_0850 </center>
+<center>Vers : 20260111_1750 </center>
 <br><br><br>
+#### [이집트, 18억 달러 규모의 재생 에너지 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433435)
+#### [이란, 미국 공격 시 반격 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433433)
+#### [젠바이트 테크놀로지, 회장 선출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433434)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/003028.SZ/total>
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433432)
 #### [광동 화테 가스 주주들, 주식 처분 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433431)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688268.SS/total>
 #### [지아메이 식품 포장 추저우의 주식 거래가 재개됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433428)
@@ -62,14 +67,14 @@
 #### [베를린 학생들, 안티구아로 향하는 RORC 대서양 횡단 레이스 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433378)
 #### [메르코수르 협상으로 브뤼셀 중앙 광장에 감자 투기하는 트랙터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433376)
 #### [오스트리아의 스피드 스페셜리스트 에거의 시즌 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433377)
+<head><meta charset="utf-8"><title>Vers : 20260111_0850 </title></head>
+<center>Vers : 20260111_0850 </center>
+<center>Vers : 20260111_1750 </center>
+<br><br><br>
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433375)
 #### [시리아 군대, 알레포에서 마지막 쿠르드 전사들을 쫓아 내려고 시도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433374)
 #### [노벨 연구소, 마차도 제안 후 평화상 양도 불가 입장 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433373)
 #### [독점-비톨, 이번 주말 베네수엘라 공급 계약에 따라 첫 희석제화물 선적, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433371)
-<head><meta charset="utf-8"><title>Vers : 20260111_0827 </title></head>
-<center>Vers : 20260111_0827 </center>
-<center>Vers : 20260111_1727 </center>
-<br><br><br>
 #### [베네수엘라에서 석방 된 수감자 수가 18 명으로 증가했다고 인권 단체는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433372)
 #### [이란의 경비대, 이스라엘 스파이 혐의로 외국인 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433368)
 #### [슬로바키아, 미국과 원자력 협력 협정 체결, 피코 총리 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433370)
@@ -128,7 +133,3 @@
 #### [스위스 주 지도자, 화재가 발생한 술집의 점검 부족에 분노 표출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433319)
 #### [이라크 석유 장관, 웨스트 쿠르나 2 유전에서 셰브론과 회담 진행 중이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433317)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433316)
-#### [아랍 걸프 철강 산업, 영국 특수강 인수에 눈독-스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433314)
-#### [올림픽- 아직 할 일이 남았지만 밀라노 아이스하키 경기장이 문을 열었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433315)
-#### [미니애폴리스 활동가의 치명적인 ICE 총격 사건으로 전국적인 시위가 시작됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433312)
-#### [이란 군대, 시위 속에서 국익 수호 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433313)
