@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_1725 </title></head>
-<center>Vers : 20260111_1725 </center>
-<center>Vers : 20260112_0225 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_1830 </title></head>
+<center>Vers : 20260111_1830 </center>
+<center>Vers : 20260112_0330 </center>
 <br><br><br>
+#### [러시아는 이제 우크라이나의 평화를 원한다는 것을 보여줄 책임이 있다고 EU의 폰 데어 라이엔은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433497)
+#### [시위에 직면한 이란, 미국이 공격하면 반격하겠다고 맹세하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433498)
+#### [크리스탈 바이오텍, 2025년 4분기 순매출 1억6천만~1억7천만 달러 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433496)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KRYS.O/total>
+#### [영국, 독일, 미국의 위협을 진정시키기 위해 그린란드에서 나토 군대 논의, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433495)
+#### [국토 안보부, 미네소타에 수백 명의 경찰관을 더 파견 할 것이라고 Noem은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433494)
+#### [일본 Torq Inc에 잘못 태그된 경고가 철회되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433493)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8077.T/total>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433492)
 #### [화요일에 예정된 이란 옵션에 대한 트럼프 브리핑, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433491)
 #### [화요일에 예정된 이란 옵션에 대한 트럼프 브리핑, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433490)
@@ -64,12 +72,3 @@
 #### [러시아 군이 우크라이나 자 포리 지아 지역의 마을을 점령했다고 타스 통신은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433441)
 #### [스카텍, 이집트에서 1.95GW 태양광 및 3.9GWh BESS 용량에 대한 PPA 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433440)
 #### [국제법은 미국을 포함한 모든 사람에게 적용된다고 독일 재무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433439)
-#### [머스크, 중국에 대한 의존도를 줄이기 위해 친환경 연료로 에탄올 사용 확대 모색, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433438)
-#### [인도가 제안한 기술 기업이 우려하는 전화 보안 규칙](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433437)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [독점-인도, 스마트폰 제조업체에 보안 점검 시 소스 코드 제공 의무화 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433436)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [이집트, 18억 달러 규모의 재생 에너지 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433435)
-#### [이란, 미국 공격 시 반격 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433433)
-#### [젠바이트 테크놀로지, 회장 선출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2433434)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/003028.SZ/total>

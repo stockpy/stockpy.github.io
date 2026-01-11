@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260111_1725 </title></head>
-<center>Vers : 20260111_1725 </center>
-<center>Vers : 20260112_0225 </center>
+<head><meta charset="utf-8"><title>Vers : 20260111_1830 </title></head>
+<center>Vers : 20260111_1830 </center>
+<center>Vers : 20260112_0330 </center>
 <br><br><br>
 #### [“은행 통장에 돈 썩게두면 바보죠”…주식투자 대기자금 무려 92조원](https://m.stock.naver.com/news/ranknews/view/009/0005619959)
 #### ["너무 오르길래 일단 팔았어요"…반도체 다음은 바이오? 증권가 '시선 집중'](https://m.stock.naver.com/news/ranknews/view/011/0004577280)
