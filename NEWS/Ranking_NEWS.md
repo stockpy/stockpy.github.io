@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260112_1426 </title></head>
-<center>Vers : 20260112_1426 </center>
-<center>Vers : 20260112_2326 </center>
+<head><meta charset="utf-8"><title>Vers : 20260112_1455 </title></head>
+<center>Vers : 20260112_1455 </center>
+<center>Vers : 20260112_2355 </center>
 <br><br><br>
 #### [“이젠 사람이 귀하지 않습니다”…은행, 신규채용 ‘찔끔’ 희망퇴직 ‘북적’](https://m.stock.naver.com/news/ranknews/view/009/0005620623)
 #### [[단독] 아침 7시부터 '국장' 투자한다…거래소도 6월 프리마켓 개장](https://m.stock.naver.com/news/ranknews/view/011/0004577781)
@@ -62,9 +62,9 @@
 #### [반도체 실적 탄력…"1분기 5,000 간다" 파격 전망](https://m.stock.naver.com/news/ranknews/view/215/0001237579)
 #### ["엔비디아 AI 메모리 기판 수주 급등"…심텍 순매수 1위[주식 초고수는 지금]](https://m.stock.naver.com/news/ranknews/view/011/0004577566)
 #### [1만5000원에 산 주식, 1년 만에…'250% 급등' 개미들 열광 [류은혁의 종목 핫라인]](https://m.stock.naver.com/news/ranknews/view/015/0005235622)
-<head><meta charset="utf-8"><title>Vers : 20260112_1426 </title></head>
-<center>Vers : 20260112_1426 </center>
-<center>Vers : 20260112_2326 </center>
+<head><meta charset="utf-8"><title>Vers : 20260112_1455 </title></head>
+<center>Vers : 20260112_1455 </center>
+<center>Vers : 20260112_2355 </center>
 <br><br><br>
 #### [135원→78만원…'동전주' SK하이닉스의 성공史[손엄지의 주식살롱]](https://m.stock.naver.com/news/ranknews/view/421/0008707685)
 #### ['돈로주의' 시대 열리자 방산주 질주… 계약 해지 악재에 이차전지 흔들](https://m.stock.naver.com/news/ranknews/view/469/0000908493)
