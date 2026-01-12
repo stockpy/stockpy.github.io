@@ -1,7 +1,32 @@
-<head><meta charset="utf-8"><title>Vers : 20260112_1833 </title></head>
-<center>Vers : 20260112_1833 </center>
-<center>Vers : 20260113_0333 </center>
+<head><meta charset="utf-8"><title>Vers : 20260112_1859 </title></head>
+<center>Vers : 20260112_1859 </center>
+<center>Vers : 20260113_0359 </center>
 <br><br><br>
+#### [칠레의 만토 베데 구리 생산량이 노동 회담이 지연되면서 타격을 입었다 고 노조는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434927)
+#### [독일 심라이즈, 테르펜 사업 매각, 1억 6,900만 달러 손상차손 반영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434921)
+#### [캐나다 고위 관리들은 중국 방문 중 카놀라 관세 철폐가 최종적인 것은 아니지만 진전을 기대하는 것은 공정하다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434920)
+#### [독일 클링 베일, 워싱턴 회의에서 희토류 가격 바닥을 다루다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434926)
+#### [기가와트급 용량 구축을 위한 '메타 컴퓨팅' 이니셔티브 수립을 위한 1-Meta 업데이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434918)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [USDA, 미국 2025 년 옥수수 작물 추정치 인상, 분석가들 놀라게 함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434919)
+#### [수상에 저장된 이란산 원유가 사상 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434925)
+#### [노바티스, 더 많은 볼트온 인수에 주목한다고 CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434917)
+#### [백악관의 변덕이 은행 자본 딜레마를 낳다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434923)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434924)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [파라마운트 스카이댄스, 넷플릭스 계약과 관련해 워너 브라더스를 상대로 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434916)
+#### [최근 순조로운 항해에도 불구하고 투자자들이 경고를 받아들이는 것이 최선일 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434922)
+#### [라일락, 트랙시스와 유타 프로젝트에서 리튬 공급을 위한 10년 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434928)
+#### [시장-트럼프가 중앙은행장을 쫓으면서 증시는 약세, 금은 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434908)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
+#### [우호적인 리스크 기조에서 강세 편향 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434915)
+#### [중국으로 베네수엘라 석유를 선적하기 위해 항해하는 슈퍼 탱커가 유턴, 선박 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434914)
+#### [사렙타, 4분기 엘리비디스 매출 예상치 하회 후 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434910)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SRPT.O/total>
+#### [캐피털원 4억 2,500만 달러 예금자 합의, 초기 거부 후 예비 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434912)
+#### [백악관의 리빗 : 트럼프는 법무부 관리들에게 파월 연준 의장을 조사하도록 지시하지 않았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434913)
+#### [에어버스, 엔진 공급 문제로 프랫 앤 휘트니를 겨냥하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434909)
+#### [이란, 대중과 다른 메시지를 미국에 보내는 백악관, 백악관은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434911)
 #### [스털링, 연준 독립 불안감에 추세 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434907)
 #### [브라질 재무부, 2032년까지 부채가 GDP의 89%에 육박할 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434903)
 #### [연준 독립 우려에 캐나다 달러 반등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434901)
@@ -46,24 +71,3 @@
 #### [벤피카, 슬라비아 프라하에 다비드 유라섹 선수의 모든 권리를 300만 유로에 팔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434881)
 #### [디젤 수익 마진 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434873)
 #### [독점-파키스탄과 인도네시아, 제트기 및 드론 방위 거래에 근접, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434864)
-#### [러시아 드론이 우크라이나 항구 근처에서 외국 선박 2척을 공격했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434868)
-#### [카이사뱅크, 신규 선순위 비우선주 채권 발행으로 12억 5천만 유로 조달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434869)
-#### [트럼프 행정부가 100,000 개 이상의 비자를 취소했다고 국무부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434863)
-#### [미쉐린, 쿨리 그룹 및 텍스-테크 인더스트리 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434867)
-#### [USD/CAD 하락은 일시적인 것으로 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434862)
-#### [프랑스 은행의 빌레로이, 연준의 파월 의장은 "청렴의 모델"이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434865)
-#### [노보 노디스크 CEO, 미국 내 150만 명의 복합 GLP-1 약물 사용자 신고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434866)
-#### [영국 스미스 앤 네퓨, 최대 4억 5,000만 달러에 Integrity 정형외과 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434852)
-#### [빚을 갚는 베네수엘라 석유 화물을 중국으로 실어 나르는 슈퍼 탱커가 유턴 - 선박 데이터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434856)
-#### [올해 ECB 금리 인상에 대한 이야기는 "공상적"입니다 - Villeroy](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434859)
-#### [일본 파소나, 새로운 벤처와 함께 확장현실 비디오 서비스 판매에 나선다, 닛케이 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434851)
-#### [스페인의 미국산 LNG 수입, 2025년 가스 공급의 거의 3분의 1로 급증할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434855)
-#### [이란의 물 위에 저장된 석유가 사상 최고치를 기록했다고 Kpler는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434858)
-#### [엔빕코 CEO 사이먼 볼튼, 2026년 4월 30일 그룹을 떠나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434861)
-#### [포티즈, 에코피스크, WTI 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434854)
-#### [독점-파키스탄과 인도네시아, 제트기 및 드론 방위 거래에 근접, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434857)
-#### [대만, 관세 인하, TSMC 시설 증설을위한 무역 협상에 근접, NYT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434860)
-#### [페루, 6월에 새로운 페트로페루 민관 계약 체결 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434853)
-#### [스웨덴, 남미에서 기록적인 3톤 코카인 압수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434841)
-#### [폴란드 소매업체 Zabka, 4분기 매출 14.2% 증가 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434844)
-#### [미국 옥수수 재고가 대규모 수확 후 12 월 1 일 기록을 세웠다고 USDA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2434840)
