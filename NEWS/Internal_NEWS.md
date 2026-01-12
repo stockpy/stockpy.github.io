@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260112_2240 </title></head>
-<center>Vers : 20260112_2240 </center>
-<center>Vers : 20260113_0740 </center>
+<head><meta charset="utf-8"><title>Vers : 20260112_2252 </title></head>
+<center>Vers : 20260112_2252 </center>
+<center>Vers : 20260113_0752 </center>
 <br><br><br>
 #### [캐피털 월드 인베스터스, 브라질 베일 지분 5.02% 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435110)
 #### [호주 러드 미국 대사, 조기 사임할 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435111)
