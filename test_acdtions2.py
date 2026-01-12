@@ -321,6 +321,11 @@ def __KO_ETF_Allocation() :
     # --> 결과값 : <StringArray> ['56.0'] Length: 1, dtype: string
     # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC1"].iloc[0])
 
+    print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].values[0])
+    print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC1"].values[0])
+    print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].iloc[0])
+    print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC1"].iloc[0])
+
     output.write("['%s', '%s'],\n" % (df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].values[0], df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC1"].iloc[0]))
     output.write("['%s', '%s'],\n" % (df.loc[df["ETF_Name"] == "KODEX iShares미국투자등급회사채액티브", "ETF_Name"].values[0], df.loc[df["ETF_Name"] == "KODEX iShares미국투자등급회사채액티브", "MY_PERC1"].iloc[0]))
     output.write("['%s', '%s'],\n" % (df.loc[df["ETF_Name"] == "KODEX 미국30년국채액티브(H)", "ETF_Name"].values[0], df.loc[df["ETF_Name"] == "KODEX 미국30년국채액티브(H)", "MY_PERC1"].iloc[0]))
