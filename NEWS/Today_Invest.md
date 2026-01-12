@@ -1,5 +1,5 @@
-<center>Vers : 20260112_0834 </center>
-<center>Vers : 20260112_1734 </center>
+<center>Vers : 20260112_0932 </center>
+<center>Vers : 20260112_1832 </center>
 <br>
 <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -94,12 +94,12 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 var chart = bb.generate({
 data: {
 columns: [
-['KODEX 미국S&P500', '30.0'],
-['KODEX iShares미국투자등급회사채액티브', '21.5'],
-['KODEX 미국30년국채액티브(H)', '14.5'],
-['KODEX 미국배당다우존스', '34.0']
+['KODEX 미국S&P500', '56.0'],
+['KODEX iShares미국투자등급회사채액티브', '11.0'],
+['KODEX 미국10년국채선물', '15.0'],
+['KODEX 미국30년국채액티브(H)', '7.0'],
+['KODEX 미국배당다우존스', '11.0']
 ],
-unload: true,
 type: "pie", // for ESM specify as: pie()
 },
 pie: {
