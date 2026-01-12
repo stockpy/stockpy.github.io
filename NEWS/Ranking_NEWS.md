@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260112_1051 </title></head>
-<center>Vers : 20260112_1051 </center>
-<center>Vers : 20260112_1951 </center>
+<head><meta charset="utf-8"><title>Vers : 20260112_1113 </title></head>
+<center>Vers : 20260112_1113 </center>
+<center>Vers : 20260112_2013 </center>
 <br><br><br>
 #### [[단독] 부모님의 주택연금, 목돈 없이 자녀가 이어받을 길 열린다](https://m.stock.naver.com/news/ranknews/view/009/0005620577)
 #### [마침 손가락 근질근질했는데…"삼성전자, 지금 팔면 안된다" [한경 트렌드쇼]](https://m.stock.naver.com/news/ranknews/view/015/0005235833)
@@ -62,9 +62,9 @@
 #### [모베이스전자 "현대차그룹 모베드 핵심 부품 본격 양산 예정"](https://m.stock.naver.com/news/ranknews/view/003/0013705833)
 #### [“딸이 스스로 목숨을 끊었습니다”…가입했던 보험 있어 보험금 청구했더니 [어쩌다 세상이]](https://m.stock.naver.com/news/ranknews/view/009/0005619976)
 #### ["엔비디아 AI 메모리 기판 수주 급등"…심텍 순매수 1위[주식 초고수는 지금]](https://m.stock.naver.com/news/ranknews/view/011/0004577566)
-<head><meta charset="utf-8"><title>Vers : 20260112_1051 </title></head>
-<center>Vers : 20260112_1051 </center>
-<center>Vers : 20260112_1951 </center>
+<head><meta charset="utf-8"><title>Vers : 20260112_1113 </title></head>
+<center>Vers : 20260112_1113 </center>
+<center>Vers : 20260112_2013 </center>
 <br><br><br>
 #### [코스피 사상 최고 랠리에…日 거래대금도 24조원 "5년 만"[이런국장 저런주식]](https://m.stock.naver.com/news/ranknews/view/011/0004577714)
 #### [외국인, 일주일간 1.7조 폭풍 매수…‘조·방·원+바’에 집중](https://m.stock.naver.com/news/ranknews/view/016/0002584304)
