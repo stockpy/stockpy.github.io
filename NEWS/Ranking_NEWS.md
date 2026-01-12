@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260112_0637 </title></head>
-<center>Vers : 20260112_0637 </center>
-<center>Vers : 20260112_1537 </center>
+<head><meta charset="utf-8"><title>Vers : 20260112_0704 </title></head>
+<center>Vers : 20260112_0704 </center>
+<center>Vers : 20260112_1604 </center>
 <br><br><br>
 #### [삼전·하이닉스 너무 올랐어..."다음은 이 주식" 메타가 준 힌트 '우르르'](https://m.stock.naver.com/news/ranknews/view/008/0005303253)
 #### [마침 손가락 근질근질했는데…"삼성전자, 지금 팔면 안된다" [한경 트렌드쇼]](https://m.stock.naver.com/news/ranknews/view/015/0005235833)
