@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260112_2252 </title></head>
-<center>Vers : 20260112_2252 </center>
-<center>Vers : 20260113_0752 </center>
+<head><meta charset="utf-8"><title>Vers : 20260112_2311 </title></head>
+<center>Vers : 20260112_2311 </center>
+<center>Vers : 20260113_0811 </center>
 <br><br><br>
 #### ["내려도 너무 내렸다" 개미들 비명 쏟아지더니…기묘한 반등 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005236145)
 #### [“50만원 넣으면 6만원 더 얹어드립니다” 청년들 ‘화색’…저축·절감으로 통장 불리는 법 [모르면내손해①]](https://m.stock.naver.com/news/ranknews/view/009/0005620353)
