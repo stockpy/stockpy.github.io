@@ -99,6 +99,7 @@ columns: [
 ['KODEX 미국30년국채액티브(H)', '7.0'],
 ['KODEX 미국배당다우존스', '11.0']
 ],
+unload: true,
 type: "pie", // for ESM specify as: pie()
 },
 pie: {
