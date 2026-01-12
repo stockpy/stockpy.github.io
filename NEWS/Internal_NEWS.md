@@ -1,7 +1,33 @@
-<head><meta charset="utf-8"><title>Vers : 20260112_2219 </title></head>
-<center>Vers : 20260112_2219 </center>
-<center>Vers : 20260113_0719 </center>
+<head><meta charset="utf-8"><title>Vers : 20260112_2240 </title></head>
+<center>Vers : 20260112_2240 </center>
+<center>Vers : 20260113_0740 </center>
 <br><br><br>
+#### [캐피털 월드 인베스터스, 브라질 베일 지분 5.02% 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435110)
+#### [호주 러드 미국 대사, 조기 사임할 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435111)
+#### [브라질 반독점 당국, WhatsApp 비즈니스 도구에 대한 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435105)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [포스트미디어 네트워크 캐나다 1분기 순손실 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435109)
+#### [이란이 2024 년에 나포 된 그리스 유조선 세인트 니콜라스 호를 석방 한 것으로 보인다고 선박 모니터링 서비스는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435103)
+#### [2026년 첫 10일 동안 미국 이민세관단속국 구금 중 이민자 4명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435104)
+#### [연준 기소 불안에 주식과 국채는 진정, 달러는 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435108)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
+#### [찰스 리버, 캄보디아 원숭이 공급업체를 5억 1천만 달러에 인수하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435102)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435106)
+#### [트럼프 측근 클라크, 줄리아니가 조지아 기소 후 법률 비용을 요구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435107)
+#### [미국 연방법원, 레볼루션 윈드 건설 재개를 허용하는 예비 금지 명령을 내렸습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435095)
+#### [우크라이나는 전력과 열을 복구하기 위해 노력하고 있으며, 젤 렌 스키, 새로운 공격에 대해 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435101)
+#### [메르카도리브레, AI 확장으로 119명 해고, 폴하 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435092)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MELI.O/total>
+#### [피치 레이팅스, 연준의 독립성이 미국 국가 신용등급에 핵심 요소라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435099)
+#### [헬베티아, 라틴아메리카 및 카리브해 지역의 시장 베테랑 카르도나 MD 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435100)
+#### [우크라이나, 도브라 리튬 홀딩스에 국영 리튬 프로젝트 수주, 총리 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435091)
+#### [NZD/USD, 티어2 데이터와 연준 악재에서 지지를 찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435098)
+#### [트럼프가 연준 루비콘을 넘고 시장은 어깨를 으쓱하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435094)
+#### [네슬레와 유니레버의 인도 엔진이 멈출 위험에 처했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435090)
+#### [헤리티지 글로벌, 더 디베이트 익스체인지 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435097)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HGBL.O/total>
+#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435093)
+#### [씨티, 호주 임덱스에서 낙관적인 분위기, 상반기 실적 호조 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435096)
 #### [트럼프, 이란과 거래하는 국가는 25% 관세를 물어야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435079)
 #### [가자지구 휴전으로 머스크, 홍해 항로 다시 항해하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435087)
 #### [레비티, 2025년 수익 예측 범위를 초과할 것이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435083)
@@ -47,29 +73,3 @@
 #### [다이아몬드백 에너지, 4분기 석유 생산 가격 하락 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435050)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FANG.O/total>
 #### [셔틀 파마슈티컬스 홀딩스, 유잉 량을 CFO로 임명 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435058)
-#### [미네소타, 연방 이민 요원 급증 차단을 위해 트럼프 행정부에 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435048)
-#### [연준의 불확실성으로 금이 상승하면서 캐나다 증시-TSX가 또다시 사상 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435049)
-#### [메타, 리얼리티 랩 사업부 직원의 약 10%를 감축할 계획, NYT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435057)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [솔리드 바이오사이언스, Sgt-212 이중 경로 유전자 치료제로 FDA 희귀의약품 지정 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435047)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SLDB.O/total>
-#### [벨기에의 Nyxoah 4분기 예비 순익이 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435065)
-#### [인베스코 Ltd. 2025년 12월 31일 관리 자산 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435038)
-#### [Calumet, 대형 어음 상품 출시 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435037)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CLMT.O/total>
-#### [2026년에 의료 서비스를 큰 잠재적 투자로 보는 CIO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435046)
-#### [미국산 오일 및 지방 - 1월 12일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435042)
-#### [이탈리아, ILVA 제철소 문제로 아르셀로미탈에 80억 달러 이상의 손해배상 청구, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435036)
-#### [Arqit Quantum Inc - 최대 2억 5천만 달러의 증권 제공 및 판매 가능 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435045)
-#### [아레스 캐피탈 코퍼레이션 - 공동 및 기타, 5차 추가 약정 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435041)
-#### [은행들은 트럼프의 신용 카드 이자율 10% 상한으로 인해 소비자가 피해를 입을 것이라고 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435035)
-#### [씨티그룹은 2026년에도 계속해서 인원을 감축할 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435044)
-#### [은행들은 트럼프의 신용 카드 이자율 10% 상한으로 인해 소비자들이 피해를 입을 것이라고 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435040)
-#### [메드트로닉은 여러 인수에 '상당한 화력'을 보유하고 있다고 경영진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435034)
-#### [데스티네이션 엑스엘 그룹, Inc. 홀리데이 판매 결과 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435043)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DXLG.O/total>
-#### [글로벌 원자, 최대 5천만 캐나다 달러 규모의 사모 투자 유치 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435039)
-#### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435017)
-#### [시티그룹, 이번 주 약 1,000명의 직원 해고 예상- 출처](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435031)
-#### [요리 무선, 크라운 캐슬에 대한 지불 의무 불이행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435024)
-#### [뉴소아, 2025년 4분기 및 연간 예비 실적 발표 및 2026년 1분기 매출 가이던스 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2435016)
