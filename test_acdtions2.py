@@ -270,7 +270,7 @@ def __KO_ETF_Allocation() :
     
     output.write('<center>Vers : %s </center>\n' % DateTime_TT)
     output.write('<center>Vers : %s </center>\n' % formatted_time)
-    output.write('<br><br><br>\n')
+    output.write('<br>\n')
 
     output.write("<style type=\"text/css\"> .tg  {border-collapse:collapse;border-spacing:0;}\n")
     output.write(".tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n")
@@ -288,36 +288,38 @@ def __KO_ETF_Allocation() :
     print(df.to_markdown(index=False))
     # output.write(df.to_markdown())
     output.write(df[['ETF_Name', 'Alloc_P', 'Price', 'CALL', 'MY_PERC']].to_html(classes='tg'))
-
+  
+    output.write('<br>\n')
+  
     output.write("<script>\n")
     output.write("var chart = bb.generate({\n")
     output.write("data: {\n")
     output.write("columns: [\n")
-    output.write("[\"data1\", 30],\n")
+  
+    # output.write("[\"data1\", 30],\n")
 
     # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].values, df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC"].values.string.replace("%","", regex=False))
     # dataframe의 A열의 값들에서 문자 제거하는데 AttributeError: 'numpy.ndarray' object has no attribute 'string' 애러가 나는 경우
     df["MY_PERC1"] = ( pd.Series(df["MY_PERC"]) .astype("string") .str.replace("%", "", regex=False))
-    print("#")
-    print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].values)
+    # print("#")
+    # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].values)
     # --> 결과값 : ['KODEX 미국S&P500'] numpy 배열 --> 아래와 동일하게 혹은 values[0]
     # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].values[0])
     # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].iloc[0])
-    print("#")
-    print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC"].values)
-    print("#")
-    print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC1"].values)
+    # print("#")
+    # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC"].values)
+    # print("#")
+    # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC1"].values)
     # --> 결과값 : <StringArray> ['56.0'] Length: 1, dtype: string
     # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC1"].iloc[0])
 
     output.write("['%s', '%s'],\n" % (df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].values[0], df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC1"].iloc[0]))
     output.write("['%s', '%s'],\n" % (df.loc[df["ETF_Name"] == "KODEX iShares미국투자등급회사채액티브", "ETF_Name"].values[0], df.loc[df["ETF_Name"] == "KODEX iShares미국투자등급회사채액티브", "MY_PERC1"].iloc[0]))
     output.write("['%s', '%s'],\n" % (df.loc[df["ETF_Name"] == "KODEX 미국30년국채액티브(H)", "ETF_Name"].values[0], df.loc[df["ETF_Name"] == "KODEX 미국30년국채액티브(H)", "MY_PERC1"].iloc[0]))
-    output.write("['%s', '%s'],\n" % (df.loc[df["ETF_Name"] == "KODEX 미국배당다우존스", "ETF_Name"].values[0], df.loc[df["ETF_Name"] == "KODEX 미국배당다우존스", "MY_PERC1"].iloc[0]))
-
+    output.write("['%s', '%s']\n" % (df.loc[df["ETF_Name"] == "KODEX 미국배당다우존스", "ETF_Name"].values[0], df.loc[df["ETF_Name"] == "KODEX 미국배당다우존스", "MY_PERC1"].iloc[0]))
     # --> iloc[0] 혹은 values[0] 동일
-    output.write("[\"data2\", 45],\n")
-    output.write("[\"data3\", 25]\n")
+  
+    # output.write("[\"data3\", 25]\n")
     output.write("],\n")
     output.write("type: \"pie\", // for ESM specify as: pie()\n")
     output.write("},\n")
