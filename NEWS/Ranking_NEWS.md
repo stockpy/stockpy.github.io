@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260112_2059 </title></head>
-<center>Vers : 20260112_2059 </center>
-<center>Vers : 20260113_0559 </center>
+<head><meta charset="utf-8"><title>Vers : 20260112_2130 </title></head>
+<center>Vers : 20260112_2130 </center>
+<center>Vers : 20260113_0630 </center>
 <br><br><br>
 #### [“이젠 사람이 귀하지 않습니다”…은행, 신규채용 ‘찔끔’ 희망퇴직 ‘북적’](https://m.stock.naver.com/news/ranknews/view/009/0005620623)
 #### ["내려도 너무 내렸다" 개미들 비명 쏟아지더니…기묘한 반등 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005236145)
