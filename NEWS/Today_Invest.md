@@ -94,10 +94,10 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 var chart = bb.generate({
 data: {
 columns: [
-['KODEX 미국S&P500', '57.0'],
-['KODEX iShares미국투자등급회사채액티브', '11.0'],
-['KODEX 미국30년국채액티브(H)', '7.0'],
-['KODEX 미국배당다우존스', '11.0']
+['KODEX 미국S&P500', '30.0'],
+['KODEX iShares미국투자등급회사채액티브', '20'],
+['KODEX 미국30년국채액티브(H)', '15.0'],
+['KODEX 미국배당다우존스', '35.0']
 ],
 unload: true,
 type: "pie", // for ESM specify as: pie()
