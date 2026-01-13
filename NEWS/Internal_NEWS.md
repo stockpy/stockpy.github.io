@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260113_2257 </title></head>
-<center>Vers : 20260113_2257 </center>
-<center>Vers : 20260114_0757 </center>
+<head><meta charset="utf-8"><title>Vers : 20260113_2325 </title></head>
+<center>Vers : 20260113_2325 </center>
+<center>Vers : 20260114_0825 </center>
 <br><br><br>
+#### [톰린, 19시즌 만에 스틸러스 감독직 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436853)
+#### [BUZZ-재생-호주 주의, 스털링은 빨간색, 엔화 선거 위험을 봅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436850)
+#### [일본 공장 체감 경기가 1월에 두 달 연속 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436852)
+#### [일본 제조업체들의 1월 체감경기가 6개월 만에 최저치로 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436849)
+#### [영토가 아닌 인재가 정의하는?AI의 미래: 타오샤 왕](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436844)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EBAY.O/total>
+#### [Trubar Inc - 주주, 비공개 거래 추진 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436847)
+#### [미국 대법원 보수파, 트랜스젠더 스포츠 금지 허용 쪽으로 기울다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436851)
+#### [코파 홀딩스, 2025년 12월 월간 트래픽 통계 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436848)
+#### [다이애나 해운 Inc. 다이애나의 인수 제안에 대한 겐코 해운 및 트레이딩의 대응에 관한 성명서 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436846)
+#### [라이프오프 모바일 Inc - IPO 파일 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436854)
+#### [전사 만난 석탄 Inc - Blm의 연방 석탄 임대 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436843)
+#### [레이저 포토닉스 - 카를로스 사르디나스, 1월 8일자로 레이저 포토닉스의 CFO 사임- SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436845)
+#### [리듬 캐피털 Corp. 우선주 공모 가격 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436842)
+#### [페렐라 와인버그 파트너스 - 피터 A. 와인버그, 이사회 의장직 사임 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436840)
+#### [Gfl Environmental Inc. 선순위 채권 가격 비공개 공모](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436838)
+#### [Fed의 바킨, 12월 인플레이션 데이터는 고무적이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436841)
+#### [미국 원유 재고는 지난주 감소했을 가능성이 높고 제품 재고는 증가했다고 여론 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436839)
 #### [판사, 법원 명령 위반으로 온두라스로 추방된 대학생에게 비자 발급 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436837)
 #### [호주 블루스코프 스틸, 특별 배당으로 주주에게 2억 9,250만 달러 환원 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436836)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/STLD.O/total>
@@ -54,22 +72,3 @@
 #### [옥수수, 대두는 공급량 증가로 10월 이후 최저 가격 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436794)
 #### [북미, 1월 14일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436793)
 #### [콜롬비아, 사상 최대 규모의 채권 발행으로 49억 5천만 달러 조달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436787)
-#### [지오프로이 반 램동크, 예상되는 파산 절차를 통해 삭스 글로벌을 이끌 새 최고 경영자로 발탁 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436791)
-#### [CPI는 인플레이션이 냉각되고 있지만 여전히 높다고 포트폴리오 매니저는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436792)
-#### [파이 인슈어런스, 2025년 보험 계약 건수 55,000건 돌파](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436786)
-#### [교사 노조는 아이들의 AI 이미지를 '마지막 지푸라기'라고 부르며 X를 떠날 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436797)
-#### [NOPA 12월 미국 대두 기말 수확량은 2억 2,480만 9,000만 부셸로 추정됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436785)
-#### [미국, 중국으로의 엔비디아 H200 칩 수출 규제 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436790)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [월스트리트 하락, JPM과 신용카드 규제 우려가 부담으로 작용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436796)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.SOX>
-#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436798)
-#### [생명 과학 기술 기업 Rapid Micro의 4분기 예비 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436789)
-#### [정유소 노동자, BP와 계약 협상 시작?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436795)
-#### [바데풀 독일 외무장관, 미국과 의견 불일치보다 합의가 더 많다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436775)
-#### [미국, 중국, 멕시코에 대두 판매, 한국은 옥수수 구매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436778)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436781)
-#### [브라질의 대두 수출이 1 월 사상 최고치를 기록했다고 곡물 수출 그룹은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436774)
-#### [미국, 에어백 결함으로 충돌 사고로 운전자 2명 사망 후 긴급 안전 경고 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436777)
-#### [영국, 최근 유턴 근로자에 대한 디지털 ID 의무화 계획 철회, 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436776)
-#### [파크 에어로스페이스, 최대 1억 5천만 달러의 혼합 선반 신청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436762)
