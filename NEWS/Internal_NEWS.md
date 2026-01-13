@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260113_2048 </title></head>
-<center>Vers : 20260113_2048 </center>
-<center>Vers : 20260114_0548 </center>
+<head><meta charset="utf-8"><title>Vers : 20260113_2059 </title></head>
+<center>Vers : 20260113_2059 </center>
+<center>Vers : 20260114_0559 </center>
 <br><br><br>
+#### [버즈 프리뷰: 뱅크 오브 아메리카, 씨티그룹, 웰스파고가 분기 실적을 앞두고 하락세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436728)
+#### [건강 회진: 실험적 치료가 체외 수정 성공 확률을 높일 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436725)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436726)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [베네수엘라 정부는 400 명 이상의 감옥에서 석방되었다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436727)
 #### [미국 천연가스 선물이 기록적인 LNG 수출 흐름과 추운 날씨 전망에 상승세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436720)
 #### [1월 13일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436723)
 #### [캐나다 은행, 최대 5억 캐나다 달러 규모의 채권 매입 - RTRS](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436719)
@@ -64,8 +69,3 @@
 #### [2026년 월스트리트를 앞지를 신흥 시장, HSBC는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436671)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
 #### [삭스 글로벌 CEO 리처드 베이커가 떠날 예정이라고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436666)
-#### [미국 요약: CPI가 연준의 기대치를 그대로 유지함에 따라 달러 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436670)
-#### [오펜하이머, 디지털 미디어 성장 둔화에 따른 '성과' 삭감으로 버즈-어도비 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436668)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ADBE.O/total>
-#### [맥심 파워 앨버타 144MW HR 밀너 석탄 발전소 온라인 가동 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436665)
-#### [트럼프, 물 규칙에서 주정부의 에너지 프로젝트 차단 권한 제한 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436669)

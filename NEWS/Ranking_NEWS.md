@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260113_2048 </title></head>
-<center>Vers : 20260113_2048 </center>
-<center>Vers : 20260114_0548 </center>
+<head><meta charset="utf-8"><title>Vers : 20260113_2100 </title></head>
+<center>Vers : 20260113_2100 </center>
+<center>Vers : 20260114_0600 </center>
 <br><br><br>
 #### ["이럴 줄 알았으면 안 샀다"…반토막 난 주식에 개미 '피눈물' [진영기의 찐개미 찐투자]](https://m.stock.naver.com/news/ranknews/view/015/0005236727)
 #### ["1억 넣었더니 4억6000만원 됐다"…1년 동안 주가 '360%' 폭등한 'SK스퀘어'](https://m.stock.naver.com/news/ranknews/view/011/0004578119)
