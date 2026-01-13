@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260113_0440 </title></head>
-<center>Vers : 20260113_0440 </center>
-<center>Vers : 20260113_1340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260113_0504 </title></head>
+<center>Vers : 20260113_0504 </center>
+<center>Vers : 20260113_1404 </center>
 <br><br><br>
 #### [“엔비디아 수익률 800%”…전원주도 제친 ‘주식투자 대박’ 여가수](https://m.stock.naver.com/news/ranknews/view/016/0002584834)
 #### [“주식 아직도 안샀어? 통장 깨서 일단 넣어”…은행 대기자금 일주일새 28조 증발](https://m.stock.naver.com/news/ranknews/view/009/0005620836)
