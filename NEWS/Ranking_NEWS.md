@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260113_2245 </title></head>
-<center>Vers : 20260113_2245 </center>
-<center>Vers : 20260114_0745 </center>
+<head><meta charset="utf-8"><title>Vers : 20260113_2257 </title></head>
+<center>Vers : 20260113_2257 </center>
+<center>Vers : 20260114_0757 </center>
 <br><br><br>
 #### ["이럴 줄 알았으면 안 샀다"…반토막 난 주식에 개미 '피눈물' [진영기의 찐개미 찐투자]](https://m.stock.naver.com/news/ranknews/view/015/0005236727)
 #### [코스피 신고가 찍자 찾아온 ‘불청객’…공매도 대기자금 확 몰린 종목은](https://m.stock.naver.com/news/ranknews/view/009/0005621284)

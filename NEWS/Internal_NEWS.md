@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260113_2245 </title></head>
-<center>Vers : 20260113_2245 </center>
-<center>Vers : 20260114_0745 </center>
+<head><meta charset="utf-8"><title>Vers : 20260113_2257 </title></head>
+<center>Vers : 20260113_2257 </center>
+<center>Vers : 20260114_0757 </center>
 <br><br><br>
+#### [판사, 법원 명령 위반으로 온두라스로 추방된 대학생에게 비자 발급 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436837)
+#### [호주 블루스코프 스틸, 특별 배당으로 주주에게 2억 9,250만 달러 환원 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436836)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/STLD.O/total>
 #### [브렌트유 스프레드가 8개월 만에 최대 폭으로 거래되면서 미국 서부텍사스산원유 가격이 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436834)
 #### [영국, 잉글랜드 북부를 위한 450억 파운드 규모의 철도 프로젝트 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436835)
 #### [연준, 피프스 서드, 코메리카 인수 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436832)
@@ -70,5 +73,3 @@
 #### [미국, 에어백 결함으로 충돌 사고로 운전자 2명 사망 후 긴급 안전 경고 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436777)
 #### [영국, 최근 유턴 근로자에 대한 디지털 ID 의무화 계획 철회, 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436776)
 #### [파크 에어로스페이스, 최대 1억 5천만 달러의 혼합 선반 신청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436762)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436766)
-#### [아폴로, 머스크의 xAI를 위한 프라이빗 칩 대출 거래 개시 예정- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436769)
