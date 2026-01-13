@@ -1,5 +1,5 @@
-<center>Vers : 20260113_0144 </center>
-<center>Vers : 20260113_1044 </center>
+<center>Vers : 20260113_0328 </center>
+<center>Vers : 20260113_1228 </center>
 <br>
 <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -28,7 +28,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>0</th>
       <td>KODEX 200TR</td>
       <td>0%</td>
-      <td>24410</td>
+      <td>24415</td>
       <td>0</td>
       <td>0%</td>
     </tr>
@@ -36,7 +36,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>1</th>
       <td>KODEX 미국S&amp;P500</td>
       <td>50%</td>
-      <td>23330</td>
+      <td>23370</td>
       <td>12</td>
       <td>56.0%</td>
     </tr>
@@ -60,7 +60,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>4</th>
       <td>KODEX 미국30년국채액티브(H)</td>
       <td>10%</td>
-      <td>8895</td>
+      <td>8890</td>
       <td>6</td>
       <td>7.0%</td>
     </tr>
@@ -68,7 +68,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>5</th>
       <td>KODEX 미국배당다우존스</td>
       <td>15%</td>
-      <td>11505</td>
+      <td>11520</td>
       <td>7</td>
       <td>11.0%</td>
     </tr>
@@ -76,7 +76,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>6</th>
       <td>TIGER 미국필라델피아반도체나스닥</td>
       <td>0%</td>
-      <td>29480</td>
+      <td>29540</td>
       <td>0</td>
       <td>0%</td>
     </tr>
@@ -84,7 +84,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>7</th>
       <td>ACE 테슬라밸류체인액티브</td>
       <td>0%</td>
-      <td>22370</td>
+      <td>22490</td>
       <td>0</td>
       <td>0%</td>
     </tr>
