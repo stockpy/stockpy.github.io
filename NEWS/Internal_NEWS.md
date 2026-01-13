@@ -1,7 +1,35 @@
-<head><meta charset="utf-8"><title>Vers : 20260113_2222 </title></head>
-<center>Vers : 20260113_2222 </center>
-<center>Vers : 20260114_0722 </center>
+<head><meta charset="utf-8"><title>Vers : 20260113_2245 </title></head>
+<center>Vers : 20260113_2245 </center>
+<center>Vers : 20260114_0745 </center>
 <br><br><br>
+#### [브렌트유 스프레드가 8개월 만에 최대 폭으로 거래되면서 미국 서부텍사스산원유 가격이 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436834)
+#### [영국, 잉글랜드 북부를 위한 450억 파운드 규모의 철도 프로젝트 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436835)
+#### [연준, 피프스 서드, 코메리카 인수 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436832)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FITB.O/total>
+#### [크루드-서부 캐나다 셀렉트 할인이 약간 확대됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436831)
+#### [임핀지, 2025년 4분기 잠정 실적 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436833)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PI.O/total>
+#### [Tg 테라퓨틱스, 4분기 및 2025년 연간 예비 실적 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436827)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TGTX.O/total>
+#### [미국 곡물 바지선 운임 값은? Jan 13](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436828)
+#### [할라도르 에너지, 최대 5천만 달러의 보통주 공모 신청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436830)
+#### [글라우코스, 연간 순매출 전망치 재확인 후 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436826)
+#### [셰브론은 베네수엘라 석유를 운영하기 위해 텍사스, 미시시피 정유소를 주시하고 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436829)
+#### [NAACP, 트럼프가 역차별 발언 후 역사에 대해 기만적이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436825)
+#### [알파인 스키-시프린, 몰트잔과 함께 미국 플라차우 슬라롬 원투 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436824)
+#### [콜롬비아, 사상 최대 규모의 채권 발행으로 49억5천만 달러 조달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436823)
+#### [SPDR 골드 보유량 0.32% 또는 3.43톤 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436815)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLD/total>
+#### [중국, 특수한 상황으로 Nvidia 칩 구매 제한, 정보 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436818)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [트럼프, 중국이 미국 상품에 시장을 개방 할 수 있다고 생각한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436814)
+#### [브라질 아줄: 구독권 행사 후 총 자본금이 29억 달러에 달할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436817)
+#### [바데풀 독일 외무장관, 미국과 이견보다 공감대가 더 많다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436820)
+#### [블랙스톤이 지원하는 미국 IPO를 위한 Liftoff 파일 업데이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436822)
+#### [API는 주간 미국 원유, 연료 재고가 증가했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436816)
+#### [미국은 자국민이 지금이란을 떠나 터키 나 아르메니아로 떠나야한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436819)
+#### [브라질의 룰라, 법무부 장관으로 페트로브라스의 법무 책임자 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436821)
+#### [트럼프의 논란의 여지가 있는 의제가 시장을 뒤흔들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436813)
 #### [판사, 온두라스로 잘못 추방 된 대학생에게 비자 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436811)
 #### [연준의 바킨은 중앙은행의 독립성이 더 나은 경제 성과를 의미한다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436809)
 #### [블랙스톤의 지원을 받는 Liftoff, 미국 기업공개 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436812)
@@ -44,29 +72,3 @@
 #### [파크 에어로스페이스, 최대 1억 5천만 달러의 혼합 선반 신청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436762)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436766)
 #### [아폴로, 머스크의 xAI를 위한 프라이빗 칩 대출 거래 개시 예정- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436769)
-#### [P&G, 2026년 1월 분기 배당금 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436784)
-#### [글라우코스, 감사 받지 않은 4분기 예비 실적 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436765)
-#### [글라우코스의 4분기 예비 매출 36% 증가, 예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436768)
-#### [콘크리트 펌핑 4분기 수익이 기대치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436783)
-#### [록키 마운틴 초콜릿 팩토리, 2026 회계연도 3분기 재무 결과 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436759)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RMCF.O/total>
-#### [초콜릿 소매업체 록키 마운틴의 3분기 매출은 전략적 출구로 인해 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436767)
-#### [피닉스 에듀케이션 파트너스, 2026년 1분기 순매출 2억 6,200만 달러 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436782)
-#### [콘크리트 펌핑 홀딩스, 4분기 및 2025 회계연도 실적 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436780)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BBCP.O/total>
-#### [웨더테크 설립자, 연방거래위원회에 입성하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436779)
-#### [브라질 이란, 안드레 카마르고 데 카르발류 CFO 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436755)
-#### [독점-미국, 베네수엘라 관련 유조선 수십 척을 압수하기 위해 영장 신청, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436758)
-#### [시프린, 몰트잔과 함께 미국 대회전에서 플라차우 슬라롬 원투 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436757)
-#### [브라질 네오그리드, 상장 폐지를위한 공개 제안이 일시적으로 중단됐다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436754)
-#### [Greenlane Holdings Inc - 1월 7일, 요크빌 증권과 공동 판매 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436773)
-#### [어레이, 일부 스펙트럼 자산을 At&T에 10억 1,800만 달러에 매각 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436756)
-#### [파크 에어로스페이스 Corp. 3분기 실적 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436753)
-#### [독점-삭스 글로벌이 파산 신청을 앞두고 17억 5천만 달러의 자금 조달 계획에 근접했다고 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436772)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [AI 칩 스타트업 에치드, 엔비디아에 맞서기 위해 5억 달러 모금 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436761)
-#### [부동산 개발 사업 부문에서 전년 동기 대비 5.9% 증가한 27억6000만 헤알의 사전 매출을 달성했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436752)
-#### [미국 평야 HRW 밀 기반은 안정적으로 유지되고 거래자들은 미국 날씨를 주시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436771)
-#### [콘크리트 펌핑 4분기 매출 미화 1억 8,787만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436760)
-#### [록키 마운틴 초콜릿 공장 3분기 매출 미화 750만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436770)
-#### [글라우코스 4분기 매출 1억 4,300만 달러 대 IBES 추정치 1억 1,320만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2436764)
