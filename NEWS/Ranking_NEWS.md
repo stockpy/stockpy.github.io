@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260113_1025 </title></head>
-<center>Vers : 20260113_1025 </center>
-<center>Vers : 20260113_1925 </center>
+<head><meta charset="utf-8"><title>Vers : 20260113_1110 </title></head>
+<center>Vers : 20260113_1110 </center>
+<center>Vers : 20260113_2010 </center>
 <br><br><br>
 #### ["1억이 3억 됐다"…금 대신 투자했더니 1년 만에 벌어진 일](https://m.stock.naver.com/news/ranknews/view/015/0005236457)
 #### [“와, 이게 되네” 창고에 둔 5만원권 잔뜩 젖었는데…1900만원어치로 교환 성공](https://m.stock.naver.com/news/ranknews/view/016/0002585122)
