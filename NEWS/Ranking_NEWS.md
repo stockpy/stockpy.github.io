@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260113_0635 </title></head>
-<center>Vers : 20260113_0635 </center>
-<center>Vers : 20260113_1535 </center>
+<head><meta charset="utf-8"><title>Vers : 20260113_0701 </title></head>
+<center>Vers : 20260113_0701 </center>
+<center>Vers : 20260113_1601 </center>
 <br><br><br>
 #### [“엔비디아 수익률 800%”…전원주도 제친 ‘주식투자 대박’ 여가수](https://m.stock.naver.com/news/ranknews/view/016/0002584834)
 #### ["새해부터 돈 벌었다" 주가 24% '껑충'...피지컬 AI가 끌어올린 현대차](https://m.stock.naver.com/news/ranknews/view/008/0005303848)
