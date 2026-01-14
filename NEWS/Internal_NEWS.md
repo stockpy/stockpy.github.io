@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260114_1834 </title></head>
-<center>Vers : 20260114_1834 </center>
-<center>Vers : 20260115_0334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260114_1859 </title></head>
+<center>Vers : 20260114_1859 </center>
+<center>Vers : 20260115_0359 </center>
 <br><br><br>
+#### [골드만, 11억 달러 채무 불이행 후 LA 유명 영화 부지 인수 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438484)
+#### [대만 사절단이 무역, 투자 회담을 위해 워싱턴으로 향한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438486)
+#### [위즈 에어, 에어버스 인도, 착륙 감소에 대한 전망 수정, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438485)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438483)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [콜라의 응고 커피 판매 화성 CEO 퇴진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438482)
+#### [오라클, AI 구축과 관련된 손실로 채권단으로부터 소송 당함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438479)
+#### [비자 암호 화폐 책임자, 스테이블 코인 결제에 베팅, 거래량 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438481)
+#### [EU 의회, 차기 ECB 부총재로 카작이나 센테노 선호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438476)
+#### [우크라이나 젤렌스키, 러시아 공격 후 에너지 비상사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438478)
+#### [스털링 지지선 1.3420 부근 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438480)
+#### [EUR/USD- 강세는 모멘텀을 유지할 수 없습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438475)
+#### [엔은 대체로 강세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438477)
 #### [스페인 검찰, 훌리오 이글레시아스 고발자의 증언을 듣다, 인권 단체는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438474)
 #### [버즈 프리뷰: 모건 스탠리, 4분기 수익 증가 전망, 목요일 발표 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438471)
 #### [미국 내 수만 명의 사용자로 인해 버라이즌의 네트워크 다운, 다운디텍터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438463)
@@ -52,19 +65,3 @@
 #### [우크라이나, 티모셴코 전 총리 뇌물 수수 혐의로 비난, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438432)
 #### [로마는 다른 유럽 수도에 이어 도심 제한 속도를 30km/h로 설정했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438420)
 #### [EU는 X가 Grok에 대해 약속 한 변경 사항을 신중하게 평가할 것이라고 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438419)
-#### [자프텍, 최대 500,000주까지 자사주 매입하기로 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438425)
-#### [미국 인플레이션 도전은 아직 이기지 못했다고 Fed의 Bostic은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438428)
-#### [인윗, 1억 5천만 유로 채권 발행 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438418)
-#### [그린란드의 풍부하지만 아직 개발되지 않은 광물 자원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438424)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRML.O/total>
-#### [런던의 FTSE 100은 채굴, 의료 부양으로 최고치를 경신했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438427)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
-#### [오라클, AI 구축과 관련된 손실로 채권단으로부터 소송당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438422)
-#### [이베이, 2045년까지 탄소중립을 목표로 하는 첫 번째 기후 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438423)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EBAY.O/total>
-#### [엔듀어, 기술 철도 서비스에 집중하기 위해 새로운 법인을 설립한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438426)
-#### [영국 옥스포드 바이오메디카, EQT가 운용하는 펀드의 공개매수 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438421)
-#### [세금과 자유에 대한 봉투 속 들여다보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438412)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### ['당신은 죽었나요?' 독신 생활을 위한 중국 앱이 입소문을 타다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438417)
-#### [프랑스 에키놉스의 2025 회계연도 매출, 예상치를 하회하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438411)
