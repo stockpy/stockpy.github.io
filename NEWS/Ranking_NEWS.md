@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260114_2245 </title></head>
-<center>Vers : 20260114_2245 </center>
-<center>Vers : 20260115_0745 </center>
+<head><meta charset="utf-8"><title>Vers : 20260114_2258 </title></head>
+<center>Vers : 20260114_2258 </center>
+<center>Vers : 20260115_0758 </center>
 <br><br><br>
 #### [“오천피, 그만 얘기하세요”…환율 발목잡힌 소비재株엔 딴나라 이야기](https://m.stock.naver.com/news/ranknews/view/009/0005621933)
 #### ["나는 97억 벌었어" 수익률 1043%…인증까지한 투자자 정체[비트코인 지금]](https://m.stock.naver.com/news/ranknews/view/277/0005706315)

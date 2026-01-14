@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260114_2245 </title></head>
-<center>Vers : 20260114_2245 </center>
-<center>Vers : 20260115_0745 </center>
+<head><meta charset="utf-8"><title>Vers : 20260114_2257 </title></head>
+<center>Vers : 20260114_2257 </center>
+<center>Vers : 20260115_0757 </center>
 <br><br><br>
+#### [하이비전, 2025년 10월 31일로 마감된 3개월 및 연간 실적 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438669)
+#### [기술, 은행이 월스트리트를 압박하고 트럼프는 이란 석유 우려를 완화합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438677)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FTNT.O/total>
+#### [Homb, 또 한 번의 강력한 분기 4억 달러 대출 성장, 40% 미만의 효율성 비율 및 견고한 마진으로 전년 대비 18%의 수익 증가 및 연간 총자산순이익률(ROA) 2.10% 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438670)
+#### [의료 진단 기업 바이오메리카의 2분기 매출, 제품 전환으로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438668)
+#### [룰라가 하다드 재무장관에게 상파울루 주지사 출마를 요청했다고 에스타다오가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438676)
+#### [트럼프와 베네수엘라 지도자 로드리게스, 긍정적인 전화 통화 선전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438673)
+#### [트럼프, 고위급 회담 후 그린란드에 대한 열망 재차 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438667)
+#### [카이저 퍼머넌트 계열사, 메디케어 사기 혐의 미국 청구 해결을 위해 5억 5,600만 달러 지급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438675)
+#### [골드만삭스, 2027년 브렌트유 가격 전망 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438672)
+#### [대출 성장에 힘입어 예상치를 상회하는 홈 뱅셰어 4분기 수익](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438666)
+#### [우주비행사가 아픈 승무원과 함께 우주 정거장에서 조기 귀환 비행을 시작합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438674)
+#### [바이오메리카, 2026 회계연도 2분기 재무 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438671)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BMRA.O/total>
 #### [시간 기술, 50억 달러 가치로 신규 자본 조달을 위한 사전 협의 진행 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438664)
 #### [미국 원유 재고가 급증하면서 미국 현금 원유 등급 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438662)
 #### [크루드-서부 캐나다 셀렉트 할인 좁혀보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438660)
@@ -60,17 +74,3 @@
 #### [월스트리트, 나스닥 하락으로 기술주, 은행 하락으로 하락 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438623)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AVGO.O/total>
 #### [옥수수 및 대두 기준 입찰은 안정적으로 유지됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438629)
-#### [구금된 팔레스타인 친 팔레스타인 활동가 3명이 단식 투쟁을 끝냈습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438616)
-#### [민주당이 더 강력한 통제를 추구하는 가운데 미 하원 공화당은 의원 주식 거래를 축소하는 법안을 추진합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438617)
-#### [북미, 1월 15일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438614)
-#### [캐나다의 쉘 코루나 공장, 기계적 문제 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438615)
-#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438612)
-#### [브릿지바이오, 5억 5천만 달러 전환사채 거래 공개 후 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438613)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BBIO.O/total>
-#### [2011년 보잉의 치명적인 UPS 추락 사고에서 균열된 부품 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438607)
-#### [디즈니, 새로운 전사 마케팅 그룹을 총괄하는 최고 마케팅 책임자로 아사드 아야즈 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438609)
-#### [디즈니, 엔터프라이즈 마케팅 조직을 설립하고 최고 마케팅 및 브랜드 책임자로 아사드 아야즈 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438610)
-#### [인베너지 온타리오 616MW 세인트 클레어 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438606)
-#### [베이스 입찰 보합, 한국 수입업체 구매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438608)
-#### [미국, 2월 28일까지 루코일의 해외 자산에 대한 협상 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2438600)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CG.O/total>
