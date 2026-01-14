@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260114_1631 </title></head>
-<center>Vers : 20260114_1631 </center>
-<center>Vers : 20260115_0131 </center>
+<head><meta charset="utf-8"><title>Vers : 20260114_1834 </title></head>
+<center>Vers : 20260114_1834 </center>
+<center>Vers : 20260115_0334 </center>
 <br><br><br>
 #### ["나는 97억 벌었어" 수익률 1043%…인증까지한 투자자 정체[비트코인 지금]](https://m.stock.naver.com/news/ranknews/view/277/0005706315)
 #### [“불장 끝 하락 온다?”…코스피 역주행하는 개미들, 지수 ETF 팔고 ‘곱버스’ 샀다 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002585388)
