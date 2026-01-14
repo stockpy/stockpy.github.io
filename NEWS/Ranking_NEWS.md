@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260114_0635 </title></head>
-<center>Vers : 20260114_0635 </center>
-<center>Vers : 20260114_1535 </center>
+<head><meta charset="utf-8"><title>Vers : 20260114_0700 </title></head>
+<center>Vers : 20260114_0700 </center>
+<center>Vers : 20260114_1600 </center>
 <br><br><br>
 #### [“딱 97억 먹고 나왔어”…1043% 수익 인증한 ‘코인 불개미’ 정체는](https://m.stock.naver.com/news/ranknews/view/009/0005621320)
 #### ["이러다 휴지조각 될라"…환율 다시 뛰자 '뭉칫돈' 몰리는 곳](https://m.stock.naver.com/news/ranknews/view/015/0005236912)
