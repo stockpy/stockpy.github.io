@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260115_1026 </title></head>
-<center>Vers : 20260115_1026 </center>
-<center>Vers : 20260115_1926 </center>
+<head><meta charset="utf-8"><title>Vers : 20260115_1110 </title></head>
+<center>Vers : 20260115_1110 </center>
+<center>Vers : 20260115_2010 </center>
 <br><br><br>
 #### ["딱 97억 먹고 나왔습니다"…수익률 '1043%' 대박 터진 코인 슈퍼개미](https://m.stock.naver.com/news/ranknews/view/011/0004578928)
 #### ['5만원→14만원' 엄청 뛰었는데…삼성전자 주가 전망에 '깜짝'](https://m.stock.naver.com/news/ranknews/view/015/0005237607)
@@ -52,7 +52,6 @@
 #### [코스피, 4800까지 '단 2.5P'…조선·로봇주가 상승 이끌어](https://m.stock.naver.com/news/ranknews/view/015/0005237764)
 #### [옅어진 기준금리 인하 기대감… 영끌족 비명 더 커진다](https://m.stock.naver.com/news/ranknews/view/417/0001124716)
 #### [포스코DX, 로봇 협력 기대감에 강세…52주 신고가 경신](https://m.stock.naver.com/news/ranknews/view/003/0013712416)
-#### [산 넘어 산 MBK … 금감원 징계 수위 촉각](https://m.stock.naver.com/news/ranknews/view/009/0005622476)
 #### [삼성전자, 상반기 어닝서프라이즈 가능-KB](https://m.stock.naver.com/news/ranknews/view/018/0006200955)
 #### ['토큰증권 시대' 열린다…3년 만에 국회 본회의 통과](https://m.stock.naver.com/news/ranknews/view/008/0005305309)
 #### ["연봉 수억원 차이"…'에이스' 과장급 공무원 줄퇴사에 발칵](https://m.stock.naver.com/news/ranknews/view/015/0005237647)
@@ -62,11 +61,11 @@
 #### [‘신용도 개선’ 한화오션, 내달 3000억 규모 공모채 도전](https://m.stock.naver.com/news/ranknews/view/014/0005463672)
 #### [한화 두글자 붙으면 주가 날아간다…갤러리아 또 ‘상한가 불기둥’](https://m.stock.naver.com/news/ranknews/view/009/0005622037)
 #### ["年2조 새는 돈 막자"… 도수치료 자기부담률 30%→90%로](https://m.stock.naver.com/news/ranknews/view/009/0005622422)
-<head><meta charset="utf-8"><title>Vers : 20260115_1026 </title></head>
-<center>Vers : 20260115_1026 </center>
-<center>Vers : 20260115_1926 </center>
-<br><br><br>
 #### [헷갈릴 땐 반도체…초고수 다시 삼전·SK하닉 매집[주식 초고수는 지금]](https://m.stock.naver.com/news/ranknews/view/011/0004579058)
+<head><meta charset="utf-8"><title>Vers : 20260115_1111 </title></head>
+<center>Vers : 20260115_1111 </center>
+<center>Vers : 20260115_2011 </center>
+<br><br><br>
 #### [로봇株로 거듭난 현대차, 또 사상 최고가 경신[핫종목]](https://m.stock.naver.com/news/ranknews/view/421/0008716683)
 #### [[일문일답] 이 총재 "고환율이 금리동결 결정에 영향…부정할 수 없는 사실"](https://m.stock.naver.com/news/ranknews/view/629/0000462984)
 #### ['불장'인데…개미들 1.5조 팔고 '우르르'](https://m.stock.naver.com/news/ranknews/view/215/0001238078)
