@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260115_1905 </title></head>
-<center>Vers : 20260115_1905 </center>
-<center>Vers : 20260116_0405 </center>
+<head><meta charset="utf-8"><title>Vers : 20260115_2026 </title></head>
+<center>Vers : 20260115_2026 </center>
+<center>Vers : 20260116_0526 </center>
 <br><br><br>
 #### [“인서울 못하면 벼락거지 못면한다”…경기·인천 30대가 영끌 주역](https://m.stock.naver.com/news/ranknews/view/009/0005622544)
 #### ["삼전·현대차 못 샀는데 어쩌죠"…"아직 싸다" 전문가 찜한 주식 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005237892)
