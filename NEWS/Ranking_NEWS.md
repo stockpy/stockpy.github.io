@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260115_2244 </title></head>
-<center>Vers : 20260115_2244 </center>
-<center>Vers : 20260116_0744 </center>
+<head><meta charset="utf-8"><title>Vers : 20260115_2256 </title></head>
+<center>Vers : 20260115_2256 </center>
+<center>Vers : 20260116_0756 </center>
 <br><br><br>
 #### [“주가 급등에 어닝쇼크 옵니다”…웃어야 할 기업들 등골 휘는 이유는?](https://m.stock.naver.com/news/ranknews/view/009/0005622562)
 #### ["삼전·현대차 못 샀는데 어쩌죠"…"아직 싸다" 전문가 찜한 주식 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005237892)

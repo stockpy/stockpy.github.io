@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260115_2244 </title></head>
-<center>Vers : 20260115_2244 </center>
-<center>Vers : 20260116_0744 </center>
+<head><meta charset="utf-8"><title>Vers : 20260115_2256 </title></head>
+<center>Vers : 20260115_2256 </center>
+<center>Vers : 20260116_0756 </center>
 <br><br><br>
+#### [개인 투자자들이 기록적인 금액의 현금을 은에 투자하면서 거래가 혼잡해졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440385)
+#### [캐슬린 케네디, 루카스필름 사장직에서 물러나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440382)
+#### [워딩턴 스틸, 24억 달러 규모의 거래로 클렉너 앤 코인 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440384)
+#### [케네디, '스타워즈' 제작자 루카스필름에서 은퇴, 필로니 사장 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440381)
+#### [워싱턴 스틸, 클로크너 주당 11.00유로 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440386)
+#### [클로크너 앤 코, 거래의 내재적 총 기업 가치가 약 21억 유로에 달한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440383)
 #### ['유동성 쓰나미'가 올해 주식에 활력을 불어넣을 수 있다고 CIO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440373)
 #### [캐피탈 사우스 웨스트, 12월 31일 기준 주당 순이익 예비 추정치 $16.72 - $16.77 범위 게시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440371)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CSWC.O/total>
@@ -68,11 +74,3 @@
 #### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440320)
 #### [AI의 도움으로 은행 수익 호조가 계속될 것이라고 CIO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440326)
 #### [북미, 1월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440323)
-#### [레전더리 엔터테인먼트, 40억 달러 가치로 일본 TBS에 지분 매각 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440319)
-#### [제과 협회, 2025 년 4 분기 북미 코코아 분쇄율 0.35 % 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440325)
-#### [풍부한 세계 공급, 수출 부진으로 CBOT 밀 선물 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440322)
-#### [J.B. 헌트, 예상치를 상회하는 4분기 EPS 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440330)
-#### [텍사스 인스트루먼트 이사회, 2026년 1분기 분기 배당금 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440324)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TXN.O/total>
-#### [매튜스 인터내셔널, 배링턴 캐피탈과 계약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440321)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MATW.O/total>
