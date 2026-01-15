@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260115_1425 </title></head>
-<center>Vers : 20260115_1425 </center>
-<center>Vers : 20260115_2325 </center>
+<head><meta charset="utf-8"><title>Vers : 20260115_1514 </title></head>
+<center>Vers : 20260115_1514 </center>
+<center>Vers : 20260116_0014 </center>
 <br><br><br>
 #### ["딱 97억 먹고 나왔습니다"…수익률 '1043%' 대박 터진 코인 슈퍼개미](https://m.stock.naver.com/news/ranknews/view/011/0004578928)
 #### [“인서울 못하면 벼락거지 못면한다”…경기·인천 30대가 영끌 주역](https://m.stock.naver.com/news/ranknews/view/009/0005622544)
@@ -62,9 +62,9 @@
 #### [주담대 오늘부터 또 오른다… 영끌족 ‘헉’](https://m.stock.naver.com/news/ranknews/view/029/0003005138)
 #### ["너무 재밌네요"…요즘 '이 드라마' 난리 나더니 개미들 신났다 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005237403)
 #### [“오천피, 그만 얘기하세요”…환율 발목잡힌 소비재株엔 딴나라 이야기](https://m.stock.naver.com/news/ranknews/view/009/0005621933)
-<head><meta charset="utf-8"><title>Vers : 20260115_1425 </title></head>
-<center>Vers : 20260115_1425 </center>
-<center>Vers : 20260115_2325 </center>
+<head><meta charset="utf-8"><title>Vers : 20260115_1514 </title></head>
+<center>Vers : 20260115_1514 </center>
+<center>Vers : 20260116_0014 </center>
 <br><br><br>
 #### ["형님 같이 가요"…현대차 주가 따라가는 기아](https://m.stock.naver.com/news/ranknews/view/009/0005622496)
 #### [美 재무장관 원화 약세 발언…환율 1450원대 진입하나](https://m.stock.naver.com/news/ranknews/view/003/0013711548)
