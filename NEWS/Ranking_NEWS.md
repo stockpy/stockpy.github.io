@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260115_0635 </title></head>
-<center>Vers : 20260115_0635 </center>
-<center>Vers : 20260115_1535 </center>
+<head><meta charset="utf-8"><title>Vers : 20260115_0700 </title></head>
+<center>Vers : 20260115_0700 </center>
+<center>Vers : 20260115_1600 </center>
 <br><br><br>
 #### ["너무 재밌네요"…요즘 '이 드라마' 난리 나더니 개미들 신났다 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005237403)
 #### ["딱 97억 먹고 나왔습니다"…수익률 '1043%' 대박 터진 코인 슈퍼개미](https://m.stock.naver.com/news/ranknews/view/011/0004578928)
