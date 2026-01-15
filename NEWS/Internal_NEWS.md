@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260115_2256 </title></head>
-<center>Vers : 20260115_2256 </center>
-<center>Vers : 20260116_0756 </center>
+<head><meta charset="utf-8"><title>Vers : 20260115_2324 </title></head>
+<center>Vers : 20260115_2324 </center>
+<center>Vers : 20260116_0824 </center>
 <br><br><br>
+#### [워싱턴 스틸, 24억 달러 규모의 거래로 클렉너 앤 코 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440398)
+#### [퍼스트에너지와 보잉의 증권 소송으로 가열되는 손해배상 논쟁](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440395)
+#### [월마트의 국제 책임자 캐서린 맥레이가 사임합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440392)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
+#### [AI 하이퍼 스케일러가 2026 년 미국 회사채 공급 증가를 주도 할 것이라고 분석가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440397)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [브라질 시렐라 4분기 부동산 매출, 전년 동기 대비 33% 감소한 23억 7천만 헤알 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440394)
+#### [피치, 그린란드 분쟁이 나토에 균열을 일으킬 경우 동유럽 신용등급 강등 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440391)
+#### [원유 혼조세, WTI/브렌트유 스프레드 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440396)
+#### [월마트의 국제 최고 책임자 캐서린 맥레이가 물러납니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440393)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
+#### [미국 곡물 바지선 운임 값은? Jan 15](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440390)
+#### [케네디, '스타워즈' 제작자 루카스필름 사장직에서 물러나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440389)
+#### [크루드-서부 캐나다 셀렉트 할인 좁혀보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440388)
+#### [킨세일 캐피털 그룹, 웰스파고가 커버리지 시작하면서 '비중확대' 등급 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440387)
 #### [개인 투자자들이 기록적인 금액의 현금을 은에 투자하면서 거래가 혼잡해졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440385)
 #### [캐슬린 케네디, 루카스필름 사장직에서 물러나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440382)
 #### [워딩턴 스틸, 24억 달러 규모의 거래로 클렉너 앤 코인 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440384)
@@ -61,16 +76,3 @@
 #### [정책 노이즈가 커지면서 투자자들은 미국 기업 실적 강세에 주목합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440350)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
 #### [미국 판사, 친 팔레스타인 캠퍼스 활동가 추방하려는 트럼프의 노력을 제한하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440339)
-#### [미국 증시는 칩 상승, 대형 은행 반등으로 상승세로 돌아섰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440338)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MAGS.K/total>
-#### [마차도는 트럼프와의 만남이 매우 잘 진행되었다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440336)
-#### [요약 제이피모건 CEO 제이미 다이먼, "적어도" 5년 더 일하고 싶다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440333)
-#### [쿠바에 대한 미국의 구호 지연은 경고와 함께 제공됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440337)
-#### [미국 연준 주간 대차 대조표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440335)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440332)
-#### [위험 심리 개선에 대한 BUZZ-AUD/USD 기업들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440331)
-#### [모건 스탠리, 브라질 텐다의 보통주 지분을 4.92%로 줄였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440334)
-#### [마차도는 트럼프에게 노벨 평화상 메달을 선물했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440327)
-#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440320)
-#### [AI의 도움으로 은행 수익 호조가 계속될 것이라고 CIO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440326)
-#### [북미, 1월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440323)
