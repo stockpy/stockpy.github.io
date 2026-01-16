@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260116_1657 </title></head>
-<center>Vers : 20260116_1657 </center>
-<center>Vers : 20260117_0157 </center>
+<head><meta charset="utf-8"><title>Vers : 20260116_1728 </title></head>
+<center>Vers : 20260116_1728 </center>
+<center>Vers : 20260117_0228 </center>
 <br><br><br>
 #### ['칭찬해, 내 손가락'…'5만전자'에도 끝까지 버텼더니 초대박 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005238417)
 #### [초유의 상승장…고수들은 의외의 종목 쓸어담았다 [주식 초고수는 지금]](https://m.stock.naver.com/news/ranknews/view/011/0004579558)
@@ -25,7 +25,7 @@
 #### [2500만원 손실 vs 7800만원 대박…1억 넣은 개미 '엇갈린 희비'](https://m.stock.naver.com/news/ranknews/view/015/0005238203)
 #### [[동십자각] 현금부자 서학개미만 웃게된 환율정책](https://m.stock.naver.com/news/ranknews/view/011/0004579725)
 #### [반도체·로봇·방산 등 매일 주도주 바뀌어…'두더지 게임' 된 국장](https://m.stock.naver.com/news/ranknews/view/011/0004579708)
-#### [정부 안믿는 외국인…환손실 우려에 국채선물 5兆 매도](https://m.stock.naver.com/news/ranknews/view/015/0005238390)
+#### [정부 안믿는 외국인…환손실 우려에 국채선물 5조원 매도](https://m.stock.naver.com/news/ranknews/view/015/0005238390)
 #### ['그래도 오천피 못 믿어'…쪽박 찼는데 또 '곱버스' 탄 개미들](https://m.stock.naver.com/news/ranknews/view/015/0005238316)
 #### [11번 연속 "최고! 최고!"…반도체·방산 사기 늦었나? 전문가 조언은](https://m.stock.naver.com/news/ranknews/view/008/0005305681)
 #### [다시 떠오른 미국발 관세 불확실성… 한국 증시 영향은?](https://m.stock.naver.com/news/ranknews/view/469/0000909438)
