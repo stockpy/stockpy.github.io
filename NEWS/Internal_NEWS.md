@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260116_2255 </title></head>
-<center>Vers : 20260116_2255 </center>
-<center>Vers : 20260117_0755 </center>
+<head><meta charset="utf-8"><title>Vers : 20260116_2320 </title></head>
+<center>Vers : 20260116_2320 </center>
+<center>Vers : 20260117_0820 </center>
 <br><br><br>
+#### [증시 주간 하락세, 하셋의 연준행에 대한 불확실성으로 달러화 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441864)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
+#### [법무부, 이민 요원 방해 음모 혐의에 대해 미네소타 관리 조사, CBS 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441863)
+#### [화학 제조업체 Trin서, 수요 감소로 부채 협상 준비 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441865)
+#### [프리포트-맥모란 - 유닛, 엠샤로부터 임박한 위험 명령을 받다 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441859)
+#### [무디스, 덴마크의 Aaa 등급을 긍정적으로 평가하고 안정적 전망 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441861)
+#### [대시 캠 제조업체 Motive, IPO 마케팅 지연-정보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441862)
+#### [독점-저지 마이크의 서브가 IPO 가능성을 위해 은행을 고용하기 위해 '베이크 오프 '를 개최한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441860)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WING.O/total>
 #### [사이트 센터, 파트너십 지분 매각 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441855)
 #### [클린 에너지 테크놀로지스 - 채권 매입 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441856)
 #### [Fed의 제퍼슨은 파월 의장을 '최고의 청렴성'을 갖춘 인물로 평가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441858)
@@ -59,12 +68,3 @@
 #### [대두 기준 입찰 강세, 인근 옥수수 기준 입찰 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441812)
 #### [Kkr - 글로벌 애틀랜틱 앤 유닛스, 웰스 파고 은행과 신용 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441804)
 #### [주식의 건전성을 측정하기 위해 부채 시장을 지켜보라고 전략가는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441807)
-#### [벨론, 278억 달러 IPO를 위한 초기 협상 중, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441806)
-#### [로펌 커클랜드, 잭슨 워커가 판사의 비밀 로맨스를 둘러싼 새로운 소송에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441803)
-#### [아고맙 테라퓨틱스, 미국 IPO 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441805)
-#### [S&P 500은 한 주 동안 하락했지만 소형주는 계속 지배합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441802)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.SOX>
-#### [뉴욕 스페이스 시스템, 미국 IPO에서 5억 4,400만 달러 모금 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441801)
-#### [정책 노이즈가 커지는 가운데 투자자들은 미국 기업 실적 강세에 기대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441800)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBD.O/total>
-#### [신흥 시장에서 기회를 보는 투자 전략가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441795)
