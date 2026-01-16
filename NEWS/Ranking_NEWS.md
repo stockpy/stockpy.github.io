@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260116_1424 </title></head>
-<center>Vers : 20260116_1424 </center>
-<center>Vers : 20260116_2324 </center>
+<head><meta charset="utf-8"><title>Vers : 20260116_1449 </title></head>
+<center>Vers : 20260116_1449 </center>
+<center>Vers : 20260116_2349 </center>
 <br><br><br>
 #### [“TSMC 정말 고마워!” 삼성전자 또 최고치…이러다가 정말 어디까지 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002586924)
 #### ['칭찬해, 내 손가락'…'5만전자'에도 끝까지 버텼더니 초대박 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005238417)
@@ -62,9 +62,9 @@
 #### [작년 900% 급등 동양·천일고속…2주 사이 20% 하락 [이런국장 저런주식]](https://m.stock.naver.com/news/ranknews/view/011/0004579626)
 #### [환율 1480원 육박, ‘금융위기 재발’ 공포?… “그때와는 체질이 다르다”](https://m.stock.naver.com/news/ranknews/view/243/0000091381)
 #### [삼성전자, 1%대 강세 '사상 최고가'…"'15만전자' 보인다"[핫종목]](https://m.stock.naver.com/news/ranknews/view/421/0008717662)
-<head><meta charset="utf-8"><title>Vers : 20260116_1424 </title></head>
-<center>Vers : 20260116_1424 </center>
-<center>Vers : 20260116_2324 </center>
+<head><meta charset="utf-8"><title>Vers : 20260116_1449 </title></head>
+<center>Vers : 20260116_1449 </center>
+<center>Vers : 20260116_2349 </center>
 <br><br><br>
 #### [“이제 현대차 담기엔 부담되는데”…‘형제’ 우선주·기아 대신 줍줍할까](https://m.stock.naver.com/news/ranknews/view/009/0005622555)
 #### [고환율 비상에…금감원, 19일 은행 외환담당 부행장 소집](https://m.stock.naver.com/news/ranknews/view/008/0005305755)
