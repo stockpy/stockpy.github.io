@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260116_0635 </title></head>
-<center>Vers : 20260116_0635 </center>
-<center>Vers : 20260116_1535 </center>
+<head><meta charset="utf-8"><title>Vers : 20260116_0700 </title></head>
+<center>Vers : 20260116_0700 </center>
+<center>Vers : 20260116_1600 </center>
 <br><br><br>
 #### ["오전에 안 팔길 잘했네" 불기둥 쏜 알테오젠 ...대규모 기술이전 '환호'](https://m.stock.naver.com/news/ranknews/view/008/0005305562)
 #### [초유의 상승장…고수들은 의외의 종목 쓸어담았다 [주식 초고수는 지금]](https://m.stock.naver.com/news/ranknews/view/011/0004579558)
