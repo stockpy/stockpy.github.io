@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260116_1858 </title></head>
-<center>Vers : 20260116_1858 </center>
-<center>Vers : 20260117_0358 </center>
+<head><meta charset="utf-8"><title>Vers : 20260116_1925 </title></head>
+<center>Vers : 20260116_1925 </center>
+<center>Vers : 20260117_0425 </center>
 <br><br><br>
+#### [USD/JPY는 견조한 흐름을 유지합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441694)
+#### [클리어 스트리트, 120억 달러 가치로 프리 IPO 라운드 마감 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441692)
+#### [ICE의 급습으로 홈디포 감시 데이터에 대한 투자자들의 의문이 커지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441690)
+#### [캐나다, 중국, 베이징에서 카니-시 회담 후 관세 인하 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441693)
+#### [소 92,000마리, 돼지 479,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441691)
+#### [캐나다, 중국, 베이징에서 카니-시 회담 후 관세 인하 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441689)
+#### [법학 교수 에이미 왁스, 항소 법원에 UPenn 편견 소송 부활 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441688)
+#### [유럽 규제 당국, 항공사에 이란 영공 운항 금지 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441686)
+#### [제프리, 우드워드 PT 인상, 항공우주 마진 강세 언급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441685)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WWD.O/total>
+#### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441687)
 #### [러시아 주도 폭발물 소포 음모 용의자들이 종신형을 선고 받았다고 폴란드가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441682)
 #### [머스크와 라이언에어 CEO, 비행기 내 스타링크 와이파이 비용 문제로 충돌?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441683)
 #### [젠맙, 엡코리타맙 3상 임상시험이 통계적 유의성에 도달하지 못했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441684)
@@ -57,14 +68,3 @@
 #### [미국 주요 경제, 기타 데이터에 대한 휴일 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441638)
 #### [미국 판사, 버지니아 해상 풍력 프로젝트 재개를 위한 도미니언 입찰 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441640)
 #### [웨스트젯, 반발 후 리클라이닝이 불가능한 이코노미 좌석 폐지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441637)
-#### [버즈 벤치마크, 마진 우려로 Spotify의 PT를 줄입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441634)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441627)
-#### [Marsh, 데이터 센터를 '완전한 디지털 인프라'의 과제로 보고 610억 달러가 이 부문에 쏟아져 들어갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441630)
-#### [덴마크 장군은 그린란드 근처에 중국이나 러시아 선박이 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441633)
-#### [ICE의 급습으로 일부 홈디포 투자자들은 법 집행 기관이 자사의 감시 데이터를 어떻게 사용하는지 알고 싶어합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441626)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
-#### [미국 제조업 생산이 1 차 금속 급증으로 증가, 전망 불투명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441629)
-#### [연휴 주간 미국 에너지 데이터 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441632)
-#### [미국 IPO를 위한 레드 위즈덤 크리에이션 리미티드 파일- SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441623)
-#### [드론 공격으로 흑해 CPC 원유 가격 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441628)
-#### [초기 웨고비 알약 처방 데이터 '고무적' 이후 노보 노디스크의 BUZZ-US 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441631)
