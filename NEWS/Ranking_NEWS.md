@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260116_0440 </title></head>
-<center>Vers : 20260116_0440 </center>
-<center>Vers : 20260116_1340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260116_0502 </title></head>
+<center>Vers : 20260116_0502 </center>
+<center>Vers : 20260116_1402 </center>
 <br><br><br>
 #### [“가만있는데 재산 90%가 날아갔어요”...현찰이 휴지조각 된 나라, 생존법은?](https://m.stock.naver.com/news/ranknews/view/009/0005622621)
 #### [초유의 상승장…고수들은 의외의 종목 쓸어담았다 [주식 초고수는 지금]](https://m.stock.naver.com/news/ranknews/view/011/0004579558)
