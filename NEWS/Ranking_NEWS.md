@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260116_1025 </title></head>
-<center>Vers : 20260116_1025 </center>
-<center>Vers : 20260116_1925 </center>
+<head><meta charset="utf-8"><title>Vers : 20260116_1100 </title></head>
+<center>Vers : 20260116_1100 </center>
+<center>Vers : 20260116_2000 </center>
 <br><br><br>
 #### [“TSMC 정말 고마워!” 삼성전자 또 최고치…이러다가 정말 어디까지 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002586924)
 #### [초유의 상승장…고수들은 의외의 종목 쓸어담았다 [주식 초고수는 지금]](https://m.stock.naver.com/news/ranknews/view/011/0004579558)
