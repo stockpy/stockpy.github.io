@@ -1,7 +1,231 @@
-<head><meta charset="utf-8"><title>Vers : 20260116_1100 </title></head>
-<center>Vers : 20260116_1100 </center>
-<center>Vers : 20260116_2000 </center>
+<head><meta charset="utf-8"><title>Vers : 20260116_1246 </title></head>
+<center>Vers : 20260116_1246 </center>
+<center>Vers : 20260116_2146 </center>
 <br><br><br>
+#### [인비테이션 홈즈, 개발 역량 강화 및 미국 가정을 위한 더 많은 주택 솔루션 제공을 위해 레시빌드 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441231)
+#### [미국 데이터 호조, 지정학적 긴장 완화로 모멘텀이 약화되면서 금이 약세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441227)
+#### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
+#### [모자이크, 북미 비료 수요의 급격한 감소를 예고하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441209)
+#### [창위안 테크놀로지 그룹, 2025년 순손실 11억~15억 위안으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441234)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600525.SS/total>
+#### [베트남 EVN, LNG 발전소 프로젝트에 11억 3천만 달러 대출 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441226)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VCB.HM/total>
+#### [GBP / USD가 1.34 핸들을 되찾았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441222)
+#### [지오짓 금융 서비스 12월 분기 순이익 1억 2,730만 루피](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441233)
+#### [미국 웨고비 알약 처방 데이터에 앞서 노보 노디스크의 BUZZ-US 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441225)
+#### [버즈아스트 스페이스모바일, 미국 미사일방어청 계약 후 도약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441221)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ASTS.O/total>
+#### [빈야스 혁신 기술, 4억 1,260만 루피 상당의 수주 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441218)
+#### [파노라마 스튜디오 인터내셔널, 센추리 필름과 손잡고 말레이어 영화 배급을 위한 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441224)
+#### [1 입찰자 공동 선언 - 요약-Ceigall India Ltd - 공동, 샘 인도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441220)
+#### [모스 유틸리티, 지오 페이먼트 뱅크와 비즈니스 통신사 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441217)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441219)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441215)
+#### [실버 터치 테크놀로지스, 15 대 1 비율로 주식 분할 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441216)
+#### [EUR/USD - 200-DMA 위를 맴돌고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441214)
+#### [마루티 스즈키, 빅토리리스 SUV 수출 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441212)
+#### [하이웨이 인프라, 6억 9,680만 루피 상당의 수주 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441230)
+#### [Admach Systems Ltd, 1억 8,110만 루피 상당의 주문 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441213)
+#### [분석-모리셔스를 통한 투자에 대한 인도의 획기적인 세금 판결이 글로벌 투자자들을 뒤흔들고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441211)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
+#### [니틴 소방산업 청산인, 계속기업으로 니틴 화재 매각 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441229)
+#### [DMINT, IPO 등록 명세서 제출 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441208)
+#### [2025년에 422,000명 이상이 러시아 군과 계약을 체결했다고 TASS가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441210)
+#### [웨시우 캐피탈, 베이징 기업 지분을 늘리고 CITIC 증권 지분을 매각하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441228)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000987.SZ/total>
+#### [인산염 출하량 감소로 북미 비료 수요 급감, 모자이크 깃발 꽂아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441207)
+#### [스트리트뷰: M&A의 강점이 골드만삭스에 새로운 빛을 비추다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441232)
+#### [다코 뉴 에너지의 자회사 신장 다코, 2025 회계연도 순손실 예비 추정치 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441201)
+#### [Novo 주가가 '고무적인'Wegovy 알약 스크립트 데이터로 급등, 분석가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441206)
+#### [큐니티, CFO 전환 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441198)
+#### [스포츠웨어의 38억 파운드 기회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441223)
+#### [허드베이, 2025년 예비 생산 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441185)
+#### [BofA, 높은 배수를 언급하며 럭셔리 섹터에 대해 '말을 잡아라'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441197)
+#### [일본 알루미늄 구매자들은 1분기 프리미엄 $195/T 지불에 동의합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441192)
+#### [일본 1분기 알루미늄 프리미엄이 공급 부족에 대한 우려로 $195/T로 두 배 이상 상승했다고 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441183)
+#### [말리 금 생산량, 배릭 중단으로 23 % 급락, 더 엄격한 규칙으로 부문 재편](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441196)
+#### [스타링크의 라이벌 유텔샛, 유럽 마이아스페이스와 위성 발사를 위한 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441191)
+#### [춥고 건조한 날씨 전망으로 주간 상승세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441182)
+#### [영국 보험 기관이 정책 접근성 향상을 위해 종합적인 표지판 설치 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441205)
+#### [미국 주식의 움직임-마이크론, M&T 은행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441190)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
+#### [AUD/USD- 세션에서 상승했지만 최근 범위 내에 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441181)
+#### [11월 브라질 경제 활동 지수 0.7% 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441204)
+#### [일본이 통화 약세에 대응하기 위해 미국과의 개입을 숙고하면서 외환-엔화 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441189)
+#### [트럼프 특사, 3월 그린란드 방문 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441180)
+#### [인도 국립 증권 거래소, 연방 예산으로 2 월 1 일 거래 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441203)
+#### [선전 청천 웨이예 테크놀로지, 사모 A주 배치를 통한 자금 조달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441188)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300689.SZ/total>
+#### [JPMorgan, 사모 시장 붐에 동참하기 위해 새 팀 구성 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441195)
+#### [J.B. 헌트, 4분기 실적 후 부진, 증권사 PT 삭감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441202)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/JBHT.O/total>
+#### [미국, 1월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441194)
+#### [우크라이나 협상가들이 안보 보장 회담을 위해 미국으로가는 길에 젤 렌 스키, 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441187)
+#### [마이어, 세 번째 망막 적응증으로 EU에서 아일리아 8mg 승인 받았다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441200)
+#### [지역 이자 수익, 자산 관리 성장으로 금융 수익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441186)
+#### [미얀마, 감비아가 로힝야 집단학살 사건을 입증하지 못했다고 세계 법정에 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441193)
+#### [일본, 동중국해에서 중국의 자원 개발에 항의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441199)
+#### [번드 수익률은 미국 국채의 신호를 받은 후 보합세로 한 주를 마감할 예정입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441184)
+#### [11월 브라질 생산자 물가 0.37% 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441175)
+#### [미국/캐나다 일일 수익 히트 & 미스 1월 16일 - 0700 동부 표준시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441160)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MTB/total>
+#### [미국 판사, 트럼프에 의해 중단 된 버지니아 해상 풍력 프로젝트 재개를위한 도미니언 요청을 검토하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441179)
+#### [브레이킹뷰-리, 글로벌 뷰티 기업공개에 너무 많은 립스틱을 바르는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441174)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0001.HK/total>
+#### [영국 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441153)
+<head><meta charset="utf-8"><title>Vers : 20260116_1246 </title></head>
+<center>Vers : 20260116_1246 </center>
+<center>Vers : 20260116_2146 </center>
+<br><br><br>
+#### [브레이킹뷰-AI 상승 케이스가 가장 큰 부스터를 얻습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441152)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [무핀 그린 파이낸스, 핀란드 펀드와 금융 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441178)
+#### [인도 국립 증권 거래소, 2026 년 02 월 01 일 라이브 거래 세션-연합 예산 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441166)
+#### [인도, 1월 21일 2,900억 루피 규모의 지폐 경매 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441151)
+#### [타타 커뮤니케이션즈, 30억 루피의 상업 어음 발행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441177)
+#### [M&T 은행, 4분기 이익 증가 후 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441165)
+#### [5자금 조달을 위해 고려해야 할 파이사 캐피탈](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441163)
+#### [넷플릭스, 워너 브라더스 딜에 대한 의문에 뒷전으로 밀릴 듯](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441170)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
+#### [레일 비카스, 남동부 철도에서 최저 입찰자(L1)로 선정됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441164)
+#### [인도 시장 규제 당국, 잘 규제된 역외 펀드에 대한 등록 간소화 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441162)
+#### [무위안 식품, 홍콩 증권거래소 상장 청문회 통과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441169)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002714.SZ/total>
+#### [GMR 공항 12월 총 여객 수, 전년 대비 1.9% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441156)
+#### [푸나왈라 핀코프, 12월 분기 순이익 15억 루피 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441161)
+#### [Wipro 경영진, 노동법 변경으로 인한 지속적인 영향은 기대하지 말 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441168)
+#### [전력 공급 중단 이후 RPT-중국-러시아, 회담 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441159)
+#### [추운 날씨로 인한 수요 증가로 글로벌 LNG-아시아 현물 가격 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441167)
+#### [광동 송파 세라믹스, 선박 건조 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441155)
+#### [마하라슈트라 심리스, 4 개의 자회사와 직원이 자발적으로 파업했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441158)
+#### [지나 시코 라이프케어, 백투루츠 지분 51% 인수 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441173)
+#### [울트라테크 시멘트, 셀레스티얼 에너지와 주식 매입 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441154)
+#### [새로운 경고 이후 뉴욕-엔 강세로 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441157)
+#### [세인시스 테크, 1억 1,340만 루피 상당의 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441172)
+#### [NTPC, 37.5MW 태양광의 세 번째 부분 용량의 COD 선언 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441150)
+#### [3분기 이익이 예상치를 하회한 후 BUZZ-미국 상장 위프로의 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441140)
+#### [시리아, 쿠르드족이 점령 한 마을을 공격하여 교착 된 회담을 압박 할 태세, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441171)
+#### [유니데이터, 2027~2029년 산업 계획 승인을 위한 이사회가 2026년 11월 19일에 열립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441136)
+#### [소바 12월 분기 순이익 1억 4,430만 루피](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441176)
+#### [USD/CAD 트레이더- 상승하기 전 조정 주간 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441130)
+#### [노보 주가가 웨고비 알약의 미국 처방 데이터에 앞서 7% 급등했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441135)
+#### [JSW 인프라 12월-분기 순이익 35.9억 루피](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441139)
+#### [PNC 파이낸셜, 4분기 매출 예상치 상회, 자사주 매입 계획 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441144)
+#### [EU-메르코수르 무역 협상의 다음 단계는 무엇인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441134)
+#### [기술 마힌드라 임원, 27 회계연도 매출 성장 측면에서 동종 업체를 능가할 것으로 기대한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441138)
+#### [영국 해군, 북대서양 위협에 대응하기 위해 새로운 무인 헬리콥터 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441143)
+#### [PNC 1분기 매출, 4분기 대비 2%~3% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441148)
+#### [이탈리아 전시 그룹, 2026년 2월 4일 2025-2030년 산업 계획 발표 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441137)
+#### [인도 채권, 글로벌 지수 부진으로 3주째 하락세 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441142)
+#### [CIA 국장 랫클리프, 베네수엘라의 로드리게스와 카라카스에서 만나다, NYT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441147)
+#### [7억 5,300만 달러 주식 매각 후 BUZZ-QXO 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441133)
+#### [인도 타타 테크, 일회성 노동법 비용으로 분기 이익 96% 급감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441141)
+#### [피츠월터 캐피털, 영국 옥션 테크놀로지 인수 입찰가를 6억5800만 달러로 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441146)
+#### [노르웨이 법원, 2022년 치명적인 자부심 테러를 조직한 이슬람교도 유죄 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441132)
+#### [중국과 러시아, 전력 공급 중단 후 회담 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441145)
+#### [버즈오도 BHF는 2026년 EU 부동산 중 최고의 선택지를 제공합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441131)
+#### [마힌드라 EPC 관개 12월-분기 콘솔 팻 64.9백만 루피](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441149)
+#### [mPay, 0.30 즐로티/Shr로 최대 1,760만 시리즈 W 주식 발행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441121)
+#### [인도 용매 추출기 협회 - Jan 16](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441115)
+#### [인도 주식, 루피, 스왑, 마감 시 통화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441110)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BSESN>
+#### [딜메이킹 횡재, 이자 수익 증가로 PNC 파이낸셜 이익 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441124)
+#### [PNC 4분기 매출 6,071백만 달러 대 IBES 추정치 5,957백만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441114)
+#### [인도 주식, 루피, 스왑, 마감 시 통화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441109)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BSESN>
+#### [밀크푸드, 부동산 매각을 위한 자산 매입 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441123)
+#### [아침 입찰 아메리카-홍수 지역 입찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441106)
+#### [주요 경제 및 중앙은행 정책에 대한 로이터 여론조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441122)
+#### [미국이 일본에 외환 시장 개입을 촉구할까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441105)
+#### [엠페이, 감독위원회 의장에 콘라드 라츠코프스키 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441126)
+#### [인도 정부는 1 월 9 주에 RBI로부터 미결제 대출이 없었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441129)
+#### [인도 정부는 1 월 9 주에 RBI로부터 미결제 대출이 없었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441128)
+#### [인도 외환 보유고, 1월 9일 기준 6,871억 9,000만 달러로 증가 - 중앙은행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441125)
+#### [RBI는 1월 6일 기준 OMO에 따라 5,000억 루피의 채권을 매입했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441104)
+<head><meta charset="utf-8"><title>Vers : 20260116_1246 </title></head>
+<center>Vers : 20260116_1246 </center>
+<center>Vers : 20260116_2146 </center>
+<br><br><br>
+#### [푸틴과 페 제쉬 키안은 전화 통화에서이란의 단계적 축소 요구, 크렘린은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441127)
+#### [TSX 선물 상승, 캐나다 총리, 중국 무역 협상 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441117)
+#### [에어인디아, 싱가포르항공과 '협력 프레임워크'로 유대 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441120)
+#### [캐나다 카놀라 선물, 중국 관세 인하로 랠리를 펼치다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441113)
+#### [Clb Global Ltd, 전무이사 암릿 차마리아 사임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441116)
+#### [미국 외환시장 오픈 - 1월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441119)
+#### [영국의 옥션 테크놀로지 주가가 급등합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441112)
+#### [규제 당국의 압력 강화에 따라 유럽에서 연령 확인을 강화하는 TikTok](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441108)
+#### [중국 수요 부진으로 포르쉐 2025 인도량 10% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441118)
+#### [그린란드 임무, 유로 전투기, 호위함 배치 검토, 베를린은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441111)
+#### [FX 옵션은 EUR/USD 리스크를 낮게 책정하고 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441107)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441103)
+#### [영국 장관이 목요일 런던에서 파라마운트 CEO 엘리슨을 만났다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441100)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
+#### [미국 데이터 호조, 지정학적 긴장 완화로 모멘텀이 약화되면서 금이 약세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441099)
+#### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
+#### [피츠월터 캐피털, 영국 옥션 테크놀로지 인수 입찰을 6억 5,800만 달러로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441089)
+#### [Sciuker 프레임즈, 아벨리노 법원, 2026년 2월 7일까지 보호 조치 연장을 승인하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441102)
+#### [에어버스, 프랑스 해군, 2028년부터 VSR700 운영 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441088)
+#### [진달 톱 12월 분기 순이익 25억 8천만 루피](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441090)
+#### [일본 1 분기 알루미늄 프리미엄은 톤당 195 달러로 4 분기 대비 127 % 상승했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441085)
+#### [지정학적 불안으로 세계 주가가 사상 최고치 부근에서 맴돌고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441101)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FCHI>
+#### [지역별 재무 전망 FY26 NII 2.5 ? 4%](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441087)
+#### [브라질 브라바, 페트로나스의 해상 유전 2곳 지분 4억5천만 달러에 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441084)
+#### [노무라, 27 회계 연도에 인도 차입 기록, 채권에 대한 신중한 태도 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441098)
+#### [프랑스 국방 조달청 DGA, 해군 그룹 및 에어버스 헬리콥터와 2건의 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441078)
+#### [레오나르도, 엔터프라이즈 일렉트로닉스 인수 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441093)
+#### [알란트라, 스페인 살토 시스템즈 지분 매각 검토- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441083)
+#### [투자자에게 위험을 경고하는 브리프-바이윈 스토리지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441077)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688525.SS/total>
+#### [빅토리 거대 기술 후이저우, 2025년 순이익 260.4~295% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441092)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300476.SZ/total>
+#### [지역별 재무 4분기 EPS USD 0.58](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441075)
+#### [미국 원자력 발전 용량이 금요일에 1,231MW로 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441076)
+#### [푸틴, 네타냐후와이란의 페제쉬키안과 회담, 러시아는 중재 할 의향이 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441091)
+#### [10 물가지수 1월 0.29% 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441074)
+#### [신속한 FDA 검토 프로그램을 통해 법적 위험을 조용히 우려하는 일부 제약사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441097)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/REGN.O/total>
+#### [유럽의 STOXX 600 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441096)
+#### [ROI-2026년 LNG 수출업체가 흥분하고 걱정하는 것: 맥과이어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441095)
+#### [북유럽 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441094)
+#### [시카고 오헤어 공항을 장악하기 위한 영국과 미국의 경쟁](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441086)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
+#### [분석-머스크의 스타링크, 이란 단속에서 주목받는 보안 테스트 직면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441082)
+#### [독일 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441081)
+#### [프랑스 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441080)
+#### [연방준비은행 이벤트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441079)
+#### [ICE의 급습으로 일부 홈디포 투자자들은 법 집행 기관이 자사의 감시 데이터를 어떻게 사용하는지 알고 싶어합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441073)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [포커 얼굴의 파월은 트럼프의 연준 흔들기를 방해하기 위해 소매에 에이스를 가지고있을 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441072)
+#### [월스트리트 한 주를 앞두고-투자자들은 정책 노이즈가 커지면서 미국 기업실적 강세에 기대를 걸고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441066)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
+#### [ICE 단속으로 큰 타격을 입은 미니애폴리스의 소규모 사업체들, 기업들은 침묵으로 일관하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441059)
+#### [미국 오프라인 원자력 발전 용량이 금요일에 1,231MW로 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441070)
+#### [이란 시위가 치명적인 단속 이후 완화되었다고 주민들과 인권 단체는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441065)
+#### [우크라이나의 GDP는 2.2 년에 2025 % 증가했다고 경제부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441058)
+#### [후베이 완룬 신에너지 기술의 리튬 인산철 생산 라인 건설 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441069)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688275.SS/total>
+#### [영국 장관이 목요일 런던에서 파라마운트 CEO 엘리슨을 만났다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441063)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
+#### [미얀마, 세계 법원에 감비아가 로힝야 대량 학살 사건을 입증하지 못했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441057)
+#### [독일 메르츠, 시리아 지도자와 함께 이주민 귀환을 늘리겠다, 대변인은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441068)
+#### [노보 노디스크, 영국 보건 규제 당국이 웨고비 복용량 증가에 대해 고개를 끄덕이면서 이득을 얻었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441062)
+#### [러시아, 일부 EU 국가들이 모스크바와 우크라이나에 대한 대화를 재개하려는 의사를 분명히 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441056)
+#### [영란은행의 베일리는 정책 입안자들에게 포퓰리스트에 도전할 것을 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441067)
+#### [페라리 주가는 주주 거래 세부 사항보고 후 2023 년 11 월 최저치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441061)
+#### [저장 시나오 텍스타일, 회장 선출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441055)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603889.SS/total>
+#### [BMC 메디컬의 주주, 지분 처분 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441060)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301367.SZ/total>
+#### [연준이 2026년까지 동결 기조를 유지할 수 있을까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441054)
+#### [브라이트 부동산, 2025년 순손실 약 26억~3.7억 위안 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441064)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600708.SS/total>
+<head><meta charset="utf-8"><title>Vers : 20260116_1246 </title></head>
+<center>Vers : 20260116_1246 </center>
+<center>Vers : 20260116_2146 </center>
+<br><br><br>
+#### [아시아 현물 나프타 거래-한국, 대만 구매자 등장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441071)
+#### [KPC, 인도 오일, 2월 나프타 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441053)
 #### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441044)
 #### [넥스엑스 그룹 <6634.T>-2024/25 그룹 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441052)
 #### [넥스엑스 그룹 <6634.T>-2024/25 상위 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441040)
@@ -79,13 +303,13 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
 #### [러시아의 해상 석유 제품 수출이 연료 생산량 증가로 12 월에 17 % 증가했다고 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440995)
 #### [스웨덴에 본사를 둔 베트손의 4분기 매출, 북유럽 경기 둔화로 감소, CEECA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440991)
+<head><meta charset="utf-8"><title>Vers : 20260116_1246 </title></head>
+<center>Vers : 20260116_1246 </center>
+<center>Vers : 20260116_2146 </center>
+<br><br><br>
 #### [두바이 및 오만, 상승세 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440998)
 #### [인도 주식, 루피, 스왑, 오후 3시 30분(인도 표준시) 통화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440994)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BSESN>
-<head><meta charset="utf-8"><title>Vers : 20260116_1100 </title></head>
-<center>Vers : 20260116_1100 </center>
-<center>Vers : 20260116_2000 </center>
-<br><br><br>
 #### [히트젠의 주주, 약 2.5%의 지분을 처분할 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440990)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688222.SS/total>
 #### [러시아는 모스크바와 우크라이나에 대한 대화를 재개하려는 일부 EU 국가들의 열망을 큰 변화라고 부릅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440997)
@@ -131,7 +355,7 @@
 #### [에어 인도와 싱가포르 항공, 상업 협력 기본 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440957)
 #### [영국, 우크라이나에 비즈니스 센터를 열어 소규모 방위 기업의 접근성 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440955)
 #### [주가는 하락세를 보이지만, 여전히 주간 상승세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440962)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FCHI>
 #### [러시아 군이 우크라이나 동부에서 두 마을을 점령했다고 국방부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440956)
 #### [채굴업체들이 금값 하락에 타격을 입으면서 유럽 증시 상승세 잠시 멈춤](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440954)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.GDAXI>
@@ -158,12 +382,12 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603359.SS/total>
 #### [미디어 차이니즈 인터내셔널, 2월 1일부터 캐나다 운영 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440919)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0685.HK/total>
+<head><meta charset="utf-8"><title>Vers : 20260116_1246 </title></head>
+<center>Vers : 20260116_1246 </center>
+<center>Vers : 20260116_2146 </center>
+<br><br><br>
 #### [인도의 타타 스틸, 채굴 사건 완화, 금속 랠리로 이번 주 Nifty 50 1위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440911)
 #### [인도, 히스데샛, 스파인샛 NG II 대체를 위한 RFQ 절차 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440927)
-<head><meta charset="utf-8"><title>Vers : 20260116_1100 </title></head>
-<center>Vers : 20260116_1100 </center>
-<center>Vers : 20260116_2000 </center>
-<br><br><br>
 #### [다코 뉴 에너지, 2025년 순손실 10억~13억 위안 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440923)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688303.SS/total>
 #### [오닥스 리노블, 스페인 8개 대학과 2,040만 유로 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440910)
@@ -235,13 +459,13 @@
 #### [영국의 MJ 글리슨, 상반기 매출 호조 기대감에 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440876)
 #### [핀란드 중앙은행, 투자 활동에 대한 새로운 중간 기후 목표 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440879)
 #### [프랑스 정부, 예산 협상을 화요일로 연기하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440871)
+<head><meta charset="utf-8"><title>Vers : 20260116_1246 </title></head>
+<center>Vers : 20260116_1246 </center>
+<center>Vers : 20260116_2146 </center>
+<br><br><br>
 #### [이탈리아, 마이크로소프트의 '콜 오브 듀티' 및 '디아블로' 비디오 게임 판매 관행에 대해 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440875)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
 #### [영국 보건 규제 당국, 비만 환자에게 최대 7.2mg의 웨고비 주당 복용량 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440865)
-<head><meta charset="utf-8"><title>Vers : 20260116_1100 </title></head>
-<center>Vers : 20260116_1100 </center>
-<center>Vers : 20260116_2000 </center>
-<br><br><br>
 #### [연방 은행 3분기 NIM, 3.18%로 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440866)
 #### [그리스 법원, 이주민 밀입국 혐의에 대해 구호 활동가 무죄 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440874)
 #### [현대차그룹, 전 테슬라 휴머노이드 로봇 프로그램 책임자 고문으로 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440864)
@@ -307,221 +531,3 @@
 #### [오토네이션, 이스트만 케미컬, 포티파이브](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440813)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLXY.O/total>
 #### [한국의 MFG는 목요일에 비공개 거래로 65,000 톤의 옥수수를 구입했다고 상인들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440809)
-#### [미국 데이터 호조로 달러가 상승하고 금리 인하 베팅이 어두워지면서 금이 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440817)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLD/total>
-#### [에니, 코랄 노스 FLNG 선체 발사 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440812)
-<head><meta charset="utf-8"><title>Vers : 20260116_1100 </title></head>
-<center>Vers : 20260116_1100 </center>
-<center>Vers : 20260116_2000 </center>
-<br><br><br>
-#### [하가르 3분기 EBITDA, 4,566백만 ISK 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440808)
-#### [CBOT 옥수수는 약 $ 4.19-1/4에서 안정화되고 상승 할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440816)
-#### [중국 규제 당국, 아메리칸 액슬의 다우라이즈 인수 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440811)
-#### [일본, 부적절한 이미지로 머스크의 그로크 AI 서비스를 조사하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440814)
-#### [EUR/USD 트레이더 - 구름 아래 종가는 매우 불길한 신호입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440818)
-#### [1월 16일에 주목해야 할 영국 증시 요인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440801)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [노르딕 마이닝, 사모 발행 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440806)
-#### [폴란드 은행가 Wnorowski는 2 월 금리 인하를 배제하지 않는다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440799)
-#### [스웨덴 가계는 높은 부채로 취약하다고 중앙 은행 총재는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440800)
-#### [코르다이트 메디컬 홀딩스, 거래 마지막 날이 2026년 3월이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440805)
-#### [일본 선물, 악천후로 공급 위협에 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440798)
-#### [SPDR 보유량 상승, 아이셰어 실버 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440803)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SLV/total>
-#### [개장 전 유럽: 5주째 상승세를 보이는 종목들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440804)
-#### [정전으로 도쿄 통근 열차 운행이 중단되어 승객 67만 3천 명에게 영향을 미쳤습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440797)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9020.T/total>
-#### [높은 부채로 취약한 스웨덴 가계, 중앙 은행 총재는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440802)
-#### [채권 보유자 전원이 청약한 채권 발행 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440807)
-#### [위스트론 4분기 순이익 81억 6천만 달러, 2025년 순이익 274억 달러 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440796)
-#### [두바이 세계무역센터, 인포마, 공동 이벤트 사업 상장에 눈독 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440786)
-#### [그린란드 긴장이 고조되는 가운데 이탈리아, 북극 입장 업데이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440784)
-#### [두바이 항공 택시, 연말까지 상업 비행 시작, 교통 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440790)
-#### [미국과 이란, 유엔에서 시위 자제 촉구로 충돌](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440785)
-#### [인도 주식, 루피, 채권, 스왑, 오후 1시(인도 표준시) 통화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440783)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BSESN>
-#### [인도 항공 규제 당국은 12월 3~5일 항공편 취소에 대한 모든 환불이 완료되었다고 인디고에 통보했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440789)
-#### [인도 주식, 루피, 채권, 스왑, 오후 1시(인도 표준시) 통화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440795)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BSESN>
-#### [몬테네그로에서 재생 에너지 개발을 위한 합작 투자를 모색하는 BRIEF-Masdar와 EPCG](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440782)
-#### [CBOT 대두는 $ 10.57-3/4에서 저항을 다시 테스트 할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440788)
-#### [Var Energi, 자가토 구조에 대한 두 가지 생산 테스트를 통해 평가 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440794)
-#### [리펌, 나스닥 퍼스트 노스 상장 폐지 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440792)
-#### [USD/JPY 트레이더-일일 차트는 여전히 더 큰 상승을 가리키고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440787)
-#### [4주 최저치로 하락한 후 1.34 이하로 유지되는 BUZZ-GBP/USD](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440793)
-#### [CelLBxHealth, 길드포드의 운영을 하나의 시설로 합리화한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440791)
-#### [트럼프, 미네소타 반 아이스 시위에 대해 '반란법' 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440771)
-#### [아시아 실물 고무 가격 - 1월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440775)
-#### [에잇 캐피털 파트너스, 알타리우스와 약정서 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440770)
-#### [브리프-블록 거래-Sunrise Communications ABO, 주당 CHF 40.25로 책정 될 것이라고 Bookrunner는 말합니다 (1 월 15 일).](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440778)
-#### [제너너스, 시장 기대치를 상회하는 26 회계연도 조정 순이익 보고 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440767)
-#### [에비에이션, 캄보디아항공과 ATR 72-600에 대한 12년 임대 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440769)
-#### [예술가 투자 GP, 1월 14일 기준 악조 노벨 주식의 5.02% 소유, 서류에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440777)
-#### [인디아의 프레스티지 에스테이트, 3분기 선판매 증가로 부동산 지수 상승률 1위 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440766)
-#### [인디아의 트랜스레일 라이팅, 50억 루피 수익 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440768)
-#### [스펙트라, 전자담배 관세 우표에 대한 Hmrc 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440776)
-#### [MJ 글리슨, 올해 전체 실적이 현재 시장 기대치에 부합할 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440781)
-#### [캐나다 퍼시픽 캔자스시티, 코게코, 컨스텔레이션 소프트웨어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440764)
-#### [아돌포 도밍게즈, 9개월 순손실 130만 유로로 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440765)
-#### [중국 규제 당국, 아메리칸 액슬의 다우라이즈 인수 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440780)
-#### [이탈리아, '콜 오브 듀티' 및 '디아블로' 비디오 게임의 판매 관행에 대해 Microsoft의 부서를 조사합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440763)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [VGP, 그린본드 공개매수 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440773)
-#### [웰넥스 라이프는 운영을 간소화하고 비용 규율을 확립하기 위해 결정적인 조치를 취했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440779)
-#### [주요 시장 전반에 걸친 전망에 조심스럽게 고무된 플렉서스의 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440762)
-#### [아일랜드 주거용 부동산, 마리 헐리를 최고재무책임자(CFO)로 임명 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440772)
-#### [인도, 약 10억 유로에 런던 대중교통 네트워크의 판매 및 출입 통제 시스템 관리 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440774)
-#### [영국 존슨 서비스, HORECA 판매 호조로 2025년 매출 4.3% 증가 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440761)
-#### [영국 셀엘비엑스헬스의 회계연도 예비 매출은 계약 이연으로 예상치를 하회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440757)
-#### [존슨 서비스, 2025년 매출이 4.3% 증가한 5억3560만 파운드에 달할 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440748)
-#### [BUZZ-FX 옵션 랩 - 양방향 JPY 베팅, GBP 약세, EUR/USD 중립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440756)
-#### [바디코트, 800만 달러에 스펙트럼 열처리 인수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440747)
-#### [나인원, 2025년 12월 기준 1,598억 파운드의 자산총액 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440738)
-#### [아돌포 도밍게즈, 9개월 매출 9,330만 유로 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440741)
-#### [설녹스 그룹, 베트남 특허로 아시아에서의 입지 강화 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440746)
-#### [이미징 생체 인식 이사, 갈륨 말톨 레이트의 2 상 시험에 반대하기로 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440737)
-<head><meta charset="utf-8"><title>Vers : 20260116_1100 </title></head>
-<center>Vers : 20260116_1100 </center>
-<center>Vers : 20260116_2000 </center>
-<br><br><br>
-#### [폴라 캐피털, 2025년 12월 31일 기준 총자산 6% 증가한 284억 Stg 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440740)
-#### [칼스버그, 브릿빅에 대한 공개매수 후 의향서 준수 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440739)
-#### [캐릭터 그룹, 올해 하반기 매출이 개선될 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440743)
-#### [뉴욕타임스 비즈니스 뉴스 - 1월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440751)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
-#### [일본은행, 곧 ETF, 리츠 자산 판매 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440760)
-#### [일리야 바틀잔 인베스트, 채권에 대한 서면 절차 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440742)
-#### [클렉너 앤 코, 워딩턴 스틸 인수 제안에 뛰어들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440750)
-#### [HBX 그룹, 환매 프로그램 통해 최대 1억 유로 환원 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440759)
-#### [아사 아블로이, M&S, 아웃토쿰푸](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440755)
-#### [몬테 데이 파스키의 주요 투자자 델핀, 지분 매각하지 않겠다며 은행 경영진 지원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440749)
-#### [교에이 스틸 - 미국 사업 기지에 대한 자본 투자 계획의 일부 변경에 관한 통지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440758)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/5440.T/total>
-#### [멕시코 게레로에서 규모 4.9의 지진이 발생했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440754)
-#### [볼리덴, 노타넨을 EU의 전략 프로젝트로 신청하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440745)
-#### [달러에 대한 진실](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440753)
-#### [공급 리스크가 완화됨에 따라 버즈 오일의 잘못된 휴식과 변동성이 하락으로 이어집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440744)
-#### [일본 닛케이, 랠리가 힘을 잃으면서 하락세 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440736)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/5803.T/total>
-#### [안드리츠, 바오딩 산정 전기 장비 유한회사 지분 51% 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440752)
-#### [12월 독일 인플레이션이 2.0%로 확정되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440726)
-#### [독점-틱톡, 규제 당국의 압력 강화에 따라 유럽에서 연령 확인 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440733)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [해리 왕자가 영국 법정에서 언론과 벌이는 싸움](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440728)
-#### [해리 왕자의 영국 언론과의 전쟁이 데일리 메일 사건으로 결말에 도달했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440727)
-#### [G10 FX 만기 그리드, 큰 폭으로 상승 - 1월 16일 금요일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440732)
-#### [30억 루피 규모의 주문 수주에 힘입어 상승세를 탄 BUZZ-India의 Tembo Global](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440735)
-#### [프랑스 정부, 예산 협상을 화요일로 연기하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440730)
-#### [1월 16일 주목해야 할 요인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440731)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IBEX>
-#### [연방 은행의 3분기 순이익 104억1천만 루피 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440734)
-#### [기록적인 랠리로 인도에서 소매 구매가 정체되고 중국 수요는 꾸준합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440729)
-#### [인도의 DB Corp, 3분기 이익 감소로 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440724)
-#### [하드자르, 새 팀 레드불과 함께 2026년 최소 1회의 레이스 우승 목표 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440720)
-#### [개입하기 전에 얼마나 더 많은 엔조닝을 해야 하나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440719)
-#### [1월 16일 주목해야 할 요소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440723)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BUX>
-#### [엘텔, 채권에 대한 서면 절차 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440718)
-#### [유니바스투 인도, 39억 2천만 루피 규모의 지하철 계약 수주 후 주가 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440722)
-#### [스토르스코겐, 재매입 프로그램 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440725)
-#### [미쓰비시 상사 CEO: 미국 및 기타 지역의 천연 가스 수요 증가를 겨냥한 Aethon 투자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440721)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8058.T/total>
-#### [독일과 네덜란드에 대한 노르웨이의 가스 후보국 지위 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440717)
-#### [프로테오믹스 인터내셔널 연구소, 식도 선암에 대한 프로마케레소 진단 테스트에 대한 캐나다 특허 확보 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440693)
-#### [인디아의 젠 테크놀로지스, 40억 루피 규모의 수주 성공으로 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440703)
-#### [쉐브론, 리바이어던 가스 확장에 대한 최종 투자 결정 내림](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440692)
-#### [EUR/GBP 트레이더-혼합 신호 깜박임 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440696)
-#### [버즈인디아의 고드레즈 부동산이 3분기 업데이트 후 상승세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440716)
-#### [ECB, V-프로젝트와 석탄 판매, 배송 계약에 관한 부속서 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440707)
-#### [미국, 말레이시아 팜유 회사 FGV 홀딩스에 대한 수입 금지 해제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440691)
-#### [히노자동차 주식회사-호타이자동차 주식 매각과 관련한 특별이익(투자증권 매각이익)의 기록에 관한 통지.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440715)
-#### [회그 오토라이너스, 담가드 인베스트가 28,185주의 공동 주식을 매입했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440706)
-#### [SOCAR, 독일, 오스트리아에 아제르바이잔 천연 가스 보내기 시작, Interfax는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440700)
-#### [김브, ALT 테크놀로지스 지분 대부분을 CCL 인더스트리에 매각하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440714)
-#### [쿠수리 노 아오키 홀딩스, 이온과 자본 제휴 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440705)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3549.T/total>
-#### [USD/INR은 90.80으로 향하고 있으며, 트립을 멈췄습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440699)
-#### [셰브론, 리바이어던 생산 능력 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440711)
-#### [인디아의 OIS 금리가 유료화가 지배하면서 주요 상승 수준을 돌파했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440704)
-#### [스칸스카, 스톡홀름 토지에 약 13억 스웨덴 크로나 투자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440698)
-#### [세인트 케어 홀딩스, 3월 16일 발행 주식의 1.41%에 해당하는 자사주 처분 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440710)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2374.T/total>
-#### [미국 데이터 호조로 달러가 상승하고 금리 인하 베팅이 어두워지면서 금이 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440697)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLD/total>
-#### [Ahc 그룹 <7083.T>-2024/25 상위 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440709)
-#### [Ahc 그룹 <7083.T>-2024/25 그룹 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440713)
-#### [교와 엔지니어링 <9647.T>-2024/25 상위 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440702)
-#### [교와 엔지니어링 <9647.T>-2024/25 그룹 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440712)
-#### [KG 인텔리전스 <2408.T>-2024/25 그룹 예측](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440708)
-#### [애드쥬반트 홀딩스 <4929.T>- 9개월 그룹 실적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440701)
-<head><meta charset="utf-8"><title>Vers : 20260116_1100 </title></head>
-<center>Vers : 20260116_1100 </center>
-<center>Vers : 20260116_2000 </center>
-<br><br><br>
-#### [Tiemco <7501.T>-2024/25 상위 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440695)
-#### [인도 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440690)
-#### [쉐브론, 리바이어던 가스 확장에 대한 최종 투자 결정 내려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440694)
-#### [이탈리아의 감시 기관 Consob, Crane NXT의 안타레스 비전 인수 입찰과 관련하여 검토 기간을 중단합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440689)
-#### [IT, 인도 증시 상승 주도; 주간 상승을 위한 벤치마크 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440686)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8306.T/total>
-#### [일본이 미국과의 공동 개입 가능성을 제기하면서 엔화가 랠리를 펼칩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440687)
-#### [미국의 바이오 연료 할당량 확정 계획 이후 VEGOILS-Palm이 2% 이상 급등했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440688)
-#### [BBC, 유튜브와 콘텐츠 계약 체결, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440685)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [캘파인 온타리오 212MW 그린필드 에너지 센터 3 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440662)
-#### [영국 통계 기관, 신규 일자리 조사 6개월 연기, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440681)
-#### [아시아 증시, AI 낙관론에 상승, 연준의 금리인하 베팅 후퇴로 달러화 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440661)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.TWII>
-#### [메트릭스 AI, 명목 가치 180만 유로의 채권 발행 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440668)
-#### [인도 Grasim, 새 Birla Opus CEO로 사친 사하이 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440680)
-#### [인도 cenbank, 1월 15일 은행의 현금 잔액이 7조 2,300억 루피라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440671)
-#### [인도 은행, 1월 15일 MSF를 통해 443억 7천만 루피 차입 ? RBI](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440667)
-#### [베트남 최초의 칩 공장 건설 시작, 2027년 말 시험 가동 목표?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440679)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMKR.O/total>
-#### [스위스 젠더, 환기 장치 증가로 매출 8% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440670)
-#### [4분기에 약 2,700만 달러의 제품 서비스 총이익을 달성했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440674)
-#### [대만 위탁 칩 제조업체 TSMC의 미국 투자 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440673)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [USD/INR 상승, 수입업체 추격세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440678)
-#### [미국, 말레이시아 팜유 회사 FGV 홀딩스에 대한 수입 금지 해제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440669)
-#### [프랑스 및 베네룩스 주식-관심해야 할 요인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440677)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
-#### [스위스쿼트, 2025년 최소 7억2천만 스위스프랑의 순익 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440665)
-#### [프랑크푸르트 공항, 2025년 약 6,320만 명의 승객을 맞이할 것이라는 전망 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440672)
-#### [Aker BP, 2025년 순 생산량 평균 420.1Mboepd 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440676)
-#### [데이터워크, '메타데이터 기반 경로 탐색을 위한 시스템 및 방법'으로 미국 특허 취득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440664)
-#### [베트남 국내 시장 원자재 가격 - 1월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440684)
-#### [인도 보험사들이 최장 만기 채권 입찰에 참여, 40년 만기 채권과 동등한 수준으로 컷오프](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440675)
-#### [4/4분기 에너지 순 생산량 2.3밀리밀리톤](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440663)
-#### [12월에 케스코 매출 9.3% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440683)
-#### [재생-일본의 스냅 선거, 중국의 금리 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440660)
-#### [인도 그라심, 사친 사하이를 새로운 비랄라 오푸스 CEO로 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440682)
-#### [츠다코마 <6217.T>-2024/25 상위 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440666)
-#### [쓰다코마 <6217.T>-2024/25 그룹 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440659)
-#### [유럽, 1월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440651)
-#### [2026년 LNG 수출업체의 흥분과 걱정: Maguire](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440654)
-#### [분석-머스크가 그로크 딥페이크에 타격을 입혔지만 규제 싸움은 아직 끝나지 않았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440650)
-#### [폴란드가 2월에 금리를 인하할 수 있다고 MPC의 코테키가 블룸버그 뉴스에 전했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440658)
-#### [인포시스의 매출 전망 상향 조정 후 버즈 인디아의 IT 주식이 3주 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440649)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BSESN>
-#### [인디아의 스털링과 윌슨, 매출 증가로 2023년 7월 이후 가장 높은 장중 상승률 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440653)
-#### [그라심, 비를라 오퍼스 페인트의 최고경영자로 사친 사하이 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440657)
-#### [1월 16일 주목해야 할 요인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440652)
-#### [1월 16일 주목해야 할 요소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440655)
-#### [국방, 전자 제조업체 및 은행을 지원하는 BUZZ-India의 예산, Jefferies는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440656)
-#### [DMR 엔지니어링, 4,600만 루피 상당의 수주 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440642)
-#### [템보 글로벌 인더스트리, 쿠웨이트 국영 석유 회사 입찰에서 L1 입찰자 자격 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440648)
-#### [LTIMindtree, 세무 플랫폼 현대화를 위한 인사이트 2.0 프로젝트 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440641)
-#### [유니바스투 인도, 라센 앤 투브로로부터 작업 주문 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440644)
-#### [로얄 오키드 호텔, 우타라칸드 짐 코벳에 새 리조트 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440647)
-#### [일사 에너지 유닛, 본다다 엔지니어링과 MoU 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440640)
-#### [라르센 및 투브로 유닛, 페트로넷 LNG로부터 대규모 주문 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440643)
-#### [오토카르, 루마니아의 방위 회사 Romtehnica가 4x4 경장갑 전술 차량 계약과 관련된 두 건의 보상 청구서를 제출했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440646)
-#### [RBI, 인도의 새로운 50 년물 채권에 대한 컷오프 수익률을 7.45 %로 설정할 가능성이 높습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440639)
-#### [인도 HBL 엔지니어링, 수주 기대치 하향 조정 후 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440636)
-#### [옥수수, 풍부한 공급으로 7월 이후 주간 최대 하락폭 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440645)
-#### [분석-리오 틴토-글렌코어 합병, 중국을 이기기 위해 자산 매각이 필요할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440638)
-#### [남부 인도 은행, 분기별 이익 증가로 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440635)
-#### [개입 전에 얼마나 더 많은 엔화 조본이 있습니까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440634)
-#### [프랑스 원자력 발전소 정전 및 재가동 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440637)
-#### [버즈인디아의 와리 재생 가능 기술, 수익 증가로 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2440632)
