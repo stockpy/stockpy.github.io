@@ -1,10 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260116_2022 </title></head>
-<center>Vers : 20260116_2022 </center>
-<center>Vers : 20260117_0522 </center>
+<head><meta charset="utf-8"><title>Vers : 20260116_2041 </title></head>
+<center>Vers : 20260116_2041 </center>
+<center>Vers : 20260117_0541 </center>
 <br><br><br>
+#### [분석-머스크의 스타링크, 이란 단속에서 주목받는 보안 테스트 직면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441731)
+#### [캐나다 달러가 중국 무역 협상 이후 6주 만에 최저치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441733)
+#### [IAEA, 자포리지아 원전 백업 라인을 위해 러시아, 우크라이나 간 국지적 휴전 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441735)
+#### [CBOT 옥수수는 할인 구매, 주간 가파른 하락으로 상승세로 마감합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441730)
+#### [유럽 규제 당국, 항공사에 이란 영공 비행 금지 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441732)
+#### [브라질의 방코 마스터 조사는 최대 6 개월이 걸릴 수 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441734)
+#### [미국 천연가스 선물이 생산량 소폭 증가, 수요 전망 하향 조정으로 13주 최저치까지 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441736)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8058.T/total>
 #### [비즈니스 룩어헤드: 스위스에서 대법원까지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441727)
 #### [긴 주말을 앞두고 미국 증시-월가가 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441729)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
 #### [버즈 프리뷰: 3M, 화요일 발표되는 실적에서 높은 매출과 주당순이익을 기록할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441726)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
 #### [미국 항소법원, 구글 이메일 스팸 필터가 모금에 피해를 입혔다는 RNC 소송 기각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441725)
@@ -13,7 +21,7 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프 라인 지점 - 용량 제한](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441724)
 #### [솔브 에너지, 미국 기업공개 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441722)
 #### [시장-미국 증시 불안, 연준 의장 발언이 시장에 파문을 일으킵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441723)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
 #### [공정거래위원회, 빅테크 기업 인수를 면밀히 검토하고 있다 - 블룸버그 통신에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441714)
 #### [하셋이 연준 의장이 될 확률이 낮아지면서 외환-미국 달러 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441721)
 #### [트럼프, 마차도에게 평화상 수여 후 '아주 훌륭한 여성'이라고 칭하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441717)
@@ -65,11 +73,3 @@
 #### [스털링은 미국 데이터 호조, 트럼프 연준 의장 발언 이후 1.34 이상으로 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441675)
 #### [미국 시추업체들이 2주 연속 석유 및 가스 굴착 장비를 삭감했다고 Baker Hughes는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441676)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
-#### [브리티시항공, 예방 조치로 바레인행 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441680)
-#### [대부분 가벼운 수요, 양호한 공급으로 안정적 기반](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441674)
-#### [ClickHouse, 150억 달러 가치의 데이터베이스 분석 회사로 AI 물결 타다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441678)
-#### [젤 렌 스키, 방공 용품 부족, 러시아의 새로운 대규모 공격 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441670)
-#### [웨스턴, 동계 올림픽을 앞두고 스켈레톤 월드컵 종합 우승 3연패 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441669)
-#### [OpenAI, 미국에서 ChatGPT의 무료 및 Go 티어에서 광고 테스트 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441672)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [캐나다의 카니 총리, 중국과의 획기적인 무역 협상 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441668)
