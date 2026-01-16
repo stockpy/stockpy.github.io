@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260116_2243 </title></head>
-<center>Vers : 20260116_2243 </center>
-<center>Vers : 20260117_0743 </center>
+<head><meta charset="utf-8"><title>Vers : 20260116_2255 </title></head>
+<center>Vers : 20260116_2255 </center>
+<center>Vers : 20260117_0755 </center>
 <br><br><br>
 #### ['칭찬해, 내 손가락'…'5만전자'에도 끝까지 버텼더니 초대박 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005238417)
 #### [“아들, 삼전 아직 팔면 안되지?”…무서운 코스피, 상승률 세계 1위](https://m.stock.naver.com/news/ranknews/view/009/0005623134)

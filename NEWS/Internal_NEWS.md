@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260116_2243 </title></head>
-<center>Vers : 20260116_2243 </center>
-<center>Vers : 20260117_0743 </center>
+<head><meta charset="utf-8"><title>Vers : 20260116_2255 </title></head>
+<center>Vers : 20260116_2255 </center>
+<center>Vers : 20260117_0755 </center>
 <br><br><br>
+#### [사이트 센터, 파트너십 지분 매각 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441855)
+#### [클린 에너지 테크놀로지스 - 채권 매입 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441856)
+#### [Fed의 제퍼슨은 파월 의장을 '최고의 청렴성'을 갖춘 인물로 평가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441858)
+#### [PJM, AI 기반 전력 수요 급증에 대처하기 위한 계획 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441857)
 #### [SPDR 금 보유량 1.01%, 10.87톤 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441854)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLD/total>
 #### [베네수엘라 은행들이 3 억 달러의 오일 머니를 외환 시장에서 판매 할 것이라고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441851)
@@ -64,8 +68,3 @@
 #### [정책 노이즈가 커지는 가운데 투자자들은 미국 기업 실적 강세에 기대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441800)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBD.O/total>
 #### [신흥 시장에서 기회를 보는 투자 전략가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441795)
-#### [자동차 유리 수리 그룹 벨론, 240억 유로 IPO를 위한 초기 협상 개시- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441794)
-#### [미국 대법원, 아마린과 관련된 '스키니 라벨' 특허 소송 심리 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441799)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMRN.O/total>
-#### [이브 홀딩, 자회사 EVE UAM이 은행과 1억 5천만 달러 신용 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441792)
-#### [캘리포니아 AG, xAI에 딥페이크 이미지에 대한 중단 요청 서한 발송](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441793)
