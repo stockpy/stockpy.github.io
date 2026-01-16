@@ -1,7 +1,31 @@
-<head><meta charset="utf-8"><title>Vers : 20260116_2054 </title></head>
-<center>Vers : 20260116_2054 </center>
-<center>Vers : 20260117_0554 </center>
+<head><meta charset="utf-8"><title>Vers : 20260116_2118 </title></head>
+<center>Vers : 20260116_2118 </center>
+<center>Vers : 20260117_0618 </center>
 <br><br><br>
+#### [인공지능 음성 스타트업 일레븐랩스, 110억 달러 규모의 펀딩 유치 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441775)
+#### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441771)
+#### [캘리포니아 AG, xAI에 딕페이크 콘텐츠 제작 중단을 요구하는 서한 발송](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441772)
+#### [힝엄 저축은행 4분기 신용 손실 충당금 미화 55만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441774)
+#### [월스트리트 보합 마감, S&P 500은 한 주 동안 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441779)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
+#### [미국은 현재 전략 비축량을 채우기 위해 베네수엘라 석유 사용을 고려하지 않고 있다고 에너지 부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441773)
+#### [베네수엘라 채권단, 재무 고문 고용 검토 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441770)
+#### [브라질 디지털 대출업체 Inter & Co, 미국 은행 지점 설립을 위한 연준의 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441778)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTR.O/total>
+#### [ICE 카놀라 선물은 중국과의 깜짝 거래에도 불구하고 하락세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441781)
+#### [시리아의 SDF, 알레포 동쪽에서 철수하고 유프라테스 동쪽으로 재배치, SDF 수장은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441769)
+#### [2020년 연준에서는 팬데믹에 직면한 분열과 독립성이 우려되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441777)
+#### [캘리포니아 AG, xAI에 디페이크 콘텐츠 자랑 중단을 요구하는 서한 발송](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441780)
+#### [Google, 광케이블 자산 벤처를 위해 Stonepeak의 Radiate와 협의 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441768)
+#### [플로리다, 텍사스에 이어 ABA의 로스쿨 감독 역할 제한에 동참하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441776)
+#### [Google은 항소 기간 동안 데이터 공유 구제 조치를 일시 중지하려고 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441762)
+#### [미국 항소법원, Google 이메일 스팸 필터가 모금에 피해를 입혔다는 RNC 소송 기각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441764)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [로펌 커클랜드, 잭슨 워커, 판사의 비밀 로맨스에 대한 새로운 소송 직면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441766)
+#### [캘리포니아 AG, xAI에 불법 행위 즉각 중단을 요구하는 중지 요청 서한 발송 - 성명서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441761)
+#### [버뮤다의 새로운 사이버 ILS 운영을 이끌 비즐리스 그레이](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441763)
+#### [IMM: 연준의 정책 기조 변화에 따른 대규모 유로, 엔화 매도세로 USD 매도 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441765)
+#### [옥수수, 밀이 저가 사냥으로 상승하며 주간 큰 폭의 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441767)
 #### [투기꾼들이 원당과 코코아 선물 숏 포지션을 늘리고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441748)
 #### [미국 대법원, 바이엘의 라운드업 소송을 심리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441757)
 #### [1월 16일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441751)
@@ -48,27 +72,3 @@
 #### [솔브 에너지, 미국 기업공개 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441722)
 #### [시장-미국 증시 불안, 연준 의장 발언이 시장에 파문을 일으킵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441723)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
-#### [공정거래위원회, 빅테크 기업 인수를 면밀히 검토하고 있다 - 블룸버그 통신에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441714)
-#### [하셋이 연준 의장이 될 확률이 낮아지면서 외환-미국 달러 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441721)
-#### [트럼프, 마차도에게 평화상 수여 후 '아주 훌륭한 여성'이라고 칭하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441717)
-#### [미국 대법원, 바이엘의 라운드 업 사건 억제 입찰을 심리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441713)
-#### [미국 요약: 달러, 주말 전 수익률 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441720)
-#### [미국 북서부 강 유량이 97%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441716)
-#### [미국 대법원, 아마린과 관련된 '스키니 라벨' 특허 분쟁 심리 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441719)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMRN.O/total>
-#### [베네수엘라 은행들은 3 억 달러의 오일 머니를 외환 시장에서 판매 할 것이라고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441712)
-#### [올림픽-웨스턴, 올림픽을 앞두고 스켈레톤 월드컵 종합 우승 3연패 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441715)
-#### [FAA, 중남미 노선의 항공사에 잠재적 군사 행동에 대한 경고 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441718)
-#### [백악관, 미국 최대 전력망에 대한 긴급 전력 경매 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441711)
-#### [미국 법원, 버지니아 해안 해상 풍력 프로젝트에 작업 재개 가처분 허가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441708)
-#### [노스 윈드, 미네소타의 첨단 항공 우주 테스트 시설에 11억 달러 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441706)
-#### [다음 주 및 1월 20일 화요일에 주목해야 할 사항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441710)
-#### [독점-쉘, 미쓰비시, LNG 캐나다 지분 매각 옵션 모색, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441707)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8058.T/total>
-#### [트루이스트 증권, 보스턴 사이언티픽의 145억 달러 인수로 페넘브라의 신용등급 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441705)
-#### [플라자 센터 NV, 2026년 2월 또는 3월 초에 재판소 지정 판결 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441709)
-#### [데니스 유닛, 3억 달러 규모의 기간 대출과 신용 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441704)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DENN.O/total>
-#### [YCS 그룹 홀딩스, 클래스 A 보통주 500만주의 미국 기업공개 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441700)
-#### [EnBW, 모나 해상 풍력 발전소 지분을 파트너인 JNbp에 매각하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441702)
-#### [옥수수, 밀이 저가 사냥으로 상승하며 주간 큰 폭의 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441703)
