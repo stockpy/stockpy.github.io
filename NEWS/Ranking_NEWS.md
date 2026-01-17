@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_1041 </title></head>
-<center>Vers : 20260117_1041 </center>
-<center>Vers : 20260117_1941 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_1053 </title></head>
+<center>Vers : 20260117_1053 </center>
+<center>Vers : 20260117_1953 </center>
 <br><br><br>
 #### ["삼성전자 팔고 갈아탈까 했는데"…다시 봐야 하는 이유 [한경우의 케이스스터디]](https://m.stock.naver.com/news/ranknews/view/015/0005238492)
 #### ['5만원→15만원' 무섭게 오르더니…부자들도 '이것' 가장 많이 담았다](https://m.stock.naver.com/news/ranknews/view/011/0004579897)
