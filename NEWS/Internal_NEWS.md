@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_0432 </title></head>
-<center>Vers : 20260117_0432 </center>
-<center>Vers : 20260117_1332 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0455 </title></head>
+<center>Vers : 20260117_0455 </center>
+<center>Vers : 20260117_1355 </center>
 <br><br><br>
 #### [유엔 생물다양성 조약 발효, 2030년까지 해양의 30% 보호 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441915)
 #### [미국 판사, 미네소타 시위대에 대한 이민국 요원의 행동 제한 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441913)
@@ -69,9 +69,9 @@
 #### [사이트 센터, 파트너십 지분 매각 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441855)
 #### [클린 에너지 테크놀로지스 - 채권 매입 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441856)
 #### [Fed의 제퍼슨은 파월 의장을 '최고의 청렴성'을 갖춘 인물로 평가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441858)
-<head><meta charset="utf-8"><title>Vers : 20260117_0432 </title></head>
-<center>Vers : 20260117_0432 </center>
-<center>Vers : 20260117_1332 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0455 </title></head>
+<center>Vers : 20260117_0455 </center>
+<center>Vers : 20260117_1355 </center>
 <br><br><br>
 #### [PJM, AI 기반 전력 수요 급증에 대처하기 위한 계획 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441857)
 #### [SPDR 금 보유량 1.01%, 10.87톤 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441854)
@@ -140,9 +140,9 @@
 #### [미국 대법원, 아마린과 관련된 '스키니 라벨' 특허 소송 심리 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441799)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMRN.O/total>
 #### [이브 홀딩, 자회사 EVE UAM이 은행과 1억 5천만 달러 신용 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441792)
-<head><meta charset="utf-8"><title>Vers : 20260117_0432 </title></head>
-<center>Vers : 20260117_0432 </center>
-<center>Vers : 20260117_1332 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0455 </title></head>
+<center>Vers : 20260117_0455 </center>
+<center>Vers : 20260117_1355 </center>
 <br><br><br>
 #### [캘리포니아 AG, xAI에 딥페이크 이미지에 대한 중단 요청 서한 발송](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441793)
 #### [Avista Corp - 워싱턴 유틸리티 위원회에 4년간의 요금 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441798)
@@ -209,9 +209,9 @@
 #### [이란에 대한 미국의 제한된 공격으로 지정 학적 석유 프리미엄이 $ 3.4 / bbl을 빠르게 지울 수 있다고 Barclays는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441744)
 #### [미국산 오일 및 지방 - 1월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441737)
 #### [분석-머스크의 스타링크, 이란 단속에서 주목받는 보안 테스트 직면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441731)
-<head><meta charset="utf-8"><title>Vers : 20260117_0432 </title></head>
-<center>Vers : 20260117_0432 </center>
-<center>Vers : 20260117_1332 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0455 </title></head>
+<center>Vers : 20260117_0455 </center>
+<center>Vers : 20260117_1355 </center>
 <br><br><br>
 #### [캐나다 달러가 중국 무역 협상 이후 6주 만에 최저치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441733)
 #### [IAEA, 자포리지아 원전 백업 라인을 위해 러시아, 우크라이나 간 국지적 휴전 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441735)
@@ -284,9 +284,9 @@
 #### [미국 시추업체들이 2주 연속 석유 및 가스 굴착 장비를 삭감했다고 Baker Hughes는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441676)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
 #### [브리티시항공, 예방 조치로 바레인행 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441680)
-<head><meta charset="utf-8"><title>Vers : 20260117_0432 </title></head>
-<center>Vers : 20260117_0432 </center>
-<center>Vers : 20260117_1332 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0455 </title></head>
+<center>Vers : 20260117_0455 </center>
+<center>Vers : 20260117_1355 </center>
 <br><br><br>
 #### [대부분 가벼운 수요, 양호한 공급으로 안정적 기반](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441674)
 #### [ClickHouse, 150억 달러 가치의 데이터베이스 분석 회사로 AI 물결 타다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441678)
@@ -354,9 +354,9 @@
 #### [강력한 신용 품질에 힘입어 4분기 수익이 증가한 Chino Commercial Bancorp](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441614)
 #### [AI는 새로운 위험을 야기하기보다 기존 위험을 증폭시킨다고 마쉬의 사르탱은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441616)
 #### [잘란도, 첫 미국 고객사 계약 체결 앞두고 AI 트래픽 증가 전망 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441607)
-<head><meta charset="utf-8"><title>Vers : 20260117_0432 </title></head>
-<center>Vers : 20260117_0432 </center>
-<center>Vers : 20260117_1332 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0455 </title></head>
+<center>Vers : 20260117_0455 </center>
+<center>Vers : 20260117_1355 </center>
 <br><br><br>
 #### [디젤 수익 마진 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441613)
 #### [독일 웨스트윙의 4분기 예비 총 상품 판매량 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441606)
@@ -424,9 +424,9 @@
 #### [폴로니아 금리가 0.06% 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441558)
 #### [오리리나 프로퍼티 Aeeap, 켄고 쿠마의 마리나 레지던스 건설 공사 수주 확정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441549)
 #### [기상 악화와 위험 증가로 1월 인도행 우랄 운임 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441548)
-<head><meta charset="utf-8"><title>Vers : 20260117_0432 </title></head>
-<center>Vers : 20260117_0432 </center>
-<center>Vers : 20260117_1332 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0455 </title></head>
+<center>Vers : 20260117_0455 </center>
+<center>Vers : 20260117_1355 </center>
 <br><br><br>
 #### [트럼프의 하셋 지침에 따라 4주 최저치로 하락한 BUZZ-GBP/USD](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441554)
 #### [부랑자와 이주민을 고문하고 이미지를 공유한 혐의로 기소된 리스본 경찰관 2 명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441557)

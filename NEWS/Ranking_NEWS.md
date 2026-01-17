@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_0432 </title></head>
-<center>Vers : 20260117_0432 </center>
-<center>Vers : 20260117_1332 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0455 </title></head>
+<center>Vers : 20260117_0455 </center>
+<center>Vers : 20260117_1355 </center>
 <br><br><br>
 #### [반토막 났던 주식, 한 달 만에 50% 뛰더니…개미들 '두근두근' [윤현주의 主食이 주식]](https://m.stock.naver.com/news/ranknews/view/015/0005238448)
 #### ['15만전자'가 눈앞에…삼성전자, 외국인 돌아오자 다시 랠리[종목현미경]](https://m.stock.naver.com/news/ranknews/view/421/0008719323)
