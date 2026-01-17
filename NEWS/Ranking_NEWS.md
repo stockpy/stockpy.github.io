@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_2022 </title></head>
-<center>Vers : 20260117_2022 </center>
-<center>Vers : 20260118_0522 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_2041 </title></head>
+<center>Vers : 20260117_2041 </center>
+<center>Vers : 20260118_0541 </center>
 <br><br><br>
 #### ["삼성전자 팔고 갈아탈까 했는데"…다시 봐야 하는 이유 [한경우의 케이스스터디]](https://m.stock.naver.com/news/ranknews/view/015/0005238492)
 #### ["'오천피'까지 못 간다니까"…쪽박 차면서 다시 '곱버스' 올라탄 개미들](https://m.stock.naver.com/news/ranknews/view/011/0004579917)

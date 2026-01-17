@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_2022 </title></head>
-<center>Vers : 20260117_2022 </center>
-<center>Vers : 20260118_0522 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_2041 </title></head>
+<center>Vers : 20260117_2041 </center>
+<center>Vers : 20260118_0541 </center>
 <br><br><br>
+#### [밴스, 밀라노 코르티나 동계 올림픽에 미국 대표단 이끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442011)
+#### [미국, 시리아에서 12 월 공격과 관련된 알 카에다 계열사 지도자 사살, Centcom은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442012)
+#### [트럼프는 JP모건의 다이먼에게 연준 의장직을 제안한 적이 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442010)
 #### [트럼프 행정부, 자동차 가격 인하, 전기차 강조 완화 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442009)
 #### [영국 스타머, 미국의 관세 위협에 '완전히 틀렸다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442008)
 #### [트럼프가 그린란드에 대한 관세 위협 후 EU는 하락세를 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442007)
@@ -61,6 +64,3 @@
 #### [우크라이나의 젤렌스키, 전기, 전력 장비 수입 가속화 주문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441953)
 #### [바이두의 아폴로 고와 K2의 오토고, 야스 섬에서 완전 자율주행 차량 호출 서비스 개시, 아부다비 전역으로 단계적 확대 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441954)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9888.HK/total>
-#### [분석-미국 CEO들이 트럼프에 대한 반발 ... 약하게](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441952)
-#### [내부 분열에 직면한 베네수엘라의 새 지도자, 권력 장악을 강화하려는 움직임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441951)
-#### [미국 회담은 급습 수개월 전부터 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441950)
