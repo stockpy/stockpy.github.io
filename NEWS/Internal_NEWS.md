@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_1623 </title></head>
-<center>Vers : 20260117_1623 </center>
-<center>Vers : 20260118_0123 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_1645 </title></head>
+<center>Vers : 20260117_1645 </center>
+<center>Vers : 20260118_0145 </center>
 <br><br><br>
+#### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 맹세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441983)
+#### [가잔은 미국 이름으로 경계?'트럼프의 계획에 따른 평화의위원회'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441984)
+#### [네타냐후 사무실, 가자 지구 통치위원회에 대한 미국 발표가 이스라엘 정책에 위배된다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441982)
 #### [인도, 12월 항공편 결항으로 IndiGo에 사상 최대인 245만 달러 벌금 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441981)
 #### [덴마크와 그린란드에서 트럼프 합병 위협에 반대하는 시위대의 집회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441980)
 #### [미쓰이 후도산, 2030 회계 연도까지 미국 남부의 임대 주택 개발에 28 억 4 천만 달러 투자 - Nikkei](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441978)
@@ -67,7 +70,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8316.T/total>
 #### [EU, 주요 인프라에서 중국 공급업체의 단계적 퇴출을 강제하려는 움직임, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441925)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000063.SZ/total>
-#### [머스크, '부당 이득'으로 OpenAI, Microsoft에 최대 1,340억 달러 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441924)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [브루스 파워 온타리오 830MW 브루스 B 8 원자력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441923)
-#### [몬조, 퇴임하는 TS 아닐 CEO에게 투자자 반발 후 역할 확대, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441922)
