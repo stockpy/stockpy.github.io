@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_1645 </title></head>
-<center>Vers : 20260117_1645 </center>
-<center>Vers : 20260118_0145 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_1656 </title></head>
+<center>Vers : 20260117_1656 </center>
+<center>Vers : 20260118_0156 </center>
 <br><br><br>
+#### [트럼프는 JP 모건의 다이먼에게 연준 의장직을 제안한 적이 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441985)
 #### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 맹세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441983)
 #### [가잔은 미국 이름으로 경계?'트럼프의 계획에 따른 평화의위원회'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441984)
 #### [네타냐후 사무실, 가자 지구 통치위원회에 대한 미국 발표가 이스라엘 정책에 위배된다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441982)
@@ -68,5 +69,3 @@
 #### [인도 대출 기관 RBL Bank, 예상보다 낮은 3분기 수익 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441927)
 #### [인도 예스뱅크, 충당금 감소로 3분기 이익 급증 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441926)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8316.T/total>
-#### [EU, 주요 인프라에서 중국 공급업체의 단계적 퇴출을 강제하려는 움직임, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441925)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000063.SZ/total>
