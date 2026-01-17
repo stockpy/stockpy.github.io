@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_0631 </title></head>
-<center>Vers : 20260117_0631 </center>
-<center>Vers : 20260117_1531 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0719 </title></head>
+<center>Vers : 20260117_0719 </center>
+<center>Vers : 20260117_1619 </center>
 <br><br><br>
+#### [브루스 파워 온타리오 830MW 브루스 B 8 원자력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441923)
 #### [몬조, 퇴임하는 TS 아닐 CEO에게 투자자 반발 후 역할 확대, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441922)
 #### [몬조, 투자자 반발 후 TS Anil에게 역할 확대 -FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441921)
 #### [미국 판사, 미네소타 시위대에 대한 이민국 요원들의 전술에 제지 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441920)
@@ -69,11 +70,11 @@
 #### [증시 주간 하락세, 하셋의 연준행에 대한 불확실성으로 달러화 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441864)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
 #### [법무부, 이민 요원 방해 음모 혐의에 대해 미네소타 관리 조사, CBS 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441863)
-#### [화학 제조업체 Trin서, 수요 감소로 부채 협상 준비 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441865)
-<head><meta charset="utf-8"><title>Vers : 20260117_0631 </title></head>
-<center>Vers : 20260117_0631 </center>
-<center>Vers : 20260117_1531 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0719 </title></head>
+<center>Vers : 20260117_0719 </center>
+<center>Vers : 20260117_1619 </center>
 <br><br><br>
+#### [화학 제조업체 Trin서, 수요 감소로 부채 협상 준비 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441865)
 #### [프리포트-맥모란 - 유닛, 엠샤로부터 임박한 위험 명령을 받다 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441859)
 #### [무디스, 덴마크의 Aaa 등급을 긍정적으로 평가하고 안정적 전망 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441861)
 #### [대시 캠 제조업체 Motive, IPO 마케팅 지연-정보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441862)
@@ -138,11 +139,11 @@
 #### [주식의 건전성을 측정하기 위해 부채 시장을 지켜보라고 전략가는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441807)
 #### [벨론, 278억 달러 IPO를 위한 초기 협상 중, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441806)
 #### [로펌 커클랜드, 잭슨 워커가 판사의 비밀 로맨스를 둘러싼 새로운 소송에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441803)
-#### [아고맙 테라퓨틱스, 미국 IPO 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441805)
-<head><meta charset="utf-8"><title>Vers : 20260117_0631 </title></head>
-<center>Vers : 20260117_0631 </center>
-<center>Vers : 20260117_1531 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0719 </title></head>
+<center>Vers : 20260117_0719 </center>
+<center>Vers : 20260117_1619 </center>
 <br><br><br>
+#### [아고맙 테라퓨틱스, 미국 IPO 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441805)
 #### [S&P 500은 한 주 동안 하락했지만 소형주는 계속 지배합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441802)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.SOX>
 #### [뉴욕 스페이스 시스템, 미국 IPO에서 5억 4,400만 달러 모금 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441801)
@@ -209,11 +210,11 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441743)
 #### [연준의 제퍼슨은 현재 정책 입장이 '좋은 위치에 있다'고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441746)
 #### [투기꾼들이 미국 원유 순매수 전환-CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441740)
-#### [투기꾼들의 옥수수 순매도 포지션 증가 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441742)
-<head><meta charset="utf-8"><title>Vers : 20260117_0631 </title></head>
-<center>Vers : 20260117_0631 </center>
-<center>Vers : 20260117_1531 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0719 </title></head>
+<center>Vers : 20260117_0719 </center>
+<center>Vers : 20260117_1619 </center>
 <br><br><br>
+#### [투기꾼들의 옥수수 순매도 포지션 증가 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441742)
 #### [펀드 매니저들은 최근 한 주 동안 S&P 500 선물 순매수 포지션을 줄였습니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441739)
 #### [CBOT 밀은 글로벌 수출 낙관론, 숏 커버링으로 상승 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441745)
 #### [상품 가격 하락으로 중남미 자산, 달러화 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441741)
@@ -284,11 +285,11 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WWD.O/total>
 #### [뉴욕 연준, 스탠딩 레포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441687)
 #### [러시아 주도 폭발물 소포 음모 용의자들이 종신형을 선고 받았다고 폴란드가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441682)
-#### [머스크와 라이언에어 CEO, 비행기 내 스타링크 와이파이 비용 문제로 충돌?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441683)
-<head><meta charset="utf-8"><title>Vers : 20260117_0631 </title></head>
-<center>Vers : 20260117_0631 </center>
-<center>Vers : 20260117_1531 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0719 </title></head>
+<center>Vers : 20260117_0719 </center>
+<center>Vers : 20260117_1619 </center>
 <br><br><br>
+#### [머스크와 라이언에어 CEO, 비행기 내 스타링크 와이파이 비용 문제로 충돌?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441683)
 #### [젠맙, 엡코리타맙 3상 임상시험이 통계적 유의성에 도달하지 못했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441684)
 #### [젠맙의 혈액암 치료제, 후기 임상시험에서 주요 목표 실패](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441679)
 #### [국제 석유 회사들은 베네수엘라에서 석유 수출을 통제 할 수 있도록 빠른 개혁을 추진합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441677)
@@ -354,11 +355,11 @@
 #### [드론 공격으로 흑해 CPC 원유 가격 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441628)
 #### [초기 웨고비 알약 처방 데이터 '고무적' 이후 노보 노디스크의 BUZZ-US 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441631)
 #### [그린란드는 '자산이 아닌 동맹'으로 간주되어야 한다고 머코프스키가 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441622)
-#### [베네수엘라, 이민자들을 태운 미국 추방 비행기를 맞이하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441620)
-<head><meta charset="utf-8"><title>Vers : 20260117_0631 </title></head>
-<center>Vers : 20260117_0631 </center>
-<center>Vers : 20260117_1531 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0719 </title></head>
+<center>Vers : 20260117_0719 </center>
+<center>Vers : 20260117_1619 </center>
 <br><br><br>
+#### [베네수엘라, 이민자들을 태운 미국 추방 비행기를 맞이하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441620)
 #### [노벨 평화상은 수상자와 떼려야 뗄 수 없는 상, 트럼프가 마차도로부터 메달을 받자 수상 단체는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441625)
 #### [FTSE 100은 하루 동안 거의 변동이 없었으며, 주간 상승세를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441621)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
@@ -425,11 +426,11 @@
 #### [젠코 쉬핑, 다이애나 쉬핑의 이사회 교체 이사 추천 계획에 대한 대응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441564)
 #### [불안한 한 주를 보낸 후 혼조세, 금은 완화, 달러는 잠시 멈춤](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441566)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
-#### [러시아 인플레이션, 2025년 5.59%로 둔화, 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441560)
-<head><meta charset="utf-8"><title>Vers : 20260117_0631 </title></head>
-<center>Vers : 20260117_0631 </center>
-<center>Vers : 20260117_1531 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0719 </title></head>
+<center>Vers : 20260117_0719 </center>
+<center>Vers : 20260117_1619 </center>
 <br><br><br>
+#### [러시아 인플레이션, 2025년 5.59%로 둔화, 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441560)
 #### [개인 투자자 강세 2024년 11월 이후 최고치 - AAII](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441562)
 #### [사우스포트 살인범을 찬양한 영국 10대, 알카에다 매뉴얼 소지 혐의로 수감됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441559)
 #### [금속의 랠리가 숨을 고르면서 은 채굴자들이 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441563)
@@ -506,4 +507,3 @@
 #### [원자재 가격 하락에 따른 라틴아메리카 자산 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441496)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
 #### [중국, 캐나다에서 카놀라 수입에 대한 조치 조정, 상무부는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441500)
-#### [블루아울, 현금화를 원하는 펀드 후원자들의 지분을 인수하다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441510)
