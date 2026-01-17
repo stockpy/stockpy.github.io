@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_1656 </title></head>
-<center>Vers : 20260117_1656 </center>
-<center>Vers : 20260118_0156 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_1721 </title></head>
+<center>Vers : 20260117_1721 </center>
+<center>Vers : 20260118_0221 </center>
 <br><br><br>
+#### [EU와 메르코수르, 25년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441989)
+#### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441987)
+#### [미국, 시리아 군대에 시리아 북부 알레포와 타브 카 사이의 공세 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441988)
+#### [올림픽-모노밥 챔피언 험프리스, 놀테가 월드컵 종합 우승을 차지하며 컨디션을 회복하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441986)
 #### [트럼프는 JP 모건의 다이먼에게 연준 의장직을 제안한 적이 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441985)
 #### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 맹세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441983)
 #### [가잔은 미국 이름으로 경계?'트럼프의 계획에 따른 평화의위원회'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441984)
@@ -63,9 +67,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
 #### [마이크론, 통뤄 사이트 18억 달러에 인수 의향서 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441931)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
-#### [마루티 스즈키, 인도 신규 공장에 39억 달러 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441929)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7269.T/total>
-#### [대만, 중국 드론이 남중국해 섬 상공에서 '도발적인' 비행을했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441928)
-#### [인도 대출 기관 RBL Bank, 예상보다 낮은 3분기 수익 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441927)
-#### [인도 예스뱅크, 충당금 감소로 3분기 이익 급증 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441926)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8316.T/total>
