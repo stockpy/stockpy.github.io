@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_2113 </title></head>
-<center>Vers : 20260117_2113 </center>
-<center>Vers : 20260118_0613 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_2220 </title></head>
+<center>Vers : 20260117_2220 </center>
+<center>Vers : 20260118_0720 </center>
 <br><br><br>
+#### [EU, 트럼프가 그린란드에 대한 관세 위협 후 하락세 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442020)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442021)
+#### [임신 중 파라세타몰/타이레놀은 안전하다, 트럼프 자폐증 주장으로 촉발된 유럽 연구 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442019)
+#### [중국, 러시아는 트럼프의 그린란드 관세 위협으로 이익을 얻는다, EU의 Kallas는 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442018)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442017)
 #### [미국, 시리아에서 12월 공격에 연루된 알카에다 연계 조직 지도자 사살, 센트콤 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442016)
 #### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442014)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442015)
@@ -58,8 +63,3 @@
 #### [올림픽 알파인 스키 선수 블호바, 부상 후 동계 올림픽 복귀를 노리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441964)
 #### [트럼프 행정부, 반발 후 ATF를 DEA로 접으려는 계획 철회, CNN 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441961)
 #### [파나마의 베네수엘라 주민들이 변화를 찾아 집으로 항해하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441962)
-#### [알제리, 밀 수입 입찰 발행, 상인들은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441963)
-#### [세일링 신인 아르테미스가 2026 퍼스 세일GP 개막전에서 선두로 치고 올라옵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441959)
-#### [이집트, 가자 평화위원회에 합류하기 위해 트럼프의 시시 초청 검토, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441957)
-#### [니콜 델라고, 타르비지오 다운힐에서 우승하며 본이 또 한 번 시상대에 올랐습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441960)
-#### [트럼프, 터키의 에르도 간을 가자 평화의 이사회에 초대, 에르도 간 사무실은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441958)
