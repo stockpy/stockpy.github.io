@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_0323 </title></head>
-<center>Vers : 20260117_0323 </center>
-<center>Vers : 20260117_1223 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0432 </title></head>
+<center>Vers : 20260117_0432 </center>
+<center>Vers : 20260117_1332 </center>
 <br><br><br>
+#### [유엔 생물다양성 조약 발효, 2030년까지 해양의 30% 보호 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441915)
+#### [미국 판사, 미네소타 시위대에 대한 이민국 요원의 행동 제한 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441913)
+#### [일본 총리 타카이치, 선거 공약에서 식품에 대한 판매세 유예 고려, 마이니치 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441914)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441912)
 #### [뉴에라 에너지 & 디지털, 주요 디지털 인프라와 협력해 텍사스에 최대 1기가와트 이상의 하이퍼스케일 데이터센터 캠퍼스 공동 개발한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441911)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NUAI.O/total>
 #### [찰리 커크 사건 판사, 검찰팀 기각 요청 심리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441909)
@@ -65,15 +69,15 @@
 #### [사이트 센터, 파트너십 지분 매각 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441855)
 #### [클린 에너지 테크놀로지스 - 채권 매입 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441856)
 #### [Fed의 제퍼슨은 파월 의장을 '최고의 청렴성'을 갖춘 인물로 평가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441858)
+<head><meta charset="utf-8"><title>Vers : 20260117_0432 </title></head>
+<center>Vers : 20260117_0432 </center>
+<center>Vers : 20260117_1332 </center>
+<br><br><br>
 #### [PJM, AI 기반 전력 수요 급증에 대처하기 위한 계획 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441857)
 #### [SPDR 금 보유량 1.01%, 10.87톤 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441854)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLD/total>
 #### [베네수엘라 은행들이 3 억 달러의 오일 머니를 외환 시장에서 판매 할 것이라고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441851)
 #### [백악관, 미국 최대 전력망에 대한 긴급 전력 경매 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441849)
-<head><meta charset="utf-8"><title>Vers : 20260117_0323 </title></head>
-<center>Vers : 20260117_0323 </center>
-<center>Vers : 20260117_1223 </center>
-<br><br><br>
 #### [독점-미국, 셰브론의 베네수엘라 면허 확장을 위해 빠르게 움직이고 있다고 라이트 에너지 장관은 로이터에 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441850)
 #### [월가는 긴 주말을 앞두고 거의 변동 없이 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441848)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
@@ -136,14 +140,14 @@
 #### [미국 대법원, 아마린과 관련된 '스키니 라벨' 특허 소송 심리 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441799)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMRN.O/total>
 #### [이브 홀딩, 자회사 EVE UAM이 은행과 1억 5천만 달러 신용 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441792)
+<head><meta charset="utf-8"><title>Vers : 20260117_0432 </title></head>
+<center>Vers : 20260117_0432 </center>
+<center>Vers : 20260117_1332 </center>
+<br><br><br>
 #### [캘리포니아 AG, xAI에 딥페이크 이미지에 대한 중단 요청 서한 발송](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441793)
 #### [Avista Corp - 워싱턴 유틸리티 위원회에 4년간의 요금 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441798)
 #### [뉴저지 아메리칸 워터, 뉴저지 공공 유틸리티 위원회에 14억 달러 투자 요청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441791)
 #### [Aes Corp - Maritza 발전소 Ppa 2026년 5월 만료 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441796)
-<head><meta charset="utf-8"><title>Vers : 20260117_0323 </title></head>
-<center>Vers : 20260117_0323 </center>
-<center>Vers : 20260117_1223 </center>
-<br><br><br>
 #### [콜롬비아, 17억 달러 규모의 안티드론 방패 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441797)
 #### [버지니아 민주당, 하원 의석 4석을 확보 할 수있는 새로운지도를위한 길을 닦다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441790)
 #### [플린트 힐스 리소스 코퍼스 크리스티 웨스트, 텍사스 정유 공장 누출 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441785)
@@ -205,14 +209,14 @@
 #### [이란에 대한 미국의 제한된 공격으로 지정 학적 석유 프리미엄이 $ 3.4 / bbl을 빠르게 지울 수 있다고 Barclays는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441744)
 #### [미국산 오일 및 지방 - 1월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441737)
 #### [분석-머스크의 스타링크, 이란 단속에서 주목받는 보안 테스트 직면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441731)
+<head><meta charset="utf-8"><title>Vers : 20260117_0432 </title></head>
+<center>Vers : 20260117_0432 </center>
+<center>Vers : 20260117_1332 </center>
+<br><br><br>
 #### [캐나다 달러가 중국 무역 협상 이후 6주 만에 최저치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441733)
 #### [IAEA, 자포리지아 원전 백업 라인을 위해 러시아, 우크라이나 간 국지적 휴전 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441735)
 #### [CBOT 옥수수는 할인 구매, 주간 가파른 하락으로 상승세로 마감합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441730)
 #### [유럽 규제 당국, 항공사에 이란 영공 비행 금지 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441732)
-<head><meta charset="utf-8"><title>Vers : 20260117_0323 </title></head>
-<center>Vers : 20260117_0323 </center>
-<center>Vers : 20260117_1223 </center>
-<br><br><br>
 #### [브라질의 방코 마스터 조사는 최대 6 개월이 걸릴 수 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441734)
 #### [미국 천연가스 선물이 생산량 소폭 증가, 수요 전망 하향 조정으로 13주 최저치까지 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441736)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8058.T/total>
@@ -280,14 +284,14 @@
 #### [미국 시추업체들이 2주 연속 석유 및 가스 굴착 장비를 삭감했다고 Baker Hughes는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441676)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
 #### [브리티시항공, 예방 조치로 바레인행 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441680)
+<head><meta charset="utf-8"><title>Vers : 20260117_0432 </title></head>
+<center>Vers : 20260117_0432 </center>
+<center>Vers : 20260117_1332 </center>
+<br><br><br>
 #### [대부분 가벼운 수요, 양호한 공급으로 안정적 기반](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441674)
 #### [ClickHouse, 150억 달러 가치의 데이터베이스 분석 회사로 AI 물결 타다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441678)
 #### [젤 렌 스키, 방공 용품 부족, 러시아의 새로운 대규모 공격 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441670)
 #### [웨스턴, 동계 올림픽을 앞두고 스켈레톤 월드컵 종합 우승 3연패 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441669)
-<head><meta charset="utf-8"><title>Vers : 20260117_0323 </title></head>
-<center>Vers : 20260117_0323 </center>
-<center>Vers : 20260117_1223 </center>
-<br><br><br>
 #### [OpenAI, 미국에서 ChatGPT의 무료 및 Go 티어에서 광고 테스트 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441672)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
 #### [캐나다의 카니 총리, 중국과의 획기적인 무역 협상 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441668)
@@ -350,14 +354,14 @@
 #### [강력한 신용 품질에 힘입어 4분기 수익이 증가한 Chino Commercial Bancorp](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441614)
 #### [AI는 새로운 위험을 야기하기보다 기존 위험을 증폭시킨다고 마쉬의 사르탱은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441616)
 #### [잘란도, 첫 미국 고객사 계약 체결 앞두고 AI 트래픽 증가 전망 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441607)
+<head><meta charset="utf-8"><title>Vers : 20260117_0432 </title></head>
+<center>Vers : 20260117_0432 </center>
+<center>Vers : 20260117_1332 </center>
+<br><br><br>
 #### [디젤 수익 마진 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441613)
 #### [독일 웨스트윙의 4분기 예비 총 상품 판매량 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441606)
 #### [아르헨티나, 월간 재정 적자에도 불구하고 두 번째 연간 재정 흑자 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441612)
 #### [머큐리아, 베팅이 잘되고 세금을 거의 내지 않으면서 13억 달러 수익 달성 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441610)
-<head><meta charset="utf-8"><title>Vers : 20260117_0323 </title></head>
-<center>Vers : 20260117_0323 </center>
-<center>Vers : 20260117_1223 </center>
-<br><br><br>
 #### [브리프올, 헤타페 이적 앞두고 마르틴 사트리아노의 구매 옵션 발동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441618)
 #### [웨스트윙 그룹, 2025년 4,200만~4,500만 유로의 EBITDA 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441611)
 #### [중국 상업 은행 4분기 순이익 미화 141만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441609)
@@ -420,14 +424,14 @@
 #### [폴로니아 금리가 0.06% 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441558)
 #### [오리리나 프로퍼티 Aeeap, 켄고 쿠마의 마리나 레지던스 건설 공사 수주 확정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441549)
 #### [기상 악화와 위험 증가로 1월 인도행 우랄 운임 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441548)
+<head><meta charset="utf-8"><title>Vers : 20260117_0432 </title></head>
+<center>Vers : 20260117_0432 </center>
+<center>Vers : 20260117_1332 </center>
+<br><br><br>
 #### [트럼프의 하셋 지침에 따라 4주 최저치로 하락한 BUZZ-GBP/USD](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441554)
 #### [부랑자와 이주민을 고문하고 이미지를 공유한 혐의로 기소된 리스본 경찰관 2 명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441557)
 #### [미국 수익률 상승, 투자자들의 경제력 측정으로 주간 상승세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441553)
 #### [달러 랠리, 역할이 뒤바뀌면서 금값 하락 견인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441556)
-<head><meta charset="utf-8"><title>Vers : 20260117_0323 </title></head>
-<center>Vers : 20260117_0323 </center>
-<center>Vers : 20260117_1223 </center>
-<br><br><br>
 #### [이란의 마지막 샤의 아들, 시위대를 돕기 위해 더 많은 압력을 호소하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441551)
 #### [금값이 사상 최고치 이후 하락하면서 금 채굴자 수 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441552)
 #### [미국, 캐나다의 중국산 전기차 수입 허용 결정 '문제가있다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441555)
@@ -504,7 +508,3 @@
 #### [키예프는 필요한 전기의 절반 만 가지고 있다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441508)
 #### [미국 천연 가스 선물, 생산량 소폭 증가, 수요 전망 감소로 13 주 최저치로 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441505)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8058.T/total>
-#### [영국, 미국 정책 데이터, 스털링이 200-DMA를 유지함에 따라 지침이 중요합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441494)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441486)
-#### [일본이 개입 가능성 경고 후 외환-엔 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441482)
-#### [우크라이나 국민의 절반 이상이 안보에 대한 대가로 철수에 반대한다고 여론 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441493)
