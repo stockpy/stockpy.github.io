@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_1852 </title></head>
-<center>Vers : 20260117_1852 </center>
-<center>Vers : 20260118_0352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_1910 </title></head>
+<center>Vers : 20260117_1910 </center>
+<center>Vers : 20260118_0410 </center>
 <br><br><br>
+#### [ICE가 지역을 경계하는 가운데 미니애폴리스에서 결투 집회가 예정되어 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442001)
+#### [마크롱, 그린란드에 대한 트럼프 관세 위협은 용납 할 수 없다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442002)
+#### [미국 관리, EU는 그린란드 관세 문제를 미국 무역 협상에서 분리하는 것을 고려해야한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442000)
 #### [호루라기와 무전기: 미니애폴리스, 이민세관단속국(ICE) 체포에도 학교 경비를 유지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441999)
 #### [이라크, 미군 철수 후 공군 기지 완전 통제, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441998)
 #### [유럽 연합, 트럼프의 그린란드 관세에 대한 대응을 저울질하고 있다고 EU 정상 회담 의장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441997)
@@ -61,6 +64,3 @@
 #### [우크라이나의 평화 협상가들이 트럼프 관리들과 회담을 위해 미국에 도착했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441944)
 #### [인도 ICICI 은행, 분기 이익 기대치 미달, CEO 재선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441945)
 #### [대만, 중국 드론이 남중국해 섬 상공에서 '도발적'인 비행을했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441941)
-#### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441943)
-#### [랠리-베나비데스, 8,000km 만에 2초 차이로 다카르 모터사이클 타이틀 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441942)
-#### [인도 HDFC 은행, 대출 마진 개선으로 분기 수익 기대치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441940)
