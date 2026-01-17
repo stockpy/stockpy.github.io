@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_2240 </title></head>
-<center>Vers : 20260117_2240 </center>
-<center>Vers : 20260118_0740 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_2252 </title></head>
+<center>Vers : 20260117_2252 </center>
+<center>Vers : 20260118_0752 </center>
 <br><br><br>
+#### [트럼프는 각국이 자신의 평화위원회에 머물기 위해 10 억 달러를 지불하기를 원한다고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442024)
 #### [인권 단체, 1월 이후 베네수엘라에서 139명의 정치범이 석방됐다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442023)
 #### [아이스 반대 시위대가 미니애폴리스 집회에서 수적으로 열세인 극우 활동가들을 쫓아내고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442022)
 #### [EU, 트럼프가 그린란드에 대한 관세 위협 후 하락세 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442020)
@@ -62,4 +63,3 @@
 #### [트럼프의 인수 위협 이후 그린란드를 지지하는 덴마크 시위대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441966)
 #### [테슬라 CEO 엘론 머스크, Ai5 칩 설계는 거의 완료되었고 Ai6는 초기 단계에 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441965)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [올림픽 알파인 스키 선수 블호바, 부상 후 동계 올림픽 복귀를 노리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441964)
