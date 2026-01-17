@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_1721 </title></head>
-<center>Vers : 20260117_1721 </center>
-<center>Vers : 20260118_0221 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_1829 </title></head>
+<center>Vers : 20260117_1829 </center>
+<center>Vers : 20260118_0329 </center>
 <br><br><br>
+#### [이라크, 미군 철수 후 공군 기지 완전 통제, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441998)
+#### [유럽 연합, 트럼프의 그린란드 관세에 대한 대응을 저울질하고 있다고 EU 정상 회담 의장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441997)
+#### [유럽의 약점으로 인해 트럼프 관세 위협에 노출되어 있다고 독일 경제학자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441996)
+#### [덴마크 그린란드 시위대, 트럼프의 위협에 맞서 집회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441995)
+#### [이라크, 미국 철수 후 공군 기지 완전 장악, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441994)
+#### [호루라기와 워키토키: 미니애폴리스, ICE 체포 속에서도 학교 경비를 유지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441993)
+#### [EU와 메르코수르, 25년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441992)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441991)
+#### [이스라엘, 미국의 가자지구 집행위원회 구성이 자국 정책에 어긋난다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441990)
 #### [EU와 메르코수르, 25년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441989)
 #### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441987)
 #### [미국, 시리아 군대에 시리아 북부 알레포와 타브 카 사이의 공세 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441988)
@@ -55,15 +64,3 @@
 #### [랠리-베나비데스, 8,000km 만에 2초 차이로 다카르 모터사이클 타이틀 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441942)
 #### [인도 HDFC 은행, 대출 마진 개선으로 분기 수익 기대치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441940)
 #### [이란의 지도자 카메네이, 이란 인에 대한 사상자, 피해, 중상 모략을 일으킨 트럼프를 범죄자라고 부름](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441939)
-#### [에티오피아 분쟁을 중재하겠다는 트럼프의 제안을 소중히 여긴다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441937)
-#### [롤스로이스, CEO 투판 에르긴빌직의 연봉을 1,300만 파운드 이상으로 인상 - Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441938)
-#### [이란 시위 사망자 수 3,000 명 이상, 인권 단체는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441936)
-#### [랠리 아르헨티나의 루치아노 베나비데스, 2초 차이로 다카르 모터사이클 타이틀 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441935)
-#### [인도 예스뱅크, 충당금 감소로 3분기 수익 급증 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441932)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8316.T/total>
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441933)
-#### [러시아 군이 우크라이나의 두 정착촌을 장악했다고 국방부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441934)
-#### [머스크, '부당 이득'으로 OpenAI, 마이크로소프트에 최대 1,340억 달러 배상 청구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441930)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [마이크론, 통뤄 사이트 18억 달러에 인수 의향서 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441931)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
