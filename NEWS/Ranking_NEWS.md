@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_1419 </title></head>
-<center>Vers : 20260117_1419 </center>
-<center>Vers : 20260117_2319 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_1439 </title></head>
+<center>Vers : 20260117_1439 </center>
+<center>Vers : 20260117_2339 </center>
 <br><br><br>
 #### [미국 재무장관도 걱정한 ‘원·달러 환율’…개인은 주범인가 희생양인가](https://m.stock.naver.com/news/ranknews/view/009/0005623238)
 #### ["삼성전자 팔고 갈아탈까 했는데"…다시 봐야 하는 이유 [한경우의 케이스스터디]](https://m.stock.naver.com/news/ranknews/view/015/0005238492)
