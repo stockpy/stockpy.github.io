@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_1910 </title></head>
-<center>Vers : 20260117_1910 </center>
-<center>Vers : 20260118_0410 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_2022 </title></head>
+<center>Vers : 20260117_2022 </center>
+<center>Vers : 20260118_0522 </center>
 <br><br><br>
+#### [트럼프 행정부, 자동차 가격 인하, 전기차 강조 완화 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442009)
+#### [영국 스타머, 미국의 관세 위협에 '완전히 틀렸다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442008)
+#### [트럼프가 그린란드에 대한 관세 위협 후 EU는 하락세를 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442007)
+#### [법무부, 엡스타인 파일에 대한 특별 마스터를 거부하도록 연방 판사에게 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442005)
+#### [미국 관리, EU는 그린란드 관세 문제를 미국 무역 협상에서 분리하는 것을 고려해야한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442006)
+#### [NASA, 두 번째 아르테미스 달 임무를 위해 발사대에 거대한 SLS 로켓을 굴립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442004)
+#### [독일 자동차 로비, 트럼프의 그린란드 관세 위협으로 인한 '막대한'비용 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442003)
 #### [ICE가 지역을 경계하는 가운데 미니애폴리스에서 결투 집회가 예정되어 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442001)
 #### [마크롱, 그린란드에 대한 트럼프 관세 위협은 용납 할 수 없다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442002)
 #### [미국 관리, EU는 그린란드 관세 문제를 미국 무역 협상에서 분리하는 것을 고려해야한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442000)
@@ -57,10 +64,3 @@
 #### [분석-미국 CEO들이 트럼프에 대한 반발 ... 약하게](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441952)
 #### [내부 분열에 직면한 베네수엘라의 새 지도자, 권력 장악을 강화하려는 움직임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441951)
 #### [미국 회담은 급습 수개월 전부터 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441950)
-#### [대법원은 연준의 리사 쿡을 둘러싼 싸움에서 트럼프의 경제에 대한 힘의 한계를 테스트합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441949)
-#### [중국 군, 대만 해협을 통과하는 미국 선박 '감시'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441948)
-#### [러시아, 하룻밤 사이에 우크라이나의 가스 생산량 타격, Naftogaz는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441947)
-#### [이집트 시시, 트럼프의 나일강 댐 분쟁 중재 제안을 소중히 여긴다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441946)
-#### [우크라이나의 평화 협상가들이 트럼프 관리들과 회담을 위해 미국에 도착했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441944)
-#### [인도 ICICI 은행, 분기 이익 기대치 미달, CEO 재선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441945)
-#### [대만, 중국 드론이 남중국해 섬 상공에서 '도발적'인 비행을했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441941)
