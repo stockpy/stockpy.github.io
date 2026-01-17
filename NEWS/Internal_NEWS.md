@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_2053 </title></head>
-<center>Vers : 20260117_2053 </center>
-<center>Vers : 20260118_0553 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_2113 </title></head>
+<center>Vers : 20260117_2113 </center>
+<center>Vers : 20260118_0613 </center>
 <br><br><br>
+#### [미국, 시리아에서 12월 공격에 연루된 알카에다 연계 조직 지도자 사살, 센트콤 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442016)
 #### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442014)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442015)
 #### [미국 북서부 강 유량은 97 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442013)
@@ -62,4 +63,3 @@
 #### [이집트, 가자 평화위원회에 합류하기 위해 트럼프의 시시 초청 검토, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441957)
 #### [니콜 델라고, 타르비지오 다운힐에서 우승하며 본이 또 한 번 시상대에 올랐습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441960)
 #### [트럼프, 터키의 에르도 간을 가자 평화의 이사회에 초대, 에르도 간 사무실은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441958)
-#### [인도 ICICI 은행, 분기 수익 기대치 미달, CEO 재선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441956)
