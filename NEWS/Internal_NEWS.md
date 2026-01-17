@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_1829 </title></head>
-<center>Vers : 20260117_1829 </center>
-<center>Vers : 20260118_0329 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_1852 </title></head>
+<center>Vers : 20260117_1852 </center>
+<center>Vers : 20260118_0352 </center>
 <br><br><br>
+#### [호루라기와 무전기: 미니애폴리스, 이민세관단속국(ICE) 체포에도 학교 경비를 유지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441999)
 #### [이라크, 미군 철수 후 공군 기지 완전 통제, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441998)
 #### [유럽 연합, 트럼프의 그린란드 관세에 대한 대응을 저울질하고 있다고 EU 정상 회담 의장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441997)
 #### [유럽의 약점으로 인해 트럼프 관세 위협에 노출되어 있다고 독일 경제학자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441996)
@@ -63,4 +64,3 @@
 #### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441943)
 #### [랠리-베나비데스, 8,000km 만에 2초 차이로 다카르 모터사이클 타이틀 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441942)
 #### [인도 HDFC 은행, 대출 마진 개선으로 분기 수익 기대치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441940)
-#### [이란의 지도자 카메네이, 이란 인에 대한 사상자, 피해, 중상 모략을 일으킨 트럼프를 범죄자라고 부름](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441939)
