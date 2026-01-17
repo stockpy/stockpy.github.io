@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_0827 </title></head>
-<center>Vers : 20260117_0827 </center>
-<center>Vers : 20260117_1727 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_0850 </title></head>
+<center>Vers : 20260117_0850 </center>
+<center>Vers : 20260117_1750 </center>
 <br><br><br>
 #### ["삼성전자 팔고 갈아탈까 했는데"…다시 봐야 하는 이유 [한경우의 케이스스터디]](https://m.stock.naver.com/news/ranknews/view/015/0005238492)
 #### ['15만전자'가 눈앞에…삼성전자, 외국인 돌아오자 다시 랠리[종목현미경]](https://m.stock.naver.com/news/ranknews/view/421/0008719323)
