@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_2220 </title></head>
-<center>Vers : 20260117_2220 </center>
-<center>Vers : 20260118_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_2240 </title></head>
+<center>Vers : 20260117_2240 </center>
+<center>Vers : 20260118_0740 </center>
 <br><br><br>
+#### [인권 단체, 1월 이후 베네수엘라에서 139명의 정치범이 석방됐다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442023)
+#### [아이스 반대 시위대가 미니애폴리스 집회에서 수적으로 열세인 극우 활동가들을 쫓아내고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442022)
 #### [EU, 트럼프가 그린란드에 대한 관세 위협 후 하락세 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442020)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442021)
 #### [임신 중 파라세타몰/타이레놀은 안전하다, 트럼프 자폐증 주장으로 촉발된 유럽 연구 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442019)
@@ -61,5 +63,3 @@
 #### [테슬라 CEO 엘론 머스크, Ai5 칩 설계는 거의 완료되었고 Ai6는 초기 단계에 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441965)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
 #### [올림픽 알파인 스키 선수 블호바, 부상 후 동계 올림픽 복귀를 노리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441964)
-#### [트럼프 행정부, 반발 후 ATF를 DEA로 접으려는 계획 철회, CNN 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441961)
-#### [파나마의 베네수엘라 주민들이 변화를 찾아 집으로 항해하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441962)

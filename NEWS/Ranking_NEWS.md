@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_2220 </title></head>
-<center>Vers : 20260117_2220 </center>
-<center>Vers : 20260118_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20260117_2240 </title></head>
+<center>Vers : 20260117_2240 </center>
+<center>Vers : 20260118_0740 </center>
 <br><br><br>
 #### ["'오천피'까지 못 간다니까"…쪽박 차면서 다시 '곱버스' 올라탄 개미들](https://m.stock.naver.com/news/ranknews/view/011/0004579917)
 #### [사라진 3%대 은행 주담대 금리…이번주 0.15%p 더 오른다](https://m.stock.naver.com/news/ranknews/view/001/0015852754)
