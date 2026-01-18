@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1450 </title></head>
-<center>Vers : 20260118_1450 </center>
-<center>Vers : 20260118_2350 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1500 </title></head>
+<center>Vers : 20260118_1500 </center>
+<center>Vers : 20260119_0000 </center>
 <br><br><br>
+#### [트럼프가 그린란드에 대한 유럽 관세 부과를 예고하면서 세계 시장이 새로운 충격에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442107)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.GDAXI>
 #### [세계 지도자들은 유엔에 대한 두려움 속에서 트럼프의 광범위한 '평화의 판'에 대해 신중한 태도를 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442106)
 #### [시리아군, 미국의 지원을 받는 쿠르드족이 장악한 북동부 지역으로 진격하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442104)
 #### [쿠르드 사령관, 미국에 시리아 충돌에 '강력한 개입' 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442105)
@@ -76,11 +78,11 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601456.SS/total>
 #### [통웨이, 2025년 약 90억~100억 위안의 순손실 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442051)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600438.SS/total>
-#### [티어 인텔리전트 장비, 회장 구속, 당국 수사 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442048)
-<head><meta charset="utf-8"><title>Vers : 20260118_1450 </title></head>
-<center>Vers : 20260118_1450 </center>
-<center>Vers : 20260118_2350 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1500 </title></head>
+<center>Vers : 20260118_1500 </center>
+<center>Vers : 20260119_0000 </center>
 <br><br><br>
+#### [티어 인텔리전트 장비, 회장 구속, 당국 수사 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442048)
 #### [롱이 그린 에너지 기술, 2025년 60~65억 위안의 순손실 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442050)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601012.SS/total>
 #### [드론 공격으로 러시아가 장악한 우크라이나 자포리지아 지역의 전력 공급 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442045)
@@ -142,11 +144,11 @@
 #### [이스라엘, 미국의 가자지구 집행위원회 구성이 자국 정책에 어긋난다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441990)
 #### [EU와 메르코수르, 25년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441989)
 #### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441987)
-#### [미국, 시리아 군대에 시리아 북부 알레포와 타브 카 사이의 공세 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441988)
-<head><meta charset="utf-8"><title>Vers : 20260118_1450 </title></head>
-<center>Vers : 20260118_1450 </center>
-<center>Vers : 20260118_2350 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1500 </title></head>
+<center>Vers : 20260118_1500 </center>
+<center>Vers : 20260119_0000 </center>
 <br><br><br>
+#### [미국, 시리아 군대에 시리아 북부 알레포와 타브 카 사이의 공세 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441988)
 #### [올림픽-모노밥 챔피언 험프리스, 놀테가 월드컵 종합 우승을 차지하며 컨디션을 회복하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441986)
 #### [트럼프는 JP 모건의 다이먼에게 연준 의장직을 제안한 적이 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441985)
 #### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 맹세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441983)
@@ -212,4 +214,3 @@
 #### [마루티 스즈키, 인도 신규 공장에 39억 달러 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441929)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7269.T/total>
 #### [대만, 중국 드론이 남중국해 섬 상공에서 '도발적인' 비행을했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441928)
-#### [인도 대출 기관 RBL Bank, 예상보다 낮은 3분기 수익 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441927)
