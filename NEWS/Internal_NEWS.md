@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1053 </title></head>
-<center>Vers : 20260118_1053 </center>
-<center>Vers : 20260118_1953 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1113 </title></head>
+<center>Vers : 20260118_1113 </center>
+<center>Vers : 20260118_2013 </center>
 <br><br><br>
+#### [스코틀랜드 초대 장관은 5 월 과반수가 새로운 독립 추진을 의미한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442073)
+#### [포르투갈, 극우파가 결선투표에 진출한 가운데 치열한 대선 레이스 돌입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442074)
+#### [과테말라 수감자들이 교도소를 점거하고 수십 명을 인질로 잡고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442071)
+#### [리비아, 미수라타 자유무역지대 확장을 위한 27억 달러 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442072)
 #### [중국 닝보 론베이, 170억 달러 규모의 CATL 거래에 대한 진술에 대해 조사 중이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442068)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688005.SS/total>
 #### [Tcl 전자, 2025 년 조정 순이익 23 억 3 천만 홍콩 달러에서 25 억 7 천만 홍콩 달러 범위로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442070)
@@ -71,14 +75,14 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442017)
 #### [미국, 시리아에서 12월 공격에 연루된 알카에다 연계 조직 지도자 사살, 센트콤 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442016)
 #### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442014)
+<head><meta charset="utf-8"><title>Vers : 20260118_1113 </title></head>
+<center>Vers : 20260118_1113 </center>
+<center>Vers : 20260118_2013 </center>
+<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442015)
 #### [미국 북서부 강 유량은 97 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442013)
 #### [밴스, 밀라노 코르티나 동계 올림픽에 미국 대표단 이끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442011)
 #### [미국, 시리아에서 12 월 공격과 관련된 알 카에다 계열사 지도자 사살, Centcom은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442012)
-<head><meta charset="utf-8"><title>Vers : 20260118_1053 </title></head>
-<center>Vers : 20260118_1053 </center>
-<center>Vers : 20260118_1953 </center>
-<br><br><br>
 #### [트럼프는 JP모건의 다이먼에게 연준 의장직을 제안한 적이 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442010)
 #### [트럼프 행정부, 자동차 가격 인하, 전기차 강조 완화 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442009)
 #### [영국 스타머, 미국의 관세 위협에 '완전히 틀렸다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442008)
@@ -136,8 +140,3 @@
 #### [트럼프, 터키의 에르도 간을 가자 평화의 이사회에 초대, 에르도 간 사무실은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441958)
 #### [인도 ICICI 은행, 분기 수익 기대치 미달, CEO 재선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441956)
 #### [시위대, 백악관 인근 집회에서 이란의 탄압을 규탄하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441955)
-#### [우크라이나의 젤렌스키, 전기, 전력 장비 수입 가속화 주문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441953)
-#### [바이두의 아폴로 고와 K2의 오토고, 야스 섬에서 완전 자율주행 차량 호출 서비스 개시, 아부다비 전역으로 단계적 확대 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441954)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9888.HK/total>
-#### [분석-미국 CEO들이 트럼프에 대한 반발 ... 약하게](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441952)
-#### [내부 분열에 직면한 베네수엘라의 새 지도자, 권력 장악을 강화하려는 움직임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441951)
