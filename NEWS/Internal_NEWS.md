@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_0901 </title></head>
-<center>Vers : 20260118_0901 </center>
-<center>Vers : 20260118_1801 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1021 </title></head>
+<center>Vers : 20260118_1021 </center>
+<center>Vers : 20260118_1921 </center>
 <br><br><br>
+#### [네덜란드 장관, 트럼프의 그린란드 관세 위협에 '협박'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442067)
+#### [론베이 뉴 에너지, CATL과의 계약에 대한 상하이 증권거래소의 문의에 답변하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442065)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688005.SS/total>
+#### [독일 엔지니어링 협회, 그린란드 관세에 대한 '반 강압'대응 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442064)
+#### [이집트 식품 소매업체 구르메, 지분 47.6%를 유동화하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442066)
+#### [시리아 군이 시리아 동부의 주요 유전, 가스전을 점령했다고 보안 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442063)
+#### [이란 관리, 이란 시위에서 확인 된 사망자가 최소 5,000 명에 달한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442062)
+#### [우크라이나에 대한 러시아의 대규모 드론 공격으로 2명이 사망했다고 젤렌스키가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442059)
+#### [추환 과학기술의 주주, 지분 감축에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442060)
+#### [썬타 환경의 주주, 지분 3%를 삭감하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442061)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688101.SS/total>
+#### [중국 닝보 론베이는 170억 달러 규모의 CATL 거래에 대한 성명서를 조사 중이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442058)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688005.SS/total>
+#### [보석 계류 중인 재판에 대한 절강 티엔티에 과학기술의 실제 컨트롤러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442057)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300587.SZ/total>
+#### [2036년 올림픽을 향한 인도의 페달을 밟아 메달을 노리는 사이클링-새로운 UCI 레이스, 인도의 꿈에 불을 지핍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442056)
+#### [인도네시아, 10명과 시신 1구를 싣고 실종된 정찰기 잔해 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442055)
 #### [요르단, 압둘라 국왕이 가자 평화위원회에 초청을 받았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442054)
 #### [업-샤인 라이팅의 주식 거래 중지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442053)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301362.SZ/total>
@@ -56,6 +73,10 @@
 #### [트럼프는 JP모건의 다이먼에게 연준 의장직을 제안한 적이 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442010)
 #### [트럼프 행정부, 자동차 가격 인하, 전기차 강조 완화 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442009)
 #### [영국 스타머, 미국의 관세 위협에 '완전히 틀렸다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442008)
+<head><meta charset="utf-8"><title>Vers : 20260118_1021 </title></head>
+<center>Vers : 20260118_1021 </center>
+<center>Vers : 20260118_1921 </center>
+<br><br><br>
 #### [트럼프가 그린란드에 대한 관세 위협 후 EU는 하락세를 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442007)
 #### [법무부, 엡스타인 파일에 대한 특별 마스터를 거부하도록 연방 판사에게 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442005)
 #### [미국 관리, EU는 그린란드 관세 문제를 미국 무역 협상에서 분리하는 것을 고려해야한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442006)
@@ -69,10 +90,6 @@
 #### [유럽 연합, 트럼프의 그린란드 관세에 대한 대응을 저울질하고 있다고 EU 정상 회담 의장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441997)
 #### [유럽의 약점으로 인해 트럼프 관세 위협에 노출되어 있다고 독일 경제학자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441996)
 #### [덴마크 그린란드 시위대, 트럼프의 위협에 맞서 집회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441995)
-<head><meta charset="utf-8"><title>Vers : 20260118_0901 </title></head>
-<center>Vers : 20260118_0901 </center>
-<center>Vers : 20260118_1801 </center>
-<br><br><br>
 #### [이라크, 미국 철수 후 공군 기지 완전 장악, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441994)
 #### [호루라기와 워키토키: 미니애폴리스, ICE 체포 속에서도 학교 경비를 유지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441993)
 #### [EU와 메르코수르, 25년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441992)
@@ -122,16 +139,3 @@
 #### [미국 회담은 급습 수개월 전부터 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441950)
 #### [대법원은 연준의 리사 쿡을 둘러싼 싸움에서 트럼프의 경제에 대한 힘의 한계를 테스트합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441949)
 #### [중국 군, 대만 해협을 통과하는 미국 선박 '감시'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441948)
-#### [러시아, 하룻밤 사이에 우크라이나의 가스 생산량 타격, Naftogaz는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441947)
-#### [이집트 시시, 트럼프의 나일강 댐 분쟁 중재 제안을 소중히 여긴다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441946)
-#### [우크라이나의 평화 협상가들이 트럼프 관리들과 회담을 위해 미국에 도착했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441944)
-#### [인도 ICICI 은행, 분기 이익 기대치 미달, CEO 재선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441945)
-#### [대만, 중국 드론이 남중국해 섬 상공에서 '도발적'인 비행을했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441941)
-#### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441943)
-#### [랠리-베나비데스, 8,000km 만에 2초 차이로 다카르 모터사이클 타이틀 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441942)
-#### [인도 HDFC 은행, 대출 마진 개선으로 분기 수익 기대치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441940)
-#### [이란의 지도자 카메네이, 이란 인에 대한 사상자, 피해, 중상 모략을 일으킨 트럼프를 범죄자라고 부름](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441939)
-#### [에티오피아 분쟁을 중재하겠다는 트럼프의 제안을 소중히 여긴다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441937)
-#### [롤스로이스, CEO 투판 에르긴빌직의 연봉을 1,300만 파운드 이상으로 인상 - Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441938)
-#### [이란 시위 사망자 수 3,000 명 이상, 인권 단체는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441936)
-#### [랠리 아르헨티나의 루치아노 베나비데스, 2초 차이로 다카르 모터사이클 타이틀 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441935)
