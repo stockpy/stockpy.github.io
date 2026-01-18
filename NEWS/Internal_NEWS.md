@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_0850 </title></head>
-<center>Vers : 20260118_0850 </center>
-<center>Vers : 20260118_1750 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_0901 </title></head>
+<center>Vers : 20260118_0901 </center>
+<center>Vers : 20260118_1801 </center>
 <br><br><br>
 #### [요르단, 압둘라 국왕이 가자 평화위원회에 초청을 받았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442054)
 #### [업-샤인 라이팅의 주식 거래 중지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442053)
@@ -69,9 +69,9 @@
 #### [유럽 연합, 트럼프의 그린란드 관세에 대한 대응을 저울질하고 있다고 EU 정상 회담 의장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441997)
 #### [유럽의 약점으로 인해 트럼프 관세 위협에 노출되어 있다고 독일 경제학자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441996)
 #### [덴마크 그린란드 시위대, 트럼프의 위협에 맞서 집회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441995)
-<head><meta charset="utf-8"><title>Vers : 20260118_0850 </title></head>
-<center>Vers : 20260118_0850 </center>
-<center>Vers : 20260118_1750 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_0901 </title></head>
+<center>Vers : 20260118_0901 </center>
+<center>Vers : 20260118_1801 </center>
 <br><br><br>
 #### [이라크, 미국 철수 후 공군 기지 완전 장악, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441994)
 #### [호루라기와 워키토키: 미니애폴리스, ICE 체포 속에서도 학교 경비를 유지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441993)

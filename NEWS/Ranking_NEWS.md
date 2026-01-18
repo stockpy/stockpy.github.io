@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_0850 </title></head>
-<center>Vers : 20260118_0850 </center>
-<center>Vers : 20260118_1750 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_0901 </title></head>
+<center>Vers : 20260118_0901 </center>
+<center>Vers : 20260118_1801 </center>
 <br><br><br>
 #### [“대기업 다니며 착실히 모았는데 -17억”...‘적금 올인’ 했더니 노후 흔들](https://m.stock.naver.com/news/ranknews/view/009/0005623285)
 #### [5일 만에 '730억' 사들였다…한국 자산가 '뭉칫돈' 몰린 종목](https://m.stock.naver.com/news/ranknews/view/015/0005238588)
