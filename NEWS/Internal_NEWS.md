@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_0722 </title></head>
-<center>Vers : 20260118_0722 </center>
-<center>Vers : 20260118_1622 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_0827 </title></head>
+<center>Vers : 20260118_0827 </center>
+<center>Vers : 20260118_1727 </center>
 <br><br><br>
+#### [업-샤인 라이팅의 주식 거래 중지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442053)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301362.SZ/total>
+#### [광동 탑스타 테크놀로지, 홍콩 상장 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442047)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300607.SZ/total>
+#### [우크라이나에 대한 러시아의 대규모 드론 공격으로 2명 사망, 수십 명 부상: 젤렌스키](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442052)
+#### [상하이 아이코 태양 에너지, 2025년 12억~19억 위안의 순손실 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442049)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600732.SS/total>
+#### [중국 민성증권, 2025년 순이익 약 406% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442046)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601456.SS/total>
+#### [통웨이, 2025년 약 90억~100억 위안의 순손실 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442051)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600438.SS/total>
+#### [티어 인텔리전트 장비, 회장 구속, 당국 수사 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442048)
+#### [롱이 그린 에너지 기술, 2025년 60~65억 위안의 순손실 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442050)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601012.SS/total>
+#### [드론 공격으로 러시아가 장악한 우크라이나 자포리지아 지역의 전력 공급 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442045)
+#### [산체스 스페인 총리, 미국의 그린란드 침공은 '푸틴을 지구상에서 가장 행복한 사람으로 만들 것'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442043)
+#### [한국, 유리한 칩 관세 조건을 위해 미국과 협상 할 것이라고 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442042)
+#### [OPG 온타리오 143MW 디큐폴스 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442044)
 #### [펜타곤, 1,500명의 군인이 미네소타에 배치될 수 있도록 준비, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442041)
 #### [블랙록, 변동성의 '새로운 체제'가 고객들을 사모 시장으로 밀어내고 있다- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442040)
 #### [국방부, 미네소타에 배치 할 가능성이있는 1,500 명의 군인 준비, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442039)
@@ -51,6 +69,10 @@
 #### [유럽의 약점으로 인해 트럼프 관세 위협에 노출되어 있다고 독일 경제학자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441996)
 #### [덴마크 그린란드 시위대, 트럼프의 위협에 맞서 집회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441995)
 #### [이라크, 미국 철수 후 공군 기지 완전 장악, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441994)
+<head><meta charset="utf-8"><title>Vers : 20260118_0827 </title></head>
+<center>Vers : 20260118_0827 </center>
+<center>Vers : 20260118_1727 </center>
+<br><br><br>
 #### [호루라기와 워키토키: 미니애폴리스, ICE 체포 속에서도 학교 경비를 유지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441993)
 #### [EU와 메르코수르, 25년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441992)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441991)
@@ -63,10 +85,6 @@
 #### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 맹세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441983)
 #### [가잔은 미국 이름으로 경계?'트럼프의 계획에 따른 평화의위원회'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441984)
 #### [네타냐후 사무실, 가자 지구 통치위원회에 대한 미국 발표가 이스라엘 정책에 위배된다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441982)
-<head><meta charset="utf-8"><title>Vers : 20260118_0722 </title></head>
-<center>Vers : 20260118_0722 </center>
-<center>Vers : 20260118_1622 </center>
-<br><br><br>
 #### [인도, 12월 항공편 결항으로 IndiGo에 사상 최대인 245만 달러 벌금 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441981)
 #### [덴마크와 그린란드에서 트럼프 합병 위협에 반대하는 시위대의 집회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441980)
 #### [미쓰이 후도산, 2030 회계 연도까지 미국 남부의 임대 주택 개발에 28 억 4 천만 달러 투자 - Nikkei](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441978)
@@ -118,21 +136,3 @@
 #### [랠리 아르헨티나의 루치아노 베나비데스, 2초 차이로 다카르 모터사이클 타이틀 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441935)
 #### [인도 예스뱅크, 충당금 감소로 3분기 수익 급증 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441932)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8316.T/total>
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441933)
-#### [러시아 군이 우크라이나의 두 정착촌을 장악했다고 국방부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441934)
-#### [머스크, '부당 이득'으로 OpenAI, 마이크로소프트에 최대 1,340억 달러 배상 청구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441930)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [마이크론, 통뤄 사이트 18억 달러에 인수 의향서 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441931)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
-#### [마루티 스즈키, 인도 신규 공장에 39억 달러 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441929)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7269.T/total>
-#### [대만, 중국 드론이 남중국해 섬 상공에서 '도발적인' 비행을했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441928)
-#### [인도 대출 기관 RBL Bank, 예상보다 낮은 3분기 수익 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441927)
-#### [인도 예스뱅크, 충당금 감소로 3분기 이익 급증 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441926)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8316.T/total>
-#### [EU, 주요 인프라에서 중국 공급업체의 단계적 퇴출을 강제하려는 움직임, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441925)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000063.SZ/total>
-#### [머스크, '부당 이득'으로 OpenAI, Microsoft에 최대 1,340억 달러 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441924)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [브루스 파워 온타리오 830MW 브루스 B 8 원자력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441923)
-#### [몬조, 퇴임하는 TS 아닐 CEO에게 투자자 반발 후 역할 확대, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441922)
