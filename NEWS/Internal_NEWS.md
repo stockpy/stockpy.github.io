@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1419 </title></head>
-<center>Vers : 20260118_1419 </center>
-<center>Vers : 20260118_2319 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1438 </title></head>
+<center>Vers : 20260118_1438 </center>
+<center>Vers : 20260118_2338 </center>
 <br><br><br>
+#### [세계 지도자들은 유엔에 대한 두려움 속에서 트럼프의 광범위한 '평화의 판'에 대해 신중한 태도를 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442106)
+#### [시리아군, 미국의 지원을 받는 쿠르드족이 장악한 북동부 지역으로 진격하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442104)
+#### [쿠르드 사령관, 미국에 시리아 충돌에 '강력한 개입' 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442105)
 #### [중국 루이의 간접 자회사, AIsphere 주식에 투자하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442101)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0136.HK/total>
 #### [월스트리트 한 주를 앞두고-투자자들은 정책 노이즈가 커지면서 미국 기업실적 강세에 기대를 걸고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442102)
@@ -74,14 +77,14 @@
 #### [통웨이, 2025년 약 90억~100억 위안의 순손실 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442051)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600438.SS/total>
 #### [티어 인텔리전트 장비, 회장 구속, 당국 수사 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442048)
+<head><meta charset="utf-8"><title>Vers : 20260118_1438 </title></head>
+<center>Vers : 20260118_1438 </center>
+<center>Vers : 20260118_2338 </center>
+<br><br><br>
 #### [롱이 그린 에너지 기술, 2025년 60~65억 위안의 순손실 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442050)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601012.SS/total>
 #### [드론 공격으로 러시아가 장악한 우크라이나 자포리지아 지역의 전력 공급 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442045)
 #### [산체스 스페인 총리, 미국의 그린란드 침공은 '푸틴을 지구상에서 가장 행복한 사람으로 만들 것'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442043)
-<head><meta charset="utf-8"><title>Vers : 20260118_1419 </title></head>
-<center>Vers : 20260118_1419 </center>
-<center>Vers : 20260118_2319 </center>
-<br><br><br>
 #### [한국, 유리한 칩 관세 조건을 위해 미국과 협상 할 것이라고 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442042)
 #### [OPG 온타리오 143MW 디큐폴스 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442044)
 #### [펜타곤, 1,500명의 군인이 미네소타에 배치될 수 있도록 준비, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442041)
@@ -140,13 +143,13 @@
 #### [EU와 메르코수르, 25년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441989)
 #### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441987)
 #### [미국, 시리아 군대에 시리아 북부 알레포와 타브 카 사이의 공세 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441988)
+<head><meta charset="utf-8"><title>Vers : 20260118_1438 </title></head>
+<center>Vers : 20260118_1438 </center>
+<center>Vers : 20260118_2338 </center>
+<br><br><br>
 #### [올림픽-모노밥 챔피언 험프리스, 놀테가 월드컵 종합 우승을 차지하며 컨디션을 회복하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441986)
 #### [트럼프는 JP 모건의 다이먼에게 연준 의장직을 제안한 적이 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441985)
 #### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 맹세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441983)
-<head><meta charset="utf-8"><title>Vers : 20260118_1419 </title></head>
-<center>Vers : 20260118_1419 </center>
-<center>Vers : 20260118_2319 </center>
-<br><br><br>
 #### [가잔은 미국 이름으로 경계?'트럼프의 계획에 따른 평화의위원회'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441984)
 #### [네타냐후 사무실, 가자 지구 통치위원회에 대한 미국 발표가 이스라엘 정책에 위배된다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441982)
 #### [인도, 12월 항공편 결항으로 IndiGo에 사상 최대인 245만 달러 벌금 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441981)
@@ -210,9 +213,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7269.T/total>
 #### [대만, 중국 드론이 남중국해 섬 상공에서 '도발적인' 비행을했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441928)
 #### [인도 대출 기관 RBL Bank, 예상보다 낮은 3분기 수익 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441927)
-#### [인도 예스뱅크, 충당금 감소로 3분기 이익 급증 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441926)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8316.T/total>
-#### [EU, 주요 인프라에서 중국 공급업체의 단계적 퇴출을 강제하려는 움직임, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441925)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000063.SZ/total>
-#### [머스크, '부당 이득'으로 OpenAI, Microsoft에 최대 1,340억 달러 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441924)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
