@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_2240 </title></head>
-<center>Vers : 20260118_2240 </center>
-<center>Vers : 20260119_0740 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_2252 </title></head>
+<center>Vers : 20260118_2252 </center>
+<center>Vers : 20260119_0752 </center>
 <br><br><br>
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442171)
 #### [카타르, 캐나다에 '중요한 전략적 투자'를하겠다는 약속 확인, 국영 통신사 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442172)
