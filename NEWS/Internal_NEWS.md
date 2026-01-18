@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1908 </title></head>
-<center>Vers : 20260118_1908 </center>
-<center>Vers : 20260119_0408 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_2023 </title></head>
+<center>Vers : 20260118_2023 </center>
+<center>Vers : 20260119_0523 </center>
 <br><br><br>
+#### [우크라이나 최고 협상가, 다보스에서 미국과의 대화 계속할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442148)
+#### [스페인에서 두 대의 고속 열차가 탈선했다고 경찰은 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442149)
+#### [포르투갈 극우 지도자, 사회 주의자, 대선 결선 투표로 향하는 출구 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442150)
+#### [BUZZ-재생-터미널 EUR/USD, 스털링 가이드, 엔화를 좋아하는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442146)
+#### [분석-리오 틴토-글렌코어 합병, 중국을 이기기 위해 자산 매각이 필요할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442147)
+#### [미국은 유럽의 '약점'으로 인해 그린란드가 필요합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442145)
+#### [영국 총리 스타머, 그린란드 동맹국에 대한 트럼프 관세는 '잘못된 것'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442144)
+#### [덴마크는 그린란드를 놓고 미국과 대화를 계속할 것이라고 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442143)
+#### [우크라이나 최고 협상가, 다보스에서 미국과의 회담 계속할 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442142)
+#### [스타머 영국 총리는 유럽 지도자 트럼프와의 통화에서 미국 관세 반대를 거듭 강조했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442139)
+#### [아스다 소유주 TDR 캐피탈, NCC 사업부 에스코드 인수 위해 2억 7,500만 스지 거래 체결 - Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442140)
+#### [댓글-한 주 앞으로-BOJ 결정, 지정학, 플래시 PMI가 주목됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442141)
+#### [BUZZ-IMM: 연준의 정책 기조 전환에 따른 대규모 유로, 엔화 매도세로 USD 숏 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442138)
+#### [밴디 월드 챔피언십 이후 미국의 상승세와 함께 빌딩 블록이 제자리를 잡았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442137)
+#### [트럼프가 나토를 위험에 빠뜨린 후 월요일 이른 아침 BUZZ-AUD/USD 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442136)
 #### [시리아 대통령, 독일 방문 취소, 메르츠 회담](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442135)
 #### [EU, 트럼프의 그린란드 위협에 대해 미국에 108 억 달러의 보복 관세 고려, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442134)
 #### [쿠바인, 아바나 대사관 밖에서 미국 '제국주의자'에 반대하는 집회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442133)
@@ -52,19 +67,3 @@
 #### [캐나다의 카니, 카타르 투자 계약이 올 여름까지 마무리 될 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442092)
 #### [트럼프가 그린란드에 대한 유럽에 대한 관세를 맹세하면서 세계 시장은 새로운 충격에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442091)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.GDAXI>
-#### [독일의 아이허, 타르비시오에서 본을 제치고 슈퍼-G 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442090)
-#### [파키스탄, 가자지구 평화위원회 가입을 위한 미국 초청장 접수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442089)
-#### [리비아, 미수라타 자유무역지대 확장을 위한 27억 달러 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442087)
-#### [트럼프의 그린란드 관세로 전례 없는 EU의 대응책 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442088)
-#### [이란 불안으로 최소 5,000 명 사망, 사법부가 사형을 암시함에 따라 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442085)
-#### [그린란드, 트럼프의 관세에 대한 유럽의 대응 환영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442086)
-#### [장관, 독일은 트럼프에 의해 '협박'되지 않을 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442083)
-#### [세쿼이아, GIC에 합류하고 코투, 앤트로픽 투자에 참여, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442084)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [드론 공격으로 러시아가 장악한 우크라이나 자포리지아 지역의 전력 공급 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442082)
-#### [독일 업계, 트럼프의 '터무니없는' 요구에 맹비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442081)
-#### [트럼프의 가자 평화위원회 헌장, 회원 연장을 위해 10 억 달러 추구, 문서에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442079)
-#### [칠레에서 여러 건의 산불로 긴급 대피령이 내려졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442080)
-#### [세쿼이아, GIC, 코투에 합류해 인류 투자에 참여, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442078)
-#### [세쿼이아, 주요 인류 투자 목표- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442076)
-#### [포르투갈, 벼랑 끝 대선 투표 개표 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442077)
