@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1658 </title></head>
-<center>Vers : 20260118_1658 </center>
-<center>Vers : 20260119_0158 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1725 </title></head>
+<center>Vers : 20260118_1725 </center>
+<center>Vers : 20260119_0225 </center>
 <br><br><br>
+#### [영국 정부, 합병 조사에 대한 급진적 개편안 발표 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442125)
+#### [인도, 가자지구 평화위원회에 트럼프의 초청을 받았다고 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442126)
+#### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442124)
+#### [나토의 루테는 트럼프와 그린란드에 대해 이야기했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442123)
 #### [콜롬비아에서 게릴라 단체 간 충돌로 27명 사망, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442122)
 #### [덴마크, 그린란드에 대해 미국과 외교적 트랙을 계속할 것이라고 덴마크 외무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442121)
 #### [세계 지도자들은 유엔에 대한 우려 속에서 트럼프의 광범위한 '평화 위원회'에 신중한 태도를 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442119)
@@ -66,8 +70,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1070.HK/total>
 #### [러시아 소유, 미국 제재의 국정원, 세르비아 정유소 재가동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442069)
 #### [네덜란드 장관, 트럼프의 그린란드 관세 위협에 '협박'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442067)
-#### [론베이 뉴 에너지, CATL과의 계약에 대한 상하이 증권거래소의 문의에 답변하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442065)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688005.SS/total>
-#### [독일 엔지니어링 협회, 그린란드 관세에 대한 '반 강압'대응 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442064)
-#### [이집트 식품 소매업체 구르메, 지분 47.6%를 유동화하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442066)
-#### [시리아 군이 시리아 동부의 주요 유전, 가스전을 점령했다고 보안 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442063)
