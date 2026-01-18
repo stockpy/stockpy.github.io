@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1240 </title></head>
-<center>Vers : 20260118_1240 </center>
-<center>Vers : 20260118_2140 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1318 </title></head>
+<center>Vers : 20260118_1318 </center>
+<center>Vers : 20260118_2218 </center>
 <br><br><br>
+#### [트럼프가 그린란드에 대한 유럽에 대한 관세를 맹세하면서 세계 시장은 새로운 충격에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442091)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.GDAXI>
+#### [독일의 아이허, 타르비시오에서 본을 제치고 슈퍼-G 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442090)
+#### [파키스탄, 가자지구 평화위원회 가입을 위한 미국 초청장 접수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442089)
 #### [리비아, 미수라타 자유무역지대 확장을 위한 27억 달러 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442087)
 #### [트럼프의 그린란드 관세로 전례 없는 EU의 대응책 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442088)
 #### [이란 불안으로 최소 5,000 명 사망, 사법부가 사형을 암시함에 따라 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442085)
@@ -73,13 +77,13 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442034)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442033)
 #### [블랙록의 리더 연준 의장 입찰이 주목을 받고 있습니다 -블룸버그](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442032)
+<head><meta charset="utf-8"><title>Vers : 20260118_1318 </title></head>
+<center>Vers : 20260118_1318 </center>
+<center>Vers : 20260118_2218 </center>
+<br><br><br>
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442031)
 #### [트럼프는 각국이 자신의 평화 이사회에 머물기 위해 10 억 달러를 지불하기를 원한다고 보고서는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442030)
 #### [씽킹 머신 엑소더스, 500억 달러 가치에 대한 투자자들의 욕구 테스트 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442029)
-<head><meta charset="utf-8"><title>Vers : 20260118_1240 </title></head>
-<center>Vers : 20260118_1240 </center>
-<center>Vers : 20260118_2140 </center>
-<br><br><br>
 #### [캘파인 온타리오 212MW 그린필드 에너지 센터 3 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442028)
 #### [EU, 메르코수르, 25년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442026)
 #### [EU, 메르코수르, 25년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442027)
@@ -137,6 +141,3 @@
 #### [알파인 스키-니콜 델라고, 타비시오 활강에서 우승하며 본이 또 한 번 포디엄에 올랐습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441974)
 #### [모노밥 챔피언 험프리스, 놀테의 월드컵 종합 우승으로 컨디션 회복](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441971)
 #### [ATR, 인도네시아에서 발생한 ATR 42-500 사고 인지, 조사 지원 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441973)
-#### [오더마트, 벵겐 활강에서 4회 연속 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441972)
-#### [미국 주도의 연합 비행기가 시리아에서 시리아, 쿠르드 세력 간의 충돌이있는 지역 상공을 비행한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441970)
-#### [브라질의 방코 마스터 투자자들은 다음 주부터 보장된 자금을 받기 시작합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441969)
