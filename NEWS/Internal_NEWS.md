@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_0154 </title></head>
-<center>Vers : 20260118_0154 </center>
-<center>Vers : 20260118_1054 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_0346 </title></head>
+<center>Vers : 20260118_0346 </center>
+<center>Vers : 20260118_1246 </center>
 <br><br><br>
+#### [과테말라 수감자들이 교도소를 점거하고 46명을 인질로 잡고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442035)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442034)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442033)
 #### [블랙록의 리더 연준 의장 입찰이 주목을 받고 있습니다 -블룸버그](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442032)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442031)
@@ -60,5 +62,3 @@
 #### [인도 항공 규제 당국, 2025년 12월 운항 중단으로 인디고 22.20 크로레 루피의 벌금 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441979)
 #### [인도, 12월 항공편 취소에 대해 인디고에 기록적인 벌금 245만 달러 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441977)
 #### [인디고는 12월 초 인디고의 항공편 운항 중단과 관련하여 인도 민간항공국의 명령을 받고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441976)
-#### [인도네시아, 11명이 탑승한 채 실종된 정찰기 수색 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441975)
-#### [알파인 스키-니콜 델라고, 타비시오 활강에서 우승하며 본이 또 한 번 포디엄에 올랐습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441974)
