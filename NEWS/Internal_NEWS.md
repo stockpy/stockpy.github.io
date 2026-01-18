@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1113 </title></head>
-<center>Vers : 20260118_1113 </center>
-<center>Vers : 20260118_2013 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1240 </title></head>
+<center>Vers : 20260118_1240 </center>
+<center>Vers : 20260118_2140 </center>
 <br><br><br>
+#### [리비아, 미수라타 자유무역지대 확장을 위한 27억 달러 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442087)
+#### [트럼프의 그린란드 관세로 전례 없는 EU의 대응책 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442088)
+#### [이란 불안으로 최소 5,000 명 사망, 사법부가 사형을 암시함에 따라 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442085)
+#### [그린란드, 트럼프의 관세에 대한 유럽의 대응 환영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442086)
+#### [장관, 독일은 트럼프에 의해 '협박'되지 않을 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442083)
+#### [세쿼이아, GIC에 합류하고 코투, 앤트로픽 투자에 참여, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442084)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
+#### [드론 공격으로 러시아가 장악한 우크라이나 자포리지아 지역의 전력 공급 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442082)
+#### [독일 업계, 트럼프의 '터무니없는' 요구에 맹비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442081)
+#### [트럼프의 가자 평화위원회 헌장, 회원 연장을 위해 10 억 달러 추구, 문서에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442079)
+#### [칠레에서 여러 건의 산불로 긴급 대피령이 내려졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442080)
+#### [세쿼이아, GIC, 코투에 합류해 인류 투자에 참여, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442078)
+#### [세쿼이아, 주요 인류 투자 목표- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442076)
+#### [포르투갈, 벼랑 끝 대선 투표 개표 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442077)
+#### [세일GP 챔피언스 브리튼, 퍼스에서의 압도적인 우승으로 2026년을 시작하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442075)
 #### [스코틀랜드 초대 장관은 5 월 과반수가 새로운 독립 추진을 의미한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442073)
 #### [포르투갈, 극우파가 결선투표에 진출한 가운데 치열한 대선 레이스 돌입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442074)
 #### [과테말라 수감자들이 교도소를 점거하고 수십 명을 인질로 잡고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442071)
@@ -61,6 +76,10 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442031)
 #### [트럼프는 각국이 자신의 평화 이사회에 머물기 위해 10 억 달러를 지불하기를 원한다고 보고서는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442030)
 #### [씽킹 머신 엑소더스, 500억 달러 가치에 대한 투자자들의 욕구 테스트 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442029)
+<head><meta charset="utf-8"><title>Vers : 20260118_1240 </title></head>
+<center>Vers : 20260118_1240 </center>
+<center>Vers : 20260118_2140 </center>
+<br><br><br>
 #### [캘파인 온타리오 212MW 그린필드 에너지 센터 3 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442028)
 #### [EU, 메르코수르, 25년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442026)
 #### [EU, 메르코수르, 25년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442027)
@@ -75,10 +94,6 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442017)
 #### [미국, 시리아에서 12월 공격에 연루된 알카에다 연계 조직 지도자 사살, 센트콤 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442016)
 #### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442014)
-<head><meta charset="utf-8"><title>Vers : 20260118_1113 </title></head>
-<center>Vers : 20260118_1113 </center>
-<center>Vers : 20260118_2013 </center>
-<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442015)
 #### [미국 북서부 강 유량은 97 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442013)
 #### [밴스, 밀라노 코르티나 동계 올림픽에 미국 대표단 이끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442011)
@@ -125,18 +140,3 @@
 #### [오더마트, 벵겐 활강에서 4회 연속 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441972)
 #### [미국 주도의 연합 비행기가 시리아에서 시리아, 쿠르드 세력 간의 충돌이있는 지역 상공을 비행한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441970)
 #### [브라질의 방코 마스터 투자자들은 다음 주부터 보장된 자금을 받기 시작합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441969)
-#### [트럼프 행정부, 반발 후 ATF를 DEA로 통합하려는 계획 철회, CNN 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441968)
-#### [우크라이나의 젤렌스키, 전기, 전력 장비의 신속한 수입 주문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441967)
-#### [트럼프의 인수 위협 이후 그린란드를 지지하는 덴마크 시위대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441966)
-#### [테슬라 CEO 엘론 머스크, Ai5 칩 설계는 거의 완료되었고 Ai6는 초기 단계에 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441965)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [올림픽 알파인 스키 선수 블호바, 부상 후 동계 올림픽 복귀를 노리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441964)
-#### [트럼프 행정부, 반발 후 ATF를 DEA로 접으려는 계획 철회, CNN 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441961)
-#### [파나마의 베네수엘라 주민들이 변화를 찾아 집으로 항해하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441962)
-#### [알제리, 밀 수입 입찰 발행, 상인들은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441963)
-#### [세일링 신인 아르테미스가 2026 퍼스 세일GP 개막전에서 선두로 치고 올라옵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441959)
-#### [이집트, 가자 평화위원회에 합류하기 위해 트럼프의 시시 초청 검토, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441957)
-#### [니콜 델라고, 타르비지오 다운힐에서 우승하며 본이 또 한 번 시상대에 올랐습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441960)
-#### [트럼프, 터키의 에르도 간을 가자 평화의 이사회에 초대, 에르도 간 사무실은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441958)
-#### [인도 ICICI 은행, 분기 수익 기대치 미달, CEO 재선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441956)
-#### [시위대, 백악관 인근 집회에서 이란의 탄압을 규탄하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441955)
