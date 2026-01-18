@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_0827 </title></head>
-<center>Vers : 20260118_0827 </center>
-<center>Vers : 20260118_1727 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_0850 </title></head>
+<center>Vers : 20260118_0850 </center>
+<center>Vers : 20260118_1750 </center>
 <br><br><br>
+#### [요르단, 압둘라 국왕이 가자 평화위원회에 초청을 받았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442054)
 #### [업-샤인 라이팅의 주식 거래 중지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442053)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301362.SZ/total>
 #### [광동 탑스타 테크놀로지, 홍콩 상장 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442047)
@@ -68,11 +69,11 @@
 #### [유럽 연합, 트럼프의 그린란드 관세에 대한 대응을 저울질하고 있다고 EU 정상 회담 의장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441997)
 #### [유럽의 약점으로 인해 트럼프 관세 위협에 노출되어 있다고 독일 경제학자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441996)
 #### [덴마크 그린란드 시위대, 트럼프의 위협에 맞서 집회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441995)
-#### [이라크, 미국 철수 후 공군 기지 완전 장악, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441994)
-<head><meta charset="utf-8"><title>Vers : 20260118_0827 </title></head>
-<center>Vers : 20260118_0827 </center>
-<center>Vers : 20260118_1727 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_0850 </title></head>
+<center>Vers : 20260118_0850 </center>
+<center>Vers : 20260118_1750 </center>
 <br><br><br>
+#### [이라크, 미국 철수 후 공군 기지 완전 장악, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441994)
 #### [호루라기와 워키토키: 미니애폴리스, ICE 체포 속에서도 학교 경비를 유지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441993)
 #### [EU와 메르코수르, 25년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441992)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441991)
@@ -134,5 +135,3 @@
 #### [롤스로이스, CEO 투판 에르긴빌직의 연봉을 1,300만 파운드 이상으로 인상 - Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441938)
 #### [이란 시위 사망자 수 3,000 명 이상, 인권 단체는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441936)
 #### [랠리 아르헨티나의 루치아노 베나비데스, 2초 차이로 다카르 모터사이클 타이틀 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441935)
-#### [인도 예스뱅크, 충당금 감소로 3분기 수익 급증 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441932)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8316.T/total>
