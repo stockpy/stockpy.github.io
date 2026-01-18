@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1851 </title></head>
-<center>Vers : 20260118_1851 </center>
-<center>Vers : 20260119_0351 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1908 </title></head>
+<center>Vers : 20260118_1908 </center>
+<center>Vers : 20260119_0408 </center>
 <br><br><br>
+#### [시리아 대통령, 독일 방문 취소, 메르츠 회담](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442135)
+#### [EU, 트럼프의 그린란드 위협에 대해 미국에 108 억 달러의 보복 관세 고려, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442134)
 #### [쿠바인, 아바나 대사관 밖에서 미국 '제국주의자'에 반대하는 집회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442133)
 #### [1월 18일 일요일 오후 1시 30분(미국 동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442132)
 #### ['우리는 두렵지 않다', 그린란드 인들은 트럼프의 관세 위협 이후 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442131)
@@ -66,5 +68,3 @@
 #### [세쿼이아, GIC, 코투에 합류해 인류 투자에 참여, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442078)
 #### [세쿼이아, 주요 인류 투자 목표- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442076)
 #### [포르투갈, 벼랑 끝 대선 투표 개표 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442077)
-#### [세일GP 챔피언스 브리튼, 퍼스에서의 압도적인 우승으로 2026년을 시작하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442075)
-#### [스코틀랜드 초대 장관은 5 월 과반수가 새로운 독립 추진을 의미한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442073)
