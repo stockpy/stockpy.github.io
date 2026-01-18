@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_2252 </title></head>
-<center>Vers : 20260118_2252 </center>
-<center>Vers : 20260119_0752 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_2313 </title></head>
+<center>Vers : 20260118_2313 </center>
+<center>Vers : 20260119_0813 </center>
 <br><br><br>
 #### [“삼전 주식 2조 처분합니다”…상속세 납부·대출상환에 쓴다는 관장님](https://m.stock.naver.com/news/ranknews/view/009/0005623576)
 #### ["삼전으로 돈 벌어" 개미들 환호하며 팔때 외국인·기관은 샀다](https://m.stock.naver.com/news/ranknews/view/008/0005305958)

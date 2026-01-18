@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_2252 </title></head>
-<center>Vers : 20260118_2252 </center>
-<center>Vers : 20260119_0752 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_2313 </title></head>
+<center>Vers : 20260118_2313 </center>
+<center>Vers : 20260119_0813 </center>
 <br><br><br>
+#### [지정학 악화로 압박을 받는 BUZZ-NZD/USD](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442173)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442171)
 #### [카타르, 캐나다에 '중요한 전략적 투자'를하겠다는 약속 확인, 국영 통신사 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442172)
 #### [미국 회담은 급습 수개월 전부터 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442170)
@@ -61,4 +62,3 @@
 #### [과테말라에서 경찰이 교도소, 갱단 지도자를 되찾은 후 경찰이 공격당했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442116)
 #### [EU 회원국들, 트럼프 관세 위협 규탄하고 대응책 고려 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442115)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442114)
-#### [칠레, 산불로 16명이 사망하고 수천 명이 대피하는 가운데 국가재난사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442111)
