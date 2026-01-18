@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260117_2312 </title></head>
-<center>Vers : 20260117_2312 </center>
-<center>Vers : 20260118_0812 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_0154 </title></head>
+<center>Vers : 20260118_0154 </center>
+<center>Vers : 20260118_1054 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442033)
+#### [블랙록의 리더 연준 의장 입찰이 주목을 받고 있습니다 -블룸버그](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442032)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442031)
+#### [트럼프는 각국이 자신의 평화 이사회에 머물기 위해 10 억 달러를 지불하기를 원한다고 보고서는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442030)
+#### [씽킹 머신 엑소더스, 500억 달러 가치에 대한 투자자들의 욕구 테스트 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442029)
+#### [캘파인 온타리오 212MW 그린필드 에너지 센터 3 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442028)
+#### [EU, 메르코수르, 25년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442026)
+#### [EU, 메르코수르, 25년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442027)
 #### [과테말라 수감자들이 교도소 세 곳에서 폭동을 일으켜 46 명을 인질로 잡았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442025)
 #### [트럼프는 각국이 자신의 평화위원회에 머물기 위해 10 억 달러를 지불하기를 원한다고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442024)
 #### [인권 단체, 1월 이후 베네수엘라에서 139명의 정치범이 석방됐다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442023)
@@ -54,11 +62,3 @@
 #### [인디고는 12월 초 인디고의 항공편 운항 중단과 관련하여 인도 민간항공국의 명령을 받고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441976)
 #### [인도네시아, 11명이 탑승한 채 실종된 정찰기 수색 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441975)
 #### [알파인 스키-니콜 델라고, 타비시오 활강에서 우승하며 본이 또 한 번 포디엄에 올랐습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441974)
-#### [모노밥 챔피언 험프리스, 놀테의 월드컵 종합 우승으로 컨디션 회복](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441971)
-#### [ATR, 인도네시아에서 발생한 ATR 42-500 사고 인지, 조사 지원 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441973)
-#### [오더마트, 벵겐 활강에서 4회 연속 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441972)
-#### [미국 주도의 연합 비행기가 시리아에서 시리아, 쿠르드 세력 간의 충돌이있는 지역 상공을 비행한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441970)
-#### [브라질의 방코 마스터 투자자들은 다음 주부터 보장된 자금을 받기 시작합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441969)
-#### [트럼프 행정부, 반발 후 ATF를 DEA로 통합하려는 계획 철회, CNN 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441968)
-#### [우크라이나의 젤렌스키, 전기, 전력 장비의 신속한 수입 주문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441967)
-#### [트럼프의 인수 위협 이후 그린란드를 지지하는 덴마크 시위대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441966)
