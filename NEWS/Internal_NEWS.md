@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1042 </title></head>
-<center>Vers : 20260118_1042 </center>
-<center>Vers : 20260118_1942 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1053 </title></head>
+<center>Vers : 20260118_1053 </center>
+<center>Vers : 20260118_1953 </center>
 <br><br><br>
 #### [중국 닝보 론베이, 170억 달러 규모의 CATL 거래에 대한 진술에 대해 조사 중이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442068)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688005.SS/total>
@@ -75,9 +75,9 @@
 #### [미국 북서부 강 유량은 97 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442013)
 #### [밴스, 밀라노 코르티나 동계 올림픽에 미국 대표단 이끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442011)
 #### [미국, 시리아에서 12 월 공격과 관련된 알 카에다 계열사 지도자 사살, Centcom은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442012)
-<head><meta charset="utf-8"><title>Vers : 20260118_1042 </title></head>
-<center>Vers : 20260118_1042 </center>
-<center>Vers : 20260118_1942 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1053 </title></head>
+<center>Vers : 20260118_1053 </center>
+<center>Vers : 20260118_1953 </center>
 <br><br><br>
 #### [트럼프는 JP모건의 다이먼에게 연준 의장직을 제안한 적이 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442010)
 #### [트럼프 행정부, 자동차 가격 인하, 전기차 강조 완화 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442009)

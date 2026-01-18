@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1042 </title></head>
-<center>Vers : 20260118_1042 </center>
-<center>Vers : 20260118_1942 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1053 </title></head>
+<center>Vers : 20260118_1053 </center>
+<center>Vers : 20260118_1953 </center>
 <br><br><br>
 #### [“대기업 다니며 착실히 모았는데 -17억”...‘적금 올인’ 했더니 노후 흔들](https://m.stock.naver.com/news/ranknews/view/009/0005623285)
 #### ["4500억 걸었는데" 곱버스 탄 개미들 '덜덜'...코스피 5천시대 초읽기](https://m.stock.naver.com/news/ranknews/view/008/0005306006)
