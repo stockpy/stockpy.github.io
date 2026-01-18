@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_2042 </title></head>
-<center>Vers : 20260118_2042 </center>
-<center>Vers : 20260119_0542 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_2054 </title></head>
+<center>Vers : 20260118_2054 </center>
+<center>Vers : 20260119_0554 </center>
 <br><br><br>
+#### [이란 시위에서 최소 5,000 명이 사망했다고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442154)
+#### [에르도안, 샤라와 시리아의 최신 상황에 대해 논의하다, 터키는 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442155)
+#### [미국은 합의에 도달하지 않으면 93 억 유로의 EU 관세에 직면 해 있다고 외교관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442153)
+#### [EU, 트럼프의 그린란드 관세 위협에 대해 긴급 정상 회담 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442152)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442151)
 #### [우크라이나 최고 협상가, 다보스에서 미국과의 대화 계속할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442148)
 #### [스페인에서 두 대의 고속 열차가 탈선했다고 경찰은 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442149)
@@ -62,7 +66,3 @@
 #### [브리뇨네, 부상 후 화요일 알파인 월드컵에 복귀할 수 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442096)
 #### ['의심 할 여지없이 'EU는 미국의 새로운 관세에 보복 할 것이라고 아일랜드는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442097)
 #### [노르웨이 총리, 무역 전쟁은 누구에게도 도움이되지 않는다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442098)
-#### [카니, 트럼프의 가자 평화위원회에 원칙적으로 동의, 세부 사항 작업 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442094)
-#### [맥그래스, 벵겐 우승으로 월드컵 대회전 랭킹 1위 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442095)
-#### [유럽 8개국, 덴마크 그린란드 지지 공동 성명 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442093)
-#### [캐나다의 카니, 카타르 투자 계약이 올 여름까지 마무리 될 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442092)
