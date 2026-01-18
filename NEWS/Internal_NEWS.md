@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1021 </title></head>
-<center>Vers : 20260118_1021 </center>
-<center>Vers : 20260118_1921 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1042 </title></head>
+<center>Vers : 20260118_1042 </center>
+<center>Vers : 20260118_1942 </center>
 <br><br><br>
+#### [중국 닝보 론베이, 170억 달러 규모의 CATL 거래에 대한 진술에 대해 조사 중이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442068)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688005.SS/total>
+#### [Tcl 전자, 2025 년 조정 순이익 23 억 3 천만 홍콩 달러에서 25 억 7 천만 홍콩 달러 범위로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442070)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1070.HK/total>
+#### [러시아 소유, 미국 제재의 국정원, 세르비아 정유소 재가동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442069)
 #### [네덜란드 장관, 트럼프의 그린란드 관세 위협에 '협박'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442067)
 #### [론베이 뉴 에너지, CATL과의 계약에 대한 상하이 증권거래소의 문의에 답변하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442065)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688005.SS/total>
@@ -70,13 +75,13 @@
 #### [미국 북서부 강 유량은 97 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442013)
 #### [밴스, 밀라노 코르티나 동계 올림픽에 미국 대표단 이끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442011)
 #### [미국, 시리아에서 12 월 공격과 관련된 알 카에다 계열사 지도자 사살, Centcom은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442012)
+<head><meta charset="utf-8"><title>Vers : 20260118_1042 </title></head>
+<center>Vers : 20260118_1042 </center>
+<center>Vers : 20260118_1942 </center>
+<br><br><br>
 #### [트럼프는 JP모건의 다이먼에게 연준 의장직을 제안한 적이 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442010)
 #### [트럼프 행정부, 자동차 가격 인하, 전기차 강조 완화 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442009)
 #### [영국 스타머, 미국의 관세 위협에 '완전히 틀렸다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442008)
-<head><meta charset="utf-8"><title>Vers : 20260118_1021 </title></head>
-<center>Vers : 20260118_1021 </center>
-<center>Vers : 20260118_1921 </center>
-<br><br><br>
 #### [트럼프가 그린란드에 대한 관세 위협 후 EU는 하락세를 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442007)
 #### [법무부, 엡스타인 파일에 대한 특별 마스터를 거부하도록 연방 판사에게 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442005)
 #### [미국 관리, EU는 그린란드 관세 문제를 미국 무역 협상에서 분리하는 것을 고려해야한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442006)
@@ -136,6 +141,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9888.HK/total>
 #### [분석-미국 CEO들이 트럼프에 대한 반발 ... 약하게](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441952)
 #### [내부 분열에 직면한 베네수엘라의 새 지도자, 권력 장악을 강화하려는 움직임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441951)
-#### [미국 회담은 급습 수개월 전부터 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441950)
-#### [대법원은 연준의 리사 쿡을 둘러싼 싸움에서 트럼프의 경제에 대한 힘의 한계를 테스트합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441949)
-#### [중국 군, 대만 해협을 통과하는 미국 선박 '감시'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441948)
