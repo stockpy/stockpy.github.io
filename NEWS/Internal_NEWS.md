@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_2023 </title></head>
-<center>Vers : 20260118_2023 </center>
-<center>Vers : 20260119_0523 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_2042 </title></head>
+<center>Vers : 20260118_2042 </center>
+<center>Vers : 20260119_0542 </center>
 <br><br><br>
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442151)
 #### [우크라이나 최고 협상가, 다보스에서 미국과의 대화 계속할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442148)
 #### [스페인에서 두 대의 고속 열차가 탈선했다고 경찰은 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442149)
 #### [포르투갈 극우 지도자, 사회 주의자, 대선 결선 투표로 향하는 출구 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442150)
@@ -65,5 +66,3 @@
 #### [맥그래스, 벵겐 우승으로 월드컵 대회전 랭킹 1위 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442095)
 #### [유럽 8개국, 덴마크 그린란드 지지 공동 성명 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442093)
 #### [캐나다의 카니, 카타르 투자 계약이 올 여름까지 마무리 될 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442092)
-#### [트럼프가 그린란드에 대한 유럽에 대한 관세를 맹세하면서 세계 시장은 새로운 충격에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442091)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.GDAXI>
