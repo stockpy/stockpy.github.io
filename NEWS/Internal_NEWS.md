@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1625 </title></head>
-<center>Vers : 20260118_1625 </center>
-<center>Vers : 20260119_0125 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1648 </title></head>
+<center>Vers : 20260118_1648 </center>
+<center>Vers : 20260119_0148 </center>
 <br><br><br>
 #### [세계 지도자들은 유엔에 대한 우려 속에서 트럼프의 광범위한 '평화 위원회'에 신중한 태도를 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442119)
 #### [시리아 정부, SDF는 모든 전선에서 즉각적인 휴전에 동의한다고 국영 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442120)
