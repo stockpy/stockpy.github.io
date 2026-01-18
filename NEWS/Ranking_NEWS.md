@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1648 </title></head>
-<center>Vers : 20260118_1648 </center>
-<center>Vers : 20260119_0148 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1658 </title></head>
+<center>Vers : 20260118_1658 </center>
+<center>Vers : 20260119_0158 </center>
 <br><br><br>
 #### ["삼전으로 돈 벌어" 개미들 환호하며 팔때 외국인·기관은 샀다](https://m.stock.naver.com/news/ranknews/view/008/0005305958)
 #### [맞벌이 40대 부부 "절약하다 부부싸움까지… 새해 돈 관리 어떻게" [재테크 Q&A]](https://m.stock.naver.com/news/ranknews/view/014/0005464451)

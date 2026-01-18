@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1648 </title></head>
-<center>Vers : 20260118_1648 </center>
-<center>Vers : 20260119_0148 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1658 </title></head>
+<center>Vers : 20260118_1658 </center>
+<center>Vers : 20260119_0158 </center>
 <br><br><br>
+#### [콜롬비아에서 게릴라 단체 간 충돌로 27명 사망, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442122)
+#### [덴마크, 그린란드에 대해 미국과 외교적 트랙을 계속할 것이라고 덴마크 외무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442121)
 #### [세계 지도자들은 유엔에 대한 우려 속에서 트럼프의 광범위한 '평화 위원회'에 신중한 태도를 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442119)
 #### [시리아 정부, SDF는 모든 전선에서 즉각적인 휴전에 동의한다고 국영 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442120)
 #### [트럼프, 인도를 가자 평화위원회에 초대, ANI 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442118)
@@ -69,5 +71,3 @@
 #### [독일 엔지니어링 협회, 그린란드 관세에 대한 '반 강압'대응 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442064)
 #### [이집트 식품 소매업체 구르메, 지분 47.6%를 유동화하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442066)
 #### [시리아 군이 시리아 동부의 주요 유전, 가스전을 점령했다고 보안 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442063)
-#### [이란 관리, 이란 시위에서 확인 된 사망자가 최소 5,000 명에 달한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442062)
-#### [우크라이나에 대한 러시아의 대규모 드론 공격으로 2명이 사망했다고 젤렌스키가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442059)
