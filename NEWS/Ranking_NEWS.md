@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_0632 </title></head>
-<center>Vers : 20260118_0632 </center>
-<center>Vers : 20260118_1532 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_0656 </title></head>
+<center>Vers : 20260118_0656 </center>
+<center>Vers : 20260118_1556 </center>
 <br><br><br>
 #### [“대기업 다니며 착실히 모았는데 -17억”...‘적금 올인’ 했더니 노후 흔들](https://m.stock.naver.com/news/ranknews/view/009/0005623285)
 #### ["삼전으로 돈 벌어" 개미들 환호하며 팔때 외국인·기관은 샀다](https://m.stock.naver.com/news/ranknews/view/008/0005305958)

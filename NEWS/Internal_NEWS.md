@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_0632 </title></head>
-<center>Vers : 20260118_0632 </center>
-<center>Vers : 20260118_1532 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_0656 </title></head>
+<center>Vers : 20260118_0656 </center>
+<center>Vers : 20260118_1556 </center>
 <br><br><br>
 #### [펜타곤, 1,500명의 군인이 미네소타에 배치될 수 있도록 준비, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442041)
 #### [블랙록, 변동성의 '새로운 체제'가 고객들을 사모 시장으로 밀어내고 있다- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442040)
@@ -63,9 +63,9 @@
 #### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 맹세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441983)
 #### [가잔은 미국 이름으로 경계?'트럼프의 계획에 따른 평화의위원회'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441984)
 #### [네타냐후 사무실, 가자 지구 통치위원회에 대한 미국 발표가 이스라엘 정책에 위배된다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441982)
-<head><meta charset="utf-8"><title>Vers : 20260118_0632 </title></head>
-<center>Vers : 20260118_0632 </center>
-<center>Vers : 20260118_1532 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_0656 </title></head>
+<center>Vers : 20260118_0656 </center>
+<center>Vers : 20260118_1556 </center>
 <br><br><br>
 #### [인도, 12월 항공편 결항으로 IndiGo에 사상 최대인 245만 달러 벌금 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441981)
 #### [덴마크와 그린란드에서 트럼프 합병 위협에 반대하는 시위대의 집회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441980)
