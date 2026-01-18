@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_0441 </title></head>
-<center>Vers : 20260118_0441 </center>
-<center>Vers : 20260118_1341 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_0502 </title></head>
+<center>Vers : 20260118_0502 </center>
+<center>Vers : 20260118_1402 </center>
 <br><br><br>
 #### [중국, 시만두 철광석 첫 선적 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442038)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601600.SS/total>
@@ -63,9 +63,9 @@
 #### [인도, 12월 항공편 결항으로 IndiGo에 사상 최대인 245만 달러 벌금 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441981)
 #### [덴마크와 그린란드에서 트럼프 합병 위협에 반대하는 시위대의 집회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441980)
 #### [미쓰이 후도산, 2030 회계 연도까지 미국 남부의 임대 주택 개발에 28 억 4 천만 달러 투자 - Nikkei](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441978)
-<head><meta charset="utf-8"><title>Vers : 20260118_0441 </title></head>
-<center>Vers : 20260118_0441 </center>
-<center>Vers : 20260118_1341 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_0502 </title></head>
+<center>Vers : 20260118_0502 </center>
+<center>Vers : 20260118_1402 </center>
 <br><br><br>
 #### [인도 항공 규제 당국, 2025년 12월 운항 중단으로 인디고 22.20 크로레 루피의 벌금 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441979)
 #### [인도, 12월 항공편 취소에 대해 인디고에 기록적인 벌금 245만 달러 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441977)

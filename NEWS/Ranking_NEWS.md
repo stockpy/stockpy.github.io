@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_0441 </title></head>
-<center>Vers : 20260118_0441 </center>
-<center>Vers : 20260118_1341 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_0502 </title></head>
+<center>Vers : 20260118_0502 </center>
+<center>Vers : 20260118_1402 </center>
 <br><br><br>
 #### [“대기업 다니며 착실히 모았는데 -17억”...‘적금 올인’ 했더니 노후 흔들](https://m.stock.naver.com/news/ranknews/view/009/0005623285)
 #### [삼전 대신 네이버 산 개미 '통곡'…"중국산 조립품", "25만원 붕괴" 광탈 패닉](https://m.stock.naver.com/news/ranknews/view/008/0005305901)
