@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_2054 </title></head>
-<center>Vers : 20260118_2054 </center>
-<center>Vers : 20260119_0554 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_2116 </title></head>
+<center>Vers : 20260118_2116 </center>
+<center>Vers : 20260119_0616 </center>
 <br><br><br>
+#### [시리아, 유전권 보유 기업과 협력하여 유전 및 가스전 개발 계획 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442157)
+#### [미국 북서부 강 유량은 97 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442158)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442156)
 #### [이란 시위에서 최소 5,000 명이 사망했다고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442154)
 #### [에르도안, 샤라와 시리아의 최신 상황에 대해 논의하다, 터키는 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442155)
 #### [미국은 합의에 도달하지 않으면 93 억 유로의 EU 관세에 직면 해 있다고 외교관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442153)
@@ -63,6 +66,3 @@
 #### [포르투갈 대선 레이스에서 극우파가 결선 투표까지 가는 접전 양상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442103)
 #### [알파인 스키-독일의 아이허, 본을 제치고 타르비시오 슈퍼-G 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442100)
 #### [프랑스, 쿠르드족 지원군에 대한 시리아 정부의 공격에 우려, 마크롱은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442099)
-#### [브리뇨네, 부상 후 화요일 알파인 월드컵에 복귀할 수 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442096)
-#### ['의심 할 여지없이 'EU는 미국의 새로운 관세에 보복 할 것이라고 아일랜드는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442097)
-#### [노르웨이 총리, 무역 전쟁은 누구에게도 도움이되지 않는다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442098)
