@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_0502 </title></head>
-<center>Vers : 20260118_0502 </center>
-<center>Vers : 20260118_1402 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_0632 </title></head>
+<center>Vers : 20260118_0632 </center>
+<center>Vers : 20260118_1532 </center>
 <br><br><br>
+#### [펜타곤, 1,500명의 군인이 미네소타에 배치될 수 있도록 준비, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442041)
+#### [블랙록, 변동성의 '새로운 체제'가 고객들을 사모 시장으로 밀어내고 있다- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442040)
+#### [국방부, 미네소타에 배치 할 가능성이있는 1,500 명의 군인 준비, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442039)
 #### [중국, 시만두 철광석 첫 선적 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442038)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601600.SS/total>
 #### [주목해야 할 요소 - 1월 18일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442037)
@@ -60,13 +63,13 @@
 #### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 맹세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441983)
 #### [가잔은 미국 이름으로 경계?'트럼프의 계획에 따른 평화의위원회'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441984)
 #### [네타냐후 사무실, 가자 지구 통치위원회에 대한 미국 발표가 이스라엘 정책에 위배된다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441982)
+<head><meta charset="utf-8"><title>Vers : 20260118_0632 </title></head>
+<center>Vers : 20260118_0632 </center>
+<center>Vers : 20260118_1532 </center>
+<br><br><br>
 #### [인도, 12월 항공편 결항으로 IndiGo에 사상 최대인 245만 달러 벌금 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441981)
 #### [덴마크와 그린란드에서 트럼프 합병 위협에 반대하는 시위대의 집회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441980)
 #### [미쓰이 후도산, 2030 회계 연도까지 미국 남부의 임대 주택 개발에 28 억 4 천만 달러 투자 - Nikkei](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441978)
-<head><meta charset="utf-8"><title>Vers : 20260118_0502 </title></head>
-<center>Vers : 20260118_0502 </center>
-<center>Vers : 20260118_1402 </center>
-<br><br><br>
 #### [인도 항공 규제 당국, 2025년 12월 운항 중단으로 인디고 22.20 크로레 루피의 벌금 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441979)
 #### [인도, 12월 항공편 취소에 대해 인디고에 기록적인 벌금 245만 달러 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441977)
 #### [인디고는 12월 초 인디고의 항공편 운항 중단과 관련하여 인도 민간항공국의 명령을 받고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441976)
@@ -133,7 +136,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
 #### [브루스 파워 온타리오 830MW 브루스 B 8 원자력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441923)
 #### [몬조, 퇴임하는 TS 아닐 CEO에게 투자자 반발 후 역할 확대, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441922)
-#### [몬조, 투자자 반발 후 TS Anil에게 역할 확대 -FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441921)
-#### [미국 판사, 미네소타 시위대에 대한 이민국 요원들의 전술에 제지 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441920)
-#### [EU, 중국 공급업체의 핵심 인프라 접근 금지, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441918)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000063.SZ/total>
