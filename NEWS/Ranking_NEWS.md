@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1438 </title></head>
-<center>Vers : 20260118_1438 </center>
-<center>Vers : 20260118_2338 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1450 </title></head>
+<center>Vers : 20260118_1450 </center>
+<center>Vers : 20260118_2350 </center>
 <br><br><br>
 #### ['약 2조원 규모'...홍라희, 삼성전자 주식 1500만주 처분](https://m.stock.naver.com/news/ranknews/view/243/0000091454)
 #### [홍라희, 삼성전자 1500만주 판다…2조원 현금화 이유는](https://m.stock.naver.com/news/ranknews/view/277/0005708288)

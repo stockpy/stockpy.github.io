@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1438 </title></head>
-<center>Vers : 20260118_1438 </center>
-<center>Vers : 20260118_2338 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1450 </title></head>
+<center>Vers : 20260118_1450 </center>
+<center>Vers : 20260118_2350 </center>
 <br><br><br>
 #### [세계 지도자들은 유엔에 대한 두려움 속에서 트럼프의 광범위한 '평화의 판'에 대해 신중한 태도를 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442106)
 #### [시리아군, 미국의 지원을 받는 쿠르드족이 장악한 북동부 지역으로 진격하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442104)
@@ -77,9 +77,9 @@
 #### [통웨이, 2025년 약 90억~100억 위안의 순손실 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442051)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600438.SS/total>
 #### [티어 인텔리전트 장비, 회장 구속, 당국 수사 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442048)
-<head><meta charset="utf-8"><title>Vers : 20260118_1438 </title></head>
-<center>Vers : 20260118_1438 </center>
-<center>Vers : 20260118_2338 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1450 </title></head>
+<center>Vers : 20260118_1450 </center>
+<center>Vers : 20260118_2350 </center>
 <br><br><br>
 #### [롱이 그린 에너지 기술, 2025년 60~65억 위안의 순손실 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442050)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601012.SS/total>
@@ -143,9 +143,9 @@
 #### [EU와 메르코수르, 25년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441989)
 #### [트럼프, 그린란드에 대해 유럽 8개국에 관세 부과 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441987)
 #### [미국, 시리아 군대에 시리아 북부 알레포와 타브 카 사이의 공세 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441988)
-<head><meta charset="utf-8"><title>Vers : 20260118_1438 </title></head>
-<center>Vers : 20260118_1438 </center>
-<center>Vers : 20260118_2338 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1450 </title></head>
+<center>Vers : 20260118_1450 </center>
+<center>Vers : 20260118_2350 </center>
 <br><br><br>
 #### [올림픽-모노밥 챔피언 험프리스, 놀테가 월드컵 종합 우승을 차지하며 컨디션을 회복하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441986)
 #### [트럼프는 JP 모건의 다이먼에게 연준 의장직을 제안한 적이 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2441985)
