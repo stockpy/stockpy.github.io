@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1725 </title></head>
-<center>Vers : 20260118_1725 </center>
-<center>Vers : 20260119_0225 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1828 </title></head>
+<center>Vers : 20260118_1828 </center>
+<center>Vers : 20260119_0328 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442129)
+#### [트럼프의 그린란드에 대한 유럽에 대한 추가 관세 위협으로 시장이 긴장하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442128)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442127)
 #### [영국 정부, 합병 조사에 대한 급진적 개편안 발표 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442125)
 #### [인도, 가자지구 평화위원회에 트럼프의 초청을 받았다고 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442126)
 #### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442124)
@@ -66,7 +69,3 @@
 #### [리비아, 미수라타 자유무역지대 확장을 위한 27억 달러 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442072)
 #### [중국 닝보 론베이, 170억 달러 규모의 CATL 거래에 대한 진술에 대해 조사 중이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442068)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688005.SS/total>
-#### [Tcl 전자, 2025 년 조정 순이익 23 억 3 천만 홍콩 달러에서 25 억 7 천만 홍콩 달러 범위로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442070)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1070.HK/total>
-#### [러시아 소유, 미국 제재의 국정원, 세르비아 정유소 재가동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442069)
-#### [네덜란드 장관, 트럼프의 그린란드 관세 위협에 '협박'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442067)
