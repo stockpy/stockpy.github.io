@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_2116 </title></head>
-<center>Vers : 20260118_2116 </center>
-<center>Vers : 20260119_0616 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_2220 </title></head>
+<center>Vers : 20260118_2220 </center>
+<center>Vers : 20260119_0720 </center>
 <br><br><br>
+#### [그린란드 개발로 인해 초기 아시아에서 BUZZ-EUR/USD가 흔들립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442169)
+#### [시라 리소스, 테슬라 오프테이크의 채무 불이행 치료 날짜 연장 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442168)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442166)
+#### [레이븐, RORC 대서양 횡단 레이스에서 단일선체 신기록 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442167)
+#### [영국 포퓰리스트 개혁당, 최근 보수당 탈당자 영입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442164)
+#### [EU와 영국은 덴마크와 그린란드의 주권을 약속했다고 폰 데어 라이 엔은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442162)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442165)
+#### [버즈 시티, 호주 구즈만 이 고메즈 상반기 실적 전망 상향 조정, PT 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442163)
+#### [EU 대사들은 새로운 트럼프 관세에 대해 먼저 대화에 동의하고 2 월 1 일부터 보복 가능성이 있다고 EU 외교관들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442159)
+#### [스페인에서 고속 열차 두 대 탈선, 브로캐스터가 5명 사망 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442160)
+#### [하이니온, 파산 신청 진행 결정 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442161)
 #### [시리아, 유전권 보유 기업과 협력하여 유전 및 가스전 개발 계획 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442157)
 #### [미국 북서부 강 유량은 97 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442158)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442156)
@@ -52,17 +63,3 @@
 #### [이스라엘에서 우버, 리프트 허용 법안, 위원회 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442113)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LYFT.O/total>
 #### [칠레, 산불로 수천 명이 대피하면서 국가 재난 사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442110)
-#### [트럼프의 평화위원회 발표 이후 유엔 회원들은 다른 그룹에서 자유롭게 연합 할 수 있다고 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442108)
-#### [과테말라 경찰이 인질을 억류하고 있던 세 곳의 교도소 중 한 곳을 되찾았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442109)
-#### [트럼프가 그린란드에 대한 유럽 관세 부과를 예고하면서 세계 시장이 새로운 충격에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442107)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.GDAXI>
-#### [세계 지도자들은 유엔에 대한 두려움 속에서 트럼프의 광범위한 '평화의 판'에 대해 신중한 태도를 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442106)
-#### [시리아군, 미국의 지원을 받는 쿠르드족이 장악한 북동부 지역으로 진격하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442104)
-#### [쿠르드 사령관, 미국에 시리아 충돌에 '강력한 개입' 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442105)
-#### [중국 루이의 간접 자회사, AIsphere 주식에 투자하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442101)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0136.HK/total>
-#### [월스트리트 한 주를 앞두고-투자자들은 정책 노이즈가 커지면서 미국 기업실적 강세에 기대를 걸고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442102)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBD.O/total>
-#### [포르투갈 대선 레이스에서 극우파가 결선 투표까지 가는 접전 양상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442103)
-#### [알파인 스키-독일의 아이허, 본을 제치고 타르비시오 슈퍼-G 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442100)
-#### [프랑스, 쿠르드족 지원군에 대한 시리아 정부의 공격에 우려, 마크롱은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442099)
