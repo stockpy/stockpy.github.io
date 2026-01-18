@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_2220 </title></head>
-<center>Vers : 20260118_2220 </center>
-<center>Vers : 20260119_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_2240 </title></head>
+<center>Vers : 20260118_2240 </center>
+<center>Vers : 20260119_0740 </center>
 <br><br><br>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442171)
+#### [카타르, 캐나다에 '중요한 전략적 투자'를하겠다는 약속 확인, 국영 통신사 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442172)
+#### [미국 회담은 급습 수개월 전부터 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442170)
 #### [그린란드 개발로 인해 초기 아시아에서 BUZZ-EUR/USD가 흔들립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442169)
 #### [시라 리소스, 테슬라 오프테이크의 채무 불이행 치료 날짜 연장 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442168)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442166)
@@ -59,7 +62,3 @@
 #### [EU 회원국들, 트럼프 관세 위협 규탄하고 대응책 고려 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442115)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442114)
 #### [칠레, 산불로 16명이 사망하고 수천 명이 대피하는 가운데 국가재난사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442111)
-#### [시리아군, 라카 외곽으로 진입해 미국 지원 아래 쿠르드족이 장악한 북동부 지역으로 진격합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442112)
-#### [이스라엘에서 우버, 리프트 허용 법안, 위원회 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442113)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LYFT.O/total>
-#### [칠레, 산불로 수천 명이 대피하면서 국가 재난 사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442110)
