@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260118_1828 </title></head>
-<center>Vers : 20260118_1828 </center>
-<center>Vers : 20260119_0328 </center>
+<head><meta charset="utf-8"><title>Vers : 20260118_1851 </title></head>
+<center>Vers : 20260118_1851 </center>
+<center>Vers : 20260119_0351 </center>
 <br><br><br>
+#### [쿠바인, 아바나 대사관 밖에서 미국 '제국주의자'에 반대하는 집회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442133)
+#### [1월 18일 일요일 오후 1시 30분(미국 동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442132)
+#### ['우리는 두렵지 않다', 그린란드 인들은 트럼프의 관세 위협 이후 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442131)
+#### [트럼프가 그린란드에 대한 관세 위협 후 유로화, 7 주 최저치로 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442130)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442129)
 #### [트럼프의 그린란드에 대한 유럽에 대한 추가 관세 위협으로 시장이 긴장하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442128)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442127)
@@ -64,8 +68,3 @@
 #### [포르투갈, 벼랑 끝 대선 투표 개표 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442077)
 #### [세일GP 챔피언스 브리튼, 퍼스에서의 압도적인 우승으로 2026년을 시작하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442075)
 #### [스코틀랜드 초대 장관은 5 월 과반수가 새로운 독립 추진을 의미한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442073)
-#### [포르투갈, 극우파가 결선투표에 진출한 가운데 치열한 대선 레이스 돌입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442074)
-#### [과테말라 수감자들이 교도소를 점거하고 수십 명을 인질로 잡고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442071)
-#### [리비아, 미수라타 자유무역지대 확장을 위한 27억 달러 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442072)
-#### [중국 닝보 론베이, 170억 달러 규모의 CATL 거래에 대한 진술에 대해 조사 중이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442068)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688005.SS/total>
