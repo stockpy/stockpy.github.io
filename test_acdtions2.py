@@ -20,10 +20,11 @@ headers={'user-agent': 'Mozilla/5.0'}
 
 # Pension List
 AMOUNT_BUDGET = 600000
-PENSION_PERCS = ['0%', '50%', '15%', '10%', '10%', '15%', '0%', '0%']
+PENSION_PERCS = ['0%', '50%', '15%', '10%', '10%', '15%', '0%', '0%'] # 자산분배 목표율
 PENSION_DIVIDENDS, PENSION_CALL = [], []
 
-MY_STOCK_PRICE, MY_PERC = [], []
+MY_STOCK_PRICE, MY_PERC, MY_Target_PEC, MY_Target_Count = [], [], [], []
+
 # MY_STOCK_COUNT = [191, 507, 193, 259, 175, 197, 1054, 795]
 MY_STOCK_COUNT_Dict = {'KODEX 200TR' : 191,
                        'KODEX 미국S&P500' : 507,
@@ -220,33 +221,42 @@ def __KO_ETF_Allocation() :
         print("# 마지막 종가 : %s, %i" % (ETF_Date_List[-1], ETF_Price_List[-1]))
 
         DF_Pension_StockName.append(ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)])
-        PENSION_PRICES.append(ETF_Price_List[-1])
+        PENSION_PRICES.append(ETF_Price_List[-1]) # 마지막 종가를 최종 종가로 판단해서 가져옴
 
     for index, price in enumerate(PENSION_PRICES):
     #     print(index, price, PENSION_PERCS[index])
         percentage_value = float(PENSION_PERCS[index].rstrip('%')) / 100
-        dividend_amount = int(AMOUNT_BUDGET * percentage_value)
-        PENSION_DIVIDENDS.append(dividend_amount)
-        PENSION_CALL.append(int(dividend_amount/PENSION_PRICES[index]))
+        dividend_amount = int(AMOUNT_BUDGET * percentage_value) # 매월 투자금 60만원을 자산분배 목표율로 곱하기 --> 종목의 투자금
+        PENSION_DIVIDENDS.append(dividend_amount) # 종목의 투자금
+        PENSION_CALL.append(int(dividend_amount/PENSION_PRICES[index])) # 종목 투자 개수
 
     for idx, val in enumerate(list(MY_STOCK_COUNT_Dict.values())) :
       print("%s, %i" %(DF_Pension_StockName[idx], PENSION_PRICES[idx]*val))
       Result = int(PENSION_PRICES[idx]*val)
-      MY_STOCK_PRICE.append(Result)
+      MY_STOCK_PRICE.append(Result) # 종목당 투자금
       sum+=Result
       if PENSION_PERCS[idx] != '0%' :
-        sum1+=Result
+        sum1+=Result # 전체 투자 총액
 
     for idx, val in enumerate(MY_STOCK_PRICE) :
         if PENSION_PERCS[idx] != '0%' :
             print(f"{round((val/sum1*100), 0)}%")
             MY_PERC.append(f"{round((val/sum1*100), 0)}%")
+            print(idx, val, sum1)
+            # testtest=sum1*(int(PENSION_PERCS[idx].rstrip('%'))/100) # 자산분배 목표율
+            MY_Target_PEC.append(sum1*(int(PENSION_PERCS[idx].rstrip('%'))/100)) # 자산분배 목표율로 계산한 종목당 목표금액
+            MY_Target_Count.append(sum1*(int(PENSION_PERCS[idx].rstrip('%'))/100)/PENSION_PRICES[idx]) # 자산분배 목표율로 계산한 종목당 개수
         else :
             MY_PERC.append("0%")
+            MY_Target_PEC.append("0")
+            MY_Target_Count.append("0")
 
     print("# MY_PERC")
     print(MY_PERC)
-    
+    print(MY_Target_PEC)
+    print(MY_Target_Count)
+    print(sum1)
+
     df = pd.DataFrame({
         'ETF_Name': DF_Pension_StockName,
         'Alloc_P': PENSION_PERCS,
