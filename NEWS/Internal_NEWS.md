@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260119_2243 </title></head>
-<center>Vers : 20260119_2243 </center>
-<center>Vers : 20260120_0743 </center>
+<head><meta charset="utf-8"><title>Vers : 20260119_2256 </title></head>
+<center>Vers : 20260119_2256 </center>
+<center>Vers : 20260120_0756 </center>
 <br><br><br>
+#### [BHP, 기록적인 HY 철광석 생산량 보고, 가격 양보 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443296)
+#### [샤마란, 오슬로에 1차 상장 및 버뮤다로의 기업 존속 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443294)
+#### [자동차 제조업체 르노, 프랑스 드론 산업 발전 지원 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443293)
+#### [영국, 새로운 규제 기관으로 어려움을 겪고 있는 수자원 부문을 겨냥하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443295)
 #### [GBR, 브라질 아제베도 & 트라바소스 보통주 지분 4.94%까지 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443290)
 #### [네메시스, 브라질 아제베도 & 트라바소스의 보통주 지분을 57.81%로 줄였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443292)
 #### [쿠르드 루다우 웹사이트, 시리아 샤다디 감옥에서 탈출한 이슬람국가 대원 약 1500명 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443289)
@@ -62,8 +66,3 @@
 #### [EU, NATO는 미국의 압력에 함께 반발해야한다고 덴마크 FM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443236)
 #### [IAEA, 우크라이나 자 포리 지아 원자력 발전소에 전력 재 연결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443239)
 #### [쿠르드 군, 터키 드론이 시리아 하사카시를 공격했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443237)
-#### [쿡 사건은 연준의 '원인' 보호 또는 해고 로드맵으로 이어질 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443235)
-#### [이탈리아 재무부, 몬테 데이 파스키 CEO의 새 임기 지지, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443238)
-#### [캐나다 달러가 혼재된 인플레이션 데이터로 6일 만에 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443233)
-#### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
-#### [WTI Midland 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443234)
