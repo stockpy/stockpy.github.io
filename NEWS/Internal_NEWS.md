@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260119_2256 </title></head>
-<center>Vers : 20260119_2256 </center>
-<center>Vers : 20260120_0756 </center>
+<head><meta charset="utf-8"><title>Vers : 20260119_2324 </title></head>
+<center>Vers : 20260119_2324 </center>
+<center>Vers : 20260120_0824 </center>
 <br><br><br>
+#### [브라질의 JSL, 4분기 총 매출 29억 헤알 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443303)
+#### [말레이시아 카자나, 전력망, 칩 회사에 더 많은 자본 투입, 다보스에서 최고 책임자 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443304)
+#### [AI가 일자리에 미치는 영향을 가장 걱정하는 젊은 근로자, 랜드스태드 설문 조사 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443302)
+#### [대출 기관 방코 두 브라질, 2026년까지 배당금 30% 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443300)
+#### [영국, 호주식 아동 소셜 미디어 사용 금지 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443301)
+#### [브라질 마르코폴로, 지배주주 지분 55.3%로 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443299)
+#### [영국, 금지 가능성을 포함한 아동의 소셜 미디어 사용에 대한 상담 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443297)
+#### [미국과 유럽연합의 다툼에서 잠재적 승자로 떠오른 BUZZ-NZD/USD](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443298)
 #### [BHP, 기록적인 HY 철광석 생산량 보고, 가격 양보 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443296)
 #### [샤마란, 오슬로에 1차 상장 및 버뮤다로의 기업 존속 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443294)
 #### [자동차 제조업체 르노, 프랑스 드론 산업 발전 지원 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443293)
@@ -57,12 +65,3 @@
 #### [발네바, 치쿤구냐 주사에 대한 미국 표준 승인 신청 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443246)
 #### [쿠르드 군, 터키 드론이 시리아의 하사카시를 공격했다고 말했지만 터키는이를 부인했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443250)
 #### [말레이시아의 카자 나, 전력망, 칩 회사에 더 많은 자본을 투입 할 것이라고 다보스에서 수석은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443247)
-#### [코인베이스, 버뮤다가 코인베이스와 서클의 지원으로 세계 최초의 완전 온체인 국가 경제를 구축한다고 발표 - Post On X](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443243)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
-#### ['우리는 진정한 거장을 잃었다': 이탈리아 패션계의 거장 발렌티노에게 바치는 헌사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443244)
-#### [로트네로스, 2025년 4분기에 작년 같은 분기에 비해 현저히 낮은 EBITDA 실적 전망 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443241)
-#### [스웨덴, 덴마크와 그린란드를 지원한다고 스웨덴 국방부 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443240)
-#### [패트릭 드라히, 90억 유로 규모의 엑스파이버 판매 개시 임박 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443242)
-#### [EU, NATO는 미국의 압력에 함께 반발해야한다고 덴마크 FM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443236)
-#### [IAEA, 우크라이나 자 포리 지아 원자력 발전소에 전력 재 연결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443239)
-#### [쿠르드 군, 터키 드론이 시리아 하사카시를 공격했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443237)
