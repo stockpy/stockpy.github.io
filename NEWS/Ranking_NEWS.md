@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260119_1659 </title></head>
-<center>Vers : 20260119_1659 </center>
-<center>Vers : 20260120_0159 </center>
+<head><meta charset="utf-8"><title>Vers : 20260119_1731 </title></head>
+<center>Vers : 20260119_1731 </center>
+<center>Vers : 20260120_0231 </center>
 <br><br><br>
 #### [삼성전자 1주도 없이 109억 매도 '폭탄'…국내외 금융사 6곳 40억 '과징금'](https://m.stock.naver.com/news/ranknews/view/008/0005306398)
 #### [하루 만에 '500억' 샀다…외국인 러브콜에 주가 급등한 회사 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005239325)
