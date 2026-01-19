@@ -1,7 +1,62 @@
-<head><meta charset="utf-8"><title>Vers : 20260119_0152 </title></head>
-<center>Vers : 20260119_0152 </center>
-<center>Vers : 20260119_1052 </center>
+<head><meta charset="utf-8"><title>Vers : 20260119_0351 </title></head>
+<center>Vers : 20260119_0351 </center>
+<center>Vers : 20260119_1251 </center>
 <br><br><br>
+#### [마이크론이 대만 팹을 18억 달러에 인수하기로 결정한 후 파워칩 주가가 급등했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442272)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
+#### [RBI: 1월 31일까지 2주 동안 일일 평균 현금 준비금 요구액 7조 6400억 루피](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442268)
+#### [인도 은행, 1월 16일 MSF를 통해 28억 8천만 루피 차입 ? RBI](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442273)
+#### [인도 cenbank, 1월 16일 1317억 9천만 루피 재융자 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442271)
+#### [인도 cenbank, 1월 16일 은행의 현금 잔액이 7조 7,600억 루피라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442269)
+#### [인도 정부 잉여 현금 잔고, 1월 16일 기준 경매용 RBI는 0원 ? cenbank](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442267)
+#### [미국 유가는 $59.85에서 저항을 테스트할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442270)
+#### [트럼프의 그린란드 관세로 호주, 뉴질랜드 달러가 정서에 타격을 입으면서 흔들립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442266)
+#### [일본 전력 회사 에렉스, 분쟁 중인 에너트레이드 인수 협상 중- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442265)
+#### [USD/INR 상승세가 걸림돌, 편향성은 여전히 높습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442264)
+#### [1월에 5억 달러 이상의 인도 채권을 매입한 BUZZ-FPI, 숏엔드에 집중하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442263)
+#### [AUD/USD가 중립 범위에서 안정세를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442261)
+#### [인도 모닝 뉴스레터, 1월 19일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442259)
+#### [그린란드 분쟁으로 달러 하락에 어려움을 겪고있는 루피가 휴식을 추구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442262)
+#### [주정부가 차입금 감소를 발표한 후 인도 채권은 일부 손실을 회복 할 준비가되어 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442260)
+#### [Palm 하락 개장, 트레이더들이 수출 데이터 대기 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442258)
+#### [케이블, 1.3321까지 초반 급락 후 반등, 일부 수요 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442257)
+#### [일본 선물, 수익 예약으로 하락폭 확대, 엔화 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442256)
+#### [중국의 인구가 4년 연속 감소하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442255)
+#### [영국 비즈니스 - 1월 19일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442252)
+#### [인도 증시는 무역전쟁 리스크와 혼조된 실적에 약세로 출발할 전망입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442253)
+#### [아시아 증시 및 달러 하락, 중국 데이터 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442251)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
+#### [USD/INR 공개 입찰, NDF 추적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442249)
+#### [카리와 원자력 발전소 재가동 연기, NHK 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442254)
+#### [모리셔스를 통한 투자에 대한 인도의 획기적인 세금 판결이 글로벌 투자자들을 뒤흔들고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442250)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
+#### [호주의 전략적 에너지 자원, 국경 간 JV에 뛰어들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442248)
+#### [달러 하락, 트럼프의 관세 인상으로 투자자들은 안전한 피난처를 찾습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442247)
+#### [호주 지프, 미국 규제 불확실성으로 PT를 줄인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442242)
+#### [트럼프의 그린란드 관세 위협으로 투자자들은 달러를 팔고 안전을 추구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442238)
+#### [포트폴리오 유출로 루피, 채권 압박 가능성, 그린란드 분쟁의 파급 효과 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442246)
+#### [중국 12월 신규 주택 가격 다시 하락, 연간 하락폭 5개월 만에 가장 가파르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442241)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2007.HK/total>
+#### [스피어 엔터테인먼트, 메릴랜드 주, 프린스 조지 카운티 및 피터슨 회사, 내셔널 하버에 구 개발 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442244)
+#### [엔화 랠리, 기계 주문 감소로 일본 닛케이 하락, 그린란드 비애 가중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442245)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8267.T/total>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442240)
+#### [태국 바트화 상승세, 대만 달러 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442243)
+#### [이란 시위 소강상태로 유가 안정, 미국 공격 가능성 낮아져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442237)
+#### [트럼프 관세 위협으로 파운드화 선물이 7주 만에 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442239)
+#### [호주 기술주, 9개월 만에 최저치 기록, 미국 동종업계 추월](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442236)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NDAQ.O/total>
+#### [중국의 12 월 공장 생산량은 전년 대비 5.2 % 증가, 소매 판매는 예상치를 놓쳤습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442233)
+#### [중국이 관세를 완화함에 따라 정저우 유채 밀 선물이 1 년 만에 최저치로 떨어졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442234)
+#### [도쿄 스틸, 2월 제품 가격 동결 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442235)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600019.SS/total>
+#### [중국 인구, 4년 연속 감소세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442231)
+#### [1월 19일의 인도 경제, 기업 이벤트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442232)
+#### [일본은 식품에 대한 판매세를 영구적으로 폐지 할 수 있다고 야당 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442229)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442227)
+#### [12월 중국 주택 가격 하락세 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442230)
+#### [그린란드에 대한 트럼프 관세 위협에 금, 은이 사상 최고치로 뛰어 오르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442228)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLD/total>
 #### [CBS 뉴스, 엘살바도르 교도소 관련 '추적 60분' 리포트 방영 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442226)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442224)
@@ -20,6 +75,10 @@
 #### [그린란드의 영향을 파악하기 위해 분주하게 움직이는 BUZZ-AUD/USD](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442215)
 #### [USD 강세, USD/JPY 157로 반등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442216)
 #### [트럼프가 그린란드에 대한 관세 인상으로 압박을 받고있는 외환-달러, 안전한 피난처 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442209)
+<head><meta charset="utf-8"><title>Vers : 20260119_0351 </title></head>
+<center>Vers : 20260119_0351 </center>
+<center>Vers : 20260119_1251 </center>
+<br><br><br>
 #### [BUZZ-COMMENT- 한 주 앞으로-BOJ 결정, 지정학, 플래시 PMI 초점](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442205)
 #### [파이낸셜 타임즈 - 1월 19일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442210)
 #### [칠레 남부를 휩쓴 산불로 인근 지역이 불타고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442208)
@@ -84,10 +143,6 @@
 #### [그린란드 개발로 인해 초기 아시아에서 BUZZ-EUR/USD가 흔들립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442169)
 #### [시라 리소스, 테슬라 오프테이크의 채무 불이행 치료 날짜 연장 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442168)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442166)
-<head><meta charset="utf-8"><title>Vers : 20260119_0152 </title></head>
-<center>Vers : 20260119_0152 </center>
-<center>Vers : 20260119_1052 </center>
-<br><br><br>
 #### [레이븐, RORC 대서양 횡단 레이스에서 단일선체 신기록 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442167)
 #### [영국 포퓰리스트 개혁당, 최근 보수당 탈당자 영입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442164)
 #### [EU와 영국은 덴마크와 그린란드의 주권을 약속했다고 폰 데어 라이 엔은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442162)
@@ -101,6 +156,10 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442156)
 #### [이란 시위에서 최소 5,000 명이 사망했다고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442154)
 #### [에르도안, 샤라와 시리아의 최신 상황에 대해 논의하다, 터키는 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442155)
+<head><meta charset="utf-8"><title>Vers : 20260119_0351 </title></head>
+<center>Vers : 20260119_0351 </center>
+<center>Vers : 20260119_1251 </center>
+<br><br><br>
 #### [미국은 합의에 도달하지 않으면 93 억 유로의 EU 관세에 직면 해 있다고 외교관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442153)
 #### [EU, 트럼프의 그린란드 관세 위협에 대해 긴급 정상 회담 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442152)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442151)
@@ -150,3 +209,18 @@
 #### [과테말라 경찰이 인질을 억류하고 있던 세 곳의 교도소 중 한 곳을 되찾았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442109)
 #### [트럼프가 그린란드에 대한 유럽 관세 부과를 예고하면서 세계 시장이 새로운 충격에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442107)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.GDAXI>
+#### [세계 지도자들은 유엔에 대한 두려움 속에서 트럼프의 광범위한 '평화의 판'에 대해 신중한 태도를 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442106)
+#### [시리아군, 미국의 지원을 받는 쿠르드족이 장악한 북동부 지역으로 진격하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442104)
+#### [쿠르드 사령관, 미국에 시리아 충돌에 '강력한 개입' 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442105)
+#### [중국 루이의 간접 자회사, AIsphere 주식에 투자하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442101)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0136.HK/total>
+#### [월스트리트 한 주를 앞두고-투자자들은 정책 노이즈가 커지면서 미국 기업실적 강세에 기대를 걸고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442102)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBD.O/total>
+#### [포르투갈 대선 레이스에서 극우파가 결선 투표까지 가는 접전 양상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442103)
+#### [알파인 스키-독일의 아이허, 본을 제치고 타르비시오 슈퍼-G 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442100)
+#### [프랑스, 쿠르드족 지원군에 대한 시리아 정부의 공격에 우려, 마크롱은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442099)
+#### [브리뇨네, 부상 후 화요일 알파인 월드컵에 복귀할 수 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442096)
+#### ['의심 할 여지없이 'EU는 미국의 새로운 관세에 보복 할 것이라고 아일랜드는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442097)
+#### [노르웨이 총리, 무역 전쟁은 누구에게도 도움이되지 않는다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442098)
+#### [카니, 트럼프의 가자 평화위원회에 원칙적으로 동의, 세부 사항 작업 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442094)
+#### [맥그래스, 벵겐 우승으로 월드컵 대회전 랭킹 1위 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2442095)

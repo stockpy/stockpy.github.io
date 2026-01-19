@@ -1,5 +1,5 @@
-<center>Vers : 20260119_0350 </center>
-<center>Vers : 20260119_1250 </center>
+<center>Vers : 20260119_0351 </center>
+<center>Vers : 20260119_1251 </center>
 <br>
 <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -28,7 +28,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>0</th>
       <td>KODEX 200TR</td>
       <td>0%</td>
-      <td>25730</td>
+      <td>25695</td>
       <td>0</td>
       <td>0%</td>
     </tr>
@@ -36,7 +36,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>1</th>
       <td>KODEX 미국S&amp;P500</td>
       <td>50%</td>
-      <td>23117</td>
+      <td>23120</td>
       <td>12</td>
       <td>55.0%</td>
     </tr>
@@ -52,7 +52,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>3</th>
       <td>KODEX 미국10년국채선물</td>
       <td>10%</td>
-      <td>12490</td>
+      <td>12495</td>
       <td>4</td>
       <td>15.0%</td>
     </tr>
@@ -68,7 +68,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>5</th>
       <td>KODEX 미국배당다우존스</td>
       <td>15%</td>
-      <td>11615</td>
+      <td>11612</td>
       <td>7</td>
       <td>11.0%</td>
     </tr>
@@ -84,7 +84,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>7</th>
       <td>ACE 테슬라밸류체인액티브</td>
       <td>0%</td>
-      <td>22100</td>
+      <td>22095</td>
       <td>0</td>
       <td>0%</td>
     </tr>
