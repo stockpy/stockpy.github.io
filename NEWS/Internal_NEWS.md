@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260119_2222 </title></head>
-<center>Vers : 20260119_2222 </center>
-<center>Vers : 20260120_0722 </center>
+<head><meta charset="utf-8"><title>Vers : 20260119_2243 </title></head>
+<center>Vers : 20260119_2243 </center>
+<center>Vers : 20260120_0743 </center>
 <br><br><br>
+#### [GBR, 브라질 아제베도 & 트라바소스 보통주 지분 4.94%까지 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443290)
+#### [네메시스, 브라질 아제베도 & 트라바소스의 보통주 지분을 57.81%로 줄였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443292)
+#### [쿠르드 루다우 웹사이트, 시리아 샤다디 감옥에서 탈출한 이슬람국가 대원 약 1500명 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443289)
+#### [천연가스 파이프라인 중요 공지: 사빈 파이프라인 기타/기상 경보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443291)
+#### [천연가스 파이프라인 중요 공지: 사빈 파이프라인 기타/기상 경보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443288)
+#### [달러 수요 고갈에 따른 BUZZ-EUR/USD 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443287)
 #### [ICE 카놀라 선물, 중국 수요가 스프레드에 영향을 미치다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443283)
 #### [브라질 대법원, 투자자 넬슨 타누레의 자산 동결 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443284)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443286)
@@ -61,9 +67,3 @@
 #### [캐나다 달러가 혼재된 인플레이션 데이터로 6일 만에 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443233)
 #### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
 #### [WTI Midland 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443234)
-#### [마하 캐피탈, 베네수엘라 석유 회사 지분 인수를 위해 미국 승인 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443231)
-#### [영국 정부, 옥토퍼스 에너지의 기술 부문 크라켄 지분 2,500만 Stg 인수 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443232)
-#### [터키의 쿠르드 정당, 시리아 협상이 앙카라를 평화 프로세스에 '변명의 여지가 없다'고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443230)
-#### [수사관들이 스페인 철도 사고 현장에서 선로에서 부러진 관절을 발견했습니다: 출처](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443225)
-#### [미국 북서부 강 유량이 95퍼센트까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443227)
-#### [핀란드의 스텁 : 미국은 무력으로 그린란드를 점령 할 가능성이 낮습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443229)
