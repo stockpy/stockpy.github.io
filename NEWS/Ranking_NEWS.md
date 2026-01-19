@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260119_1428 </title></head>
-<center>Vers : 20260119_1428 </center>
-<center>Vers : 20260119_2328 </center>
+<head><meta charset="utf-8"><title>Vers : 20260119_1455 </title></head>
+<center>Vers : 20260119_1455 </center>
+<center>Vers : 20260119_2355 </center>
 <br><br><br>
 #### [삼성전자 1주도 없이 109억 매도 '폭탄'…국내외 금융사 6곳 40억 '과징금'](https://m.stock.naver.com/news/ranknews/view/008/0005306398)
 #### ["여보, 성과급 0원 진짜야" 300% 받다 사기진작금만...신한카드 어쩌다](https://m.stock.naver.com/news/ranknews/view/008/0005306436)
@@ -62,9 +62,9 @@
 #### [“2026년 폭발적 성장”...피델리티 “비트코인, ‘컨테이너 혁명’ 순간 왔다”](https://m.stock.naver.com/news/ranknews/view/009/0005623831)
 #### [“삼전 주식 2조 처분합니다”…상속세 납부·대출상환에 쓴다는 관장님](https://m.stock.naver.com/news/ranknews/view/009/0005623576)
 #### [“양자컴퓨터 위협은 현실”…월가 큰손, 비트코인 버리고 ‘금’으로 회귀](https://m.stock.naver.com/news/ranknews/view/009/0005623882)
-<head><meta charset="utf-8"><title>Vers : 20260119_1428 </title></head>
-<center>Vers : 20260119_1428 </center>
-<center>Vers : 20260119_2328 </center>
+<head><meta charset="utf-8"><title>Vers : 20260119_1455 </title></head>
+<center>Vers : 20260119_1455 </center>
+<center>Vers : 20260119_2355 </center>
 <br><br><br>
 #### ['사상 최고' 삼성전자, 장중 상승 전환…'15만전자' 첫 돌파[핫종목]](https://m.stock.naver.com/news/ranknews/view/421/0008722014)
 #### ['고환율 비상' 정부, 방어에 온 힘 다한다지만…](https://m.stock.naver.com/news/ranknews/view/648/0000043686)
