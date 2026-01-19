@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260119_1925 </title></head>
-<center>Vers : 20260119_1925 </center>
-<center>Vers : 20260120_0425 </center>
+<head><meta charset="utf-8"><title>Vers : 20260119_2025 </title></head>
+<center>Vers : 20260119_2025 </center>
+<center>Vers : 20260120_0525 </center>
 <br><br><br>
+#### [시리아 대통령, 트럼프, 전화 통화에서 시리아 사태 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443262)
+#### [CEO 매출 신뢰도 5년 만에 최저치 기록 - PwC 설문조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443261)
+#### ['우리는 진정한 거장을 잃었다': 이탈리아 패션계의 거장 발렌티노에게 바치는 헌사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443260)
+#### [비리디스, 중국의 반발 속 미국-유럽 희토류 거래 목표 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443259)
+#### ['달러 매도' 부활로 BUZZ-AUD/USD가 반등세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443258)
+#### [헨켈, 스탈 인수를 위한 벤델과의 논의 확정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443256)
+#### [브라질 커피 수출, 2025년 기록적인 156억 달러 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443257)
+#### [브라질 철강 생산량이 12 월에 1.9 % 감소했다고 ACO BRASIL은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443255)
+#### [오라스콤 인수합병에 대한 투표를 막다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443254)
 #### [모로코, 트럼프의 가자 평화위원회 합류 초청 수락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443253)
 #### [폴란드 대통령, 2026년 예산안에 서명하고 헌법재판소로 보내 견제 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443252)
 #### [브라질 커피 수출, 2025년 기록적인 156억 달러 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443251)
@@ -58,12 +67,3 @@
 #### [불가리아의 라데프 대통령 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443201)
 #### [유럽은 그린란드에 보복하는 것은 '매우 현명하지 않다'고 베센트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443207)
 #### [가솔린 정제 마진 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443204)
-#### [에어 트랜샛, 데자르댕 및 비자 캐나다와 함께 로열티 프로그램 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443200)
-#### [터키의 민주당, 시리아 협상이 앙카라를 '변명의 여지없이'떠난다, 평화 과정은 계속되어야한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443206)
-#### [덴마크, 그린란드, 북극 나토 임무 제안, 덴마크 국방부 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443203)
-#### [이탈리아, '건축의 아버지' 비트루비우스가 설계한 대성당 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443199)
-#### [JSW, 노동조합과의 대화는 앞으로도 계속될 것이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443196)
-#### [체코 방위 회사 CSG는 금요일 암스테르담 IPO에서 데뷔 할 계획이라고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443197)
-#### [이탈리아 패션 디자이너 발렌티노, 93세 나이로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443198)
-#### [덴마크, 그린란드, 북극에서 나토 임무 제안, 덴마크 국방부 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443189)
-#### [캐나다는 그린란드에 소규모 파견대를 보낼 수 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443186)
