@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260119_1833 </title></head>
-<center>Vers : 20260119_1833 </center>
-<center>Vers : 20260120_0333 </center>
+<head><meta charset="utf-8"><title>Vers : 20260119_1858 </title></head>
+<center>Vers : 20260119_1858 </center>
+<center>Vers : 20260120_0358 </center>
 <br><br><br>
+#### [로트네로스, 2025년 4분기에 작년 같은 분기에 비해 현저히 낮은 EBITDA 실적 전망 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443241)
+#### [스웨덴, 덴마크와 그린란드를 지원한다고 스웨덴 국방부 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443240)
+#### [패트릭 드라히, 90억 유로 규모의 엑스파이버 판매 개시 임박 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443242)
+#### [EU, NATO는 미국의 압력에 함께 반발해야한다고 덴마크 FM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443236)
+#### [IAEA, 우크라이나 자 포리 지아 원자력 발전소에 전력 재 연결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443239)
+#### [쿠르드 군, 터키 드론이 시리아 하사카시를 공격했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443237)
+#### [쿡 사건은 연준의 '원인' 보호 또는 해고 로드맵으로 이어질 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443235)
+#### [이탈리아 재무부, 몬테 데이 파스키 CEO의 새 임기 지지, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443238)
 #### [캐나다 달러가 혼재된 인플레이션 데이터로 6일 만에 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443233)
 #### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
 #### [WTI Midland 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443234)
@@ -58,11 +66,3 @@
 #### [알제리, 아르헨티나 주요 공급원과 입찰에서 약 60 만 톤의 제분 밀 구매, 상인들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443180)
 #### [그란디 비아기 회계연도 순이익 350만 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443184)
 #### [억만장자들의 부는 권력을 사들이면서 새로운 정점에 도달했다고 옥스팜은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443185)
-#### [인도, UAE, 30억 달러 규모의 LNG 계약 체결, 정상 회담에서 무역 및 방위 관계 강화 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443179)
-#### [유라제오, 엑스 니힐로의 소수 지분을 엘 캐터튼에 매각하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443183)
-#### [러시아, 자 포리 지아 원자력 발전소 전력 완전 복구, RIA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443181)
-#### [유럽에는 자국의 이익을 보호할 수 있는 다양한 도구가 있다고 칼라스 박사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443178)
-#### [EU는 트럼프의 그린란드 관세 위협에 대한 대응을 결정해야한다고 덴마크 외무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443182)
-#### [트럼프, 폴란드 대통령을 가자 평화위원회에 초대, 보좌관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443174)
-#### [시리아, IS 무장 세력 탈옥 후 샤다디 통금 시간 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443176)
-#### [스테이트 스트리트, 세컨더리로의 추가 확장을 주시하고 있다고 Hung은 말합니다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443177)
