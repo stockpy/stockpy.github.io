@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260119_2127 </title></head>
-<center>Vers : 20260119_2127 </center>
-<center>Vers : 20260120_0627 </center>
+<head><meta charset="utf-8"><title>Vers : 20260119_2222 </title></head>
+<center>Vers : 20260119_2222 </center>
+<center>Vers : 20260120_0722 </center>
 <br><br><br>
+#### [ICE 카놀라 선물, 중국 수요가 스프레드에 영향을 미치다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443283)
+#### [브라질 대법원, 투자자 넬슨 타누레의 자산 동결 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443284)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443286)
+#### [메리어트 호스피탈리티 그룹 4분기 순이익 미화 -1340만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443285)
+#### [러시아 극동지역에 폭설로 자동차 매몰, 출입구 막혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443281)
+#### [몰도바, 러시아 주도의 독립국가연합 그룹에서 탈퇴 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443282)
+#### [호주 주가는 개장시 하락, 뉴질랜드 주가는 장 초반 보합세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443278)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
+#### [미국 FDA, 개 심부전 지연을위한 최초의 약물 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443280)
+#### [S&P, 브라질 국가신용등급을 'BB-'에서 'B+'로 강등, 전망 부정적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443276)
+#### [트럼프 행정부, 미네소타 시위대에 대한 요원들의 전술 제한에 항소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443277)
+#### [제임스, 2004년 이후 처음으로 NBA 올스타 선발로 뽑히다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443279)
+#### [트럼프는 법원 조치 후 관세를 신속하게 대체할 것이라고 뉴욕 타임즈가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443275)
+#### [안전자산 수요로 금값이 상승하면서 캐나다 증시-TSX가 사상 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443274)
+#### [캐나다, 1월 20일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443273)
+#### [암콘 유통 회사 1분기 EPS 1.28달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443272)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443271)
 #### [뉴질랜드의 플레처 빌딩, 프랑스 건설업체에 건설 부문 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443270)
 #### [벤델, 스탈과 관련된 잠재적 거래와 관련하여 헨켈과 비독점적 논의를 진행 중이라고 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443268)
@@ -51,20 +67,3 @@
 #### [수사관들이 스페인 철도 사고 현장에서 선로에서 부러진 관절을 발견했습니다: 출처](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443225)
 #### [미국 북서부 강 유량이 95퍼센트까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443227)
 #### [핀란드의 스텁 : 미국은 무력으로 그린란드를 점령 할 가능성이 낮습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443229)
-#### [배릭 마이닝, CFO에 헬렌 카이 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443224)
-#### [폴란드 대통령실, 2026 년 예산안에 서명하고 견제를 위해 헌법 재판소에 보냅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443226)
-#### [크로아티아 부총재에 크로아티아의 부치치치 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443228)
-#### [유로존 장관들, 크로아티아의 부치치를 새 ECB 부총재로 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443223)
-#### [과테말라 갱단 공격으로 인한 사망자 수, 경찰관 9 명으로 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443222)
-#### [러시아의 2025년 예산 적자는 GDP의 2.6%로 2020년 이후 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443220)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443219)
-#### [파리 밀 회사, 사우디아라비아, 알제리의 강력한 수입 수요에 힘입어 성장세 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443221)
-#### [과테말라 대통령, 교도소 폭동 후 국가비상사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443216)
-#### [에코엠브레인 유닛, 290만 유로 규모의 태양광 발전소 4기 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443218)
-#### [불가리아의 라데프 대통령, 독자 정당을 창당할 것이라는 추측 속에 사임하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443215)
-#### [2025년 연간 매출이 200억 달러를 돌파할 것으로 예상되는 OpenAI의 CFO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443217)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [NATO는 안보에 대해 덴마크 및 그린란드와 계속 협력 할 것이라고 Rutte는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443213)
-#### [디젤 수익 마진 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443214)
-#### [영국 도박위원회, 메타 '불법 도박 광고에 눈감고 있다' 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443211)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
