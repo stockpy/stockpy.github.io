@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260119_2025 </title></head>
-<center>Vers : 20260119_2025 </center>
-<center>Vers : 20260120_0525 </center>
+<head><meta charset="utf-8"><title>Vers : 20260119_2046 </title></head>
+<center>Vers : 20260119_2046 </center>
+<center>Vers : 20260120_0546 </center>
 <br><br><br>
+#### [그린란드에 대한 트럼프의 관세 위협이 달러에 부담을 주면서 신흥 시장-남미 외환이 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443265)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
+#### [우크라이나의 젤렌스키, 새로운 방공 시스템 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443264)
+#### [영국, 성장을 촉진하기 위해 반독점 제도 개편 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443263)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9531.T/total>
 #### [시리아 대통령, 트럼프, 전화 통화에서 시리아 사태 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443262)
 #### [CEO 매출 신뢰도 5년 만에 최저치 기록 - PwC 설문조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443261)
 #### ['우리는 진정한 거장을 잃었다': 이탈리아 패션계의 거장 발렌티노에게 바치는 헌사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443260)
@@ -64,6 +69,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
 #### [이탈리아 재무부, 몬테 데이 파스키 CEO 로바 글 리오의 새 임기를지지한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443202)
 #### [연준의 파월, 쿡 사건에 대한 대법원 변론에 참석, AP 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443205)
-#### [불가리아의 라데프 대통령 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443201)
-#### [유럽은 그린란드에 보복하는 것은 '매우 현명하지 않다'고 베센트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443207)
-#### [가솔린 정제 마진 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443204)
