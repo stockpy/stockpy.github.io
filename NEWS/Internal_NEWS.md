@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260119_2057 </title></head>
-<center>Vers : 20260119_2057 </center>
-<center>Vers : 20260120_0557 </center>
+<head><meta charset="utf-8"><title>Vers : 20260119_2127 </title></head>
+<center>Vers : 20260119_2127 </center>
+<center>Vers : 20260120_0627 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443271)
+#### [뉴질랜드의 플레처 빌딩, 프랑스 건설업체에 건설 부문 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443270)
+#### [벤델, 스탈과 관련된 잠재적 거래와 관련하여 헨켈과 비독점적 논의를 진행 중이라고 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443268)
+#### [1월 19일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443269)
 #### ['우리는 진정한 거장을 잃었다': 이탈리아 패션계의 거장 발렌티노에게 바치는 헌사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443266)
 #### [메르세데스, 애스턴과의 계약 종료 후 F1의 유일한 안전 차량 공급업체로 선정됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443267)
 #### [그린란드에 대한 트럼프의 관세 위협이 달러에 부담을 주면서 신흥 시장-남미 외환이 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443265)
@@ -64,8 +68,3 @@
 #### [디젤 수익 마진 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443214)
 #### [영국 도박위원회, 메타 '불법 도박 광고에 눈감고 있다' 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443211)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [스페인의 고속 열차 사고: 무슨 일이 일어났나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443212)
-#### [미국 가톨릭 최고 추기경들이 미국 외교 정책의 도덕성에 의문을 제기합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443210)
-#### [그린란드 분쟁이 안전자산 구매를 촉진하면서 금과 은이 사상 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443208)
-#### [트럼프 관세 위협 이후 런던 증시 하락, 비즐리 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443209)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
