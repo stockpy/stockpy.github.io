@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260119_1858 </title></head>
-<center>Vers : 20260119_1858 </center>
-<center>Vers : 20260120_0358 </center>
+<head><meta charset="utf-8"><title>Vers : 20260119_1925 </title></head>
+<center>Vers : 20260119_1925 </center>
+<center>Vers : 20260120_0425 </center>
 <br><br><br>
+#### [모로코, 트럼프의 가자 평화위원회 합류 초청 수락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443253)
+#### [폴란드 대통령, 2026년 예산안에 서명하고 헌법재판소로 보내 견제 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443252)
+#### [브라질 커피 수출, 2025년 기록적인 156억 달러 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443251)
+#### [2월 1일부로 더크 러펠 박사를 CEO로 임명하는 브리프-디미어(BRIFF-DEMIRE)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443249)
+#### [패션을 붉게 물들인 이탈리아 오트 쿠튀르 '황제' 발렌티노, 93세 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443245)
+#### [클리어바이즈, 2월 1일부로 베른하르트 기에르케를 CEO로 임명하고 페트라 로이-반스는 예정대로 사임합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443248)
+#### [발네바, 치쿤구냐 주사에 대한 미국 표준 승인 신청 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443246)
+#### [쿠르드 군, 터키 드론이 시리아의 하사카시를 공격했다고 말했지만 터키는이를 부인했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443250)
+#### [말레이시아의 카자 나, 전력망, 칩 회사에 더 많은 자본을 투입 할 것이라고 다보스에서 수석은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443247)
+#### [코인베이스, 버뮤다가 코인베이스와 서클의 지원으로 세계 최초의 완전 온체인 국가 경제를 구축한다고 발표 - Post On X](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443243)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
+#### ['우리는 진정한 거장을 잃었다': 이탈리아 패션계의 거장 발렌티노에게 바치는 헌사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443244)
 #### [로트네로스, 2025년 4분기에 작년 같은 분기에 비해 현저히 낮은 EBITDA 실적 전망 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443241)
 #### [스웨덴, 덴마크와 그린란드를 지원한다고 스웨덴 국방부 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443240)
 #### [패트릭 드라히, 90억 유로 규모의 엑스파이버 판매 개시 임박 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443242)
@@ -55,14 +67,3 @@
 #### [이탈리아 패션 디자이너 발렌티노, 93세 나이로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443198)
 #### [덴마크, 그린란드, 북극에서 나토 임무 제안, 덴마크 국방부 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443189)
 #### [캐나다는 그린란드에 소규모 파견대를 보낼 수 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443186)
-#### [볼로냐 법원에 보호 및 사전 예방 조치 120일 연장 요청을 제출한 아에페, 개요](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443188)
-#### [헝가리 외무 장관, 그린란드는 'EU 문제가 아니다'라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443195)
-#### [이탈리아 패션 디자이너 발렌티노가 사망했다고 라 레푸블리카 일간지는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443192)
-#### [키엘 그룹 4분기 매출액 SEK 697.2백만](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443187)
-#### [취리히의 100억 달러 규모의 영국 거래는 성장에 대한 값비싼 베팅입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443194)
-#### [칠레 산불로 19명이 사망하고 수많은 사람이 대피한 가운데 폭염으로 인한 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443190)
-#### [버박, 2026년 매출 성장률 5.5%에서 7.5%로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443193)
-#### [프랑스 총리, 헌법상 권한으로 의회 표결 없이 예산안 통과시킬 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443191)
-#### [알제리, 아르헨티나 주요 공급원과 입찰에서 약 60 만 톤의 제분 밀 구매, 상인들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443180)
-#### [그란디 비아기 회계연도 순이익 350만 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443184)
-#### [억만장자들의 부는 권력을 사들이면서 새로운 정점에 도달했다고 옥스팜은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2443185)
