@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260119_0834 </title></head>
-<center>Vers : 20260119_0834 </center>
-<center>Vers : 20260119_1734 </center>
+<head><meta charset="utf-8"><title>Vers : 20260119_0902 </title></head>
+<center>Vers : 20260119_0902 </center>
+<center>Vers : 20260119_1802 </center>
 <br><br><br>
 #### [삼성전자 1주도 없이 109억 매도 '폭탄'…국내외 금융사 6곳 40억 '과징금'](https://m.stock.naver.com/news/ranknews/view/008/0005306398)
 #### [“코스피 6000도 열려 있다…반도체주 외로운 상승장 아냐”[센터장의 뷰]](https://m.stock.naver.com/news/ranknews/view/018/0006203118)
