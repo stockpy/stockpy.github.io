@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260120_0637 </title></head>
-<center>Vers : 20260120_0637 </center>
-<center>Vers : 20260120_1537 </center>
+<head><meta charset="utf-8"><title>Vers : 20260120_0704 </title></head>
+<center>Vers : 20260120_0704 </center>
+<center>Vers : 20260120_1604 </center>
 <br><br><br>
 #### [“돈 생길 때 마다 반짝반짝 콩알금 모아요”…요즘 유행한다는 ‘소액 금테크’](https://m.stock.naver.com/news/ranknews/view/009/0005624419)
 #### [하락장 속 초고수 선택은 SK하이닉스·현대차…3위는?[주식 초고수는 지금]](https://m.stock.naver.com/news/ranknews/view/011/0004580821)
