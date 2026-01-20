@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260120_0833 </title></head>
-<center>Vers : 20260120_0833 </center>
-<center>Vers : 20260120_1733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260120_0902 </title></head>
+<center>Vers : 20260120_0902 </center>
+<center>Vers : 20260120_1802 </center>
 <br><br><br>
 #### [하락장 속 초고수 선택은 SK하이닉스·현대차…3위는?[주식 초고수는 지금]](https://m.stock.naver.com/news/ranknews/view/011/0004580821)
 #### [금 한 돈 97만원...100만원 시대 초읽기](https://m.stock.naver.com/news/ranknews/view/018/0006203800)
