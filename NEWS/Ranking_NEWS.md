@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260120_2243 </title></head>
-<center>Vers : 20260120_2243 </center>
-<center>Vers : 20260121_0743 </center>
+<head><meta charset="utf-8"><title>Vers : 20260120_2253 </title></head>
+<center>Vers : 20260120_2253 </center>
+<center>Vers : 20260121_0753 </center>
 <br><br><br>
 #### ["빨리 팔자" 한때 14만전자 깨졌다...'그린란드 파장'에 애프터마켓 급락](https://m.stock.naver.com/news/ranknews/view/008/0005307139)
 #### [“삼전·하이닉스, 차익실현 끝?”…시총 상위 종목 애프터마켓서 뚝뚝](https://m.stock.naver.com/news/ranknews/view/009/0005624776)
