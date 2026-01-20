@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260120_1028 </title></head>
-<center>Vers : 20260120_1028 </center>
-<center>Vers : 20260120_1928 </center>
+<head><meta charset="utf-8"><title>Vers : 20260120_1056 </title></head>
+<center>Vers : 20260120_1056 </center>
+<center>Vers : 20260120_1956 </center>
 <br><br><br>
 #### [하락장 속 초고수 선택은 SK하이닉스·현대차…3위는?[주식 초고수는 지금]](https://m.stock.naver.com/news/ranknews/view/011/0004580821)
 #### ["벌써 5000피? 곧 떨어진다"…개미들 우르르 몰린 곳이](https://m.stock.naver.com/news/ranknews/view/018/0006203977)
