@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260120_2042 </title></head>
-<center>Vers : 20260120_2042 </center>
-<center>Vers : 20260121_0542 </center>
+<head><meta charset="utf-8"><title>Vers : 20260120_2101 </title></head>
+<center>Vers : 20260120_2101 </center>
+<center>Vers : 20260121_0601 </center>
 <br><br><br>
+#### [CBOT 밀은 글로벌 공급 압력으로 하락세로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444894)
+#### [그린란드의 트럼프 : 미국과 나토를 '매우 행복하게'만들기 위해 노력할 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444897)
+#### [민주당 상원 의원들이 파월 조사에 대한 기록을 요구, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444891)
+#### [1월 20일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444893)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444896)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
+#### [Google의 지원을 받는 Isomorphic Labs, 임상 시험 일정 지연](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444898)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [트럼프, 에르도안 터키 대통령과 '중요한 전화'가 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444892)
+#### [투자자들이 '셀 아메리카' 거래를 재점화하면서 외환-달러 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444895)
+#### [트럼프: 그린란드에서 많은 다보스 회의가 예정되어 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444886)
+#### [Audi F1 팀, 타이틀 카운트다운 시작과 함께 데뷔 유니폼 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444889)
+#### [트럼프, 파리에서 열리는 G7 회의에 참석하지 않겠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444884)
+#### [트럼프, 미국은 시리아의 쿠르드족을 보호하려고 노력하고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444885)
+#### [농부들이 더 나은 가격에 판매함에 따라 ICE 카놀라 선물이 약세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444888)
+#### [아르헨티나, 2025년 112억 9천만 달러 무역 흑자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444883)
+#### [트럼프는 감옥에있는 마두로와 대화하는 데 관심이 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444890)
+#### [트럼프는 관세 배당금 수표를 위해 의회에 갈 필요가 없다고 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444887)
 #### [트럼프, 이른바 '평화의 이사회'에 대한 질문에 "유엔이 계속하도록 놔둬야 한다" 발언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444878)
 #### [국무부, 23 억 달러에 싱가포르에 항공기, 어뢰 판매 가능성 승인, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444882)
 #### [버즈 프리뷰: 분기 실적 발표를 앞두고 하락하는 존슨앤존슨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444880)
@@ -55,21 +73,3 @@
 #### [트럼프, 베네수엘라 야당 지도자 마차도와 관련된 수레를 베네수엘라에 띄우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444840)
 #### [미국 대법원, 압수 된 종교 문서에 대한 러시아를 고소하려는 유대인 단체의 입찰을 거부합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444834)
 #### [칼시는 매사추세츠주에서 스포츠 예측 시장을 운영할 수 없습니다, 심판 규칙](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444838)
-#### [미네소타 주지사, 법무 장관, 법무부 관리의 사무실에 소환장이 제공되었다고 법무부 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444839)
-#### [OpenAI, 18세 미만 사용자의 계정일 가능성이 높은 시기를 판단하는 데 도움이 되는 연령 예측 기능을 ChatGPT에 출시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444833)
-#### [러시아 파업으로 우크라이나 자 포리 지아에서 3 명 사망, 지역 총재는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444837)
-#### [아르헨티나, 2025년 112억 9천만 달러 무역 흑자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444843)
-#### [에콰도르의 살인 사건은 2025 년에 30 % 증가했다고 교육부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444832)
-#### [룰루레몬 애슬레틱, 새로운 '겟 로우' 컬렉션 일시 중단, 주식 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444836)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LULU.O/total>
-#### [노키아, EU의 사이버 보안 추진을 환영하며 신뢰할 수 있는 네트워크에 대한 통합된 접근 방식 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444842)
-#### [스트리밍이 12월 미국 TV 시청의 거의 절반을 차지했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444831)
-#### [스트리밍이 12월 미국 TV 시청의 거의 절반을 차지했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444825)
-#### [베네수엘라, 트럼프 게시물 이후 '상징적' 소셜 미디어 조치 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444828)
-#### [비트코인 사재기 전략, 8일 만에 21억 3천만 달러의 비트코인을 매입하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444830)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSTR.O/total>
-#### [버즈 프리뷰: 분기 실적을 앞두고 여행객이 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444826)
-#### [소 114,000마리, 돼지 493,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444827)
-#### [넷플릭스, HBO 입찰의 여러 문제 중 하나만 해결한 사례](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444829)
-#### [러시아 드미트리예프, 미국 특사와의 대화가 건설적이었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444821)
-#### [시칠리아가 강력한 폭풍에 휩싸이면서 적색 경보가 발령되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444823)
