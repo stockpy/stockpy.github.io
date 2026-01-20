@@ -1,7 +1,36 @@
-<head><meta charset="utf-8"><title>Vers : 20260120_2223 </title></head>
-<center>Vers : 20260120_2223 </center>
-<center>Vers : 20260121_0723 </center>
+<head><meta charset="utf-8"><title>Vers : 20260120_2243 </title></head>
+<center>Vers : 20260120_2243 </center>
+<center>Vers : 20260121_0743 </center>
 <br><br><br>
+#### [트랜잭트, 성장과 플랫폼 확장을 가속화하기 위해 최고마케팅책임자로 다나 루프 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445019)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TACT.O/total>
+#### [정책 불확실성이 지속되면서 채권 매력이 커지고 있다고 시장 전문가가 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445026)
+#### [트럼프 이민 정책에 반대하는 수천 명의 시위대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445018)
+#### [페이저듀티, 이사회에 스콧 아론슨 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445025)
+#### [인스피라 글로벌, 에버스톤의 퇴출로 버거킹 인도 운영사 RBA의 지배 지분 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445030)
+#### [안테리스 테크놀로지스, 주식 매각 계획 발표 후 급등, 메드트로닉 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445022)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AVR.O/total>
+#### [AI를 통한 인도 IT 서비스 수요 증가를 전망하는 Wipro CEO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445024)
+#### [민주당 상원의원들이 파월 조사에 대한 기록 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445029)
+#### [관세 위협으로 두 달 만에 가장 많이 하락한 캐나다 주식-TSX, 전 세계 투자자?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445021)
+#### [그린란드에 대한 트럼프의 위협이 투자자들을 불안하게 만들면서 광범위한 매도세가 주식을 강타합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445028)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
+#### [혁신 음료 그룹, 에너지 확장을 강조하는 비즈니스 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445020)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IBG.O/total>
+#### [메트로폴리탄 은행 지주 주식회사 4분기 및 2025년 전체 실적 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445027)
+#### [리오 틴토의 4분기 철광석, 구리 생산량이 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445023)
+#### [독점: Axa XL, 은퇴한 비어링을 대신해 AIG의 카르나자를 미주 건설 자산 책임자로 영입하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445015)
+#### [서지페이, 인수 공모 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445010)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SURG.O/total>
+#### [SPDR 금 보유량 0.37% 또는 4.01톤 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445012)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLD/total>
+#### [윈트러스트 파이낸셜의 4분기 EPS가 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445017)
+#### [미국 판사가 트럼프 동맹 할리건에게 '미국 변호사' 직함 사용 중단 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445009)
+#### [바르셀로나 근처에서 벽 붕괴 후 기차 운전사 사망, EFE 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445014)
+#### [리오 틴토, 3분기 필바라 철광석 출하량(100% 기준) 91.3톤 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445016)
+#### [노스포인트 뱅셰어즈 4분기 순이자 수익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445008)
+#### [크레디코프 주식회사 텐포, 은행 라이선스 취득 후 칠레 최초의 네오뱅크가 되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445011)
+#### [스마트금융 4분기 순이익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445013)
 #### [그린란드, 적자 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445005)
 #### [윈트러스트 파이낸셜 4분기 주당순이익 3.15달러 대 IBES 추정치 2.92달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444997)
 #### [스마트금융 4분기 EPS USD 0.81](https://m.stock.naver.com/news/worldnews/view/fnGuide/2445004)
@@ -56,30 +85,3 @@
 #### [미주 바이아웃 펀드로 200억 달러 목표 달성할 전망 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444982)
 #### [서브 로보틱스, AI 로봇 기업 인수 계약으로 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444971)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SERV.O/total>
-#### [브라질 Simpar, 4분기에 124억 헤알의 총 매출 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444965)
-#### [트럼프, 미국과 나토가 그린란드에 합의 할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444963)
-#### [독점: Axa XL, 은퇴하는 비어 링을 대신하여 미국 건축업자의 위험 책임자로 AIG의 Carnazza를 고용합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444952)
-#### [지역 은행 F.N.B.의? 회계연도 수익이 사상 최대치인 18억 달러를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444964)
-#### [미국, 나토 직책 약 200 개 감축, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444962)
-#### [은행 지주회사 시몬스 퍼스트의 4분기 수익이 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444951)
-#### [CBOT 대두, 외부 시장 약세로 하락 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444956)
-#### [리오 틴토의 4분기 철광석 출하량 7% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444961)
-#### [트럼프가 베네수엘라 마차도와 관련된 수레를 띄우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444950)
-#### [베네수엘라가 석유 판매로 3 억 달러의 자금을 받았다고 대통령 대행은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444955)
-#### [호주 주가는 개장시 하락, 뉴질랜드는 하락할 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444960)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
-#### [프로그레스 소프트웨어, 1분기 예상치를 상회하는 실적 발표 후 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444954)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PRGS.O/total>
-#### [트럼프, 이른바 '평화의 이사회'에 대한 질문에 "유엔을 계속 두어야 한다"고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444949)
-#### [리오틴토의 4분기 철광석 출하량 7% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444959)
-#### [캐나다 유콘 상공에서 희귀한 오로라가 반짝입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444968)
-#### [마스터카드, 브라질 웨스트윙 지분 31.87%로 감축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444953)
-#### [CBOT 옥수수는 하락세로 마감하지만 달러 약세로 지지를 받습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444958)
-#### [시몬스 4분기 조정 주당순이익 0.54달러 대 IBES 추정치 0.48달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444967)
-#### [나이키, 주요 시장 강화를 위해 지역 리더십 개편](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444970)
-#### [코버스 파마, 1억 5천만 달러 규모의 주식 공모 후 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444957)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRVS.O/total>
-#### [유나이티드 항공, 낙관적인 전망에 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444966)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
-#### [니콜렛 뱅크셰어 4분기 순이익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444969)
-#### [브라질 페트로브라스, 5척의 유조선과 여러 척의 선박을 5억 2,100만 달러에 매입하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2444948)
