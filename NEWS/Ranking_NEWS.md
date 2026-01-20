@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260120_1432 </title></head>
-<center>Vers : 20260120_1432 </center>
-<center>Vers : 20260120_2332 </center>
+<head><meta charset="utf-8"><title>Vers : 20260120_1500 </title></head>
+<center>Vers : 20260120_1500 </center>
+<center>Vers : 20260121_0000 </center>
 <br><br><br>
 #### [“삼전·하이닉스, 차익실현 끝?”…시총 상위 종목 애프터마켓서 뚝뚝](https://m.stock.naver.com/news/ranknews/view/009/0005624776)
 #### [14만전자도 위태? 그린란드 파장 닿나...애프터마켓서 줄줄이 하락](https://m.stock.naver.com/news/ranknews/view/008/0005307113)
@@ -62,9 +62,9 @@
 #### [롯데지주·SK…'3차 상법개정' 수혜주 뜬다](https://m.stock.naver.com/news/ranknews/view/015/0005239804)
 #### [코스피, 외국인·기관 차익실현에 하락…삼전·SK하닉 3%↓](https://m.stock.naver.com/news/ranknews/view/015/0005239437)
 #### [[특징주 & 리포트] '신규 원전 기대에 16% 뛴 한전' 등](https://m.stock.naver.com/news/ranknews/view/015/0005239796)
-<head><meta charset="utf-8"><title>Vers : 20260120_1432 </title></head>
-<center>Vers : 20260120_1432 </center>
-<center>Vers : 20260120_2332 </center>
+<head><meta charset="utf-8"><title>Vers : 20260120_1500 </title></head>
+<center>Vers : 20260120_1500 </center>
+<center>Vers : 20260121_0000 </center>
 <br><br><br>
 #### [조선업 슈퍼사이클 2막 시동…‘TIGER 조선TOP10 ETF’ 순자산 1조원 돌파](https://m.stock.naver.com/news/ranknews/view/243/0000091599)
 #### ["최대 123조"… 자사주 소각 의무화 임박](https://m.stock.naver.com/news/ranknews/view/009/0005624690)
