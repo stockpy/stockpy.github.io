@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260121_0444 </title></head>
-<center>Vers : 20260121_0444 </center>
-<center>Vers : 20260121_1344 </center>
+<head><meta charset="utf-8"><title>Vers : 20260121_0517 </title></head>
+<center>Vers : 20260121_0517 </center>
+<center>Vers : 20260121_1417 </center>
 <br><br><br>
 #### [코스닥 3% 넘게 하락…시총 1위 알테오젠 급락에 '우르르'[핫종목]](https://m.stock.naver.com/news/ranknews/view/421/0008725882)
 #### [삼전·하닉 떨어지는데 먹통→키움증권 오류에 "손해 봤다"분통](https://m.stock.naver.com/news/ranknews/view/008/0005307282)
