@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260121_1744 </title></head>
-<center>Vers : 20260121_1744 </center>
-<center>Vers : 20260122_0244 </center>
+<head><meta charset="utf-8"><title>Vers : 20260121_1843 </title></head>
+<center>Vers : 20260121_1843 </center>
+<center>Vers : 20260122_0343 </center>
 <br><br><br>
 #### ["1억 벌고 갑니다" 개미들 신났다…한전 종토방 '들썩' [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005240499)
 #### [“추격 매수는 이럴 때 하는 거야”...떨어질수록 더 사는 남자의 끝은?](https://m.stock.naver.com/news/ranknews/view/009/0005625412)
