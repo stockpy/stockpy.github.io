@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260121_0637 </title></head>
-<center>Vers : 20260121_0637 </center>
-<center>Vers : 20260121_1537 </center>
+<head><meta charset="utf-8"><title>Vers : 20260121_0704 </title></head>
+<center>Vers : 20260121_0704 </center>
+<center>Vers : 20260121_1604 </center>
 <br><br><br>
 #### [이 대통령 "대한민국 저평가" 말에도 개미들 던졌다...코스피 다시 '뚝'](https://m.stock.naver.com/news/ranknews/view/008/0005307460)
 #### ['코스피 과열' 의견 냈다가 결국 퇴사…여의도 증권맨 '속앓이' [여의도발]](https://m.stock.naver.com/news/ranknews/view/015/0005240048)
