@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20260121_1843 </title></head>
-<center>Vers : 20260121_1843 </center>
-<center>Vers : 20260122_0343 </center>
+<head><meta charset="utf-8"><title>Vers : 20260121_1917 </title></head>
+<center>Vers : 20260121_1917 </center>
+<center>Vers : 20260122_0417 </center>
 <br><br><br>
+#### [컬퍼 리서치 쇼트 T1 에너지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446648)
+#### [미국 중서부 가공 공장의 현금 곡물-옥수수 기준 기업](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446647)
+#### [사우스 캐롤라이나 홍역 발병이 몇 주 또는 몇 달 동안 지속될 수 있다고 주 역학자는 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446645)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446646)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
+#### [베네수엘라 PDVSA의 연결 부채는 2025년에 345억 8천만 달러로 소폭 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446644)
+#### [뉴욕 연준, 스탠딩 레포 운용 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446642)
+#### [프랑스, 약값에 대한 트럼프의 발언을 '가짜 뉴스'라고 부르며 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446643)
+#### [칠레의 광부들은 광업, 경제 부처의 이중 감독에서 위험을 지적합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446640)
+#### [아르케고스의 빌 황, 은행에 100억 달러의 손실을 입힌 대규모 사기에 대한 사면 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446641)
+#### [트럼프 행정부가 메인 주에서 이민 작전을 시작한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446633)
+#### [트럼프, 나토의 루테와 그린란드에 대해 논의 할 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446636)
+#### [방코 데시오: 이탈리아 은행, SREP 검토 후 자본 결정 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446639)
+#### [지역 은행? 주식이 더 넓은 범위의 금융을 능가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446632)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IBKR.O/total>
+#### [시리아 국방부, 휴전 후 쿠르드족 주도 시리아민주군 공격으로 11 명 사망, 25 명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446635)
+#### [미국 북서부 강 유량이 94%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446638)
+#### [월스트리트 집주인에 대한 규제가 집값을 자극 할 수 있다고 투자자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446631)
+#### [영국 인플레이션이 횡보하고 트럼프 그린란드 톤이 차가워지는 가운데 버즈-스털링은 안정적입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446634)
+#### [이란 고등 보안 기관, 최근 불안으로 인한 사망자 수를 3,117 명으로 추정 - 국영 언론](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446637)
 #### [논리적 인텔리전스, 최초의 에너지 기반 추론 인공지능 모델 도입, 얀 레쿤과 패트릭 힐만을 경영진에 합류시키다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446630)
 #### [USD/JPY 통합 기간 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446627)
 #### [베네수엘라 PDVSA의 연결 부채가 2025 년에 345 억 8 천만 달러로 소폭 증가했다고 회사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446628)
@@ -50,22 +70,3 @@
 #### [실적 호조에 지역 은행 주가 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446590)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DCOM.O/total>
 #### [볼보자동차, 전기 SUV EX60 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446584)
-#### [미국 보류 중인 주택 판매량이 12월 5개월 만에 최저치로 급락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446589)
-#### [EU, 넷플릭스, 파라마운트, 워너 브라더스 입찰을 동시에 검토하는 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446586)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBD.O/total>
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446583)
-#### [센터포인트 에너지, 겨울 폭풍을 앞두고 비상 운영 센터 활성화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446588)
-#### [넥시, 3월 5일 사업 계획 및 FY25 실적 발표 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446585)
-#### [슬로베니아는 트럼프의 '평화위원회'에 가입하지 않을 것이라고 총리, 총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446582)
-#### [가솔린 정제 마진 견고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446587)
-#### [트럼프, 카니를 비난하며 캐나다가 '감사해야 한다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446576)
-#### [경제가 우려되는 상황에서 트럼프는 중간선거 전에 매주 미국 여행을 계획합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446581)
-#### [Exclusive: Axa XL, 그룹 파트너십 및 전략적 고객 관리 책임자로 사만다 헤이즐우드 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446578)
-#### [에코피스크가 더 낮은 가격 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446575)
-#### [욜로 그룹, 최대 600만 유로 규모의 자본금 인상 발행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446580)
-#### [데이터트렉 리서치, 2026년 자본 시장 설문조사 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446577)
-#### [미국 은행 시스템 위험에 대한 임시방편, 반창고가 닳아 없어지다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446574)
-#### [올림픽-오스트리아, 독일 루지 패권에 도전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446579)
-#### [트럼프, 암살 위협 보도에 대해 이란에 경고하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446569)
-#### [트럼프의 '평화의 이사회'는 무엇이며 지금까지 누가 참여했나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446561)
-#### [트럼프는 스위스 수입품에 대한 관세를 낮추기로 합의했다고 말했지만 다시 인상 될 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2446564)
