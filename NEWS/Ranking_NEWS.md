@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260121_0833 </title></head>
-<center>Vers : 20260121_0833 </center>
-<center>Vers : 20260121_1733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260121_0900 </title></head>
+<center>Vers : 20260121_0900 </center>
+<center>Vers : 20260121_1800 </center>
 <br><br><br>
 #### [李 대통령 "대폭락했어야 하는데 안 빠졌다"… 미국발 쇼크에도 코스피 보합 [이런국장 저런주식]](https://m.stock.naver.com/news/ranknews/view/011/0004581373)
 #### [“딸 유학비 1.5억 집에서 보낸다”…해외송금, ‘여기’선 무증빙·무수수료](https://m.stock.naver.com/news/ranknews/view/009/0005625029)
