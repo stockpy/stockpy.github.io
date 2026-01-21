@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260121_1029 </title></head>
-<center>Vers : 20260121_1029 </center>
-<center>Vers : 20260121_1929 </center>
+<head><meta charset="utf-8"><title>Vers : 20260121_1057 </title></head>
+<center>Vers : 20260121_1057 </center>
+<center>Vers : 20260121_1957 </center>
 <br><br><br>
 #### [천스닥 고지에서 굴러떨어졌다…코스닥 대장주 ‘22% 폭락’ 대체 왜](https://m.stock.naver.com/news/ranknews/view/009/0005625381)
 #### [李 대통령 "대폭락했어야 하는데 안 빠졌다"… 미국발 쇼크에도 코스피 보합 [이런국장 저런주식]](https://m.stock.naver.com/news/ranknews/view/011/0004581373)
