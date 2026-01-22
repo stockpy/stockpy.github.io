@@ -311,10 +311,11 @@ def __KO_ETF_Allocation() :
     print("# df - before my-perc1")
     print(df)
     print("#")
-    transpose_df = df.drop(df.columns[0], axis=1).T
-    result_df = pd.concat([df.iloc[:, 0:1], transpose_df], axis=1)
-    print("# result")
-    print(result_df)
+    # transpose_df = df.drop(df.columns[0], axis=1).T
+    # result_df = pd.concat([df.iloc[:, 0:1], transpose_df], axis=1)
+    print("# to list")
+    print(df["ETF_Name"].to_list())
+    print(df["MY_PERC"].to_list())
     print("#")
 
     # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].values, df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC"].values.string.replace("%","", regex=False))
