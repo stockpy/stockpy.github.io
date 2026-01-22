@@ -1,5 +1,5 @@
-<center>Vers : 20260122_0519 </center>
-<center>Vers : 20260122_1419 </center>
+<center>Vers : 20260122_0528 </center>
+<center>Vers : 20260122_1428 </center>
 <br>
 <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -28,7 +28,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>0</th>
       <td>KODEX 200TR</td>
       <td>0%</td>
-      <td>26295</td>
+      <td>26260</td>
       <td>0</td>
       <td>0%</td>
     </tr>
@@ -44,7 +44,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>2</th>
       <td>KODEX iShares미국투자등급회사채액티브</td>
       <td>15%</td>
-      <td>12035</td>
+      <td>12040</td>
       <td>7</td>
       <td>11.0%</td>
     </tr>
