@@ -317,6 +317,10 @@ def __KO_ETF_Allocation() :
     print(df["ETF_Name"].to_list())
     print(df["MY_PERC"].to_list())
     print("#")
+    if datetime.now().day == 1:
+      print("1day")
+    else:
+      print("not 1day")
 
     # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].values, df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC"].values.string.replace("%","", regex=False))
     # dataframe의 A열의 값들에서 문자 제거하는데 AttributeError: 'numpy.ndarray' object has no attribute 'string' 애러가 나는 경우
