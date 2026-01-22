@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260122_2028 </title></head>
-<center>Vers : 20260122_2028 </center>
-<center>Vers : 20260123_0528 </center>
+<head><meta charset="utf-8"><title>Vers : 20260122_2052 </title></head>
+<center>Vers : 20260122_2052 </center>
+<center>Vers : 20260123_0552 </center>
 <br><br><br>
+#### [뉴욕주 공공 서비스 위원회, 원자력 발전 크레딧 프로그램 연장 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448569)
+#### [젤렌스키, 우크라이나가 다보스에서 새로운 방공 패키지에 대한 합의를 이끌어냈다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448573)
+#### [푸틴, 우크라이나에 대한 심야 회담을 위해 위트 코프와 쿠슈너를 만나다, 크렘린은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448571)
+#### [오후 03:30(동부 표준시) 기준 S&P 500 상위 및 하위 실적 종목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448568)
+#### [캐나다, 2036년 만기 52억 5,000만 캐나다 달러 채권 경매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448572)
+#### [미국, 이라크 시설에서 이슬람 국가 무장 세력을 구금하려는 이라크의 조치를 환영합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448570)
+#### [재생-잠꼬대 EUR/USD, 스털링 압력, 엔화 케이스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448564)
+#### [시카고 대두, 트레이더들이 중국 수요를 평가하면서 등락을 거듭하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448567)
+#### [PJM, 주말 겨울 폭풍에 앞서 사전 예방 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448561)
+#### [러시아, 미국과의 회담을 위해 UAE로 향하는 우크라이나 협상가, 젤 렌스키, 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448563)
+#### [CBOT 밀, 달러 하락, 날씨 우려에 안착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448566)
+#### [건설이 급물살을 타면서 올림픽 혜택에 대한 코티나 지역 주민들의 의견이 분분합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448562)
+#### [트럼프의 그린란드 위협 철회 후 달러화 하락으로 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448565)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
+#### [저스틴 발도니, 판사에게 블레이크 라이블리의 소송 기각 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448560)
 #### [미국 수익률 혼조; 데이터는 연준의 일시 중지를 뒷받침합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448552)
 #### [미국 의회, E15 거래 실패 후 에탄올 태스크 포스 구성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448554)
 #### [달러 약세와 날씨 우려로 CBOT 옥수수 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448559)
@@ -55,18 +70,3 @@
 #### [기업은 AI를 통해 이익을 얻으려면 실제 사람에게 투자해야 한다고 EY의 테이글랜드는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448519)
 #### [아이티의 유엔 지원군, 정치적 혼란 속에서도 여름까지 완전 파병 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448523)
 #### [암호화폐 커스터디 회사 BitGo, 2억 1,300만 달러 IPO 후 뉴욕증권거래소 데뷔 후 급등?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448512)
-#### [미국 3분기 경제 성장률이 소폭 상향 조정됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448514)
-#### [지엠, 스텔란티스와의 거래에 근접한 UAW에 대한 CNN 경고, 스텔란티스 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448510)
-#### [미국, 시리아에서 완전한 군사 철수 검토, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448511)
-#### [JPMorgan, 성명서에서 트럼프 대통령의 소송에 "메리트가 없다"고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448513)
-#### [소 114,000마리, 돼지 490,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448507)
-#### [아르헨티나 2025/26 옥수수 예측 57.9 만 톤으로 증가; 가뭄에 대한 두려움은 남아 있다고 LSEG는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448499)
-#### [브라질 무역업자들은 1월 대두 출하량이 수출업자들의 전망에 미치지 못한다고 보고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448509)
-#### [LSI 인더스트리 2분기 실적 후 급등, 낙관적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448506)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LYTS.O/total>
-#### [매머드, 이르면 올해 하반기 IPO 검토 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448503)
-#### [FDIC, 포드, 제너럴 모터스의 산업 은행 설립을 위한 길을 열어주다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448508)
-#### [머스크, 유럽과 중국이 다음 달 테슬라의 FSD 시스템 승인할 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448505)
-#### [독점-트라 피 구라, 공급 계약에 따라 첫 베네수엘라 원유 판매, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448502)
-#### [머스크, 유럽과 중국이 다음 달 테슬라의 FSD 시스템 승인할 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448497)
-#### [영국 스타머는 푸틴이 평화의 이사회에 참여하는 것에 대해 우려를 표명했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448504)
