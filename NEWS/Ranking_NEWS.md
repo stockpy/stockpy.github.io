@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260122_1834 </title></head>
-<center>Vers : 20260122_1834 </center>
-<center>Vers : 20260123_0334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260122_1902 </title></head>
+<center>Vers : 20260122_1902 </center>
+<center>Vers : 20260123_0402 </center>
 <br><br><br>
 #### [[단독] 李 “L자 들어가는 주식 사면 안된다면서요?” 중복상장 지적](https://m.stock.naver.com/news/ranknews/view/005/0001827827)
 #### [15만전자는 남 얘기..."네이버 샀다" 개미, 땅치고 후회?](https://m.stock.naver.com/news/ranknews/view/008/0005308242)
