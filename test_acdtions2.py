@@ -317,7 +317,7 @@ def __KO_ETF_Allocation() :
     print(df["ETF_Name"].to_list())
     print(df["MY_PERC"].to_list())
     print("#")
-    if datetime.now().day == 1:
+    if datetime.now().day == 1 or datetime.now().day == 15 :
       print("1day")
     else:
       print("not 1day")
