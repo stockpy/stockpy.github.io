@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260122_2052 </title></head>
-<center>Vers : 20260122_2052 </center>
-<center>Vers : 20260123_0552 </center>
+<head><meta charset="utf-8"><title>Vers : 20260122_2116 </title></head>
+<center>Vers : 20260122_2116 </center>
+<center>Vers : 20260123_0616 </center>
 <br><br><br>
+#### [미국 현금 원유 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448580)
+#### [니드호그 리소스 홀딩, 직권상장 주식 문제 해결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448576)
+#### [뉴욕주 공공서비스위원회, 콘 에디슨의 요금 요청을 거의 90%까지 낮추다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448579)
+#### [파인그로브 오퍼튜니티 파트너스, 창립 펀드로 22억 달러 조달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448575)
+#### [미국, '젠더 이데올로기', 다양성을 포함하도록 낙태 방지 지원 규정 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448577)
+#### [분석 -웨스트젯 좌석 유턴으로 이코노미 승객을 압박하는 항공사의 위험 노출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448578)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
+#### [급진적인 디자인, 가족의 유대감, 마그레스의 대서양 횡단 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448574)
 #### [뉴욕주 공공 서비스 위원회, 원자력 발전 크레딧 프로그램 연장 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448569)
 #### [젤렌스키, 우크라이나가 다보스에서 새로운 방공 패키지에 대한 합의를 이끌어냈다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448573)
 #### [푸틴, 우크라이나에 대한 심야 회담을 위해 위트 코프와 쿠슈너를 만나다, 크렘린은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448571)
@@ -62,11 +70,3 @@
 #### [파인그로브 오퍼튜니티, 새로운 벤처 세컨더리 펀드로 22억 달러 모금 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448521)
 #### [금 온스당 4,900달러 돌파, 은과 플래티넘은 기록적인 랠리를 이어갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448525)
 #### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
-#### [미국 항공사, 겨울 폭풍으로 광범위한 운항 중단 위협에 따라 여행 면제 조치 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448516)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ULCC.O/total>
-#### [도널드 트럼프가 그린란드를 살 수 있을까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448520)
-#### [워커 노이슨, 두산밥캣 과반 지분 인수 및 두산밥캣 인수에 대한 논의는 계속되지 않을 것이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448524)
-#### [IMF: 6차 검토를 마무리하고 파라과이에 8560만 헤알(약 1억1700만 달러)을 지급할 수 있게 되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448515)
-#### [기업은 AI를 통해 이익을 얻으려면 실제 사람에게 투자해야 한다고 EY의 테이글랜드는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448519)
-#### [아이티의 유엔 지원군, 정치적 혼란 속에서도 여름까지 완전 파병 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448523)
-#### [암호화폐 커스터디 회사 BitGo, 2억 1,300만 달러 IPO 후 뉴욕증권거래소 데뷔 후 급등?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2448512)
