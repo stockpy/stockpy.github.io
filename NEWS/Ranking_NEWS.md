@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260122_2223 </title></head>
-<center>Vers : 20260122_2223 </center>
-<center>Vers : 20260123_0723 </center>
+<head><meta charset="utf-8"><title>Vers : 20260122_2247 </title></head>
+<center>Vers : 20260122_2247 </center>
+<center>Vers : 20260123_0747 </center>
 <br><br><br>
 #### [1억이 4.2억 됐다..."나도 그 종목 살걸" 오천피에도 못 웃는 개미들](https://m.stock.naver.com/news/ranknews/view/008/0005308372)
 #### [[단독] 李 “L자 들어가는 주식 사면 안된다면서요?” 중복상장 지적](https://m.stock.naver.com/news/ranknews/view/005/0001827827)
