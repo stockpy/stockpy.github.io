@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260122_0636 </title></head>
-<center>Vers : 20260122_0636 </center>
-<center>Vers : 20260122_1536 </center>
+<head><meta charset="utf-8"><title>Vers : 20260122_0703 </title></head>
+<center>Vers : 20260122_0703 </center>
+<center>Vers : 20260122_1603 </center>
 <br><br><br>
 #### ['3만원일 때 살 걸 그랬네'…1년 만에 주가 350% 폭등한 회사 [양지윤의 니가가라 나스닥]](https://m.stock.naver.com/news/ranknews/view/015/0005240738)
 #### ["저만 못 먹었네요…" '불장' 조용히 눈물 닦는 투자자](https://m.stock.naver.com/news/ranknews/view/215/0001238831)
