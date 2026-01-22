@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260122_1028 </title></head>
-<center>Vers : 20260122_1028 </center>
-<center>Vers : 20260122_1928 </center>
+<head><meta charset="utf-8"><title>Vers : 20260122_1056 </title></head>
+<center>Vers : 20260122_1056 </center>
+<center>Vers : 20260122_1956 </center>
 <br><br><br>
 #### [15만전자는 남 얘기..."네이버 샀다" 개미, 땅치고 후회?](https://m.stock.naver.com/news/ranknews/view/008/0005308242)
 #### [불장에도 속 터지는 개미들…'만원 한 장 못 벌었다' 비명](https://m.stock.naver.com/news/ranknews/view/015/0005240913)
