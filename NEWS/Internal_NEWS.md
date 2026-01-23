@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260123_2240 </title></head>
-<center>Vers : 20260123_2240 </center>
-<center>Vers : 20260124_0740 </center>
+<head><meta charset="utf-8"><title>Vers : 20260123_2253 </title></head>
+<center>Vers : 20260123_2253 </center>
+<center>Vers : 20260124_0753 </center>
 <br><br><br>
+#### [넥살린 테크놀로지, 나스닥 상장 상태 알림 수신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450372)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NXL.O/total>
+#### [브롬톤 펀드, 분할 주식 펀드 분배 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450371)
+#### [전력 및 인프라 분할 Corp. 클래스 A 주식 분배 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450369)
+#### [마티나스 바이오파마 홀딩스 키스 쿠친스키, 2026년 1월 17일부로 CFO직 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450377)
+#### [제약회사들은 이라크 테러 자금에 대한 소송에 직면해야 한다고 미국 항소법원이 판결했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450370)
+#### [Fitch, 외환보유고 증가와 경제 개혁으로 터키의 전망을 '긍정적'으로 상향 조정했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450368)
+#### [미군은 동 태평양에서 선박을 공격하여 두 명을 죽였다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450376)
+#### [베이스 입찰은 보합세, 혹독한 추위가 작물을 위협합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450379)
+#### [AI 주식에 '많은 실수'가 가능하다고 투자자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450367)
+#### [로펌 Dechert, 경쟁사 McDermott에서 20명의 파트너 팀을 고용하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450375)
+#### [노보 노디스크, 당뇨병 치료제 빅토자 독점 혐의로 고소당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450373)
+#### [주간 미국 옥수수, 대두 수출 판매 급증, 수출 역풍에 직면한 EU 밀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450374)
+#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450378)
 #### [Cney, 최저 입찰 가격 미달로 나스닥 상장 폐지 결정 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450347)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CNEY.O/total>
 #### [주거용 주식 보고서 2025 배당 소득세 처리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450357)
@@ -64,21 +78,3 @@
 #### [독립 부동산 신탁, 2025년 배당금에 대한 세금 처리 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450327)
 #### [사렙타 테라퓨틱스, 엘리비디스 유전자 치료 엠바크 연구의 3년 탑라인 데이터 보고 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450322)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SRPT.O/total>
-#### [블레이크로더 인퀴지션 Corp. Ii, 클래스 A 보통주와 워런트의 분리 거래 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450319)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BBCQU.O/total>
-#### [트럼프가 촉발 한 시장 충격이 '50 번 더'타격을 줄 수 있다고 투자자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450309)
-#### [브라질의 TC, 페레스가 CEO직에서 사임하고 알버커키가 그 역할을 맡는다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450313)
-#### [Affinity Bancshares 4분기 순이익, 전년 대비 62% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450314)
-#### [생명과학 분야에서 최대 3억 달러의 증권 제공 가능](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450308)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ACHV.O/total>
-#### [북미, 1월 26일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450312)
-#### [엑스셀 브랜드, 1,500만 달러 규모의 주식 매입 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450318)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/XELB.O/total>
-#### [김 총리가 워싱턴에서 미국 밴스 부사장과 회담을 가졌다고 연합뉴스는 전했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450307)
-#### [모건 스탠리, 브라질 텐다 지분 5.14% 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450311)
-#### [솔리제닉스, 로드먼과 판매 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450317)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SNGX.O/total>
-#### [온다스, 1월 16일 공동 및 유닛과 840만 달러 주식 매입 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450315)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ONDS.O/total>
-#### [Insurica, 운송 MGA 및 프로그램 관리자 First Light 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450310)
-#### [대출 수요 증가로 KS뱅코프 4분기 순이익 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450316)
