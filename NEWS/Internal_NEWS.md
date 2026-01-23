@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260123_2027 </title></head>
-<center>Vers : 20260123_2027 </center>
-<center>Vers : 20260124_0527 </center>
+<head><meta charset="utf-8"><title>Vers : 20260123_2049 </title></head>
+<center>Vers : 20260123_2049 </center>
+<center>Vers : 20260124_0549 </center>
 <br><br><br>
+#### [1월 23일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450266)
+#### [펀드 매니저들은 최근 한 주 동안 S&P 500 선물 순매수 포지션을 줄였습니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450269)
+#### [투기꾼들이 미국 원유 순매수를 늘리다-CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450268)
+#### [투기꾼들의 옥수수 순매도 포지션 증가 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450265)
+#### [남미 증시 5주 연속 상승, 우크라이나, 이란에 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450267)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BVSP>
+#### [골드만삭스 CEO 데이비드 솔로몬, 2025년 20% 이상 급여 인상 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450263)
+#### [비즈니스 룩어헤드: 안전한 그린란드 지역?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450261)
+#### [켄터키 AG, 낙태약 광고 조사에 주유소 소환장 발부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450264)
+#### [트럼프 행정부, 쿠바 석유 수입 중단을 위해 해군 봉쇄 고려, 폴리티코 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450262)
+#### [재생-USD/JPY 워시아웃, EUR/USD 촉매, 스털링 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450260)
+#### [미국 천연가스 선물이 이번 주 혹독한 일기 예보로 68% 이상 급등했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450259)
 #### [미국 냉장 보관 주식 하이라이트-USDA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450257)
 #### [골드만삭스, CEO 데이비드 솔로몬의 2025년 보수가 4,700만 달러로 결정됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450256)
 #### [골드만삭스 CEO 데이비드 솔로몬의 연봉이 4,700만 달러로 인상되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450254)
@@ -59,15 +71,3 @@
 #### [열차 충돌 사고로 스페인의 철도 시스템이 '자체 성공으로 죽어가고 있다'는 것을 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450212)
 #### [코소보, 투표 조작 조사단 재검표 후 109명 구금](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450213)
 #### [스털링, 광범위한 달러 매도세 속에 2026년 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450209)
-#### [미디어스타 AI 연구원의 새 연구소 리커시브, 40억 달러 가치 평가 협상 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450211)
-#### [EUR / USD-미국 달러가 다시 기피, 1 개월 최고치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450208)
-#### [솔베르그, 몬테카를로에서 도요타 1-2-3위를 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450207)
-#### [미국 1월 비즈니스 활동은 안정적, 소비자 심리 개선](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450196)
-#### [캘리포니아, 세이블 송유관 재가동에 대해 트럼프 행정부에 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450201)
-#### [두 명의 아이티 최고 지도자, 미국의 위협 이후 총리 해임 가능성 시사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450206)
-#### [테슬라, 미국과 캐나다에서 오토파일럿 기능 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450195)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [AUD/USD-미국 달러 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450200)
-#### [오데사 주민들, 추운 날씨와 정전 속에서 얼음 바다에서 기쁨을 찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450205)
-#### [아다니 그린, Co는 SEC 소송의 당사자가 아니라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450194)
-#### [터키, 이슬람 국가 포로를 이라크로 이송하는 동안 시리아 휴전이 유지되어야한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450199)

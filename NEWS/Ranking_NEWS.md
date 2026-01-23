@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260123_2027 </title></head>
-<center>Vers : 20260123_2027 </center>
-<center>Vers : 20260124_0527 </center>
+<head><meta charset="utf-8"><title>Vers : 20260123_2049 </title></head>
+<center>Vers : 20260123_2049 </center>
+<center>Vers : 20260124_0549 </center>
 <br><br><br>
 #### [휴림로봇, '거래정지→폭등→하한가'…"로봇株의 몰락"[핫종목]](https://m.stock.naver.com/news/ranknews/view/421/0008731728)
 #### [“피 같은 내 국민연금 정말 탈 수 있나”…기금고갈, 늦출 방법 있다는데](https://m.stock.naver.com/news/ranknews/view/009/0005626571)
