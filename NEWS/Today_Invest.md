@@ -1,5 +1,5 @@
-<center>Vers : 20260123_0442 </center>
-<center>Vers : 20260123_1342 </center>
+<center>Vers : 20260123_0443 </center>
+<center>Vers : 20260123_1343 </center>
 <br>
 <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -28,7 +28,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>0</th>
       <td>KODEX 200TR</td>
       <td>0%</td>
-      <td>26200</td>
+      <td>26180</td>
       <td>0</td>
       <td>0%</td>
     </tr>
@@ -52,7 +52,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>3</th>
       <td>KODEX 미국10년국채선물</td>
       <td>10%</td>
-      <td>12430</td>
+      <td>12425</td>
       <td>4</td>
       <td>15.0%</td>
     </tr>
@@ -76,7 +76,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>6</th>
       <td>TIGER 미국필라델피아반도체나스닥</td>
       <td>0%</td>
-      <td>30970</td>
+      <td>30975</td>
       <td>0</td>
       <td>0%</td>
     </tr>
