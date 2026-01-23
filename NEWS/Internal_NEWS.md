@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260123_2049 </title></head>
-<center>Vers : 20260123_2049 </center>
-<center>Vers : 20260124_0549 </center>
+<head><meta charset="utf-8"><title>Vers : 20260123_2100 </title></head>
+<center>Vers : 20260123_2100 </center>
+<center>Vers : 20260124_0600 </center>
 <br><br><br>
+#### [수요와 날씨 우려로 CBOT 대두가 상승세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450270)
+#### [법무부, 로스 앤젤레스 병원에 트랜스젠더 미성년자 기록 넘겨달라는 요구 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450272)
+#### [델타항공, 겨울 폭풍이 주말 항공편을 위협함에 따라 여행객들에게 재예약 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450271)
 #### [1월 23일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450266)
 #### [펀드 매니저들은 최근 한 주 동안 S&P 500 선물 순매수 포지션을 줄였습니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450269)
 #### [투기꾼들이 미국 원유 순매수를 늘리다-CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450268)
@@ -68,6 +71,3 @@
 #### [뉴욕 연준, 스탠딩 레포 운용 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450218)
 #### [아보 에너지, 채권자들과 상당한 규모의 자금 조달에 대한 일시 정지 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450214)
 #### [엔, 금리 확인 투기가 소용돌이치면서 두 번의 급등세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450210)
-#### [열차 충돌 사고로 스페인의 철도 시스템이 '자체 성공으로 죽어가고 있다'는 것을 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450212)
-#### [코소보, 투표 조작 조사단 재검표 후 109명 구금](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450213)
-#### [스털링, 광범위한 달러 매도세 속에 2026년 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450209)
