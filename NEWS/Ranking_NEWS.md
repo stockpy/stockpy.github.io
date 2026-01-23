@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260123_0443 </title></head>
-<center>Vers : 20260123_0443 </center>
-<center>Vers : 20260123_1343 </center>
+<head><meta charset="utf-8"><title>Vers : 20260123_0515 </title></head>
+<center>Vers : 20260123_0515 </center>
+<center>Vers : 20260123_1415 </center>
 <br><br><br>
 #### ["오늘만 22% 올랐다" 이유 있는 폭등…'겹호재' 증권주 축포](https://m.stock.naver.com/news/ranknews/view/008/0005308552)
 #### [1억이 4.2억 됐다..."나도 그 종목 살걸" 오천피에도 못 웃는 개미들](https://m.stock.naver.com/news/ranknews/view/008/0005308372)
