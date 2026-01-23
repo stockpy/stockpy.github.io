@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260123_1426 </title></head>
-<center>Vers : 20260123_1426 </center>
-<center>Vers : 20260123_2326 </center>
+<head><meta charset="utf-8"><title>Vers : 20260123_1453 </title></head>
+<center>Vers : 20260123_1453 </center>
+<center>Vers : 20260123_2353 </center>
 <br><br><br>
 #### [휴림로봇, '거래정지→폭등→하한가'…"로봇株의 몰락"[핫종목]](https://m.stock.naver.com/news/ranknews/view/421/0008731728)
 #### [5000피 주도한 삼전·현대차 팔았다...외국인 쇼핑리스트 TOP7](https://m.stock.naver.com/news/ranknews/view/008/0005308616)
