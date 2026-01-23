@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260123_0831 </title></head>
-<center>Vers : 20260123_0831 </center>
-<center>Vers : 20260123_1731 </center>
+<head><meta charset="utf-8"><title>Vers : 20260123_0858 </title></head>
+<center>Vers : 20260123_0858 </center>
+<center>Vers : 20260123_1758 </center>
 <br><br><br>
 #### [5000피 주도한 삼전·현대차 팔았다...외국인 쇼핑리스트 TOP7](https://m.stock.naver.com/news/ranknews/view/008/0005308616)
 #### ["오늘만 22% 올랐다" 이유 있는 폭등…'겹호재' 증권주 축포](https://m.stock.naver.com/news/ranknews/view/008/0005308552)
