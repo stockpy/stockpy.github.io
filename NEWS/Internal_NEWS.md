@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260124_1830 </title></head>
-<center>Vers : 20260124_1830 </center>
-<center>Vers : 20260125_0330 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_1915 </title></head>
+<center>Vers : 20260124_1915 </center>
+<center>Vers : 20260125_0415 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 콜로라도 주간 가스 회사 영수증 위치 성능 저하 #4](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450573)
+#### [미국 보건부, 주 공중 보건 보조금 약 50 억 달러 중단, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450572)
+#### [영국 스타머, 트럼프와 통화에서 북극 보안 강화 필요성 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450571)
+#### [트럼프는 광범위한 비난 후 영국군을 용감한 전사라고 칭찬했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450570)
+#### [미국 겨울 폭풍이 중서부, 남부에 눈을 내리기 시작하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450568)
+#### [미국 북서부 강 유량은 92 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450569)
 #### [스타머의 라이벌 번햄, 영국 의회에 복귀할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450567)
 #### [시리아 쿠르드군과의 휴전, 불확실성 속에 만료됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450566)
 #### [중국, 고위급 숙청으로 최고 장군을 조사하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450565)
@@ -60,10 +66,3 @@
 #### [파키스탄 정부 반대자들을 표적으로 삼은 혐의로 영국 법정에서 기소된 남성 3명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450517)
 #### [미국 전력망은 한파로 인한 스트레스 증가를 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450514)
 #### [브라질 항공사 골, 설립자 겸 회장 콘스탄티노 주니어가 57세로 사망했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450515)
-#### [이스라엘에서 가자 지구의 미래를 논의하기 위해 이스라엘에있는 미국 특사, 소식통에 따르면 로이터 통신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450513)
-#### [러시아, 미국 주도 회담에서 우크라이나의 가장 큰 두 도시를 폭격하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450511)
-#### [이탈리아 시위, 새해 술집 화재 용의자 석방 후 스위스 주재 대사 소환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450512)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450510)
-#### [싱가포르, 2030년까지 공공 AI 연구에 7억 7,900만 달러 이상 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450509)
-#### [한 주간의 브레이킹뷰: 다보스, 역사를 만들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450508)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
