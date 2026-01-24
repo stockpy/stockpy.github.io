@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260124_1659 </title></head>
-<center>Vers : 20260124_1659 </center>
-<center>Vers : 20260125_0159 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_1830 </title></head>
+<center>Vers : 20260124_1830 </center>
+<center>Vers : 20260125_0330 </center>
 <br><br><br>
+#### [스타머의 라이벌 번햄, 영국 의회에 복귀할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450567)
+#### [시리아 쿠르드군과의 휴전, 불확실성 속에 만료됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450566)
+#### [중국, 고위급 숙청으로 최고 장군을 조사하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450565)
+#### [연방 요원, 이민 단속 중 미니애폴리스에서 두 번째 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450564)
+#### [브라아토레, 이번 시즌 F1에서 새로운 콜라핀토를 볼 수 있을 것 같다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450563)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450560)
+#### [우크라이나 회담이 열릴 예정입니다: 미국 관리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450561)
+#### [미국 전력망에 스트레스를 주는 혹독한 날씨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450562)
+#### [독점-미국, 볼리비아에 의심되는이란 스파이 추방, 무장 단체에 대한 접근 강화 압박, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450559)
+#### [스파이어 헬스케어, 브리지포인트와 트라이톤이 전략적 검토의 맥락에서 전략적 제휴를 논의 중인 당사자 중 하나임을 확인 전략적 검토의 맥락에서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450558)
+#### [미국, 그린란드 미군 기지에 대한 주권 확보, 트럼프, NY 포스트에 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450557)
+#### [NATGAS 파이프라인 중요 공지: 콜로라도 주간 가스 회사 영수증 위치 성능 저하 #3](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450555)
+#### [그린란드에서 우크라이나까지, 트럼프의 중앙집권적 외교가 동맹국에게 채찍질을 가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450556)
 #### [겨울 폭풍에 대한 에너지 요약: 고객 서비스 복구를 위해 9,400명 이상의 인력을 배치 또는 동원하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450554)
 #### [미네소타 주지사는? 미네아폴리스에서 총격 사건에 연루된 연방 요원이 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450553)
 #### [OpenAI, 기업의 AI 활용을 위한 새로운 서비스 계획 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450552)
@@ -54,16 +67,3 @@
 #### [싱가포르, 2030년까지 공공 AI 연구에 7억 7,900만 달러 이상 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450509)
 #### [한 주간의 브레이킹뷰: 다보스, 역사를 만들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450508)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [애니메이션의 힘을 믿는 러시아 오스카상 기대주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450507)
-#### [가자 지구의 미래를 논의하기 위해 이스라엘에있는 미국 특사, 소식통에 따르면 로이터 통신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450506)
-#### [델타항공, 겨울 폭풍이 주말 여행을 위협함에 따라 애틀랜타, 동부 해안 항공편 추가 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450505)
-#### [브라질 악시아, 노동법원이 이익 공유 사건에서 이전 금지 명령을 취소했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450504)
-#### [트럼프가 JP모건을 상대로 자신의 계좌를 폐쇄한 것에 대해 소송을 제기했나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450503)
-#### [대법원은 연준의 리사 쿡을 해고하려는 트럼프의 입찰에 대해 큰 질문을 해결하지 못할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450501)
-#### [독점-미국, 볼리비아에 의심되는이란 스파이 추방, 무장 단체에 대한 접근 강화 압박, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450500)
-#### [영부인 멜라니아 트럼프, 백악관 비공개 상영회에서 새 영화 시사회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450498)
-#### [미네소타의 이민자 급습이 풀뿌리 소말리아 운동에 불을 지핍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450497)
-#### [델타항공, 겨울 폭풍 고사리로 인해 애틀랜타 및 북동부 지역 항공편 일정 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450499)
-#### [델타항공, 겨울 폭풍이 주말 여행을 위협함에 따라 동부 해안 항공편 추가 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450502)
-#### [수천 명이 추위를 무릅쓰고 ICE의 미니애폴리스 퇴거를 요구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450496)
-#### [리비아, 토탈에너지, 코노코필립스와 25년 계약 체결로 200억 달러 이상 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450493)
