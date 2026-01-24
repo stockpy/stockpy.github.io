@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260124_1915 </title></head>
-<center>Vers : 20260124_1915 </center>
-<center>Vers : 20260125_0415 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_2022 </title></head>
+<center>Vers : 20260124_2022 </center>
+<center>Vers : 20260125_0522 </center>
 <br><br><br>
+#### ['얼마나 더 많은 주민이 죽어야 하나요', 미니애폴리스 시장 프레이에게 묻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450575)
+#### [미국 보건부, 주 공중 보건 보조금 약 50억 달러 중단, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450576)
+#### [노스랜드 파워 131MW 이리쿼이 폭포 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450574)
 #### [NATGAS 파이프라인 중요 공지: 콜로라도 주간 가스 회사 영수증 위치 성능 저하 #4](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450573)
 #### [미국 보건부, 주 공중 보건 보조금 약 50 억 달러 중단, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450572)
 #### [영국 스타머, 트럼프와 통화에서 북극 보안 강화 필요성 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450571)
@@ -63,6 +66,3 @@
 #### [폴란드, 러시아가 에너지 시스템을 목표로 우크라이나에 발전기 파견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450518)
 #### [프란조니, 키츠부헬 활강 우승, 오더마트 2위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450516)
 #### [러시아 회담이 끝났다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450519)
-#### [파키스탄 정부 반대자들을 표적으로 삼은 혐의로 영국 법정에서 기소된 남성 3명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450517)
-#### [미국 전력망은 한파로 인한 스트레스 증가를 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450514)
-#### [브라질 항공사 골, 설립자 겸 회장 콘스탄티노 주니어가 57세로 사망했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450515)
