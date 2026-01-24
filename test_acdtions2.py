@@ -3,6 +3,7 @@ print("# TEST Actions 2")
 import requests
 import json
 import pandas as pd
+import os
 import io
 import platform
 # import shutil
@@ -321,6 +322,11 @@ def __KO_ETF_Allocation() :
       print("1day")
     else:
       print("not 1day")
+
+    if os.path.isfile(CNAME):
+      print("# File OK")
+    else:
+      print("# File Not OK")
 
     # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].values, df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC"].values.string.replace("%","", regex=False))
     # dataframe의 A열의 값들에서 문자 제거하는데 AttributeError: 'numpy.ndarray' object has no attribute 'string' 애러가 나는 경우
