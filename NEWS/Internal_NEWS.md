@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260124_1649 </title></head>
-<center>Vers : 20260124_1649 </center>
-<center>Vers : 20260125_0149 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_1659 </title></head>
+<center>Vers : 20260124_1659 </center>
+<center>Vers : 20260125_0159 </center>
 <br><br><br>
+#### [겨울 폭풍에 대한 에너지 요약: 고객 서비스 복구를 위해 9,400명 이상의 인력을 배치 또는 동원하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450554)
 #### [미네소타 주지사는? 미네아폴리스에서 총격 사건에 연루된 연방 요원이 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450553)
 #### [OpenAI, 기업의 AI 활용을 위한 새로운 서비스 계획 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450552)
 #### [NATGAS 파이프라인 중요 공지: 콜로라도 주간 가스 회사 인수 위치 성능 저하 #2](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450551)
@@ -66,4 +67,3 @@
 #### [델타항공, 겨울 폭풍이 주말 여행을 위협함에 따라 동부 해안 항공편 추가 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450502)
 #### [수천 명이 추위를 무릅쓰고 ICE의 미니애폴리스 퇴거를 요구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450496)
 #### [리비아, 토탈에너지, 코노코필립스와 25년 계약 체결로 200억 달러 이상 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450493)
-#### [베센트는 러시아 석유 수입 감소로 인도에 대한 미국의 관세 감면 가능성을 암시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450495)
