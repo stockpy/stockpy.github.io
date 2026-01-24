@@ -35,3 +35,7 @@ jobs:
 
         git commit -m 'Update downloaded file'
         git push
+
+        git fetch
+        git checkout origin/master -- CNAME
+        # git pull CNAME
