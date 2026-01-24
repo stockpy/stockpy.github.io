@@ -323,7 +323,8 @@ def __KO_ETF_Allocation() :
     else:
       print("not 1day")
 
-    if os.path.isfile(CNAME):
+    file_path = 'CNAME'
+    if os.path.isfile(file_path):
       print("# File OK")
     else:
       print("# File Not OK")
