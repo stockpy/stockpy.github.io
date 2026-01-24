@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260124_1452 </title></head>
-<center>Vers : 20260124_1452 </center>
-<center>Vers : 20260124_2352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_1513 </title></head>
+<center>Vers : 20260124_1513 </center>
+<center>Vers : 20260125_0013 </center>
 <br><br><br>
+#### [도미니언 에너지, 현재 얼음 예보가 유지된다면 잠재적으로 가장 큰 겨울 날씨 운영 영향 중 하나가 될 수 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450545)
 #### [미국, 베네수엘라 석유 생산량을 늘리기 위해 빠른 수리를 모색, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450544)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
 #### [트럼프, 중국과의 협상 가능성에 대해 캐나다에 100% 관세 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450543)
@@ -66,11 +67,11 @@
 #### [미국 무역 협상이 외환에 미치는 영향은 '통제 가능한 범위'내에 있다고 c.bank는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450488)
 #### [헝가리 야당, 투표를 앞두고 외교 정책을 이끌 에너지 전문가 영입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450487)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450486)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450485)
-<head><meta charset="utf-8"><title>Vers : 20260124_1452 </title></head>
-<center>Vers : 20260124_1452 </center>
-<center>Vers : 20260124_2352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_1513 </title></head>
+<center>Vers : 20260124_1513 </center>
+<center>Vers : 20260125_0013 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450485)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450484)
 #### [러시아, 우크라이나 북동부의 또 다른 마을 점령, 국방부는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450483)
 #### [Lucid USA, Inc. 미국 차량 10,816대를 리콜합니다 - NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450481)
@@ -137,11 +138,11 @@
 #### [트럼프 행정부, 불법적으로 중단된 전기차 충전기 인프라 프로그램, 미국 판사 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450428)
 #### [미국 공항에서 마약왕 라이언 결혼식 혐의를 보여주는 FBI 영상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450427)
 #### [미국이 겨울 폭풍에 대비하면서 가축-CME 소 선물이 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450426)
-#### [2월 마지막 거래일 미국 현물-원유 등급 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450425)
-<head><meta charset="utf-8"><title>Vers : 20260124_1452 </title></head>
-<center>Vers : 20260124_1452 </center>
-<center>Vers : 20260124_2352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_1513 </title></head>
+<center>Vers : 20260124_1513 </center>
+<center>Vers : 20260125_0013 </center>
 <br><br><br>
+#### [2월 마지막 거래일 미국 현물-원유 등급 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450425)
 #### [21세기 넥스트 파이낸셜 코퍼레이션, 2025년 견조한 실적 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450422)
 #### [키보코, 사모 발행 마감 및 주식 통합 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450421)
 #### [센추리 넥스트 파이낸셜의 2025년 순이익이 사상 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450424)
@@ -212,11 +213,11 @@
 #### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450378)
 #### [Cney, 최저 입찰 가격 미달로 나스닥 상장 폐지 결정 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450347)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CNEY.O/total>
-#### [주거용 주식 보고서 2025 배당 소득세 처리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450357)
-<head><meta charset="utf-8"><title>Vers : 20260124_1452 </title></head>
-<center>Vers : 20260124_1452 </center>
-<center>Vers : 20260124_2352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_1513 </title></head>
+<center>Vers : 20260124_1513 </center>
+<center>Vers : 20260125_0013 </center>
 <br><br><br>
+#### [주거용 주식 보고서 2025 배당 소득세 처리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450357)
 #### [TC 에너지, 시리즈 5 및 시리즈 6 전환 선거 결과 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450366)
 #### [뉴욕 연준이 달러 / 엔 환율 점검을 실시했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450346)
 #### [셀라니즈, 폴리아미드 제품 가격 인상 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450356)
@@ -296,11 +297,11 @@
 #### [대출 수요 증가로 KS뱅코프 4분기 순이익 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450316)
 #### [저니 메디컬, 보통주 최대 375만 주 제공 및 매각을 위한 판매 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450306)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DERM.O/total>
-#### [금값이 5,000달러에 근접하면서 캐나다 증시-TSX가 사상 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450303)
-<head><meta charset="utf-8"><title>Vers : 20260124_1452 </title></head>
-<center>Vers : 20260124_1452 </center>
-<center>Vers : 20260124_2352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_1513 </title></head>
+<center>Vers : 20260124_1513 </center>
+<center>Vers : 20260125_0013 </center>
 <br><br><br>
+#### [금값이 5,000달러에 근접하면서 캐나다 증시-TSX가 사상 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450303)
 #### [라이트패스 테크놀로지스, 자산 인수 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450299)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LPTH.O/total>
 #### [/B' 등급 전망 '안정적' 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450305)
@@ -371,11 +372,11 @@
 #### [로펌 데커트, 경쟁사 맥더못에서 20명의 파트너 팀을 고용하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450246)
 #### [독점-배릭의 북미 분사는 뉴몬트의 승인에 달려있다, 문서에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450243)
 #### [러시아 회담이 오늘 끝났다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450241)
-#### [델타항공, 겨울 폭풍 고사리가 주말 항공편을 위협함에 따라 여행객들에게 재예약 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450245)
-<head><meta charset="utf-8"><title>Vers : 20260124_1452 </title></head>
-<center>Vers : 20260124_1452 </center>
-<center>Vers : 20260124_2352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_1513 </title></head>
+<center>Vers : 20260124_1513 </center>
+<center>Vers : 20260125_0013 </center>
 <br><br><br>
+#### [델타항공, 겨울 폭풍 고사리가 주말 항공편을 위협함에 따라 여행객들에게 재예약 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450245)
 #### [미국 요약: 엔화, 금리인상 우려에 달러화 하락에 반등하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450249)
 #### [코인베이스, 일부 사용자가 온램프에서 지연 시간, 성능 문제를 겪고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450240)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
@@ -446,11 +447,11 @@
 #### [미국 시추 업체, 3 주 만에 처음으로 석유 및 가스 굴착 장치 추가, 베이커 휴즈는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450182)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
 #### [다논, 독소 공포가 확대됨에 따라 아일랜드에서 생산 된 특정 분유 배치 리콜](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450188)
-#### [페덱스, 계획된 분사와 관련하여 페덱스 프레이트의 선순위 채권 발행 개시 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450184)
-<head><meta charset="utf-8"><title>Vers : 20260124_1452 </title></head>
-<center>Vers : 20260124_1452 </center>
-<center>Vers : 20260124_2352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_1513 </title></head>
+<center>Vers : 20260124_1513 </center>
+<center>Vers : 20260125_0013 </center>
 <br><br><br>
+#### [페덱스, 계획된 분사와 관련하여 페덱스 프레이트의 선순위 채권 발행 개시 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450184)
 #### [First Citizens BancShares가 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450181)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FCNCA.O/total>
 #### [노바골드, 바이딜 파이낸싱을 3억 달러로 늘리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450187)
@@ -516,4 +517,3 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450108)
 #### [런던 증시, 지정학적 불안감에 3주 연속 연승 기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450109)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
-#### [에릭 트럼프 등과의 다보스 만찬에서 아프리카 대통령, 비즈니스 거래 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450124)
