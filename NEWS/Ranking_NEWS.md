@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260124_1022 </title></head>
-<center>Vers : 20260124_1022 </center>
-<center>Vers : 20260124_1922 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_1043 </title></head>
+<center>Vers : 20260124_1043 </center>
+<center>Vers : 20260124_1943 </center>
 <br><br><br>
 #### ["지금 안 사면 늦는다"…1년 만에 4배 폭등한 '이 종목'](https://m.stock.naver.com/news/ranknews/view/015/0005241574)
 #### [[더차트]"올 초에만 샀어도"...1억이 3억 됐다, 상승률 1위 '이 종목'](https://m.stock.naver.com/news/ranknews/view/008/0005308825)
