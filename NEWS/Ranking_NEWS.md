@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260124_1625 </title></head>
-<center>Vers : 20260124_1625 </center>
-<center>Vers : 20260125_0125 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_1649 </title></head>
+<center>Vers : 20260124_1649 </center>
+<center>Vers : 20260125_0149 </center>
 <br><br><br>
 #### ["지금 안 사면 늦는다"…1년 만에 4배 폭등한 '이 종목'](https://m.stock.naver.com/news/ranknews/view/015/0005241574)
 #### ["175만원 날렸어요"…아내에게 주식 넘겼다가 '낭패' [고정삼의 절세GPT]](https://m.stock.naver.com/news/ranknews/view/015/0005241599)

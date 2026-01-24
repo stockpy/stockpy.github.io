@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260124_1625 </title></head>
-<center>Vers : 20260124_1625 </center>
-<center>Vers : 20260125_0125 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_1649 </title></head>
+<center>Vers : 20260124_1649 </center>
+<center>Vers : 20260125_0149 </center>
 <br><br><br>
+#### [미네소타 주지사는? 미네아폴리스에서 총격 사건에 연루된 연방 요원이 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450553)
 #### [OpenAI, 기업의 AI 활용을 위한 새로운 서비스 계획 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450552)
 #### [NATGAS 파이프라인 중요 공지: 콜로라도 주간 가스 회사 인수 위치 성능 저하 #2](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450551)
 #### [ERCOT, ERCOT 지역 전역의 겨울 폭풍 조건으로 인해 오늘부터 1월 27일까지 ERCOT 기상 특보가 발효된다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450549)
@@ -66,4 +67,3 @@
 #### [수천 명이 추위를 무릅쓰고 ICE의 미니애폴리스 퇴거를 요구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450496)
 #### [리비아, 토탈에너지, 코노코필립스와 25년 계약 체결로 200억 달러 이상 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450493)
 #### [베센트는 러시아 석유 수입 감소로 인도에 대한 미국의 관세 감면 가능성을 암시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450495)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450494)
