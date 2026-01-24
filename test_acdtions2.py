@@ -328,7 +328,7 @@ def __KO_ETF_Allocation() :
       print("# File OK")
       with open(file_path, 'r', encoding='utf-8') as file:
         for line in file:
-        print(line.strip())
+          print(line.strip())
     else:
       print("# File Not OK")
 
