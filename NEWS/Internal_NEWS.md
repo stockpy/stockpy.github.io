@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260124_2053 </title></head>
-<center>Vers : 20260124_2053 </center>
-<center>Vers : 20260125_0553 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_2113 </title></head>
+<center>Vers : 20260124_2113 </center>
+<center>Vers : 20260125_0613 </center>
 <br><br><br>
 #### ['얼마나 더 많은 주민이 죽어야 하나요', 미니애폴리스 시장 프레이에게 묻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450575)
 #### [미국 보건부, 주 공중 보건 보조금 약 50억 달러 중단, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450576)
