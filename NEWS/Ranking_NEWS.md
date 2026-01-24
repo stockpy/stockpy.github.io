@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260124_2240 </title></head>
-<center>Vers : 20260124_2240 </center>
-<center>Vers : 20260125_0740 </center>
+<head><meta charset="utf-8"><title>Vers : 20260124_2252 </title></head>
+<center>Vers : 20260124_2252 </center>
+<center>Vers : 20260125_0752 </center>
 <br><br><br>
 #### [상승장에 3000만원 잃고서야 “내가 졌다”…인생역전 노렸던 ‘곱버스’의 최후](https://m.stock.naver.com/news/ranknews/view/011/0004582566)
 #### ["175만원 날렸어요"…아내에게 주식 넘겼다가 '낭패' [고정삼의 절세GPT]](https://m.stock.naver.com/news/ranknews/view/015/0005241599)
