@@ -326,6 +326,9 @@ def __KO_ETF_Allocation() :
     file_path = 'CNAME'
     if os.path.isfile(file_path):
       print("# File OK")
+      with open(file_path, 'r', encoding='utf-8') as file:
+        for line in file:
+        print(line.strip())
     else:
       print("# File Not OK")
 
