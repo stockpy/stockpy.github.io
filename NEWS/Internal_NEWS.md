@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_2124 </title></head>
-<center>Vers : 20260125_2124 </center>
-<center>Vers : 20260126_0624 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_2220 </title></head>
+<center>Vers : 20260125_2220 </center>
+<center>Vers : 20260126_0720 </center>
 <br><br><br>
+#### [이스라엘, 마지막 인질 시신 수색 종료 후 라파 교차로 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450743)
+#### [베이커 휴즈 4분기 조정 주당순이익 0.78달러 대 IBES 추정치 0.67달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450742)
+#### [미국, 아이티 과도 대통령직 인수위원회 위원들의 비자 제한](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450741)
+#### [듀크 에너지, Co. 캐롤라이나에서 18,000 건 이상의 정전 보고, 얼음이 나무와 전력선을 위협함에 따라 더 많은 정전 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450740)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450739)
+#### [댓글-한 주 앞으로-FOMC 리드, BoC 및 Riksbank 결정도 예정되어 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450738)
+#### [미네아폴리스 총격 사건으로 트럼프의 이민자 급증은 선거철 싸움의 중심에 서게 되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450737)
 #### [트럼프는 ICE 바디 카메라에 대한 자금을 삭감하고 감독을 축소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450736)
 #### [미니애폴리스 총격 사건으로 트럼프의 이민자 급증은 선거 해 싸움의 중심에 서게되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450735)
 #### [머크, 더 이상 레볼루션 메디신스 인수 협상 중단, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450734)
@@ -58,11 +65,3 @@
 #### [이스라엘의 총격으로 가자 지구에서 2 명 사망, 미국이 가자 지구 협상을 진전시키기 위해 양측에 압력을 가함에 따라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450686)
 #### [철탑 붕괴 후 러시아 주요 해군 기지 본거지에 정전 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450684)
 #### [피닝, 칠레의 에스콘디다, 잘디바르 광산으로가는 도로 봉쇄 종식을위한 노동 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450685)
-#### [그린란드의 수도, 폭풍으로 손상된 선로 복구 후 전력 및 난방 복구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450683)
-#### [독점-인도, EU와의 무역 거래에서 자동차 관세를 40 %로 인하 할 것이라고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450682)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7269.T/total>
-#### [독점- 에어 버스 CEO, '중대한'무역 피해 이후 새로운 위험 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450681)
-#### [독점-에어버스 CEO, '중대한' 무역 피해 이후 새로운 위험 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450680)
-#### [시프린, 월드컵 대회전 통산 9번째 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450679)
-#### [스타터 리더십 라이벌 번햄의 영국 의회 복귀 시도 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450678)
-#### [스타머 리더십의 라이벌 번햄이 영국 의회 복귀를 모색하는 것을 막았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450677)
