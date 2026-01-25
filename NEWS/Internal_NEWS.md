@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_0530 </title></head>
-<center>Vers : 20260125_0530 </center>
-<center>Vers : 20260125_1430 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_0633 </title></head>
+<center>Vers : 20260125_0633 </center>
+<center>Vers : 20260125_1533 </center>
 <br><br><br>
+#### [개스제, 잔인한 UFC 슬러그 페스트에서 핌블렛을 꺾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450633)
+#### [노스랜드 파워 131MW 이리쿼이 폭포 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450631)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450632)
+#### [맥쿼리 온타리오 184MW 카디널 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450630)
+#### [온타리오주 킹스턴 코겐 140MW 데스텍 가스 발전소 폐쇄 - 온타리오주 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450629)
+#### [미국 등반가가 로프 없이 대만에서 가장 높은 건물 타이베이 101을 등반하다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450628)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
+#### [뱅가드, 미국 외 지역 자산 1조 달러 돌파- FT 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450627)
+#### [뱅가드, 미국 외 지역 자산 1조 달러 돌파, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450626)
+#### [폴란드, 경제 급등 후 유로존 가입에 냉담, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450625)
 #### [EU, 무역 중단 속에서 베트남과의 관계를 강화할 예정, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450624)
 #### [Atco Power Alberta 155MW 배틀 리버 4 석탄 발전소 오프라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450623)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450622)
@@ -55,6 +65,10 @@
 #### ['얼마나 더 많은 주민이 죽어야 하나요', 미니애폴리스 시장 프레이에게 묻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450575)
 #### [미국 보건부, 주 공중 보건 보조금 약 50억 달러 중단, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450576)
 #### [노스랜드 파워 131MW 이리쿼이 폭포 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450574)
+<head><meta charset="utf-8"><title>Vers : 20260125_0633 </title></head>
+<center>Vers : 20260125_0633 </center>
+<center>Vers : 20260125_1533 </center>
+<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 콜로라도 주간 가스 회사 영수증 위치 성능 저하 #4](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450573)
 #### [미국 보건부, 주 공중 보건 보조금 약 50 억 달러 중단, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450572)
 #### [영국 스타머, 트럼프와 통화에서 북극 보안 강화 필요성 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450571)
@@ -64,10 +78,6 @@
 #### [스타머의 라이벌 번햄, 영국 의회에 복귀할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450567)
 #### [시리아 쿠르드군과의 휴전, 불확실성 속에 만료됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450566)
 #### [중국, 고위급 숙청으로 최고 장군을 조사하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450565)
-<head><meta charset="utf-8"><title>Vers : 20260125_0530 </title></head>
-<center>Vers : 20260125_0530 </center>
-<center>Vers : 20260125_1430 </center>
-<br><br><br>
 #### [연방 요원, 이민 단속 중 미니애폴리스에서 두 번째 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450564)
 #### [브라아토레, 이번 시즌 F1에서 새로운 콜라핀토를 볼 수 있을 것 같다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450563)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450560)
@@ -123,13 +133,3 @@
 #### [파키스탄 정부 반대자들을 표적으로 삼은 혐의로 영국 법정에서 기소된 남성 3명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450517)
 #### [미국 전력망은 한파로 인한 스트레스 증가를 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450514)
 #### [브라질 항공사 골, 설립자 겸 회장 콘스탄티노 주니어가 57세로 사망했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450515)
-#### [이스라엘에서 가자 지구의 미래를 논의하기 위해 이스라엘에있는 미국 특사, 소식통에 따르면 로이터 통신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450513)
-#### [러시아, 미국 주도 회담에서 우크라이나의 가장 큰 두 도시를 폭격하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450511)
-#### [이탈리아 시위, 새해 술집 화재 용의자 석방 후 스위스 주재 대사 소환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450512)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450510)
-#### [싱가포르, 2030년까지 공공 AI 연구에 7억 7,900만 달러 이상 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450509)
-#### [한 주간의 브레이킹뷰: 다보스, 역사를 만들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450508)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [애니메이션의 힘을 믿는 러시아 오스카상 기대주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450507)
-#### [가자 지구의 미래를 논의하기 위해 이스라엘에있는 미국 특사, 소식통에 따르면 로이터 통신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450506)
-#### [델타항공, 겨울 폭풍이 주말 여행을 위협함에 따라 애틀랜타, 동부 해안 항공편 추가 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450505)
