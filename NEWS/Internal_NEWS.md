@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_2025 </title></head>
-<center>Vers : 20260125_2025 </center>
-<center>Vers : 20260126_0525 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_2057 </title></head>
+<center>Vers : 20260125_2057 </center>
+<center>Vers : 20260126_0557 </center>
 <br><br><br>
+#### [미니애폴리스 총격 사건으로 트럼프의 이민자 급증은 선거 해 싸움의 중심에 서게되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450735)
+#### [머크, 더 이상 레볼루션 메디신스 인수 협상 중단, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450734)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RVMD.O/total>
 #### [BUZZ-Replay-USD/JPY 워시아웃, EUR/USD 촉매, 스털링 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450733)
 #### [연방 관리들이 미니애폴리스 총격 사건의 내러티브와 모순되는 비디오 증거를 파헤치다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450731)
 #### [머크, 더 이상 혁명 의약품 구매 협상 중단 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450730)
@@ -64,5 +67,3 @@
 #### [스타머 리더십의 라이벌 번햄이 영국 의회 복귀를 모색하는 것을 막았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450677)
 #### [루이허 데이터 기술, 최대 1억 5,800만 주 발행 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450676)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3680.HK/total>
-#### [인도 남부의 가구점에서 화재가 발생한 후 시신이 발견되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450675)
-#### [독점-에어버스 CEO, '중대한' 무역 피해 이후 새로운 위험 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450672)
