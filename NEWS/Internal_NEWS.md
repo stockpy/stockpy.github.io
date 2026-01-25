@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_0913 </title></head>
-<center>Vers : 20260125_0913 </center>
-<center>Vers : 20260125_1813 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_1022 </title></head>
+<center>Vers : 20260125_1022 </center>
+<center>Vers : 20260125_1922 </center>
 <br><br><br>
+#### [트럼프, 광범위한 비난에도 영국군을 용감한 전사라고 칭찬하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450659)
+#### [CPC, 유지 보수 후 계류장 출시, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450658)
+#### [풍력 기어박스 프로젝트에 투자하는 델리지아 변속기 기술(강소) 개요](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450657)
+#### [노르웨이의 Gassco, 1월 26일 0500시부터 1월 27일 0500시까지 아스가르드 가스전에서 하루 -9.7mcm/일의 정전 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450656)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450655)
+#### [지용 지 뉴 머티리얼, 아르코닉의 중국 사업 지분을 1억 7,980만 달러에 인수하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450654)
 #### [카우헬스 메디컬 차이나, 벤큐 병원과 공급 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450653)
 #### [우시 화동 중기, 아다니 그룹 프로젝트 입찰 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450652)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002685.SZ/total>
@@ -69,16 +75,16 @@
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450589)
 #### [캐나다의 카니, 3월 호주 방문 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450601)
 #### [스켈레톤 미국인 울렌더, 캐나다 스켈레톤 철수 후 올림픽 와일드카드 도전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450595)
+<head><meta charset="utf-8"><title>Vers : 20260125_1022 </title></head>
+<center>Vers : 20260125_1022 </center>
+<center>Vers : 20260125_1922 </center>
+<br><br><br>
 #### [일본, 투기적 시장 움직임에 대해 필요한 조치를 취해야한다고 타카이치 총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450599)
 #### [항소 법원은 미네소타 교회 시위에 대해 더 많은 사람들을 기소하려는 법무부의 추진을 거부합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450598)
 #### [미국 이민국 요원이 미니애폴리스에서 또 다른 미국 시민을 살해했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450596)
 #### [러시아의 밤새 우크라이나 공격으로 평화 회담이 합의 없이 끝나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450604)
 #### [영국, 새로운 '영국 FBI' 경찰 서비스 설립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450597)
 #### [러시아, 우크라이나 북동부의 또 다른 마을 점령, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450584)
-<head><meta charset="utf-8"><title>Vers : 20260125_0913 </title></head>
-<center>Vers : 20260125_0913 </center>
-<center>Vers : 20260125_1813 </center>
-<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450603)
 #### [미국 겨울 폭풍을 앞두고 수천 편의 항공편이 취소되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450579)
 #### [러시아 벨고로드 지역 주지사, 우크라이나 군이 '대규모'공격을 벌였다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450586)
@@ -135,9 +141,3 @@
 #### [알파인 스키-프란조니, 키츠부헬 활강 우승, 오더마트 2위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450540)
 #### [젤렌스키, UAE 회담은 '건설적', 다음 주 추가 회의 가능](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450542)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450541)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450539)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450538)
-#### [미국이 압류된 베네수엘라 유조선에서 석유를 가져갔다고 트럼프가 뉴욕 포스트에 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450535)
-#### [거대 시험 업체 ETS가 약 5억 달러에 GRE와 토플 시험을 판매합니다 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450537)
-#### [트럼프, 중국과의 협상 가능성에 대해 캐나다에 100% 관세 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450536)
-#### [스웨덴의 헥터, 대회전 우승으로 올림픽 타이틀 방어 준비 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450534)
