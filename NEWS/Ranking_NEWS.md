@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_0828 </title></head>
-<center>Vers : 20260125_0828 </center>
-<center>Vers : 20260125_1728 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_0851 </title></head>
+<center>Vers : 20260125_0851 </center>
+<center>Vers : 20260125_1751 </center>
 <br><br><br>
 #### [삼전 개미들도 "부러워"...'오천피 간다' 외치고 288% 폭등한 종목](https://m.stock.naver.com/news/ranknews/view/008/0005308965)
 #### [월급 60만원 받던 20대 청년…1250억 주식 부자 된 사연 [윤현주의 主食이 주식]](https://m.stock.naver.com/news/ranknews/view/015/0005241619)

@@ -1,7 +1,29 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_0828 </title></head>
-<center>Vers : 20260125_0828 </center>
-<center>Vers : 20260125_1728 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_0851 </title></head>
+<center>Vers : 20260125_0851 </center>
+<center>Vers : 20260125_1751 </center>
 <br><br><br>
+#### [우시 선도 지능형 장비, 2025년 순이익 424.3~529.2% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450650)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300450.SZ/total>
+#### [우크라이나 키예프에 대한 러시아의 파업으로 1,700 개의 건물이 여전히 난방없이 남아 있다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450649)
+#### [신장 바예 철강, 2025년 순손실 확대 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450651)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600581.SS/total>
+#### [스마트센스 테크놀로지(상하이), 2025년 순이익 149~162% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450639)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688213.SS/total>
+#### [상하이 후공 전기의 주주, 지분을 처분하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450648)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603131.SS/total>
+#### [지아 메이 식품 포장 추저우의 주식 거래가 중단됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450646)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002969.SZ/total>
+#### [중국 국립 화학 공학, 2025년 총 4037억 위안의 계약 체결 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450642)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601117.SS/total>
+#### [중국 국가 협정 의약품, 2025년 순이익 64.2-89.1% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450647)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000028.SZ/total>
+#### [후난 골드, 2025 년 순이익 50-90 % 증가, 주식 거래 재개 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450645)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002155.SZ/total>
+#### [절강 펑롱 전기의 주식 거래가 중단됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450641)
+#### [CMOC, 이퀴녹스 골드로부터 금광 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450643)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603993.SS/total>
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450644)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450640)
 #### [Atco Power 앨버타 155MW 배틀 리버 4 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450638)
 #### [Atco Power Alberta 155MW 배틀 리버 4 석탄 발전소 오프라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450637)
 #### [Atco Power Alberta 385MW 배틀 리버 5 석탄 발전소 오프라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450636)
@@ -52,6 +74,10 @@
 #### [러시아, 우크라이나 북동부의 또 다른 마을 점령, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450584)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450603)
 #### [미국 겨울 폭풍을 앞두고 수천 편의 항공편이 취소되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450579)
+<head><meta charset="utf-8"><title>Vers : 20260125_0851 </title></head>
+<center>Vers : 20260125_0851 </center>
+<center>Vers : 20260125_1751 </center>
+<br><br><br>
 #### [러시아 벨고로드 지역 주지사, 우크라이나 군이 '대규모'공격을 벌였다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450586)
 #### [에르메스 디자이너, 파리에서 마지막 남성복 쇼로 37년 만에 은퇴 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450578)
 #### [인터내셔널 파워 온타리오 128MW 웨스트 윈저 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450593)
@@ -65,10 +91,6 @@
 #### [커뮤니티 통지로 인해 텍사스 베이타운 단지에서 공회전하는 엑손의 설비](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450590)
 #### [시리아, 쿠르드군과의 휴전 15일 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450582)
 #### [천연가스 파이프라인 중요 공지: 테네시 가스 파이프라인 자문/지시 공지 - 운영 경보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450588)
-<head><meta charset="utf-8"><title>Vers : 20260125_0828 </title></head>
-<center>Vers : 20260125_0828 </center>
-<center>Vers : 20260125_1728 </center>
-<br><br><br>
 #### [최연소 몬테카를로 우승자 등극을 눈앞에 둔 랠리링-솔베르그](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450594)
 #### [CVC 지원 글로벌 스포츠 그룹, Equine Network와 3억 달러 규모 계약 체결 임박 - 스카이뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450587)
 #### ['얼마나 더 많은 주민이 죽어야 하나요', 미니애폴리스 시장 프레이에게 묻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450575)
@@ -119,17 +141,3 @@
 #### [NATGAS 파이프라인 중요 공지: 콜로라도 주간 가스 회사 인수 위치 성능 저하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450532)
 #### [월스트리트 주간을 앞두고-연준, 글로벌 긴장이 전망을 흐리게하면서 시장에 큰 수익 주간이 다가옵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450533)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [칠레의 에스 콘디 다, 잘 디바르 광산 진입로가 계약자 파업으로 여전히 막혀 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450531)
-#### [미국, 베네수엘라 석유 생산량을 높이기 위해 빠른 수리를 모색, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450529)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
-#### [미국이 압수 된 베네수엘라 유조선에서 석유를 가져 갔다고 트럼프는 NY Post에 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450530)
-#### [시리아는 최근 통제 된 유전에서 석유 추출을 시작한다고 국영 통신사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450528)
-#### [러시아는 아부 다비 회담 이후 우크라이나와의 추가 대화에 여전히 열려 있다고 RIA가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450526)
-#### [이탈리아 시위, 새해 술집 화재 용의자 석방 후 스위스 주재 대사 소환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450527)
-#### [UAE, 모스크바와 러시아 간 회담은 미국이 제안한 평화 계획의 '뛰어난 요소'에 초점을 맞추 었다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450525)
-#### [미국, 스페인에서 에콰도르 마약 밀매 갱단 지도자 인도 요청, 에콰도르 관리, 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450522)
-#### [미국, 셰브론, 기타 생산자 및 유전 서비스 제공 업체와 베네수엘라에서 생산량을 신속하게 되살리기위한 계획에 대해 논의 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450523)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450524)
-#### [인베너지 온타리오 616MW 세인트 클레어 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450521)
-#### [미국 전역의 주민들이 주말 겨울 폭풍에 대비하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450520)
-#### [폴란드, 러시아가 에너지 시스템을 목표로 우크라이나에 발전기 파견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450518)
