@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_1044 </title></head>
-<center>Vers : 20260125_1044 </center>
-<center>Vers : 20260125_1944 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_1056 </title></head>
+<center>Vers : 20260125_1056 </center>
+<center>Vers : 20260125_1956 </center>
 <br><br><br>
 #### [“이런 부부 정말 있었네”…연9500만원 벌고도 기초연금 타는 노인들 [언제까지 직장인]](https://m.stock.naver.com/news/ranknews/view/009/0005626740)
 #### [삼전 개미들도 "부러워"...'오천피 간다' 외치고 288% 폭등한 종목](https://m.stock.naver.com/news/ranknews/view/008/0005308965)

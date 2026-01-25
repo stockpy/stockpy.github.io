@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_1044 </title></head>
-<center>Vers : 20260125_1044 </center>
-<center>Vers : 20260125_1944 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_1056 </title></head>
+<center>Vers : 20260125_1056 </center>
+<center>Vers : 20260125_1956 </center>
 <br><br><br>
+#### [카자흐스탄의 주요 수출 파이프 라인이 계류장 수리 후 최대 적재 용량으로 돌아갑니다 - CPC는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450663)
 #### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450662)
 #### [3에서 오일 로딩이 재개된다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450660)
 #### [미니아이 기술, 지능형 주행 제품 주문 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450661)
@@ -75,11 +76,11 @@
 #### [미국, 희토류 광산업체에 16 억 달러 투입하여 지분 10 % 확보, FT 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450605)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/USAR.O/total>
 #### [어스, 희토류 그룹에 16억 달러 투자해 주요 광물 확보에 나선다 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450602)
-#### [인터내셔널 파워 온타리오 128MW 웨스트 윈저 가스 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450600)
-<head><meta charset="utf-8"><title>Vers : 20260125_1044 </title></head>
-<center>Vers : 20260125_1044 </center>
-<center>Vers : 20260125_1944 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_1056 </title></head>
+<center>Vers : 20260125_1056 </center>
+<center>Vers : 20260125_1956 </center>
 <br><br><br>
+#### [인터내셔널 파워 온타리오 128MW 웨스트 윈저 가스 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450600)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450589)
 #### [캐나다의 카니, 3월 호주 방문 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450601)
 #### [스켈레톤 미국인 울렌더, 캐나다 스켈레톤 철수 후 올림픽 와일드카드 도전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450595)
@@ -141,4 +142,3 @@
 #### [도미니언 에너지, 현재 얼음 예보가 유지된다면 잠재적으로 가장 큰 겨울 날씨 운영 영향 중 하나가 될 수 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450545)
 #### [미국, 베네수엘라 석유 생산량을 늘리기 위해 빠른 수리를 모색, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450544)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
-#### [트럼프, 중국과의 협상 가능성에 대해 캐나다에 100% 관세 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450543)
