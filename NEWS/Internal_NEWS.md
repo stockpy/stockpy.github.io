@@ -1,7 +1,47 @@
-<head><meta charset="utf-8"><title>Vers : 20260124_2314 </title></head>
-<center>Vers : 20260124_2314 </center>
-<center>Vers : 20260125_0814 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_0157 </title></head>
+<center>Vers : 20260125_0157 </center>
+<center>Vers : 20260125_1057 </center>
 <br><br><br>
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450614)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450612)
+#### [영부인 멜라니아 트럼프, 백악관 비공개 상영회에서 새 영화 시사회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450613)
+#### [트럼프의 이민 압박이 강화되면서 사망자 수 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450610)
+#### [미국, 희토류 광산업체에 16억 달러 투입해 지분 10% 인수, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450611)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/USAR.O/total>
+#### [미얀마 군부가 내전 중에 선거를 실시하는 이유는 무엇인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450609)
+#### [미국 겨울 폭풍으로 10만 건 이상의 정전, 수천 건의 항공편 결항이 발생했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450608)
+#### [일본 총리, 엔화 급등에 따른 투기적 시장 움직임에 대응하겠다고 다짐하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450606)
+#### [트럼프의 이민 압박이 강화되면서 사망자 수 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450607)
+#### [미국, 희토류 광산업체에 16 억 달러 투입하여 지분 10 % 확보, FT 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450605)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/USAR.O/total>
+#### [어스, 희토류 그룹에 16억 달러 투자해 주요 광물 확보에 나선다 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450602)
+#### [인터내셔널 파워 온타리오 128MW 웨스트 윈저 가스 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450600)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450589)
+#### [캐나다의 카니, 3월 호주 방문 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450601)
+#### [스켈레톤 미국인 울렌더, 캐나다 스켈레톤 철수 후 올림픽 와일드카드 도전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450595)
+#### [일본, 투기적 시장 움직임에 대해 필요한 조치를 취해야한다고 타카이치 총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450599)
+#### [항소 법원은 미네소타 교회 시위에 대해 더 많은 사람들을 기소하려는 법무부의 추진을 거부합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450598)
+#### [미국 이민국 요원이 미니애폴리스에서 또 다른 미국 시민을 살해했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450596)
+#### [러시아의 밤새 우크라이나 공격으로 평화 회담이 합의 없이 끝나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450604)
+#### [영국, 새로운 '영국 FBI' 경찰 서비스 설립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450597)
+#### [러시아, 우크라이나 북동부의 또 다른 마을 점령, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450584)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450603)
+#### [미국 겨울 폭풍을 앞두고 수천 편의 항공편이 취소되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450579)
+#### [러시아 벨고로드 지역 주지사, 우크라이나 군이 '대규모'공격을 벌였다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450586)
+#### [에르메스 디자이너, 파리에서 마지막 남성복 쇼로 37년 만에 은퇴 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450578)
+#### [인터내셔널 파워 온타리오 128MW 웨스트 윈저 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450593)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450585)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450577)
+#### [세계 보건기구, 미국의 철수 결정에 유감 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450592)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450581)
+#### [브라질 가피사, 루이스 페르난도 오르티스를 CEO로 선출하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450591)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450580)
+#### [미네아폴리스 경기 연기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450583)
+#### [커뮤니티 통지로 인해 텍사스 베이타운 단지에서 공회전하는 엑손의 설비](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450590)
+#### [시리아, 쿠르드군과의 휴전 15일 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450582)
+#### [천연가스 파이프라인 중요 공지: 테네시 가스 파이프라인 자문/지시 공지 - 운영 경보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450588)
+#### [최연소 몬테카를로 우승자 등극을 눈앞에 둔 랠리링-솔베르그](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450594)
+#### [CVC 지원 글로벌 스포츠 그룹, Equine Network와 3억 달러 규모 계약 체결 임박 - 스카이뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450587)
 #### ['얼마나 더 많은 주민이 죽어야 하나요', 미니애폴리스 시장 프레이에게 묻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450575)
 #### [미국 보건부, 주 공중 보건 보조금 약 50억 달러 중단, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450576)
 #### [노스랜드 파워 131MW 이리쿼이 폭포 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450574)
@@ -24,6 +64,10 @@
 #### [미국, 그린란드 미군 기지에 대한 주권 확보, 트럼프, NY 포스트에 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450557)
 #### [NATGAS 파이프라인 중요 공지: 콜로라도 주간 가스 회사 영수증 위치 성능 저하 #3](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450555)
 #### [그린란드에서 우크라이나까지, 트럼프의 중앙집권적 외교가 동맹국에게 채찍질을 가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450556)
+<head><meta charset="utf-8"><title>Vers : 20260125_0157 </title></head>
+<center>Vers : 20260125_0157 </center>
+<center>Vers : 20260125_1057 </center>
+<br><br><br>
 #### [겨울 폭풍에 대한 에너지 요약: 고객 서비스 복구를 위해 9,400명 이상의 인력을 배치 또는 동원하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450554)
 #### [미네소타 주지사는? 미네아폴리스에서 총격 사건에 연루된 연방 요원이 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450553)
 #### [OpenAI, 기업의 AI 활용을 위한 새로운 서비스 계획 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450552)
@@ -66,3 +110,26 @@
 #### [폴란드, 러시아가 에너지 시스템을 목표로 우크라이나에 발전기 파견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450518)
 #### [프란조니, 키츠부헬 활강 우승, 오더마트 2위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450516)
 #### [러시아 회담이 끝났다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450519)
+#### [파키스탄 정부 반대자들을 표적으로 삼은 혐의로 영국 법정에서 기소된 남성 3명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450517)
+#### [미국 전력망은 한파로 인한 스트레스 증가를 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450514)
+#### [브라질 항공사 골, 설립자 겸 회장 콘스탄티노 주니어가 57세로 사망했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450515)
+#### [이스라엘에서 가자 지구의 미래를 논의하기 위해 이스라엘에있는 미국 특사, 소식통에 따르면 로이터 통신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450513)
+#### [러시아, 미국 주도 회담에서 우크라이나의 가장 큰 두 도시를 폭격하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450511)
+#### [이탈리아 시위, 새해 술집 화재 용의자 석방 후 스위스 주재 대사 소환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450512)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450510)
+#### [싱가포르, 2030년까지 공공 AI 연구에 7억 7,900만 달러 이상 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450509)
+#### [한 주간의 브레이킹뷰: 다보스, 역사를 만들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450508)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
+#### [애니메이션의 힘을 믿는 러시아 오스카상 기대주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450507)
+#### [가자 지구의 미래를 논의하기 위해 이스라엘에있는 미국 특사, 소식통에 따르면 로이터 통신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450506)
+#### [델타항공, 겨울 폭풍이 주말 여행을 위협함에 따라 애틀랜타, 동부 해안 항공편 추가 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450505)
+#### [브라질 악시아, 노동법원이 이익 공유 사건에서 이전 금지 명령을 취소했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450504)
+#### [트럼프가 JP모건을 상대로 자신의 계좌를 폐쇄한 것에 대해 소송을 제기했나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450503)
+#### [대법원은 연준의 리사 쿡을 해고하려는 트럼프의 입찰에 대해 큰 질문을 해결하지 못할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450501)
+#### [독점-미국, 볼리비아에 의심되는이란 스파이 추방, 무장 단체에 대한 접근 강화 압박, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450500)
+#### [영부인 멜라니아 트럼프, 백악관 비공개 상영회에서 새 영화 시사회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450498)
+#### [미네소타의 이민자 급습이 풀뿌리 소말리아 운동에 불을 지핍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450497)
+#### [델타항공, 겨울 폭풍 고사리로 인해 애틀랜타 및 북동부 지역 항공편 일정 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450499)
+#### [델타항공, 겨울 폭풍이 주말 여행을 위협함에 따라 동부 해안 항공편 추가 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450502)
+#### [수천 명이 추위를 무릅쓰고 ICE의 미니애폴리스 퇴거를 요구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450496)
+#### [리비아, 토탈에너지, 코노코필립스와 25년 계약 체결로 200억 달러 이상 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450493)
