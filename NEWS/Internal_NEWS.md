@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_1830 </title></head>
-<center>Vers : 20260125_1830 </center>
-<center>Vers : 20260126_0330 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_2025 </title></head>
+<center>Vers : 20260125_2025 </center>
+<center>Vers : 20260126_0525 </center>
 <br><br><br>
+#### [BUZZ-Replay-USD/JPY 워시아웃, EUR/USD 촉매, 스털링 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450733)
+#### [연방 관리들이 미니애폴리스 총격 사건의 내러티브와 모순되는 비디오 증거를 파헤치다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450731)
+#### [머크, 더 이상 혁명 의약품 구매 협상 중단 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450730)
+#### [머크, 더 이상 레볼루션 메디신스 인수 협상 중단, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450732)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RVMD.O/total>
+#### [가스 공급 제한과 추운 날씨로 미국 동부에서 발전소 정전이 급증하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450729)
+#### [일본, 이르면 2028 년까지 암호 화폐 ETF를 승인 할 것이라고 Nikkei는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450726)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8604.T/total>
+#### [튀니지 앞바다에서 이주민 보트 침몰 후 1 명 구조, 50 명 익사 우려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450727)
+#### [BUZZ-IMM: 대규모 EUR 매도에 USD 사양 매수 추가, 엔화 160선 경계감 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450728)
+#### [미니애폴리스 총격 사건에 대해 ICE 요원이 기소될 수 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450725)
+#### [브라질, 전 총리 망명 문제로 갈등을 빚은 후 페루에서 멕시코의 외교 대표를 맡다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450724)
+#### [일본의 엔화 개입을 경계하는 통화 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450723)
+#### [미국 북서부 강 유량은 92 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450722)
 #### [거래가 시작되면서 일본 엔화 가치가 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450721)
 #### [1월 25일 일요일 오전 11시 52분(동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450720)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450719)
@@ -52,15 +66,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3680.HK/total>
 #### [인도 남부의 가구점에서 화재가 발생한 후 시신이 발견되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450675)
 #### [독점-에어버스 CEO, '중대한' 무역 피해 이후 새로운 위험 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450672)
-#### [교황 레오, 우크라이나 민간인들이 고통 받고 있다고 말하며 전쟁 종식 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450674)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450670)
-#### [러시아는 EU의 칼라스와 아무것도 논의하지 않을 것이라고 크렘린은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450671)
-#### [트랙 밖에서, F1 신인 캐딜락의 숫자가 더해지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450673)
-#### [러시아, 그린란드 관련을 포함하여 미국의 골든 돔 계획을 모니터링하고 있다고 크렘린은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450668)
-#### [개그제, 새로운 UFC TV 시대 개막을 위한 각본 찢기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450667)
-#### [바 매니저 석방에 대한 이탈리아의 분노는 이해할 수 있다고 스위스 대통령은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450669)
-#### [설명자 - 트럼프가 JP모건을 상대로 자신의 계좌를 폐쇄한 것에 대해 소송을 제기할 수 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450666)
-#### [트럼프의 JP모건 소송은 월스트리트와의 충돌이 커지고 있음을 강조합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450664)
-#### [인디고항공, 이란의 최근 상황으로 인해 1월 25일 델리발 트빌리시행 및 뭄바이발 알마티행 항공편 운항이 취소되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450665)
-#### [카자흐스탄의 주요 수출 파이프 라인이 계류장 수리 후 최대 적재 용량으로 돌아갑니다 - CPC는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450663)
-#### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450662)
