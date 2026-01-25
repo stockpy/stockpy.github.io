@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_0851 </title></head>
-<center>Vers : 20260125_0851 </center>
-<center>Vers : 20260125_1751 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_0913 </title></head>
+<center>Vers : 20260125_0913 </center>
+<center>Vers : 20260125_1813 </center>
 <br><br><br>
+#### [카우헬스 메디컬 차이나, 벤큐 병원과 공급 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450653)
+#### [우시 화동 중기, 아다니 그룹 프로젝트 입찰 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450652)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002685.SZ/total>
 #### [우시 선도 지능형 장비, 2025년 순이익 424.3~529.2% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450650)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300450.SZ/total>
 #### [우크라이나 키예프에 대한 러시아의 파업으로 1,700 개의 건물이 여전히 난방없이 남아 있다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450649)
@@ -72,12 +75,12 @@
 #### [러시아의 밤새 우크라이나 공격으로 평화 회담이 합의 없이 끝나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450604)
 #### [영국, 새로운 '영국 FBI' 경찰 서비스 설립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450597)
 #### [러시아, 우크라이나 북동부의 또 다른 마을 점령, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450584)
+<head><meta charset="utf-8"><title>Vers : 20260125_0913 </title></head>
+<center>Vers : 20260125_0913 </center>
+<center>Vers : 20260125_1813 </center>
+<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450603)
 #### [미국 겨울 폭풍을 앞두고 수천 편의 항공편이 취소되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450579)
-<head><meta charset="utf-8"><title>Vers : 20260125_0851 </title></head>
-<center>Vers : 20260125_0851 </center>
-<center>Vers : 20260125_1751 </center>
-<br><br><br>
 #### [러시아 벨고로드 지역 주지사, 우크라이나 군이 '대규모'공격을 벌였다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450586)
 #### [에르메스 디자이너, 파리에서 마지막 남성복 쇼로 37년 만에 은퇴 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450578)
 #### [인터내셔널 파워 온타리오 128MW 웨스트 윈저 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450593)
@@ -138,6 +141,3 @@
 #### [거대 시험 업체 ETS가 약 5억 달러에 GRE와 토플 시험을 판매합니다 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450537)
 #### [트럼프, 중국과의 협상 가능성에 대해 캐나다에 100% 관세 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450536)
 #### [스웨덴의 헥터, 대회전 우승으로 올림픽 타이틀 방어 준비 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450534)
-#### [NATGAS 파이프라인 중요 공지: 콜로라도 주간 가스 회사 인수 위치 성능 저하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450532)
-#### [월스트리트 주간을 앞두고-연준, 글로벌 긴장이 전망을 흐리게하면서 시장에 큰 수익 주간이 다가옵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450533)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
