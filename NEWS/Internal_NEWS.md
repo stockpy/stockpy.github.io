@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_1650 </title></head>
-<center>Vers : 20260125_1650 </center>
-<center>Vers : 20260126_0150 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_1701 </title></head>
+<center>Vers : 20260125_1701 </center>
+<center>Vers : 20260126_0201 </center>
 <br><br><br>
 #### [인디고항공, 2026년 1월 26일부터 28일까지 트빌리시, 알마티, 타슈켄트 및 바쿠를 오가는 항공편 운항이 이란의 상황으로 인해 취소되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450708)
 #### [인권 단체 지도자, 베네수엘라에서 최소 80 명의 정치범 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450710)

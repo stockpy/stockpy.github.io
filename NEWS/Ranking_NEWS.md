@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_1650 </title></head>
-<center>Vers : 20260125_1650 </center>
-<center>Vers : 20260126_0150 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_1701 </title></head>
+<center>Vers : 20260125_1701 </center>
+<center>Vers : 20260126_0201 </center>
 <br><br><br>
 #### [펀드매니저 10명 중 9명 "코스피 연내 10~20% 조정 가능성"](https://m.stock.naver.com/news/ranknews/view/009/0005626980)
 #### ["장투해서 망했어요" 10년 투자 -90%…화장품·항공주 투자자 눈물](https://m.stock.naver.com/news/ranknews/view/421/0008732563)
