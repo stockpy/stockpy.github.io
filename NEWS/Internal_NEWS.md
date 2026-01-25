@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_2242 </title></head>
-<center>Vers : 20260125_2242 </center>
-<center>Vers : 20260126_0742 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_2254 </title></head>
+<center>Vers : 20260125_2254 </center>
+<center>Vers : 20260126_0754 </center>
 <br><br><br>
+#### [새너지, 최대 2억2800만주 발행 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450748)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2459.HK/total>
+#### [모건 스탠리, 일본 현물 전력 거래 시장 진출 준비 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450749)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450747)
 #### [미국, 아이티 과도 대통령직 인수위원회 위원 2명의 비자 제한](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450746)
 #### [중국 이스트록 음료, 최대 13억 달러 규모의 홍콩 상장 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450744)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/605499.SS/total>
@@ -64,6 +68,3 @@
 #### [솔버그, 몬테카를로 개막전에서 도요타 포디엄 휩쓸며 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450692)
 #### [미국, 이스라엘의 네타냐후와 가자 지구 계획에 대한 건설적인 회담보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450691)
 #### [펠러, 키츠부헬 활강에서 홈 설원에서 우승하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450690)
-#### [미국 판사, 트럼프 행정부의 이민자 8,400명의 합법적 지위 종료 추진 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450689)
-#### [씨티고 코퍼스 크리스티 정유소 동부 플랜트에서 발화 트리거 발생 - 커뮤니티 공지사항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450688)
-#### [러시아 파업으로 키예프에 전기가 끊기자 야외에서 파티를 즐기는 가족들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450687)
