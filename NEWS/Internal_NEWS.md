@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_1701 </title></head>
-<center>Vers : 20260125_1701 </center>
-<center>Vers : 20260126_0201 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_1830 </title></head>
+<center>Vers : 20260125_1830 </center>
+<center>Vers : 20260126_0330 </center>
 <br><br><br>
+#### [거래가 시작되면서 일본 엔화 가치가 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450721)
+#### [1월 25일 일요일 오전 11시 52분(동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450720)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450719)
+#### [연방 당국은 비디오 증거에도 불구하고 미니애폴리스 총격 사건에 대한 내러티브를 파헤칩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450718)
+#### [트레비 피난치아리아 인더스트리알레 스파, 안토니오 마리아 리날디가 이사회 의장직에서 즉각 사임한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450717)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450716)
+#### [랠리-솔베르그, 몬테카를로 개막전에서 도요타 포디엄 싹쓸이 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450715)
+#### [젤렌스키, 미국의 보안 보증 문서가 100% 준비되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450714)
+#### [커뮤니티, 연방 요원에 의해 살해된 미니애폴리스 남성을 위한 철야 집회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450713)
+#### [겨울 폭풍으로 미국 데이터 센터 골목의 수요 급증으로 전력 가격 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450711)
+#### [알파인 스키-키츠부헬 활강에서 펠러가 홈 설원에서 우승하기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450712)
 #### [인디고항공, 2026년 1월 26일부터 28일까지 트빌리시, 알마티, 타슈켄트 및 바쿠를 오가는 항공편 운항이 이란의 상황으로 인해 취소되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450708)
 #### [인권 단체 지도자, 베네수엘라에서 최소 80 명의 정치범 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450710)
 #### [베네수엘라 중유를 운반하는 유조선이 루이지애나로 출발, 해운 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450709)
@@ -53,17 +64,3 @@
 #### [인디고항공, 이란의 최근 상황으로 인해 1월 25일 델리발 트빌리시행 및 뭄바이발 알마티행 항공편 운항이 취소되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450665)
 #### [카자흐스탄의 주요 수출 파이프 라인이 계류장 수리 후 최대 적재 용량으로 돌아갑니다 - CPC는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450663)
 #### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450662)
-#### [3에서 오일 로딩이 재개된다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450660)
-#### [미니아이 기술, 지능형 주행 제품 주문 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450661)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2431.HK/total>
-#### [트럼프, 광범위한 비난에도 영국군을 용감한 전사라고 칭찬하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450659)
-#### [CPC, 유지 보수 후 계류장 출시, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450658)
-#### [풍력 기어박스 프로젝트에 투자하는 델리지아 변속기 기술(강소) 개요](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450657)
-#### [노르웨이의 Gassco, 1월 26일 0500시부터 1월 27일 0500시까지 아스가르드 가스전에서 하루 -9.7mcm/일의 정전 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450656)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450655)
-#### [지용 지 뉴 머티리얼, 아르코닉의 중국 사업 지분을 1억 7,980만 달러에 인수하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450654)
-#### [카우헬스 메디컬 차이나, 벤큐 병원과 공급 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450653)
-#### [우시 화동 중기, 아다니 그룹 프로젝트 입찰 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450652)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002685.SZ/total>
-#### [우시 선도 지능형 장비, 2025년 순이익 424.3~529.2% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450650)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300450.SZ/total>
