@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_0658 </title></head>
-<center>Vers : 20260125_0658 </center>
-<center>Vers : 20260125_1558 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_0729 </title></head>
+<center>Vers : 20260125_0729 </center>
+<center>Vers : 20260125_1629 </center>
 <br><br><br>
 #### [개스제, 잔인한 UFC 슬러그 페스트에서 핌블렛을 꺾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450633)
 #### [노스랜드 파워 131MW 이리쿼이 폭포 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450631)
@@ -65,9 +65,9 @@
 #### ['얼마나 더 많은 주민이 죽어야 하나요', 미니애폴리스 시장 프레이에게 묻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450575)
 #### [미국 보건부, 주 공중 보건 보조금 약 50억 달러 중단, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450576)
 #### [노스랜드 파워 131MW 이리쿼이 폭포 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450574)
-<head><meta charset="utf-8"><title>Vers : 20260125_0658 </title></head>
-<center>Vers : 20260125_0658 </center>
-<center>Vers : 20260125_1558 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_0729 </title></head>
+<center>Vers : 20260125_0729 </center>
+<center>Vers : 20260125_1629 </center>
 <br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 콜로라도 주간 가스 회사 영수증 위치 성능 저하 #4](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450573)
 #### [미국 보건부, 주 공중 보건 보조금 약 50 억 달러 중단, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450572)
