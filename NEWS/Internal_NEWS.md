@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_1022 </title></head>
-<center>Vers : 20260125_1022 </center>
-<center>Vers : 20260125_1922 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_1044 </title></head>
+<center>Vers : 20260125_1044 </center>
+<center>Vers : 20260125_1944 </center>
 <br><br><br>
+#### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450662)
+#### [3에서 오일 로딩이 재개된다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450660)
+#### [미니아이 기술, 지능형 주행 제품 주문 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450661)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2431.HK/total>
 #### [트럼프, 광범위한 비난에도 영국군을 용감한 전사라고 칭찬하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450659)
 #### [CPC, 유지 보수 후 계류장 출시, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450658)
 #### [풍력 기어박스 프로젝트에 투자하는 델리지아 변속기 기술(강소) 개요](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450657)
@@ -72,13 +76,13 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/USAR.O/total>
 #### [어스, 희토류 그룹에 16억 달러 투자해 주요 광물 확보에 나선다 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450602)
 #### [인터내셔널 파워 온타리오 128MW 웨스트 윈저 가스 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450600)
+<head><meta charset="utf-8"><title>Vers : 20260125_1044 </title></head>
+<center>Vers : 20260125_1044 </center>
+<center>Vers : 20260125_1944 </center>
+<br><br><br>
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450589)
 #### [캐나다의 카니, 3월 호주 방문 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450601)
 #### [스켈레톤 미국인 울렌더, 캐나다 스켈레톤 철수 후 올림픽 와일드카드 도전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450595)
-<head><meta charset="utf-8"><title>Vers : 20260125_1022 </title></head>
-<center>Vers : 20260125_1022 </center>
-<center>Vers : 20260125_1922 </center>
-<br><br><br>
 #### [일본, 투기적 시장 움직임에 대해 필요한 조치를 취해야한다고 타카이치 총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450599)
 #### [항소 법원은 미네소타 교회 시위에 대해 더 많은 사람들을 기소하려는 법무부의 추진을 거부합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450598)
 #### [미국 이민국 요원이 미니애폴리스에서 또 다른 미국 시민을 살해했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450596)
@@ -138,6 +142,3 @@
 #### [미국, 베네수엘라 석유 생산량을 늘리기 위해 빠른 수리를 모색, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450544)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
 #### [트럼프, 중국과의 협상 가능성에 대해 캐나다에 100% 관세 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450543)
-#### [알파인 스키-프란조니, 키츠부헬 활강 우승, 오더마트 2위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450540)
-#### [젤렌스키, UAE 회담은 '건설적', 다음 주 추가 회의 가능](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450542)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450541)
