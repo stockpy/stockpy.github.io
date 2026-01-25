@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_2057 </title></head>
-<center>Vers : 20260125_2057 </center>
-<center>Vers : 20260126_0557 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_2124 </title></head>
+<center>Vers : 20260125_2124 </center>
+<center>Vers : 20260126_0624 </center>
 <br><br><br>
+#### [트럼프는 ICE 바디 카메라에 대한 자금을 삭감하고 감독을 축소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450736)
 #### [미니애폴리스 총격 사건으로 트럼프의 이민자 급증은 선거 해 싸움의 중심에 서게되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450735)
 #### [머크, 더 이상 레볼루션 메디신스 인수 협상 중단, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450734)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RVMD.O/total>
@@ -65,5 +66,3 @@
 #### [시프린, 월드컵 대회전 통산 9번째 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450679)
 #### [스타터 리더십 라이벌 번햄의 영국 의회 복귀 시도 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450678)
 #### [스타머 리더십의 라이벌 번햄이 영국 의회 복귀를 모색하는 것을 막았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450677)
-#### [루이허 데이터 기술, 최대 1억 5,800만 주 발행 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450676)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3680.HK/total>
