@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_2220 </title></head>
-<center>Vers : 20260125_2220 </center>
-<center>Vers : 20260126_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_2242 </title></head>
+<center>Vers : 20260125_2242 </center>
+<center>Vers : 20260126_0742 </center>
 <br><br><br>
+#### [미국, 아이티 과도 대통령직 인수위원회 위원 2명의 비자 제한](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450746)
+#### [중국 이스트록 음료, 최대 13억 달러 규모의 홍콩 상장 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450744)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/605499.SS/total>
+#### [유전 서비스 기업 베이커 휴즈, 조정된 분기 수익 11% 증가 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450745)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
 #### [이스라엘, 마지막 인질 시신 수색 종료 후 라파 교차로 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450743)
 #### [베이커 휴즈 4분기 조정 주당순이익 0.78달러 대 IBES 추정치 0.67달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450742)
 #### [미국, 아이티 과도 대통령직 인수위원회 위원들의 비자 제한](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450741)
@@ -62,6 +67,3 @@
 #### [미국 판사, 트럼프 행정부의 이민자 8,400명의 합법적 지위 종료 추진 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450689)
 #### [씨티고 코퍼스 크리스티 정유소 동부 플랜트에서 발화 트리거 발생 - 커뮤니티 공지사항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450688)
 #### [러시아 파업으로 키예프에 전기가 끊기자 야외에서 파티를 즐기는 가족들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450687)
-#### [이스라엘의 총격으로 가자 지구에서 2 명 사망, 미국이 가자 지구 협상을 진전시키기 위해 양측에 압력을 가함에 따라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450686)
-#### [철탑 붕괴 후 러시아 주요 해군 기지 본거지에 정전 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450684)
-#### [피닝, 칠레의 에스콘디다, 잘디바르 광산으로가는 도로 봉쇄 종식을위한 노동 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450685)
