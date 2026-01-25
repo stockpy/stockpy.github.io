@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_1626 </title></head>
-<center>Vers : 20260125_1626 </center>
-<center>Vers : 20260126_0126 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_1650 </title></head>
+<center>Vers : 20260125_1650 </center>
+<center>Vers : 20260126_0150 </center>
 <br><br><br>
+#### [인디고항공, 2026년 1월 26일부터 28일까지 트빌리시, 알마티, 타슈켄트 및 바쿠를 오가는 항공편 운항이 이란의 상황으로 인해 취소되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450708)
+#### [인권 단체 지도자, 베네수엘라에서 최소 80 명의 정치범 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450710)
+#### [베네수엘라 중유를 운반하는 유조선이 루이지애나로 출발, 해운 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450709)
 #### [젤렌스키, 미국의 보안 보증 문서가 100% 준비되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450707)
 #### [베네수엘라 중유를 운반하는 유조선이 미국 루프로 출발, 해운 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450705)
 #### [델타항공, 겨울철 날씨로 인해 운항 스케줄 축소 운영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450706)
@@ -64,8 +67,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002685.SZ/total>
 #### [우시 선도 지능형 장비, 2025년 순이익 424.3~529.2% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450650)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300450.SZ/total>
-#### [우크라이나 키예프에 대한 러시아의 파업으로 1,700 개의 건물이 여전히 난방없이 남아 있다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450649)
-#### [신장 바예 철강, 2025년 순손실 확대 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450651)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600581.SS/total>
-#### [스마트센스 테크놀로지(상하이), 2025년 순이익 149~162% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450639)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688213.SS/total>
