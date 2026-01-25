@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_1440 </title></head>
-<center>Vers : 20260125_1440 </center>
-<center>Vers : 20260125_2340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_1453 </title></head>
+<center>Vers : 20260125_1453 </center>
+<center>Vers : 20260125_2353 </center>
 <br><br><br>
+#### [팬들이 중국으로 돌아가기 전 일본의 마지막 판다에게 작별 인사를 전합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450693)
 #### [솔버그, 몬테카를로 개막전에서 도요타 포디엄 휩쓸며 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450692)
 #### [미국, 이스라엘의 네타냐후와 가자 지구 계획에 대한 건설적인 회담보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450691)
 #### [펠러, 키츠부헬 활강에서 홈 설원에서 우승하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450690)
@@ -74,11 +75,11 @@
 #### [Atco Power Alberta 385MW 배틀 리버 5 석탄 발전소 오프라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450636)
 #### [러시아 파업 후에도 여전히 난방이 안 되는 키예프 아파트 약 1,700개 블록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450635)
 #### [중국으로 떠나기 전 판다를 보기 위해 도쿄 동물원에 모인 군중들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450634)
-#### [개스제, 잔인한 UFC 슬러그 페스트에서 핌블렛을 꺾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450633)
-<head><meta charset="utf-8"><title>Vers : 20260125_1440 </title></head>
-<center>Vers : 20260125_1440 </center>
-<center>Vers : 20260125_2340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_1453 </title></head>
+<center>Vers : 20260125_1453 </center>
+<center>Vers : 20260125_2353 </center>
 <br><br><br>
+#### [개스제, 잔인한 UFC 슬러그 페스트에서 핌블렛을 꺾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450633)
 #### [노스랜드 파워 131MW 이리쿼이 폭포 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450631)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450632)
 #### [맥쿼리 온타리오 184MW 카디널 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450630)
@@ -141,11 +142,11 @@
 #### ['얼마나 더 많은 주민이 죽어야 하나요', 미니애폴리스 시장 프레이에게 묻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450575)
 #### [미국 보건부, 주 공중 보건 보조금 약 50억 달러 중단, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450576)
 #### [노스랜드 파워 131MW 이리쿼이 폭포 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450574)
-#### [NATGAS 파이프라인 중요 공지: 콜로라도 주간 가스 회사 영수증 위치 성능 저하 #4](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450573)
-<head><meta charset="utf-8"><title>Vers : 20260125_1440 </title></head>
-<center>Vers : 20260125_1440 </center>
-<center>Vers : 20260125_2340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_1453 </title></head>
+<center>Vers : 20260125_1453 </center>
+<center>Vers : 20260125_2353 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 콜로라도 주간 가스 회사 영수증 위치 성능 저하 #4](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450573)
 #### [미국 보건부, 주 공중 보건 보조금 약 50 억 달러 중단, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450572)
 #### [영국 스타머, 트럼프와 통화에서 북극 보안 강화 필요성 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450571)
 #### [트럼프는 광범위한 비난 후 영국군을 용감한 전사라고 칭찬했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450570)
@@ -209,4 +210,3 @@
 #### [파키스탄 정부 반대자들을 표적으로 삼은 혐의로 영국 법정에서 기소된 남성 3명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450517)
 #### [미국 전력망은 한파로 인한 스트레스 증가를 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450514)
 #### [브라질 항공사 골, 설립자 겸 회장 콘스탄티노 주니어가 57세로 사망했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450515)
-#### [이스라엘에서 가자 지구의 미래를 논의하기 위해 이스라엘에있는 미국 특사, 소식통에 따르면 로이터 통신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450513)
