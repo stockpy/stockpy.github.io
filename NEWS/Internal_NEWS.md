@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_0157 </title></head>
-<center>Vers : 20260125_0157 </center>
-<center>Vers : 20260125_1057 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_0358 </title></head>
+<center>Vers : 20260125_0358 </center>
+<center>Vers : 20260125_1258 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450620)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450619)
+#### [케빈 러드를 대신 할 호주 국방부 장관, 미국 대사 취임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450618)
+#### [연방 이민국 요원이 미니애폴리스에서 또 다른 미국 시민을 살해했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450616)
+#### [미국 요원이 미니애폴리스에서 한 남성을 치명적으로 총격하는 순간을 보여주는 동영상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450617)
+#### [그린란드의 수도 누크, 사고로 도시 전체 정전 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450615)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450614)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450612)
 #### [영부인 멜라니아 트럼프, 백악관 비공개 상영회에서 새 영화 시사회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450613)
@@ -58,16 +64,16 @@
 #### [브라아토레, 이번 시즌 F1에서 새로운 콜라핀토를 볼 수 있을 것 같다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450563)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450560)
 #### [우크라이나 회담이 열릴 예정입니다: 미국 관리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450561)
+<head><meta charset="utf-8"><title>Vers : 20260125_0358 </title></head>
+<center>Vers : 20260125_0358 </center>
+<center>Vers : 20260125_1258 </center>
+<br><br><br>
 #### [미국 전력망에 스트레스를 주는 혹독한 날씨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450562)
 #### [독점-미국, 볼리비아에 의심되는이란 스파이 추방, 무장 단체에 대한 접근 강화 압박, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450559)
 #### [스파이어 헬스케어, 브리지포인트와 트라이톤이 전략적 검토의 맥락에서 전략적 제휴를 논의 중인 당사자 중 하나임을 확인 전략적 검토의 맥락에서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450558)
 #### [미국, 그린란드 미군 기지에 대한 주권 확보, 트럼프, NY 포스트에 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450557)
 #### [NATGAS 파이프라인 중요 공지: 콜로라도 주간 가스 회사 영수증 위치 성능 저하 #3](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450555)
 #### [그린란드에서 우크라이나까지, 트럼프의 중앙집권적 외교가 동맹국에게 채찍질을 가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450556)
-<head><meta charset="utf-8"><title>Vers : 20260125_0157 </title></head>
-<center>Vers : 20260125_0157 </center>
-<center>Vers : 20260125_1057 </center>
-<br><br><br>
 #### [겨울 폭풍에 대한 에너지 요약: 고객 서비스 복구를 위해 9,400명 이상의 인력을 배치 또는 동원하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450554)
 #### [미네소타 주지사는? 미네아폴리스에서 총격 사건에 연루된 연방 요원이 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450553)
 #### [OpenAI, 기업의 AI 활용을 위한 새로운 서비스 계획 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450552)
@@ -127,9 +133,3 @@
 #### [트럼프가 JP모건을 상대로 자신의 계좌를 폐쇄한 것에 대해 소송을 제기했나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450503)
 #### [대법원은 연준의 리사 쿡을 해고하려는 트럼프의 입찰에 대해 큰 질문을 해결하지 못할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450501)
 #### [독점-미국, 볼리비아에 의심되는이란 스파이 추방, 무장 단체에 대한 접근 강화 압박, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450500)
-#### [영부인 멜라니아 트럼프, 백악관 비공개 상영회에서 새 영화 시사회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450498)
-#### [미네소타의 이민자 급습이 풀뿌리 소말리아 운동에 불을 지핍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450497)
-#### [델타항공, 겨울 폭풍 고사리로 인해 애틀랜타 및 북동부 지역 항공편 일정 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450499)
-#### [델타항공, 겨울 폭풍이 주말 여행을 위협함에 따라 동부 해안 항공편 추가 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450502)
-#### [수천 명이 추위를 무릅쓰고 ICE의 미니애폴리스 퇴거를 요구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450496)
-#### [리비아, 토탈에너지, 코노코필립스와 25년 계약 체결로 200억 달러 이상 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450493)
