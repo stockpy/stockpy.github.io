@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_0633 </title></head>
-<center>Vers : 20260125_0633 </center>
-<center>Vers : 20260125_1533 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_0658 </title></head>
+<center>Vers : 20260125_0658 </center>
+<center>Vers : 20260125_1558 </center>
 <br><br><br>
 #### [월급 60만원 받던 20대 청년…1250억 주식 부자 된 사연 [윤현주의 主食이 주식]](https://m.stock.naver.com/news/ranknews/view/015/0005241619)
 #### [“이런 부부 정말 있었네”…연9500만원 벌고도 기초연금 타는 노인들 [언제까지 직장인]](https://m.stock.naver.com/news/ranknews/view/009/0005626740)
