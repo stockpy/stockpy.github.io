@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_2254 </title></head>
-<center>Vers : 20260125_2254 </center>
-<center>Vers : 20260126_0754 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_2319 </title></head>
+<center>Vers : 20260125_2319 </center>
+<center>Vers : 20260126_0819 </center>
 <br><br><br>
+#### [금이 온스당 $5,000를 넘어 사상 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450753)
+#### [이스라엘, 마지막 인질 시신 수색 종료 후 가자지구 라파 횡단보도 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450752)
+#### [중국 이스트록 음료, 최대 13억 달러 규모의 홍콩 상장 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450751)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3986.HK/total>
+#### [컬럼비아, 위스콘신 대학 총장으로 므 누킨 총장 선출, NYT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450750)
 #### [새너지, 최대 2억2800만주 발행 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450748)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2459.HK/total>
 #### [모건 스탠리, 일본 현물 전력 거래 시장 진출 준비 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450749)
@@ -64,7 +69,3 @@
 #### [미국 등반가, 밧줄 없이 대만에서 가장 높은 빌딩 등반 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450696)
 #### [캐나다는 USMCA에 따른 약속을 존중한다고 마크 카니 총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450695)
 #### [알파인 스키-시프린, 월드컵 대회전 통산 9번째 우승 기록 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450694)
-#### [팬들이 중국으로 돌아가기 전 일본의 마지막 판다에게 작별 인사를 전합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450693)
-#### [솔버그, 몬테카를로 개막전에서 도요타 포디엄 휩쓸며 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450692)
-#### [미국, 이스라엘의 네타냐후와 가자 지구 계획에 대한 건설적인 회담보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450691)
-#### [펠러, 키츠부헬 활강에서 홈 설원에서 우승하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450690)
