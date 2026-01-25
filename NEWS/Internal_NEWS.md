@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260125_1453 </title></head>
-<center>Vers : 20260125_1453 </center>
-<center>Vers : 20260125_2353 </center>
+<head><meta charset="utf-8"><title>Vers : 20260125_1514 </title></head>
+<center>Vers : 20260125_1514 </center>
+<center>Vers : 20260126_0014 </center>
 <br><br><br>
+#### [캐나다는 USMCA에 따른 약속을 존중한다고 마크 카니 총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450695)
+#### [알파인 스키-시프린, 월드컵 대회전 통산 9번째 우승 기록 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450694)
 #### [팬들이 중국으로 돌아가기 전 일본의 마지막 판다에게 작별 인사를 전합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450693)
 #### [솔버그, 몬테카를로 개막전에서 도요타 포디엄 휩쓸며 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450692)
 #### [미국, 이스라엘의 네타냐후와 가자 지구 계획에 대한 건설적인 회담보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450691)
@@ -73,12 +75,12 @@
 #### [Atco Power 앨버타 155MW 배틀 리버 4 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450638)
 #### [Atco Power Alberta 155MW 배틀 리버 4 석탄 발전소 오프라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450637)
 #### [Atco Power Alberta 385MW 배틀 리버 5 석탄 발전소 오프라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450636)
+<head><meta charset="utf-8"><title>Vers : 20260125_1514 </title></head>
+<center>Vers : 20260125_1514 </center>
+<center>Vers : 20260126_0014 </center>
+<br><br><br>
 #### [러시아 파업 후에도 여전히 난방이 안 되는 키예프 아파트 약 1,700개 블록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450635)
 #### [중국으로 떠나기 전 판다를 보기 위해 도쿄 동물원에 모인 군중들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450634)
-<head><meta charset="utf-8"><title>Vers : 20260125_1453 </title></head>
-<center>Vers : 20260125_1453 </center>
-<center>Vers : 20260125_2353 </center>
-<br><br><br>
 #### [개스제, 잔인한 UFC 슬러그 페스트에서 핌블렛을 꺾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450633)
 #### [노스랜드 파워 131MW 이리쿼이 폭포 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450631)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450632)
@@ -140,12 +142,12 @@
 #### [최연소 몬테카를로 우승자 등극을 눈앞에 둔 랠리링-솔베르그](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450594)
 #### [CVC 지원 글로벌 스포츠 그룹, Equine Network와 3억 달러 규모 계약 체결 임박 - 스카이뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450587)
 #### ['얼마나 더 많은 주민이 죽어야 하나요', 미니애폴리스 시장 프레이에게 묻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450575)
+<head><meta charset="utf-8"><title>Vers : 20260125_1514 </title></head>
+<center>Vers : 20260125_1514 </center>
+<center>Vers : 20260126_0014 </center>
+<br><br><br>
 #### [미국 보건부, 주 공중 보건 보조금 약 50억 달러 중단, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450576)
 #### [노스랜드 파워 131MW 이리쿼이 폭포 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450574)
-<head><meta charset="utf-8"><title>Vers : 20260125_1453 </title></head>
-<center>Vers : 20260125_1453 </center>
-<center>Vers : 20260125_2353 </center>
-<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 콜로라도 주간 가스 회사 영수증 위치 성능 저하 #4](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450573)
 #### [미국 보건부, 주 공중 보건 보조금 약 50 억 달러 중단, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450572)
 #### [영국 스타머, 트럼프와 통화에서 북극 보안 강화 필요성 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450571)
@@ -208,5 +210,3 @@
 #### [프란조니, 키츠부헬 활강 우승, 오더마트 2위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450516)
 #### [러시아 회담이 끝났다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450519)
 #### [파키스탄 정부 반대자들을 표적으로 삼은 혐의로 영국 법정에서 기소된 남성 3명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450517)
-#### [미국 전력망은 한파로 인한 스트레스 증가를 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450514)
-#### [브라질 항공사 골, 설립자 겸 회장 콘스탄티노 주니어가 57세로 사망했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2450515)
