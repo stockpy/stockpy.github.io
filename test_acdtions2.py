@@ -319,6 +319,10 @@ def __KO_ETF_Allocation() :
     print("# to list")
     print(df["ETF_Name"].to_list())
     print(df["MY_PERC"].to_list())
+    df1 = df[["ETF_Name", "MY_PERC"]]
+    df1.rename(columns={"MY_PERC":datetime.today().strftime("%Y%m%d%H")}, inplace=True)
+    print("# DF1")
+    print(df1)
     print("#")
     # print(df["MY_PERC"].values.to_list())
     print(df["MY_PERC"].values.tolist())
