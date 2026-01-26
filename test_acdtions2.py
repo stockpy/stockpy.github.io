@@ -320,16 +320,22 @@ def __KO_ETF_Allocation() :
     print(df["ETF_Name"].to_list())
     print(df["MY_PERC"].to_list())
     df1 = df[["ETF_Name", "MY_PERC"]]
-    df1.rename(columns={"MY_PERC":datetime.today().strftime("%Y%m%d%H")}, inplace=True)
+    df1.rename(columns={"MY_PERC":datetime.today().strftime("%Y%m%d")}, inplace=True)
     print("# DF1")
     print(df1)
     print("#")
-    if datetime.today().strftime("%Y%m%d%H") in df1.columns:
+    if datetime.today().strftime("%Y%m%d") in df1.columns:
       print("Column OK")
-      print(df1.columns)
     else:
       print("Column Not OK")
       print(df1.columns)
+      output = open("NEWS/dataframe", 'w+t')
+      output.write(df1.to_csv())
+      output.close()
+      with open("NEWS/dataframe", 'r', encoding='utf-8') as file:
+        for line in file:
+          print(line.strip())
+      
       
     # print(df["MY_PERC"].values.to_list())
     print(df["MY_PERC"].values.tolist())
