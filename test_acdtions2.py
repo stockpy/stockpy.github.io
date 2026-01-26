@@ -324,10 +324,12 @@ def __KO_ETF_Allocation() :
     print("# DF1")
     print(df1)
     print("#")
-    if datetime.today().strftime("%Y%m%d%H") in df.columns:
+    if datetime.today().strftime("%Y%m%d%H") in df1.columns:
       print("Column OK")
+      print(df1.columns)
     else:
       print("Column Not OK")
+      print(df1.columns)
       
     # print(df["MY_PERC"].values.to_list())
     print(df["MY_PERC"].values.tolist())
