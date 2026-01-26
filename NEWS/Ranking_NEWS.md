@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260126_0834 </title></head>
-<center>Vers : 20260126_0834 </center>
-<center>Vers : 20260126_1734 </center>
+<head><meta charset="utf-8"><title>Vers : 20260126_0902 </title></head>
+<center>Vers : 20260126_0902 </center>
+<center>Vers : 20260126_1802 </center>
 <br><br><br>
 #### [1억 넣은 화장품주 300만원 남았다…“누가 그래, 장투하면 된다고”](https://m.stock.naver.com/news/ranknews/view/009/0005627258)
 #### [발등에 불 떨어진 다주택자들 '부글'…마포 1억 5천만 낮춘 급매도](https://m.stock.naver.com/news/ranknews/view/057/0001931948)
