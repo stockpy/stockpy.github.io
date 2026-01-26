@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260126_0638 </title></head>
-<center>Vers : 20260126_0638 </center>
-<center>Vers : 20260126_1538 </center>
+<head><meta charset="utf-8"><title>Vers : 20260126_0704 </title></head>
+<center>Vers : 20260126_0704 </center>
+<center>Vers : 20260126_1604 </center>
 <br><br><br>
 #### [1억 넣은 화장품주 300만원 남았다…“누가 그래, 장투하면 된다고”](https://m.stock.naver.com/news/ranknews/view/009/0005627258)
 #### ["1억이 2억5000만원 됐다"…6개월 새 147% 폭등 '불기둥' [핫픽! 해외주식]](https://m.stock.naver.com/news/ranknews/view/015/0005241992)
