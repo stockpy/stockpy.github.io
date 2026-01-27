@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260127_0636 </title></head>
-<center>Vers : 20260127_0636 </center>
-<center>Vers : 20260127_1536 </center>
+<head><meta charset="utf-8"><title>Vers : 20260127_0703 </title></head>
+<center>Vers : 20260127_0703 </center>
+<center>Vers : 20260127_1603 </center>
 <br><br><br>
 #### [백종원만 믿었는데 이럴수가...개미들 우는데 8개월 만에 포착된 곳이](https://m.stock.naver.com/news/ranknews/view/011/0004583205)
 #### [“24만전자·112만닉스 간다”...여기저기서 나오는 ‘장밋빛 전망’](https://m.stock.naver.com/news/ranknews/view/011/0004583419)
