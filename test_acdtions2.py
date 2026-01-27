@@ -329,11 +329,12 @@ def __KO_ETF_Allocation() :
     else:
       print("Column Not OK")
       print(df1.columns)
-      output = open("NEWS/dataframe", 'w+t')
-      output.write(df1.to_csv())
-      output.close()
+      output1 = open("NEWS/dataframe", 'w+t')
+      output1.write(df1.to_csv())
+      output1.close()
       with open("NEWS/dataframe", 'r', encoding='utf-8') as file:
         for line in file:
+          print("# output1")
           print(line.strip())
       
       
