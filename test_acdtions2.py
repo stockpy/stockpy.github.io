@@ -330,7 +330,7 @@ def __KO_ETF_Allocation() :
     output1.write(df1.to_csv())
     output1.close()
 
-    test_df1 = read_csv("NEWS/dataframe")
+    test_df1 = pd.read_csv("NEWS/dataframe")
     print("# read CSV")
     print(test_df1)
     
