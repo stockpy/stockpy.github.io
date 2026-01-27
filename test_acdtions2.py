@@ -334,11 +334,19 @@ def __KO_ETF_Allocation() :
     print("# read CSV")
     print(test_df1)
     
-    if datetime.today().strftime("%Y%m%d") in df1.columns:
-      print("Column OK")
+    if datetime.today().strftime("%Y%m%d") in test_df1.columns:
+      print("# Column OK")
     else:
-      print("Column Not OK")
+      print("# Column Not OK")
+      print("# Before Add")
       print(df1.columns)
+      print(df1)
+      print("# After Add")
+      new_date = datetime.today().strftime("%Y%m%d")
+      df1[new_date] = df["MY_PERC"].to_list()
+      print(df1.columns)
+      print(df1)
+      
       output1 = open("NEWS/dataframe", 'w+t')
       output1.write(df1.to_csv())
       output1.close()
