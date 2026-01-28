@@ -337,7 +337,7 @@ def __KO_ETF_Allocation() :
             for line in file:
               print(line.strip().split("|"))
             print("# for end")
-            print(type(file)
+            print(type(file))
             print(file)
               
     print("# Markdown end")
