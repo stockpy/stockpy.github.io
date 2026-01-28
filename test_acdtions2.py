@@ -335,7 +335,7 @@ def __KO_ETF_Allocation() :
     with open("NEWS/dataframe.md", 'r', encoding='utf-8') as file:
             for line in file:
               # print(line.strip().split("|"))
-              print(line.strip())
+              print(line.strip().replace(" ", ""))
             print("# for end")
             print(type(file))
             print(file)
