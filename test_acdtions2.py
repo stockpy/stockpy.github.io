@@ -332,7 +332,8 @@ def __KO_ETF_Allocation() :
 
     print("# NEWS/dataframe PATH")
     # print(os.path.exists("NEWS/dataframe.md"))
-    test_df1 = pd.read_csv("NEWS/dataframe.md")
+    test_df = pd.read_html("NEWS/dataframe.md")
+    test_df1 = test_df[0]
     print("# read CSV")
     print(test_df1)
 
