@@ -21,6 +21,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt  # 필요한 경우 requirements.txt 파일을 사용하여 패키지 설치
+        # git pull NEWS/dataframe
 
     - name: Run Python script
       run: |
@@ -36,6 +37,6 @@ jobs:
         git commit -m 'Update downloaded file'
         git push
 
-        git fetch
-        git checkout origin/master -- CNAME
-        # git pull CNAME
+        # git fetch
+        # git checkout origin/master -- CNAME
+        git pull NEWS/dataframe
