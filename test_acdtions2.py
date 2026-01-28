@@ -363,8 +363,8 @@ def __KO_ETF_Allocation() :
             for line in file:
               print("# output1")
               print(line.strip())
-      else:
-        print("not 1day")
+    else:
+      print("not 1day")
       
     # print(df["MY_PERC"].values.to_list())
     print(df["MY_PERC"].values.tolist())
