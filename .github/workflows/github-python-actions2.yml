@@ -22,8 +22,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt  # 필요한 경우 requirements.txt 파일을 사용하여 패키지 설치
         
+    - name: Commit and Push Changes1
+      run: |
         git config --global user.name "${{ github.actor }}"
         git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+        
         git fetch
         git checkout origin/master -- NEWS/dataframe
         git pull NEWS/dataframe
@@ -32,7 +35,7 @@ jobs:
       run: |
         python test_acdtions2.py  # 실행할 Python 스크립트 파일 이름 지정
 
-    - name: Commit and Push Changes
+    - name: Commit and Push Changes2
       run: |
         git config --global user.name "${{ github.actor }}"
         git config --global user.email "${{ github.actor }}@users.noreply.github.com"
