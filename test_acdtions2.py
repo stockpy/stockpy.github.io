@@ -326,28 +326,22 @@ def __KO_ETF_Allocation() :
     print(df1)
     print(df1.columns)
     output1 = open("NEWS/dataframe.md", 'w+t')
-    output1.write(df.to_markdown())
+    output1.write(df1.to_markdown())
     output1.close()
 
     print("# NEWS/dataframe PATH")
     # print(os.path.exists("NEWS/dataframe.md"))
     print("# Makrkdown Start")
     with open("NEWS/dataframe.md", 'r', encoding='utf-8') as file:
-            for line in file:
-              # print(line.strip().split("|"))
-              print(line.strip().replace(" ", ""))
-            print("# for end")
-            print(type(file))
-            print(file)
-              
+      for line in file:
+        # print(line.strip().split("|"))
+        print(line.strip().replace(" ", ""))
+        print("# for end")
+      print(type(file))
+      print(file)
+      print(file.read().count('\n'))
     print("# Markdown end")
   
-    # print("# test_df")
-    # print(test_df)
-    # test_df1 = test_df[0]
-    # print("# read CSV")
-    # print(test_df1)
-
     if datetime.now().day == 1 or datetime.now().day == 15 or datetime.now().day == 28 :
       print("1day")
       
@@ -439,7 +433,6 @@ def __KO_ETF_Allocation() :
     output.write("</script>\n")
 
     output.write("</center>\n")
-
 
 
 __KO_ETF_Allocation()
