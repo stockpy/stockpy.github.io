@@ -335,7 +335,7 @@ def __KO_ETF_Allocation() :
     print("# Makrkdown Start")
     with open("NEWS/dataframe.md", 'r', encoding='utf-8') as file:
             for line in file:
-              print(line.strip())
+              print(line.strip().split("|"))
             print("# for end")
             print(type(file)
             print(file)
