@@ -21,16 +21,6 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt  # 필요한 경우 requirements.txt 파일을 사용하여 패키지 설치
-        
-    - name: Commit and Push Changes1
-      run: |
-        git config --global user.name "${{ github.actor }}"
-        git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-        git pull NEWS/dataframe
-        
-        git fetch
-        # git checkout origin/master -- NEWS/dataframe
-        git pull NEWS/dataframe
 
     - name: Run Python script
       run: |
@@ -42,10 +32,11 @@ jobs:
         git config --global user.email "${{ github.actor }}@users.noreply.github.com"
 
         git add NEWS/Today_Invest.md
+        git add NEWS/dataframe.md
 
         git commit -m 'Update downloaded file'
         git push
 
         # git fetch
         # git checkout origin/master -- CNAME
-        git pull NEWS/dataframe
+        # git pull NEWS/dataframe
