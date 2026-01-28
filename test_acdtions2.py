@@ -338,6 +338,9 @@ def __KO_ETF_Allocation() :
       print("1day")
       if test_df1.empty :
         print("# test_df1 empty")
+        output1 = open("NEWS/dataframe", 'w+t')
+        output1.write(df1.to_csv())
+        output1.close()
       else:
         if datetime.today().strftime("%Y%m%d") in test_df1.columns:
           print("# Column OK")
