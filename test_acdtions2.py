@@ -324,7 +324,6 @@ def __KO_ETF_Allocation() :
     df1.rename(columns={"MY_PERC":datetime.today().strftime("%Y%m%d")}, inplace=True)
     print("# DF1")
     print(df1)
-    print("#")
     print(df1.columns)
     output1 = open("NEWS/dataframe.md", 'w+t')
     output1.write(df.to_markdown())
@@ -335,7 +334,8 @@ def __KO_ETF_Allocation() :
     print("# Makrkdown Start")
     with open("NEWS/dataframe.md", 'r', encoding='utf-8') as file:
             for line in file:
-              print(line.strip().split("|"))
+              # print(line.strip().split("|"))
+              print(line.strip())
             print("# for end")
             print(type(file))
             print(file)
