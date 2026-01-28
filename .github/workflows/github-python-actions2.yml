@@ -26,9 +26,10 @@ jobs:
       run: |
         git config --global user.name "${{ github.actor }}"
         git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+        git pull NEWS/dataframe
         
         git fetch
-        git checkout origin/master -- NEWS/dataframe
+        # git checkout origin/master -- NEWS/dataframe
         git pull NEWS/dataframe
 
     - name: Run Python script
