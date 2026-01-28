@@ -329,6 +329,13 @@ def __KO_ETF_Allocation() :
     output1.write(df1.to_markdown())
     output1.close()
 
+    df1_copy1 = df1.copy()
+    print("# df1_copy1")
+    print(df1_copy1)
+    df1_copy2 = df1.reindex_like(df)
+    print("# df1_copy1")
+    print(df1_copy2)
+  
     print("# NEWS/dataframe PATH")
     # print(os.path.exists("NEWS/dataframe.md"))
     print("# Makrkdown Start")
@@ -336,7 +343,7 @@ def __KO_ETF_Allocation() :
       for line in file:
         # print(line.strip().split("|"))
         print(line.strip().replace(" ", ""))
-        print("# for end")
+      print("# for end")
       print(type(file))
       print(file)
       print(file.read().count('\n'))
