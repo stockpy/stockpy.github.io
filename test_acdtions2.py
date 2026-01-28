@@ -82,8 +82,8 @@ def __KO_Price(Dart_Exp_Code) :
     # https://m.stock.naver.com/api/stock/251340/price?pageSize=10&page=1
     url = 'https://api.finance.naver.com/siseJson.naver?symbol='+Dart_Exp_Code+'&requestType=1&startTime=1800&endTime=2100&timeframe=day'
 
-    print("# called URL")
-    print(url)
+    # print("# called URL")
+    # print(url)
 
     try :
         req = requests.get(url, headers=headers)
@@ -131,8 +131,8 @@ def __KO_Price(Dart_Exp_Code) :
     DF_KO_Price_List_LEN = float(len(DF_KO_Price_List))
     DF_KO_Price_List_SUM = sum(DF_KO_Price_List)
     DF_KO_Price_Value = DF_KO_Price_List_SUM / DF_KO_Price_List_LEN # 200일 간의 평균값
-    print("# 200일 간의 평균값")
-    print(DF_KO_Price_Value)
+    # print("# 200일 간의 평균값")
+    # print(DF_KO_Price_Value)
 
     return DF_KO_Date_List, DF_KO_Price_List
 
@@ -147,13 +147,13 @@ def __Get_ETF_Price(ETF_Symbol) : # Market에 따른 기업명 Symbols를 가져
     Breaker_1 = False
     for i in range(1,500) : # 60*50 = 3000 개 기업을 가져오지만 페이지는 그만큼 없음
         url = 'https://m.stock.naver.com/api/stock/'+ETF_Symbol+'/price?page='+str(i)+'&pageSize='+str(pageSize)
-        print(url)
+        # print(url)
         req = requests.get(url, headers=headers)
         j = json.loads(req.text) # to Dictionary
         # print(type(j)) # <class 'list'>
         # print(len(j)) # <class 'list'>
         if len(j) == 0 :
-            print("# For 1 out : 페이지 조회 0 ?")
+            # print("# For 1 out : 페이지 조회 0 ?")
             break
         
         Breaker_2 = False
@@ -218,8 +218,8 @@ def __KO_ETF_Allocation() :
 
         ETF_Price_List = [int(i) for i in ETF_Price_List]
 
-        print("# %s : %s" % (ETF_Symbol_List[ETF_Symbol_List.index(ETF_Symbol)], ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)]))
-        print("# 마지막 종가 : %s, %i" % (ETF_Date_List[-1], ETF_Price_List[-1]))
+        # print("# %s : %s" % (ETF_Symbol_List[ETF_Symbol_List.index(ETF_Symbol)], ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)]))
+        # print("# 마지막 종가 : %s, %i" % (ETF_Date_List[-1], ETF_Price_List[-1]))
 
         DF_Pension_StockName.append(ETF_stockName_List[ETF_Symbol_List.index(ETF_Symbol)])
         PENSION_PRICES.append(ETF_Price_List[-1]) # 마지막 종가를 최종 종가로 판단해서 가져옴
@@ -232,7 +232,7 @@ def __KO_ETF_Allocation() :
         PENSION_CALL.append(int(dividend_amount/PENSION_PRICES[index])) # 종목 투자 개수
 
     for idx, val in enumerate(list(MY_STOCK_COUNT_Dict.values())) :
-      print("%s, %i" %(DF_Pension_StockName[idx], PENSION_PRICES[idx]*val))
+      # print("%s, %i" %(DF_Pension_StockName[idx], PENSION_PRICES[idx]*val))
       Result = int(PENSION_PRICES[idx]*val)
       MY_STOCK_PRICE.append(Result) # 종목당 투자금
       sum+=Result
@@ -241,9 +241,9 @@ def __KO_ETF_Allocation() :
 
     for idx, val in enumerate(MY_STOCK_PRICE) :
         if PENSION_PERCS[idx] != '0%' :
-            print(f"{round((val/sum1*100), 0)}%")
+            # print(f"{round((val/sum1*100), 0)}%")
             MY_PERC.append(f"{round((val/sum1*100), 0)}%")
-            print(idx, val, sum1)
+            # print(idx, val, sum1)
             # testtest=sum1*(int(PENSION_PERCS[idx].rstrip('%'))/100) # 자산분배 목표율
             MY_Target_PEC.append(sum1*(int(PENSION_PERCS[idx].rstrip('%'))/100)) # 자산분배 목표율로 계산한 종목당 목표금액
             MY_Target_Count.append(sum1*(int(PENSION_PERCS[idx].rstrip('%'))/100)/PENSION_PRICES[idx]) # 자산분배 목표율로 계산한 종목당 개수
@@ -252,11 +252,11 @@ def __KO_ETF_Allocation() :
             MY_Target_PEC.append("0")
             MY_Target_Count.append("0")
 
-    print("# MY_PERC")
-    print(MY_PERC)
-    print(MY_Target_PEC)
-    print(MY_Target_Count)
-    print(sum1)
+    # print("# MY_PERC")
+    # print(MY_PERC)
+    # print(MY_Target_PEC)
+    # print(MY_Target_Count)
+    # print(sum1)
 
     df = pd.DataFrame({
         'ETF_Name': DF_Pension_StockName,
@@ -296,7 +296,7 @@ def __KO_ETF_Allocation() :
     output.write("<script src=\"https://naver.github.io/billboard.js/release/latest/dist/billboard.pkgd.min.js\"></script>\n")
     output.write("<div id=\"barChart\"></div>\n")
 
-    print(df.to_markdown(index=False))
+    # print(df.to_markdown(index=False))
     # output.write(df.to_markdown())
     output.write(df[['ETF_Name', 'Alloc_P', 'Price', 'CALL', 'MY_PERC']].to_html(classes='tg'))
   
@@ -413,10 +413,10 @@ def __KO_ETF_Allocation() :
     # --> 결과값 : <StringArray> ['56.0'] Length: 1, dtype: string
     # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC1"].iloc[0])
 
-    print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].values[0])
-    print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC1"].values[0])
-    print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].iloc[0])
-    print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC1"].iloc[0])
+    # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].values[0])
+    # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC1"].values[0])
+    # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].iloc[0])
+    # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC1"].iloc[0])
 
     output.write("['%s', '%s'],\n" % (df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].values[0], df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC1"].iloc[0]))
     output.write("['%s', '%s'],\n" % (df.loc[df["ETF_Name"] == "KODEX iShares미국투자등급회사채액티브", "ETF_Name"].values[0], df.loc[df["ETF_Name"] == "KODEX iShares미국투자등급회사채액티브", "MY_PERC1"].iloc[0]))
