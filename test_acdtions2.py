@@ -350,12 +350,15 @@ def __KO_ETF_Allocation() :
 
     if datetime.now().day == 1 or datetime.now().day == 15 or datetime.now().day == 28 :
       print("1day")
+      
       if test_df1.empty :
+        print("2day")
         print("# test_df1 empty")
         output1 = open("NEWS/dataframe.md", 'w+t')
         output1.write(df1.to_csv())
         output1.close()
       else:
+        print("3day")
         if datetime.today().strftime("%Y%m%d") in test_df1.columns:
           print("# Column OK")
         else:
