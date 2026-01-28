@@ -332,10 +332,13 @@ def __KO_ETF_Allocation() :
 
     print("# NEWS/dataframe PATH")
     # print(os.path.exists("NEWS/dataframe.md"))
+    print("# Makrkdown Start")
     with open("NEWS/dataframe.md", 'r', encoding='utf-8') as file:
             for line in file:
-              print("# markdown")
               print(line.strip())
+            print("# for end")
+            print(type(file)
+            print(file)
               
     print("# Markdown end")
   
