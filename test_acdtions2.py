@@ -336,29 +336,32 @@ def __KO_ETF_Allocation() :
 
     if datetime.now().day == 1 or datetime.now().day == 15 or datetime.now().day == 28 :
       print("1day")
-      if datetime.today().strftime("%Y%m%d") in test_df1.columns:
-        print("# Column OK")
+      if test_df1.empty :
+        print("# test_df1 empty")
       else:
-        print("# Column Not OK")
-        print("# Before Add")
-        print(df1.columns)
-        print(df1)
-        print("# After Add")
-        new_date = datetime.today().strftime("%Y%m%d")
-        df1[new_date] = df["MY_PERC"].to_list()
-        print(df1.columns)
-        print(df1)
+        if datetime.today().strftime("%Y%m%d") in test_df1.columns:
+          print("# Column OK")
+        else:
+          print("# Column Not OK")
+          print("# Before Add")
+          print(df1.columns)
+          print(df1)
+          print("# After Add")
+          new_date = datetime.today().strftime("%Y%m%d")
+          df1[new_date] = df["MY_PERC"].to_list()
+          print(df1.columns)
+          print(df1)
       
-        output1 = open("NEWS/dataframe", 'w+t')
-        output1.write(df1.to_csv())
-        output1.close()
+          output1 = open("NEWS/dataframe", 'w+t')
+          output1.write(df1.to_csv())
+          output1.close()
       
-        with open("NEWS/dataframe", 'r', encoding='utf-8') as file:
-          for line in file:
-            print("# output1")
-            print(line.strip())
-    else:
-      print("not 1day")
+          with open("NEWS/dataframe", 'r', encoding='utf-8') as file:
+            for line in file:
+              print("# output1")
+              print(line.strip())
+      else:
+        print("not 1day")
       
     # print(df["MY_PERC"].values.to_list())
     print(df["MY_PERC"].values.tolist())
