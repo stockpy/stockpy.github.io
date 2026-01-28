@@ -326,13 +326,13 @@ def __KO_ETF_Allocation() :
     print(df1)
     print("#")
     print(df1.columns)
-    # output1 = open("NEWS/dataframe", 'w+t')
-    # output1.write(df1.to_csv())
-    # output1.close()
+    output1 = open("NEWS/dataframe.md", 'w+t')
+    output1.write(df.to_markdown())
+    output1.close()
 
     print("# NEWS/dataframe PATH")
-    print(os.path.exists("NEWS/dataframe"))
-    test_df1 = pd.read_csv("NEWS/dataframe")
+    # print(os.path.exists("NEWS/dataframe.md"))
+    test_df1 = pd.read_csv("NEWS/dataframe.md")
     print("# read CSV")
     print(test_df1)
 
@@ -340,7 +340,7 @@ def __KO_ETF_Allocation() :
       print("1day")
       if test_df1.empty :
         print("# test_df1 empty")
-        output1 = open("NEWS/dataframe", 'w+t')
+        output1 = open("NEWS/dataframe.md", 'w+t')
         output1.write(df1.to_csv())
         output1.close()
       else:
@@ -357,11 +357,11 @@ def __KO_ETF_Allocation() :
           print(df1.columns)
           print(df1)
       
-          output1 = open("NEWS/dataframe", 'w+t')
+          output1 = open("NEWS/dataframe.md", 'w+t')
           output1.write(df1.to_csv())
           output1.close()
       
-          with open("NEWS/dataframe", 'r', encoding='utf-8') as file:
+          with open("NEWS/dataframe.md", 'r', encoding='utf-8') as file:
             for line in file:
               print("# output1")
               print(line.strip())
