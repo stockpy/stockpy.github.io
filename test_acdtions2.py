@@ -332,12 +332,18 @@ def __KO_ETF_Allocation() :
 
     print("# NEWS/dataframe PATH")
     # print(os.path.exists("NEWS/dataframe.md"))
-    test_df = pd.read_html("NEWS/dataframe.md")
-    print("# test_df")
-    print(test_df)
-    test_df1 = test_df[0]
-    print("# read CSV")
-    print(test_df1)
+    with open("NEWS/dataframe.md", 'r', encoding='utf-8') as file:
+            for line in file:
+              print("# markdown")
+              print(line.strip())
+              
+    print("# Markdown end")
+  
+    # print("# test_df")
+    # print(test_df)
+    # test_df1 = test_df[0]
+    # print("# read CSV")
+    # print(test_df1)
 
     if datetime.now().day == 1 or datetime.now().day == 15 or datetime.now().day == 28 :
       print("1day")
