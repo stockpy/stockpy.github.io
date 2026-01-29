@@ -62,9 +62,7 @@ def __Read_Blog() :
   #     print("# exception")
   #     print(req.text)
 
-
-  # req = Request(url=url, headers=headers)
-
+  req = Request(url=url, headers=headers)
   try :
       html = urlopen(req).read()
       # html = urlopen(url, context=context)
