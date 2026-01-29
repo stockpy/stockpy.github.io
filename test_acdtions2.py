@@ -43,10 +43,16 @@ def __Read_Blog() :
 
   try :
     req = requests.get(url, headers=headers)
-    print("# req")
+    print("# req.text")
     print(req.text)
     # text_1 = req.text
     # for x in text_1.splitlines() :
+    
+    j = json.loads(req.text) # to Dictionary
+    print("# json")
+    for x in range(len(j)) :
+      print(j[x])
+  
   except jsondecodeerror as e:
       print("# exception")
       print(req.text)
