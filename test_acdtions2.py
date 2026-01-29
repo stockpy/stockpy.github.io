@@ -349,53 +349,44 @@ def __KO_ETF_Allocation() :
       print(file.read().count('\n'))
     print("# Markdown end")
   
-    if datetime.now().day == 1 or datetime.now().day == 15 or datetime.now().day == 28 :
+    if datetime.now().day == 1 or datetime.now().day == 15 or datetime.now().day == 29 :
       print("1day")
       
-      if test_df1.empty :
-        print("2day")
-        print("# test_df1 empty")
-        output1 = open("NEWS/dataframe.md", 'w+t')
-        output1.write(df1.to_csv())
-        output1.close()
+      if datetime.today().strftime("%Y%m%d") in df1_copy1.columns:
+        print("# Column OK")
       else:
-        print("3day")
-        if datetime.today().strftime("%Y%m%d") in test_df1.columns:
-          print("# Column OK")
-        else:
-          print("# Column Not OK")
-          print("# Before Add")
-          print(df1.columns)
-          print(df1)
-          print("# After Add")
-          new_date = datetime.today().strftime("%Y%m%d")
-          df1[new_date] = df["MY_PERC"].to_list()
-          print(df1.columns)
-          print(df1)
+        print("# Column Not OK")
+        print("# Before Add")
+        print(df1_copy1.columns)
+        print(df1_copy1)
+        print("# After Add")
+        new_date = datetime.today().strftime("%Y%m%d")
+        df1_copy1[new_date] = df["MY_PERC"].to_list()
+        print(df1_copy1.columns)
+        print(df1_copy1)
       
-          output1 = open("NEWS/dataframe.md", 'w+t')
-          output1.write(df1.to_csv())
-          output1.close()
+        output1 = open("NEWS/dataframe.md", 'w+t')
+        output1.write(df1_copy1.to_csv())
+        output1.close()
       
-          with open("NEWS/dataframe.md", 'r', encoding='utf-8') as file:
-            for line in file:
-              print("# output1")
-              print(line.strip())
+        with open("NEWS/dataframe.md", 'r', encoding='utf-8') as file:
+          for line in file:
+            print("# output1")
+            print(line.strip())
+            
     else:
       print("not 1day")
       
     # print(df["MY_PERC"].values.to_list())
-    print(df["MY_PERC"].values.tolist())
 
-
-    file_path = 'CNAME'
-    if os.path.isfile(file_path):
-      print("# File OK")
-      with open(file_path, 'r', encoding='utf-8') as file:
-        for line in file:
-          print(line.strip())
-    else:
-      print("# File Not OK")
+    # file_path = 'CNAME'
+    # if os.path.isfile(file_path):
+    #   print("# File OK")
+    #   with open(file_path, 'r', encoding='utf-8') as file:
+    #     for line in file:
+    #       print(line.strip())
+    # else:
+    #   print("# File Not OK")
 
     # print(df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "ETF_Name"].values, df.loc[df["ETF_Name"] == "KODEX 미국S&P500", "MY_PERC"].values.string.replace("%","", regex=False))
     # dataframe의 A열의 값들에서 문자 제거하는데 AttributeError: 'numpy.ndarray' object has no attribute 'string' 애러가 나는 경우
