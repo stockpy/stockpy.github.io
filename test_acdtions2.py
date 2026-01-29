@@ -36,6 +36,23 @@ MY_STOCK_COUNT_Dict = {'KODEX 200TR' : 191,
                        'TIGER 미국필라델피아반도체나스닥' : 1054,
                        'ACE 테슬라밸류체인액티브' : 795}
 
+def __Read_Blog() :
+
+  print("# Read Blog Start")
+  url = 'http://choiyoungmin.com/NEWS/dataframe/'
+
+  try :
+    req = requests.get(url, headers=headers)
+    print("# req")
+    print(req.text)
+    # text_1 = req.text
+    # for x in text_1.splitlines() :
+  except jsondecodeerror as e:
+      print("# exception")
+      print(req.text)
+
+  print("# Read Blog Done")
+
 def __Get_ETF_List() : # Market에 따른 기업명 Symbols를 가져온다
 
     DF_ETF_list = []
@@ -434,3 +451,5 @@ def __KO_ETF_Allocation() :
 
 
 __KO_ETF_Allocation()
+
+__Read_Blog()
