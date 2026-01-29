@@ -6,6 +6,7 @@ import pandas as pd
 import os
 import io
 import platform
+# import BeautifulSoup
 # import shutil
 # import datetime, time # for sleep
 # import matplotlib.pyplot as plt
@@ -70,6 +71,11 @@ def __Read_Blog() :
   print(bs_object)
   
   print("# Read Blog Done")
+
+
+  soup = BeautifulSoup(html, 'html5lib') 
+  result = soup.select('td') 
+  print(result)
 
 def __Get_ETF_List() : # Market에 따른 기업명 Symbols를 가져온다
 
