@@ -47,18 +47,46 @@ def __Read_Blog() :
   print(req.text)
     # text_1 = req.text
     # for x in text_1.splitlines() :
-    
-  j = json.loads(req.text) # to Dictionary
-  print("# json")
-  print(j)
-  print("# for j")
-  for x in range(len(j)) :
-    print(j[x])
-  
+
+  # 에러로 주석:  raise JSONDecodeError("Expecting value", s, err.value) from None
+  # 
+  # j = json.loads(req.text) # to Dictionary
+  # print("# json")
+  # print(j)
+  # print("# for j")
+  # for x in range(len(j)) :
+  #   print(j[x])
+
+  # jsondecodeerror 관련 에러로 주
   # except jsondecodeerror as e:
   #     print("# exception")
   #     print(req.text)
 
+
+  # req = Request(url=url, headers=headers)
+
+  try :
+      html = urlopen(req).read()
+      # html = urlopen(url, context=context)
+  except HTTPError as err:
+    if err.code == 404 :
+      print("# Error HTTP : 404")
+      return
+    elif err.code == 403 :
+      print("# Error HTTP : 403")
+      return
+    elif err.code == 500 :
+      print("# Error HTTP : 500")
+      return
+    elif err.code == 505:
+      print("# Error HTTP : 505")
+      return
+    else:
+      raise
+
+    bs_object = bs4.BeautifulSoup(html, "html.parser")
+    print(bs_object)
+  
   print("# Read Blog Done")
 
 def __Get_ETF_List() : # Market에 따른 기업명 Symbols를 가져온다
