@@ -63,27 +63,11 @@ def __Read_Blog() :
   #     print(req.text)
 
   req = Request(url=url, headers=headers)
-  try :
-      html = urlopen(req).read()
-      # html = urlopen(url, context=context)
-  except HTTPError as err:
-    if err.code == 404 :
-      print("# Error HTTP : 404")
-      return
-    elif err.code == 403 :
-      print("# Error HTTP : 403")
-      return
-    elif err.code == 500 :
-      print("# Error HTTP : 500")
-      return
-    elif err.code == 505:
-      print("# Error HTTP : 505")
-      return
-    else:
-      raise
-
-    bs_object = bs4.BeautifulSoup(html, "html.parser")
-    print(bs_object)
+  html = urlopen(req).read()
+  # html = urlopen(url, context=context)
+  
+  bs_object = bs4.BeautifulSoup(html, "html.parser")
+  print(bs_object)
   
   print("# Read Blog Done")
 
