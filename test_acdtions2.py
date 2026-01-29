@@ -50,6 +50,8 @@ def __Read_Blog() :
     
   j = json.loads(req.text) # to Dictionary
   print("# json")
+  print(j)
+  print("# for j")
   for x in range(len(j)) :
     print(j[x])
   
