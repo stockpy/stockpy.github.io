@@ -53,9 +53,9 @@ def __Read_Blog() :
     for x in range(len(j)) :
       print(j[x])
   
-  except jsondecodeerror as e:
-      print("# exception")
-      print(req.text)
+  # except jsondecodeerror as e:
+  #     print("# exception")
+  #     print(req.text)
 
   print("# Read Blog Done")
 
