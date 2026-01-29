@@ -41,17 +41,17 @@ def __Read_Blog() :
   print("# Read Blog Start")
   url = 'http://choiyoungmin.com/NEWS/dataframe/'
 
-  try :
-    req = requests.get(url, headers=headers)
-    print("# req.text")
-    print(req.text)
+  # try :
+  req = requests.get(url, headers=headers)
+  print("# req.text")
+  print(req.text)
     # text_1 = req.text
     # for x in text_1.splitlines() :
     
-    j = json.loads(req.text) # to Dictionary
-    print("# json")
-    for x in range(len(j)) :
-      print(j[x])
+  j = json.loads(req.text) # to Dictionary
+  print("# json")
+  for x in range(len(j)) :
+    print(j[x])
   
   # except jsondecodeerror as e:
   #     print("# exception")
