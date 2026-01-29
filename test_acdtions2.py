@@ -63,7 +63,7 @@ def __Read_Blog() :
   #     print("# exception")
   #     print(req.text)
 
-  req = Request(url=url, headers=headers)
+  req = requests(url=url, headers=headers)
   html = urlopen(req).read()
   # html = urlopen(url, context=context)
   
@@ -71,7 +71,6 @@ def __Read_Blog() :
   print(bs_object)
   
   print("# Read Blog Done")
-
 
   soup = BeautifulSoup(html, 'html5lib') 
   result = soup.select('td') 
