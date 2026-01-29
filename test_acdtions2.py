@@ -332,8 +332,8 @@ def __KO_ETF_Allocation() :
     df1_copy1 = df1.copy()
     print("# df1_copy1")
     print(df1_copy1)
-    df1_copy2 = df1.reindex_like(df)
-    print("# df1_copy1")
+    df1_copy2 = df1.reindex_like(df1)
+    print("# df1_copy2")
     print(df1_copy2)
   
     print("# NEWS/dataframe PATH")
