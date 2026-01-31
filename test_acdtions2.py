@@ -66,8 +66,8 @@ def __Read_Blog() :
   #     print(req.text)
 
   print("# 20250131_1")
-  req = requests(url=url, headers=headers)
-  html = urlopen(req).read()
+  req1 = requests(url=url, headers=headers)
+  html = urlopen(req1).read()
   # html = urlopen(url, context=context)
 
   print("# 20250131_2")
