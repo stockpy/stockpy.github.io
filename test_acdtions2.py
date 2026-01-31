@@ -65,13 +65,16 @@ def __Read_Blog() :
   #     print("# exception")
   #     print(req.text)
 
+  print("# 20250131_1")
   req = requests(url=url, headers=headers)
   html = urlopen(req).read()
   # html = urlopen(url, context=context)
-  
+
+  print("# 20250131_2")
   bs_object = bs4.BeautifulSoup(html, "html.parser")
   print(bs_object)
-  
+
+  print("# 20250131_3")
   print("# Read Blog Done")
 
   soup = BeautifulSoup(html, 'html5lib') 
