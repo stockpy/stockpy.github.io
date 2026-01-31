@@ -46,8 +46,10 @@ def __Read_Blog() :
   req = requests.get(url, headers=headers)
   print("# req.text")
   print(req.text)
-    # text_1 = req.text
-    # for x in text_1.splitlines() :
+  text_1 = req.text
+  for x in text_1.splitlines() :
+    print(type(x))
+    print(x)
 
   # 에러로 주석:  raise JSONDecodeError("Expecting value", s, err.value) from None
   # 
