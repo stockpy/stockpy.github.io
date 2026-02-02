@@ -49,6 +49,7 @@ def __Read_Blog() :
   text_1 = req.text
   for x in text_1.splitlines() :
     print(type(x))
+    print(len(x))
     print(x)
 
   # 에러로 주석:  raise JSONDecodeError("Expecting value", s, err.value) from None
