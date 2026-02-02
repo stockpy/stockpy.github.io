@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260202_1725 </title></head>
-<center>Vers : 20260202_1725 </center>
-<center>Vers : 20260203_0225 </center>
+<head><meta charset="utf-8"><title>Vers : 20260202_1844 </title></head>
+<center>Vers : 20260202_1844 </center>
+<center>Vers : 20260203_0344 </center>
 <br><br><br>
 #### ['오천피' 붕괴에 비명 터졌는데…"나쁜 일 아냐" 뜻밖의 전망 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005245838)
 #### ["하루 아침에 60% 폭락"…안전자산이라더니 '배신'](https://m.stock.naver.com/news/ranknews/view/215/0001240228)
