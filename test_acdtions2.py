@@ -67,19 +67,19 @@ def __Read_Blog() :
 
   print("# 20250131_1")
   # req1 = requests(url=url, headers=headers) # TypeError: 'module' object is not callable
-  html = urlopen(req).read()
+  # html = urlopen(req).read() # Error: Process completed with exit code 1.
   # html = urlopen(url, context=context)
 
-  print("# 20250131_2")
-  bs_object = bs4.BeautifulSoup(html, "html.parser")
-  print(bs_object)
+  # print("# 20250131_2")
+  # bs_object = bs4.BeautifulSoup(html, "html.parser")
+  # print(bs_object)
 
-  print("# 20250131_3")
-  print("# Read Blog Done")
+  # print("# 20250131_3")
+  # print("# Read Blog Done")
 
-  soup = BeautifulSoup(html, 'html5lib') 
-  result = soup.select('td') 
-  print(result)
+  # soup = BeautifulSoup(html, 'html5lib') 
+  # result = soup.select('td') 
+  # print(result)
 
 def __Get_ETF_List() : # Market에 따른 기업명 Symbols를 가져온다
 
