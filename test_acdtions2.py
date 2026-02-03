@@ -51,7 +51,7 @@ def __Read_Blog() :
     # print(type(x))
     # print(len(x))
     if len(x) == 54 or len(x) == 55 or len(x) == 58 or len(x) == 59 or len(x) == 65 :
-      blog_list = x.split()
+      blog_list = x.split(' ')
       print(x)
       for i in blog_list:
         print(i,end='')
