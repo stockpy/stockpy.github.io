@@ -50,7 +50,7 @@ def __Read_Blog() :
   for x in text_1.splitlines() :
     print(type(x))
     print(len(x))
-    if len(x) == 48 or len(x) > 40:
+    if len(x) == 54 or len(x) == 55 or len(x) == 58 or len(x) == 59 or len(x) == 65 :
       print(x)
 
   # 에러로 주석:  raise JSONDecodeError("Expecting value", s, err.value) from None
