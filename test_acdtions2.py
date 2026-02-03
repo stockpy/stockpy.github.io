@@ -53,7 +53,8 @@ def __Read_Blog() :
     if len(x) == 54 or len(x) == 55 or len(x) == 58 or len(x) == 59 or len(x) == 65 :
       blog_list = x.split()
       print(x)
-      print(blog_list[4, 5, 6])
+      for i in blog_list:
+        print(i,end='')
       
 
   # 에러로 주석:  raise JSONDecodeError("Expecting value", s, err.value) from None
