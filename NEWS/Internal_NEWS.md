@@ -1,7 +1,38 @@
-<head><meta charset="utf-8"><title>Vers : 20260203_1947 </title></head>
-<center>Vers : 20260203_1947 </center>
-<center>Vers : 20260204_0447 </center>
+<head><meta charset="utf-8"><title>Vers : 20260203_2037 </title></head>
+<center>Vers : 20260203_2037 </center>
+<center>Vers : 20260204_0537 </center>
 <br><br><br>
+#### [미국, 텍사스 심해 원유 수출항 면허 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463811)
+#### [산탄데르, 향후 3년간 더 이상의 볼트온 인수를 계획하지 않음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463807)
+#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463813)
+#### [AUD/USD는 RBA 이후 상승세로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463810)
+#### [국무부, 사우디 아라비아에 30 억 달러에 F-15 지원 및 장비 판매 가능성 승인?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463808)
+#### [Nvidia, OpenAI IPO에 투자 고려할 것이라고 CEO 황이 CNBC에 전했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463812)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [한국, 옥수수 구매, 요르단, 제분 밀 전수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463809)
+#### [재생-EUR/USD 우려, BoE 단서, 엔 캐리 재등장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463805)
+#### [산탄데르의 폴란드 지분 매각에 대한 경고가 철회되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463802)
+#### [미국 성형 외과 의사 그룹, 증거 부족으로 19 세까지 성기 수술을 연기 할 것을 권고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463806)
+#### [엔비디아, OpenAI IPO 투자 고려할 것, CEO 황이 CNBC에 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463804)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [비만 주식, 노보의 압도적인 2026년 매출 전망에 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463801)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GPCR.O/total>
+#### [소 공급 긴축으로 소 선물 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463800)
+#### [브라질, 2026 년 에탄올 생산량 급증, 전문가들은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463803)
+#### [약 30개국이 중요 광물 클럽 가입을 원한다고 미국 내무부 장관 버검은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463798)
+#### [X, 프랑스 사법 당국의 파리 사무실 압수수색 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463799)
+#### [항공, 소비자 수수료 공개에 대한 항소법원 판결에 대한 도전에서 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463797)
+#### [시카고 옥수수, 대두 가격, 바이오 연료 지침 업데이트에 따라 회복세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463793)
+#### [이란 드론, 국제 해역에서 감시 임무 완수, 이란 언론에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463788)
+#### [한국 아이스댄서, 올림픽 루틴을 위한 펜 이야기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463796)
+#### [Nvidia CEO 황, 향후 OpenAI 라운드에 투자 고려할 것이며 최종 OpenAI IPO에 참여하기를 원한다고 말함-CNBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463790)
+#### [월스트리트, 트레이더들이 AI 혼란에 불안해하면서 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463795)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLTR.O/total>
+#### [펀드, 옥수수, 대두, 밀 선물 순매수, 트레이더들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463792)
+#### [네타냐후, 미국 특사에게 재개된 핵 협상에서 이란에 회의적일 것을 촉구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463789)
+#### [업데이트 된 바이오 연료 지침 이후 CBOT 대두가 급등합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463794)
+#### [버즈 프리뷰: 암젠, 실적 발표 후 하락세로 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463791)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMGN.O/total>
 #### [스필오버 지원으로 CBOT 밀 가격 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463781)
 #### [미국 요약: 달러, 미국 주가 하락으로 EUR / USD 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463786)
 #### [프랑스 검찰, 르펜에 공직 금지 요청하지만 대선 출마의 문은 열어두다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463780)
@@ -41,33 +72,3 @@
 #### [멕시코, 미국에 연간 최소 350,000 에이커 피트의 물을 보내다, 미국 관리들은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463756)
 #### [소 115,000마리, 돼지 487,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463755)
 #### [산탄데르, 거래로 연간 약 8억 달러의 세전 비용 시너지 효과 기대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463746)
-#### [금은 2008 년 이후 가장 큰 일일 상승을 기록했으며은도 반등했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463747)
-#### [억만장자 투자자 그리핀은 미국 달러가 빛을 잃었다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463754)
-#### [나이트 빈케 설립자, 자신의 펀드는 트럼프 하에서 불확실한 미국에 투자할 수 없다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463750)
-#### [인텔 CEO, 엔비디아가 대중화된 GPU를 만들겠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463753)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
-#### [루이지애나주 카메론 패리시에서 천연가스 파이프라인 폭발, 현지 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463745)
-#### [소프트웨어, 클라우드 기업 주도로 월스트리트 매도세 심화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463749)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLTR.O/total>
-#### [산탄데르 4분기 총 수입 16,113백만 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463752)
-#### [페이팔의 새로운 CEO 선임, 공룡의 위상을 받아들이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463744)
-#### [루이지애나 주 카메론 패리시에서 천연가스 파이프라인 폭발, 현지 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463748)
-#### [테크 위클리: 머스크의 SpaceX 거래, 매그니피센트 세븐이 빛나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463751)
-#### [캐나다 달러가 고용지표에 앞서 제한적인 상승세를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463738)
-#### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
-#### [미국 주식이 움직인다-얼루리온, 리즘 캐피털, 메드트로닉](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463742)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PRLD.O/total>
-#### [뉴욕 연준, 스탠딩 레포 운용 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463743)
-#### [미국, 곧 베네수엘라에서 석유 생산에 대한 일반 면허를 발급 할 예정이라고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463737)
-#### [Ams-Osram, 비광학 아날로그/혼성 신호 센서 사업을 인피니언에 현금 5억 7천만 유로에 매각한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463741)
-#### [가파른 상승을 바라보는 실버](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463739)
-#### [르노, 프랑스에서 조립할 EV 엔진에 중국 부품 사용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463736)
-#### [산탄데르, 웹스터 은행 122억 달러에 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463740)
-#### [미국은 이번 주에 중요한 광물에 대한 11 개의 무역 협정을 발표 할 계획이라고 Burgum은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463735)
-#### [퇴학당한 플로리다 법대생의 사건에서 캠퍼스 내 언론의 자유를 시험하는 항소심](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463734)
-#### [방코 산탄데르, 웹스터 은행과의 거래가 2026년 하반기에 성사될 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463726)
-#### [트레이더들이 영국 중앙은행 정책 단서를 기다리면서 버즈-스털링이 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463732)
-#### [미국이 LNG 수출 성장을 추진하는 가운데 커먼웰스 LNG, 머큐리아와 20년간 공급 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463733)
-#### [윈스턴 앤 스트로우 소송 리더가 라이벌 로펌인 킹 앤 스팔딩으로 9명의 파트너 팀을 옮겼습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463725)
-#### [분석-투자자들은 워시 주도하에 가파른 수익률 곡선에 대한 베팅을 늘리고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463731)
-#### [산탄데르, 122억 달러 규모의 거래로 웹스터 파이낸셜 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463728)

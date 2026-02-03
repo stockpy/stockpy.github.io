@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260203_1947 </title></head>
-<center>Vers : 20260203_1947 </center>
-<center>Vers : 20260204_0447 </center>
+<head><meta charset="utf-8"><title>Vers : 20260203_2037 </title></head>
+<center>Vers : 20260203_2037 </center>
+<center>Vers : 20260204_0537 </center>
 <br><br><br>
 #### [“어제 못버틴 개미님들 다 털고 갑니다”…코스피 338포인트 폭등](https://m.stock.naver.com/news/ranknews/view/009/0005631846)
 #### ['자고 일어나면 돈 복사'…반도체 개미들도 깜짝 놀랐다 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005246407)
