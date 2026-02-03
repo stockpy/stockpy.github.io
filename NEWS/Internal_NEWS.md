@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260203_2230 </title></head>
-<center>Vers : 20260203_2230 </center>
-<center>Vers : 20260204_0730 </center>
+<head><meta charset="utf-8"><title>Vers : 20260203_2300 </title></head>
+<center>Vers : 20260203_2300 </center>
+<center>Vers : 20260204_0800 </center>
 <br><br><br>
+#### [몬델레즈, 2026년 미국 소비자 신뢰도 약세 지속 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463972)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MDLZ.O/total>
 #### [보험사 American Financial의 4분기 수익이 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463971)
 #### [부티크 투자은행 센터뷰는 기업공개 계획이 없다고 공동 창업자는 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463970)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8411.T/total>
@@ -71,4 +73,3 @@
 #### [웨더포드 인터내셔널 4분기 매출 미화 1,289백만 달러 대 IBES 추정치 미화 1,260백만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463908)
 #### [발레토 4분기 조정 주당순이익 1.04달러 대 IBES 추정치 0.98달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463919)
 #### [레프리브® 제조업체인 유니파이®, 2026 회계연도 2분기 실적 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463912)
-#### [인액트 홀딩스의 4분기 매출이 예상치를 하회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463917)

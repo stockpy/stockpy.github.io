@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260203_2230 </title></head>
-<center>Vers : 20260203_2230 </center>
-<center>Vers : 20260204_0730 </center>
+<head><meta charset="utf-8"><title>Vers : 20260203_2300 </title></head>
+<center>Vers : 20260203_2300 </center>
+<center>Vers : 20260204_0800 </center>
 <br><br><br>
 #### [[속보]뉴욕증시 일제히 하락…앤스로픽 '클로드' 효과에 시장 흔들](https://m.stock.naver.com/news/ranknews/view/018/0006212684)
 #### [“어제 못버틴 개미님들 다 털고 갑니다”…코스피 338포인트 폭등](https://m.stock.naver.com/news/ranknews/view/009/0005631846)
