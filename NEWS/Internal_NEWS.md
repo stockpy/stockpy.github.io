@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260203_2037 </title></head>
-<center>Vers : 20260203_2037 </center>
-<center>Vers : 20260204_0537 </center>
+<head><meta charset="utf-8"><title>Vers : 20260203_2106 </title></head>
+<center>Vers : 20260203_2106 </center>
+<center>Vers : 20260204_0606 </center>
 <br><br><br>
+#### [트레이더들이 워시 하에서 연준의 정책 투기를 평가하면서 국채 수익률이 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463827)
+#### [콜롬비아 페트로는? 트럼프와 베네수엘라 가스, 마약과의 전쟁에 대해 논의했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463826)
+#### [독점-KKR, OPI 소유주 웰라 컴퍼니의 미국 IPO 준비, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463825)
+#### [엔비디아가 지원하는 영국 AI 회사 엔스케일, IPO를 위해 은행을 고용한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463824)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
+#### [라틴아메리카 외환, 금속이 루트에서 회복되면서 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463821)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
+#### [미국 바이오 연료 지침 발표로 ICE 카놀라 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463823)
+#### [2월 3일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463820)
+#### [카이저, 간호사 파업이 계속됨에 따라 약국, 실험실 노동자 파업 준비](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463819)
+#### [이란 외무부, 미국과의 회담 장소에 대한 협의가 진행 중이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463822)
+#### [미국 천연가스 선물, 생산량 감소와 LNG 물동량 증가로 2% 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463818)
+#### [캐나다 은행, 최대 5억 캐나다 달러 규모의 채권 매입 - RTRS](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463815)
+#### [아이스하키-베넷, 부상당한 시렐리 대신 캐나다 대표팀 명단 합류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463817)
+#### [자이샨카르 인도 외무장관이 화요일 베센트 미 재무장관을 만났습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463814)
+#### [트럼프의 '선거 국유화' 요구가 민주당의 격렬한 반발을 불러일으켰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463816)
 #### [미국, 텍사스 심해 원유 수출항 면허 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463811)
 #### [산탄데르, 향후 3년간 더 이상의 볼트온 인수를 계획하지 않음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463807)
 #### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463813)
@@ -44,7 +60,7 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7270.T/total>
 #### [우크라이나 자포리지아 파업으로 2명 사망, 8명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463784)
 #### [비트코인이 트럼프 당선 이후 최저치를 기록하면서 버즈-암호화폐 관련 주식이 폭락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463773)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSTR.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RIOT.O/total>
 #### [올림픽-스노보드-김연아, 리비뇨에서 세 번째 금메달에 도전하며 선보이는 트릭과 스피드](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463769)
 #### [미국 북서부 강 유량이 93%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463765)
 #### [미국 정유사들, 베네수엘라 석유 수입 급증에 고군분투하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463772)
@@ -56,19 +72,3 @@
 #### [사우디 아라비아, 터키에 20 억 달러 규모의 태양 광 발전소 건설, 터키 에너지 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463775)
 #### [리전스 은행, 모바일 뱅킹 특허에 대한 USAA 소송 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463766)
 #### [시그마 리튬의 폐기물 더미에는 '임박한 위험'이 없다고 브라질 광산 규제 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463777)
-#### [미국 하원, 연방 기관 자금 지원 법안 통과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463774)
-#### [이란 우려에 유가가 하락하고 금, 은은 상승하면서 글로벌 주가지수 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463770)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [트럼프의 '국유화' 선거 요구, 민주당의 격렬한 반발 불러일으켜](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463776)
-#### [젤렌스키: 우크라이나, 하룻밤 사이 러시아 공격에 대한 미국의 반응을 기다리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463761)
-#### [옥수수, 대두 선물 반등으로 입찰가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463764)
-#### [스바루 오브 아메리카, 2026년 1월 차량 판매량 42,157대 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463758)
-#### [웨이모, 자율주행 안전 기록 방어, 중국에 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463760)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [상원의원, AT&T, 버라이즌이 솔트 태풍 보안 평가 보고서 공개를 차단했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463763)
-#### [미국 지원 하에 쿠르드족 주요 도시에 시리아 보안군 배치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463757)
-#### [세미스는 소프트웨어보다 더 많은 지원을 계속 받을 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463759)
-#### [영국 경찰, 엡스타인 유출에 대한 맨델슨 수사 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463762)
-#### [멕시코, 미국에 연간 최소 350,000 에이커 피트의 물을 보내다, 미국 관리들은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463756)
-#### [소 115,000마리, 돼지 487,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463755)
-#### [산탄데르, 거래로 연간 약 8억 달러의 세전 비용 시너지 효과 기대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2463746)
