@@ -48,8 +48,8 @@ def __Read_Blog() :
   print(req.text)
   text_1 = req.text
   for x in text_1.splitlines() :
-    print(type(x))
-    print(len(x))
+    # print(type(x))
+    # print(len(x))
     if len(x) == 54 or len(x) == 55 or len(x) == 58 or len(x) == 59 or len(x) == 65 :
       print(x)
 
