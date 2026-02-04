@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260204_1736 </title></head>
-<center>Vers : 20260204_1736 </center>
-<center>Vers : 20260205_0236 </center>
+<head><meta charset="utf-8"><title>Vers : 20260204_1852 </title></head>
+<center>Vers : 20260204_1852 </center>
+<center>Vers : 20260205_0352 </center>
 <br><br><br>
 #### ["계좌 열어보기가 두렵다"…속절없는 하락에 '비명'](https://m.stock.naver.com/news/ranknews/view/215/0001240413)
 #### ["술 없이 차트 못 봐"…불장에 '나홀로 신저가' 개미 '눈물' [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005246979)
