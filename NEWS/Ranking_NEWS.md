@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260204_2229 </title></head>
-<center>Vers : 20260204_2229 </center>
-<center>Vers : 20260205_0729 </center>
+<head><meta charset="utf-8"><title>Vers : 20260204_2255 </title></head>
+<center>Vers : 20260204_2255 </center>
+<center>Vers : 20260205_0755 </center>
 <br><br><br>
 #### ["10배 오른 로보티즈, 다음은 여기?"...전문가 원픽은[부꾸미]](https://m.stock.naver.com/news/ranknews/view/008/0005314193)
 #### ["술 없이 차트 못 봐"…불장에 '나홀로 신저가' 개미 '눈물' [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005246979)
