@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260205_2034 </title></head>
-<center>Vers : 20260205_2034 </center>
-<center>Vers : 20260206_0534 </center>
+<head><meta charset="utf-8"><title>Vers : 20260205_2103 </title></head>
+<center>Vers : 20260205_2103 </center>
+<center>Vers : 20260206_0603 </center>
 <br><br><br>
+#### [다논, 오스트리아, 독일에서 유아용 조제분유 일괄 리콜 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468043)
+#### [에스토니아 혼합복식 조, 획기적인 승리 후 더 많은 것을 갈망하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468040)
+#### [3세기 뱅코프의 4분기 순이익, 전년 동기 대비 11.68% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468044)
+#### [2월 5일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468039)
+#### [미국 농가 소득, 정부 지원금 급증에도 불구하고 2026년 감소할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468042)
+#### [캐나다 은행은 경제 구조 조정에 수년이 걸릴 것이라고 말하며 기업들에게 '대담해지라'고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468041)
+#### [캐나다, 2028년 만기 60억 캐나다 달러 채권 경매에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468033)
+#### [PJM, 2월 7~9일 한파 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468034)
+#### [FDA, 젤로다에 대한 박스형 경고 업데이트, 이제 완전한 DPD 결핍 환자의 이상반응 또는 사망 위험 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468036)
+#### [미국 상원, 전 토마스 서기, 트랜스젠더 스포츠 반대자 판사직 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468032)
+#### [라틴아메리카 외환, 기술주 매도, 원자재 폭락으로 위험선호심리 위축으로 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468038)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
+#### [독점-올림픽-프리스타일 스키-중국의 구, 밀라노 코르티나에서 더 이상 증명할 게 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468035)
+#### [위험 회피 심리가 추가 양적완화에 대한 BoC의 주장을 상쇄하면서 캐나다 달러가 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468031)
+#### [옥수수 및 대두 기준 입찰은 여러 지역에서 보합세에서 약세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468037)
 #### [노조, 인디애나주 화이팅의 BP 정유 공장 근로자들에게 파업 또는 직장 폐쇄에 대비할 것을 요청하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468028)
 #### [트레이더들이 고위험 자산을 청산하면서 BUZZ-AUD/USD가 흔들립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468018)
 #### [칠레 센코수드, 4분기 순이익 1,347억3,000만 페소 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2468021)
@@ -50,17 +65,3 @@
 #### [미국 천연 가스 재고, 기록적인 철수, EIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467990)
 #### [미국 요약: ECB 이후 EUR / USD 완화, BoE 이후 파운드화 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467989)
 #### [노스랜드 파워 131MW 이리쿼이 폭포 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467982)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467981)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467977)
-#### [애리조나 보안관은 낸시 거스리가 '아직 저 밖에 있다고 믿는다'고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467985)
-#### [코카콜라 공동 대변인, 2026년 1분기에 냉동 제품이 '단종'될 것이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467980)
-#### [4분기 실적 호조 이후 BUZZ-Allstate 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467984)
-#### [CSN, 담보 대출로 최대 15억 달러 조달 계획 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467978)
-#### [이탈리아 경찰, 토리노 폭동 이후 새로운 체포 권한 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467979)
-#### [재무부의 베센트가 트럼프의 국세청 소송에 대해 법무부에 항의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467983)
-#### [멕시코 은행, 기준금리 7.00%로 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467969)
-#### [골드만삭스, 2028/29년 TTF, JKM 가스 가격이 평균 5달러/mmbtu 이하로 떨어질 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467973)
-#### [쿠바, 미국의 연료 공급 차단 움직임에 따라 배급제 시행 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467964)
-#### [올림픽-아이스하키-미국, 밀라노 코르티나 개막전에서 체코를 제압하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467968)
-#### [알파인 스키-미국 코크란-시글, 2005년 밀러의 금메달 도전에 힘을 보탭니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467972)
-#### [소 114,000마리, 돼지 492,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2467976)

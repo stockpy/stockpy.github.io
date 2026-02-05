@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260205_2034 </title></head>
-<center>Vers : 20260205_2034 </center>
-<center>Vers : 20260206_0534 </center>
+<head><meta charset="utf-8"><title>Vers : 20260205_2103 </title></head>
+<center>Vers : 20260205_2103 </center>
+<center>Vers : 20260206_0603 </center>
 <br><br><br>
 #### [[마켓뷰] 역대 최대 ‘매물폭탄’ 던진 외국인… 코스피, 4% 가까이 급락](https://m.stock.naver.com/news/ranknews/view/366/0001140817)
 #### ['1조5000억' 대박 나더니…"지금 투자해라" 추천 쏟아졌다 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005247631)
