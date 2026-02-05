@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260205_2228 </title></head>
-<center>Vers : 20260205_2228 </center>
-<center>Vers : 20260206_0728 </center>
+<head><meta charset="utf-8"><title>Vers : 20260205_2257 </title></head>
+<center>Vers : 20260205_2257 </center>
+<center>Vers : 20260206_0757 </center>
 <br><br><br>
 #### ["전 재산 몰빵" 주식 계좌 박살→'순자산 46억' 인생역전...비결은?](https://m.stock.naver.com/news/ranknews/view/008/0005314918)
 #### [빅테크 약세…비트코인 추락에 스트래티지 17%↓](https://m.stock.naver.com/news/ranknews/view/215/0001240774)
