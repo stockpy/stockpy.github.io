@@ -50,7 +50,8 @@ def __Read_Blog() :
   for x in text_1.splitlines() :
     # print(type(x))
     # print(len(x))
-    if len(x) == 54 or len(x) == 55 or len(x) == 58 or len(x) == 59 or len(x) == 65 :
+    if "TIGER" in x or "KODEX" in x or "ACE" in x or "%" in x : 
+    # if len(x) == 54 or len(x) == 55 or len(x) == 58 or len(x) == 59 or len(x) == 65 :
       blog_list = x.split(' ')
       print(x)
       for i in blog_list:
