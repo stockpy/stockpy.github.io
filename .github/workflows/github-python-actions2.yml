@@ -25,6 +25,7 @@ jobs:
     - name: Run Python script
       run: |
         python test_acdtions2.py  # 실행할 Python 스크립트 파일 이름 지정
+        python test_actions4.py
 
     - name: Commit and Push Changes2
       run: |
