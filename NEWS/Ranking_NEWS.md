@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260209_1757 </title></head>
-<center>Vers : 20260209_1757 </center>
-<center>Vers : 20260210_0257 </center>
+<head><meta charset="utf-8"><title>Vers : 20260209_1922 </title></head>
+<center>Vers : 20260209_1922 </center>
+<center>Vers : 20260210_0422 </center>
 <br><br><br>
 #### [실수로 꽂힌 비트코인 팔아 현금화…수십억 '꿀꺽' 가능할까(종합2보)](https://m.stock.naver.com/news/ranknews/view/001/0015895559)
 #### [주가 20.25% 치솟은 아모레퍼시픽, 겹호재 터졌다…주주들 '환호'](https://m.stock.naver.com/news/ranknews/view/008/0005316073)
