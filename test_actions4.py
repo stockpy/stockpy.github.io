@@ -23,6 +23,7 @@ except Exception as e:
     
     headers = {'User-Agent': 'Mozilla/5.0'}
     response = requests.get(url, headers=headers)
+    response.encoding = 'UTF-8'  # 한글 깨짐 문제 해결을 위해 인코딩 설정
     soup = BeautifulSoup(response.text, 'html.parser')
     
     # table 찾기
@@ -37,6 +38,6 @@ except Exception as e:
         df = pd.DataFrame(rows[1:], columns=rows[0])  # 첫행 헤더
         print("=== BeautifulSoup 성공 ===")
         print(df)
-        df.to_csv("etf_portfolio_bs.csv", index=False)
+        df.to_csv("etf_portfolio_bs.csv", index=False, encoding='UTF-8')
     else:
         print("❌ 테이블을 찾을 수 없음")
