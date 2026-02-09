@@ -39,5 +39,9 @@ except Exception as e:
         print("=== BeautifulSoup 성공 ===")
         print(df)
         df.to_csv("etf_portfolio_bs.csv", index=False, encoding='UTF-8')
+        
+        df1 = pd.read_csv('etf_portfolio_bs.csv', encoding='utf-8')
+        print("# encoding")
+        pritn(df1)
     else:
         print("❌ 테이블을 찾을 수 없음")
