@@ -15,7 +15,7 @@ try:
     print("📁 etf_portfolio.csv 저장 완료")
     print("# encoding")
     df1 = pd.read_csv('etf_portfolio_bs.csv', encoding='utf-8')
-    pritn(df1)
+    print(df1)
     
 except Exception as e:
     print(f"pandas 실패: {e}")
