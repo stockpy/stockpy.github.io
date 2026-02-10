@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260210_2044 </title></head>
-<center>Vers : 20260210_2044 </center>
-<center>Vers : 20260211_0544 </center>
+<head><meta charset="utf-8"><title>Vers : 20260210_2129 </title></head>
+<center>Vers : 20260210_2129 </center>
+<center>Vers : 20260211_0629 </center>
 <br><br><br>
 #### [숨 고르는 삼전·SK하닉, 이젠 '이 업종' 뛸 차례…증권가 콕 찝었다](https://m.stock.naver.com/news/ranknews/view/008/0005316704)
 #### ['외국인 큰 손' 이미 움직였다…10조원 순매도, 코스피도 '들썩'](https://m.stock.naver.com/news/ranknews/view/243/0000092863)
