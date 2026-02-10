@@ -14,7 +14,7 @@ try:
     df.to_csv("etf_portfolio.csv", index=False, encoding='utf-8')
     print("📁 etf_portfolio.csv 저장 완료")
     print("# encoding")
-    df1 = pd.read_csv('etf_portfolio_bs.csv', encoding='utf-8')
+    df1 = pd.read_csv("etf_portfolio.csv", encoding='utf-8')
     print(df1)
     
 except Exception as e:
