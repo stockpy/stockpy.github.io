@@ -11,8 +11,11 @@ try:
     df = tables[0]  # 첫 번째 테이블 선택
     print("=== 크롤링 성공 ===")
     print(df)
-    df.to_csv("etf_portfolio.csv", index=False)
+    df.to_csv("etf_portfolio.csv", index=False, encoding='utf-8')
     print("📁 etf_portfolio.csv 저장 완료")
+    print("# encoding")
+    df1 = pd.read_csv('etf_portfolio_bs.csv', encoding='utf-8')
+    pritn(df1)
     
 except Exception as e:
     print(f"pandas 실패: {e}")
