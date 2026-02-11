@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260211_1707 </title></head>
-<center>Vers : 20260211_1707 </center>
-<center>Vers : 20260212_0207 </center>
+<head><meta charset="utf-8"><title>Vers : 20260211_1904 </title></head>
+<center>Vers : 20260211_1904 </center>
+<center>Vers : 20260212_0404 </center>
 <br><br><br>
 #### [“LG전자 주주입니다 이런 날이 오네요”…하루새 23% 불기둥 왜](https://m.stock.naver.com/news/ranknews/view/009/0005636200)
 #### [드디어 저평가주 '꼬리표' 떼나…"통큰 배당 통했다" 코스피 상승률 역전](https://m.stock.naver.com/news/ranknews/view/008/0005317391)
