@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260211_2233 </title></head>
-<center>Vers : 20260211_2233 </center>
-<center>Vers : 20260212_0733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260211_2302 </title></head>
+<center>Vers : 20260211_2302 </center>
+<center>Vers : 20260212_0802 </center>
 <br><br><br>
 #### [“LG전자 주주입니다 이런 날이 오네요”…하루새 23% 불기둥 왜](https://m.stock.naver.com/news/ranknews/view/009/0005636200)
 #### ['깜짝 고용'에 금리인하 어디로?…뉴욕증시 '보합'](https://m.stock.naver.com/news/ranknews/view/215/0001241573)
