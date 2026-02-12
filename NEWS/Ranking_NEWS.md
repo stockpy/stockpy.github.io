@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260212_2233 </title></head>
-<center>Vers : 20260212_2233 </center>
-<center>Vers : 20260213_0733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260212_2300 </title></head>
+<center>Vers : 20260212_2300 </center>
+<center>Vers : 20260213_0800 </center>
 <br><br><br>
 #### ["은행보다 돈 잘 번다"…사상 최대 실적 올리며 '승승장구' [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005250987)
 #### [비트코인 ‘반토막’났는데…억만장자 채굴왕 “지금이 싸게 살 좋은 기회”](https://m.stock.naver.com/news/ranknews/view/011/0004589977)
