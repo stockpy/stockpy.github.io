@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260212_1659 </title></head>
-<center>Vers : 20260212_1659 </center>
-<center>Vers : 20260213_0159 </center>
+<head><meta charset="utf-8"><title>Vers : 20260212_1801 </title></head>
+<center>Vers : 20260212_1801 </center>
+<center>Vers : 20260213_0301 </center>
 <br><br><br>
 #### ["은행보다 돈 잘 번다"…사상 최대 실적 올리며 '승승장구' [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005250987)
 #### [비트코인 ‘반토막’났는데…억만장자 채굴왕 “지금이 싸게 살 좋은 기회”](https://m.stock.naver.com/news/ranknews/view/011/0004589977)
@@ -20,7 +20,7 @@
 #### ['1세대 채굴업계 억만장자` 바빌로프 "다시 비트코인 살 기회"](https://m.stock.naver.com/news/ranknews/view/018/0006217917)
 #### [케이뱅크, 공모가 8300원 확정…상장 시 시가총액 3조원](https://m.stock.naver.com/news/ranknews/view/648/0000044506)
 #### ["비트코인 폭락은 축복"…1.6조 자산가 바빌로프 "지금이 풀매수 기회"](https://m.stock.naver.com/news/ranknews/view/003/0013768245)
-#### [美 주간 신규 실업수당 청구 5000건 감소…4주 평균 1년4 개월 만에 최저](https://m.stock.naver.com/news/ranknews/view/277/0005721583)
+#### [美 주간 신규 실업수당 청구 5000건 감소…4주 평균 1년 4개월 만에 최저](https://m.stock.naver.com/news/ranknews/view/277/0005721583)
 #### [삼성전자 HBM4 세계 최초 양산 출하…HBM4 경쟁 본격화](https://m.stock.naver.com/news/ranknews/view/057/0001935154)
 #### [[오천피 ETF] 삼성자산 KODEX 200, 코스피보다 더 날았다](https://m.stock.naver.com/news/ranknews/view/293/0000079367)
 #### [반에크, “개미 털고 채굴자 떠났다…지금이 변동성 사이클의 변곡점”](https://m.stock.naver.com/news/ranknews/view/009/0005636298)
