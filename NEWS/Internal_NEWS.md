@@ -1,7 +1,34 @@
-<head><meta charset="utf-8"><title>Vers : 20260212_2036 </title></head>
-<center>Vers : 20260212_2036 </center>
-<center>Vers : 20260213_0536 </center>
+<head><meta charset="utf-8"><title>Vers : 20260212_2104 </title></head>
+<center>Vers : 20260212_2104 </center>
+<center>Vers : 20260213_0604 </center>
 <br><br><br>
+#### [유럽의 아리안 64 대형 발사체, 아마존 위성을 궤도에 올려놓다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478640)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [트럼프의 미네소타 이민 단속 타임라인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478638)
+#### [레그랜드, 크라토스 인더스트리 인수 및 엑셀시어스에 대한 전략적 투자 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478632)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478639)
+#### [페가수스 랩의 KBroVet, 개 특발성 간질 발작 제어에 대한 FDA의 완전한 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478637)
+#### [2월 12일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478631)
+#### [백악관, 북마케도니아와의 무역 협상에 대한 성명서 게시 후 삭제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478635)
+#### [퍼스트에너지, 더 스마트하고 탄력적인 그리드 구축을 위해 2025년부터 2029년까지 280억 달러를 투자할 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478636)
+#### [남미 외환, 투자자들이 현지 데이터에 무게를 두면서 주가가 하락하고 아르헨티나 페소가 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478630)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
+#### [미국 유틸리티, 데이터 센터 수요 증가로 막대한 지출을 하고 있지만 경제성 문제가 대두되고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478634)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EXC.O/total>
+#### [기술주 하락으로 주가 하락, 수익률도 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478628)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
+#### [사노피, 거대 백신 회사에서 턴어라운드 지연 후 허드슨 CEO 축출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478629)
+#### [베네수엘라의 PDVSA는 합작 투자 파트너에게 확장 된 석유 지역을 제공한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478633)
+#### [대두, 옥수수 기준 대부분 조용한 거래로 안정세 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478627)
+#### [캐나다, 2031년 만기 52억 5,000만 캐나다 달러 채권 경매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478623)
+#### [연준의 독립성 상실로 전 세계 인플레이션이 상승할 수 있다고 분데스방크는 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478624)
+#### [트럼프는 남수단 국민에 대한 추방 보호를 종료 할 수 없다고 미국 판사가 판결했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478626)
+#### [골드먼, 클리어워터 매입을 위한 35억 달러 민간 대출 주도 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478622)
+#### [파라마운트가 워너 브라더스 이사회 자리를 놓고 펜워터 캐피털의 할보워를 주시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478620)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBD.O/total>
+#### [남아공 대통령, 범죄와 물 위기에 초점을 맞춘 공약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478625)
+#### [낙관적 전망에도 불구하고 투자자들이 믹스 변화에 집중하면서 팔로마르 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478621)
+#### [일라이 릴리, FDA 결정에 앞서 15억 달러 규모의 체중 감량약 비축 구축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478619)
 #### [베고일 강세에 따른 ICE 카놀라 선물 가격 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478607)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478615)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478610)
@@ -42,27 +69,3 @@
 #### [알파인-신기록을 세운 슐레퍼의 금메달보다 더 좋은 마지막 느낌](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478580)
 #### [오늘 하루 주목해야 할 사항 - 2월 13일 금요일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478584)
 #### [독점-EU, 범 유럽 거래 승인 경로 완화 모색, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478577)
-#### [트럼프, 네타냐후가 부패 혐의로 사면되어야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478579)
-#### [버즈 아이콘, 감사 조사에서 매출 과장 징후 발견으로 8년 만에 최저치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478583)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ICLR.O/total>
-#### [방글라데시 BNP, 의회 선거 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478576)
-#### [아이스하키-이탈리아, 미국 여자대표팀과의 힘겨운 대결 앞두고 부담감 없어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478582)
-#### [칠레 코칠코, 단기적으로 리튬 가격이 높게 유지될 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478575)
-#### [독점-트럼프, 시진핑 정상회담 앞두고 중국 기술 금지 조치 일시 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478578)
-#### [베네수엘라, 셰브론에 더 많은 석유 시추 블록을 허가, 블룸버그 뉴스, Repsol 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478572)
-#### [미국 요약: 미국 CPI를 앞두고 리스크 심리가 악화되면서 달러가 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478569)
-#### [JP모건의 상업 및 투자 은행, 할라미쉬를 AI 전략을 이끌 COO로 임명, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478574)
-#### [선물이 3% 가까이 급등하면서 미국산 평야 HRW 밀 베이시스 입찰가가 보합세에서 하락세로 돌아섰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478571)
-#### [트럼프는 남 수단 국민에 대한 추방 보호를 끝낼 수 없다, 미국 판사 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478570)
-#### [트럼프, 러트닉의 엡스타인 섬 방문에 대해 알지 못했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478573)
-#### [베네수엘라, 셰브론에 더 많은 석유 시추 블록을 허가하다, Repsol, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478568)
-#### [러시아, WhatsApp 차단, 국가 지원 대안 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478565)
-#### [인트로픽, 최근 펀딩 라운드에서 3800억 달러 가치 인정받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478560)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [독일의 메르츠는 유럽 보호주의에 반대하지만 EU는 스스로를 방어해야한다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478567)
-#### [메르츠 독일 총리는 공동 유로 부채를지지하지 않겠다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478564)
-#### [미국은 이번 주 베네수엘라 에너지에 대한 더 많은 제재를 완화 할 것이라고 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478559)
-#### [증시, 유가 하락으로 캐나다 달러 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478562)
-#### [트럼프는 다음 달에이란과의 협상이 타결 될 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478563)
-#### [베네수엘라, 셰브론, 렙솔에 더 많은 석유 시추 광구 허가- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478558)
-#### [미국 상원, 국토안보부 자금 차단으로 셧다운 가능성 높아져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2478561)
