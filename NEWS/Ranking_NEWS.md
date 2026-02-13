@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260213_2234 </title></head>
-<center>Vers : 20260213_2234 </center>
-<center>Vers : 20260214_0734 </center>
+<head><meta charset="utf-8"><title>Vers : 20260213_2303 </title></head>
+<center>Vers : 20260213_2303 </center>
+<center>Vers : 20260214_0803 </center>
 <br><br><br>
 #### [71만원→34만원, "반토막" 곡소리 나는 이 종목...반등도 멀었다?](https://m.stock.naver.com/news/ranknews/view/008/0005318512)
 #### ['18만원' 고지 점령한 삼성전자…전문가 우려 쏟아진 이유 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005251439)
