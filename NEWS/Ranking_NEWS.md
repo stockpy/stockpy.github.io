@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260213_2038 </title></head>
-<center>Vers : 20260213_2038 </center>
-<center>Vers : 20260214_0538 </center>
+<head><meta charset="utf-8"><title>Vers : 20260213_2119 </title></head>
+<center>Vers : 20260213_2119 </center>
+<center>Vers : 20260214_0619 </center>
 <br><br><br>
 #### [71만원→34만원, "반토막" 곡소리 나는 이 종목...반등도 멀었다?](https://m.stock.naver.com/news/ranknews/view/008/0005318512)
 #### [“설명할 시간 없어 어서 타!”…삼성전자 18만원 돌파에 JY 밈 떴다](https://m.stock.naver.com/news/ranknews/view/009/0005637463)
