@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260214_1733 </title></head>
-<center>Vers : 20260214_1733 </center>
-<center>Vers : 20260215_0233 </center>
+<head><meta charset="utf-8"><title>Vers : 20260214_1835 </title></head>
+<center>Vers : 20260214_1835 </center>
+<center>Vers : 20260215_0335 </center>
 <br><br><br>
+#### [아이스하키-캐나다, 풀린 부상 복귀와 동률 득점 기록으로 준결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481283)
+#### [발렌타인데이에 올림픽-콘돔 위기가 밀라노 올림픽을 강타하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481282)
+#### [올림픽- 컬링- 스웨덴이 캐나다의 부정행위를 고발한 후 세계 단체가 심판 강화에 나섰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481281)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481280)
+#### [카림 아이누즈, 베를린 페스티벌에서 '오페라적 부조리'로 가족 역학 관계 탐구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481279)
+#### [올림픽-컬링-슈왈러의 스위스가 캐나다를 꺾고 올림픽 무패 행진을 이어갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481278)
+#### [이스라엘 FM Saar, 목요일 트럼프의 첫 번째 평화 이사회 회의에 참석한다고 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481277)
+#### [알파인 스키-오더마트, 마지막 금메달 기회 놓쳤지만 메달 3개 들고 귀국해 기쁘다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481276)
 #### [캐나다, 이란 정부 변화 원하며 제재 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481275)
 #### [컬링-캐나다의 케네디, 격렬한 교환에서 언어를 후회하지만 사과하지 않겠습니까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481274)
 #### [이스라엘 FM Saar, 목요일 트럼프의 첫 번째 평화 이사회 회의에 참석, 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481273)
@@ -55,11 +63,3 @@
 #### [루비오, 시리아 외무 장관, 자위대 사령관 만나, 미국 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481225)
 #### [젤렌스키, 미국이 러시아가 아닌 우크라이나에 너무 자주 양보를 요구한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481226)
 #### [영국의 스타머, '하드 파워' 강화와 유럽 방위 유대 강화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481224)
-#### [크로스컨트리-노르웨이, 여자 4x7.5km 계주 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481223)
-#### [미국, 시리아에서 30 개 이상의 이슬람 국가 표적에 대한 공격 실시, 군 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481221)
-#### [젤렌스키가 트럼프의 압박을 "약간" 느낀다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481222)
-#### [메달과 삶에 대한 새로운 관점을 가진 올림픽-봅슬레이-베테랑 미국인 레이싱](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481220)
-#### [방글라데시 차기 총리, 경제와 거버넌스 회복을 최우선 과제로 삼다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481219)
-#### [젤 렌 스키, 미국은 러시아가 아닌 우크라이나에 너무 자주 양보를 요구한다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481218)
-#### [루비오, 뮌헨 안보 포럼에서 미국과 유럽이 "함께 속해 있다" 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481216)
-#### [올림픽-프리스타일 스키-호주의 앤서니, 모굴 2연패로 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481217)
