@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260214_1658 </title></head>
-<center>Vers : 20260214_1658 </center>
-<center>Vers : 20260215_0158 </center>
+<head><meta charset="utf-8"><title>Vers : 20260214_1733 </title></head>
+<center>Vers : 20260214_1733 </center>
+<center>Vers : 20260215_0233 </center>
 <br><br><br>
+#### [캐나다, 이란 정부 변화 원하며 제재 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481275)
+#### [컬링-캐나다의 케네디, 격렬한 교환에서 언어를 후회하지만 사과하지 않겠습니까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481274)
+#### [이스라엘 FM Saar, 목요일 트럼프의 첫 번째 평화 이사회 회의에 참석, 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481273)
+#### [바이애슬론-커키이드의 꿈, 블록버스터 피니시로 실현되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481272)
 #### [ECB, 글로벌 역할 강화를 위해 유로 생명줄을 열다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481271)
 #### [독일 '거인' 로흐너와 프리드리히, 2인승 대결을 펼치다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481270)
 #### [ECB, 통화 역할 강화를 위해 글로벌 유로 백스톱 구축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481267)
@@ -59,7 +63,3 @@
 #### [젤 렌 스키, 미국은 러시아가 아닌 우크라이나에 너무 자주 양보를 요구한다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481218)
 #### [루비오, 뮌헨 안보 포럼에서 미국과 유럽이 "함께 속해 있다" 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481216)
 #### [올림픽-프리스타일 스키-호주의 앤서니, 모굴 2연패로 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481217)
-#### [바이애슬론-포크레인, 독일 계주 대표팀에 올림픽 메달 재할당 배정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481215)
-#### [CIA, 국방부, 노르웨이에서 비밀 '하바나 증후군'장치 검토, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481213)
-#### [영국, 개막전 패배를 딛고 캐나다를 꺾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481214)
-#### [아이스하키-이탈리아 여자 대표팀은 인생 최고의 시간을 보냈습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481212)
