@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260214_2027 </title></head>
-<center>Vers : 20260214_2027 </center>
-<center>Vers : 20260215_0527 </center>
+<head><meta charset="utf-8"><title>Vers : 20260214_2052 </title></head>
+<center>Vers : 20260214_2052 </center>
+<center>Vers : 20260215_0552 </center>
 <br><br><br>
+#### [바이애슬론-스프린트 여자 대표팀이 일요일 추격 레이스에서 빠른 복귀를 노립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481302)
 #### [아이스하키- 캐나다를 위해 돌아온 폴린, 빙판 위에 있는 것만으로도 행복합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481301)
 #### [올림픽-스키 점프-프리벡, 비가 내리는 대형 언덕 경기에서 슬로베니아에 금메달을 안겼습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481299)
 #### [올림픽-스켈레톤-블록, 빛나는 금메달로 평창의 아픔을 지우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481300)
@@ -61,4 +62,3 @@
 #### [영국, 동맹국들은 크렘린 비평가 나발 니가 독살 당했다고 확신한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481245)
 #### [올림픽 스포트라이트부터 일상까지: 부족한 밀라노의 트램 운전사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481243)
 #### [올림픽-알파인 스키-브라질의 피네이로 브라텐, 대회전 금메달로 새로운 역사를 쓰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481244)
-#### [콘돔 위기가 발렌타인데이에 밀라노 올림픽을 강타하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481242)
