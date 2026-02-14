@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260214_1523 </title></head>
-<center>Vers : 20260214_1523 </center>
-<center>Vers : 20260215_0023 </center>
+<head><meta charset="utf-8"><title>Vers : 20260214_1630 </title></head>
+<center>Vers : 20260214_1630 </center>
+<center>Vers : 20260215_0130 </center>
 <br><br><br>
+#### [마나 푸람 파이낸스, RBI가 베인 캐피탈의 공동 지배권 인수를 승인했다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481262)
+#### [알파인 스키-브리뇨네의 대회전 접근법: 침착하게 계속 진행하기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481261)
+#### [독일 국방부 장관, 예측 가능한 미국 파트너십 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481260)
+#### [독점-미군, 몇 주에 걸친 이란 작전 준비 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481259)
+#### [크로스컨트리-스웨덴의 안데르손, 넘어진 후 '악몽' 계주 구간을 한탄하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481257)
+#### [트랜살타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481258)
 #### [뮌헨 안보 회의에서 대서양 횡단 관계에 대한 루비오의 연설에 대한 유럽인의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481255)
 #### [올림픽-바이애슬론-키르키예드, 멋진 마지막 랩으로 노르웨이에 스프린트 금메달을 안기며 구원을 얻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481254)
 #### [올림픽-아이스하키-스위스 피알라가 대회에 불참한다고 연맹이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481256)
@@ -58,10 +64,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
 #### [남아공의 후발주자 스미스는 다른 이들에게 영감을 주고 싶어 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481202)
 #### [올림픽-알파인 스키-시프린, 팀 통합 실패 후 대회전에서 재도전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481201)
-#### [루비오, 건설적인 어조지만 유럽 동맹국에 대한 미국 비판 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481204)
-#### [올림픽 기간 중 최근 사보타주 공격으로 의심되는 공격으로 이탈리아 열차 운행 지연](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481203)
-#### [바이애슬론-바이애슬론의 오랜 적들이 바이애슬론 드라마를 선사하며 은퇴를 맞이한 보예보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481200)
-#### [독일 주정부, 공공부문 근로자 임금 5.8% 인상 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481198)
-#### [중국, 가격 책정 관행에 대해 알리바바, 기타 플랫폼 소환 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481197)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9988.HK/total>
-#### [컬링-컬링 선수가 최고 수준에서 경쟁하기 위해 최상의 컨디션을 유지해야 하는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481199)
