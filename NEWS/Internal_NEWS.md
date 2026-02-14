@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260214_1630 </title></head>
-<center>Vers : 20260214_1630 </center>
-<center>Vers : 20260215_0130 </center>
+<head><meta charset="utf-8"><title>Vers : 20260214_1658 </title></head>
+<center>Vers : 20260214_1658 </center>
+<center>Vers : 20260215_0158 </center>
 <br><br><br>
+#### [ECB, 글로벌 역할 강화를 위해 유로 생명줄을 열다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481271)
+#### [독일 '거인' 로흐너와 프리드리히, 2인승 대결을 펼치다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481270)
+#### [ECB, 통화 역할 강화를 위해 글로벌 유로 백스톱 구축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481267)
+#### [젤렌스키, 러시아의 협상가 교체는 모든 결정을 연기하기 위한 것이라고 말하며](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481268)
+#### [알파인 스키-브라질의 황금 소년 핀헤이로 브라텐, 슬로프에 삼바와 패션을 입히다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481269)
+#### [최근 올림픽 기간 중 사보타주 공격으로 의심되는 공격으로 이탈리아에서 열차 운행이 지연되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481264)
+#### [인도 대출업체 마나푸람, 베인캐피탈의 공동 경영권 인수에 동의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481266)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481265)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481263)
 #### [마나 푸람 파이낸스, RBI가 베인 캐피탈의 공동 지배권 인수를 승인했다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481262)
 #### [알파인 스키-브리뇨네의 대회전 접근법: 침착하게 계속 진행하기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481261)
 #### [독일 국방부 장관, 예측 가능한 미국 파트너십 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481260)
@@ -54,13 +63,3 @@
 #### [CIA, 국방부, 노르웨이에서 비밀 '하바나 증후군'장치 검토, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481213)
 #### [영국, 개막전 패배를 딛고 캐나다를 꺾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481214)
 #### [아이스하키-이탈리아 여자 대표팀은 인생 최고의 시간을 보냈습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481212)
-#### [프리스타일 스키-호주 앤서니, 모굴 듀얼 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481211)
-#### [올림픽-알파인 스키-브라질의 피네이로 브라텐, 대회전에서 역사적인 금메달을 향해 달려갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481209)
-#### [로스앤젤레스 박물관, 미야자키 하야오의 몰입형 '포뇨' 전시 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481208)
-#### [올림픽 데뷔 70년 만에 코르티나로 돌아온 마누엘라 안젤리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481207)
-#### [미국 대법원이 당파적 게리맨더링 군비 경쟁의 무대를 마련한 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481206)
-#### [천문학자들이 '뒤집힌' 행성계에 대한 수수께끼를 풀다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481205)
-#### [엔비디아 CEO 황, 다음 주 인도 AI 서밋에 참석하지 않을 것, 회사 소시지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481210)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [남아공의 후발주자 스미스는 다른 이들에게 영감을 주고 싶어 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481202)
-#### [올림픽-알파인 스키-시프린, 팀 통합 실패 후 대회전에서 재도전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481201)
