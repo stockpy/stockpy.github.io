@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260214_1835 </title></head>
-<center>Vers : 20260214_1835 </center>
-<center>Vers : 20260215_0335 </center>
+<head><meta charset="utf-8"><title>Vers : 20260214_1903 </title></head>
+<center>Vers : 20260214_1903 </center>
+<center>Vers : 20260215_0403 </center>
 <br><br><br>
+#### [올림픽-아이스하키-캐나다, 부상에서 돌아온 풀린과 동률 득점 기록으로 준결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481288)
+#### [독점-미군, 몇 주에 걸친 이란 작전 준비 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481287)
+#### [올림픽-아이스하키-슬로바키아, 핀란드가 이탈리아를 꺾고 라트비아가 독일을 제압한 조별리그 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481286)
+#### [올림픽-컬링-캐나다의 케네디, 열띤 설전 후회하지만 사과하지 않겠다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481284)
+#### [영국, 동맹국, 크렘린이 개구리 독으로 비판자 Navalny를 살해했다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481285)
 #### [아이스하키-캐나다, 풀린 부상 복귀와 동률 득점 기록으로 준결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481283)
 #### [발렌타인데이에 올림픽-콘돔 위기가 밀라노 올림픽을 강타하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481282)
 #### [올림픽- 컬링- 스웨덴이 캐나다의 부정행위를 고발한 후 세계 단체가 심판 강화에 나섰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481281)
@@ -58,8 +63,3 @@
 #### [이란의 마지막 샤의 아들, 이란에 대한 미군 개입 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481230)
 #### [프랑스, 러시아 석유에 대한 G7 해상 금지에 대해 '합리적으로 낙관적', 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481231)
 #### [올림픽-크로스컨트리-노르웨이, 여자 계주 우승, 스웨덴이 반격에 나서 은메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481229)
-#### [바이애슬론-보딩/글림트 축구 팬들이 바이애슬론 경기장에 북소리를 울리며 환호하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481228)
-#### [루비오, '유럽의 자식'인 미국을 동맹국의 중요한 우방으로 캐스팅하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481227)
-#### [루비오, 시리아 외무 장관, 자위대 사령관 만나, 미국 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481225)
-#### [젤렌스키, 미국이 러시아가 아닌 우크라이나에 너무 자주 양보를 요구한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481226)
-#### [영국의 스타머, '하드 파워' 강화와 유럽 방위 유대 강화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481224)
