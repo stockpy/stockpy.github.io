@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260214_1427 </title></head>
-<center>Vers : 20260214_1427 </center>
-<center>Vers : 20260214_2327 </center>
+<head><meta charset="utf-8"><title>Vers : 20260214_1454 </title></head>
+<center>Vers : 20260214_1454 </center>
+<center>Vers : 20260214_2354 </center>
 <br><br><br>
 #### [“설 연휴 끝나면 대형이벤트가 열립니다”…FOMC 의사록에 쏠린 눈](https://m.stock.naver.com/news/ranknews/view/009/0005637632)
 #### [“대구 사는 조카한테 10만원 보내줘”…요즘 세뱃돈, 이렇게 받고 불린다](https://m.stock.naver.com/news/ranknews/view/009/0005637675)
