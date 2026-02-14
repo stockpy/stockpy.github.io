@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260214_2116 </title></head>
-<center>Vers : 20260214_2116 </center>
-<center>Vers : 20260215_0616 </center>
+<head><meta charset="utf-8"><title>Vers : 20260214_2224 </title></head>
+<center>Vers : 20260214_2224 </center>
+<center>Vers : 20260215_0724 </center>
 <br><br><br>
+#### [로이터 뉴스 일정 오후 10시(GMT/6시(한국 시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481314)
+#### [더치맨 반트 바우트, 밀라노 코르티나에서 두 번째 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481313)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481312)
+#### [핀란드 공포 우화 '나이트본'은 부모의 감정적 고난과 모성애의 금기를 탐구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481310)
+#### [올림픽 쇼트트랙 이탈리아 폰타나, 역사적인 14번째 메달에 다가서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481311)
+#### [트럼프, 네타냐후, 미국이이란에 대중국 석유 판매를 줄 이도록 압력을 가해야한다는 데 동의, Axios 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481309)
+#### [알파인 스키-본은 네 번째 수술이 잘 되었다고 말하며 다시 스키를 탈 수 있기를 기대합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481308)
 #### [프리스타일-중국 구, 여자 빅에어 결승서 가을을 떨치고 결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481305)
 #### [베를린 영화제에서 새로운 모큐멘터리로 '브랫 서머'의 장을 마감한 찰리 xcx](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481306)
 #### [에반스가 토요타 쿼텟을 이끌고 눈 덮인 스웨덴에서 마지막 날을 맞이합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481307)
@@ -55,10 +62,3 @@
 #### [트랜살타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481258)
 #### [뮌헨 안보 회의에서 대서양 횡단 관계에 대한 루비오의 연설에 대한 유럽인의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481255)
 #### [올림픽-바이애슬론-키르키예드, 멋진 마지막 랩으로 노르웨이에 스프린트 금메달을 안기며 구원을 얻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481254)
-#### [올림픽-아이스하키-스위스 피알라가 대회에 불참한다고 연맹이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481256)
-#### [아이스하키-라트비아의 역대 최고 팀, 기르겐손은 계속 나아질 것이라고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481253)
-#### [한국, 1월 이란산 원유 수입 전무 - 관세청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481252)
-#### [키르키데, 노르웨이 여자 7.5km 스프린트 금메달을 차지하며 현장을 놀라게 하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481251)
-#### [크로스컨트리-부러진 스키, 셔츠 없는 레이서들, 변덕스러운 날씨로 인한 대혼란](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481250)
-#### [아이스하키-스웨덴이 슬로바키아를 막고 라트비아가 독일을 이겼습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481248)
-#### [노르웨이 가스코, 2월 14일 1410시부터 2월 15일 0459시까지 오세버그 가스전에서 하루 -6.2밀리미터/일의 정전 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481249)
