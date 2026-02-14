@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260214_1027 </title></head>
-<center>Vers : 20260214_1027 </center>
-<center>Vers : 20260214_1927 </center>
+<head><meta charset="utf-8"><title>Vers : 20260214_1055 </title></head>
+<center>Vers : 20260214_1055 </center>
+<center>Vers : 20260214_1955 </center>
 <br><br><br>
 #### [“설 연휴 끝나면 대형이벤트가 열립니다”…FOMC 의사록에 쏠린 눈](https://m.stock.naver.com/news/ranknews/view/009/0005637632)
 #### [“나만 삼성전자 없나” 코스피 5500 시대, ‘포모’에 우는 개미들](https://m.stock.naver.com/news/ranknews/view/011/0004590534)
