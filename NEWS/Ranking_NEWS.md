@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260214_0833 </title></head>
-<center>Vers : 20260214_0833 </center>
-<center>Vers : 20260214_1733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260214_0901 </title></head>
+<center>Vers : 20260214_0901 </center>
+<center>Vers : 20260214_1801 </center>
 <br><br><br>
 #### [“삼성전자나 살 걸 후회돼요”…대형주 없는 개인투자자 박탈감 호소](https://m.stock.naver.com/news/ranknews/view/009/0005637603)
 #### [코스피 5500 광풍에 ‘개미 대통합’… 2060 전 세대 “믿을 건 SK하이닉스·삼성전자”](https://m.stock.naver.com/news/ranknews/view/366/0001142739)
