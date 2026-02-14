@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260214_2052 </title></head>
-<center>Vers : 20260214_2052 </center>
-<center>Vers : 20260215_0552 </center>
+<head><meta charset="utf-8"><title>Vers : 20260214_2116 </title></head>
+<center>Vers : 20260214_2116 </center>
+<center>Vers : 20260215_0616 </center>
 <br><br><br>
+#### [프리스타일-중국 구, 여자 빅에어 결승서 가을을 떨치고 결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481305)
+#### [베를린 영화제에서 새로운 모큐멘터리로 '브랫 서머'의 장을 마감한 찰리 xcx](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481306)
+#### [에반스가 토요타 쿼텟을 이끌고 눈 덮인 스웨덴에서 마지막 날을 맞이합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481307)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481303)
+#### [브리티시 페트롤리엄, BP 화이팅 정유소가 여전히 노조와 성실하게 협상 중이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481304)
 #### [바이애슬론-스프린트 여자 대표팀이 일요일 추격 레이스에서 빠른 복귀를 노립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481302)
 #### [아이스하키- 캐나다를 위해 돌아온 폴린, 빙판 위에 있는 것만으로도 행복합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481301)
 #### [올림픽-스키 점프-프리벡, 비가 내리는 대형 언덕 경기에서 슬로베니아에 금메달을 안겼습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481299)
@@ -57,8 +62,3 @@
 #### [크로스컨트리-부러진 스키, 셔츠 없는 레이서들, 변덕스러운 날씨로 인한 대혼란](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481250)
 #### [아이스하키-스웨덴이 슬로바키아를 막고 라트비아가 독일을 이겼습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481248)
 #### [노르웨이 가스코, 2월 14일 1410시부터 2월 15일 0459시까지 오세버그 가스전에서 하루 -6.2밀리미터/일의 정전 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481249)
-#### [올림픽-경기 스포트라이트부터 일상까지: 인력 부족에 시달리는 밀라노의 트램 운전사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481246)
-#### [프랑스 해군 중독은 푸틴이 자국민에게 신경 작용제를 사용할 준비가 되었음을 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481247)
-#### [영국, 동맹국들은 크렘린 비평가 나발 니가 독살 당했다고 확신한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481245)
-#### [올림픽 스포트라이트부터 일상까지: 부족한 밀라노의 트램 운전사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481243)
-#### [올림픽-알파인 스키-브라질의 피네이로 브라텐, 대회전 금메달로 새로운 역사를 쓰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481244)
