@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260214_2250 </title></head>
-<center>Vers : 20260214_2250 </center>
-<center>Vers : 20260215_0750 </center>
+<head><meta charset="utf-8"><title>Vers : 20260214_2312 </title></head>
+<center>Vers : 20260214_2312 </center>
+<center>Vers : 20260215_0812 </center>
 <br><br><br>
+#### [프리스타일-우크라이나 스키 선수, 발렌타인데이에 결승 진출과 약혼자 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481318)
+#### [스위스, 뮐러의 골로 핀란드 꺾고 준결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481317)
 #### [컬링-캐나다 여자 스킵 호만, 심판 판정 번복으로 돌을 던지다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481315)
 #### [올림픽-쇼트트랙-더치맨 반트 바우트, 밀라노 코르티나에서 두 번째 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481316)
 #### [로이터 뉴스 일정 오후 10시(GMT/6시(한국 시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481314)
@@ -60,5 +62,3 @@
 #### [알파인 스키-브리뇨네의 대회전 접근법: 침착하게 계속 진행하기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481261)
 #### [독일 국방부 장관, 예측 가능한 미국 파트너십 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481260)
 #### [독점-미군, 몇 주에 걸친 이란 작전 준비 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481259)
-#### [크로스컨트리-스웨덴의 안데르손, 넘어진 후 '악몽' 계주 구간을 한탄하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481257)
-#### [트랜살타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481258)
