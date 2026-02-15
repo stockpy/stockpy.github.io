@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260215_1340 </title></head>
-<center>Vers : 20260215_1340 </center>
-<center>Vers : 20260215_2240 </center>
+<head><meta charset="utf-8"><title>Vers : 20260215_1427 </title></head>
+<center>Vers : 20260215_1427 </center>
+<center>Vers : 20260215_2327 </center>
 <br><br><br>
+#### [스위스, 남자 조별리그 마지막 날 경기에서 체코를 꺾고 연장전 돌입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481423)
+#### [올림픽-알파인 스키-브리뇨네, 홈 설원에서 골든 더블을 완성하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481419)
+#### [스노보드 크로스-영국, 혼성 단체 크로스 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481420)
+#### [월스트리트 주간을 앞두고-월마트, AI '두더지'에 맞서는 투자자들을 기다리는 경제 데이터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481422)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
+#### [키예프의 정치적 협박에 따른 드루 즈바 석유 공급, 슬로바키아 총리, 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481418)
+#### [덴마크 총리, 트럼프의 그린란드 인수 욕망은 변하지 않았다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481421)
+#### [루비오는 미국이 유럽인의 해군 중독 평가에 이의를 제기하지 않는다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481417)
+#### [1936년 올림픽 '나치' 티셔츠 판매로 파문 일으킨 IOC, 상표권 보호해야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481416)
+#### [알파인 스키-브리뇨네, 슈퍼-G 타이틀에 대회전 금메달을 추가하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481413)
+#### [알파인 스키-시프린, 대회전에서 또 다시 메달을 놓치다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481415)
+#### [모스크바 시장, 러시아 수도 접근로에서 5 대의 드론이 추락했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481414)
+#### [바이애슬론-'해적' 판타니, 바이애슬론에서 동메달로 마무리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481412)
 #### [루비오는 미국이 유럽인의 해군 중독 평가에 이의를 제기하지 않는다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481411)
 #### [16 전투기 4 대 추가 구매에 관심이 있다고 Fico는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481410)
 #### [두 번의 감동적인 드라마로 고군분투하는 챔피언 스웨덴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481408)
@@ -50,6 +63,10 @@
 #### [피렐리 보유자 시노켐, 직접 지분 감축을 위해 채권 발행 검토: 코리에르 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481367)
 #### [본은 빠르면 일요일에 이탈리아 병원에서 퇴원 할 수 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481365)
 #### [파라마운트, 씨댄스 AI 동영상에 대해 ByteDance에 중단 요청 서한 발송 - Variety](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481363)
+<head><meta charset="utf-8"><title>Vers : 20260215_1427 </title></head>
+<center>Vers : 20260215_1427 </center>
+<center>Vers : 20260215_2327 </center>
+<br><br><br>
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481364)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481362)
 #### [우크라이나 드론 공격으로 러시아 타만항이 피해를 입었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481360)
@@ -62,10 +79,6 @@
 #### [루비오, 동유럽 방문, 친 트럼프 지도자들과의 유대 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481356)
 #### [15 일 팜유 수출 11.2 % 감소 -ITS](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481353)
 #### [러시아 타만 항구가 우크라이나 드론에 의해 손상되었다고 러시아 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481352)
-<head><meta charset="utf-8"><title>Vers : 20260215_1340 </title></head>
-<center>Vers : 20260215_1340 </center>
-<center>Vers : 20260215_2240 </center>
-<br><br><br>
 #### [Uber, 음식 배달 추진으로 유럽 7개 신규 시장으로 확장, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481350)
 #### [Uber, 음식 배달 푸시로 유럽 7개 신규 시장 진출- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481351)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481349)
@@ -115,6 +128,10 @@
 #### [베를린 영화제에서 새로운 모큐멘터리로 '브랫 서머'의 장을 마감한 찰리 xcx](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481306)
 #### [에반스가 토요타 쿼텟을 이끌고 눈 덮인 스웨덴에서 마지막 날을 맞이합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481307)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481303)
+<head><meta charset="utf-8"><title>Vers : 20260215_1427 </title></head>
+<center>Vers : 20260215_1427 </center>
+<center>Vers : 20260215_2327 </center>
+<br><br><br>
 #### [브리티시 페트롤리엄, BP 화이팅 정유소가 여전히 노조와 성실하게 협상 중이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481304)
 #### [바이애슬론-스프린트 여자 대표팀이 일요일 추격 레이스에서 빠른 복귀를 노립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481302)
 #### [아이스하키- 캐나다를 위해 돌아온 폴린, 빙판 위에 있는 것만으로도 행복합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481301)
@@ -127,10 +144,6 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481291)
 #### [미국 북서부 강 유량 최대 93% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481293)
 #### [엑손 모빌, 재활용에 대한 명예훼손으로 캘리포니아 법무장관 고소, 판사 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481294)
-<head><meta charset="utf-8"><title>Vers : 20260215_1340 </title></head>
-<center>Vers : 20260215_1340 </center>
-<center>Vers : 20260215_2240 </center>
-<br><br><br>
 #### [베네수엘라, 17 명의 정치범 석방, 야당 운동은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481290)
 #### [올림픽-알파인 스키-이탈리아 10대 레이서 디안토니오, 훈련 중 낙상 사고로 십자인대 파열 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481292)
 #### [베를린 영화제에서 새로운 모큐멘터리로 '브랫 서머'의 장을 연 찰리 엑스크스(Charli xcx)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481289)
@@ -179,16 +192,3 @@
 #### [프랑스 해군 중독은 푸틴이 자국민에게 신경 작용제를 사용할 준비가 되었음을 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481247)
 #### [영국, 동맹국들은 크렘린 비평가 나발 니가 독살 당했다고 확신한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481245)
 #### [올림픽 스포트라이트부터 일상까지: 부족한 밀라노의 트램 운전사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481243)
-#### [올림픽-알파인 스키-브라질의 피네이로 브라텐, 대회전 금메달로 새로운 역사를 쓰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481244)
-#### [콘돔 위기가 발렌타인데이에 밀라노 올림픽을 강타하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481242)
-#### [이탈리아 10대 디안토니오, 훈련 중 넘어져 십자인대 파열 의심 부상 당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481241)
-#### [루마니아 적자, 2026 년 이후 정체 될 위험에 처해 있다고 피치는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481239)
-#### [알파인 스키-브라질의 피네이로 브라텐이 대회전 금메달로 역사를 쓰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481237)
-#### [아이스하키-핀란드 수비수 히리코스키가 부상으로 올림픽 출전 불발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481240)
-#### [나토의 루테는 우크라이나에서 러시아가 '미친 손실'을 겪고 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481238)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481235)
-#### [영국, 동맹국들은 크렘린 비평가 나발 니가 독살 당했다고 확신한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481236)
-#### [경기 최고 책임자는 절반의 성공에 만족합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481233)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CMCSA.O/total>
-#### [스웨덴이 캐나다의 부정행위를 고발한 후 올림픽-컬링-세계 컬링이 조치를 취했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481234)
-#### [베트남에서 위성 인터넷으로 주목받는 SpaceX의 스타링크](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481232)
