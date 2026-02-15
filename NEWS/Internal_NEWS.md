@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260215_1427 </title></head>
-<center>Vers : 20260215_1427 </center>
-<center>Vers : 20260215_2327 </center>
+<head><meta charset="utf-8"><title>Vers : 20260215_1455 </title></head>
+<center>Vers : 20260215_1455 </center>
+<center>Vers : 20260215_2355 </center>
 <br><br><br>
+#### [바이애슬론-16년 만에 포케이드, 마침내 달콤한 밴쿠버 금메달을 맛보다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481425)
+#### [올림픽-알파인 스키-핀헤이로 브라텐, 스텔비오 슬라럼에서 마지막 춤을 준비하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481426)
+#### [바이애슬론-비토치, 이탈리아 여자 10km 추발에서 금메달을 목에 걸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481424)
 #### [스위스, 남자 조별리그 마지막 날 경기에서 체코를 꺾고 연장전 돌입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481423)
 #### [올림픽-알파인 스키-브리뇨네, 홈 설원에서 골든 더블을 완성하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481419)
 #### [스노보드 크로스-영국, 혼성 단체 크로스 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481420)
@@ -60,13 +63,13 @@
 #### [EU 국가들이 우크라이나에 회원국 날짜를 줄 준비가되어 있지 않다는 것을 이해하지 마십시오 - EU의 Kallas는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481368)
 #### [러시아가 우크라이나 남동부의 또 다른 마을을 점령했다고 TASS가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481369)
 #### [올림픽-본이 이탈리아 병원을 떠나 트레비소 공항으로 향하고 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481366)
+<head><meta charset="utf-8"><title>Vers : 20260215_1455 </title></head>
+<center>Vers : 20260215_1455 </center>
+<center>Vers : 20260215_2355 </center>
+<br><br><br>
 #### [피렐리 보유자 시노켐, 직접 지분 감축을 위해 채권 발행 검토: 코리에르 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481367)
 #### [본은 빠르면 일요일에 이탈리아 병원에서 퇴원 할 수 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481365)
 #### [파라마운트, 씨댄스 AI 동영상에 대해 ByteDance에 중단 요청 서한 발송 - Variety](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481363)
-<head><meta charset="utf-8"><title>Vers : 20260215_1427 </title></head>
-<center>Vers : 20260215_1427 </center>
-<center>Vers : 20260215_2327 </center>
-<br><br><br>
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481364)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481362)
 #### [우크라이나 드론 공격으로 러시아 타만항이 피해를 입었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481360)
@@ -125,13 +128,13 @@
 #### [트럼프, 네타냐후, 미국이이란에 대중국 석유 판매를 줄 이도록 압력을 가해야한다는 데 동의, Axios 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481309)
 #### [알파인 스키-본은 네 번째 수술이 잘 되었다고 말하며 다시 스키를 탈 수 있기를 기대합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481308)
 #### [프리스타일-중국 구, 여자 빅에어 결승서 가을을 떨치고 결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481305)
+<head><meta charset="utf-8"><title>Vers : 20260215_1455 </title></head>
+<center>Vers : 20260215_1455 </center>
+<center>Vers : 20260215_2355 </center>
+<br><br><br>
 #### [베를린 영화제에서 새로운 모큐멘터리로 '브랫 서머'의 장을 마감한 찰리 xcx](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481306)
 #### [에반스가 토요타 쿼텟을 이끌고 눈 덮인 스웨덴에서 마지막 날을 맞이합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481307)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481303)
-<head><meta charset="utf-8"><title>Vers : 20260215_1427 </title></head>
-<center>Vers : 20260215_1427 </center>
-<center>Vers : 20260215_2327 </center>
-<br><br><br>
 #### [브리티시 페트롤리엄, BP 화이팅 정유소가 여전히 노조와 성실하게 협상 중이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481304)
 #### [바이애슬론-스프린트 여자 대표팀이 일요일 추격 레이스에서 빠른 복귀를 노립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481302)
 #### [아이스하키- 캐나다를 위해 돌아온 폴린, 빙판 위에 있는 것만으로도 행복합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481301)
@@ -189,6 +192,3 @@
 #### [아이스하키-스웨덴이 슬로바키아를 막고 라트비아가 독일을 이겼습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481248)
 #### [노르웨이 가스코, 2월 14일 1410시부터 2월 15일 0459시까지 오세버그 가스전에서 하루 -6.2밀리미터/일의 정전 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481249)
 #### [올림픽-경기 스포트라이트부터 일상까지: 인력 부족에 시달리는 밀라노의 트램 운전사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481246)
-#### [프랑스 해군 중독은 푸틴이 자국민에게 신경 작용제를 사용할 준비가 되었음을 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481247)
-#### [영국, 동맹국들은 크렘린 비평가 나발 니가 독살 당했다고 확신한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481245)
-#### [올림픽 스포트라이트부터 일상까지: 부족한 밀라노의 트램 운전사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481243)

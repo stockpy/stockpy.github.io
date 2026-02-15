@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260215_1427 </title></head>
-<center>Vers : 20260215_1427 </center>
-<center>Vers : 20260215_2327 </center>
+<head><meta charset="utf-8"><title>Vers : 20260215_1455 </title></head>
+<center>Vers : 20260215_1455 </center>
+<center>Vers : 20260215_2355 </center>
 <br><br><br>
 #### [“6억원 어치 금 팔려다 호텔에 열흘간 감금돼”…‘골드바’ 사기 속출, 예방은](https://m.stock.naver.com/news/ranknews/view/009/0005637802)
 #### [고졸직원이 만든 50조 대박 아이템…하늘이 준 아이디어③](https://m.stock.naver.com/news/ranknews/view/008/0005318814)
