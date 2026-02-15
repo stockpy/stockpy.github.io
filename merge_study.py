@@ -1,5 +1,7 @@
 import pandas as pd
 import re
+import requests
+import json
 
 # 고객정보
 고객 = pd.DataFrame({
@@ -62,3 +64,64 @@ text = re.sub(r'\d+', '', text)
 text = re.sub(r'(.)\1{2,}', r'\1\1', text)
 print("# TEXT")
 print(text)
+
+print("############################################################")
+
+
+# OpenWatch API 엔드포인트 (재산 현황)
+API_URL = "https://api.openwatch.kr/v1/national-assembly/assets"
+
+def fetch_member_assets(member_name=None, year=None):
+    """
+    국회의원 재산 현황을 OpenWatch API로 조회
+    - member_name: 의원명 (옵션)
+    - year: 연도 (옵션, 예: 2025)
+    """
+    params = {}
+    if member_name:
+        params['member_name'] = member_name
+    if year:
+        params['year'] = year
+    
+    try:
+        response = requests.get(API_URL, params=params)
+        response.raise_for_status()
+        
+        data = response.json()
+        
+        # JSON에서 DataFrame으로 변환
+        if 'data' in data:
+            df = pd.DataFrame(data['data'])
+            return df
+        else:
+            print("데이터를 찾을 수 없습니다:", data)
+            return None
+            
+    except requests.exceptions.RequestException as e:
+        print(f"API 요청 실패: {e}")
+        return None
+
+# 사용 예시 1: 전체 국회의원 재산 현황
+all_assets = fetch_member_assets()
+if all_assets is not None:
+    print("전체 국회의원 재산 현황:")
+    print(all_assets.head())
+    print(f"총 {len(all_assets)}명의 의원 데이터")
+
+# 사용 예시 2: 특정 의원 재산 조회
+member_assets = fetch_member_assets(member_name="김영주")
+if member_assets is not None:
+    print(f"\n김영주 의원 재산:")
+    print(member_assets)
+
+# 사용 예시 3: 특정 연도 재산 조회
+year_assets = fetch_member_assets(year=2025)
+if year_assets is not None:
+    print(f"\n2025년 재산 현황:")
+    print(year_assets.head())
+    
+    # 재산 총액 상위 10명
+    if 'total_amount' in year_assets.columns:
+        top10 = year_assets.nlargest(10, 'total_amount')[['member_name', 'total_amount']]
+        print("\n재산 상위 10명:")
+        print(top10)
