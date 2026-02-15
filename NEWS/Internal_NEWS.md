@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260215_0734 </title></head>
-<center>Vers : 20260215_0734 </center>
-<center>Vers : 20260215_1634 </center>
+<head><meta charset="utf-8"><title>Vers : 20260215_0834 </title></head>
+<center>Vers : 20260215_0834 </center>
+<center>Vers : 20260215_1734 </center>
 <br><br><br>
+#### [파라마운트, 씨댄스 AI 동영상에 대해 ByteDance에 중단 요청 서한 발송 - Variety](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481363)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481364)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481362)
+#### [우크라이나 드론 공격으로 러시아 타만항이 피해를 입었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481360)
+#### [비자 전용 게임으로 유럽의 결제 골칫거리 부각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481361)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481359)
 #### [이란, 미국과의 핵 협상을 위해 타협에 열려 있다고 장관, BBC에 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481358)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481357)
@@ -58,15 +63,15 @@
 #### [프리스타일-중국 구, 여자 빅에어 결승서 가을을 떨치고 결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481305)
 #### [베를린 영화제에서 새로운 모큐멘터리로 '브랫 서머'의 장을 마감한 찰리 xcx](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481306)
 #### [에반스가 토요타 쿼텟을 이끌고 눈 덮인 스웨덴에서 마지막 날을 맞이합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481307)
+<head><meta charset="utf-8"><title>Vers : 20260215_0834 </title></head>
+<center>Vers : 20260215_0834 </center>
+<center>Vers : 20260215_1734 </center>
+<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481303)
 #### [브리티시 페트롤리엄, BP 화이팅 정유소가 여전히 노조와 성실하게 협상 중이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481304)
 #### [바이애슬론-스프린트 여자 대표팀이 일요일 추격 레이스에서 빠른 복귀를 노립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481302)
 #### [아이스하키- 캐나다를 위해 돌아온 폴린, 빙판 위에 있는 것만으로도 행복합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481301)
 #### [올림픽-스키 점프-프리벡, 비가 내리는 대형 언덕 경기에서 슬로베니아에 금메달을 안겼습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481299)
-<head><meta charset="utf-8"><title>Vers : 20260215_0734 </title></head>
-<center>Vers : 20260215_0734 </center>
-<center>Vers : 20260215_1634 </center>
-<br><br><br>
 #### [올림픽-스켈레톤-블록, 빛나는 금메달로 평창의 아픔을 지우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481300)
 #### [스키 점프-슬로베니아의 Prevc, 남자 활강 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481298)
 #### [스켈레톤, 빛나는 금메달로 평창의 아픔을 지우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481297)
@@ -122,8 +127,3 @@
 #### [올림픽-경기 스포트라이트부터 일상까지: 인력 부족에 시달리는 밀라노의 트램 운전사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481246)
 #### [프랑스 해군 중독은 푸틴이 자국민에게 신경 작용제를 사용할 준비가 되었음을 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481247)
 #### [영국, 동맹국들은 크렘린 비평가 나발 니가 독살 당했다고 확신한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481245)
-#### [올림픽 스포트라이트부터 일상까지: 부족한 밀라노의 트램 운전사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481243)
-#### [올림픽-알파인 스키-브라질의 피네이로 브라텐, 대회전 금메달로 새로운 역사를 쓰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481244)
-#### [콘돔 위기가 발렌타인데이에 밀라노 올림픽을 강타하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481242)
-#### [이탈리아 10대 디안토니오, 훈련 중 넘어져 십자인대 파열 의심 부상 당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481241)
-#### [루마니아 적자, 2026 년 이후 정체 될 위험에 처해 있다고 피치는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481239)
