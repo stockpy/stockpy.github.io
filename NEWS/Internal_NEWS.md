@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260215_1252 </title></head>
-<center>Vers : 20260215_1252 </center>
-<center>Vers : 20260215_2152 </center>
+<head><meta charset="utf-8"><title>Vers : 20260215_1340 </title></head>
+<center>Vers : 20260215_1340 </center>
+<center>Vers : 20260215_2240 </center>
 <br><br><br>
+#### [루비오는 미국이 유럽인의 해군 중독 평가에 이의를 제기하지 않는다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481411)
+#### [16 전투기 4 대 추가 구매에 관심이 있다고 Fico는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481410)
+#### [두 번의 감동적인 드라마로 고군분투하는 챔피언 스웨덴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481408)
+#### [미국-이란 경계감에 걸프 지역 증시 대부분 하락, 이집트 금리 인하 기대감에 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481407)
+#### [슬로바키아는 새로운 원자력 발전소 건설을 위해 웨스팅 하우스와 계약을 체결하기를 희망한다고 피코 총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481409)
+#### [알파인 스키 - 예술성에서 운동 능력까지: 알파인 스키의 진화 과정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481405)
+#### [마크롱, 활동가의 죽음으로 정치적 충돌이 촉발 된 후 침착 함을 촉구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481406)
+#### [우크라이나의 젤 렌 스키, 동맹국들이 10 일 이내에 새로운 에너지와 군사 지원을 제공 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481404)
 #### [봅슬레이-독일 놀테, 모노밥에서 속도를 높이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481402)
 #### [미국, 트럼프의 격리를 무시한 선박을 차단하고 탑승했다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481403)
 #### [올림픽-동계 올림픽에서 가장 많은 금메달을 획득한 선수들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481401)
@@ -54,6 +62,10 @@
 #### [루비오, 동유럽 방문, 친 트럼프 지도자들과의 유대 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481356)
 #### [15 일 팜유 수출 11.2 % 감소 -ITS](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481353)
 #### [러시아 타만 항구가 우크라이나 드론에 의해 손상되었다고 러시아 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481352)
+<head><meta charset="utf-8"><title>Vers : 20260215_1340 </title></head>
+<center>Vers : 20260215_1340 </center>
+<center>Vers : 20260215_2240 </center>
+<br><br><br>
 #### [Uber, 음식 배달 추진으로 유럽 7개 신규 시장으로 확장, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481350)
 #### [Uber, 음식 배달 푸시로 유럽 7개 신규 시장 진출- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481351)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481349)
@@ -62,10 +74,6 @@
 #### [H 월드, 20,000개 호텔로 '중국의 메리어트'를 지향하다- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481346)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481345)
 #### [트럼프, 네타냐후, 미국이이란에 대중 석유 판매를 줄 이도록 압력을 가해야한다는 데 동의, Axios 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481344)
-<head><meta charset="utf-8"><title>Vers : 20260215_1252 </title></head>
-<center>Vers : 20260215_1252 </center>
-<center>Vers : 20260215_2152 </center>
-<br><br><br>
 #### [주목해야 할 요소 - 2월 15일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481343)
 #### [중국이 진짜 위협, 대만이 뮌헨 연설에 반발하며 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481342)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481340)
@@ -119,6 +127,10 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481291)
 #### [미국 북서부 강 유량 최대 93% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481293)
 #### [엑손 모빌, 재활용에 대한 명예훼손으로 캘리포니아 법무장관 고소, 판사 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481294)
+<head><meta charset="utf-8"><title>Vers : 20260215_1340 </title></head>
+<center>Vers : 20260215_1340 </center>
+<center>Vers : 20260215_2240 </center>
+<br><br><br>
 #### [베네수엘라, 17 명의 정치범 석방, 야당 운동은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481290)
 #### [올림픽-알파인 스키-이탈리아 10대 레이서 디안토니오, 훈련 중 낙상 사고로 십자인대 파열 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481292)
 #### [베를린 영화제에서 새로운 모큐멘터리로 '브랫 서머'의 장을 연 찰리 엑스크스(Charli xcx)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481289)
@@ -127,10 +139,6 @@
 #### [올림픽-아이스하키-슬로바키아, 핀란드가 이탈리아를 꺾고 라트비아가 독일을 제압한 조별리그 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481286)
 #### [올림픽-컬링-캐나다의 케네디, 열띤 설전 후회하지만 사과하지 않겠다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481284)
 #### [영국, 동맹국, 크렘린이 개구리 독으로 비판자 Navalny를 살해했다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481285)
-<head><meta charset="utf-8"><title>Vers : 20260215_1252 </title></head>
-<center>Vers : 20260215_1252 </center>
-<center>Vers : 20260215_2152 </center>
-<br><br><br>
 #### [아이스하키-캐나다, 풀린 부상 복귀와 동률 득점 기록으로 준결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481283)
 #### [발렌타인데이에 올림픽-콘돔 위기가 밀라노 올림픽을 강타하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481282)
 #### [올림픽- 컬링- 스웨덴이 캐나다의 부정행위를 고발한 후 세계 단체가 심판 강화에 나섰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481281)
@@ -184,11 +192,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CMCSA.O/total>
 #### [스웨덴이 캐나다의 부정행위를 고발한 후 올림픽-컬링-세계 컬링이 조치를 취했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481234)
 #### [베트남에서 위성 인터넷으로 주목받는 SpaceX의 스타링크](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481232)
-#### [이란의 마지막 샤의 아들, 이란에 대한 미군 개입 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481230)
-#### [프랑스, 러시아 석유에 대한 G7 해상 금지에 대해 '합리적으로 낙관적', 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481231)
-#### [올림픽-크로스컨트리-노르웨이, 여자 계주 우승, 스웨덴이 반격에 나서 은메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481229)
-#### [바이애슬론-보딩/글림트 축구 팬들이 바이애슬론 경기장에 북소리를 울리며 환호하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481228)
-#### [루비오, '유럽의 자식'인 미국을 동맹국의 중요한 우방으로 캐스팅하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481227)
-#### [루비오, 시리아 외무 장관, 자위대 사령관 만나, 미국 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481225)
-#### [젤렌스키, 미국이 러시아가 아닌 우크라이나에 너무 자주 양보를 요구한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481226)
-#### [영국의 스타머, '하드 파워' 강화와 유럽 방위 유대 강화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481224)
