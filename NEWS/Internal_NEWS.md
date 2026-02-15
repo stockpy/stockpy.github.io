@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260215_0222 </title></head>
-<center>Vers : 20260215_0222 </center>
-<center>Vers : 20260215_1122 </center>
+<head><meta charset="utf-8"><title>Vers : 20260215_0432 </title></head>
+<center>Vers : 20260215_0432 </center>
+<center>Vers : 20260215_1332 </center>
 <br><br><br>
+#### [트럼프, 네타냐후, 미국이이란에 대중 석유 판매를 줄 이도록 압력을 가해야한다는 데 동의, Axios 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481344)
+#### [주목해야 할 요소 - 2월 15일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481343)
+#### [중국이 진짜 위협, 대만이 뮌헨 연설에 반발하며 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481342)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481340)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481341)
+#### [펜타곤, AI 세이프가드 분쟁에서 앤트로픽 차단 위협, Axios 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481339)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLTR.O/total>
+#### [인류-인류는 전쟁부와 특정 작전에 클로드의 사용에 대해 논의하지 않았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481338)
+#### [국방부, AI 세이프가드 분쟁에서 앤트로픽 차단 위협, Axios 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481337)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481335)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481334)
+#### [호주, 핵 잠수함 조선소 건설에 27억 달러 지원 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481336)
 #### [미국, 법원 보호에도 불구하고 카메룬에 9 명 추방, NYT는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481333)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481332)
 #### [아이스하키-골키퍼 교체로 스위스 여자 준결승 진출, 브렌들리가 모두 막아내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481331)
@@ -51,6 +63,10 @@
 #### [독점-미군, 몇 주에 걸친 이란 작전 준비 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481287)
 #### [올림픽-아이스하키-슬로바키아, 핀란드가 이탈리아를 꺾고 라트비아가 독일을 제압한 조별리그 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481286)
 #### [올림픽-컬링-캐나다의 케네디, 열띤 설전 후회하지만 사과하지 않겠다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481284)
+<head><meta charset="utf-8"><title>Vers : 20260215_0432 </title></head>
+<center>Vers : 20260215_0432 </center>
+<center>Vers : 20260215_1332 </center>
+<br><br><br>
 #### [영국, 동맹국, 크렘린이 개구리 독으로 비판자 Navalny를 살해했다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481285)
 #### [아이스하키-캐나다, 풀린 부상 복귀와 동률 득점 기록으로 준결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481283)
 #### [발렌타인데이에 올림픽-콘돔 위기가 밀라노 올림픽을 강타하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481282)
@@ -62,10 +78,6 @@
 #### [알파인 스키-오더마트, 마지막 금메달 기회 놓쳤지만 메달 3개 들고 귀국해 기쁘다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481276)
 #### [캐나다, 이란 정부 변화 원하며 제재 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481275)
 #### [컬링-캐나다의 케네디, 격렬한 교환에서 언어를 후회하지만 사과하지 않겠습니까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481274)
-<head><meta charset="utf-8"><title>Vers : 20260215_0222 </title></head>
-<center>Vers : 20260215_0222 </center>
-<center>Vers : 20260215_1122 </center>
-<br><br><br>
 #### [이스라엘 FM Saar, 목요일 트럼프의 첫 번째 평화 이사회 회의에 참석, 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481273)
 #### [바이애슬론-커키이드의 꿈, 블록버스터 피니시로 실현되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481272)
 #### [ECB, 글로벌 역할 강화를 위해 유로 생명줄을 열다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481271)
@@ -116,14 +128,3 @@
 #### [루비오, '유럽의 자식'인 미국을 동맹국의 중요한 우방으로 캐스팅하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481227)
 #### [루비오, 시리아 외무 장관, 자위대 사령관 만나, 미국 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481225)
 #### [젤렌스키, 미국이 러시아가 아닌 우크라이나에 너무 자주 양보를 요구한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481226)
-#### [영국의 스타머, '하드 파워' 강화와 유럽 방위 유대 강화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481224)
-#### [크로스컨트리-노르웨이, 여자 4x7.5km 계주 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481223)
-#### [미국, 시리아에서 30 개 이상의 이슬람 국가 표적에 대한 공격 실시, 군 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481221)
-#### [젤렌스키가 트럼프의 압박을 "약간" 느낀다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481222)
-#### [메달과 삶에 대한 새로운 관점을 가진 올림픽-봅슬레이-베테랑 미국인 레이싱](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481220)
-#### [방글라데시 차기 총리, 경제와 거버넌스 회복을 최우선 과제로 삼다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481219)
-#### [젤 렌 스키, 미국은 러시아가 아닌 우크라이나에 너무 자주 양보를 요구한다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481218)
-#### [루비오, 뮌헨 안보 포럼에서 미국과 유럽이 "함께 속해 있다" 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481216)
-#### [올림픽-프리스타일 스키-호주의 앤서니, 모굴 2연패로 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481217)
-#### [바이애슬론-포크레인, 독일 계주 대표팀에 올림픽 메달 재할당 배정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481215)
-#### [CIA, 국방부, 노르웨이에서 비밀 '하바나 증후군'장치 검토, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481213)
