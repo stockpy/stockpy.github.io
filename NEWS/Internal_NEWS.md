@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260215_1631 </title></head>
-<center>Vers : 20260215_1631 </center>
-<center>Vers : 20260216_0131 </center>
+<head><meta charset="utf-8"><title>Vers : 20260215_1659 </title></head>
+<center>Vers : 20260215_1659 </center>
+<center>Vers : 20260216_0159 </center>
 <br><br><br>
+#### [분석-유럽, 트럼프의 그린란드 추진 이후 미국 국방에 덜 의존하려는 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481446)
+#### [트럼프 국경 차르, ICE 개혁에 대한 민주당의 요구 일축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481445)
+#### [규모 6의 지진이 쿠릴열도 지역을 강타했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481444)
+#### [올림픽 바이애슬론 금메달리스트 비토치가 이탈리아 팬들에게 소중한 역사적 순간을 선사합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481442)
+#### [올림픽-컬링-영국 남자 대표팀, 독일 꺾고 챔피언 스웨덴이 또다시 패하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481443)
 #### [경기 조직위, 이스라엘 단체에서 '자유 팔레스타인'을 외친 직원 교대 근무에서 해고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481441)
 #### [평화의 이사회 회원들이 가자 지구를 위해 50 억 달러 이상을 약속했다고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481440)
 #### [리오 틴토, 2월 14일 기니 은제레코레의 심퍼 광산 현장에서 발생한 사고로 하청업체 직원이 사망한 것을 확인했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481438)
@@ -58,8 +63,3 @@
 #### [영국 남자 대표팀이 독일을 꺾고 챔피언 스웨덴이 또다시 패했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481390)
 #### [호주, 미국-영국 협정에 따라 잠수함 조선소에 27억 달러 지원 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481388)
 #### [프리스타일-캐나다 킹스베리, 남자 듀얼 모굴 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481386)
-#### [우크라이나, 러시아 크라 스노 다르 지역의 타만 석유 터미널을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481385)
-#### [영국 최저 임금이 청년 실업률을 높이고 있다고 영국 은행의 만은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481387)
-#### [올림픽-바이애슬론-스웨덴의 폰실루마, 강철 같은 정신력으로 남자 12.5km 추발 금메달을 따다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481383)
-#### [로이터 뉴스 일정 오전 11시(GMT/동유럽표준시 오전 6시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481384)
-#### [스웨덴 폰실루오마, 남자 추월 금메달을 따낸 강철 같은 신경전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481381)
