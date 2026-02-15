@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260215_1527 </title></head>
-<center>Vers : 20260215_1527 </center>
-<center>Vers : 20260216_0027 </center>
+<head><meta charset="utf-8"><title>Vers : 20260215_1631 </title></head>
+<center>Vers : 20260215_1631 </center>
+<center>Vers : 20260216_0131 </center>
 <br><br><br>
+#### [경기 조직위, 이스라엘 단체에서 '자유 팔레스타인'을 외친 직원 교대 근무에서 해고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481441)
+#### [평화의 이사회 회원들이 가자 지구를 위해 50 억 달러 이상을 약속했다고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481440)
+#### [리오 틴토, 2월 14일 기니 은제레코레의 심퍼 광산 현장에서 발생한 사고로 하청업체 직원이 사망한 것을 확인했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481438)
+#### [페루의 경제는 2025 년에 3.4 % 성장했다고 정부 통계 기관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481439)
+#### [올림픽-알파인 스키-시프린의 침착한 GS 반응, 베이징 실망에서 반전을 노리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481437)
+#### [평화의 이사회 회원들은 가자 지구를 위해 50 억 달러 이상을 약속했다고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481436)
+#### [터키, 첫 해외 임무로 소말리아에 심해 시추선 파견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481434)
+#### [루가 항구에서 유조선 추락 사고 조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481435)
+#### [페루의 GDP가 12월에 3.83% 성장했다고 최근 수치가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481433)
+#### [크로스컨트리-'킹 클라보', 동계올림픽 금메달 9개로 최강자로 군림하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481432)
 #### [알파인 스키-영국의 노장 여우 라이딩, 슬라롬이 활짝 열릴 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481430)
 #### [슬로바키아 총리, 우크라이나의 송유관 재가동 지연이 EU에 대한 헝가리 압박이라고 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481431)
 #### [올림픽-스노보드 크로스-영국, 혼성 단체 크로스 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481429)
@@ -53,13 +63,3 @@
 #### [올림픽-바이애슬론-스웨덴의 폰실루마, 강철 같은 정신력으로 남자 12.5km 추발 금메달을 따다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481383)
 #### [로이터 뉴스 일정 오전 11시(GMT/동유럽표준시 오전 6시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481384)
 #### [스웨덴 폰실루오마, 남자 추월 금메달을 따낸 강철 같은 신경전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481381)
-#### [루비오, 친트럼프 지도자들과의 유대 강화를 위해 동유럽 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481382)
-#### [오스트리아 남자 대표팀 감독, 메달 획득 부진으로 압박받는 상황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481380)
-#### [알파인 스키-브리뇨네, 대회전 1차전에서 라이벌을 제압하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481378)
-#### [히드로 공항 회장 필립 얀센, 미국 소프트웨어 회사 Xplor의 수장 취임 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481379)
-#### [우크라이나에 회원국 자격을 부여 할 준비가 된 EU 국가를 이해하지 못한다고 EU의 Kallas는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481377)
-#### [대만 대통령, 설 메시지에서 섬의 방위력 강화 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481376)
-#### [브라질의 룰라를 기리는 카니발이 리우에서 정치적 반발을 불러일으켰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481375)
-#### [아버지의 뒤를 이어 호주 바이애슬론의 길을 개척한 올림픽-바이애슬론 모튼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481374)
-#### [업데이트 1- 올림픽- 본이 이탈리아 병원을 떠나 트레비소 공항으로 향하고 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481373)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481372)
