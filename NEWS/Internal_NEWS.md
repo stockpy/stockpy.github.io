@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260215_0542 </title></head>
-<center>Vers : 20260215_0542 </center>
-<center>Vers : 20260215_1442 </center>
+<head><meta charset="utf-8"><title>Vers : 20260215_0652 </title></head>
+<center>Vers : 20260215_0652 </center>
+<center>Vers : 20260215_1552 </center>
 <br><br><br>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481357)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481354)
+#### [이란, 미국이 제재 해제를 논의하면 핵 협상 타협에 개방적이라고 장관, BBC에 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481355)
+#### [루비오, 동유럽 방문, 친 트럼프 지도자들과의 유대 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481356)
+#### [15 일 팜유 수출 11.2 % 감소 -ITS](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481353)
+#### [러시아 타만 항구가 우크라이나 드론에 의해 손상되었다고 러시아 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481352)
 #### [Uber, 음식 배달 추진으로 유럽 7개 신규 시장으로 확장, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481350)
 #### [Uber, 음식 배달 푸시로 유럽 7개 신규 시장 진출- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481351)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481349)
@@ -57,16 +63,16 @@
 #### [올림픽-스키 점프-프리벡, 비가 내리는 대형 언덕 경기에서 슬로베니아에 금메달을 안겼습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481299)
 #### [올림픽-스켈레톤-블록, 빛나는 금메달로 평창의 아픔을 지우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481300)
 #### [스키 점프-슬로베니아의 Prevc, 남자 활강 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481298)
+<head><meta charset="utf-8"><title>Vers : 20260215_0652 </title></head>
+<center>Vers : 20260215_0652 </center>
+<center>Vers : 20260215_1552 </center>
+<br><br><br>
 #### [스켈레톤, 빛나는 금메달로 평창의 아픔을 지우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481297)
 #### [아이스하키-슬로바키아, 8강 진출로 '최고의 패배'를 자축하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481296)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481295)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481291)
 #### [미국 북서부 강 유량 최대 93% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481293)
 #### [엑손 모빌, 재활용에 대한 명예훼손으로 캘리포니아 법무장관 고소, 판사 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481294)
-<head><meta charset="utf-8"><title>Vers : 20260215_0542 </title></head>
-<center>Vers : 20260215_0542 </center>
-<center>Vers : 20260215_1442 </center>
-<br><br><br>
 #### [베네수엘라, 17 명의 정치범 석방, 야당 운동은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481290)
 #### [올림픽-알파인 스키-이탈리아 10대 레이서 디안토니오, 훈련 중 낙상 사고로 십자인대 파열 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481292)
 #### [베를린 영화제에서 새로운 모큐멘터리로 '브랫 서머'의 장을 연 찰리 엑스크스(Charli xcx)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481289)
@@ -121,10 +127,3 @@
 #### [루마니아 적자, 2026 년 이후 정체 될 위험에 처해 있다고 피치는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481239)
 #### [알파인 스키-브라질의 피네이로 브라텐이 대회전 금메달로 역사를 쓰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481237)
 #### [아이스하키-핀란드 수비수 히리코스키가 부상으로 올림픽 출전 불발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481240)
-#### [나토의 루테는 우크라이나에서 러시아가 '미친 손실'을 겪고 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481238)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481235)
-#### [영국, 동맹국들은 크렘린 비평가 나발 니가 독살 당했다고 확신한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481236)
-#### [경기 최고 책임자는 절반의 성공에 만족합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481233)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CMCSA.O/total>
-#### [스웨덴이 캐나다의 부정행위를 고발한 후 올림픽-컬링-세계 컬링이 조치를 취했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481234)
-#### [베트남에서 위성 인터넷으로 주목받는 SpaceX의 스타링크](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481232)
