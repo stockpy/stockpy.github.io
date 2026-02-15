@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260215_0652 </title></head>
-<center>Vers : 20260215_0652 </center>
-<center>Vers : 20260215_1552 </center>
+<head><meta charset="utf-8"><title>Vers : 20260215_0734 </title></head>
+<center>Vers : 20260215_0734 </center>
+<center>Vers : 20260215_1634 </center>
 <br><br><br>
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481359)
+#### [이란, 미국과의 핵 협상을 위해 타협에 열려 있다고 장관, BBC에 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481358)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481357)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481354)
 #### [이란, 미국이 제재 해제를 논의하면 핵 협상 타협에 개방적이라고 장관, BBC에 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481355)
@@ -61,12 +63,12 @@
 #### [바이애슬론-스프린트 여자 대표팀이 일요일 추격 레이스에서 빠른 복귀를 노립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481302)
 #### [아이스하키- 캐나다를 위해 돌아온 폴린, 빙판 위에 있는 것만으로도 행복합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481301)
 #### [올림픽-스키 점프-프리벡, 비가 내리는 대형 언덕 경기에서 슬로베니아에 금메달을 안겼습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481299)
+<head><meta charset="utf-8"><title>Vers : 20260215_0734 </title></head>
+<center>Vers : 20260215_0734 </center>
+<center>Vers : 20260215_1634 </center>
+<br><br><br>
 #### [올림픽-스켈레톤-블록, 빛나는 금메달로 평창의 아픔을 지우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481300)
 #### [스키 점프-슬로베니아의 Prevc, 남자 활강 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481298)
-<head><meta charset="utf-8"><title>Vers : 20260215_0652 </title></head>
-<center>Vers : 20260215_0652 </center>
-<center>Vers : 20260215_1552 </center>
-<br><br><br>
 #### [스켈레톤, 빛나는 금메달로 평창의 아픔을 지우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481297)
 #### [아이스하키-슬로바키아, 8강 진출로 '최고의 패배'를 자축하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481296)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481295)
@@ -125,5 +127,3 @@
 #### [콘돔 위기가 발렌타인데이에 밀라노 올림픽을 강타하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481242)
 #### [이탈리아 10대 디안토니오, 훈련 중 넘어져 십자인대 파열 의심 부상 당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481241)
 #### [루마니아 적자, 2026 년 이후 정체 될 위험에 처해 있다고 피치는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481239)
-#### [알파인 스키-브라질의 피네이로 브라텐이 대회전 금메달로 역사를 쓰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481237)
-#### [아이스하키-핀란드 수비수 히리코스키가 부상으로 올림픽 출전 불발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481240)
