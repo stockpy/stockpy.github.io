@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260215_1027 </title></head>
-<center>Vers : 20260215_1027 </center>
-<center>Vers : 20260215_1927 </center>
+<head><meta charset="utf-8"><title>Vers : 20260215_1054 </title></head>
+<center>Vers : 20260215_1054 </center>
+<center>Vers : 20260215_1954 </center>
 <br><br><br>
 #### [고졸직원이 만든 50조 대박 아이템…하늘이 준 아이디어③](https://m.stock.naver.com/news/ranknews/view/008/0005318814)
 #### [“자식 눈치 안보고 ‘다쓰죽’ 하련다”…내달부터 4억 집 살면서 연 1600만원 받는 비법 [언제까지 직장인]](https://m.stock.naver.com/news/ranknews/view/009/0005637739)

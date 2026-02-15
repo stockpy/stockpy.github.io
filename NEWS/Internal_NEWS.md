@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260215_1027 </title></head>
-<center>Vers : 20260215_1027 </center>
-<center>Vers : 20260215_1927 </center>
+<head><meta charset="utf-8"><title>Vers : 20260215_1054 </title></head>
+<center>Vers : 20260215_1054 </center>
+<center>Vers : 20260215_1954 </center>
 <br><br><br>
+#### [오스트리아 남자 대표팀 감독, 메달 획득 부진으로 압박받는 상황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481380)
+#### [알파인 스키-브리뇨네, 대회전 1차전에서 라이벌을 제압하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481378)
+#### [히드로 공항 회장 필립 얀센, 미국 소프트웨어 회사 Xplor의 수장 취임 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481379)
+#### [우크라이나에 회원국 자격을 부여 할 준비가 된 EU 국가를 이해하지 못한다고 EU의 Kallas는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481377)
 #### [대만 대통령, 설 메시지에서 섬의 방위력 강화 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481376)
 #### [브라질의 룰라를 기리는 카니발이 리우에서 정치적 반발을 불러일으켰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481375)
 #### [아버지의 뒤를 이어 호주 바이애슬론의 길을 개척한 올림픽-바이애슬론 모튼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481374)
@@ -59,14 +63,14 @@
 #### [올림픽-아이스하키-슬로바키아 조 1위, 미국 덴마크, 핀란드, 라트비아 꺾고 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481323)
 #### [미군, 몇 주에 걸친 이란 작전 준비 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481321)
 #### [올림픽-아이스하키-스위스, 뮐러의 골로 핀란드 꺾고 4강 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481320)
+<head><meta charset="utf-8"><title>Vers : 20260215_1054 </title></head>
+<center>Vers : 20260215_1054 </center>
+<center>Vers : 20260215_1954 </center>
+<br><br><br>
 #### [올림픽-프리스타일-중국의 구, 여자 빅에어 결승서 가을을 떨치고 결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481322)
 #### [올림픽 아이스하키, 미국 남자 대표팀이 덴마크를 제압하고 두 번째 우승을 차지했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481319)
 #### [프리스타일-우크라이나 스키 선수, 발렌타인데이에 결승 진출과 약혼자 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481318)
 #### [스위스, 뮐러의 골로 핀란드 꺾고 준결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481317)
-<head><meta charset="utf-8"><title>Vers : 20260215_1027 </title></head>
-<center>Vers : 20260215_1027 </center>
-<center>Vers : 20260215_1927 </center>
-<br><br><br>
 #### [컬링-캐나다 여자 스킵 호만, 심판 판정 번복으로 돌을 던지다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481315)
 #### [올림픽-쇼트트랙-더치맨 반트 바우트, 밀라노 코르티나에서 두 번째 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481316)
 #### [로이터 뉴스 일정 오후 10시(GMT/6시(한국 시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481314)
@@ -123,14 +127,14 @@
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481263)
 #### [마나 푸람 파이낸스, RBI가 베인 캐피탈의 공동 지배권 인수를 승인했다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481262)
 #### [알파인 스키-브리뇨네의 대회전 접근법: 침착하게 계속 진행하기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481261)
+<head><meta charset="utf-8"><title>Vers : 20260215_1054 </title></head>
+<center>Vers : 20260215_1054 </center>
+<center>Vers : 20260215_1954 </center>
+<br><br><br>
 #### [독일 국방부 장관, 예측 가능한 미국 파트너십 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481260)
 #### [독점-미군, 몇 주에 걸친 이란 작전 준비 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481259)
 #### [크로스컨트리-스웨덴의 안데르손, 넘어진 후 '악몽' 계주 구간을 한탄하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481257)
 #### [트랜살타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481258)
-<head><meta charset="utf-8"><title>Vers : 20260215_1027 </title></head>
-<center>Vers : 20260215_1027 </center>
-<center>Vers : 20260215_1927 </center>
-<br><br><br>
 #### [뮌헨 안보 회의에서 대서양 횡단 관계에 대한 루비오의 연설에 대한 유럽인의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481255)
 #### [올림픽-바이애슬론-키르키예드, 멋진 마지막 랩으로 노르웨이에 스프린트 금메달을 안기며 구원을 얻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481254)
 #### [올림픽-아이스하키-스위스 피알라가 대회에 불참한다고 연맹이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481256)
@@ -189,8 +193,3 @@
 #### [올림픽-알파인 스키-시프린, 팀 통합 실패 후 대회전에서 재도전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481201)
 #### [루비오, 건설적인 어조지만 유럽 동맹국에 대한 미국 비판 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481204)
 #### [올림픽 기간 중 최근 사보타주 공격으로 의심되는 공격으로 이탈리아 열차 운행 지연](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481203)
-#### [바이애슬론-바이애슬론의 오랜 적들이 바이애슬론 드라마를 선사하며 은퇴를 맞이한 보예보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481200)
-#### [독일 주정부, 공공부문 근로자 임금 5.8% 인상 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481198)
-#### [중국, 가격 책정 관행에 대해 알리바바, 기타 플랫폼 소환 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481197)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9988.HK/total>
-#### [컬링-컬링 선수가 최고 수준에서 경쟁하기 위해 최상의 컨디션을 유지해야 하는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481199)
