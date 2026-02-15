@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260215_0834 </title></head>
-<center>Vers : 20260215_0834 </center>
-<center>Vers : 20260215_1734 </center>
+<head><meta charset="utf-8"><title>Vers : 20260215_0901 </title></head>
+<center>Vers : 20260215_0901 </center>
+<center>Vers : 20260215_1801 </center>
 <br><br><br>
+#### [본은 빠르면 일요일에 이탈리아 병원에서 퇴원 할 수 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481365)
 #### [파라마운트, 씨댄스 AI 동영상에 대해 ByteDance에 중단 요청 서한 발송 - Variety](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481363)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481364)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481362)
@@ -62,11 +63,11 @@
 #### [알파인 스키-본은 네 번째 수술이 잘 되었다고 말하며 다시 스키를 탈 수 있기를 기대합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481308)
 #### [프리스타일-중국 구, 여자 빅에어 결승서 가을을 떨치고 결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481305)
 #### [베를린 영화제에서 새로운 모큐멘터리로 '브랫 서머'의 장을 마감한 찰리 xcx](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481306)
-#### [에반스가 토요타 쿼텟을 이끌고 눈 덮인 스웨덴에서 마지막 날을 맞이합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481307)
-<head><meta charset="utf-8"><title>Vers : 20260215_0834 </title></head>
-<center>Vers : 20260215_0834 </center>
-<center>Vers : 20260215_1734 </center>
+<head><meta charset="utf-8"><title>Vers : 20260215_0901 </title></head>
+<center>Vers : 20260215_0901 </center>
+<center>Vers : 20260215_1801 </center>
 <br><br><br>
+#### [에반스가 토요타 쿼텟을 이끌고 눈 덮인 스웨덴에서 마지막 날을 맞이합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481307)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481303)
 #### [브리티시 페트롤리엄, BP 화이팅 정유소가 여전히 노조와 성실하게 협상 중이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481304)
 #### [바이애슬론-스프린트 여자 대표팀이 일요일 추격 레이스에서 빠른 복귀를 노립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481302)
@@ -126,4 +127,3 @@
 #### [노르웨이 가스코, 2월 14일 1410시부터 2월 15일 0459시까지 오세버그 가스전에서 하루 -6.2밀리미터/일의 정전 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481249)
 #### [올림픽-경기 스포트라이트부터 일상까지: 인력 부족에 시달리는 밀라노의 트램 운전사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481246)
 #### [프랑스 해군 중독은 푸틴이 자국민에게 신경 작용제를 사용할 준비가 되었음을 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481247)
-#### [영국, 동맹국들은 크렘린 비평가 나발 니가 독살 당했다고 확신한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2481245)
