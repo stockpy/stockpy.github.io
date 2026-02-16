@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260216_2059 </title></head>
-<center>Vers : 20260216_2059 </center>
-<center>Vers : 20260217_0559 </center>
+<head><meta charset="utf-8"><title>Vers : 20260216_2138 </title></head>
+<center>Vers : 20260216_2138 </center>
+<center>Vers : 20260217_0638 </center>
 <br><br><br>
+#### [영국의 스타 머는 카니와의 통화에서 국방 지출에 대해 논의했다고 영국 정부는 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482445)
+#### [거스리 가족은 애리조나 납치 용의자가 아니라고 보안관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482447)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482449)
+#### [올림픽-봅슬레이-마이어스 테일러, 모노밥 우승으로 마침내 금메달을 목에 걸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482444)
+#### [아이스하키-캐나다 주장 풀린, 여자 올림픽 최다 득점 기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482446)
+#### [AUD/USD가 RBA 회의록을 앞두고 상승세 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482448)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482443)
+#### [BHP의 비쿠나, 아르헨티나에 180억 달러 규모의 광산 투자 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482442)
+#### [아르마다 호플러 부동산 4분기 순이익 미화 100만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482441)
+#### [봅슬레이-마이어스 테일러, 모노밥 우승으로 마침내 금메달을 목에 걸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482439)
+#### [소노코 제품 4분기 EPS USD 3.33](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482440)
+#### [아이스하키-프랑스, 캐나다와의 경기 후 크리농의 남은 경기 출전 정지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482438)
+#### [프리스타일-캐나다의 올덤, 여자 빅에어 결승전 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482436)
+#### [씨티, 지정학이 단기적으로 석유를지지 할 것이라고 말하다; 평화 협정이 가격을 낮출 것으로 보인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482437)
 #### [씨티, 모닝스타는 호주 오라이즌의 결과에 감명을 받았지만 여전히 역풍을 봅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482435)
 #### [2월 16일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482433)
 #### [WTI Midland 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482431)
@@ -52,18 +66,3 @@
 #### [바이애슬론-비토치, 이탈리아의 첫 올림픽 바이애슬론 금메달에도 불구하고 은퇴할 수 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482392)
 #### [크라켄, 2026년 모든 와이오밍 신생아를 위한 트럼프 계정 후원한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482386)
 #### [프리스타일-여자 빅에어 스키, 눈으로 연기된 경기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482388)
-#### [서드 포인트, 스페인 방위 회사 인드라 지분 인수, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482391)
-#### ['대부'와 '아포칼립스 나우'의 스타 로버트 듀발, 95 세로 사망, 버라이어티 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482385)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482387)
-#### [올림픽-아이스하키-미국, 스웨덴을 꺾고 여자 결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482390)
-#### [아이들을 내버려 두세요: 노르웨이의 성공 비결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482389)
-#### [하이네켄, 11억 유로 규모의 채권 발행 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482384)
-#### [콜롬비아, 1966년 살해된 반군 단체 신부의 유해 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482383)
-#### [컬링-에딘, 타이틀 방어 무산으로 스웨덴의 '인성' 부족을 아쉬워하며](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482381)
-#### [프리스타일-스위스 그레모, 부상으로 빅에어 결승전 불참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482382)
-#### [파리 밀 옵션 만기 및 연휴를 앞두고 수요 감소로 인한 가격 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482380)
-#### [아이스하키-미국, 스웨덴을 꺾고 여자 결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482377)
-#### [디젤 수익률 상승세 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482378)
-#### [넥스페리아, 칩 생산량 증대를 위해 인베스트 인터내셔널로부터 6천만 달러 대출 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482379)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600745.SS/total>
-#### [나이지리아, 100 명의 미군이 도착하여 임무를 확대한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482376)
