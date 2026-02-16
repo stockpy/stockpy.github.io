@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260216_2229 </title></head>
-<center>Vers : 20260216_2229 </center>
-<center>Vers : 20260217_0729 </center>
+<head><meta charset="utf-8"><title>Vers : 20260216_2259 </title></head>
+<center>Vers : 20260216_2259 </center>
+<center>Vers : 20260217_0759 </center>
 <br><br><br>
 #### ["저희 대출 5000만원 받으셨죠?" 은행 전화에…'충격 실상'](https://m.stock.naver.com/news/ranknews/view/015/0005251733)
 #### ["우리 아이 '6000만원' 모으는 방법이…" 파격 혜택에 '깜짝' [돈앤톡]](https://m.stock.naver.com/news/ranknews/view/015/0005251724)

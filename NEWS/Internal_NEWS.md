@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260216_2229 </title></head>
-<center>Vers : 20260216_2229 </center>
-<center>Vers : 20260217_0729 </center>
+<head><meta charset="utf-8"><title>Vers : 20260216_2259 </title></head>
+<center>Vers : 20260216_2259 </center>
+<center>Vers : 20260217_0759 </center>
 <br><br><br>
+#### [올림픽 아이스하키, 캐나다 여자 결승 진출에 힘을 보탠 풀랭의 활약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482463)
+#### [BHP 그룹의 상반기 이익이 22 % 증가하여 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482462)
+#### [GBP/USD 소폭 약세, 스타머, 국방 지출 증가 언급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482461)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482460)
 #### [스코티아은행, 반발 후 이스라엘 무기 공급업체 엘빗 지분 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482459)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ESLT.O/total>
 #### [BHP 그룹, 휘튼 귀금속과 실버 스트리밍 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482458)
@@ -62,7 +66,3 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482406)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482404)
 #### [올림픽-프리스타일-날씨로 인해 빅 에어 스키 여자 결승전 연기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482407)
-#### [아이스하키-스웨덴의 꿈, 준결승 패배 후 동메달에 그치다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482403)
-#### [우크라이나의 젤렌스키, 정보에 따르면 앞으로 더 많은 러시아 공격이 있을 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482402)
-#### [미국 북서부 강 유량은 93 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482401)
-#### [역사상 가장 성평등한 동계 올림픽에서 개최국 이탈리아의 여성들이 남성보다 더 좋은 성적을 거둡니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482400)
