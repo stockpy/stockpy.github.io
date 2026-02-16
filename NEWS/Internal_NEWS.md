@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260216_1843 </title></head>
-<center>Vers : 20260216_1843 </center>
-<center>Vers : 20260217_0343 </center>
+<head><meta charset="utf-8"><title>Vers : 20260216_1923 </title></head>
+<center>Vers : 20260216_1923 </center>
+<center>Vers : 20260217_0423 </center>
 <br><br><br>
+#### [역사상 가장 성평등한 동계 올림픽에서 개최국 이탈리아의 여성들이 남성보다 더 좋은 성적을 거둡니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482400)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482397)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
+#### [나이지리아, 이슬람주의자 퇴치를 위해 100명의 미군 병력이 추가로 도착했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482399)
+#### [SpaceX, 자율 드론 기술을위한 국방부 경연 대회에서 경쟁, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482398)
+#### [알파인 스키-맥그래스의 고독한 숲 속 산책, 올림픽 패배의 무게를 담아내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482393)
+#### ['부드러운 자비' 오스카상 수상자 로버트 듀발, 향년 95세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482396)
+#### [인도, 이란과 연계된 미국 제재 유조선 3척 압류, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482394)
+#### [자율주행 드론 기술을 위한 국방부 경연대회에 참가하는 스페이스X - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482395)
 #### [바이애슬론-비토치, 이탈리아의 첫 올림픽 바이애슬론 금메달에도 불구하고 은퇴할 수 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482392)
 #### [크라켄, 2026년 모든 와이오밍 신생아를 위한 트럼프 계정 후원한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482386)
 #### [프리스타일-여자 빅에어 스키, 눈으로 연기된 경기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482388)
@@ -56,12 +65,3 @@
 #### [피드백, CFO 엠마 오스윅을 이사로 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482341)
 #### [임란 칸의 아들들은 그의 건강을 두려워하며 파키스탄에서 그를 방문하기 위해 비자를 구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482343)
 #### [미국의 석유 봉쇄 강화로 쿠바인들이 전기자동차로 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482345)
-#### [금은 얇은 거래에서 달러 강세로 1% 이상 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482340)
-#### [봅슬레이-자메이카, '쿨 러닝'의 과거를 대체할 슬라이딩 성공 노려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482336)
-#### [파리 밀, 수출 촉진 유로화 약세에 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482337)
-#### [브라질 남동부 버스 추락 사고로 승객 6명 사망, 45명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482339)
-#### [콜롬비아 경제, 2025년 예상보다 낮은 성장률 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482335)
-#### [폴란드의 Orlen은 2026년에 우크라이나에 1bcm 이상의 가스를 판매할 계획입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482338)
-#### [스미스필드 식품, 사우스다코타주 수폴스 신규 시설에 대한 승인 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482331)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SFD.O/total>
-#### [폴로니아 금리가 0.01퍼센트 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482334)
