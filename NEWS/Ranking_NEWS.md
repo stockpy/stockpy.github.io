@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260216_1726 </title></head>
-<center>Vers : 20260216_1726 </center>
-<center>Vers : 20260217_0226 </center>
+<head><meta charset="utf-8"><title>Vers : 20260216_1843 </title></head>
+<center>Vers : 20260216_1843 </center>
+<center>Vers : 20260217_0343 </center>
 <br><br><br>
 #### ["우리 아이 '6000만원' 모으는 방법이…" 파격 혜택에 '깜짝' [돈앤톡]](https://m.stock.naver.com/news/ranknews/view/015/0005251724)
 #### [“집 샀으면 17억, 주식 했으면 40억”…내 집 대신 주식 택한 미국 Z세대](https://m.stock.naver.com/news/ranknews/view/011/0004590752)
