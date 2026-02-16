@@ -1,7 +1,26 @@
-<head><meta charset="utf-8"><title>Vers : 20260216_1923 </title></head>
-<center>Vers : 20260216_1923 </center>
-<center>Vers : 20260217_0423 </center>
+<head><meta charset="utf-8"><title>Vers : 20260216_2032 </title></head>
+<center>Vers : 20260216_2032 </center>
+<center>Vers : 20260217_0532 </center>
 <br><br><br>
+#### [젤렌스키, 제네바 평화 회담을 앞두고 러시아의 새로운 공격 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482415)
+#### [스키 점프-오스트리아, 남자 슈퍼 단체전 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482418)
+#### [SpaceX, 자율 드론 기술을 위한 국방부 경연대회에 참가한다고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482416)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [미국 판사, 국립 공원 관리청에 필라델피아 노예 전시물 재설치 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482414)
+#### [트럼프, 캘리포니아와 영국 간 에너지 협상 타결, 폴리티코 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482417)
+#### [시리우스 부동산, 7,500만 파운드의 자본 조달 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482411)
+#### [하얏트 호텔, 마크 S. 호프라지안이 회장 겸 CEO로 취임한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482413)
+#### [시리우스 부동산 자본이 1.02 파운드 미만의 ABO 주문을 통해 증가하면 위험 누락, 북 러너는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482409)
+#### [Bff 은행 그룹, 밀라노 검찰의 예비 조사에 대해 공동 인식한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482410)
+#### [파디 리소스, 그린브리어 미네랄이 7개의 탄광을 유휴화하고 530명의 직원을 해고할 계획이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482412)
+#### [루비오, 트럼프는 선거를 앞두고 오르반 총리의 성공을 위해 최선을 다하고 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482408)
+#### [프랑스 스타 이자벨 위페르, 영화 <블러드 백작부인>으로 뱀파이어 역할에 도전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482405)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482406)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482404)
+#### [올림픽-프리스타일-날씨로 인해 빅 에어 스키 여자 결승전 연기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482407)
+#### [아이스하키-스웨덴의 꿈, 준결승 패배 후 동메달에 그치다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482403)
+#### [우크라이나의 젤렌스키, 정보에 따르면 앞으로 더 많은 러시아 공격이 있을 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482402)
+#### [미국 북서부 강 유량은 93 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482401)
 #### [역사상 가장 성평등한 동계 올림픽에서 개최국 이탈리아의 여성들이 남성보다 더 좋은 성적을 거둡니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482400)
 #### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482397)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
@@ -47,21 +66,3 @@
 #### [Plus500, CEO, CFO 및 CMO가 회사 자본의 기존 보통주 150 만 주를 매각한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482357)
 #### [북러너, ABO 거래를 통한 시리우스 부동산 자본 증가가 시작되었으며 책이 열려 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482360)
 #### [테온, 4분기 매출 1억6420만 유로 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482358)
-#### [뉴런, 3상 이븐아미드 프로그램 진행을 위해 최대 3800만 유로 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482361)
-#### [북러너, 시리우스 부동산 자본이 ABO 서적 커버를 통해 증가했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482359)
-#### [올림픽-봅슬레이-자메이카 단거리 선수, '쿨 러닝' 팬 해밀턴을 위해 썰매에서 성공하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482354)
-#### [알파인 스키, 실수로 동메달을 내준 팀 동료 맥그래스에게 위로를 건 크리스토퍼슨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482356)
-#### [비캣 회계연도 EBITDA 771백만 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482352)
-#### [2월 9일 기준 넥시 지분을 6.08%에서 3.58%로 줄인 BRIEF-Eagle - 규제 신고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482353)
-#### [2월 11일 기준 Bff Bank의 지분 3.088% 보유 - 규제 신고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482355)
-#### [알파인 스키-밀라르의 대회전 우승으로 스위스 스키의 '황금기' 굳히기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482348)
-#### [지멘스 에너지 투자자들은 풍력 사업부 분사가 시기상조라고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482351)
-#### [MOL은 헝가리에 전략 석유 매장량을 공개하도록 요청했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482349)
-#### [포르투갈, 예산 균형을 맞추고 폭풍 피해로 인한 부채를 줄이기위한 노력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482347)
-#### [GTT, 강남 조선소로부터 LNG 운반선 탱크 4척 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482350)
-#### [이탈리아 아드리아 해안의 '연인의 아치'가 발렌타인 데이에 무너졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482342)
-#### [리원 필름 그룹 회계연도 잠정. EBITDA 3,110만 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482344)
-#### [캐나다, 새로운 대미 무역 협상 대표 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482346)
-#### [피드백, CFO 엠마 오스윅을 이사로 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482341)
-#### [임란 칸의 아들들은 그의 건강을 두려워하며 파키스탄에서 그를 방문하기 위해 비자를 구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482343)
-#### [미국의 석유 봉쇄 강화로 쿠바인들이 전기자동차로 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482345)
