@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260216_2138 </title></head>
-<center>Vers : 20260216_2138 </center>
-<center>Vers : 20260217_0638 </center>
+<head><meta charset="utf-8"><title>Vers : 20260216_2229 </title></head>
+<center>Vers : 20260216_2229 </center>
+<center>Vers : 20260217_0729 </center>
 <br><br><br>
+#### [스코티아은행, 반발 후 이스라엘 무기 공급업체 엘빗 지분 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482459)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ESLT.O/total>
+#### [BHP 그룹, 휘튼 귀금속과 실버 스트리밍 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482458)
+#### [거스리 가족은 애리조나 납치 용의자가 아니라고 보안관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482455)
+#### [염료 및 더럼 2분기 매출 1억 7천만 캐나다 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482456)
+#### [BHP 그룹, 휘튼 귀금속과 실버 스트리밍 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482457)
+#### [스키점프- 눈이 끝나자 점퍼들이 불만을 표출하다 슈퍼 팀 결승전 조기 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482453)
+#### [BHP 그룹, 실버 스트리밍 거래 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482454)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482452)
+#### [올림픽-컬링-하셀보르 스웨덴, 캐나다 2연승으로 완벽한 경기력 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482450)
+#### [올림픽-프리스타일-캐나다의 올덤, 여자 빅에어에서 구를 꺾고 금메달을 목에 걸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482451)
 #### [영국의 스타 머는 카니와의 통화에서 국방 지출에 대해 논의했다고 영국 정부는 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482445)
 #### [거스리 가족은 애리조나 납치 용의자가 아니라고 보안관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482447)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482449)
@@ -55,14 +66,3 @@
 #### [우크라이나의 젤렌스키, 정보에 따르면 앞으로 더 많은 러시아 공격이 있을 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482402)
 #### [미국 북서부 강 유량은 93 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482401)
 #### [역사상 가장 성평등한 동계 올림픽에서 개최국 이탈리아의 여성들이 남성보다 더 좋은 성적을 거둡니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482400)
-#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482397)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
-#### [나이지리아, 이슬람주의자 퇴치를 위해 100명의 미군 병력이 추가로 도착했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482399)
-#### [SpaceX, 자율 드론 기술을위한 국방부 경연 대회에서 경쟁, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482398)
-#### [알파인 스키-맥그래스의 고독한 숲 속 산책, 올림픽 패배의 무게를 담아내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482393)
-#### ['부드러운 자비' 오스카상 수상자 로버트 듀발, 향년 95세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482396)
-#### [인도, 이란과 연계된 미국 제재 유조선 3척 압류, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482394)
-#### [자율주행 드론 기술을 위한 국방부 경연대회에 참가하는 스페이스X - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482395)
-#### [바이애슬론-비토치, 이탈리아의 첫 올림픽 바이애슬론 금메달에도 불구하고 은퇴할 수 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482392)
-#### [크라켄, 2026년 모든 와이오밍 신생아를 위한 트럼프 계정 후원한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482386)
-#### [프리스타일-여자 빅에어 스키, 눈으로 연기된 경기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482388)
