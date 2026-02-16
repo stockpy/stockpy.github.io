@@ -2,6 +2,7 @@
 import pandas as pd
 import requests
 from io import StringIO
+import BeautifulSoup
 
 url = "http://choiyoungmin.com/NEWS/dataframe/"
 
