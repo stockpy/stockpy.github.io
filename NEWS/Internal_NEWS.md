@@ -1,7 +1,29 @@
-<head><meta charset="utf-8"><title>Vers : 20260216_1643 </title></head>
-<center>Vers : 20260216_1643 </center>
-<center>Vers : 20260217_0143 </center>
+<head><meta charset="utf-8"><title>Vers : 20260216_1726 </title></head>
+<center>Vers : 20260216_1726 </center>
+<center>Vers : 20260217_0226 </center>
 <br><br><br>
+#### [Plus500, CEO, CFO 및 CMO가 회사 자본의 기존 보통주 150 만 주를 매각한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482357)
+#### [북러너, ABO 거래를 통한 시리우스 부동산 자본 증가가 시작되었으며 책이 열려 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482360)
+#### [테온, 4분기 매출 1억6420만 유로 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482358)
+#### [뉴런, 3상 이븐아미드 프로그램 진행을 위해 최대 3800만 유로 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482361)
+#### [북러너, 시리우스 부동산 자본이 ABO 서적 커버를 통해 증가했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482359)
+#### [올림픽-봅슬레이-자메이카 단거리 선수, '쿨 러닝' 팬 해밀턴을 위해 썰매에서 성공하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482354)
+#### [알파인 스키, 실수로 동메달을 내준 팀 동료 맥그래스에게 위로를 건 크리스토퍼슨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482356)
+#### [비캣 회계연도 EBITDA 771백만 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482352)
+#### [2월 9일 기준 넥시 지분을 6.08%에서 3.58%로 줄인 BRIEF-Eagle - 규제 신고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482353)
+#### [2월 11일 기준 Bff Bank의 지분 3.088% 보유 - 규제 신고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482355)
+#### [알파인 스키-밀라르의 대회전 우승으로 스위스 스키의 '황금기' 굳히기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482348)
+#### [지멘스 에너지 투자자들은 풍력 사업부 분사가 시기상조라고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482351)
+#### [MOL은 헝가리에 전략 석유 매장량을 공개하도록 요청했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482349)
+#### [포르투갈, 예산 균형을 맞추고 폭풍 피해로 인한 부채를 줄이기위한 노력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482347)
+#### [GTT, 강남 조선소로부터 LNG 운반선 탱크 4척 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482350)
+#### [이탈리아 아드리아 해안의 '연인의 아치'가 발렌타인 데이에 무너졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482342)
+#### [리원 필름 그룹 회계연도 잠정. EBITDA 3,110만 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482344)
+#### [캐나다, 새로운 대미 무역 협상 대표 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482346)
+#### [피드백, CFO 엠마 오스윅을 이사로 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482341)
+#### [임란 칸의 아들들은 그의 건강을 두려워하며 파키스탄에서 그를 방문하기 위해 비자를 구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482343)
+#### [미국의 석유 봉쇄 강화로 쿠바인들이 전기자동차로 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482345)
+#### [금은 얇은 거래에서 달러 강세로 1% 이상 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482340)
 #### [봅슬레이-자메이카, '쿨 러닝'의 과거를 대체할 슬라이딩 성공 노려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482336)
 #### [파리 밀, 수출 촉진 유로화 약세에 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482337)
 #### [브라질 남동부 버스 추락 사고로 승객 6명 사망, 45명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482339)
@@ -45,28 +67,3 @@
 #### [편향성은 여전히 최근 엔화 매수자에게 유리하게 기울어져 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482305)
 #### [핀칸티에리, 노르웨이 크루즈 라인으로부터 신규 크루즈선 3척 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482309)
 #### [노르웨이 크루즈 라인 홀딩스, 핀칸티에리와 3척의 신규 크루즈선 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482300)
-#### [바르셀로나, 2032년까지 벨기에와 번갈아 가며 F1 일정 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482302)
-#### [콜롬비아 경제, 4 분기 연간 2.3 % 성장, 예상치 미달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482299)
-#### [휴일 거래 감소에도 꾸준한 중남미 외환, 페루 정치에 집중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482301)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
-#### [미아 테크놀로지, 트리피 모빌리티가 이스탄불에서 10년 전기 자전거 면허를 취득했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482297)
-#### [지멘스 에너지의 최고 투자자들은 풍력 사업부 분사가 아직 시기상조라고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482298)
-#### [폴란드의 1월 말 예산 적자는 37억 즐로티에 달한다고 PAP는 보고했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482296)
-#### [유나이티드항공, 신형 787 드림라이너 동력원으로 GE 에어로스페이스 GenX 엔진 선정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482288)
-#### [트랙터 공급, 이번 달에 시작되는 동물 친화적 인 축제 무리 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482294)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSCO.O/total>
-#### [야시 트레이딩 앤 파이낸스, 비쉬바짓신 제이드자 CFO 사임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482295)
-#### [IBS 2026에서 아웃도어 라이프의 미래를 선보이는 트렉스의 간략한 소개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482287)
-#### [퍼스트에너지 송전 및 자원 에너지 합작회사, 중부 오하이오의 주요 송전 프로젝트 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482293)
-#### [GBP/USD, 1.36 핸들 유지; 지방선거 뉴스 소화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482285)
-#### [브라노바 4분기 임대 수입 SEK 2억 6,810만](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482286)
-#### [메타콘, 모터오일 헬라스로부터 산소 정화 시스템 주문 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482292)
-#### [보야저 테크놀로지스, 아트모스 스페이스 카고와 전략적 파트너십 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482284)
-#### [그린파워, 나스닥의 지분 요건 준수 회복](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482290)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GP.O/total>
-#### [비드코, 스피르 전체 주식의 90.29% 인수 승인 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482291)
-#### [Aker BP, Aker 솔루션과 차세대 MMO 얼라이언스 구축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482283)
-#### [피치, 2026년 유럽 보험 M&A 가속화 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482289)
-#### [애버딘, 92억 달러 규모의 페덱스 주도 인포스트 인수에 반대 투표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482278)
-#### [넥스트 바이오메트릭스, Fap20 주문 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482282)
-#### [리우에서 열린 브라질 룰라에 대한 카니발 헌정, 정치적 반발을 불러일으키다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2482280)
