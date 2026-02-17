@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260217_1905 </title></head>
-<center>Vers : 20260217_1905 </center>
-<center>Vers : 20260218_0405 </center>
+<head><meta charset="utf-8"><title>Vers : 20260217_2038 </title></head>
+<center>Vers : 20260217_2038 </center>
+<center>Vers : 20260218_0538 </center>
 <br><br><br>
 #### ["아들, 세뱃돈 맡겨" 엄마 말 들었더니...'2배' 대박, 수익률 1위 펀드는](https://m.stock.naver.com/news/ranknews/view/008/0005319035)
 #### [식어버린 ‘트럼프 열기’…사상 최고치 4개월 만에 ‘크립토 윈터’ 오나](https://m.stock.naver.com/news/ranknews/view/028/0002791918)
