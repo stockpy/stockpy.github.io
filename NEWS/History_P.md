@@ -1,8 +1,6 @@
 <!--
 	THIS EXAMPLE WAS DOWNLOADED FROM https://echarts.apache.org/examples/en/editor.html?c=dataset-link
 -->
-<!DOCTYPE html>
-<html lang="en" style="height: 100%">
 <head>
   <meta charset="utf-8">
 </head>
