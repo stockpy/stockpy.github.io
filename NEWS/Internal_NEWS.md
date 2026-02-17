@@ -1,7 +1,30 @@
-<head><meta charset="utf-8"><title>Vers : 20260217_2038 </title></head>
-<center>Vers : 20260217_2038 </center>
-<center>Vers : 20260218_0538 </center>
+<head><meta charset="utf-8"><title>Vers : 20260217_2118 </title></head>
+<center>Vers : 20260217_2118 </center>
+<center>Vers : 20260218_0618 </center>
 <br><br><br>
+#### [로크너, 독일의 또 다른 2인승 싹쓸이를 이끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483817)
+#### [러시아와 벨라루스, 밀라노 패럴림픽 출전권 총 10장 획득, IPC 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483814)
+#### [베이스 입찰은 제한된 농가 판매로 보합에서 혼조세로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483815)
+#### [트레이더가 FFR 궤적을 평가함에 따라 BUZZ-AUD/USD가 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483816)
+#### [장전 된 산탄 총을 들고 미 의사당을 향해 달려가 체포 된 남성, 경찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483813)
+#### [트럼프, 텍사스, 오하이오, 조지아에서 에너지, 중요 광물 프로젝트 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483810)
+#### [미국산 오일 및 지방 - 2월 17일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483812)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483807)
+#### [중남미 자산 혼조세, 페루 증시는 대통령 해임 후 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483809)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
+#### [미 공군, 에어 포스 원 및 임원 항공기 함대의 새로운 도색 계획 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483811)
+#### [2월 17일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483806)
+#### [CBS 진행자 스티븐 콜베어는 네트워크가 텍사스 상원의원 후보와의 인터뷰 방영을 금지했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483808)
+#### [Fed의 Daly는 미국 중앙 은행이 여전히 인플레이션을 낮춰야한다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483805)
+#### [US 2 월 1 일 소의 사료 재고가 전년 대비 1.6 % 감소했다고 분석가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483800)
+#### [스키모-도시 소녀가 아닌: 해롭의 산악 정신이 올림픽의 꿈을 키운 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483804)
+#### [건강 라운드: Moderna 콤보 독감 / COVID 백신, 중간 단계 시험에서 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483799)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRNA.O/total>
+#### [EPA, 이번 주 백악관에 2026년 바이오 연료 혼합 할당량 보낼 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483802)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483803)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
+#### [밴스, 미국은이란과 외교적 해결책을 찾고 싶어한다 '또는 다른 옵션'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483798)
+#### [스트라이프의 브리지, 연방 공인 내셔널 트러스트 은행 설립을 위한 OCC 조건부 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483801)
 #### [튀니지, 옥수수 구매, 태국 수입업체의 밀 수요 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483796)
 #### [BUZZ-COMMENT-RBNZ는 금리를 유지하지만 지침이 NZD를 작살시킬까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483793)
 #### [대두, 옥수수 기준 입찰은 대부분 안정적으로 유지됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483790)
@@ -48,24 +71,3 @@
 #### [미국, 동결된 뉴욕 터널 자금 7,700만 달러 추가 방출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483760)
 #### [아마존, 하이브리드 클라우드 인프라 구축을 위해 AWS와 요타 데이터 서비스 협력한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483762)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [재방송-달러 상승세? USD / JPY는 여전히 박스권, AUD / USD는 입찰을 잡습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483757)
-#### [연준, 올바른 금리 결정을 위해 AI 영향에 대해 깊이 파고 들어야한다고 Daly는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483751)
-#### [오늘 하루 주목해야 할 사항 - 2월 18일 수요일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483755)
-#### [페루 의회, 제리 대통령 축출 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483752)
-#### [우크라이나 전쟁 해결에 대한 회담은 긴장된 상태였으며 계속 될 것이라고 소식통은 러시아 기관에 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483750)
-#### [은행의 '위험 이전' 붐은 면밀한 모니터링이 필요하다고 바젤위원회는 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483754)
-#### [아마존, AWS용 에이전트 플러그인 소개 -블로그](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483748)
-#### [타이거 글로벌 경영진, 마이크로소프트, 메타 및 레딧 지분 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483749)
-#### [타이거 글로벌 매니지먼트, 엔비디아, 셔윈 윌리엄스, 아마존 지분 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483747)
-#### [리투아니아 위기 관리 센터는 벨로루시에서 온 기상 풍선으로 인해 빌뉴스 공항이 폐쇄되었다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483756)
-#### [Bayer, 라운드업 암 사례 해결을 위한 72억 5천만 달러 계획 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483753)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483746)
-#### [프랑스 경찰, 극우 활동가 살해 혐의로 강경 좌파 회원 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483744)
-#### ['중국 수출이 암울 해 보인다'고 미국에서 가장 바쁜 항구의 리더가 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483742)
-#### [미국 북서부 강 유량 최대 95퍼센트 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483745)
-#### [코멘트-미국 요약: EUR/USD, 달러 강세에 따른 손실 만회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483743)
-#### [Fed의 Barr는 중앙 은행이 인플레이션 완화를 주시하면서 당분간 보류 할 가능성이 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483740)
-#### [트립어드바이저, 활동가가 이사회 통제권 및 매각을 모색함에 따라 스타보드와 협력합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483736)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TRIP.O/total>
-#### [미국 단체, 공원에서 역사, 과학 정보를 없애려는 트럼프의 노력을 막기 위해 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483737)
-#### [베네수엘라 긴장 완화에 따라 가이아나의 석유 성장 잠재력 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2483739)
