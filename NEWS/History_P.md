@@ -5,9 +5,6 @@
   <meta charset="utf-8">
 </head>
 <body>
-  <div id="container" style="height: 100%"></div>
-
-  
   <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
   
   <!-- Uncomment this line if you want to dataTool extension
@@ -59,7 +56,7 @@
     },
     xAxis: { type: 'category' },
     yAxis: { gridIndex: 0 },
-    grid: { top: '55%' },
+    grid: { top: '100%' },
     series: [
       {
         type: 'line',
