@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260217_2231 </title></head>
-<center>Vers : 20260217_2231 </center>
-<center>Vers : 20260218_0731 </center>
+<head><meta charset="utf-8"><title>Vers : 20260217_2300 </title></head>
+<center>Vers : 20260217_2300 </center>
+<center>Vers : 20260218_0800 </center>
 <br><br><br>
 #### [“비트코인 장기보유자 4년전 루나사태 수준 압박”…손절매 나섰다](https://m.stock.naver.com/news/ranknews/view/018/0006220126)
 #### [식어버린 ‘트럼프 열기’…사상 최고치 4개월 만에 ‘크립토 윈터’ 오나](https://m.stock.naver.com/news/ranknews/view/028/0002791918)
