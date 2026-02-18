@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260218_1856 </title></head>
-<center>Vers : 20260218_1856 </center>
-<center>Vers : 20260219_0356 </center>
+<head><meta charset="utf-8"><title>Vers : 20260218_1950 </title></head>
+<center>Vers : 20260218_1950 </center>
+<center>Vers : 20260219_0450 </center>
 <br><br><br>
 #### ["1000만원이 5.4억 됐다"…5년간 안 팔았더니 대박 난 주식들](https://m.stock.naver.com/news/ranknews/view/008/0005319164)
 #### ["예금 버리고 갈아탔어요" 연초부터 완판…'뭉칫돈' 몰리는 곳](https://m.stock.naver.com/news/ranknews/view/015/0005252003)
