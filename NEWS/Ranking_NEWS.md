@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260219_2232 </title></head>
-<center>Vers : 20260219_2232 </center>
-<center>Vers : 20260220_0732 </center>
+<head><meta charset="utf-8"><title>Vers : 20260219_2302 </title></head>
+<center>Vers : 20260219_2302 </center>
+<center>Vers : 20260220_0802 </center>
 <br><br><br>
 #### [[속보]미·이란 긴장 고조에 뉴욕증시 흔들…사모신용 불안까지 겹쳐](https://m.stock.naver.com/news/ranknews/view/018/0006221146)
 #### [美-이란 긴장 고조에 뉴욕증시, 일제히 하락 마감](https://m.stock.naver.com/news/ranknews/view/215/0001242332)
