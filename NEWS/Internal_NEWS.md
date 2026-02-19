@@ -1,7 +1,37 @@
-<head><meta charset="utf-8"><title>Vers : 20260219_2034 </title></head>
-<center>Vers : 20260219_2034 </center>
-<center>Vers : 20260220_0534 </center>
+<head><meta charset="utf-8"><title>Vers : 20260219_2101 </title></head>
+<center>Vers : 20260219_2101 </center>
+<center>Vers : 20260220_0601 </center>
 <br><br><br>
+#### [우크라이나의 자 포리 지아 원자력 발전소, 유일하게 남아있는 주 전력선으로 가동, IAEA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487194)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487197)
+#### [텍사스주 엑손모빌 보몬트 단지, 유지보수 활동 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487193)
+#### [엡스타인 고발자의 동생은 앤드류 전 왕자의 체포가 '카드의 집'이 무너지는 신호가되기를 희망합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487196)
+#### [Shell, 베네수엘라에서 미국의 일반 탐사 면허로 드래곤 가스 프로젝트를 진행할 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487192)
+#### [디지털 매출 증가에 따른 소비자 분열을 보여주는 월마트의 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487198)
+#### [남미 외환 하락, 투자자들이 미-이란 긴장에 무게를 두면서 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487195)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
+#### [미국 최고 항공사 로비스트는 신용 카드 이자율을 10%로 제한하면 업계에 해를 끼칠 수 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487191)
+#### [독점- 마라케시의 궁전: 슈왑이 체포되기 며칠 전 엡스타인에게 2,770만 달러를 지불한 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487199)
+#### [마이크로소프트, 마이크로소프트 코파일럿 스튜디오에서 xAI Grok 4.1을 빠르게 사용할 수 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487190)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
+#### [프리스타일-중국의 구, 하프파이프 결승 진출로 순항하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487185)
+#### [BofA, 민간 신용 거래에 250 억 달러 투입, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487187)
+#### [2월 19일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487189)
+#### [오후 03:30(동부 표준시) 기준 S&P 500 상위 및 하위 실적 종목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487184)
+#### [비밀 터널 발견으로 멕시코 당국, 암시장 연료 거래에 일격을 가하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487186)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487188)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
+#### [캐나다, 2028년 만기 60억 캐나다 달러 채권 경매에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487183)
+#### [켄터키 퍼스트 페더럴 뱅코프, 켄터키 퍼스트 페더럴 저축은행과 OCC 간의 계약 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487182)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KFFB.O/total>
+#### [요르단, 보리를 찾고 브라질은 중국에 수수 선적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487177)
+#### [트럼프 행정부, 혼합 이민 가정에 대한 주택 지원 중단 움직임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487180)
+#### [블룸버그 뉴스, BofA가 민간 신용 거래에 250억 달러를 투입한다고 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487175)
+#### [숏 커버링에 CBOT 밀기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487176)
+#### [펀드, 밀, 대두, 대두유 선물 순매수자, 트레이더들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487179)
+#### [BofA, 민간 신용 거래에 250 억 달러의 자체 현금을 투입 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487174)
+#### [목요일에 오프라인 상태의 미국 원자력 발전 용량이 6,970 개로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487181)
+#### [미국 원자력 발전 용량이 목요일에 6,970 개로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487178)
 #### ['파라다이스'가 더 큰 판돈과 새로운 얼굴로 돌아옵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487173)
 #### [미국 국채 수익률은 트레이더들이 연준 정책을 예상하면서 혼조세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487171)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487170)
@@ -29,7 +59,7 @@
 #### [재생-달러 강세 지속, 스털링 하락, 이더리움 상승세 유지 노력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487148)
 #### [존슨 앤 존슨, 200억 달러 규모의 정형외과 사업부 매각 검토, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487141)
 #### [월그린스, 사모펀드 인수 후 인력 감축, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487151)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
 #### [새로운 소식이 없는 CBOT 옥수수 고르기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487145)
 #### [엔비디아 하락과 사모펀드 주가 하락으로 월스트리트 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487140)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CG.O/total>
@@ -41,35 +71,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
 #### [스트리트뷰: 브로커가 PT를 해제함에 따라 CEO 휴직, 공개 조사로 HF Sinclair 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487143)
 #### [영국의 전 앤드류 왕자, 영국 경찰서를 떠나다 - 로이터 증인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487146)
-#### [Instone 부동산 그룹 SE, 이사회가 주당 0.43 유로의 배당금 제안을 계획하고 있다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487137)
-#### [우랄 유가 변동 없음, 러시아 항구 가격 EU 가격 상한선 초과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487139)
-#### [옥수수 및 대두 기준 입찰은 대체로 보합세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487138)
-#### [아르헨티나, 1월에 20억 달러에 가까운 무역 흑자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487136)
-#### [AMD, 3억 달러 규모의 크루소 대출을 백스톱하는 정보 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487135)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMD.O/total>
-#### [UBS, 통신 서비스 다운그레이드, 산업 서비스 업그레이드](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487119)
-#### [미술위원회, 4 억 달러 규모의 볼룸 프로젝트 승인, 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487134)
-#### [Southern Co, 자사 시스템이 1월 겨울 폭풍 고사리 기간 동안 39,000MW 이상의 두 번째로 높은 겨울철 최대 전력 부하를 제공했다고 발표 - Conf Call](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487128)
-#### [우연한 사고로 2025 년 대비 미국 내 지출이 4 억 달러 감소 할 것으로 예상 - Conf Call](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487125)
-#### [벨로루시, 평화의 이사회에 드물게 초대장 발급, 비자를받지 못했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487133)
-#### [Apple TV, 에버패스 미디어와 제휴하여 바, 호텔에 스포츠 라인업 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487127)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
-#### [IMF, 다음 주 새로운 미국 경제 정책 처방 발표 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487124)
-#### [찰스 왕세자, 동생 체포 후 몇 시간 만에 패션쇼 참석](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487132)
-#### [찰스 왕세자, 동생 체포 후 몇 시간 만에 패션쇼 참석](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487126)
-#### [이스라엘 정착민, 서안 지구에서 팔레스타인 계 미국인 십대 살해, 현지 보건부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487123)
-#### [분기 매출이 예상치를 상회하면서 버즈인스메드가 상승세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487131)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INSM.O/total>
-#### [Chip 스타트업 Taalas, 1억 6,900만 달러 모금하여 엔비디아에 맞서기 위한 AI 칩 개발 지원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487121)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [소 112,000마리, 돼지 491,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487130)
-#### [사하라 사막의 오디세이에서 공룡을 발견하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487122)
-#### [니제르에서 발굴 된 새로운 종의 거대한 공룡 스피노 사우루스 화석](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487120)
-#### [호철 뉴욕 주지사, 로보택시 확대 제안 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487129)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [소니, 비디오 게임 스튜디오 블루포인트 폐쇄 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487118)
-#### [브라질 법원, 산타렘 항구 터미널 접근 자유화 명령 복원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487117)
-#### [컬링-컬링 선수들, 폭설 후 경기장까지 걸어서 이동하며 교통 체증에 시달리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487114)
-#### [미국 정부를 상대로 관세 환급 소송을 제기한 글로벌 기업들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487115)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GPRO.O/total>
-#### [미국 CDC, 백신 자문위원 2월 회의 연기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2487116)
