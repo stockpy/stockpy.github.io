@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260219_1852 </title></head>
-<center>Vers : 20260219_1852 </center>
-<center>Vers : 20260220_0352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260219_1934 </title></head>
+<center>Vers : 20260219_1934 </center>
+<center>Vers : 20260220_0434 </center>
 <br><br><br>
 #### [2배 베팅했더니 "1억이 2.1억 됐다"…5조 뭉칫돈 몰린 반도체 ETF](https://m.stock.naver.com/news/ranknews/view/008/0005319672)
 #### [“반도체株 다음은 저희가 끌어야죠”…23일까지 들고만있어도 깜짝선물](https://m.stock.naver.com/news/ranknews/view/009/0005639137)
