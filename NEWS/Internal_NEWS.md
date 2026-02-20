@@ -1,7 +1,44 @@
-<head><meta charset="utf-8"><title>Vers : 20260220_2256 </title></head>
-<center>Vers : 20260220_2256 </center>
-<center>Vers : 20260221_0756 </center>
+<head><meta charset="utf-8"><title>Vers : 20260220_2331 </title></head>
+<center>Vers : 20260220_2331 </center>
+<center>Vers : 20260221_0831 </center>
 <br><br><br>
+#### [올림픽-아이스하키-미국, 슬로바키아 꺾고 캐나다와 결승전 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488906)
+#### [제트 블루는 텍사스에서 1 억 달러의 아메리칸 항공 소송에 직면해야한다, 판사 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488903)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
+#### [피치, 영국 신용등급 'AA-'에 '안정적' 전망 부여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488904)
+#### [에스토니아 '다크호스' 실다루, 하프파이프 은메달로 깜짝 놀라게 하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488905)
+#### [대법원 관세 판결로 1년간의 격변 이후 연준의 금리 경로에 먹구름이 끼었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488896)
+#### [미국 FDA, 반다의 정신과 약물 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488902)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNDA.O/total>
+#### [블랙반, VR 글로벌 파트너, 브라질 아줄의 지분 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488897)
+#### [트럼프 관세 역전은 미국 에너지 기업의 비용을 절감 할 수 있지만 더 광범위한 흐름은 그대로 둘 가능성이 높습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488895)
+#### [멕시코, 코카인이 실린 잠수함 나포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488901)
+#### [MAHA 활동가들은 트럼프가 글 리포 세이트 명령으로 지지를 잃을 수 있다고 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488899)
+#### [포사이트, ADS 비율 변경 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488894)
+#### [남부 캘리포니아 에디슨, 웰스 파고와 기간 대출 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488900)
+#### [OpenAI, 2030년까지 1,120억 달러의 추가 현금 소진 예측 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488898)
+#### [브라스켐 이데사는 2032년 노트와 관련하여 2월 20일에 설정된 이자를 지급하지 않습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488890)
+#### [해즈브로, 4차 수정 리볼빙 신용 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488884)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HAS.O/total>
+#### [캔델 테라퓨틱스, 보통주 1,830만 주 공모 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488886)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CADL.O/total>
+#### [OpenAI, 2030년까지 약 6,000억 달러의 컴퓨팅 지출 전망, CNBC 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488889)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
+#### [일렉트라, 시장 출시 제품 규모 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488883)
+#### [RLI Corp 파일, 규모 미공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488885)
+#### [카니발, 통합 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488888)
+#### [최대 1억 5천만 달러의 혼합 선반에 대한 간략한-HBT 재무 파일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488882)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HBT.O/total>
+#### [올림픽 아이스하키, 미국 슬로바키아 꺾고 캐나다와 결승전 진출 확정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488893)
+#### [웨이스 마켓, 2022~2025년 재무 제표를 신뢰할 수 없다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488887)
+#### [무디스, 아마존의 신용등급 전망을 '안정적'으로 변경하고 A1 선순위 무담보 등급을 확인하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488881)
+#### [주른 엘케이 워터 솔루션즈, 2월 19일 수정 및 재작성된 선취특권 신용 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488892)
+#### [주당 19 센트의 수익을 올릴 것으로 예상되는 Vuela Compania de Aviacion SAB de CV <VLRS.N> 제어기 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488879)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VLRS.K/total>
+#### [주당 1.60 달러의 수익을 올릴 것으로 예상되는 그룹 에어로포르투아리오 델 센트로 노르테 SAB 데 CV <OMAB.OQ> - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488880)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OMAB.O/total>
+#### [가벨리 멀티미디어 트러스트, 판매 계약 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488891)
+#### [브라질 테크파, 리가의 광섬유 인터넷 서비스 자산을 4억9500만 헤알에 인수하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488878)
 #### [OpenAI는 2030년까지 약 6,000억 달러의 컴퓨팅 지출을 예상한다고 CNBC는 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488873)
 #### [아마존, 지난해 12월 단일 서비스에 영향을 미친 극히 제한적인 이벤트에 따른 장애였다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488867)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
@@ -41,36 +78,3 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488845)
 #### [브라질 아줄 항공사, 챕터 11 파산 절차 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488849)
 #### [30년 만에 은퇴하는 이리 보험의 네카스트로 CEO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488850)
-#### [OpenAI, 2030년까지 총 컴퓨팅 지출이 6,000억 달러에 육박할 것으로 전망 - CNBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488844)
-#### [트럼프 봉쇄를 시험하기 위해 러시아 연료를 실은 쿠바행 유조선 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488848)
-#### [미국 경제는 2026년에 최소 3.5% 성장할 수 있다고 베센트는 폭스 뉴스에 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488842)
-#### [브라질의 아줄 항공사, 챕터 11 파산 절차 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488847)
-#### ['나는 부끄럽다': 트럼프, 관세 판결 후 대법관 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488841)
-#### [투자자들이 미국 관세 판결에 환호하면서 캐나다 증시-TSX, 주간 상승세 추가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488843)
-#### [2월 20일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488840)
-#### [캐나다 교통부는 Gulfstream G500 및 G600 제트기를 인증했다고 문서에 나와 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488837)
-#### [US 주식: Ricochet](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488839)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [미국 현금 원유 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488838)
-#### [전자 상거래 서비스 제공업체 iPower의 2분기 매출, 미국 기반 소싱으로 전환한 후 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488835)
-#### [주당 5.10 달러의 수익을 올릴 것으로 예상되는 그룹 에어로포르투아리오 델 수레스테 SAB 데 CV <ASR.N> - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488836)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ASR/total>
-#### [트럼프 관세로 대두가 타격을 받으면서 ICE 카놀라 선물이 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488834)
-#### [AM Best, RLI의 FSR을 A-플러스-플러스로 업그레이드](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488825)
-#### [트럼프 관세에 대한 대법원 판결로 월가 지수 상승 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488827)
-#### [샤키라가 3월 멕시코시티에서 무료 콘서트를 개최합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488822)
-#### [멕시코의 반독점 기관, Visa의 프로사 인수를 막다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488824)
-#### [미국 관리, 엘파소 공항 폐쇄는 실수가 아니었다며 의회 브리핑 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488833)
-#### [Alcon AG <ALCC.S>, 주당 78 센트의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488826)
-#### [북미, 2월 23일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488821)
-#### [선물이 강세를 보임에 따라 미국 평야 HRW 밀-기초 입찰은 변동이 없습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488832)
-#### [아메리칸 인테그리티 인슈어런스 그룹 <AII.N>, 주당 80센트의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488830)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AII/total>
-#### [미국 경제는 2026년에 최소 3.5% 성장할 수 있다고 베센트는 폭스 뉴스에 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488823)
-#### [마이다스 자동차 수리 소유주 마비스 타이어, IPO를 위해 은행을 선택한다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488831)
-#### [22세기 잠정?4분기 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488829)
-#### [대법원이 관세 판결로 트럼프의 영향력을 제거했다고 베센트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488816)
-#### [펀드는 밀, 대두 및 옥수수 선물의 순매수자라고 트레이더들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488819)
-#### ['그들은 우리에게 돈을 빚지고 있습니다.'라고 트럼프 관세 소송의 주요 원고는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488828)
-#### [미국 증시 상승 마감, 대법원 트럼프 관세 철회 후 국채 수익률 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488815)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
