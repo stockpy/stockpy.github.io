@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260220_2033 </title></head>
-<center>Vers : 20260220_2033 </center>
-<center>Vers : 20260221_0533 </center>
+<head><meta charset="utf-8"><title>Vers : 20260220_2057 </title></head>
+<center>Vers : 20260220_2057 </center>
+<center>Vers : 20260221_0557 </center>
 <br><br><br>
 #### [“여보, 우리 이제 그만할까”…역대급 주식 열풍에 ‘안절부절’ 직장인들 왜?](https://m.stock.naver.com/news/ranknews/view/009/0005639400)
 #### [심상찮은 전운에…한국도 미국도 대장주 '화력'](https://m.stock.naver.com/news/ranknews/view/215/0001242467)

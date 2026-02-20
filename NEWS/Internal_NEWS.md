@@ -1,7 +1,26 @@
-<head><meta charset="utf-8"><title>Vers : 20260220_2033 </title></head>
-<center>Vers : 20260220_2033 </center>
-<center>Vers : 20260221_0533 </center>
+<head><meta charset="utf-8"><title>Vers : 20260220_2057 </title></head>
+<center>Vers : 20260220_2057 </center>
+<center>Vers : 20260221_0557 </center>
 <br><br><br>
+#### [채닝 테이텀, 베를린 영화제 드라마 '조세핀'에서 실제 육아를 그리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488783)
+#### [2월 20일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488776)
+#### [독일과 미국의 라이벌전, 2인승에서 빙판을 뜨겁게 달구다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488782)
+#### [미국 대법원이 트럼프의 관세를 거부했으니 이제 기업들은 어떻게 환불을 받을 수 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488779)
+#### [알버타주, 캐나다 정부로부터 이민 통제권을 되찾기 위한 국민투표 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488775)
+#### [레바논 동부에 대한 이스라엘의 공습으로 최소 6명 사망, 25명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488781)
+#### [올림픽 컬링, 스위스가 노르웨이를 제압하고 남자 동메달을 획득했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488778)
+#### [캐나다 달러는 투자자들이 미국 관세 판결에 무게를 두면서 주간 하락세를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488777)
+#### [투기꾼들이 옥수수 순매도 포지션 정리 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488780)
+#### [투기꾼들이 미국 원유 순매수를 줄였습니다-CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488770)
+#### [펀드 매니저들이 최근 한 주 동안 S&P 500 선물 순매수 포지션을 늘렸습니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488773)
+#### [미국 대법원 관세 판결은 브라질에 정말 중요했다고 알크민 부사장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488767)
+#### [미국산 오일 및 지방 - 2월 20일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488769)
+#### [버크셔 소유의 PacifiCorp, 산불로 인한 피해에 대한 청구를 해결한다고 법무부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488772)
+#### [대법원이 글로벌 관세를 뒤집은 후 분노한 트럼프, 새로운 10 % 부과를 맹세하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488766)
+#### [분석-미국 대법원 판결로 글로벌 경제에 숨통이 트일까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488771)
+#### [미 국무부, 프랑스 활동가 살해 사건에 테러 우려 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488765)
+#### [트럼프의 글로벌 관세에 대한 미국 대법원 판결에 대한 업계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488774)
+#### [트럼프의 관세에 대한 대법원 판결 이후 외환-달러 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488768)
 #### [블룸버그 뉴스에 따르면 AppLovin과 관련된 SEC 조사는 여전히 진행 중입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488764)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/APP.O/total>
 #### [붕괴된 SVB를 인수한 미디어 퍼스트 시티즌, 또 다른 목표에 무게를 두다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488763)
@@ -49,24 +68,3 @@
 #### [트럼프, 일부 무역 관세는 견딜 수 없다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488722)
 #### [사바 캐피털 매니지먼트, 2026년 2월 17일 블루 아울 캐피털 코퍼레이션 II에 통지서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488721)
 #### [소 89,000마리, 돼지 460,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488726)
-#### [JP 모건, 1 조 5 천억 달러 규모의 보안 이니셔티브 추진을 위해 CHIPS, 국방 관리들을 두드리다, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488719)
-#### [트럼프, 이란은 공정한 협상을 해야 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488720)
-#### [디지털 가치 스파, 구매자가 디지털 가치 인수를 위한 승인을 획득했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488725)
-#### [트럼프, 연준 의장 지명 언급, 금리가 크게 내려야한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488718)
-#### [개들의 날에 나즈굴 게이트크래쉬 경주 후 패닉에 빠진 소유주들 이야기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488723)
-#### [강우량으로 아르헨티나의 대두 생산성 하락 방지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488724)
-#### [트럼프, 베트남 지도자가 더 많은 미국 관세가 뒤따를 수 있다고 말했다?법원 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488717)
-#### [독일 정부, 대법원 판결 후 다음 단계에 대해 백악관과 접촉](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488715)
-#### [알바니아에서 이식 의혹으로 경찰과 시위대 간 충돌 촉발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488712)
-#### [독점- 마라케시의 궁전: 슈왑이 체포되기 며칠 전 엡스타인에게 2,770만 달러를 지불한 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488707)
-#### [바이애슬론-트리오가 올림픽 레이스에서 최하위가 아닌 유일무이한 명예를 놓고 경쟁을 펼칩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488714)
-#### [다음 주 Nvidia 실적에 주목하세요](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488711)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [트럼프, 관세 환급은 소송에 수년이 걸릴 수 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488709)
-#### [미국 의회 선거구 재획정을 둘러싼 전쟁이 주별로 어떻게 진행되고 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488713)
-#### [트럼프, 미 대법원이 취소한 관세를 대체하기 위해 10%의 임시 글로벌 관세 부과 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488710)
-#### [트럼프가 파업을 고려하면서 미국 의원들은이란 전쟁 권한 투표를 계획합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488708)
-#### [뉴욕 연준, 스탠딩 레포 운용 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488716)
-#### [미국 주식의 움직임-주택 건설업체, 태양광 주식, 알파벳](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488699)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FNKO.O/total>
-#### [올림픽-아이스하키-캐나다, 핀란드 꺾고 남자 금메달 결정전 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488703)
