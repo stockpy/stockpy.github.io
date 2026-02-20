@@ -1,7 +1,36 @@
-<head><meta charset="utf-8"><title>Vers : 20260220_2227 </title></head>
-<center>Vers : 20260220_2227 </center>
-<center>Vers : 20260221_0727 </center>
+<head><meta charset="utf-8"><title>Vers : 20260220_2256 </title></head>
+<center>Vers : 20260220_2256 </center>
+<center>Vers : 20260221_0756 </center>
 <br><br><br>
+#### [OpenAI는 2030년까지 약 6,000억 달러의 컴퓨팅 지출을 예상한다고 CNBC는 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488873)
+#### [아마존, 지난해 12월 단일 서비스에 영향을 미친 극히 제한적인 이벤트에 따른 장애였다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488867)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [미들랜드, MEH는 높은 운임이 수출 수요에 타격을 주면서 약세를 유지합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488869)
+#### [하이드로팜, 2021년 3월 29일자로 신용 계약 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488872)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HYFM.O/total>
+#### [혼합형 선반 오퍼링에 대한 요약-보야 재무 파일, 크기 미공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488866)
+#### [사친스 프로퍼티, 유닛이 2033년 만기 선순위 채권 5억 달러 발행한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488868)
+#### [코헨 앤 코, 노스랜드와 지분 분배 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488871)
+#### [OpenAI, 작년 131억 달러 매출 달성 후 2030년 약 2,800억 달러 매출 목표 - CNBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488865)
+#### [스카이 바이오사이언스, 케이틀린 아르세노가 2월 20일부로 CFO에서 물러난다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488861)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SKYE.O/total>
+#### [피치, CSN의 신용등급을 'BB-'에서 'B'로 하향 조정하고 등급전망 부정적 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488877)
+#### [콜리어스, 22억5000만달러 신용 시설의 만기 연장 및 유연성 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488864)
+#### [이그젝트 사이언스 주주, 애보트의 인수 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488860)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EXAS.O/total>
+#### [골드만삭스, 브라질 브라바 지분 4.91% 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488876)
+#### [오타와 뱅코프, Inc. 스틸웰 그룹과 거래 정지 계약 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488863)
+#### [스틸 다이나믹스, 2026년 1분기 6% 현금 배당금 인상 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488859)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/STLD.O/total>
+#### [브라질 중앙은행, 4월 만기 스왑 롤오버 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488875)
+#### [미국 곡물 바지선 운임 값은? 2월 20일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488862)
+#### [러시아 남부 우드 무르 티아 주지사는 우크라이나 드론이 현장을 손상 시켰다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488870)
+#### [분석-미국과 이란, 군사력 증강이 회담을 덮으면서 갈등으로 치닫다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488874)
+#### [Microsoft 게임 책임자 필 스펜서 은퇴, 내부자 아샤 샤르마가 이어받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488856)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [화학 제조업체 Trin서, 대출 기관 회담에서 파산 가능성 검토 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488857)
+#### [크루즈 운영사 카니발, 이중 상장을 통합하는 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488858)
+#### [미국 원자력 발전 용량이 금요일에 5,766MW로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488855)
 #### [집단 소송 제기 관련 소환장과 함께 제공되는 라마코 리소스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488854)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/METC.O/total>
 #### [마켓 토크 관세 판결로 가격 하락을 기대하지 말자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488852)
@@ -45,31 +74,3 @@
 #### ['그들은 우리에게 돈을 빚지고 있습니다.'라고 트럼프 관세 소송의 주요 원고는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488828)
 #### [미국 증시 상승 마감, 대법원 트럼프 관세 철회 후 국채 수익률 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488815)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
-#### [올림픽-프리스타일-미국 헤스, 트럼프의 '루저' 딱지를 동기부여로 삼다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488818)
-#### [CME 소는 기술적 거래에서 하락세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488820)
-#### [트럼프 관세에 대한 대법원 판결 이후 미국 증시-월스트리트 상승 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488814)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [대법원이 관세 판결로 트럼프의 영향력을 제거했다고 베센트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488817)
-#### [우크라이나 에너지 장관, 러시아의 새로운 파업 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488809)
-#### [미국 대법원 관세 판결로 브라질의 경쟁력 회복, 알크민 부사장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488813)
-#### [아미쿠스 4분기 매출, 예상치를 상회하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488810)
-#### [캐나다 교통부, Gulfstream G500 및 G600 제트기 인증, 문서에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488808)
-#### [연준의 무살렘: 관세 판결은 불확실성을 의미할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488812)
-#### [올림픽-쇼트트랙-네덜란드, 남자 5,000미터 계주 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488806)
-#### [숏 커버링으로 6월 이후 최고치를 기록한 CBOT 밀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488807)
-#### [대두, 대법원 관세 철폐 후 하락세를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488811)
-#### [주당 37센트의 수익을 올릴 것으로 예상되는 Compania Cervecerias Unidas SA <CCU.N> - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488795)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CCU/total>
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488805)
-#### [아미커스 테라퓨틱스 4분기 매출 1억 8,520만 달러 대 IBES 추정치 1억 8,070만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488799)
-#### [토론토 증권 거래소, 비공식적으로 문을 닫다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488794)
-#### [트럼프 관세에 대한 대법원 판결 이후 미국 증시-월스트리트 상승 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488804)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [쇼트트랙-네덜란드, 남자 5,000미터 계주 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488798)
-#### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488793)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FNKO.O/total>
-#### [CBOT 옥수수가 고르지 못한 거래 후 상승세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488803)
-#### [USDA, 농가 경제의 어려움 속에서도 120억 달러의 보조금 방어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488797)
-#### [Cloudflare가 추락하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488801)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
-#### [버크셔 소유의 PacifiCorp, 미국 정부의 산불 배상금 5억 7,500만 달러 지불](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488802)

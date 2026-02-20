@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260220_2227 </title></head>
-<center>Vers : 20260220_2227 </center>
-<center>Vers : 20260221_0727 </center>
+<head><meta charset="utf-8"><title>Vers : 20260220_2256 </title></head>
+<center>Vers : 20260220_2256 </center>
+<center>Vers : 20260221_0756 </center>
 <br><br><br>
 #### [[속보]美대법원, 트럼프 비상관세 제동…뉴욕증시 일제히 상승·국채금리↑](https://m.stock.naver.com/news/ranknews/view/018/0006221811)
 #### [“여보, 우리 이제 그만할까”…역대급 주식 열풍에 ‘안절부절’ 직장인들 왜?](https://m.stock.naver.com/news/ranknews/view/009/0005639400)
