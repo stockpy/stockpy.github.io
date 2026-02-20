@@ -1,7 +1,42 @@
-<head><meta charset="utf-8"><title>Vers : 20260220_2057 </title></head>
-<center>Vers : 20260220_2057 </center>
-<center>Vers : 20260221_0557 </center>
+<head><meta charset="utf-8"><title>Vers : 20260220_2131 </title></head>
+<center>Vers : 20260220_2131 </center>
+<center>Vers : 20260221_0631 </center>
 <br><br><br>
+#### [우크라이나 에너지 장관, 러시아의 새로운 파업 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488809)
+#### [미국 대법원 관세 판결로 브라질의 경쟁력 회복, 알크민 부사장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488813)
+#### [아미쿠스 4분기 매출, 예상치를 상회하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488810)
+#### [캐나다 교통부, Gulfstream G500 및 G600 제트기 인증, 문서에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488808)
+#### [연준의 무살렘: 관세 판결은 불확실성을 의미할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488812)
+#### [올림픽-쇼트트랙-네덜란드, 남자 5,000미터 계주 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488806)
+#### [숏 커버링으로 6월 이후 최고치를 기록한 CBOT 밀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488807)
+#### [대두, 대법원 관세 철폐 후 하락세를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488811)
+#### [주당 37센트의 수익을 올릴 것으로 예상되는 Compania Cervecerias Unidas SA <CCU.N> - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488795)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CCU/total>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488805)
+#### [아미커스 테라퓨틱스 4분기 매출 1억 8,520만 달러 대 IBES 추정치 1억 8,070만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488799)
+#### [토론토 증권 거래소, 비공식적으로 문을 닫다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488794)
+#### [트럼프 관세에 대한 대법원 판결 이후 미국 증시-월스트리트 상승 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488804)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [쇼트트랙-네덜란드, 남자 5,000미터 계주 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488798)
+#### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488793)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FNKO.O/total>
+#### [CBOT 옥수수가 고르지 못한 거래 후 상승세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488803)
+#### [USDA, 농가 경제의 어려움 속에서도 120억 달러의 보조금 방어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488797)
+#### [Cloudflare가 추락하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488801)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
+#### [버크셔 소유의 PacifiCorp, 미국 정부의 산불 배상금 5억 7,500만 달러 지불](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488802)
+#### [독일 AI 로봇 회사, 미국 성장을 위해 1억 달러 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488796)
+#### [미국 대법원이 트럼프의 관세를 철회한 후 라틴아메리카 외환이 상승세를 보이고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488800)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
+#### [대법원 관세 결정 후 CBOT 대두 가격 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488792)
+#### [마이크로소프트, Microsoft 게임 부문 부사장 겸 CEO로 Asha Sharma 임명 - 블로그](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488788)
+#### [올림픽 봅슬레이-독일과 미국의 라이벌전, 2인승에서 빙판을 뜨겁게 달구다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488791)
+#### [올림픽 컬링-스위스, 노르웨이를 꺾고 남자 동메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488785)
+#### [올림픽-프리스타일-미국 페레이라, 하프파이프 금메달로 메달 수집 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488787)
+#### [관세 판결 후 달러화 후퇴, 스털링 안정, AUD / USD 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488790)
+#### [IMM: 대규모 엔, 호주, 캐나다 매수세로 USD 숏 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488784)
+#### [대법원이 트럼프 관세를 철회함에 따라 재무부-미국 수익률이 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488786)
+#### [LME, EU 창고 내 러시아 알루미늄 보증에 대한 업데이트 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488789)
 #### [채닝 테이텀, 베를린 영화제 드라마 '조세핀'에서 실제 육아를 그리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488783)
 #### [2월 20일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488776)
 #### [독일과 미국의 라이벌전, 2인승에서 빙판을 뜨겁게 달구다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488782)
@@ -34,37 +69,3 @@
 #### [미국 관리, 엘파소 공항 폐쇄는 실수가 아니었다며 의회에 브리핑 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488756)
 #### [트럼프, 관세 환급은 소송에 수년이 걸릴 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488758)
 #### [트럼프, 관세 환급은 소송에 수년이 걸릴 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488752)
-#### [금, 미국 소프트 데이터, 트럼프의 새로운 관세 움직임으로 1 % 이상 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488754)
-#### [미국, 모든 트럭 운전 시험 영어로 진행하도록 의무화, 사기 학원 단속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488751)
-#### [로레알, 사노피 CEO 축출과 후임자 선정에 핵심 역할 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488750)
-#### [월스트리트 주간을 앞두고- 엔비디아, 소프트웨어 보고서가 AI에 민감한 주식 시장에 대한 다음 테스트를 제기합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488753)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [레바논 동부에 대한 이스라엘의 공격으로 최소 6 명 사망, 21 명 부상, 보안 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488749)
-#### [트럼프, 대법원 관세 판결에 '매우 실망'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488741)
-#### [트럼프, 대법원 관세 판결에 '매우 실망'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488743)
-#### [올림픽- 아이스하키- 부상당한 크로스비의 금메달 출전 여부는 아직 말하기 이르다고 캐나다 코치는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488748)
-#### [트럼프 관세에 대한 대법원 판결 이후 미국 증시-월스트리트 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488740)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [다음 주와 2월 23일 월요일에 주목해야 할 사항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488746)
-#### [미국 요약: 대법원 관세 판결 이후 달러 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488747)
-#### [블루 올빼미 캐피탈, 투자심리 약화로 한 주를 적자로 마감할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488739)
-#### [캐나다는 11 월에 천연 가스의 사상 최대 생산량을 기록했다고 CER은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488745)
-#### [파라마운트가 워너 브라더스의 저항을 무너뜨리고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488742)
-#### [Fed의 로건, 인플레이션 완화 전망, 금리 정책이 위험에 '잘 배치'되어 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488738)
-#### [아이스하키-남자 준결승에서 캐나다에 덜미를 잡힌 핀란드, 허탈감만 남겼습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488744)
-#### [코노코필립스, 20억 달러 상당의 퍼미안 자산 매각 고려, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488737)
-#### [미국 법원, 근이영양증 치료제에 대한 리젠스바이오 특허 소송 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488735)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SRPT.O/total>
-#### [재무부는 대체 기관을 사용할 경우 2026년 관세 수입이 '사실상 변동이 없을 것'으로 추정합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488734)
-#### [미국 설탕 업계, 새로운 식이 지침 규제로 인한 영향 평가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488736)
-#### [분석가들은 대법원 판결 이후 중국이 미국산 대두를 구매할 가능성이 적다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488730)
-#### [대두, 대법원 관세 철폐 후 하락세를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488728)
-#### [컬링-스웨덴의 하셀보르그, 승리의 기분으로 깨어나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488732)
-#### [코노코필립스, 20억 달러 상당의 퍼미안 자산 매각 고려, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488729)
-#### [코노코필립스, 20억 달러 상당의 페름기 자산 매각 고려 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488727)
-#### [주당 45 센타보의 수익을 올릴 것으로 예상되는 Gerdau SA <GGB.N> - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488731)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GGB/total>
-#### [미국 증권거래위원회, Applovin 관련 조사가 '여전히 활발하고 진행 중' - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488733)
-#### [트럼프, 일부 무역 관세는 견딜 수 없다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488722)
-#### [사바 캐피털 매니지먼트, 2026년 2월 17일 블루 아울 캐피털 코퍼레이션 II에 통지서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488721)
-#### [소 89,000마리, 돼지 460,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488726)
