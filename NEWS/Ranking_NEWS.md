@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260221_1426 </title></head>
-<center>Vers : 20260221_1426 </center>
-<center>Vers : 20260221_2326 </center>
+<head><meta charset="utf-8"><title>Vers : 20260221_1453 </title></head>
+<center>Vers : 20260221_1453 </center>
+<center>Vers : 20260221_2353 </center>
 <br><br><br>
 #### ['7200원→19만원' 주가 폭등의 기억…요즘 '뭉칫돈' 몰린 곳 [한경우의 케이스스터디]](https://m.stock.naver.com/news/ranknews/view/015/0005253307)
 #### [“비트코인, 이대로 안 죽는다”…‘10% 추가 관세’ 충격에도 1억원 목전](https://m.stock.naver.com/news/ranknews/view/016/0002603032)
