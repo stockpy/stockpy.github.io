@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260221_2026 </title></head>
-<center>Vers : 20260221_2026 </center>
-<center>Vers : 20260222_0526 </center>
+<head><meta charset="utf-8"><title>Vers : 20260221_2050 </title></head>
+<center>Vers : 20260221_2050 </center>
+<center>Vers : 20260222_0550 </center>
 <br><br><br>
+#### [트럼프, 글로벌 관세율을 10%에서 15%로 인상하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489082)
+#### [허니웰, 존슨 매티 촉매 거래에서 탈퇴 고려 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489081)
+#### [트럼프, 글로벌 관세율을 10%에서 15%로 인상하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489078)
+#### [JP 모건은 1 월 6 일 공격 한 달 후 트럼프의 은행 계좌를 폐쇄했다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489080)
+#### [DHS 요원이 2025년 3월 미국 시민 살해, 기록에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489077)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489079)
 #### [결혼 드라마 '노란 편지', 베를린 영화제 최고상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489076)
 #### [래덤 앤 왓킨스, 워첼 립튼의 파트너 두 명 영입 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489075)
 #### [살사의 전설 윌리 콜론, 75세로 사망, 가족에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489074)
@@ -56,9 +62,3 @@
 #### [프랑스, EU는 관세에 대해 트럼프에게 반격 할 수있는 도구가 있다고 FT 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489022)
 #### [올림픽-동계 올림픽 단일 대회 최다 금메달 수상자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489024)
 #### [올림픽-스키모-프랑스의 해롭과 안셀메트, 혼성 계주 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489021)
-#### [프리스타일-캐나다의 샤프, 충돌 사고로 여자 하프파이프 결승 불참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489025)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489023)
-#### [슬로바키아, 키예프가 러시아 석유 파이프라인을 재개하지 않으면 우크라이나에 대한 전기 공급 중단 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489017)
-#### [J&J, 트렘피야(구셀쿠맙) 장기 데이터, 궤양성 대장염에서 3년까지 임상 및 내시경적 관해 지속 보여줘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489019)
-#### [올림픽-프리스타일-이탈리아, 남자 스키 크로스에서 금메달과 은메달을 거머쥐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489020)
-#### [스키모-프랑스의 해롭과 안셀메트, 혼성 계주 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489016)
