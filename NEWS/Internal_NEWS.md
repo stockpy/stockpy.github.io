@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260221_2224 </title></head>
-<center>Vers : 20260221_2224 </center>
-<center>Vers : 20260222_0724 </center>
+<head><meta charset="utf-8"><title>Vers : 20260221_2249 </title></head>
+<center>Vers : 20260221_2249 </center>
+<center>Vers : 20260222_0749 </center>
 <br><br><br>
+#### [캘파인 온타리오 212MW 그린필드 에너지 센터 3 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489097)
+#### [캘파인 온타리오 517MW 그린필드 에너지 센터 4 가스 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489096)
+#### [캘파인 온타리오 212MW 그린필드 에너지 센터 2 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489098)
+#### [올림픽-아이스하키-핀란드, 슬로바키아를 꺾고 남자 동메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489095)
 #### [로이터 뉴스 일정 오후 10시(GMT/6시(한국 시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489094)
 #### [아이스하키-핀란드, 슬로바키아를 꺾고 남자 아이스하키 동메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489093)
 #### [덴마크의 북극 합동 사령부, 그린란드 해역에서 미국 잠수함 승무원 대피](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489092)
@@ -58,7 +62,3 @@
 #### [캐나다, 미국을 꺾고 동메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489042)
 #### [NASA, 아르테미스 II 우주선 롤백, 3월 발사 기간에 영향을 미침](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489040)
 #### [인도네시아 대통령, 미 대법원이 트럼프의 글로벌 관세를 거부 한 후 모든 가능성에 직면 할 준비가되어 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489039)
-#### [독일 메르츠, 트럼프 관세에 대한 미국 법원 판결 이후 관세 부담 감소 기대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489038)
-#### [나치 올림픽 기념일에 대한 우려에도 불구하고 2036년 올림픽-베를린은 여전히 후보지입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489037)
-#### [인도네시아, 미국에 특정 수출에 대한 관세 면제 유지 요청, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489036)
-#### [이란 긴장이 고조되는 가운데 포르투갈에 있는 미군 비행기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489035)
