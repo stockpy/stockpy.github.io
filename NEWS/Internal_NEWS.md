@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260221_2050 </title></head>
-<center>Vers : 20260221_2050 </center>
-<center>Vers : 20260222_0550 </center>
+<head><meta charset="utf-8"><title>Vers : 20260221_2110 </title></head>
+<center>Vers : 20260221_2110 </center>
+<center>Vers : 20260222_0610 </center>
 <br><br><br>
+#### [컬링-캐나다, 영국을 꺾고 남자 컬링 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489085)
+#### [독일 놀테, 여자 2인승 타이틀 유지에 성공하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489084)
+#### [델타 항공, 겨울 폭풍 에르난도로 인해 항공편 취소, 고객들에게 무료로 항공편 이동 권장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489083)
 #### [트럼프, 글로벌 관세율을 10%에서 15%로 인상하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489082)
 #### [허니웰, 존슨 매티 촉매 거래에서 탈퇴 고려 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489081)
 #### [트럼프, 글로벌 관세율을 10%에서 15%로 인상하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489078)
@@ -59,6 +62,3 @@
 #### [프랑스 알프스 2030, 시간과 자금이 부족하지만 준비는 끝났다고 올림픽 책임자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489027)
 #### [브라질 카길의 산타렘 항구 터미널을 점거하는 원주민 시위대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489029)
 #### [파스키, 새 이사회 예비 후보자 명단 승인 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489026)
-#### [프랑스, EU는 관세에 대해 트럼프에게 반격 할 수있는 도구가 있다고 FT 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489022)
-#### [올림픽-동계 올림픽 단일 대회 최다 금메달 수상자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489024)
-#### [올림픽-스키모-프랑스의 해롭과 안셀메트, 혼성 계주 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489021)
