@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260221_1729 </title></head>
-<center>Vers : 20260221_1729 </center>
-<center>Vers : 20260222_0229 </center>
+<head><meta charset="utf-8"><title>Vers : 20260221_1836 </title></head>
+<center>Vers : 20260221_1836 </center>
+<center>Vers : 20260222_0336 </center>
 <br><br><br>
+#### [미국 북서부 강 유량은 93 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489064)
+#### [이탈리아 봅슬레이 대표팀, 최근 이스라엘 봅슬레이 팀을 겨냥한 실수로 사과하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489063)
+#### [2025년 3월 미국 시민을 살해한 국토안보부 요원, 기록에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489062)
+#### [Merz는 현재 임기 내에 독일의 부채 한도를 다시 완화하는 것을 배제합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489061)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489060)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489059)
 #### [바이애슬론-이탈리아의 비어러, 마지막 환호로 커리어의 막을 내리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489058)
 #### [폭풍이 동부 해안으로 향하면서 뉴욕 지역에 블리자드 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489057)
@@ -57,8 +62,3 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489007)
 #### [Atco 온타리오 580MW 브라이튼 비치 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489006)
 #### [킹 클레보, 50km 클래식에서 우승하며 밀라노 코르티나 대회 6번째 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489005)
-#### [마크롱, 트럼프 관세 판결은 법치주의가 잘 작동하고 있음을 보여준다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489004)
-#### [우크라이나 난민들, 4년간의 전쟁을 마치고 귀국을 저울질하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489002)
-#### [올림픽-자유형-미국, 중국이 세 번째 우승을 놓친 가운데 혼성 단체전 공중에서 금메달 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489003)
-#### [컬링-스위스, 빙판 위의 언어적 혼란을 활용해 올림픽 동메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489001)
-#### [자유형-미국, 혼성 팀 에어리얼 금메달 획득하며 2022년 타이틀 방어에 성공하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488999)
