@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260221_1836 </title></head>
-<center>Vers : 20260221_1836 </center>
-<center>Vers : 20260222_0336 </center>
+<head><meta charset="utf-8"><title>Vers : 20260221_1903 </title></head>
+<center>Vers : 20260221_1903 </center>
+<center>Vers : 20260222_0403 </center>
 <br><br><br>
+#### [이탈리아 봅슬레이 대표팀의 최근 실수에 대해 이탈리아의 라이가 사과합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489066)
+#### [Atco 온타리오 580MW 브라이튼 비치 가스 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489065)
 #### [미국 북서부 강 유량은 93 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489064)
 #### [이탈리아 봅슬레이 대표팀, 최근 이스라엘 봅슬레이 팀을 겨냥한 실수로 사과하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489063)
 #### [2025년 3월 미국 시민을 살해한 국토안보부 요원, 기록에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489062)
@@ -60,5 +62,3 @@
 #### [인도, 브라질, 모디 총리가 5년 내 200억 달러 무역을 목표로 광업 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489011)
 #### [올림픽-동계 올림픽에서 가장 많은 금메달을 획득한 선수들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489008)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489007)
-#### [Atco 온타리오 580MW 브라이튼 비치 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489006)
-#### [킹 클레보, 50km 클래식에서 우승하며 밀라노 코르티나 대회 6번째 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489005)
