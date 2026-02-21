@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260221_1629 </title></head>
-<center>Vers : 20260221_1629 </center>
-<center>Vers : 20260222_0129 </center>
+<head><meta charset="utf-8"><title>Vers : 20260221_1657 </title></head>
+<center>Vers : 20260221_1657 </center>
+<center>Vers : 20260222_0157 </center>
 <br><br><br>
 #### [아이가 받은 세뱃돈, 주식에 넣었다가…'화들짝' 놀란 사연 [세테크 꿀팁]](https://m.stock.naver.com/news/ranknews/view/015/0005253317)
 #### ['7200원→19만원' 주가 폭등의 기억…요즘 '뭉칫돈' 몰린 곳 [한경우의 케이스스터디]](https://m.stock.naver.com/news/ranknews/view/015/0005253307)

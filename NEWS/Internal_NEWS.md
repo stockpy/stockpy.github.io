@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260221_1629 </title></head>
-<center>Vers : 20260221_1629 </center>
-<center>Vers : 20260222_0129 </center>
+<head><meta charset="utf-8"><title>Vers : 20260221_1657 </title></head>
+<center>Vers : 20260221_1657 </center>
+<center>Vers : 20260222_0157 </center>
 <br><br><br>
+#### [프리스타일-폭설로 여자 하프파이프 결승전 지연](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489053)
+#### [NASA, 달 탐사 아르테미스 II 로켓을 조립 현장으로 돌려보내 3월 발사 기간에 영향을 미칠 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489052)
+#### [바이애슬론-보롭니코바의 동메달, 밀라노 코르티나에서 체코에 힘을 실어주다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489049)
+#### [올림픽-스키모-미국 조, 유럽이 지배하는 계주에서 혼성 4위를 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489051)
+#### [이스라엘의 레바논 공습으로 헤즈볼라 고위 관리 등 최소 10명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489050)
+#### [올림픽- 봅슬레이- 화려한 로흐너, 더블 금메달을 향해 달려갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489047)
+#### [트럼프, 미국의 글로벌 관세율을 10%에서 15%로 인상하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489048)
 #### [올림픽-컬링-캐나다 여자 컬링, 미국을 꺾고 동메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489046)
 #### [해밀턴은 자신이 누구였는지 잊었지만 새 시즌을 위해 다시 설정했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489044)
 #### [트럼프, 글로벌 관세율을 10%에서 15%로 인상하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489043)
@@ -55,10 +62,3 @@
 #### [아스마 칸의 양심적 요리에 관한 이야기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488996)
 #### [독점-쿠바 보안군이 미국의 압력으로 베네수엘라에서 철수합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488994)
 #### [연방 국정감사가 정치적 대립의 무대가 된 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488993)
-#### [관세 판결로 대법원, 트럼프 견제 권한 재확인?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488992)
-#### [슬로바키아 총리, 석유 행렬로 우크라이나에 대한 긴급 전기 공급 중단 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488995)
-#### [바이애슬론-스웨덴, 매스 스타트 붕괴의 원인으로 나쁜 왁스 날을 꼽다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488991)
-#### [브루독 공동 창업자 와트, 맥주회사 구조 입찰에 천만 파운드 투자 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488989)
-#### [아르고, 35노트 속력으로 안티구아 360 신기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488990)
-#### [ECB의 Panetta는 중국 수입이 예상보다 더 급격한 인플레이션 하락을 주도했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488988)
-#### [프레임스토어 설립자 윌리엄 사르겐트가 미디어 규제 기관 Ofcom의 수장 후보에 올랐다 - Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488985)
