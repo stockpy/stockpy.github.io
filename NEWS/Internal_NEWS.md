@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260221_1903 </title></head>
-<center>Vers : 20260221_1903 </center>
-<center>Vers : 20260222_0403 </center>
+<head><meta charset="utf-8"><title>Vers : 20260221_2026 </title></head>
+<center>Vers : 20260221_2026 </center>
+<center>Vers : 20260222_0526 </center>
 <br><br><br>
+#### [결혼 드라마 '노란 편지', 베를린 영화제 최고상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489076)
+#### [래덤 앤 왓킨스, 워첼 립튼의 파트너 두 명 영입 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489075)
+#### [살사의 전설 윌리 콜론, 75세로 사망, 가족에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489074)
+#### [베네수엘라는 사면법에 따라 1,550건 이상의 사면 요청을 받았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489073)
+#### [크로스컨트리-스웨덴의 칼슨, 질병으로 여자 50km 클래식 레이스 불참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489071)
+#### [우크라이나, 석유 공급에 대한 헝가리, 슬로바키아의 '최후 통첩과 협박'을 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489072)
+#### [결혼 드라마 '노란 편지', 베를린 영화제 최고상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489070)
+#### [베네수엘라 사면법에 따라 1550건 이상의 사면 요청이 접수되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489069)
+#### [다쏘시스템, CEO 파스칼 달로즈가 다쏘시스템 회장으로 임명됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489067)
+#### [아이스하키-일출 전 경기로?캐나다, 남자 금메달 대결을 위해 일찍 바를 열다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489068)
 #### [이탈리아 봅슬레이 대표팀의 최근 실수에 대해 이탈리아의 라이가 사과합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489066)
 #### [Atco 온타리오 580MW 브라이튼 비치 가스 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489065)
 #### [미국 북서부 강 유량은 93 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489064)
@@ -52,13 +62,3 @@
 #### [J&J, 트렘피야(구셀쿠맙) 장기 데이터, 궤양성 대장염에서 3년까지 임상 및 내시경적 관해 지속 보여줘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489019)
 #### [올림픽-프리스타일-이탈리아, 남자 스키 크로스에서 금메달과 은메달을 거머쥐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489020)
 #### [스키모-프랑스의 해롭과 안셀메트, 혼성 계주 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489016)
-#### [화려한 로흐너, 금메달 2연패를 향해 달려갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489018)
-#### [스키모-미국 선수, 유럽이 지배하는 스키 산악 계급을 뚫기 위한 노력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489014)
-#### [올림픽-크로스컨트리-노르웨이의 요하네스 클라보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489015)
-#### [바이애슬론-프랑스 연예인 자클린, 마침내 자신만의 자유를 찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489013)
-#### [올림픽-크로스컨트리-'킹 클라보', 50km 클래식 우승으로 밀라노 코르티나 6번째 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489012)
-#### [독일, 메달 순위 하락과 최다 4위 팀 지위에 고통스러워하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489009)
-#### [자유형-이탈리아의 데로메디스, 남자 스키 크로스에서 금메달을 획득하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489010)
-#### [인도, 브라질, 모디 총리가 5년 내 200억 달러 무역을 목표로 광업 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489011)
-#### [올림픽-동계 올림픽에서 가장 많은 금메달을 획득한 선수들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489008)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489007)
