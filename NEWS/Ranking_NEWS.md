@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260221_1053 </title></head>
-<center>Vers : 20260221_1053 </center>
-<center>Vers : 20260221_1953 </center>
+<head><meta charset="utf-8"><title>Vers : 20260221_1117 </title></head>
+<center>Vers : 20260221_1117 </center>
+<center>Vers : 20260221_2017 </center>
 <br><br><br>
 #### [“비트코인, 이대로 안 죽는다”…‘10% 추가 관세’ 충격에도 1억원 목전](https://m.stock.naver.com/news/ranknews/view/016/0002603032)
 #### [“하루만 들고 있어도 용돈”…변동성 큰 장세에 ‘배당 막차’ 타는 스마트 개미](https://m.stock.naver.com/news/ranknews/view/366/0001143506)
