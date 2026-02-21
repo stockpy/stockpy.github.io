@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260221_2249 </title></head>
-<center>Vers : 20260221_2249 </center>
-<center>Vers : 20260222_0749 </center>
+<head><meta charset="utf-8"><title>Vers : 20260221_2312 </title></head>
+<center>Vers : 20260221_2312 </center>
+<center>Vers : 20260222_0812 </center>
 <br><br><br>
 #### [아이가 받은 세뱃돈, 주식에 넣었다가…'화들짝' 놀란 사연 [세테크 꿀팁]](https://m.stock.naver.com/news/ranknews/view/015/0005253317)
 #### [“뜨내기 외국인들 팔든말든”…19만전자, 글로벌 시총 14위 등극](https://m.stock.naver.com/news/ranknews/view/009/0005639877)

@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260221_2249 </title></head>
-<center>Vers : 20260221_2249 </center>
-<center>Vers : 20260222_0749 </center>
+<head><meta charset="utf-8"><title>Vers : 20260221_2312 </title></head>
+<center>Vers : 20260221_2312 </center>
+<center>Vers : 20260222_0812 </center>
 <br><br><br>
 #### [캘파인 온타리오 212MW 그린필드 에너지 센터 3 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489097)
 #### [캘파인 온타리오 517MW 그린필드 에너지 센터 4 가스 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489096)
