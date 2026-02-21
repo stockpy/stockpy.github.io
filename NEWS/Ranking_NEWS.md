@@ -1,9 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260221_1657 </title></head>
-<center>Vers : 20260221_1657 </center>
-<center>Vers : 20260222_0157 </center>
+<head><meta charset="utf-8"><title>Vers : 20260221_1729 </title></head>
+<center>Vers : 20260221_1729 </center>
+<center>Vers : 20260222_0229 </center>
 <br><br><br>
 #### [아이가 받은 세뱃돈, 주식에 넣었다가…'화들짝' 놀란 사연 [세테크 꿀팁]](https://m.stock.naver.com/news/ranknews/view/015/0005253317)
-#### ['7200원→19만원' 주가 폭등의 기억…요즘 '뭉칫돈' 몰린 곳 [한경우의 케이스스터디]](https://m.stock.naver.com/news/ranknews/view/015/0005253307)
+#### ['패낳괴' 다시 나타날까…'360조' 몰리더니 관심 폭발한 종목 [한경우의 케이스스터디]](https://m.stock.naver.com/news/ranknews/view/015/0005253307)
 #### [“비트코인, 이대로 안 죽는다”…‘10% 추가 관세’ 충격에도 1억원 목전](https://m.stock.naver.com/news/ranknews/view/016/0002603032)
 #### [“하루만 들고 있어도 용돈”…변동성 큰 장세에 ‘배당 막차’ 타는 스마트 개미](https://m.stock.naver.com/news/ranknews/view/366/0001143506)
 #### [“비트코인에 1250% 위험가중치, 잘못된 규제”…美당국에 완화 요구 목소리](https://m.stock.naver.com/news/ranknews/view/018/0006221912)

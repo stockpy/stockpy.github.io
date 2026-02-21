@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260221_1657 </title></head>
-<center>Vers : 20260221_1657 </center>
-<center>Vers : 20260222_0157 </center>
+<head><meta charset="utf-8"><title>Vers : 20260221_1729 </title></head>
+<center>Vers : 20260221_1729 </center>
+<center>Vers : 20260222_0229 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489059)
+#### [바이애슬론-이탈리아의 비어러, 마지막 환호로 커리어의 막을 내리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489058)
+#### [폭풍이 동부 해안으로 향하면서 뉴욕 지역에 블리자드 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489057)
+#### [FIFA 보스 인판 티노의 평화위원회 출연은 정치적 중립성을 위반하지 않는다고 IOC는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489056)
+#### [쇼트트랙-폴란드, 경기 중 충돌 사고로 안면 부상 입은 셀리에 '괜찮아'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489055)
+#### [독일 메르츠, 트럼프 관세 판결 후 구제책 기대하지만 불확실성 여전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489054)
 #### [프리스타일-폭설로 여자 하프파이프 결승전 지연](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489053)
 #### [NASA, 달 탐사 아르테미스 II 로켓을 조립 현장으로 돌려보내 3월 발사 기간에 영향을 미칠 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489052)
 #### [바이애슬론-보롭니코바의 동메달, 밀라노 코르티나에서 체코에 힘을 실어주다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489049)
@@ -56,9 +62,3 @@
 #### [올림픽-자유형-미국, 중국이 세 번째 우승을 놓친 가운데 혼성 단체전 공중에서 금메달 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489003)
 #### [컬링-스위스, 빙판 위의 언어적 혼란을 활용해 올림픽 동메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489001)
 #### [자유형-미국, 혼성 팀 에어리얼 금메달 획득하며 2022년 타이틀 방어에 성공하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488999)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489000)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488998)
-#### [인터내셔널 파워 온타리오 128MW 웨스트 윈저 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488997)
-#### [아스마 칸의 양심적 요리에 관한 이야기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488996)
-#### [독점-쿠바 보안군이 미국의 압력으로 베네수엘라에서 철수합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488994)
-#### [연방 국정감사가 정치적 대립의 무대가 된 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488993)
