@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260221_2110 </title></head>
-<center>Vers : 20260221_2110 </center>
-<center>Vers : 20260222_0610 </center>
+<head><meta charset="utf-8"><title>Vers : 20260221_2224 </title></head>
+<center>Vers : 20260221_2224 </center>
+<center>Vers : 20260222_0724 </center>
 <br><br><br>
+#### [로이터 뉴스 일정 오후 10시(GMT/6시(한국 시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489094)
+#### [아이스하키-핀란드, 슬로바키아를 꺾고 남자 아이스하키 동메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489093)
+#### [덴마크의 북극 합동 사령부, 그린란드 해역에서 미국 잠수함 승무원 대피](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489092)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489091)
+#### [인터내셔널 파워 온타리오 128MW 웨스트 윈저 가스 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489088)
+#### [올림픽-봅슬레이-독일 놀테, 2인승 타이틀 유지에 성공하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489090)
+#### [올림픽-쇼트트랙-폴란드의 셀리어, 넘어진 후 안면 부상 수술받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489089)
+#### [올림픽-컬링-캐나다, 영국을 꺾고 남자 컬링 금메달을 따낸 제이콥스의 이야기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489087)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489086)
 #### [컬링-캐나다, 영국을 꺾고 남자 컬링 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489085)
 #### [독일 놀테, 여자 2인승 타이틀 유지에 성공하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489084)
 #### [델타 항공, 겨울 폭풍 에르난도로 인해 항공편 취소, 고객들에게 무료로 항공편 이동 권장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489083)
@@ -53,12 +62,3 @@
 #### [나치 올림픽 기념일에 대한 우려에도 불구하고 2036년 올림픽-베를린은 여전히 후보지입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489037)
 #### [인도네시아, 미국에 특정 수출에 대한 관세 면제 유지 요청, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489036)
 #### [이란 긴장이 고조되는 가운데 포르투갈에 있는 미군 비행기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489035)
-#### [페제쉬키안, 이란은 미국 핵 회담에서 압력에 굴복하지 않을 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489033)
-#### [올림픽-바이애슬론-미셸론의 멋진 마지막 바퀴, 프랑스에 여자 매스스타트 금메달을 안겨주다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489034)
-#### [독일 여당, 어린이를 위한 소셜 미디어 규제를 지지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489030)
-#### [우크라이나, 우드 무르 티아에서 러시아 탄도 미사일 생산 업체 타격, 키예프 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489032)
-#### [바이애슬론-미셸론의 멋진 마지막 바퀴, 프랑스에 여자 매스스타트 금메달을 안겼습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489031)
-#### [프랑스는 EU가 관세에 대해 트럼프에게 반격 할 수있는 도구가 있다고 FT는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489028)
-#### [프랑스 알프스 2030, 시간과 자금이 부족하지만 준비는 끝났다고 올림픽 책임자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489027)
-#### [브라질 카길의 산타렘 항구 터미널을 점거하는 원주민 시위대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489029)
-#### [파스키, 새 이사회 예비 후보자 명단 승인 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489026)
