@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_1453 </title></head>
-<center>Vers : 20260222_1453 </center>
-<center>Vers : 20260222_2353 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_1521 </title></head>
+<center>Vers : 20260222_1521 </center>
+<center>Vers : 20260223_0021 </center>
 <br><br><br>
+#### [그린란드 총리, 트럼프의 병원선에 대해 '고맙지 않다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489203)
+#### [블루노드 ASA, DUC 라이선스 연장 검토를 위한 초청장 접수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489202)
 #### [그린란드 총리, 병원선 보내겠다는 미국 제안 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489201)
 #### [미국 비밀경호국 요원이 트럼프의 마러라고 리조트에 불법으로 들어가려던 남성을 사살했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489200)
 #### [자유형-구, 기록 경신 직후 할머니의 사망 소식을 접하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489199)
@@ -61,12 +63,12 @@
 #### [이란과 미국의 제재 완화에 대한 견해가 다르다고 이란 고위 관리가 로이터에 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489145)
 #### [월스트리트 주간을 앞두고-엔비디아, 소프트웨어 보고서가 AI에 민감한 주식 시장에 대한 다음 테스트를 제기합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489143)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+<head><meta charset="utf-8"><title>Vers : 20260222_1521 </title></head>
+<center>Vers : 20260222_1521 </center>
+<center>Vers : 20260223_0021 </center>
+<br><br><br>
 #### [우크라이나 리비우에서 폭탄 폭발로 경찰관 사망, 24명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489144)
 #### [이란과 미국은 제재 완화에 대한 견해가 다르다고이란 고위 관리가 로이터에 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489142)
-<head><meta charset="utf-8"><title>Vers : 20260222_1453 </title></head>
-<center>Vers : 20260222_1453 </center>
-<center>Vers : 20260222_2353 </center>
-<br><br><br>
 #### [IDFC 퍼스트 은행, 정부 기관 계좌에서 6,500만 달러 사기 혐의 조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489140)
 #### [러시아는 밤새 우크라이나에서 50 개의 미사일과 297 개의 드론을 발사했다고 키예프 공군은 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489138)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489141)
@@ -126,12 +128,12 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489086)
 #### [컬링-캐나다, 영국을 꺾고 남자 컬링 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489085)
 #### [독일 놀테, 여자 2인승 타이틀 유지에 성공하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489084)
+<head><meta charset="utf-8"><title>Vers : 20260222_1521 </title></head>
+<center>Vers : 20260222_1521 </center>
+<center>Vers : 20260223_0021 </center>
+<br><br><br>
 #### [델타 항공, 겨울 폭풍 에르난도로 인해 항공편 취소, 고객들에게 무료로 항공편 이동 권장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489083)
 #### [트럼프, 글로벌 관세율을 10%에서 15%로 인상하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489082)
-<head><meta charset="utf-8"><title>Vers : 20260222_1453 </title></head>
-<center>Vers : 20260222_1453 </center>
-<center>Vers : 20260222_2353 </center>
-<br><br><br>
 #### [허니웰, 존슨 매티 촉매 거래에서 탈퇴 고려 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489081)
 #### [트럼프, 글로벌 관세율을 10%에서 15%로 인상하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489078)
 #### [JP 모건은 1 월 6 일 공격 한 달 후 트럼프의 은행 계좌를 폐쇄했다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489080)
@@ -190,5 +192,3 @@
 #### [파스키, 새 이사회 예비 후보자 명단 승인 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489026)
 #### [프랑스, EU는 관세에 대해 트럼프에게 반격 할 수있는 도구가 있다고 FT 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489022)
 #### [올림픽-동계 올림픽 단일 대회 최다 금메달 수상자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489024)
-#### [올림픽-스키모-프랑스의 해롭과 안셀메트, 혼성 계주 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489021)
-#### [프리스타일-캐나다의 샤프, 충돌 사고로 여자 하프파이프 결승 불참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489025)
