@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_2118 </title></head>
-<center>Vers : 20260222_2118 </center>
-<center>Vers : 20260223_0618 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_2224 </title></head>
+<center>Vers : 20260222_2224 </center>
+<center>Vers : 20260223_0724 </center>
 <br><br><br>
+#### [호주 증시 상승세, 뉴질랜드 지수 초반 상승 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489274)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
+#### [올림픽-컬링-더블 터치 논란으로 컬링이 주목받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489275)
+#### [미국 관세 격변이 재부상하면서 BUZZ-USD/JPY 상승 추세 주춤](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489272)
+#### [독점-미군 주도의 새로운 그룹이 멕시코의 '엘 멘초'카르텔 보스 사냥을 지원했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489271)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489273)
+#### [러시아가 통제하는 우크라이나 자포리지아 지역에서 대부분의 가정에 전력이 복구되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489270)
 #### [AUD/USD- 관세 불확실성으로 아시아 초반 소폭 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489269)
 #### [2026 BAFTA 필름 어워드 수상작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489266)
 #### [경찰에서 범죄 보스로 변신한 네메시오 '엘 멘초' 오세게라, 피비린내 나는 유산을 남기다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489267)
@@ -60,9 +67,3 @@
 #### [법 집행 기관이 트럼프의 마라고 리조트에 들어가려는 무장 남성을 사살했다고 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489217)
 #### [올림픽-아이스하키-미국, 연장전 끝에 캐나다에 승리하며 대망의 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489219)
 #### [이란, 러시아와 비밀 숄더 발사 미사일 거래에 합의, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489216)
-#### [EU, 대법원 판결 후 미국 관세 인상 수용하지 않겠다: '거래는 거래'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489215)
-#### [이란 외무 장관, 미국과의 핵 협상에서 외교적 해결책의 '좋은 기회'라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489214)
-#### [아이스하키-미국, 연장전에서 캐나다를 꺾고 남자부 금메달을 획득하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489211)
-#### [폐막식을 앞두고 베로나에서 수백 명이 시위를 벌입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489212)
-#### [올림픽-자유형-구'의 치솟는 묘기가 도움이 되나? 중국이 압도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489213)
-#### [BTG 팩츄얼, 울트라파의 이피랑가 판매를 위해 고용한 회사, 신문은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489210)
