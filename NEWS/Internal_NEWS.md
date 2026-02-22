@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_2052 </title></head>
-<center>Vers : 20260222_2052 </center>
-<center>Vers : 20260223_0552 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_2118 </title></head>
+<center>Vers : 20260222_2118 </center>
+<center>Vers : 20260223_0618 </center>
 <br><br><br>
+#### [AUD/USD- 관세 불확실성으로 아시아 초반 소폭 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489269)
+#### [2026 BAFTA 필름 어워드 수상작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489266)
+#### [경찰에서 범죄 보스로 변신한 네메시오 '엘 멘초' 오세게라, 피비린내 나는 유산을 남기다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489267)
+#### [올림픽 폐막식을 앞두고 베로나에서 수백 명의 시위대가 시위를 벌입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489268)
+#### [아메리칸 항공, 푸에르토 바야르타(PVR) 및 과달라하라(GDL)에서 진행 중인 상황으로 인해 2월 22일 남은 기간 동안 PVR 및 GDL 출도착 항공편을 공동 취소한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489265)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489264)
 #### [한 주 앞으로-미국 관세 격변, 엔비디아 실적, 지정학](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489262)
 #### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489263)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
@@ -59,9 +66,3 @@
 #### [폐막식을 앞두고 베로나에서 수백 명이 시위를 벌입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489212)
 #### [올림픽-자유형-구'의 치솟는 묘기가 도움이 되나? 중국이 압도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489213)
 #### [BTG 팩츄얼, 울트라파의 이피랑가 판매를 위해 고용한 회사, 신문은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489210)
-#### [미국 비밀경호국 요원, 트럼프의 마러라고에 들어가려던 남성 사살](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489209)
-#### [영국 경호원, 2010 년 엡스타인 만찬 파티를 지키도록 지시, 보고서에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489206)
-#### [미국 무역 책임자, 관세 협상에서 탈퇴하겠다고 밝힌 국가는 없다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489207)
-#### [영국 BAFTA 영화 시상식에 참석한 스타들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489208)
-#### [미국 국토안보부 TSA 프리체크 여전히 운영 중, 이전 발표 번복?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489204)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489205)
