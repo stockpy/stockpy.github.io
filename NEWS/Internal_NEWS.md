@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_1734 </title></head>
-<center>Vers : 20260222_1734 </center>
-<center>Vers : 20260223_0234 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_1836 </title></head>
+<center>Vers : 20260222_1836 </center>
+<center>Vers : 20260223_0336 </center>
 <br><br><br>
+#### [이란 대통령, 최근 미국과의 회담에서 '고무적인 신호가 나왔다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489239)
+#### [로이스 홀딩스, 이번 주에 새로운 자사주 매입 프로그램을 통해 투자자에게 10억 파운드 이상을 환원할 계획 발표 - 스카이뉴스 On X 기자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489237)
+#### [롤스 로이스, 환매로 주주들에게 10 억 파운드 이상 환원, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489238)
+#### [오만, 목요일 제네바에서 미국-이란 회담 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489234)
+#### [DAE 캐피탈, 항공기 임대 회사 맥쿼리 에어 파이낸스 인수 계약에 근접, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489236)
+#### [멕시코 마약왕 '엘 멘초'가 군사 작전으로 사망-정부 소식통](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489235)
+#### [Enel, 120억 유로 규모의 파이낸싱 거래 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489233)
+#### [Enel, 사업 계획에 앞서 최대 10억 유로 규모의 자사주 매입 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489231)
+#### [멕시코 마약왕 '엘 멘초'가 군사 작전의 표적이 되었다고 현지 언론이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489232)
+#### [올림픽-아이스하키-캐나다 주장 크로스비, 결승전 불참이 팀에 최선이었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489230)
+#### [하셀보르에서 두 번째 금메달을 따낸 스웨덴, 그 어느 때보다 강해진 모습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489229)
+#### [이탈리아 여자 선수들의 올림픽 메달은 쌓여가지만, 리더십에는 '얼음 천장'이 여전합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489228)
 #### [영국 BAFTA 영화 시상식에 스타들이 도착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489227)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489226)
 #### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489225)
@@ -50,15 +62,3 @@
 #### [올림픽-스키모-스페인, 스페인, 스위스의 올림픽 데뷔전에서 빛을 발하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489182)
 #### [트럼프는 미군 증강에도 불구하고이란이 왜 '항복'하지 않았는지 궁금해한다고 위트 코프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489183)
 #### [교황, 우크라이나의 평화는 '연기 할 수 없다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489179)
-#### [모스크바 공항, 드론 공격으로 비행 제한](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489180)
-#### [올림픽-봅슬레이-독일 로흐너, 포맨 우승으로 두 번째 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489177)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489178)
-#### [EU 의원, 관세 격변 이후 미국 무역 협상 투표 연기 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489174)
-#### [아이스하키-캐나다 주장 크로스비, 부상당한 채 금메달 결정전 출전 불발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489176)
-#### [올림픽-이탈리아, 고대 베로나 아레나에서 폐막 쇼로 '도착'을 알리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489175)
-#### [프랑스, 극우 활동가 사망 관련 발언으로 미국 대사 소환 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489173)
-#### [봅슬레이-로크너, 4인승에서 두 번째 금메달을 획득하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489171)
-#### [컬링, 부정행위 논란으로 규정 재검토로 정체성 위기에 직면하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489172)
-#### [올림픽-IOC, 잇단 장애물에도 불구하고 '놀라운' 밀라노 코르티나 대회를 환영하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489170)
-#### [올림픽-크로스컨트리-스웨덴의 안데르손, 50km 클래식 레이스에서 결정적인 승리를 거두다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489169)
-#### [리비우에서 폭발로 경찰관 사망 및 수십 명 부상 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489168)
