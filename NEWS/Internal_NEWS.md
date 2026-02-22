@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_1904 </title></head>
-<center>Vers : 20260222_1904 </center>
-<center>Vers : 20260223_0404 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_2027 </title></head>
+<center>Vers : 20260222_2027 </center>
+<center>Vers : 20260223_0527 </center>
 <br><br><br>
+#### [브라질의 석유 규제 당국, 폭발 후 Vibra 유닛 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489261)
+#### ['원 배틀 애프터 어나더', BAFTA 최우수 영화상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489260)
+#### [미국이 '엘 멘초'를 겨냥한 작전을 위해 정보를 제공했다고 주미 멕시코 대사관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489259)
+#### [에어 캐나다, 유나이티드 항공, 멕시코 푸에르토 바야르타행 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489257)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
+#### [미국, 멕시코 마약왕 '엘 멘초' 사살에 '큰 발전'으로 환영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489256)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489258)
+#### [아이스하키-연장전 끝에 미국이 하키 금메달을 따내면서 캐나다의 가슴 아픈 패배](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489254)
+#### [주말 뉴스-트럼프, 글로벌 관세율을 15%로 인상하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489251)
+#### [눈보라 경보로 눈이 내리면서 뉴욕, 기타 주에 비상사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489253)
+#### [유나이티드 항공, PVR 행 항공편 운항이 취소되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489250)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
+#### [올림픽 봅슬레이 오스트리아 만들바우어, 공포의 추락 사고 후 중상 피하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489252)
+#### [2월 22일 일요일 오후 1시 56분(동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489255)
+#### [아이스하키 - 미국이 캐나다를 꺾고 승리한 킬러 휴즈와 영웅 헬레바이크](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489249)
 #### [멕시코 마약왕 '엘 멘초'가 군사 작전으로 사망했다고 정부 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489246)
 #### [올림픽- 아이스하키- 미국이 연장 접전 끝에 캐나다를 꺾고 '금빛 가뭄'을 끝냈습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489248)
 #### [BUZZ- 재생- 달러 후퇴, 스털링 안정, AUD / USD 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489247)
@@ -49,16 +64,3 @@
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489205)
 #### [그린란드 총리, 트럼프의 병원선에 대해 '고맙지 않다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489203)
 #### [블루노드 ASA, DUC 라이선스 연장 검토를 위한 초청장 접수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489202)
-#### [그린란드 총리, 병원선 보내겠다는 미국 제안 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489201)
-#### [미국 비밀경호국 요원이 트럼프의 마러라고 리조트에 불법으로 들어가려던 남성을 사살했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489200)
-#### [자유형-구, 기록 경신 직후 할머니의 사망 소식을 접하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489199)
-#### [이란이 곧 핵 제안을 보내면 금요일에 예상되는 미-이란 회담, Axios 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489197)
-#### [미 비밀경호국 요원들이 트럼프의 마러라고에 불법으로 들어가려던 남성을 살해했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489198)
-#### [모스크바 공항, 드론 공격 후 비행 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489196)
-#### [미국 무역 책임자는 관세 협상에서 탈퇴하겠다고 말한 국가가 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489194)
-#### [트럼프는 미군 증강에도 이란이 왜 '항복'하지 않았는지 궁금해한다고 위트코프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489193)
-#### [알제리, 명목상 50,000 미터 톤의 연질 제분 밀 구매 입찰, 상인들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489195)
-#### [스위스 관리, 국가가 미국 관세를 영구적으로 받아 들여야 할 수도 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489191)
-#### [1,800미터의 피자, 1톤의 그라나 파다노 치즈가 올림픽 선수들을 먹여 살립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489192)
-#### [올림픽-봅슬레이-독일, 단체전 금메달을 모두 차지했지만 모노밥은 놓쳤습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489189)
-#### [올림픽-크로스컨트리-노르웨이의 클라보, 바이럴의 순간으로 점철된 역사적인 올림픽을 지배하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489190)
