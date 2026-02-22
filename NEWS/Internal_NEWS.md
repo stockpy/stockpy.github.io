@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_1251 </title></head>
-<center>Vers : 20260222_1251 </center>
-<center>Vers : 20260222_2151 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_1336 </title></head>
+<center>Vers : 20260222_1336 </center>
+<center>Vers : 20260222_2236 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489188)
+#### [올림픽-컬링-스웨덴 '팀 하셀보르', 스위스를 꺾고 여자 컬링 두 번째 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489186)
+#### [크로스컨트리-러시아 네프랴에바, 스키를 잘못 타 실격당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489187)
+#### [미국-이란 긴장 고조로 걸프 증시 하락, 이집트 손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489185)
+#### [헝가리, 우크라이나 파이프라인 분쟁으로 러시아에 대한 EU의 새로운 제재 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489184)
+#### [컬링-스웨덴, 스위스를 꺾고 여자 컬링 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489181)
+#### [올림픽-스키모-스페인, 스페인, 스위스의 올림픽 데뷔전에서 빛을 발하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489182)
+#### [트럼프는 미군 증강에도 불구하고이란이 왜 '항복'하지 않았는지 궁금해한다고 위트 코프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489183)
 #### [교황, 우크라이나의 평화는 '연기 할 수 없다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489179)
 #### [모스크바 공항, 드론 공격으로 비행 제한](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489180)
 #### [올림픽-봅슬레이-독일 로흐너, 포맨 우승으로 두 번째 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489177)
@@ -55,6 +63,10 @@
 #### [캘파인 온타리오 212MW 그린필드 에너지 센터 3 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489131)
 #### [한국, 분쟁 섬을 둘러싼 일본 행사에 항의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489130)
 #### [로이터 뉴스 시간표 오전 6시(GMT/1시(동부시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489129)
+<head><meta charset="utf-8"><title>Vers : 20260222_1336 </title></head>
+<center>Vers : 20260222_1336 </center>
+<center>Vers : 20260222_2236 </center>
+<br><br><br>
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489128)
 #### [사모 펀드 소유주, 스위스 시계 제조업체 브라이틀링의 가치 하락- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489127)
 #### [인구 고령화로 인해 엘리베이터 수요가 증가할 것이라고 독일 제조업체 TK 엘리베이터- FT는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489126)
@@ -63,10 +75,6 @@
 #### [아시아 경제, 트럼프의 새로운 관세 조치에 따른 영향과 혼란을 저울질하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489123)
 #### [미국 국토 안보부, 셧다운으로 두 가지 주요 여행 프로그램 일시 중지, 워싱턴 포스트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489121)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489122)
-<head><meta charset="utf-8"><title>Vers : 20260222_1251 </title></head>
-<center>Vers : 20260222_1251 </center>
-<center>Vers : 20260222_2151 </center>
-<br><br><br>
 #### [주목해야 할 요소 - 2월 22일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489120)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489119)
 #### [미국 국토안보부, 셧다운이 계속됨에 따라 TSA 사전 점검 및 글로벌 입국 일시 중지, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489118)
@@ -120,6 +128,10 @@
 #### [우크라이나, 석유 공급에 대한 헝가리, 슬로바키아의 '최후 통첩과 협박'을 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489072)
 #### [결혼 드라마 '노란 편지', 베를린 영화제 최고상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489070)
 #### [베네수엘라 사면법에 따라 1550건 이상의 사면 요청이 접수되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489069)
+<head><meta charset="utf-8"><title>Vers : 20260222_1336 </title></head>
+<center>Vers : 20260222_1336 </center>
+<center>Vers : 20260222_2236 </center>
+<br><br><br>
 #### [다쏘시스템, CEO 파스칼 달로즈가 다쏘시스템 회장으로 임명됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489067)
 #### [아이스하키-일출 전 경기로?캐나다, 남자 금메달 대결을 위해 일찍 바를 열다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489068)
 #### [이탈리아 봅슬레이 대표팀의 최근 실수에 대해 이탈리아의 라이가 사과합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489066)
@@ -128,10 +140,6 @@
 #### [이탈리아 봅슬레이 대표팀, 최근 이스라엘 봅슬레이 팀을 겨냥한 실수로 사과하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489063)
 #### [2025년 3월 미국 시민을 살해한 국토안보부 요원, 기록에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489062)
 #### [Merz는 현재 임기 내에 독일의 부채 한도를 다시 완화하는 것을 배제합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489061)
-<head><meta charset="utf-8"><title>Vers : 20260222_1251 </title></head>
-<center>Vers : 20260222_1251 </center>
-<center>Vers : 20260222_2151 </center>
-<br><br><br>
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489060)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489059)
 #### [바이애슬론-이탈리아의 비어러, 마지막 환호로 커리어의 막을 내리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489058)
@@ -184,11 +192,3 @@
 #### [독일, 메달 순위 하락과 최다 4위 팀 지위에 고통스러워하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489009)
 #### [자유형-이탈리아의 데로메디스, 남자 스키 크로스에서 금메달을 획득하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489010)
 #### [인도, 브라질, 모디 총리가 5년 내 200억 달러 무역을 목표로 광업 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489011)
-#### [올림픽-동계 올림픽에서 가장 많은 금메달을 획득한 선수들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489008)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489007)
-#### [Atco 온타리오 580MW 브라이튼 비치 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489006)
-#### [킹 클레보, 50km 클래식에서 우승하며 밀라노 코르티나 대회 6번째 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489005)
-#### [마크롱, 트럼프 관세 판결은 법치주의가 잘 작동하고 있음을 보여준다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489004)
-#### [우크라이나 난민들, 4년간의 전쟁을 마치고 귀국을 저울질하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489002)
-#### [올림픽-자유형-미국, 중국이 세 번째 우승을 놓친 가운데 혼성 단체전 공중에서 금메달 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489003)
-#### [컬링-스위스, 빙판 위의 언어적 혼란을 활용해 올림픽 동메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489001)
