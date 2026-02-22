@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_0833 </title></head>
-<center>Vers : 20260222_0833 </center>
-<center>Vers : 20260222_1733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_0900 </title></head>
+<center>Vers : 20260222_0900 </center>
+<center>Vers : 20260222_1800 </center>
 <br><br><br>
+#### [이란과 미국은 제재 완화에 대한 견해가 다르다고이란 고위 관리가 로이터에 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489142)
 #### [IDFC 퍼스트 은행, 정부 기관 계좌에서 6,500만 달러 사기 혐의 조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489140)
 #### [러시아는 밤새 우크라이나에서 50 개의 미사일과 297 개의 드론을 발사했다고 키예프 공군은 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489138)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489141)
@@ -62,11 +63,11 @@
 #### [컬링-캐나다, 영국을 꺾고 남자 컬링 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489085)
 #### [독일 놀테, 여자 2인승 타이틀 유지에 성공하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489084)
 #### [델타 항공, 겨울 폭풍 에르난도로 인해 항공편 취소, 고객들에게 무료로 항공편 이동 권장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489083)
-#### [트럼프, 글로벌 관세율을 10%에서 15%로 인상하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489082)
-<head><meta charset="utf-8"><title>Vers : 20260222_0833 </title></head>
-<center>Vers : 20260222_0833 </center>
-<center>Vers : 20260222_1733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_0900 </title></head>
+<center>Vers : 20260222_0900 </center>
+<center>Vers : 20260222_1800 </center>
 <br><br><br>
+#### [트럼프, 글로벌 관세율을 10%에서 15%로 인상하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489082)
 #### [허니웰, 존슨 매티 촉매 거래에서 탈퇴 고려 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489081)
 #### [트럼프, 글로벌 관세율을 10%에서 15%로 인상하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489078)
 #### [JP 모건은 1 월 6 일 공격 한 달 후 트럼프의 은행 계좌를 폐쇄했다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489080)
@@ -126,4 +127,3 @@
 #### [프랑스, EU는 관세에 대해 트럼프에게 반격 할 수있는 도구가 있다고 FT 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489022)
 #### [올림픽-동계 올림픽 단일 대회 최다 금메달 수상자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489024)
 #### [올림픽-스키모-프랑스의 해롭과 안셀메트, 혼성 계주 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489021)
-#### [프리스타일-캐나다의 샤프, 충돌 사고로 여자 하프파이프 결승 불참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489025)

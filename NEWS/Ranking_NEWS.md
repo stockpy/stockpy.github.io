@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_0833 </title></head>
-<center>Vers : 20260222_0833 </center>
-<center>Vers : 20260222_1733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_0900 </title></head>
+<center>Vers : 20260222_0900 </center>
+<center>Vers : 20260222_1800 </center>
 <br><br><br>
 #### [10억 넘는 자산가들 계좌 봤더니…조용히 쓸어담은 종목](https://m.stock.naver.com/news/ranknews/view/015/0005253381)
 #### [“엄마가 삼성전자 주식 사줬어. 너는?”…‘불장’에 초·중·고교에 주식 붐 [수민이가 궁금해요]](https://m.stock.naver.com/news/ranknews/view/022/0004107371)
