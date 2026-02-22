@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_1336 </title></head>
-<center>Vers : 20260222_1336 </center>
-<center>Vers : 20260222_2236 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_1427 </title></head>
+<center>Vers : 20260222_1427 </center>
+<center>Vers : 20260222_2327 </center>
 <br><br><br>
+#### [이란이 곧 핵 제안을 보내면 금요일에 예상되는 미-이란 회담, Axios 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489197)
+#### [미 비밀경호국 요원들이 트럼프의 마러라고에 불법으로 들어가려던 남성을 살해했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489198)
+#### [모스크바 공항, 드론 공격 후 비행 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489196)
+#### [미국 무역 책임자는 관세 협상에서 탈퇴하겠다고 말한 국가가 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489194)
+#### [트럼프는 미군 증강에도 이란이 왜 '항복'하지 않았는지 궁금해한다고 위트코프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489193)
+#### [알제리, 명목상 50,000 미터 톤의 연질 제분 밀 구매 입찰, 상인들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489195)
+#### [스위스 관리, 국가가 미국 관세를 영구적으로 받아 들여야 할 수도 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489191)
+#### [1,800미터의 피자, 1톤의 그라나 파다노 치즈가 올림픽 선수들을 먹여 살립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489192)
+#### [올림픽-봅슬레이-독일, 단체전 금메달을 모두 차지했지만 모노밥은 놓쳤습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489189)
+#### [올림픽-크로스컨트리-노르웨이의 클라보, 바이럴의 순간으로 점철된 역사적인 올림픽을 지배하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489190)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489188)
 #### [올림픽-컬링-스웨덴 '팀 하셀보르', 스위스를 꺾고 여자 컬링 두 번째 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489186)
 #### [크로스컨트리-러시아 네프랴에바, 스키를 잘못 타 실격당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489187)
@@ -53,6 +63,10 @@
 #### [IDFC 퍼스트 은행, 정부 기관 계좌에서 6,500만 달러 사기 혐의 조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489140)
 #### [러시아는 밤새 우크라이나에서 50 개의 미사일과 297 개의 드론을 발사했다고 키예프 공군은 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489138)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489141)
+<head><meta charset="utf-8"><title>Vers : 20260222_1427 </title></head>
+<center>Vers : 20260222_1427 </center>
+<center>Vers : 20260222_2327 </center>
+<br><br><br>
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489139)
 #### [러시아가 통제하는 자포리지아, 우크라이나의 에너지 인프라 공격 후 정전 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489136)
 #### [Atco Power Alberta 385MW 배틀 리버 5 석탄 발전소 오프라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489137)
@@ -63,10 +77,6 @@
 #### [캘파인 온타리오 212MW 그린필드 에너지 센터 3 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489131)
 #### [한국, 분쟁 섬을 둘러싼 일본 행사에 항의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489130)
 #### [로이터 뉴스 시간표 오전 6시(GMT/1시(동부시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489129)
-<head><meta charset="utf-8"><title>Vers : 20260222_1336 </title></head>
-<center>Vers : 20260222_1336 </center>
-<center>Vers : 20260222_2236 </center>
-<br><br><br>
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489128)
 #### [사모 펀드 소유주, 스위스 시계 제조업체 브라이틀링의 가치 하락- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489127)
 #### [인구 고령화로 인해 엘리베이터 수요가 증가할 것이라고 독일 제조업체 TK 엘리베이터- FT는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489126)
@@ -118,6 +128,10 @@
 #### [허니웰, 존슨 매티 촉매 거래에서 탈퇴 고려 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489081)
 #### [트럼프, 글로벌 관세율을 10%에서 15%로 인상하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489078)
 #### [JP 모건은 1 월 6 일 공격 한 달 후 트럼프의 은행 계좌를 폐쇄했다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489080)
+<head><meta charset="utf-8"><title>Vers : 20260222_1427 </title></head>
+<center>Vers : 20260222_1427 </center>
+<center>Vers : 20260222_2327 </center>
+<br><br><br>
 #### [DHS 요원이 2025년 3월 미국 시민 살해, 기록에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489077)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489079)
 #### [결혼 드라마 '노란 편지', 베를린 영화제 최고상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489076)
@@ -128,10 +142,6 @@
 #### [우크라이나, 석유 공급에 대한 헝가리, 슬로바키아의 '최후 통첩과 협박'을 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489072)
 #### [결혼 드라마 '노란 편지', 베를린 영화제 최고상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489070)
 #### [베네수엘라 사면법에 따라 1550건 이상의 사면 요청이 접수되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489069)
-<head><meta charset="utf-8"><title>Vers : 20260222_1336 </title></head>
-<center>Vers : 20260222_1336 </center>
-<center>Vers : 20260222_2236 </center>
-<br><br><br>
 #### [다쏘시스템, CEO 파스칼 달로즈가 다쏘시스템 회장으로 임명됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489067)
 #### [아이스하키-일출 전 경기로?캐나다, 남자 금메달 대결을 위해 일찍 바를 열다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489068)
 #### [이탈리아 봅슬레이 대표팀의 최근 실수에 대해 이탈리아의 라이가 사과합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489066)
@@ -182,13 +192,3 @@
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489023)
 #### [슬로바키아, 키예프가 러시아 석유 파이프라인을 재개하지 않으면 우크라이나에 대한 전기 공급 중단 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489017)
 #### [J&J, 트렘피야(구셀쿠맙) 장기 데이터, 궤양성 대장염에서 3년까지 임상 및 내시경적 관해 지속 보여줘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489019)
-#### [올림픽-프리스타일-이탈리아, 남자 스키 크로스에서 금메달과 은메달을 거머쥐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489020)
-#### [스키모-프랑스의 해롭과 안셀메트, 혼성 계주 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489016)
-#### [화려한 로흐너, 금메달 2연패를 향해 달려갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489018)
-#### [스키모-미국 선수, 유럽이 지배하는 스키 산악 계급을 뚫기 위한 노력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489014)
-#### [올림픽-크로스컨트리-노르웨이의 요하네스 클라보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489015)
-#### [바이애슬론-프랑스 연예인 자클린, 마침내 자신만의 자유를 찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489013)
-#### [올림픽-크로스컨트리-'킹 클라보', 50km 클래식 우승으로 밀라노 코르티나 6번째 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489012)
-#### [독일, 메달 순위 하락과 최다 4위 팀 지위에 고통스러워하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489009)
-#### [자유형-이탈리아의 데로메디스, 남자 스키 크로스에서 금메달을 획득하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489010)
-#### [인도, 브라질, 모디 총리가 5년 내 200억 달러 무역을 목표로 광업 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489011)
