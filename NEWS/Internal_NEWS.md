@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_1026 </title></head>
-<center>Vers : 20260222_1026 </center>
-<center>Vers : 20260222_1926 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_1052 </title></head>
+<center>Vers : 20260222_1052 </center>
+<center>Vers : 20260222_1952 </center>
 <br><br><br>
+#### [호주 군함, 대만 해협 통과, 중국 해군에 추적당해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489155)
+#### [IOC, 잇단 장애물에도 불구하고 '놀라운' 밀라노 코르티나 올림픽을 환영하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489156)
 #### [바이애슬론-IBU 감독 달린, 스포츠의 강세로 영예를 안다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489154)
 #### [인도, 대법원이 트럼프 관세를 거부 한 후 미국 무역 협상 지연, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489153)
 #### [인도, 대법원이 트럼프 관세를 거부 한 후 미국 무역 협상 연기, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489151)
@@ -62,12 +64,12 @@
 #### [아이스하키-슬로바키아의 슬라프코프스키가 동메달의 아픔을 딛고 4강 진출에 성공했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489100)
 #### [캘파인 온타리오 212MW 그린필드 에너지 센터 3 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489097)
 #### [캘파인 온타리오 517MW 그린필드 에너지 센터 4 가스 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489096)
+<head><meta charset="utf-8"><title>Vers : 20260222_1052 </title></head>
+<center>Vers : 20260222_1052 </center>
+<center>Vers : 20260222_1952 </center>
+<br><br><br>
 #### [캘파인 온타리오 212MW 그린필드 에너지 센터 2 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489098)
 #### [올림픽-아이스하키-핀란드, 슬로바키아를 꺾고 남자 동메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489095)
-<head><meta charset="utf-8"><title>Vers : 20260222_1026 </title></head>
-<center>Vers : 20260222_1026 </center>
-<center>Vers : 20260222_1926 </center>
-<br><br><br>
 #### [로이터 뉴스 일정 오후 10시(GMT/6시(한국 시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489094)
 #### [아이스하키-핀란드, 슬로바키아를 꺾고 남자 아이스하키 동메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489093)
 #### [덴마크의 북극 합동 사령부, 그린란드 해역에서 미국 잠수함 승무원 대피](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489092)
@@ -126,5 +128,3 @@
 #### [인도네시아 대통령, 미 대법원이 트럼프의 글로벌 관세를 거부 한 후 모든 가능성에 직면 할 준비가되어 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489039)
 #### [독일 메르츠, 트럼프 관세에 대한 미국 법원 판결 이후 관세 부담 감소 기대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489038)
 #### [나치 올림픽 기념일에 대한 우려에도 불구하고 2036년 올림픽-베를린은 여전히 후보지입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489037)
-#### [인도네시아, 미국에 특정 수출에 대한 관세 면제 유지 요청, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489036)
-#### [이란 긴장이 고조되는 가운데 포르투갈에 있는 미군 비행기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489035)
