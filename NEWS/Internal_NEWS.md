@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_1631 </title></head>
-<center>Vers : 20260222_1631 </center>
-<center>Vers : 20260223_0131 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_1658 </title></head>
+<center>Vers : 20260222_1658 </center>
+<center>Vers : 20260223_0158 </center>
 <br><br><br>
+#### [가자 지구 '대량 학살'발언으로 베를린에서 독일 장관의 파업 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489223)
+#### [스위스 부부 페츠와 미셸, 올림픽 메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489222)
+#### [이란, 러시아와 비밀 숄더 발사 미사일 거래에 합의, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489220)
+#### [ECB의 라가르드, "기준선"은 임기를 마치는 것이라고 말하다 - CBS의 "페이스 더 네이션"](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489221)
+#### [미국은 방침을 번복하고 TSA 프리체크 프로그램을 계속 운영합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489218)
+#### [법 집행 기관이 트럼프의 마라고 리조트에 들어가려는 무장 남성을 사살했다고 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489217)
+#### [올림픽-아이스하키-미국, 연장전 끝에 캐나다에 승리하며 대망의 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489219)
 #### [이란, 러시아와 비밀 숄더 발사 미사일 거래에 합의, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489216)
 #### [EU, 대법원 판결 후 미국 관세 인상 수용하지 않겠다: '거래는 거래'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489215)
 #### [이란 외무 장관, 미국과의 핵 협상에서 외교적 해결책의 '좋은 기회'라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489214)
@@ -55,10 +62,3 @@
 #### [프랑스, 극우 활동가의 죽음에 대한 발언으로 미국 대사 소환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489165)
 #### [크로스컨트리-스웨덴의 안데르손, 50km 클래식 레이스 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489167)
 #### [올림픽-프리스타일-구대영, 하프파이프 타이틀 유지하며 올림픽 6번째 메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489164)
-#### [하프파이프 타이틀을 유지하며 올림픽 6번째 메달을 목에 건 구대영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489162)
-#### [자유형 구대영, 하프파이프 타이틀 유지하며 통산 6번째 올림픽 메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489163)
-#### [로이터 뉴스 일정 오전 10시(GMT/6시(동부표준시))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489161)
-#### [올림픽-바이애슬론-샤프슈팅 스키 선수들이 올림픽에서 드라마와 전개를 선사합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489160)
-#### [대법원, 수십억 달러가 걸려있는 미국-쿠바 비즈니스 분쟁에 뛰어들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489159)
-#### [분석-관세 판결은 트럼프의 영향력을 제한하지만 무역 파트너의 불확실성을 종식시키지는 못할 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489158)
-#### [이스라엘과 중동 땅에 대한 미국 특사의 발언이 지역 내 비난을 불러 일으켰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489157)
