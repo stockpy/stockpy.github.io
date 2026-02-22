@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_1836 </title></head>
-<center>Vers : 20260222_1836 </center>
-<center>Vers : 20260223_0336 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_1904 </title></head>
+<center>Vers : 20260222_1904 </center>
+<center>Vers : 20260223_0404 </center>
 <br><br><br>
+#### [멕시코 마약왕 '엘 멘초'가 군사 작전으로 사망했다고 정부 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489246)
+#### [올림픽- 아이스하키- 미국이 연장 접전 끝에 캐나다를 꺾고 '금빛 가뭄'을 끝냈습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489248)
+#### [BUZZ- 재생- 달러 후퇴, 스털링 안정, AUD / USD 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489247)
+#### [롤스로이스, 자사주 매입으로 주주에게 20억 달러 반환, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489244)
+#### [에어 캐나다는 푸에르토 바야르타의 지속적인 보안 상황이 바야르타 공항에 영향을 미치기 때문에 에어 캐나다가 일시적으로 운항을 중단했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489245)
+#### [에어캐나다, 멕시코 푸에르토 바야르타 운항 일시 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489243)
+#### [DAE 캐피탈, 항공기 리스 회사 맥쿼리 에어 파이낸스 인수 계약에 근접, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489241)
+#### [미국 북서부 강 유량이 92%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489242)
+#### [아이스하키-미국, 금메달 획득 후 고인이 된 팀 동료 고드로를 기리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489240)
 #### [이란 대통령, 최근 미국과의 회담에서 '고무적인 신호가 나왔다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489239)
 #### [로이스 홀딩스, 이번 주에 새로운 자사주 매입 프로그램을 통해 투자자에게 10억 파운드 이상을 환원할 계획 발표 - 스카이뉴스 On X 기자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489237)
 #### [롤스 로이스, 환매로 주주들에게 10 억 파운드 이상 환원, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489238)
@@ -53,12 +62,3 @@
 #### [1,800미터의 피자, 1톤의 그라나 파다노 치즈가 올림픽 선수들을 먹여 살립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489192)
 #### [올림픽-봅슬레이-독일, 단체전 금메달을 모두 차지했지만 모노밥은 놓쳤습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489189)
 #### [올림픽-크로스컨트리-노르웨이의 클라보, 바이럴의 순간으로 점철된 역사적인 올림픽을 지배하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489190)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489188)
-#### [올림픽-컬링-스웨덴 '팀 하셀보르', 스위스를 꺾고 여자 컬링 두 번째 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489186)
-#### [크로스컨트리-러시아 네프랴에바, 스키를 잘못 타 실격당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489187)
-#### [미국-이란 긴장 고조로 걸프 증시 하락, 이집트 손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489185)
-#### [헝가리, 우크라이나 파이프라인 분쟁으로 러시아에 대한 EU의 새로운 제재 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489184)
-#### [컬링-스웨덴, 스위스를 꺾고 여자 컬링 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489181)
-#### [올림픽-스키모-스페인, 스페인, 스위스의 올림픽 데뷔전에서 빛을 발하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489182)
-#### [트럼프는 미군 증강에도 불구하고이란이 왜 '항복'하지 않았는지 궁금해한다고 위트 코프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489183)
-#### [교황, 우크라이나의 평화는 '연기 할 수 없다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489179)
