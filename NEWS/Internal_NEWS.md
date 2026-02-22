@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_2251 </title></head>
-<center>Vers : 20260222_2251 </center>
-<center>Vers : 20260223_0751 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_2314 </title></head>
+<center>Vers : 20260222_2314 </center>
+<center>Vers : 20260223_0814 </center>
 <br><br><br>
+#### [멕시코 카르텔 보스 '엘 멘초', 군 급습으로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489278)
 #### [우크라이나 공격으로 러시아 벨고로드의 인프라가 심각하게 손상되었다고 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489277)
 #### [영국, 비용 급증으로 특수 요구 교육 점검](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489276)
 #### [호주 증시 상승세, 뉴질랜드 지수 초반 상승 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489274)
@@ -20,7 +21,7 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489264)
 #### [한 주 앞으로-미국 관세 격변, 엔비디아 실적, 지정학](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489262)
 #### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489263)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
 #### [브라질의 석유 규제 당국, 폭발 후 Vibra 유닛 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489261)
 #### ['원 배틀 애프터 어나더', BAFTA 최우수 영화상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489260)
 #### [미국이 '엘 멘초'를 겨냥한 작전을 위해 정보를 제공했다고 주미 멕시코 대사관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489259)
@@ -66,4 +67,3 @@
 #### [이란, 러시아와 비밀 숄더 발사 미사일 거래에 합의, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489220)
 #### [ECB의 라가르드, "기준선"은 임기를 마치는 것이라고 말하다 - CBS의 "페이스 더 네이션"](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489221)
 #### [미국은 방침을 번복하고 TSA 프리체크 프로그램을 계속 운영합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489218)
-#### [법 집행 기관이 트럼프의 마라고 리조트에 들어가려는 무장 남성을 사살했다고 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489217)
