@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_2027 </title></head>
-<center>Vers : 20260222_2027 </center>
-<center>Vers : 20260223_0527 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_2052 </title></head>
+<center>Vers : 20260222_2052 </center>
+<center>Vers : 20260223_0552 </center>
 <br><br><br>
+#### [한 주 앞으로-미국 관세 격변, 엔비디아 실적, 지정학](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489262)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489263)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
 #### [브라질의 석유 규제 당국, 폭발 후 Vibra 유닛 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489261)
 #### ['원 배틀 애프터 어나더', BAFTA 최우수 영화상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489260)
 #### [미국이 '엘 멘초'를 겨냥한 작전을 위해 정보를 제공했다고 주미 멕시코 대사관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489259)
@@ -62,5 +65,3 @@
 #### [영국 BAFTA 영화 시상식에 참석한 스타들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489208)
 #### [미국 국토안보부 TSA 프리체크 여전히 운영 중, 이전 발표 번복?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489204)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489205)
-#### [그린란드 총리, 트럼프의 병원선에 대해 '고맙지 않다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489203)
-#### [블루노드 ASA, DUC 라이선스 연장 검토를 위한 초청장 접수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489202)
