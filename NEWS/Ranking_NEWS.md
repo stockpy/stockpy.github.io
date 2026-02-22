@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_1427 </title></head>
-<center>Vers : 20260222_1427 </center>
-<center>Vers : 20260222_2327 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_1453 </title></head>
+<center>Vers : 20260222_1453 </center>
+<center>Vers : 20260222_2353 </center>
 <br><br><br>
 #### [하이닉스도 한수 접는 미친 수익률…70% 찍었다는 ETF 뭐길래](https://m.stock.naver.com/news/ranknews/view/009/0005640170)
 #### [“엄마가 삼성전자 주식 사줬어. 너는?”…‘불장’에 초·중·고교에 주식 붐 [수민이가 궁금해요]](https://m.stock.naver.com/news/ranknews/view/022/0004107371)

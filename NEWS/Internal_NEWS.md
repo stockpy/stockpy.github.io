@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_1427 </title></head>
-<center>Vers : 20260222_1427 </center>
-<center>Vers : 20260222_2327 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_1453 </title></head>
+<center>Vers : 20260222_1453 </center>
+<center>Vers : 20260222_2353 </center>
 <br><br><br>
+#### [그린란드 총리, 병원선 보내겠다는 미국 제안 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489201)
+#### [미국 비밀경호국 요원이 트럼프의 마러라고 리조트에 불법으로 들어가려던 남성을 사살했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489200)
+#### [자유형-구, 기록 경신 직후 할머니의 사망 소식을 접하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489199)
 #### [이란이 곧 핵 제안을 보내면 금요일에 예상되는 미-이란 회담, Axios 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489197)
 #### [미 비밀경호국 요원들이 트럼프의 마러라고에 불법으로 들어가려던 남성을 살해했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489198)
 #### [모스크바 공항, 드론 공격 후 비행 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489196)
@@ -60,13 +63,13 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
 #### [우크라이나 리비우에서 폭탄 폭발로 경찰관 사망, 24명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489144)
 #### [이란과 미국은 제재 완화에 대한 견해가 다르다고이란 고위 관리가 로이터에 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489142)
+<head><meta charset="utf-8"><title>Vers : 20260222_1453 </title></head>
+<center>Vers : 20260222_1453 </center>
+<center>Vers : 20260222_2353 </center>
+<br><br><br>
 #### [IDFC 퍼스트 은행, 정부 기관 계좌에서 6,500만 달러 사기 혐의 조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489140)
 #### [러시아는 밤새 우크라이나에서 50 개의 미사일과 297 개의 드론을 발사했다고 키예프 공군은 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489138)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489141)
-<head><meta charset="utf-8"><title>Vers : 20260222_1427 </title></head>
-<center>Vers : 20260222_1427 </center>
-<center>Vers : 20260222_2327 </center>
-<br><br><br>
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489139)
 #### [러시아가 통제하는 자포리지아, 우크라이나의 에너지 인프라 공격 후 정전 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489136)
 #### [Atco Power Alberta 385MW 배틀 리버 5 석탄 발전소 오프라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489137)
@@ -125,13 +128,13 @@
 #### [독일 놀테, 여자 2인승 타이틀 유지에 성공하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489084)
 #### [델타 항공, 겨울 폭풍 에르난도로 인해 항공편 취소, 고객들에게 무료로 항공편 이동 권장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489083)
 #### [트럼프, 글로벌 관세율을 10%에서 15%로 인상하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489082)
+<head><meta charset="utf-8"><title>Vers : 20260222_1453 </title></head>
+<center>Vers : 20260222_1453 </center>
+<center>Vers : 20260222_2353 </center>
+<br><br><br>
 #### [허니웰, 존슨 매티 촉매 거래에서 탈퇴 고려 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489081)
 #### [트럼프, 글로벌 관세율을 10%에서 15%로 인상하겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489078)
 #### [JP 모건은 1 월 6 일 공격 한 달 후 트럼프의 은행 계좌를 폐쇄했다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489080)
-<head><meta charset="utf-8"><title>Vers : 20260222_1427 </title></head>
-<center>Vers : 20260222_1427 </center>
-<center>Vers : 20260222_2327 </center>
-<br><br><br>
 #### [DHS 요원이 2025년 3월 미국 시민 살해, 기록에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489077)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489079)
 #### [결혼 드라마 '노란 편지', 베를린 영화제 최고상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489076)
@@ -189,6 +192,3 @@
 #### [올림픽-동계 올림픽 단일 대회 최다 금메달 수상자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489024)
 #### [올림픽-스키모-프랑스의 해롭과 안셀메트, 혼성 계주 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489021)
 #### [프리스타일-캐나다의 샤프, 충돌 사고로 여자 하프파이프 결승 불참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489025)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489023)
-#### [슬로바키아, 키예프가 러시아 석유 파이프라인을 재개하지 않으면 우크라이나에 대한 전기 공급 중단 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489017)
-#### [J&J, 트렘피야(구셀쿠맙) 장기 데이터, 궤양성 대장염에서 3년까지 임상 및 내시경적 관해 지속 보여줘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489019)
