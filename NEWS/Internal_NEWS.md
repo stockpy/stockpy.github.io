@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_2224 </title></head>
-<center>Vers : 20260222_2224 </center>
-<center>Vers : 20260223_0724 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_2251 </title></head>
+<center>Vers : 20260222_2251 </center>
+<center>Vers : 20260223_0751 </center>
 <br><br><br>
+#### [우크라이나 공격으로 러시아 벨고로드의 인프라가 심각하게 손상되었다고 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489277)
+#### [영국, 비용 급증으로 특수 요구 교육 점검](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489276)
 #### [호주 증시 상승세, 뉴질랜드 지수 초반 상승 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489274)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
 #### [올림픽-컬링-더블 터치 논란으로 컬링이 주목받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489275)
@@ -65,5 +67,3 @@
 #### [ECB의 라가르드, "기준선"은 임기를 마치는 것이라고 말하다 - CBS의 "페이스 더 네이션"](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489221)
 #### [미국은 방침을 번복하고 TSA 프리체크 프로그램을 계속 운영합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489218)
 #### [법 집행 기관이 트럼프의 마라고 리조트에 들어가려는 무장 남성을 사살했다고 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489217)
-#### [올림픽-아이스하키-미국, 연장전 끝에 캐나다에 승리하며 대망의 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489219)
-#### [이란, 러시아와 비밀 숄더 발사 미사일 거래에 합의, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489216)
