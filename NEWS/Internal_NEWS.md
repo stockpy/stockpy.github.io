@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_0535 </title></head>
-<center>Vers : 20260222_0535 </center>
-<center>Vers : 20260222_1435 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_0649 </title></head>
+<center>Vers : 20260222_0649 </center>
+<center>Vers : 20260222_1549 </center>
 <br><br><br>
+#### [러시아, 주요 미사일, 드론 공격으로 우크라이나 에너지 인프라 타격, 키예프 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489132)
+#### [캘파인 온타리오 212MW 그린필드 에너지 센터 3 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489131)
+#### [한국, 분쟁 섬을 둘러싼 일본 행사에 항의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489130)
+#### [로이터 뉴스 시간표 오전 6시(GMT/1시(동부시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489129)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489128)
 #### [사모 펀드 소유주, 스위스 시계 제조업체 브라이틀링의 가치 하락- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489127)
 #### [인구 고령화로 인해 엘리베이터 수요가 증가할 것이라고 독일 제조업체 TK 엘리베이터- FT는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489126)
@@ -59,14 +63,14 @@
 #### [래덤 앤 왓킨스, 워첼 립튼의 파트너 두 명 영입 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489075)
 #### [살사의 전설 윌리 콜론, 75세로 사망, 가족에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489074)
 #### [베네수엘라는 사면법에 따라 1,550건 이상의 사면 요청을 받았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489073)
+<head><meta charset="utf-8"><title>Vers : 20260222_0649 </title></head>
+<center>Vers : 20260222_0649 </center>
+<center>Vers : 20260222_1549 </center>
+<br><br><br>
 #### [크로스컨트리-스웨덴의 칼슨, 질병으로 여자 50km 클래식 레이스 불참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489071)
 #### [우크라이나, 석유 공급에 대한 헝가리, 슬로바키아의 '최후 통첩과 협박'을 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489072)
 #### [결혼 드라마 '노란 편지', 베를린 영화제 최고상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489070)
 #### [베네수엘라 사면법에 따라 1550건 이상의 사면 요청이 접수되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489069)
-<head><meta charset="utf-8"><title>Vers : 20260222_0535 </title></head>
-<center>Vers : 20260222_0535 </center>
-<center>Vers : 20260222_1435 </center>
-<br><br><br>
 #### [다쏘시스템, CEO 파스칼 달로즈가 다쏘시스템 회장으로 임명됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489067)
 #### [아이스하키-일출 전 경기로?캐나다, 남자 금메달 대결을 위해 일찍 바를 열다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489068)
 #### [이탈리아 봅슬레이 대표팀의 최근 실수에 대해 이탈리아의 라이가 사과합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489066)
@@ -123,7 +127,3 @@
 #### [스키모-미국 선수, 유럽이 지배하는 스키 산악 계급을 뚫기 위한 노력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489014)
 #### [올림픽-크로스컨트리-노르웨이의 요하네스 클라보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489015)
 #### [바이애슬론-프랑스 연예인 자클린, 마침내 자신만의 자유를 찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489013)
-#### [올림픽-크로스컨트리-'킹 클라보', 50km 클래식 우승으로 밀라노 코르티나 6번째 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489012)
-#### [독일, 메달 순위 하락과 최다 4위 팀 지위에 고통스러워하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489009)
-#### [자유형-이탈리아의 데로메디스, 남자 스키 크로스에서 금메달을 획득하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489010)
-#### [인도, 브라질, 모디 총리가 5년 내 200억 달러 무역을 목표로 광업 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489011)
