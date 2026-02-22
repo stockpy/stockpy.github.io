@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_1115 </title></head>
-<center>Vers : 20260222_1115 </center>
-<center>Vers : 20260222_2015 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_1251 </title></head>
+<center>Vers : 20260222_1251 </center>
+<center>Vers : 20260222_2151 </center>
 <br><br><br>
+#### [교황, 우크라이나의 평화는 '연기 할 수 없다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489179)
+#### [모스크바 공항, 드론 공격으로 비행 제한](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489180)
+#### [올림픽-봅슬레이-독일 로흐너, 포맨 우승으로 두 번째 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489177)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489178)
+#### [EU 의원, 관세 격변 이후 미국 무역 협상 투표 연기 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489174)
+#### [아이스하키-캐나다 주장 크로스비, 부상당한 채 금메달 결정전 출전 불발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489176)
+#### [올림픽-이탈리아, 고대 베로나 아레나에서 폐막 쇼로 '도착'을 알리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489175)
+#### [프랑스, 극우 활동가 사망 관련 발언으로 미국 대사 소환 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489173)
+#### [봅슬레이-로크너, 4인승에서 두 번째 금메달을 획득하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489171)
+#### [컬링, 부정행위 논란으로 규정 재검토로 정체성 위기에 직면하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489172)
+#### [올림픽-IOC, 잇단 장애물에도 불구하고 '놀라운' 밀라노 코르티나 대회를 환영하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489170)
+#### [올림픽-크로스컨트리-스웨덴의 안데르손, 50km 클래식 레이스에서 결정적인 승리를 거두다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489169)
+#### [리비우에서 폭발로 경찰관 사망 및 수십 명 부상 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489168)
+#### [캐나다 올림픽 책임자, 메달 목표 미달로 스포츠 기금 증액 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489166)
+#### [프랑스, 극우 활동가의 죽음에 대한 발언으로 미국 대사 소환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489165)
+#### [크로스컨트리-스웨덴의 안데르손, 50km 클래식 레이스 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489167)
+#### [올림픽-프리스타일-구대영, 하프파이프 타이틀 유지하며 올림픽 6번째 메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489164)
+#### [하프파이프 타이틀을 유지하며 올림픽 6번째 메달을 목에 건 구대영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489162)
+#### [자유형 구대영, 하프파이프 타이틀 유지하며 통산 6번째 올림픽 메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489163)
+#### [로이터 뉴스 일정 오전 10시(GMT/6시(동부표준시))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489161)
 #### [올림픽-바이애슬론-샤프슈팅 스키 선수들이 올림픽에서 드라마와 전개를 선사합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489160)
 #### [대법원, 수십억 달러가 걸려있는 미국-쿠바 비즈니스 분쟁에 뛰어들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489159)
 #### [분석-관세 판결은 트럼프의 영향력을 제한하지만 무역 파트너의 불확실성을 종식시키지는 못할 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489158)
@@ -43,6 +63,10 @@
 #### [아시아 경제, 트럼프의 새로운 관세 조치에 따른 영향과 혼란을 저울질하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489123)
 #### [미국 국토 안보부, 셧다운으로 두 가지 주요 여행 프로그램 일시 중지, 워싱턴 포스트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489121)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489122)
+<head><meta charset="utf-8"><title>Vers : 20260222_1251 </title></head>
+<center>Vers : 20260222_1251 </center>
+<center>Vers : 20260222_2151 </center>
+<br><br><br>
 #### [주목해야 할 요소 - 2월 22일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489120)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489119)
 #### [미국 국토안보부, 셧다운이 계속됨에 따라 TSA 사전 점검 및 글로벌 입국 일시 중지, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489118)
@@ -64,10 +88,6 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MDLZ.O/total>
 #### [법무부, 워너 거래 검토에서 넷플릭스의 영화 제작자에 대한 영향력 조사 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489102)
 #### [도전적인 제이콥스는 캐나다가 비평가들이 틀렸다는 것을 증명하기로 결심했다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489101)
-<head><meta charset="utf-8"><title>Vers : 20260222_1115 </title></head>
-<center>Vers : 20260222_1115 </center>
-<center>Vers : 20260222_2015 </center>
-<br><br><br>
 #### [핀란드, 준결승 패배의 아픔 동메달로 달래다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489099)
 #### [아이스하키-슬로바키아의 슬라프코프스키가 동메달의 아픔을 딛고 4강 진출에 성공했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489100)
 #### [캘파인 온타리오 212MW 그린필드 에너지 센터 3 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489097)
@@ -108,6 +128,10 @@
 #### [이탈리아 봅슬레이 대표팀, 최근 이스라엘 봅슬레이 팀을 겨냥한 실수로 사과하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489063)
 #### [2025년 3월 미국 시민을 살해한 국토안보부 요원, 기록에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489062)
 #### [Merz는 현재 임기 내에 독일의 부채 한도를 다시 완화하는 것을 배제합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489061)
+<head><meta charset="utf-8"><title>Vers : 20260222_1251 </title></head>
+<center>Vers : 20260222_1251 </center>
+<center>Vers : 20260222_2151 </center>
+<br><br><br>
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489060)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489059)
 #### [바이애슬론-이탈리아의 비어러, 마지막 환호로 커리어의 막을 내리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489058)
@@ -128,10 +152,6 @@
 #### [스키모-스페인의 알론소 로드리게스, 차에 치인 지 4개월 만에 동메달 2개를 들고 집으로 돌아갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489045)
 #### [바이애슬론-오세아니아, 프랑스의 놀라운 올림픽 금메달로 에너지의 물결을 타다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489041)
 #### [캐나다, 미국을 꺾고 동메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489042)
-<head><meta charset="utf-8"><title>Vers : 20260222_1115 </title></head>
-<center>Vers : 20260222_1115 </center>
-<center>Vers : 20260222_2015 </center>
-<br><br><br>
 #### [NASA, 아르테미스 II 우주선 롤백, 3월 발사 기간에 영향을 미침](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489040)
 #### [인도네시아 대통령, 미 대법원이 트럼프의 글로벌 관세를 거부 한 후 모든 가능성에 직면 할 준비가되어 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489039)
 #### [독일 메르츠, 트럼프 관세에 대한 미국 법원 판결 이후 관세 부담 감소 기대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489038)
@@ -172,23 +192,3 @@
 #### [우크라이나 난민들, 4년간의 전쟁을 마치고 귀국을 저울질하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489002)
 #### [올림픽-자유형-미국, 중국이 세 번째 우승을 놓친 가운데 혼성 단체전 공중에서 금메달 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489003)
 #### [컬링-스위스, 빙판 위의 언어적 혼란을 활용해 올림픽 동메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489001)
-#### [자유형-미국, 혼성 팀 에어리얼 금메달 획득하며 2022년 타이틀 방어에 성공하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488999)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489000)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488998)
-#### [인터내셔널 파워 온타리오 128MW 웨스트 윈저 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488997)
-#### [아스마 칸의 양심적 요리에 관한 이야기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488996)
-#### [독점-쿠바 보안군이 미국의 압력으로 베네수엘라에서 철수합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488994)
-#### [연방 국정감사가 정치적 대립의 무대가 된 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488993)
-#### [관세 판결로 대법원, 트럼프 견제 권한 재확인?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488992)
-#### [슬로바키아 총리, 석유 행렬로 우크라이나에 대한 긴급 전기 공급 중단 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488995)
-#### [바이애슬론-스웨덴, 매스 스타트 붕괴의 원인으로 나쁜 왁스 날을 꼽다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488991)
-#### [브루독 공동 창업자 와트, 맥주회사 구조 입찰에 천만 파운드 투자 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488989)
-#### [아르고, 35노트 속력으로 안티구아 360 신기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488990)
-#### [ECB의 Panetta는 중국 수입이 예상보다 더 급격한 인플레이션 하락을 주도했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488988)
-#### [프레임스토어 설립자 윌리엄 사르겐트가 미디어 규제 기관 Ofcom의 수장 후보에 올랐다 - Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488985)
-#### [크로스컨트리-펠레그리노와 오그덴이 50km 클래식에서 탈락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488986)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488987)
-#### [프랑스 마크롱, 지난주 살해된 극우 활동가의 행진을 앞두고 침착함을 촉구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488984)
-#### [개최 도시 밀라노, 올림픽 이후 영구적인 빙상 경기장을 모색하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488982)
-#### [홍콩, 치명적인 고층 화재로 폐허가 된 주택 매입 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488983)
-#### [전쟁으로 인해 유럽 전역에 흩어진 우크라이나 주민들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2488981)
