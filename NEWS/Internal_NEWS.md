@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_1658 </title></head>
-<center>Vers : 20260222_1658 </center>
-<center>Vers : 20260223_0158 </center>
+<head><meta charset="utf-8"><title>Vers : 20260222_1734 </title></head>
+<center>Vers : 20260222_1734 </center>
+<center>Vers : 20260223_0234 </center>
 <br><br><br>
+#### [영국 BAFTA 영화 시상식에 스타들이 도착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489227)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489226)
+#### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489225)
+#### [멕시코 할리스코에서 연방 정부의 작전으로 불에 탄 차량들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489224)
 #### [가자 지구 '대량 학살'발언으로 베를린에서 독일 장관의 파업 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489223)
 #### [스위스 부부 페츠와 미셸, 올림픽 메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489222)
 #### [이란, 러시아와 비밀 숄더 발사 미사일 거래에 합의, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489220)
@@ -58,7 +62,3 @@
 #### [올림픽-IOC, 잇단 장애물에도 불구하고 '놀라운' 밀라노 코르티나 대회를 환영하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489170)
 #### [올림픽-크로스컨트리-스웨덴의 안데르손, 50km 클래식 레이스에서 결정적인 승리를 거두다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489169)
 #### [리비우에서 폭발로 경찰관 사망 및 수십 명 부상 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489168)
-#### [캐나다 올림픽 책임자, 메달 목표 미달로 스포츠 기금 증액 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489166)
-#### [프랑스, 극우 활동가의 죽음에 대한 발언으로 미국 대사 소환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489165)
-#### [크로스컨트리-스웨덴의 안데르손, 50km 클래식 레이스 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489167)
-#### [올림픽-프리스타일-구대영, 하프파이프 타이틀 유지하며 올림픽 6번째 메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489164)
