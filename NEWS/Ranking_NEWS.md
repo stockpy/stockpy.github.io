@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260223_1804 </title></head>
-<center>Vers : 20260223_1804 </center>
-<center>Vers : 20260224_0304 </center>
+<head><meta charset="utf-8"><title>Vers : 20260223_1920 </title></head>
+<center>Vers : 20260223_1920 </center>
+<center>Vers : 20260224_0420 </center>
 <br><br><br>
 #### [증시도 벼락거지 공포..."설마" 하던 서학개미도 움직였다](https://m.stock.naver.com/news/ranknews/view/008/0005320975)
 #### [“비트코인, 이제 진짜 끝났나”…‘우르르’ 폭락하며 9500만원대로 ‘뚝’](https://m.stock.naver.com/news/ranknews/view/016/0002603662)
