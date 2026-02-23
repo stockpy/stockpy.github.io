@@ -1,7 +1,53 @@
-<head><meta charset="utf-8"><title>Vers : 20260222_2314 </title></head>
-<center>Vers : 20260222_2314 </center>
-<center>Vers : 20260223_0814 </center>
+<head><meta charset="utf-8"><title>Vers : 20260223_0211 </title></head>
+<center>Vers : 20260223_0211 </center>
+<center>Vers : 20260223_1111 </center>
 <br><br><br>
+#### [액시스케이즈 테크놀로지스, 2억 5천만 루피 규모의 LCA Mk1A 프로그램 수주 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489321)
+#### [호주, 뉴질랜드 통화는 미국 달러가 관세로 인해 하락함에 따라 견고하게 유지됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489320)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489319)
+#### [델타항공은 체크인 키오스크에 문제를 일으키는 시스템 문제를 겪고 있으며 이로 인한 지연이 발생하고 있지만 아직까지 취소는 없습니다 - CBS 리포터 Van Cleave](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489316)
+#### [에어 캐나다-푸에르토 바야르타 출도착 에어 캐나다 항공편이 내일 취소됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489315)
+#### [대두, 미국 관세 불확실성으로 두 번째 세션 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489318)
+#### [루피, 관세 흐름에 흔들리다; 채권 트레이더들은 유가, 공급 우려를 추적합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489317)
+#### [이란 핵 협상에 따른 유가 하락, 미국의 새로운 관세 불확실성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489314)
+#### [미국의 관세 조치로 위험선호심리가 약화되면서 호주 증시 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489313)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
+#### [활동가들이 체포 후 파리 루브르 박물관에 영국인 앤드류의 사진을 걸어놓다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489312)
+#### [UPDATE 1-인도네시아 페르타미나, 미국 에너지 수입을 위한 입찰 절차 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489311)
+#### [Lunr 로열티, 6 억 7 천만 달러에 프루타 델 노르 테 광산에서 생명의 은 스트림 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489305)
+#### [인도의 서밋, AI의 오만과 불안을 포착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489309)
+#### [지난주 살해된 프랑스 극우 활동가를 위해 수천 명이 행진하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489307)
+#### [인도의 새로운 대출 규제로 무역 회사가 압박을받는 것으로 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489310)
+#### [GBP / USD- 미국 관세 문제로 1.3515 저항 극복](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489308)
+#### [한국 산업부 장관, 미국 관세 환급 불확실하다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489306)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489301)
+#### [투자자 에드 가든, 포춘 브랜드 지분을 확보하고 새 CEO를 찾는다, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489304)
+#### [트럼프의 관세 장벽이 미끄러지면서 외환-달러 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489302)
+#### [BUZZ-주말 뉴스-트럼프, 글로벌 관세율 15%로 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489300)
+#### [무슬림들이 뉴욕 타임스퀘어에 모여 첫 타라위 기도를 드리기 위해 모였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489303)
+#### [BUZZ-COMMENT- 한 주 전- 미국 관세 격변, 엔비디아 결과, 지정학](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489299)
+#### [BAFTA에서 어떤 영화와 스타가 수상할까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489297)
+#### [호주 오스탈, 하반기 전망 약화로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489298)
+#### [투자자 에드 가든, 포춘 브랜드 지분 확보하고 새 CEO 물색, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489292)
+#### [투자자 에드 가든, 포춘 브랜드 지분 인수로 새 CEO 물색- WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489294)
+#### [아시아 증시 주춤, 관세 혼란 속 달러화 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489295)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [미 달러화가 전반적으로 약세를 보이면서 BUZZ-AUD/USD가 0.7100을 넘어섰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489291)
+#### [영국은 생산성 하락을 되돌리기 위해 힘겨워해야한다고 BCG는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489293)
+#### [4월 30일까지의 정부 부채 경매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489296)
+#### [이머징 마켓 경제 이벤트 4월 30일까지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489290)
+#### ['미국 팔기'가 다시 유행하는 BUZZ-USD/JPY- 슬라이드](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489289)
+#### [미국의 관세 후퇴로 달러가 타격을 받으면서 BUZZ-EUR/USD가 급등합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489286)
+#### [한국, 트럼프 관세 반대 판결 후 미국과 무역 '균형'에 대해 협의한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489288)
+#### [호주의 미네랄 260이 펀딩 패키지를 받으면서 거의 2년 반 만에 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489287)
+#### [한 주간의 브레이킹뷰: 활동가들이 공격할 때](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489285)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRNA.O/total>
+#### [아시아의 하루 전-트럼프의 관세 인상 15%로 분위기를 조성하기 위해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489284)
+#### [타이드워터, 윌슨 선즈 울트라터그 오프쇼어 전액 현금 인수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489281)
+#### [미국의 관세 인상으로 세계 경제에 대한 불안감이 커지면서 유가가 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489282)
+#### [UK, 비용 급증에 따라 특수 요구 교육을 정비하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489283)
+#### [유럽이 최근 미국 관세에 반발함에 따라 BUZZ-EUR/USD- 조기 입찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489280)
+#### [독점-미군 주도의 새로운 그룹이 멕시코의 '엘 멘초'카르텔 보스 사냥을 지원했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489279)
 #### [멕시코 카르텔 보스 '엘 멘초', 군 급습으로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489278)
 #### [우크라이나 공격으로 러시아 벨고로드의 인프라가 심각하게 손상되었다고 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489277)
 #### [영국, 비용 급증으로 특수 요구 교육 점검](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489276)
@@ -21,7 +67,11 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489264)
 #### [한 주 앞으로-미국 관세 격변, 엔비디아 실적, 지정학](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489262)
 #### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489263)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+<head><meta charset="utf-8"><title>Vers : 20260223_0211 </title></head>
+<center>Vers : 20260223_0211 </center>
+<center>Vers : 20260223_1111 </center>
+<br><br><br>
 #### [브라질의 석유 규제 당국, 폭발 후 Vibra 유닛 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489261)
 #### ['원 배틀 애프터 어나더', BAFTA 최우수 영화상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489260)
 #### [미국이 '엘 멘초'를 겨냥한 작전을 위해 정보를 제공했다고 주미 멕시코 대사관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489259)
@@ -67,3 +117,20 @@
 #### [이란, 러시아와 비밀 숄더 발사 미사일 거래에 합의, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489220)
 #### [ECB의 라가르드, "기준선"은 임기를 마치는 것이라고 말하다 - CBS의 "페이스 더 네이션"](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489221)
 #### [미국은 방침을 번복하고 TSA 프리체크 프로그램을 계속 운영합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489218)
+#### [법 집행 기관이 트럼프의 마라고 리조트에 들어가려는 무장 남성을 사살했다고 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489217)
+#### [올림픽-아이스하키-미국, 연장전 끝에 캐나다에 승리하며 대망의 금메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489219)
+#### [이란, 러시아와 비밀 숄더 발사 미사일 거래에 합의, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489216)
+#### [EU, 대법원 판결 후 미국 관세 인상 수용하지 않겠다: '거래는 거래'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489215)
+#### [이란 외무 장관, 미국과의 핵 협상에서 외교적 해결책의 '좋은 기회'라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489214)
+#### [아이스하키-미국, 연장전에서 캐나다를 꺾고 남자부 금메달을 획득하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489211)
+#### [폐막식을 앞두고 베로나에서 수백 명이 시위를 벌입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489212)
+#### [올림픽-자유형-구'의 치솟는 묘기가 도움이 되나? 중국이 압도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489213)
+#### [BTG 팩츄얼, 울트라파의 이피랑가 판매를 위해 고용한 회사, 신문은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489210)
+#### [미국 비밀경호국 요원, 트럼프의 마러라고에 들어가려던 남성 사살](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489209)
+#### [영국 경호원, 2010 년 엡스타인 만찬 파티를 지키도록 지시, 보고서에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489206)
+#### [미국 무역 책임자, 관세 협상에서 탈퇴하겠다고 밝힌 국가는 없다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489207)
+#### [영국 BAFTA 영화 시상식에 참석한 스타들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489208)
+#### [미국 국토안보부 TSA 프리체크 여전히 운영 중, 이전 발표 번복?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489204)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489205)
+#### [그린란드 총리, 트럼프의 병원선에 대해 '고맙지 않다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489203)
+#### [블루노드 ASA, DUC 라이선스 연장 검토를 위한 초청장 접수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2489202)
