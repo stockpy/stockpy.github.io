@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260224_1902 </title></head>
-<center>Vers : 20260224_1902 </center>
-<center>Vers : 20260225_0402 </center>
+<head><meta charset="utf-8"><title>Vers : 20260224_2036 </title></head>
+<center>Vers : 20260224_2036 </center>
+<center>Vers : 20260225_0536 </center>
 <br><br><br>
 #### [“은퇴자금까지 탈탈 털어 넣습니다”…부동산서 국장으로, 개미들 ‘머니무브’](https://m.stock.naver.com/news/ranknews/view/009/0005641451)
 #### [20만전자·100만닉스 찍더니…'깜짝 전망' 내놓은 증권가 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005254728)
