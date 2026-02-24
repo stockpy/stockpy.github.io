@@ -304,11 +304,12 @@ def __KO_ETF_Allocation() :
             MY_Target_PEC.append("0")
             MY_Target_Count.append("0")
 
-    # print("# MY_PERC")
-    # print(MY_PERC)
-    # print(MY_Target_PEC)
-    # print(MY_Target_Count)
-    # print(sum1)
+    print("# MY_PERC Start")
+    print(MY_PERC)
+    print(MY_Target_PEC)
+    print(MY_Target_Count)
+    print(sum1)
+    print("# MY_PERC Start")
 
     df = pd.DataFrame({
         'ETF_Name': DF_Pension_StockName,
