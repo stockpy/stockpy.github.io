@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260224_2234 </title></head>
-<center>Vers : 20260224_2234 </center>
-<center>Vers : 20260225_0734 </center>
+<head><meta charset="utf-8"><title>Vers : 20260224_2303 </title></head>
+<center>Vers : 20260224_2303 </center>
+<center>Vers : 20260225_0803 </center>
 <br><br><br>
 #### [“설명할 시간 없어, 어서 타!”…20만전자·100만닉스 새 역사 썼다](https://m.stock.naver.com/news/ranknews/view/009/0005641498)
 #### [“은퇴자금까지 탈탈 털어 넣습니다”…부동산서 국장으로, 개미들 ‘머니무브’](https://m.stock.naver.com/news/ranknews/view/009/0005641451)
