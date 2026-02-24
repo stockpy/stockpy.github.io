@@ -1,7 +1,30 @@
-<head><meta charset="utf-8"><title>Vers : 20260224_2036 </title></head>
-<center>Vers : 20260224_2036 </center>
-<center>Vers : 20260225_0536 </center>
+<head><meta charset="utf-8"><title>Vers : 20260224_2106 </title></head>
+<center>Vers : 20260224_2106 </center>
+<center>Vers : 20260225_0606 </center>
 <br><br><br>
+#### [2월 24일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492286)
+#### [L'오레알, 다이슨, 바우쉬?+ 롬, 트럼프 관세 환불을 위해 가장 늦게 소송을 제기하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492287)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COST.O/total>
+#### [트럼프 연설에서 관세 정책에 대한 명확성을 기다리는 트레이더들로 인해 국채-미국 수익률이 상승세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492283)
+#### [뉴몬트, 아르헨티나 세로 네그로에 8억 달러 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492285)
+#### [AI 칩 스타트업 삼바노바, 비스타 주도 라운드에서 3억 5천만 달러 모금, 인텔 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492281)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492282)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
+#### [로레알, 다이슨, 바우쉬?+ 롬, 트럼프 관세 환불을 위해 가장 늦게 소송을 제기하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492284)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COST.O/total>
+#### [라틴아메리카 외환, 위험선호도 개선으로 혼조세, 원자재 가격 상승 부담](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492277)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
+#### [캐나다 은행, 최대 5억 캐나다 달러 규모의 채권 매입 - RTRS](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492274)
+#### [대두, 트레이더들이 중국 수요를 주시하면서 3개월래 최고치 부근에서 맴돌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492278)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492276)
+#### [시카고 콩기름 상승에 따른 ICE 카놀라 선물 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492273)
+#### [일본 총리가 금리 인상 계획에 의문을 제기했다는 보도에 외환-엔화 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492280)
+#### [미국 판사, 경쟁사 OpenAI에 대한 xAI 영업 비밀 소송을 일단 기각하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492275)
+#### [AI, 관세에 대한 투자자들의 불안감으로 증시 반등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492272)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [코어위브, 메타 딜로 은행으로부터 85억 달러 대출 유치 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492279)
+#### [미국산 오일 및 지방 - 2월 24일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492271)
 #### [텔레콤 이탈리아, 핵심 이익이 5~6% 증가하며 자사주 매입 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492264)
 #### [인류가 펜타곤과 분쟁에서 발 뒤꿈치를 파헤친다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492263)
 #### [팜올리브, 이사회 선정에 대한 DEI 기준 방어 계획, 서한에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492269)
@@ -48,23 +71,3 @@
 #### [엘레트로브라스 <AXIA6.SA>는 주당 97센타보의 수익을 올릴 것으로 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492231)
 #### [미국 북서부 강 유량이 91%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492224)
 #### [Eletrobras <AXIA3.SA>는 주당 1.16 헤알의 수익을 올릴 것으로 예상됩니다 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492233)
-#### [아르헨티나의 12월 경제활동이 예상보다 높은 3.5% 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492230)
-#### [맨델슨의 변호사는 그의 체포가 영국을 떠날 계획이라는 '근거 없는 제안'에 따른 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492228)
-#### [Eletrobras <AXIA.N>, 주당 29 센트의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492232)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AXIA.K/total>
-#### [첫 화물 운송 후 10년이 지난 지금, 미국의 LNG 지배력은 계속 증가할 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492229)
-#### [텔레콤 이탈리아, 핵심 이익 5~6% 증가, 자사주 매입 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492218)
-#### [2025 년에도 글로벌 아연 시장은 여전히 적자 상태라고 연구 그룹은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492223)
-#### [미국 상원 의원들이 트럼프 주요 연설을 앞두고 우크라이나를지지한다고 텍스트에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492215)
-#### [미국 주식이 움직인다-도미노피자, 팩트셋, IBM](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492217)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PVLA.O/total>
-#### [소 111,000마리, 돼지 489,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492222)
-#### [민주당 주 AG, 미국 백신 정책에 대해 트럼프 행정부에 대한 소송 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492220)
-#### [2025년 글로벌 납 시장 잉여가 확대될 것이라고 ILZSG는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492216)
-#### [구글이 합법적으로 신고한 사용자의 아동 성 학대 이미지, 위스콘신 법원 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492221)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [마진 압박으로 성장 전망이 꺾이면서 보우헤드 스페셜티 주가가 10% 넘게 급락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492219)
-#### [독점-러시아의 Transneft, 주요 펌핑 스테이션에 대한 드론 공격 후 파이프 라인 석유 섭취량 감축, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492214)
-#### [미국, 러시아, UAE 개인 및 단체에 사이버 관련 제재 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492205)
-#### [베일리가 금리에 대한 관망세를 선전한 후 버즈-스털링 테스트 추세가 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492213)
-#### [2026/27년 브라질 주요 중남부 설탕 생산량, 4050만 톤으로 예상됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2492210)
