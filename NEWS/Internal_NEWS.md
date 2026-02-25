@@ -1,7 +1,26 @@
-<head><meta charset="utf-8"><title>Vers : 20260225_2036 </title></head>
-<center>Vers : 20260225_2036 </center>
-<center>Vers : 20260226_0536 </center>
+<head><meta charset="utf-8"><title>Vers : 20260225_2105 </title></head>
+<center>Vers : 20260225_2105 </center>
+<center>Vers : 20260226_0605 </center>
 <br><br><br>
+#### [스포츠웨어 브랜드 온, 한국 로봇 공장 설립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494326)
+#### [크래바스 파트너, 최근 2026년 퇴사 후 로펌 데이비스 폴크에 합류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494321)
+#### [글로벌 위험선호도 개선으로 중남미 외환 상승, 남아공 자산은 예산 이후 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494323)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
+#### [사브 베네수엘라 법무 장관, 국회에 사임 의사를 표명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494325)
+#### ['불공평하다고 생각해요': 바르셀로나 관광세에 대한 방문객들의 의견은?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494328)
+#### [루이지애나 유틸리티 규제 당국이 메타 데이터 센터 거래에 대한 조사 요청을 거부했다고 법률 그룹이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494322)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [2월 25일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494324)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494327)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [독점-딥시크, 엔비디아 등 미국 칩 제조업체의 최신 AI 모델 출시 보류, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494318)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [오후 03:30(동부 표준시) 기준 S&P 500 상위 및 하위 실적 종목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494320)
+#### [포르투갈의 EDP 2025 수익, 재생에너지 증가로 44% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494319)
+#### [브라질 2026/27년 커피 수출이 4,700만 60kg에 가까운 기록을 달성할 수 있다고 헤지포인트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494317)
+#### [펀드, CBOT 대두 및 옥수수 순매수, 거래자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494315)
+#### [미국의 유익한 비에 대한 예측으로 CBOT 밀이 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494314)
+#### [미국 CFTC, 예측 시장 위법 행위를 단속할 권한이 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494316)
 #### [USDA 워싱턴의 플래그십 사우스 빌딩 매각, 직원 재배치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494313)
 #### [미국 북서부 강 유량은 91 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494311)
 #### [패스트 패션 체인 Primark, Tonge를 상임 CEO로 임명, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494312)
@@ -31,7 +50,7 @@
 #### [미국 판사가 거부한 대체 국가로의 신속한 추방을 허용하는 트럼프의 정책](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494288)
 #### [오늘 하루 주목해야 할 사항 - 2월 26일 목요일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494286)
 #### [엔터프라이즈 AI의 비밀 무기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494295)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRWD.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLTR.O/total>
 #### [캐나다 달러가 국내 GDP 데이터를 앞두고 상승세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494287)
 #### [쿠바, 플로리다에서 온 스피드 보트가 쿠바 해역에 들어와 발포 한 후 4 명이 사망했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494285)
 #### [월스트리트, 엔비디아 실적 발표를 앞두고 기술주 중심의 랠리 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494294)
@@ -56,19 +75,3 @@
 #### [노스 미디어 회계연도 매출 DKK 1,296백만](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494273)
 #### [엔지, 지분 가치 105억 Stg에 영국 전력 네트워크(UKPN) 지분 100% 인수 계약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494269)
 #### [관세 및 지정학적 리스크가 안전자산 수요를 자극하면서 금값이 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494264)
-#### [멕시코의 펨사, 4분기 60% 수익 증가, 디지털 전략 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494272)
-#### [네덜란드 항공사 KLM, 텔아비브행 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494268)
-#### [Engie, 2026~2028년 재무 목표 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494263)
-#### [프랑코 충성파이자 1981년 실패한 스페인 쿠데타의 지도자 안토니오 테헤로, 93세 나이로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494266)
-#### [뉴욕, 비디오 게임 개발사 밸브 고소, '전리품 상자'가 도박이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494267)
-#### [가나, 대대적인 개혁을 통해 연간 127톤의 장인 금 생산 목표 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494262)
-#### [미국 대법원, 이민자 구금자 노동 사건에서 GEO 그룹 신속 항소 기각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494265)
-#### [대두 선물은 중국과 바이오 연료 수요 희망으로 3 개월 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494252)
-#### [미국 천연가스 비축량이 지난주 550억 입방피트 감소한 것으로 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494253)
-#### [소 110,000마리, 돼지 492,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494260)
-#### [시장이 엔비디아를 기다리는 가운데 기술 랠리에 힘입어 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494251)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [넷플릭스 CEO 사란도스, 워너 브라더스 인수 논의 위해 백악관 방문, 폴리티코 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494256)
-#### [Fed의 보스틱: 연준을 둘러싼 정치적 공방이 대중의 신뢰를 약화시키고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494259)
-#### [프랑스 유권자들은 극우보다 강경 좌파를 권력에서 차단하려는 열망이 더 크다는 여론 조사 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494250)
-#### [젤렌스키와 트럼프가 전화 통화를 마쳤다고 젤렌스키의 고문은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2494255)
