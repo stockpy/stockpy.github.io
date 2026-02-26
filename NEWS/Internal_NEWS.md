@@ -1,14 +1,47 @@
-<head><meta charset="utf-8"><title>Vers : 20260226_2234 </title></head>
-<center>Vers : 20260226_2234 </center>
-<center>Vers : 20260227_0734 </center>
+<head><meta charset="utf-8"><title>Vers : 20260226_2302 </title></head>
+<center>Vers : 20260226_2302 </center>
+<center>Vers : 20260227_0802 </center>
 <br><br><br>
+#### [캐나다의 펨비나 파이프라인 4분기 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496456)
+#### [메타를 고소한 캘리포니아 여성, 소셜 미디어가 정신 건강에 악영향을 미쳤다고 증언한 유튜브의 증언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496457)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [브링크스, 66억 달러 규모의 거래로 NCR 아틀레오스 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496441)
+#### [캐나다 익스텐디케어의 4분기 매출 19.9% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496455)
+#### [터키 헵시부라다의 4분기 매출 17.8% 증가, 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496461)
+#### [캐나다의 블랙 다이아몬드 4분기 매출, 기대치를 상회하다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496440)
+#### [캐나다의 아트리움 모기지 회계연도 수익 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496454)
+#### [거대 베팅 업체 Flutter, 미국의 도전 과제에 대한 예상보다 훨씬 낮은 2026년 수익 예측](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496460)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CME.O/total>
+#### [미국 곡물 바지선 운임 값은? 2월 26일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496448)
+#### [인튜이트, 미국 세금 시즌 동안 마케팅 지출 증가로 예상보다 낮은 수익 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496453)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTU.O/total>
+#### [블록 4분기 조정 EBITDA가 예상치를 상회하고 인력 감축 계획 수립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496459)
+#### [펨비나 파이프라인 4분기 EPS CAD 0.78](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496447)
+#### [익스텐디케어 4분기 조정 FFO 캐나다 달러 295억5100만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496458)
+#### [블랙 다이아몬드 그룹 4분기 조정 EBITDA 3,890만 캐나다 달러 대 IBES 추정치 3,380만 캐나다 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496452)
+#### [ECN 캐피탈 4분기 조정 순이익 미화 1360만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496446)
+#### [분석-일본의 타카이치, BOJ 이사회 지명자들과 함께 비둘기를 연속으로 잡다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496451)
+#### [독점-ASML, 칩 양산 준비 완료된 차세대 EUV 툴, AI 칩 생산에 중요한 전환점 될 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496445)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
+#### [Nvidia의 스윙 앤 미스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496444)
+#### [B3 4분기 반복 순이익 15억 헤알 대 IBES 추정치 16억 헤알](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496450)
+#### [보장성보험 4분기 순이익이 크게 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496443)
+#### [러시아, 9시간 동안 우크라이나 드론 220대를 격추했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496462)
+#### [캐나다 제이미슨 웰니스의 4분기 매출 예상치 소폭 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496449)
+#### [Elastic 3분기 매출, 18% 증가하며 애널리스트 예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496442)
 #### [NLRB, '공동 고용'을 제한하는 트럼프 대통령의 첫 임기 규칙 부활](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496423)
 #### [4분기 매출 기대치를 상회한 Definitive Healthcare](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496425)
+#### [에버텍 4분기 매출 13.1% 증가, 예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496435)
+#### [PAR Technology, 4분기 매출 예상치 상회, 1억 달러 규모의 환매 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496434)
 #### [캐슬 바이오사이언스의 4분기 매출은 기대치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496424)
+#### [미국 법무부, 유권자 등록 명단에 대해 5 개 주를 추가로 고소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496438)
 #### [방어 회사 크라토스, 10억 달러 규모의 주식 매각 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496422)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KTOS.O/total>
+#### [PRA 그룹 4분기 현금 수금 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496439)
+#### [백악관 : 미국은 전제 조건없이 북한과의 대화에 열려 있다고 연합뉴스는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496437)
 #### [앰파스타 4분기 매출이 예상치를 하회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496420)
 #### [핀테크 플랫폼 Rocket Companies, 4분기 조정 매출 예상치를 상회하는 실적 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496429)
+#### [NZD/USD, 슬라이드 마운트 위험으로 상승세 유지에 어려움을 겪음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496436)
 #### [엑스포넨셜 피트니스 4분기 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496419)
 #### [FIGS 4분기 매출 33% 증가, 예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496428)
 #### [브라질 이타우 유니방코, 38억 5천만 헤알의 자본에 대한 이자 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496433)
@@ -35,36 +68,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
 #### [Compass 4분기 매출 23.1% 증가, 예상치 소폭 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496403)
 #### [PubMatic, 4분기 매출 기대치를 상회하는 실적 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496410)
-#### [솔벤텀, 수술용 제품 수요 호조로 분기 예상치를 상회하는 실적 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496401)
-#### [Sprout Social, 4분기 매출 예상치를 상회하는 실적 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496402)
-#### [보드워크테크 3분기 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496409)
-#### [CoreWeave 4분기 매출 증가, 애널리스트 예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496400)
-#### [모건 스탠리 다이렉트 렌딩 4분기 순투자 수익 전분기 대비 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496398)
-#### [유전자 검사 기업 Natera의 4분기 매출 39.8% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496388)
-#### [릴레이 테라퓨틱스, 4분기 매출 기대치를 상회하는 실적 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496394)
-#### [에어게인 4분기 매출 예상치 미달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496397)
-#### [도시 시장 실적 호조에 힘입어 RLJ 숙박 신탁 4분기 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496391)
-#### [몬스터 음료 4분기 순매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496393)
-#### [바이오라이프 솔루션 4분기 매출, 전년 동기 대비 20% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496396)
-#### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496390)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CZR.O/total>
-#### [북미, 2월 27일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496392)
-#### [캐나다의 제논 파마는 높은 R&D 비용으로 인해 4분기에 예상보다 큰 순손실을 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496395)
-#### [룩셈부르크의 글로반트 4분기 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496389)
-#### [워너 브라더스, 파라마운트 입찰 우위, 넷플릭스 대응을 위한 카운트다운 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496382)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
-#### [Alta Equipment 4분기 매출, 예상치를 상회하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496384)
-#### [브링크스, 66억 달러에 NCR 아틀레오스 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496379)
-#### [Fidus의 4분기 투자 수익, 전년 동기 대비 12.5% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496381)
-#### [4분기 매출 예상치를 소폭 상회한 VTEX](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496383)
-#### [로칼리자 4분기 순이익 9억 3,900만 헤알 대 IBES 추정치 9억 6,100만 헤알](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496364)
-#### [예상치를 상회하는 Tutor 페리니의 4분기 매출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496387)
-#### [신닥스 4분기 매출 38% 증가, 순이익은 예상치 하회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496374)
-#### [기술은 엔비디아 드래그로 하락하지만 다우는 10 개월 연속 월간 상승을 주시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496385)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [데이터 센터 수요에 힘입어 어플라이드 옵토일렉트로닉스의 4분기 매출 호조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496386)
-#### [은행들이 실적 추정치를 상회하면서 캐나다 증시-TSX가 또다시 사상 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496380)
-#### [얼라인먼트 헬스케어 4분기 매출 44.4% 증가, 예상치 소폭 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496363)
-#### [Block의 4분기 수익 증가, 4,000명 이상 감원 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496362)
-#### [월스트리트, 기술 랠리 주춤, 엔비디아 실적 이후 AI 열기가 약해지면서 하락 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496357)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CELH.O/total>

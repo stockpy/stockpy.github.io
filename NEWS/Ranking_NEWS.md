@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260226_2234 </title></head>
-<center>Vers : 20260226_2234 </center>
-<center>Vers : 20260227_0734 </center>
+<head><meta charset="utf-8"><title>Vers : 20260226_2302 </title></head>
+<center>Vers : 20260226_2302 </center>
+<center>Vers : 20260227_0802 </center>
 <br><br><br>
 #### ["결혼자금 3억으로 삼전·SK하이닉스 샀는데…" 공무원 화제](https://m.stock.naver.com/news/ranknews/view/015/0005256030)
 #### [[속보]엔비디아 ‘어닝 서프라이즈’에도 5.5%↓…나스닥 1.2%↓](https://m.stock.naver.com/news/ranknews/view/018/0006225689)
