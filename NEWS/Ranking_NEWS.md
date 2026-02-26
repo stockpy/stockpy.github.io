@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260226_2038 </title></head>
-<center>Vers : 20260226_2038 </center>
-<center>Vers : 20260227_0538 </center>
+<head><meta charset="utf-8"><title>Vers : 20260226_2118 </title></head>
+<center>Vers : 20260226_2118 </center>
+<center>Vers : 20260227_0618 </center>
 <br><br><br>
 #### ["결혼자금 3억으로 삼전·SK하이닉스 샀는데…" 공무원 화제](https://m.stock.naver.com/news/ranknews/view/015/0005256030)
 #### [주식으로 돈 벌었다?…"내 계좌는 녹는 중" 우는 개미 넘치는 이유](https://m.stock.naver.com/news/ranknews/view/008/0005323006)

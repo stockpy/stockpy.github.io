@@ -1,7 +1,31 @@
-<head><meta charset="utf-8"><title>Vers : 20260226_2038 </title></head>
-<center>Vers : 20260226_2038 </center>
-<center>Vers : 20260227_0538 </center>
+<head><meta charset="utf-8"><title>Vers : 20260226_2118 </title></head>
+<center>Vers : 20260226_2118 </center>
+<center>Vers : 20260227_0618 </center>
 <br><br><br>
+#### [신닥스 제약 4분기 영업 비용 미화 131.276백만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496307)
+#### [얼라이언스 헬스케어 4분기 매출 미화 1,012.8백만 달러 대 IBES 추정치 미화 1,003백만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496306)
+#### [자눅스 테라퓨틱스 4분기 기본 EPS USD -0.51](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496301)
+#### [듀오링고는 수익 창출보다 사용자 성장에 우선순위를 두고, 더 부드러운 예약을 예측합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496303)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DUOL.O/total>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496305)
+#### [토론토 증권 거래소, 비공식적으로 문을 닫다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496300)
+#### [엔비디아 CEO 황, 엔비디아가 마이크론의 최대 고객이라고 말하다 - Fox Business](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496304)
+#### [일본은행이 데이터 기반 금리 인상 신호를 보낸 후 외환-엔 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496308)
+#### [멀린 부동산 2025년 총 매출 5억6500만유로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496302)
+#### [라스베이거스 카지노 그룹 시저스, 인수 관심에 무게를 두다, 파이낸셜 타임즈 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496296)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CZR.O/total>
+#### [코카콜라, 멕시코에 60 억 달러 투자, 셰인 바움은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496294)
+#### [트럼프와 맘다니, 두 번째 만남, 주택, 학생 구금 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496295)
+#### [라스베가스 카지노 그룹 시저스, 인수 관심에 무게를 두다 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496299)
+#### [최근 하락에서 기술적 반등으로 CBOT 밀 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496293)
+#### [2월 26일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496297)
+#### [미 무역 패널, 중국의 영구적 정상 무역 지위 취소의 영향을 조사하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496298)
+#### [시티콘, 2025 회계연도 순 임대 수익 2억920만 유로 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496289)
+#### [멕시코, 파리 경매장에 콜롬비아 이전 유물 판매 중단 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496291)
+#### [CBOT 옥수수는 할인 구매, 기술 지원으로 확고하게 끝납니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496292)
+#### [캐나다, 2057년 만기 30억 캐나다 달러 채권 경매에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496288)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496290)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
 #### [글로벌 리스크오프 움직임에 중남미 자산이 휩쓸리고 콜롬비아 자산 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496284)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
 #### [엠프레사스 코펙의 4분기 수익이 예상치를 뛰어넘어 26% 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496286)
@@ -47,26 +71,3 @@
 #### [스마트폰 시장, 메모리 가격 급등으로 2026년 사상 최대 감소 전망, IDC는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496243)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
 #### [독점-미국, 난민으로 매달 4,500 명의 백인 남아공 인을 데려 오는 것을 목표로한다고 문서에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496235)
-#### [젤렌스키는 다음 3국 회담은 3월 초 아부다비에서 열릴 가능성이 높다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496245)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496242)
-#### [코델코, 리오틴토와 투자 검토를 위한 조기 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496238)
-#### [연방 요원들이 컬럼비아 대학교 학생을 캠퍼스 기숙사에 구금하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496244)
-#### [낙관적인 전망이 투자자들을 흥분시키지 못하면서 엔비디아 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496241)
-#### [모티바 엔터프라이즈, 3월 인도를 위해 베네수엘라 보스칸 중질유 화물 매입, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496237)
-#### [봄바디어는 인도에서 비즈니스 제트기 판매를 늘릴 기회가 있다고 CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496248)
-#### [팔라나드 4, 캐리비안 600에서 IRC 제로 왕관을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496240)
-#### [독일 코닉 앤 바우어의 2025년 매출 예비치 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496236)
-#### [에콰도르 국회, 광업 부문 개혁 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496247)
-#### [캐나다 달러가 안전자산으로 이동하는 항공편에서 하락세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496250)
-#### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
-#### [밀리콤 인터내셔널 셀룰러 SA, 12월 31일로 마감된 분기 실적 보고 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496239)
-#### [미국 요약: 달러가 피난처 입찰을 받으면서 EUR/USD 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496246)
-#### [Aramco, 수리를 위해 3 월까지 Juaymah LPG 배송 취소, 상인들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496249)
-#### [잉글랜드 프리미어리그, 싱가포르에서 스트리밍 서비스 데뷔, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496234)
-#### [메모리 가격 급등으로 2026 년 스마트 폰 시장이 사상 최대 감소를 기록 할 것이라고 IDC는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496230)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [실시간 시장-미국 AI 하이퍼스케일러 설비 투자 증가율, 4분기 실적 발표 이후 증가세 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496227)
-#### [코닉 & 바우어 회계연도 주문액 1,233.2백만 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496233)
-#### [반스앤노블 소유주 엘리엇, 런던 IPO 추진 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496229)
-#### [선사 시대 교배에서 네안데르탈인 남성과 호모 사피엔스 여성은 다음과 같습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496231)
-#### [북러너, 위즈 에어 2차 ABO 주문이 주당 12.50파운드 이하, 위험 누락이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2496232)
