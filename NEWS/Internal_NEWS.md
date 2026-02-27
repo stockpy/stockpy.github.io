@@ -1,7 +1,28 @@
-<head><meta charset="utf-8"><title>Vers : 20260227_2028 </title></head>
-<center>Vers : 20260227_2028 </center>
-<center>Vers : 20260228_0528 </center>
+<head><meta charset="utf-8"><title>Vers : 20260227_2055 </title></head>
+<center>Vers : 20260227_2055 </center>
+<center>Vers : 20260228_0555 </center>
 <br><br><br>
+#### [미국 기관, 차터 커뮤니케이션의 345억 달러 규모의 콕스 인수 거래 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498278)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CMCSA.O/total>
+#### [아폴로, xAI 부채로 2억 5천만 달러의 종이 수익 창출 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498272)
+#### [SpaceX가 1조 7,500억 달러 이상의 IPO 가치를 추구할 수 있다고 블룸버그는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498275)
+#### [캐나다는 2025/26년 첫 9개월 동안 261억 4천만 캐나다 달러의 예산 적자를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498277)
+#### [독점-워너 브라더스, 파라마운트와 1,100 억 달러 계약 체결, 경영진이 타운 홀에서 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498271)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
+#### [2월 27일 기준 앨버타 일일 카놀라 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498274)
+#### [SpaceX, 이르면 3 월에 기밀 IPO 제출을 검토, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498276)
+#### [미국 천연가스 선물이 글로벌 에너지 가격 상승, 사상 최대 LNG 수출에 힘입어 상승세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498270)
+#### [투기꾼들이 옥수수 순매도 포지션 정리 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498273)
+#### [펀드 매니저들이 최근 한 주 동안 S&P 500 선물 순매수 포지션을 늘렸습니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498266)
+#### [투기꾼들이 미국 원유 순매수를 늘리다-CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498269)
+#### [브라질, 수입세 인상 일부 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498263)
+#### [미국이 쿠바에 대한 연료 공급을 차단하면서 하바나에 자전거 붐이 일고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498265)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498268)
+#### [브라질의 Rosito, 재무부를 떠나 아시아에서 세계 은행 직책을 맡을 것이라고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498262)
+#### [RBC 하이일드 데스크, 퍼스트 브랜드 손실 이후 위축 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498264)
+#### [넷플릭스, 파라마운트 스카이댄스가 WBD 거래 종료 후 공동체에 28억 달러의 해지 수수료를 지불했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498267)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
+#### [우시크, 이집트 피라미드에서 킥복서 베르호벤과 WBC 타이틀전 치른다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498261)
 #### [27 학년도부터 아이비 리그 참석을 종료 할 것이라고 Hegseth는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498259)
 #### [CBOT 옥수수, 기술적 매수, 밀 상승으로 7 주 최고치까지 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498258)
 #### [재생-EUR/USD 해빙, 지정학적 리스크, 스털링 저지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498260)
@@ -54,25 +75,3 @@
 #### [소 86,000마리, 돼지 477,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498225)
 #### [노르딕 파이버보드 4분기 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498216)
 #### [백트, 4,800만 달러 이후 하락? 직접 주식 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498220)
-#### [미국 주식의 움직임-탈렌 에너지, 어플라이드 광전자, 석유 회사들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498218)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAOI.O/total>
-#### [정부 금지령 종료 후 알바니아로 돌아온 TikTok](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498215)
-#### [Dorsey의 무뚝뚝한 AI 경고로 일자리와 수익에 대한 논쟁 격화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498219)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [정부 금지령 종료 후 알바니아로 돌아온 TikTok](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498217)
-#### [노르딕 파이버보드 4분기 EBITDA -335천 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498211)
-#### [유니크레딧, 러시아에 대한 유럽중앙은행에 대한 소송을 취하했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498209)
-#### [미국 곡물 바지선 운임 값은? 2월 27일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498213)
-#### [캔자스주, 새로운 트랜스젠더 신분증 및 화장실 법에 대한 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498210)
-#### [피에노 즈바이츠데스 회계연도 EBITDA 12.1백만 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498208)
-#### [뉴욕 연준, 스탠딩 레포 운용 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498212)
-#### [인도로 인해 세계 설탕 생산량 230 만 톤 감소, 보고서에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498214)
-#### [독점-파라마운트는 워너 브라더스 거래에 대한 EU의 고개를 쉽게 확보 할 것으로 예상, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498207)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
-#### [미국, 교회에서 미네소타 ICE 시위에 참여한 30 명 추가 기소, 본디는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498201)
-#### [독점-워너 브라더스, 파라마운트와 1,100 억 달러 계약 체결, 경영진이 타운 홀에서 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498199)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
-#### [위험선호 심리가 달러 강세를 뒷받침하는 가운데 BUZZ-USD/JPY 강세 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498204)
-#### [비글라리 캐피탈, 잭 인 더 박스 회장 데이비드 괴벨의 즉각적인 사임 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498200)
-#### [이스탄불에서 테헤란으로 향하는 세 편의 항공편이 취소되었다고 공항 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498198)
-#### [미국 증권거래위원회, 외국인 내부자의 책임을 묻는 최종 규칙 채택](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498203)
