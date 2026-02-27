@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260227_2249 </title></head>
-<center>Vers : 20260227_2249 </center>
-<center>Vers : 20260228_0749 </center>
+<head><meta charset="utf-8"><title>Vers : 20260227_2312 </title></head>
+<center>Vers : 20260227_2312 </center>
+<center>Vers : 20260228_0812 </center>
 <br><br><br>
 #### [“1억으로 불린 77억, 퇴사 결심했습니다”…출금 수수료 10% 송금했더니](https://m.stock.naver.com/news/ranknews/view/009/0005643083)
 #### [[속보]다우 1% '뚝'…물가 충격에 중동 리스크·사모신용 불안 겹쳐](https://m.stock.naver.com/news/ranknews/view/018/0006226322)
