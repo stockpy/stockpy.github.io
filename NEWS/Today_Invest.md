@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-<center>Vers : 20260227_1622 </center>
-<center>Vers : 20260227_1622 </center>
-=======
-<center>Vers : 20260227_0656 </center>
-<center>Vers : 20260227_1556 </center>
->>>>>>> 0620dc44adc5d9f575d433394fe1b0dea85df6e7
+<center>Vers : 20260227_0732 </center>
+<center>Vers : 20260227_1632 </center>
 <br>
 <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -32,21 +27,16 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
   <tbody>
     <tr>
       <th>0</th>
-      <td>TIGER �ڽ���150</td>
+      <td>TIGER 코스닥150</td>
       <td>0%</td>
-<<<<<<< HEAD
       <td>21525</td>
-=======
-      <td>33910</td>
->>>>>>> 0620dc44adc5d9f575d433394fe1b0dea85df6e7
       <td>0</td>
       <td>0%</td>
       <td>0</td>
     </tr>
     <tr>
       <th>1</th>
-<<<<<<< HEAD
-      <td>TIGER �ݵ�üTOP10</td>
+      <td>TIGER 반도체TOP10</td>
       <td>0%</td>
       <td>36090</td>
       <td>0</td>
@@ -55,7 +45,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
     </tr>
     <tr>
       <th>2</th>
-      <td>TIGER �̱��ʶ��Ǿƹݵ�ü������</td>
+      <td>TIGER 미국필라델피아반도체나스닥</td>
       <td>0%</td>
       <td>30690</td>
       <td>0</td>
@@ -64,7 +54,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
     </tr>
     <tr>
       <th>3</th>
-      <td>TIGER ��弱��(H)</td>
+      <td>TIGER 골드선물(H)</td>
       <td>0%</td>
       <td>31230</td>
       <td>0</td>
@@ -73,47 +63,16 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
     </tr>
     <tr>
       <th>4</th>
-      <td>TIGER CD1��ݸ���Ƽ��(�ռ�)</td>
+      <td>TIGER CD1년금리액티브(합성)</td>
       <td>0%</td>
       <td>1060200</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
-=======
-      <td>KODEX 미국S&amp;P500</td>
-      <td>50%</td>
-      <td>22445</td>
-      <td>13</td>
-      <td>54.0%</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>KODEX iShares미국투자등급회사채액티브</td>
-      <td>15%</td>
-      <td>11860</td>
-      <td>7</td>
-      <td>11.0%</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>KODEX 미국10년국채선물</td>
-      <td>10%</td>
-      <td>12420</td>
-      <td>4</td>
-      <td>15.0%</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>KODEX 미국30년국채액티브(H)</td>
-      <td>10%</td>
-      <td>9080</td>
-      <td>6</td>
-      <td>8.0%</td>
->>>>>>> 0620dc44adc5d9f575d433394fe1b0dea85df6e7
     </tr>
     <tr>
       <th>5</th>
-      <td>KODEX �̱����ٿ�����</td>
+      <td>KODEX 미국배당다우존스</td>
       <td>15%</td>
       <td>12300</td>
       <td>7</td>
@@ -122,24 +81,16 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
     </tr>
     <tr>
       <th>6</th>
-<<<<<<< HEAD
-      <td>KODEX �̱�S&amp;P500</td>
+      <td>KODEX 미국S&amp;P500</td>
       <td>50%</td>
       <td>22445</td>
       <td>13</td>
       <td>54.0%</td>
       <td>-40</td>
-=======
-      <td>TIGER 미국필라델피아반도체나스닥</td>
-      <td>0%</td>
-      <td>30690</td>
-      <td>0</td>
-      <td>0%</td>
->>>>>>> 0620dc44adc5d9f575d433394fe1b0dea85df6e7
     </tr>
     <tr>
       <th>7</th>
-      <td>KODEX �̱�30�ⱹä��Ƽ��(H)</td>
+      <td>KODEX 미국30년국채액티브(H)</td>
       <td>10%</td>
       <td>9080</td>
       <td>6</td>
@@ -148,7 +99,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
     </tr>
     <tr>
       <th>8</th>
-      <td>KODEX �̱�10�ⱹä����</td>
+      <td>KODEX 미국10년국채선물</td>
       <td>10%</td>
       <td>12420</td>
       <td>4</td>
@@ -157,7 +108,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
     </tr>
     <tr>
       <th>9</th>
-      <td>KODEX iShares�̱����ڵ��ȸ��ä��Ƽ��</td>
+      <td>KODEX iShares미국투자등급회사채액티브</td>
       <td>15%</td>
       <td>11860</td>
       <td>7</td>
@@ -168,18 +119,14 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>10</th>
       <td>KODEX 200TR</td>
       <td>0%</td>
-<<<<<<< HEAD
       <td>33910</td>
-=======
-      <td>21395</td>
->>>>>>> 0620dc44adc5d9f575d433394fe1b0dea85df6e7
       <td>0</td>
       <td>0%</td>
       <td>0</td>
     </tr>
     <tr>
       <th>11</th>
-      <td>ACE �׽�����ü�ξ�Ƽ��</td>
+      <td>ACE 테슬라밸류체인액티브</td>
       <td>0%</td>
       <td>21395</td>
       <td>0</td>
@@ -192,8 +139,6 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 var chart = bb.generate({
 data: {
 columns: [
-<<<<<<< HEAD
-=======
 ['KODEX 미국S&P500', '54.0'],
 ['KODEX iShares미국투자등급회사채액티브', '11.0'],
 ['KODEX 미국10년국채선물', '15.0'],
@@ -211,4 +156,3 @@ bindto: "#expandRate"
 });
 </script>
 </center>
->>>>>>> 0620dc44adc5d9f575d433394fe1b0dea85df6e7
