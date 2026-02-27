@@ -22,21 +22,45 @@ headers={'user-agent': 'Mozilla/5.0'}
 
 # Pension List
 AMOUNT_BUDGET = 600000
-PENSION_PERCS = ['0%', '50%', '15%', '10%', '10%', '15%', '0%', '0%'] # 자산분배 목표율
+# PENSION_PERCS = ['0%', '50%', '15%', '10%', '10%', '15%', '0%', '0%'] # 자산분배 목표율
+PENSION_PERCS = ['0%', '0%', '0%', '0%', '0%', '15%', '50%', '10%', '10%', '15%', '0%', '0%']
 PENSION_DIVIDENDS, PENSION_CALL = [], []
+
+# 2026-02-27 자산분배 목표율
+# 	ETF_Name	Alloc_P	Price	CALL	MY_PERC
+# 0	KODEX 200TR	0%	33460	0	0%
+# 1	KODEX 미국S&P500	50%	22445	13	54.0%
+# 2	KODEX iShares미국투자등급회사채액티브	15%	11875	7	11.0%
+# 3	KODEX 미국10년국채선물	10%	12420	4	15.0%
+# 4	KODEX 미국30년국채액티브(H)	10%	9085	6	8.0%
+# 5	KODEX 미국배당다우존스	15%	12315	7	12.0%
+# 6	TIGER 미국필라델피아반도체나스닥	0%	30675	0	0%
+# 7	ACE 테슬라밸류체인액티브	0%	21360	0	0%
 
 MY_STOCK_PRICE, MY_PERC, MY_Target_PEC, MY_Target_Count = [], [], [], []
 
 # MY_STOCK_COUNT = [191, 507, 193, 259, 175, 197, 1054, 795]
-MY_STOCK_COUNT_Dict = {'KODEX 200TR' : 191,
-                       'KODEX 미국S&P500' : 507,
-                       'KODEX iShares미국투자등급회사채액티브' : 193,
-                       'KODEX 미국10년국채선물' : 259,
-                       'KODEX 미국30년국채액티브(H)' : 175,
-                       'KODEX 미국배당다우존스' : 197,
-                       'TIGER 미국필라델피아반도체나스닥' : 1054,
-                       'ACE 테슬라밸류체인액티브' : 795}
+# MY_STOCK_COUNT_Dict = {'KODEX 200TR' : 191,
+#                        'KODEX 미국S&P500' : 507,
+#                        'KODEX iShares미국투자등급회사채액티브' : 193,
+#                        'KODEX 미국10년국채선물' : 259,
+#                        'KODEX 미국30년국채액티브(H)' : 175,
+#                        'KODEX 미국배당다우존스' : 197,
+#                        'TIGER 미국필라델피아반도체나스닥' : 1054,
+#                        'ACE 테슬라밸류체인액티브' : 795}
 
+MY_STOCK_COUNT_Dict = {'TIGER 코스닥150' : 166,
+                       'TIGER 반도체TOP10': 396,
+                       'TIGER 미국필라델피아반도체나스닥' : 487,
+                       'TIGER 골드선물' : 71,
+                       'TIGER CD금리1년' : 2,
+                       'KODEX 미국배당다우존스' : 215,
+                       'KODEX 미국S&P500' : 546,
+                       'KODEX 미국30년국채액티브(H)' : 193,
+                       'KODEX 미국10년국채선물' : 271,
+                       'KODEX iShares미국투자등급회사채액티브' : 214,
+                       'KODEX 200TR' : 61,
+                       'ACE 테슬라밸류체인액티브' : 795}
 def __Read_Blog() :
 
   print("# Read Blog Start")
@@ -248,15 +272,19 @@ def __KO_ETF_Allocation() :
     sum, sum1 =0, 0
     
     # 아래 ETF 리스트 중 ETF그룹을 선별
-    ETF_List = ["278530", "379800", "468630", "308620", "484790", "489250", "381180", "457480"]
+    # ETF_List = ["278530", "379800", "468630", "308620", "484790", "489250", "381180", "457480"]
+    ETF_List = ["232080", "396500", "381180", "319640", "475630", "489250", "379800", "484790", "308620", "468630", "278530", "457480"]
+    # 232080 TIGER 코스닥150
+    # 396500 TIGER 반도체TOP10
+    # 381180 TIGER 미국필라델피아반도체나스닥
+    # 319640 TIGER 골드선물
+    # 475630 TIGER CD금리1년
+    # 489250 KODEX 미국배당다우존스
+    # 379800 KODEX 미국S&P500
+    # 484790 KODEX 미국30년국채액티브(H)
+    # 308620 KODEX 미국10년국채선물
+    # 468630 KODEX iShares미국투자등급회사채액티브
     # 278530 코스피 KODEX 200TR
-    # 069500 코스피배당 KODEX 200
-    # 379800 코스피배당 KODEX 미국S&P500
-    # 468630 코스피배당 KODEX iShares미국투자등급회사채액티브
-    # 308620 코스피배당 KODEX 미국10년국채선물
-    # 484790 코스피배당 KODEX 미국30년국채액티브(H)
-    # 489250 코스피배당 KODEX 미국배당다우존스
-    # 381180 코스피배당 TIGER 미국필라델피아반도체나스닥
     # 457480 코스피배당 ACE 테슬라밸류체인액티브
 
     for ETF_Symbol in ETF_List : # 선별된 ETF그룹의 각 ETF별 가격을 확보 (날짜, 종가)
@@ -278,13 +306,16 @@ def __KO_ETF_Allocation() :
 
     for index, price in enumerate(PENSION_PRICES):
     #     print(index, price, PENSION_PERCS[index])
-        percentage_value = float(PENSION_PERCS[index].rstrip('%')) / 100
+        percentage_value = float(PENSION_PERCS[index].rstrip('%')) / 100 # 자산분배목표율에서 실제 값을 가져오는 라인 몇% /100
         dividend_amount = int(AMOUNT_BUDGET * percentage_value) # 매월 투자금 60만원을 자산분배 목표율로 곱하기 --> 종목의 투자금
         PENSION_DIVIDENDS.append(dividend_amount) # 종목의 투자금
-        PENSION_CALL.append(int(dividend_amount/PENSION_PRICES[index])) # 종목 투자 개수
+        PENSION_CALL.append(int(dividend_amount/PENSION_PRICES[index])) # 종목 투자 개수 = 종목 투자금 / 종목 주가
+
+    print("# DF_Pension_StockName")
+    print(DF_Pension_StockName)
 
     for idx, val in enumerate(list(MY_STOCK_COUNT_Dict.values())) :
-      # print("%s, %i" %(DF_Pension_StockName[idx], PENSION_PRICES[idx]*val))
+      print("%s, %i" %(DF_Pension_StockName[idx], PENSION_PRICES[idx]*val))
       Result = int(PENSION_PRICES[idx]*val)
       MY_STOCK_PRICE.append(Result) # 종목당 투자금
       sum+=Result
@@ -304,19 +335,45 @@ def __KO_ETF_Allocation() :
             MY_Target_PEC.append("0")
             MY_Target_Count.append("0")
 
-    print("# MY_PERC Start")
+    print("# MY_PERC Start") # 현재 자산 배분율
     print(MY_PERC)
+    print("# MY_TARGET_PEC ") # 자산분배 목표율로 계산한 종목당 목표금액
     print(MY_Target_PEC)
+    print("# MY_Target_Count")
     print(MY_Target_Count)
-    print(sum1)
-    print("# MY_PERC Start")
+    print("# 자산배분 총 투자액 : %s" % sum1)
+    print("# MY_PERC Done")
+
+    indiv_perc_v_List = []
+    for perc_v in MY_PERC: # 현재 자산배분율을 고려한 종목별 금액을 출력
+        # print(perc_v)
+        # print(perc_v.rstrip('%'))
+        if perc_v.rstrip('%') == '0' :
+           indiv_perc_v_List.append(0)
+        else:
+           print(int(float(perc_v.rstrip('%')))/100)
+           indiv_perc_v = sum1 * (int(float(perc_v.rstrip('%')))/100) #  float와 int를 안쓰면 ValueError: invalid literal for int() with base 10: '12.0'
+           print("# indiv_perc_v : %s" % indiv_perc_v)
+           indiv_perc_v_List.append(indiv_perc_v)
+
+    print(MY_Target_PEC) # 자산분배 목표율로 계산한 종목당 목표금액
+    print(indiv_perc_v_List) # 현재 자산배분율을 고려한 종목별 금액을 출력
+    print(PENSION_PRICES) # 마지막 종가를 최종 종가로 판단해서 가져옴
+
+    result_indiv_perc1 = [int(x) - y for x, y in zip(MY_Target_PEC, indiv_perc_v_List)] # 각 종목 별 목표배분금액 - 현재배분금액
+    result_indiv_perc2 = [int(x / y) for x, y in zip(result_indiv_perc1 , PENSION_PRICES)] # 목표배분율로 재분배하기위한 stock 개수 조정
+
+    print("")
+    print(result_indiv_perc1)
+    print(result_indiv_perc2)
 
     df = pd.DataFrame({
         'ETF_Name': DF_Pension_StockName,
         'Alloc_P': PENSION_PERCS,
         'Price': PENSION_PRICES,
         'Alloc_C': PENSION_DIVIDENDS,
-        'CALL': PENSION_CALL
+        'CALL': PENSION_CALL,
+        'CHANGE': result_indiv_perc2
         })
 
     # pd.set_option('display.max_rows', n)
@@ -351,7 +408,7 @@ def __KO_ETF_Allocation() :
 
     # print(df.to_markdown(index=False))
     # output.write(df.to_markdown())
-    output.write(df[['ETF_Name', 'Alloc_P', 'Price', 'CALL', 'MY_PERC']].to_html(classes='tg'))
+    output.write(df[['ETF_Name', 'Alloc_P', 'Price', 'CALL', 'MY_PERC', 'CHANGE']].to_html(classes='tg'))
   
     output.write('<br>\n')
   
