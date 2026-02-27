@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260227_1720 </title></head>
-<center>Vers : 20260227_1720 </center>
-<center>Vers : 20260228_0220 </center>
+<head><meta charset="utf-8"><title>Vers : 20260227_1843 </title></head>
+<center>Vers : 20260227_1843 </center>
+<center>Vers : 20260228_0343 </center>
 <br><br><br>
 #### [“1억으로 불린 77억, 퇴사 결심했습니다”…출금 수수료 10% 송금했더니](https://m.stock.naver.com/news/ranknews/view/009/0005643083)
 #### ["지금 투자하면 패가망신 지름길" 증시 퇴출 고위험 종목 14개](https://m.stock.naver.com/news/ranknews/view/277/0005726932)
