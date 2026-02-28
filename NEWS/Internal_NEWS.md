@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260228_1650 </title></head>
-<center>Vers : 20260228_1650 </center>
-<center>Vers : 20260301_0150 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_1710 </title></head>
+<center>Vers : 20260228_1710 </center>
+<center>Vers : 20260301_0210 </center>
 <br><br><br>
+#### [에어 인디아, 2026년 3월 1일 예정된 북미 및 유럽행 일부 항공편을 취소했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498657)
+#### [독일 메르츠 총리, 이스라엘의 안보에 대한 헌신 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498658)
 #### [러시아 라브로프, 카타르 측과이란 논의, 외무부는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498655)
 #### [항공사는 토요일에 카타르, 이스라엘 행 항공편의 약 절반을 취소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498652)
 #### [이란, 지역 내 모든 미국, 이스라엘 자산은 합법적 인 군사 목표라고 유엔에 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498654)
@@ -63,5 +65,3 @@
 #### [독일, 프랑스, 영국, 역내 이란 공격 규탄, 회담 재개 원해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498600)
 #### [미국과 이스라엘의 이란 공격에 대한 시장 분석가들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498602)
 #### [러시아 대사관, 시민들에게 아르메니아 또는 아제르바이잔을 통해이란을 떠나도록 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498598)
-#### [버크셔 해서웨이, 2025년 12월 31일 기준 3,733억 달러의 현금 및 등가물 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498597)
-#### [이스라엘은 공격으로 여러 명의이란 고위 관리가 사망했다고 믿고 있다고 작전 브리핑 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498599)
