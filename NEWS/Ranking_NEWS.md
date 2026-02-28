@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260228_1023 </title></head>
-<center>Vers : 20260228_1023 </center>
-<center>Vers : 20260228_1923 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_1046 </title></head>
+<center>Vers : 20260228_1046 </center>
+<center>Vers : 20260228_1946 </center>
 <br><br><br>
 #### [충격 소식에 잘나가던 주가 '휘청'…한국전력 개미 어쩌나 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005256568)
 #### [“수익률 7700%, 1억이 77억 됐다” 놀란 직장인…출금 수수료 냈다가 ‘이럴수가’](https://m.stock.naver.com/news/ranknews/view/011/0004594502)
