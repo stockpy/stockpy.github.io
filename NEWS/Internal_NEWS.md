@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260228_2245 </title></head>
-<center>Vers : 20260228_2245 </center>
-<center>Vers : 20260301_0745 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_2258 </title></head>
+<center>Vers : 20260228_2258 </center>
+<center>Vers : 20260301_0758 </center>
 <br><br><br>
+#### [올리비아 딘의 '더 아트 오브 러빙', BRITs에서 올해의 앨범 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498729)
+#### [쿼트-미국과 이스라엘의 대이란 공격에 대한 시장 분석가들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498730)
+#### [트럼프가 카 메네이가 살해 당했다고 말한 후 일부이란 인들은 축하한다고 목격자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498728)
+#### [이란의 신정주의 권력 체계는 어떻게 작동하나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498727)
 #### [온타리오주 킹스턴 코겐 140MW 데스텍 가스 발전소 폐쇄 - 온타리오주 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498726)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498725)
 #### [두바이 국제공항에서 발생한 사고로 4명이 부상했다고 두바이 언론사가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498724)
@@ -59,7 +63,3 @@
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498674)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498673)
 #### [이란에 대한 공격 이후 크레타의 그리스 / 미국 해군 기지, 소식통에 따르면 보안 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498671)
-#### [영국 장관, 언론인 조사 혐의에 대한 검토 면제에도 불구하고 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498669)
-#### [터키의 에르도안, 미국과 이스라엘의 대이란 공격은 주권 침해라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498668)
-#### [카타르, 추후 공지가있을 때까지 공개 행사 중단, 관광 서큘러는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498670)
-#### [가족과 함께 두바이에 갇힌 이탈리아 국방부 장관](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498667)
