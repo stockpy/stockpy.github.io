@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260228_1627 </title></head>
-<center>Vers : 20260228_1627 </center>
-<center>Vers : 20260301_0127 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_1650 </title></head>
+<center>Vers : 20260228_1650 </center>
+<center>Vers : 20260301_0150 </center>
 <br><br><br>
+#### [러시아 라브로프, 카타르 측과이란 논의, 외무부는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498655)
+#### [항공사는 토요일에 카타르, 이스라엘 행 항공편의 약 절반을 취소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498652)
+#### [이란, 지역 내 모든 미국, 이스라엘 자산은 합법적 인 군사 목표라고 유엔에 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498654)
+#### [인도, 평년보다 더운 여름, 폭염 일수 증가 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498656)
+#### [백악관, 트럼프가 네타냐후와 대화하며이란 상황을 모니터링했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498651)
+#### [분석-트럼프의 이란 공격은 그의 가장 큰 외교 정책 도박입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498653)
+#### [ADNOC, 중단 없이 계속 운영한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498649)
+#### [보험사, 걸프만과 호르무즈 해협에서 선박 보험 취소 및 가격 인상 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498650)
+#### [유엔 핵 감시단은이란에 대한 공격으로 인한 '방사능 영향'을 보지 못했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498648)
 #### [이란 전쟁으로 석유 시장이 수십 년 만에 최대 위기에 처했습니다: Bousso](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498647)
 #### [OPEC +, 이란 파업 후 411,000 배럴의 석유 생산량 증가를 고려할 수 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498645)
 #### [독점-이란 공격 이전에 CIA는 카메네이가 살해되면 강경파 IRGC 요소로 대체 될 것이라고 평가했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498646)
@@ -56,14 +65,3 @@
 #### [러시아 대사관, 시민들에게 아르메니아 또는 아제르바이잔을 통해이란을 떠나도록 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498598)
 #### [버크셔 해서웨이, 2025년 12월 31일 기준 3,733억 달러의 현금 및 등가물 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498597)
 #### [이스라엘은 공격으로 여러 명의이란 고위 관리가 사망했다고 믿고 있다고 작전 브리핑 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498599)
-#### [이스라엘, 미국과 이스라엘의 이란 공격 후 가스전 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498594)
-#### [베를린, 독일 자산을 통제하기 위해 로즈네프트 사업부를 신탁 관리로 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498592)
-#### [미국과 이란의 긴장이 세계 시장에 미치는 영향](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498596)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
-#### [사우디 왕세자, UAE 대통령에게 전화하여이란 공격 논의, UAE 국영 통신은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498593)
-#### [푸틴, 러시아 안보리에서 이란에 대해 논의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498591)
-#### [버크셔 해서웨이의 이익은 상각, 보험 수입 감소로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498595)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KHC.O/total>
-#### [백악관, 토요일 트럼프 연설 계획 확정되지 않았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498590)
-#### [브라질 정부, 이란에 대한 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498589)
-#### [버크셔 해서웨이, 4분기 평균 등가 클래스 A 주당 순이익이 $13,349라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498588)
