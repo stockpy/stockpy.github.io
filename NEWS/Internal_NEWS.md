@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260228_1710 </title></head>
-<center>Vers : 20260228_1710 </center>
-<center>Vers : 20260301_0210 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_1833 </title></head>
+<center>Vers : 20260228_1833 </center>
+<center>Vers : 20260301_0333 </center>
 <br><br><br>
+#### [이란에 대한 공격 이후 크레타의 그리스 / 미국 해군 기지, 소식통에 따르면 보안 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498671)
+#### [영국 장관, 언론인 조사 혐의에 대한 검토 면제에도 불구하고 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498669)
+#### [터키의 에르도안, 미국과 이스라엘의 대이란 공격은 주권 침해라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498668)
+#### [카타르, 추후 공지가있을 때까지 공개 행사 중단, 관광 서큘러는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498670)
+#### [가족과 함께 두바이에 갇힌 이탈리아 국방부 장관](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498667)
+#### [바레인 미군 기지 근처에서 발생한 공격의 순간을 보여주는 목격자 영상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498666)
+#### [이집트, 이스라엘로부터 가스 공급 중단, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498665)
+#### [프랑스는이란에 대한 파업에 대해 사전에 통보받지 못했다고 Macron은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498663)
+#### [카니, 캐나다가 미국의 대이란 공격을 지지한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498664)
+#### [베네수엘라, 이란에 대한 공격과 이란의 보복을 규탄하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498662)
+#### [시테 온타리오 195MW 고어웨이 12 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498661)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498660)
+#### [미국-이스라엘 공격으로 이란에서 공포와 공황이 촉발되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498659)
 #### [에어 인디아, 2026년 3월 1일 예정된 북미 및 유럽행 일부 항공편을 취소했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498657)
 #### [독일 메르츠 총리, 이스라엘의 안보에 대한 헌신 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498658)
 #### [러시아 라브로프, 카타르 측과이란 논의, 외무부는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498655)
@@ -52,16 +65,3 @@
 #### [우크라이나의 젤렌스키, 미국이 이란에 단호하게 행동하는 것이 중요하다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498614)
 #### [중국, 미국, 이스라엘의 이란 공격 후 즉각적인 휴전 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498613)
 #### [미국과 이스라엘, 이란 지도부를 겨냥한 공습 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498611)
-#### [사우디, 이란이 리야드 공격 확인, 외무부는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498610)
-#### [버크셔의 CEO 아벨은 버핏 이후 신중한 청지기가 될 것이라고 투자자들에게 확신합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498612)
-#### [독일, 프랑스, 영국, 이란에 역내 공격 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498606)
-#### [우크라이나의 젤렌스키: 미국이 이란에 단호하게 행동하는 것이 중요합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498609)
-#### [이란 공습 후 예방 조치로 이라크 쿠르디스탄에서 석유 생산 중단한 RPT-DNO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498608)
-#### [이스라엘-이란 공격, 글로벌 안정 위협, 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498605)
-#### [미 하원 의장은 '갱 오브 8'이이란에 대한 군사 행동에 대해 브리핑을 받았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498604)
-#### [UAE, 생필품 비축량 확보, 대중에게 비축하지 말라고 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498607)
-#### [DNO, 이란 공습 후 예방 조치로 이라크 쿠르드족의 석유 생산 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498603)
-#### [이란 국방 장관, 이스라엘 공격으로 경비대 사령관 살해, 3 명의 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498601)
-#### [독일, 프랑스, 영국, 역내 이란 공격 규탄, 회담 재개 원해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498600)
-#### [미국과 이스라엘의 이란 공격에 대한 시장 분석가들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498602)
-#### [러시아 대사관, 시민들에게 아르메니아 또는 아제르바이잔을 통해이란을 떠나도록 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498598)
