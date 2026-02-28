@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260228_2027 </title></head>
-<center>Vers : 20260228_2027 </center>
-<center>Vers : 20260301_0527 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_2049 </title></head>
+<center>Vers : 20260228_2049 </center>
+<center>Vers : 20260301_0549 </center>
 <br><br><br>
+#### [키예프, 러시아, 우크라이나 안보 보장을위한 미국 계획 수락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498708)
+#### [미국은이란의 카 메네이가 죽었다고 믿는다, 폭스 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498709)
+#### [트럼프의 이란 공격, 중간선거를 앞두고 MAGA의 단결을 시험하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498707)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498705)
+#### [미-이스라엘 공습으로 사망한 것으로 알려진 아야톨라 하메네이, 무시무시한 반서방 통치를 구체화하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498706)
 #### [BUZZ-재생-EUR/USD 해빙, 지정학적 리스크, 스털링 저지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498704)
 #### [이스라엘, 인도주의 구호 요원을 포함한 가자 지구로의 횡단 폐쇄, 이스라엘 정부 기관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498702)
 #### [미국, 핵 협상에서이란의 '게임과 속임수' 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498703)
@@ -58,8 +63,3 @@
 #### [백악관, 트럼프가 네타냐후와 대화하며이란 상황을 모니터링했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498651)
 #### [분석-트럼프의 이란 공격은 그의 가장 큰 외교 정책 도박입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498653)
 #### [ADNOC, 중단 없이 계속 운영한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498649)
-#### [보험사, 걸프만과 호르무즈 해협에서 선박 보험 취소 및 가격 인상 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498650)
-#### [유엔 핵 감시단은이란에 대한 공격으로 인한 '방사능 영향'을 보지 못했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498648)
-#### [이란 전쟁으로 석유 시장이 수십 년 만에 최대 위기에 처했습니다: Bousso](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498647)
-#### [OPEC +, 이란 파업 후 411,000 배럴의 석유 생산량 증가를 고려할 수 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498645)
-#### [독점-이란 공격 이전에 CIA는 카메네이가 살해되면 강경파 IRGC 요소로 대체 될 것이라고 평가했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498646)
