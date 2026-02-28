@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260228_2258 </title></head>
-<center>Vers : 20260228_2258 </center>
-<center>Vers : 20260301_0758 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_2331 </title></head>
+<center>Vers : 20260228_2331 </center>
+<center>Vers : 20260301_0831 </center>
 <br><br><br>
+#### [OpenAI, 미국 국방부 협정에서 계층적 보호에 대해 자세히 설명합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498734)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [유엔 핵기구 이사회, 러시아의 요청에 따라 월요일이란에서 회의 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498733)
+#### [2026 BRIT 어워드 수상작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498735)
+#### [이란에 대한 미국과 이스라엘의 공격에 반대하는 시위대의 워싱턴 집회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498732)
+#### [이란 미사일 공격으로 두바이 공항이 피해를 입어 부상자 4명 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498731)
 #### [올리비아 딘의 '더 아트 오브 러빙', BRITs에서 올해의 앨범 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498729)
 #### [쿼트-미국과 이스라엘의 대이란 공격에 대한 시장 분석가들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498730)
 #### [트럼프가 카 메네이가 살해 당했다고 말한 후 일부이란 인들은 축하한다고 목격자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498728)
@@ -58,8 +64,3 @@
 #### [영국 스타 머, UAE 대통령 겸 카타르 에미 르와 대화, 다우닝 스트리트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498678)
 #### [미국 북서부 강 유량 최대 94% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498676)
 #### [트럼프의 이란 공격, 중간선거를 앞두고 MAGA 단결 테스트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498677)
-#### [일요일이란에 대해 논의 할 EU 외무 장관, 칼라스, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498672)
-#### [이란의 보복에도 불구하고 미국 전투 사상자는 없다고 미군은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498675)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498674)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498673)
-#### [이란에 대한 공격 이후 크레타의 그리스 / 미국 해군 기지, 소식통에 따르면 보안 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498671)
