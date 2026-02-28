@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260228_2223 </title></head>
-<center>Vers : 20260228_2223 </center>
-<center>Vers : 20260301_0723 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_2245 </title></head>
+<center>Vers : 20260228_2245 </center>
+<center>Vers : 20260301_0745 </center>
 <br><br><br>
+#### [온타리오주 킹스턴 코겐 140MW 데스텍 가스 발전소 폐쇄 - 온타리오주 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498726)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498725)
+#### [두바이 국제공항에서 발생한 사고로 4명이 부상했다고 두바이 언론사가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498724)
+#### [미-이스라엘 공습으로 사망 한 것으로 알려진 아야톨라 하메네이, 무시 무시한 반 서방 통치를 구체화하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498723)
+#### [로이터 뉴스 일정 오후 10시(GMT/6시(한국 시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498722)
 #### [에어 캐나다, 중동의 군사적 상황으로 인해 캐나다발 이스라엘행 항공편은 3월 8일까지, 두바이행 항공편은 3월 3일까지 취소한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498721)
 #### [트럼프, 이란의 카메네이가 죽었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498718)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498720)
@@ -58,8 +63,3 @@
 #### [터키의 에르도안, 미국과 이스라엘의 대이란 공격은 주권 침해라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498668)
 #### [카타르, 추후 공지가있을 때까지 공개 행사 중단, 관광 서큘러는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498670)
 #### [가족과 함께 두바이에 갇힌 이탈리아 국방부 장관](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498667)
-#### [바레인 미군 기지 근처에서 발생한 공격의 순간을 보여주는 목격자 영상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498666)
-#### [이집트, 이스라엘로부터 가스 공급 중단, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498665)
-#### [프랑스는이란에 대한 파업에 대해 사전에 통보받지 못했다고 Macron은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498663)
-#### [카니, 캐나다가 미국의 대이란 공격을 지지한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498664)
-#### [베네수엘라, 이란에 대한 공격과 이란의 보복을 규탄하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498662)
