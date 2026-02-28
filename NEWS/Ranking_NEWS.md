@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260228_0639 </title></head>
-<center>Vers : 20260228_0639 </center>
-<center>Vers : 20260228_1539 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_0704 </title></head>
+<center>Vers : 20260228_0704 </center>
+<center>Vers : 20260228_1604 </center>
 <br><br><br>
 #### [21% 프리미엄에도 불티...삼성·하이닉스에 중국인도 몰려들었다](https://m.stock.naver.com/news/ranknews/view/008/0005323638)
 #### [“만원에 그려진 ‘이 그림’ 때문에” 외국인들 한국 돈 사려고 난리났다](https://m.stock.naver.com/news/ranknews/view/016/0002606538)
