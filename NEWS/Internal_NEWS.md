@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260228_1858 </title></head>
-<center>Vers : 20260228_1858 </center>
-<center>Vers : 20260301_0358 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_1927 </title></head>
+<center>Vers : 20260228_1927 </center>
+<center>Vers : 20260301_0427 </center>
 <br><br><br>
+#### [독점-이란 공격 이전에 CIA는 카메네이가 살해 될 경우 강경파 IRGC 요소로 대체 될 수 있다고 평가했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498683)
+#### [이스라엘 야당 지도자 라피드는이란에 대한 공격을지지하고 정권 교체를 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498682)
+#### [라파를 포함한 가자 지구로의 여러 횡단이 폐쇄되었다고 이스라엘 정부 기관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498681)
+#### [버핏으로부터 바통을 이어받은 버크셔 CEO 아벨, 주주들을 안심시키려 애쓰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498680)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KHC.O/total>
 #### [바클레이즈는 미국과 이스라엘이이란을 공격 한 후 브렌트 유가 배럴당 100 달러에이를 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498679)
 #### [영국 스타 머, UAE 대통령 겸 카타르 에미 르와 대화, 다우닝 스트리트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498678)
 #### [미국 북서부 강 유량 최대 94% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498676)
@@ -60,8 +65,3 @@
 #### [우크라이나의 나프 토 가스, 러시아가 가스 추출 시설을 공격했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498627)
 #### [영국, 이익 보호를 위해 조정 된 방어 노력에 합류, 스타 머는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498624)
 #### [러시아, 중국, 이란에 대한 긴급 유엔 안보리 회의 요청, RIA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498625)
-#### [독일의 메르츠 총리는 토요일 이스라엘의 네타냐후와 대화를 나눴다고 관계자는 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498622)
-#### [젤렌스키, 다음 3자 평화 회담은 안보 상황과 외교에 달려 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498620)
-#### [트럼프의 새로운 이란 공격으로 글로벌 리스크가 커지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498623)
-#### [캐세이 그룹, 이스라엘과 미국의 이란 공격 이후 중동 지역 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498621)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
