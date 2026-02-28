@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260228_1833 </title></head>
-<center>Vers : 20260228_1833 </center>
-<center>Vers : 20260301_0333 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_1858 </title></head>
+<center>Vers : 20260228_1858 </center>
+<center>Vers : 20260301_0358 </center>
 <br><br><br>
+#### [바클레이즈는 미국과 이스라엘이이란을 공격 한 후 브렌트 유가 배럴당 100 달러에이를 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498679)
+#### [영국 스타 머, UAE 대통령 겸 카타르 에미 르와 대화, 다우닝 스트리트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498678)
+#### [미국 북서부 강 유량 최대 94% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498676)
+#### [트럼프의 이란 공격, 중간선거를 앞두고 MAGA 단결 테스트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498677)
+#### [일요일이란에 대해 논의 할 EU 외무 장관, 칼라스, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498672)
+#### [이란의 보복에도 불구하고 미국 전투 사상자는 없다고 미군은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498675)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498674)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498673)
 #### [이란에 대한 공격 이후 크레타의 그리스 / 미국 해군 기지, 소식통에 따르면 보안 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498671)
 #### [영국 장관, 언론인 조사 혐의에 대한 검토 면제에도 불구하고 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498669)
 #### [터키의 에르도안, 미국과 이스라엘의 대이란 공격은 주권 침해라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498668)
@@ -57,11 +65,3 @@
 #### [트럼프의 새로운 이란 공격으로 글로벌 리스크가 커지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498623)
 #### [캐세이 그룹, 이스라엘과 미국의 이란 공격 이후 중동 지역 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498621)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
-#### [이란 장관, '우리는 몇 명의 지휘관을 잃었을지도 모른다'고 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498619)
-#### [석유 및 가스 메이저와 상인들은 미국이이란을 공격함에 따라 호르무즈를 통한 선적을 중단한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498618)
-#### [프랑스 마크롱, 1700 GMT에 이란에 대한 국방위원회 회의 소집](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498615)
-#### [인디고는 3월 1일까지 중동 및 기타 일부 국제 구간을 오가는 모든 항공편 운항을 중단했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498616)
-#### [에어 인디아는 3월 1일 2359시간까지 중동 목적지행 모든 항공편을 취소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498617)
-#### [우크라이나의 젤렌스키, 미국이 이란에 단호하게 행동하는 것이 중요하다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498614)
-#### [중국, 미국, 이스라엘의 이란 공격 후 즉각적인 휴전 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498613)
-#### [미국과 이스라엘, 이란 지도부를 겨냥한 공습 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498611)
