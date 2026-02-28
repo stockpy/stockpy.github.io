@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260228_2049 </title></head>
-<center>Vers : 20260228_2049 </center>
-<center>Vers : 20260301_0549 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_2100 </title></head>
+<center>Vers : 20260228_2100 </center>
+<center>Vers : 20260301_0600 </center>
 <br><br><br>
 #### [키예프, 러시아, 우크라이나 안보 보장을위한 미국 계획 수락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498708)
 #### [미국은이란의 카 메네이가 죽었다고 믿는다, 폭스 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498709)
