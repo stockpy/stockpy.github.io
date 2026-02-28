@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260228_1046 </title></head>
-<center>Vers : 20260228_1046 </center>
-<center>Vers : 20260228_1946 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_1059 </title></head>
+<center>Vers : 20260228_1059 </center>
+<center>Vers : 20260228_1959 </center>
 <br><br><br>
+#### [영국 항공, 중동 긴장으로 3월 3일까지 바레인 텔아비브 항공편 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498548)
 #### [개트윅 공항, 중동 지역 상황 지속으로 인한 항공편 지연 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498547)
 #### [미국 최고 장군, 트럼프 리조트에서이란 파업 모니터링, 익숙한 사람에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498543)
 #### [독일은 이스라엘의 대이란 군사 공격에 대해 사전에 통보 받았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498541)
@@ -63,11 +64,11 @@
 #### [러시아, 우크라이나가 영토를 양도하지 않는 한 평화 회담 중단, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498489)
 #### [중국, 최종 판결에서 캐나다 카놀라 관세 5.9 %로 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498490)
 #### [러시아?이란과 이스라엘행 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498491)
-#### [OPEC +, 대표단은 말한다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498488)
-<head><meta charset="utf-8"><title>Vers : 20260228_1046 </title></head>
-<center>Vers : 20260228_1046 </center>
-<center>Vers : 20260228_1946 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_1059 </title></head>
+<center>Vers : 20260228_1059 </center>
+<center>Vers : 20260228_1959 </center>
 <br><br><br>
+#### [OPEC +, 대표단은 말한다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498488)
 #### [트럼프, 미국이이란에서 '주요 전투 작전'을 수행한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498485)
 #### [이란 파업 이후 OPEC +, 더 큰 인상을 고려할 것이라고 대표단은 블룸버그 뉴스가 보도합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498486)
 #### [이스라엘과 미국, 이란에 대한 공습 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498487)
@@ -133,11 +134,11 @@
 #### [캐나다의 올림피아 파이낸셜 2025 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498431)
 #### [도미니카 공화국은 1 억 5 천만 톤 이상의 희토류 매장량을 보유하고 있다고 대통령은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498428)
 #### [올림피아 금융 그룹 회계연도 매출 98.86백만 캐나다 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498430)
-#### [월스트리트, AI, 관세, 지정학적 우려로 월별 하락세 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498429)
-<head><meta charset="utf-8"><title>Vers : 20260228_1046 </title></head>
-<center>Vers : 20260228_1046 </center>
-<center>Vers : 20260228_1946 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_1059 </title></head>
+<center>Vers : 20260228_1059 </center>
+<center>Vers : 20260228_1959 </center>
 <br><br><br>
+#### [월스트리트, AI, 관세, 지정학적 우려로 월별 하락세 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498429)
 #### [바클레이즈는 미국과이란의 긴장으로 브렌트유가 배럴당 80 달러에 도달 할 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498423)
 #### [미국 대법원 판결 후 관세 환급을 요구하는 FedEx 고객 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498425)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COST.O/total>
@@ -216,11 +217,11 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GLD/total>
 #### [아르헨티나 상원, 형벌 개혁 법안 통과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498385)
 #### [하와이안 전기 산업, 4분기 이익 증가로 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498390)
-#### [크라이오셀 인터내셔널 2025 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498388)
-<head><meta charset="utf-8"><title>Vers : 20260228_1046 </title></head>
-<center>Vers : 20260228_1046 </center>
-<center>Vers : 20260228_1946 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_1059 </title></head>
+<center>Vers : 20260228_1059 </center>
+<center>Vers : 20260228_1959 </center>
 <br><br><br>
+#### [크라이오셀 인터내셔널 2025 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498388)
 #### [수치로 살펴보기: 넷플릭스와 파라마운트의 워너 브라더스 입찰 경쟁: 비교 분석](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498359)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
 #### [S&P, 경제 회복력을 이유로 포르투갈 전망 '긍정적'으로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498361)
@@ -306,12 +307,12 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
 #### [프라임에너지자원공사, 신용 계약에 대한 5차 수정안 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498309)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PNRG.O/total>
+<head><meta charset="utf-8"><title>Vers : 20260228_1059 </title></head>
+<center>Vers : 20260228_1059 </center>
+<center>Vers : 20260228_1959 </center>
+<br><br><br>
 #### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498308)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260228_1046 </title></head>
-<center>Vers : 20260228_1046 </center>
-<center>Vers : 20260228_1946 </center>
-<br><br><br>
 #### [S&P, 포르투갈의 경제 회복력에 대해 긍정적 전망으로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498304)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498298)
 #### [이란, 부당 구금의 국가 후원자로 지정, 루비오는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498307)
@@ -379,11 +380,11 @@
 #### [생선 제품 제조업체 PRFoods의 2분기 매출 25% 감소, 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498249)
 #### [이탈리아의 출구전략 전망에 따라 MPS, 메디오방카의 주가가 전략의 날에 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498250)
 #### [칠레, 미국의 압력 증가로 중국 의료선의 선상 치료 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498251)
-#### [미국 요약: 주말 전 피난처 피벗으로 EUR / USD 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498245)
-<head><meta charset="utf-8"><title>Vers : 20260228_1046 </title></head>
-<center>Vers : 20260228_1046 </center>
-<center>Vers : 20260228_1946 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_1059 </title></head>
+<center>Vers : 20260228_1059 </center>
+<center>Vers : 20260228_1959 </center>
 <br><br><br>
+#### [미국 요약: 주말 전 피난처 피벗으로 EUR / USD 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498245)
 #### [독점-파라마운트는 워너 브라더스 거래에 대한 EU의 고개를 쉽게 확보 할 것으로 예상, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498248)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
 #### [투자자들이 워너브라더스 인수 경쟁에서 벗어나자 넷플릭스가 급등합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498242)
@@ -458,11 +459,11 @@
 #### [사우스캐롤라이나에서 홍역 확진자가 6명에서 985명으로 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498190)
 #### [미국 밀이 1 년 만에 최고치로 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498192)
 #### [NASA, 우주비행사 달 착륙 전 새로운 시험 임무로 달 프로그램을 뒤흔들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498195)
-#### [스털링은 200-DMA 1.3448에서 지지선 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498184)
-<head><meta charset="utf-8"><title>Vers : 20260228_1046 </title></head>
-<center>Vers : 20260228_1046 </center>
-<center>Vers : 20260228_1946 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_1059 </title></head>
+<center>Vers : 20260228_1059 </center>
+<center>Vers : 20260228_1959 </center>
 <br><br><br>
+#### [스털링은 200-DMA 1.3448에서 지지선 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498184)
 #### ['스크림 7' 시사회, 호러의 뿌리로 돌아가는 완전한 원형의 귀환을 알리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498179)
 #### [뉴욕 연준, 리버스 리포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498188)
 #### [블루 올빼미 혼란으로 2 조 달러 규모의 미국 민간 신용 부문에 긴장이 더해집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498183)
@@ -533,5 +534,3 @@
 #### [석탄 에너지 2분기 순손실 0.9백만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498124)
 #### [해즈브로, 미국을 상대로 모든 IEEPA 관세 환급을 요구하는 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498133)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HAS.O/total>
-#### [JP모건, 바클레이스, 피프스 써드, 트리컬러에서 '거대한 위험 신호'를 놓쳤다는 이유로 투자자들로부터 고소당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498119)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FITB.O/total>
