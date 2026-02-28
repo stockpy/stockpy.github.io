@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260228_2100 </title></head>
-<center>Vers : 20260228_2100 </center>
-<center>Vers : 20260301_0600 </center>
+<head><meta charset="utf-8"><title>Vers : 20260228_2223 </title></head>
+<center>Vers : 20260228_2223 </center>
+<center>Vers : 20260301_0723 </center>
 <br><br><br>
+#### [에어 캐나다, 중동의 군사적 상황으로 인해 캐나다발 이스라엘행 항공편은 3월 8일까지, 두바이행 항공편은 3월 3일까지 취소한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498721)
+#### [트럼프, 이란의 카메네이가 죽었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498718)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498720)
+#### [분석-트럼프의 이란 공격은 그의 가장 큰 외교 정책 도박입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498719)
+#### [CMA CGM, 걸프만 인근 선박에 피난처를 찾으라고 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498717)
+#### [네타냐후,이란의 카 메네이는 '더 이상 '많은 징후 '라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498716)
+#### [유엔 책임자, 이란에 대한 외교 기회 '낭비'에 깊은 후회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498715)
+#### ['엉망진창' 가수 롤라 영, 올리비아 딘이 브릿 어워즈에서 수상 경쟁을 벌입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498714)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498713)
+#### [OpenAI: 펜타곤 거래는 앤트로픽의 거래보다 더 강력한 가드레일이 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498712)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498710)
+#### [트럼프, 이란의 카메네이가 죽었다는 보도가 맞다고 생각한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498711)
 #### [키예프, 러시아, 우크라이나 안보 보장을위한 미국 계획 수락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498708)
 #### [미국은이란의 카 메네이가 죽었다고 믿는다, 폭스 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498709)
 #### [트럼프의 이란 공격, 중간선거를 앞두고 MAGA의 단결을 시험하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498707)
@@ -51,15 +63,3 @@
 #### [프랑스는이란에 대한 파업에 대해 사전에 통보받지 못했다고 Macron은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498663)
 #### [카니, 캐나다가 미국의 대이란 공격을 지지한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498664)
 #### [베네수엘라, 이란에 대한 공격과 이란의 보복을 규탄하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498662)
-#### [시테 온타리오 195MW 고어웨이 12 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498661)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498660)
-#### [미국-이스라엘 공격으로 이란에서 공포와 공황이 촉발되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498659)
-#### [에어 인디아, 2026년 3월 1일 예정된 북미 및 유럽행 일부 항공편을 취소했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498657)
-#### [독일 메르츠 총리, 이스라엘의 안보에 대한 헌신 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498658)
-#### [러시아 라브로프, 카타르 측과이란 논의, 외무부는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498655)
-#### [항공사는 토요일에 카타르, 이스라엘 행 항공편의 약 절반을 취소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498652)
-#### [이란, 지역 내 모든 미국, 이스라엘 자산은 합법적 인 군사 목표라고 유엔에 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498654)
-#### [인도, 평년보다 더운 여름, 폭염 일수 증가 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498656)
-#### [백악관, 트럼프가 네타냐후와 대화하며이란 상황을 모니터링했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498651)
-#### [분석-트럼프의 이란 공격은 그의 가장 큰 외교 정책 도박입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498653)
-#### [ADNOC, 중단 없이 계속 운영한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498649)
