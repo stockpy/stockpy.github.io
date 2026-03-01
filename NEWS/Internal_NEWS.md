@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_1449 </title></head>
-<center>Vers : 20260301_1449 </center>
-<center>Vers : 20260301_2349 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_1501 </title></head>
+<center>Vers : 20260301_1501 </center>
+<center>Vers : 20260302_0001 </center>
 <br><br><br>
 #### [미국과 이스라엘의 이란 공격으로 항공편이 중단되면서 발이 묶인 승객들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498863)
 #### [미국과 이스라엘의 이란 공격으로 항공편이 중단되면서 발이 묶인 승객들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498864)
@@ -67,9 +67,9 @@
 #### [트랜스캐나다 온타리오 197MW 포틀랜드 1 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498807)
 #### [지리 자동차의 2월 총 판매량, 전년 대비 약 1% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498806)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0175.HK/total>
-<head><meta charset="utf-8"><title>Vers : 20260301_1449 </title></head>
-<center>Vers : 20260301_1449 </center>
-<center>Vers : 20260301_2349 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_1501 </title></head>
+<center>Vers : 20260301_1501 </center>
+<center>Vers : 20260302_0001 </center>
 <br><br><br>
 #### [알리레자 아라피, 이란 지도자 협의회에 임명, ISNA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498805)
 #### [드론이 두쿰 항구를 공격한 후 오만 해안에서 유조선이 피격당했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498803)
@@ -142,9 +142,9 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
 #### [호주, 시민들에게 이스라엘, 레바논, 걸프만 국가 여행 금지 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498745)
 #### [미국이 이란을 공격하는 이유는 무엇인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498746)
-<head><meta charset="utf-8"><title>Vers : 20260301_1449 </title></head>
-<center>Vers : 20260301_1449 </center>
-<center>Vers : 20260301_2349 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_1501 </title></head>
+<center>Vers : 20260301_1501 </center>
+<center>Vers : 20260302_0001 </center>
 <br><br><br>
 #### [리 오토, 2026년 2월 26,421대 차량 인도 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498747)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2015.HK/total>
@@ -209,9 +209,9 @@
 #### [분석-이란 미사일로 걸프만 문턱에 전쟁, 미국?이스라엘 캠페인에 대한 지원 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498686)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498688)
 #### [미국과 이스라엘의 이란 공격에 대한 시장 분석가들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498689)
-<head><meta charset="utf-8"><title>Vers : 20260301_1449 </title></head>
-<center>Vers : 20260301_1449 </center>
-<center>Vers : 20260301_2349 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_1501 </title></head>
+<center>Vers : 20260301_1501 </center>
+<center>Vers : 20260302_0001 </center>
 <br><br><br>
 #### [멕시코 당국, 카르텔 보스 '엘 멘초'의 시신을 친척에게 돌려주다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498685)
 #### [이스라엘의 네타냐후는이란의 최고 지도자 카 메네이가 더 이상 '더 이상'이라는 징후가 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498684)

@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_1449 </title></head>
-<center>Vers : 20260301_1449 </center>
-<center>Vers : 20260301_2349 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_1501 </title></head>
+<center>Vers : 20260301_1501 </center>
+<center>Vers : 20260302_0001 </center>
 <br><br><br>
 #### [하메네이 사망에 비트코인 반등·금값 요동…원화값 급락 전망도](https://m.stock.naver.com/news/ranknews/view/009/0005643804)
 #### ["김대리, 맨날 컵라면 먹더니… 계좌엔 엔비디아가 100주야?" [영수증 브리핑]](https://m.stock.naver.com/news/ranknews/view/014/0005484511)
