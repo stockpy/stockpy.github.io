@@ -1,7 +1,26 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_1900 </title></head>
-<center>Vers : 20260301_1900 </center>
-<center>Vers : 20260302_0400 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_2027 </title></head>
+<center>Vers : 20260301_2027 </center>
+<center>Vers : 20260302_0527 </center>
 <br><br><br>
+#### [이란 전쟁에 시장이 반응하면서 BUZZ-AUD/USD 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498941)
+#### [이란 군 지휘관 7 명이 파업으로 사망했다고이란 통신이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498939)
+#### [EU 국가들은이란 분쟁에서 국제법 존중, '최대한의 자제'를 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498940)
+#### [터키 금융안정위원회, 지역 긴장이 시장에 미치는 영향 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498938)
+#### [이란 카메네이 사망으로 파키스탄 주재 미국 영사관에 시위가 발생했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498937)
+#### [BUZZ-IMM: 중동 긴장 고조로 USD 순매도, 피난처 자금 유입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498935)
+#### [미국, 1,000 개 이상의이란 목표물 공격, 미군은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498936)
+#### [분석-카메네이 살해로 이란의 질서가 깨지고, 고위직 후계 경쟁이 촉발되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498934)
+#### [EU 국가들은이란 분쟁에서 국제법 존중, '최대한의 자제'를 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498931)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498933)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498930)
+#### [에티하드항공은 아부다비를 오가는 모든 항공편이 3월 2일 월요일 1400시(아랍에미리트 시간)까지 운항이 중단된다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498932)
+#### [백악관, 트럼프가 이스라엘, 바레인, UAE 지도자들과 통화했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498929)
+#### [이스라엘은이란 인들이 정권에 맞서 거리로 나가도록 노력하고 있다고 이스라엘 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498928)
+#### [넷플릭스의 사란도스, 워너 브라더스 입찰 불참 결정은 사실 더 일찍 내려졌다고 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498927)
+#### [이스라엘의 파업이 테헤란의 병원을 강타했다고 목격자들은 로이터 통신에 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498926)
+#### [미국 의원들은 파업 이후이란에 대한 트럼프 계획이 없다고 본다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498923)
+#### [3월 2일 일요일 오후 1시 46분(한국 시간 기준) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498924)
+#### [미국 북서부 강 유량이 93%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498925)
 #### [텍사스 술집 총격 사건으로 3명 사망, 14명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498922)
 #### [AWS는 일요일에 아랍에미리트의 가용성 구역이 데이터 센터를 강타하여 스파크와 화재를 일으킨 물체의 영향을 받았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498920)
 #### [UAE, 테헤란 주재 대사관 폐쇄 및 대사 철수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498917)
@@ -46,24 +65,3 @@
 #### [독일 메르츠, 이란 핵무장 종식을 위한 미국의 목표 공유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498885)
 #### [트럼프, 이란 공습으로 48 명의 지도자 사망, 폭스 뉴스 인터뷰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498883)
 #### [에어 인디아, 3월 2일 2359시까지 아랍에미리트, 사우디아라비아, 이스라엘, 카타르 출도착 항공편 운항 중단을 연장한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498882)
-#### [이란, 오만 외무부, 긴장 완화를위한 노력에 개방적이라고 오만 외무부는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498881)
-#### [트럼프, 이란 군사 작전이 '예정보다 앞서고있다', CNBC 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498880)
-#### [미군, 첫 이란 작전 사상자 발생으로 부대원 3명이 사망했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498879)
-#### [약 500 명의 러시아인이 아제르바이잔을 통해이란에서 대피 할 것이라고 러시아 대사관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498876)
-#### [조르지오 아르마니가 창업자 고인의 조카의 지휘 아래 부드럽고 우아한 룩을 선보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498878)
-#### [온타리오주 190MW 오터 래피즈 수력 발전소 폐쇄 - 온타리오주 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498877)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498875)
-#### [이란의 카메네이 살해에 대한 전 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498873)
-#### [미군, 이란 작전에서 3 명의 군인이 사망했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498872)
-#### [이란의 신정 통치 체제에서 누가 성공할 수 있을까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498874)
-#### [미국, 이란 군함 침몰했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498867)
-#### [이란 분쟁으로 석유가 10 % 상승하고 배럴당 100 달러까지 치 솟을 수 있다고 분석가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498871)
-#### [러시아, 호르무즈 해협 봉쇄로 인한 오일 쇼크 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498869)
-#### [미-이란 분쟁이 격화되면서 걸프만에서 유조선 3척이 손상됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498866)
-#### [631, 위약과 유사한 이상반응 프로파일로 내약성 우수하다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498870)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SEPN.O/total>
-#### [업스트림 바이오, 1차 평가변수에서 코 폴립 점수가 -1.95로 감소한 것으로 나타났다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498868)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UPB.O/total>
-#### [미국과 이스라엘의 이란 공격으로 항공편이 중단되면서 발이 묶인 승객들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498863)
-#### [미국과 이스라엘의 이란 공격으로 항공편이 중단되면서 발이 묶인 승객들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498864)
-#### [러시아, 호르무즈 해협 폐쇄로 인한 석유 질식 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498865)
