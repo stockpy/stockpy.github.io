@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_2113 </title></head>
-<center>Vers : 20260301_2113 </center>
-<center>Vers : 20260302_0613 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_2224 </title></head>
+<center>Vers : 20260301_2224 </center>
+<center>Vers : 20260302_0724 </center>
 <br><br><br>
+#### [로이터 뉴스 일정 오후 10시(GMT/6시(한국 시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498966)
+#### [이란 공격 이후 미국 휘발유 가격 상승, 분석가들 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498962)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498965)
+#### [리스크오프 후퇴에 따른 BUZZ-NZD/USD 갭 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498963)
+#### [EU 해군 임무는 홍해와 걸프가 강화 될 것이라고 Kallas는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498964)
+#### [주말 뉴스-미-이란 갈등, 하메네이의 죽음, 트럼프의 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498960)
+#### [트럼프, 이란에서의 전투 작전은 모든 목표가 달성될 때까지 계속될 것이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498961)
+#### [영국 스타 머, 미국은이란 미사일에 대한 방어 공격에 영국 기지를 사용할 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498958)
+#### [온타리오 190MW 오터 래피즈 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498956)
+#### [트럼프, 이란에서 전투 작전은 모든 목표가 달성 될 때까지 계속 될 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498959)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498957)
+#### [미국 의원들은 파업 이후 이란에 대한 트럼프의 계획이 없다고 본다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498955)
+#### [한 주 앞으로-미국 일자리, 관세 불확실성, 중국 전인대 리드](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498954)
+#### [독점-호주, AI 시대 단속에서 앱 스토어와 검색 엔진에 대한 단속에 나설 수 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498953)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
 #### [트럼프, 이란과의 갈등이 4주 동안 지속될 수 있다, 데일리 메일 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498951)
 #### [최초 근대 올림픽 메달, 경매에서 추정가의 세 배 낙찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498952)
 #### [중동에서 전쟁이 격화되면서 BUZZ-EUR/USD 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498950)
@@ -52,18 +67,3 @@
 #### [안전을 위해 베를린에 주차된 이스라엘 정부 비행기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498910)
 #### [미국인 4명 중 1명만이 미국의 대이란 공격을 지지한다고 로이터/입소스 여론조사가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498909)
 #### [하파그로이드, 중동 정정 혼란으로 걸프만 화물에 전쟁 위험 할증료 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498907)
-#### [리듬 파마슈티컬스, 세트멜라노타이드의 PDUFA 목표일이 2026년 3월 20일이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498903)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RYTM.O/total>
-#### [테헤란에서 파업이이란의 국영 라디오 및 텔레비전 본부의 일부를 강타했다고 국영 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498905)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498902)
-#### [트럼프, 미국이 9 척의이란 선박을 침몰시키고 해군 본부를 파괴했다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498906)
-#### [CBOT 밀 배송 - Mar 01](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498901)
-#### [트럼프, 폭스 뉴스 인터뷰에서 이란 공습으로 48명의 지도자가 사망했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498904)
-#### [UAE, 월요일과 화요일에 ADX와 DFM의 시장 폐쇄 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498899)
-#### [야당 지도자 마리아 코리나 마차도는 앞으로 몇 주 안에 베네수엘라로 돌아갈 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498900)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498898)
-#### [로이드: 희망봉을 경유하는 IMX 서비스 경로 변경](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498895)
-#### [이란과 지역의 발전에 따른 NATO, 군사 본부? 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498897)
-#### [미국인 4명 중 1명만이 미국의 대이란 공격을 지지한다고 로이터/입소스 여론조사가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498896)
-#### [오만 앞바다에서 발사체가 MKD VYOM 유조선에 충돌해 승무원 사망, 관리자?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498892)
-#### [독일 메르츠, 이란에서 '다음 날'에 대한 계획 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498894)
