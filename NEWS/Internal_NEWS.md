@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_0937 </title></head>
-<center>Vers : 20260301_0937 </center>
-<center>Vers : 20260301_1837 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_1025 </title></head>
+<center>Vers : 20260301_1025 </center>
+<center>Vers : 20260301_1925 </center>
 <br><br><br>
+#### [지리 자동차의 2월 총 판매량, 전년 대비 약 1% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498806)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0175.HK/total>
+#### [알리레자 아라피, 이란 지도자 협의회에 임명, ISNA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498805)
+#### [드론이 두쿰 항구를 공격한 후 오만 해안에서 유조선이 피격당했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498803)
+#### [모터사이클-아필리아의 베제키, 아코스타가 챔피언쉽 선두로 나서며 태국 GP 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498804)
+#### [중동 사태와 시장에 미칠 잠재적 영향을 모니터링하는 IEA, 비롤은 다음과 같이 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498802)
+#### [인도의 2월 상품 및 서비스세 징수액 7.9% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498801)
 #### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498798)
 #### [규모 5.8의 지진이 일본을 강타했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498800)
 #### [미국-이란 분쟁으로 여행 혼란이 심화되면서 수천 편의 항공편이 중단되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498799)
@@ -67,6 +74,10 @@
 #### [중국, 미국, 이스라엘의 이란 공격 후 즉각적인 휴전 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498749)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
 #### [호주, 시민들에게 이스라엘, 레바논, 걸프만 국가 여행 금지 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498745)
+<head><meta charset="utf-8"><title>Vers : 20260301_1025 </title></head>
+<center>Vers : 20260301_1025 </center>
+<center>Vers : 20260301_1925 </center>
+<br><br><br>
 #### [미국이 이란을 공격하는 이유는 무엇인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498746)
 #### [리 오토, 2026년 2월 26,421대 차량 인도 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498747)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2015.HK/total>
@@ -74,10 +85,6 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498744)
 #### [이란의 최고 지도자 카 메네이 살해,이란 국영 언론 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498742)
 #### [캘파인 온타리오 212MW 그린필드 에너지 센터 1 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498741)
-<head><meta charset="utf-8"><title>Vers : 20260301_0937 </title></head>
-<center>Vers : 20260301_0937 </center>
-<center>Vers : 20260301_1837 </center>
-<br><br><br>
 #### [이란 지도자 카메네이가 파업으로 사망했다고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498740)
 #### [프랑스 신차 등록이 2 월에 14.7 % 감소했다고 업계 단체는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498739)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
@@ -134,16 +141,16 @@
 #### [영국 장관, 언론인 조사 혐의 무혐의 처분에도 불구하고 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498690)
 #### [분석-이란 미사일로 걸프만 문턱에 전쟁, 미국?이스라엘 캠페인에 대한 지원 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498686)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498688)
+<head><meta charset="utf-8"><title>Vers : 20260301_1025 </title></head>
+<center>Vers : 20260301_1025 </center>
+<center>Vers : 20260301_1925 </center>
+<br><br><br>
 #### [미국과 이스라엘의 이란 공격에 대한 시장 분석가들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498689)
 #### [멕시코 당국, 카르텔 보스 '엘 멘초'의 시신을 친척에게 돌려주다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498685)
 #### [이스라엘의 네타냐후는이란의 최고 지도자 카 메네이가 더 이상 '더 이상'이라는 징후가 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498684)
 #### [독점-이란 공격 이전에 CIA는 카메네이가 살해 될 경우 강경파 IRGC 요소로 대체 될 수 있다고 평가했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498683)
 #### [이스라엘 야당 지도자 라피드는이란에 대한 공격을지지하고 정권 교체를 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498682)
 #### [라파를 포함한 가자 지구로의 여러 횡단이 폐쇄되었다고 이스라엘 정부 기관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498681)
-<head><meta charset="utf-8"><title>Vers : 20260301_0937 </title></head>
-<center>Vers : 20260301_0937 </center>
-<center>Vers : 20260301_1837 </center>
-<br><br><br>
 #### [버핏으로부터 바통을 이어받은 버크셔 CEO 아벨, 주주들을 안심시키려 애쓰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498680)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KHC.O/total>
 #### [바클레이즈는 미국과 이스라엘이이란을 공격 한 후 브렌트 유가 배럴당 100 달러에이를 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498679)
@@ -201,9 +208,3 @@
 #### [독점-공격에 앞서 트럼프는이란 공격이 고위험, 높은 보상이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498629)
 #### [에게안 항공, 베이루트 텔아비브 출도착 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498628)
 #### [이란의 최고 지도자 카 메네이, 미국, 이스라엘의이란 공격 후 몇 분 안에 연설 할 것이라고 Al-Alam TV는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498626)
-#### [우크라이나의 나프 토 가스, 러시아가 가스 추출 시설을 공격했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498627)
-#### [영국, 이익 보호를 위해 조정 된 방어 노력에 합류, 스타 머는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498624)
-#### [러시아, 중국, 이란에 대한 긴급 유엔 안보리 회의 요청, RIA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498625)
-#### [독일의 메르츠 총리는 토요일 이스라엘의 네타냐후와 대화를 나눴다고 관계자는 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498622)
-#### [젤렌스키, 다음 3자 평화 회담은 안보 상황과 외교에 달려 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498620)
-#### [트럼프의 새로운 이란 공격으로 글로벌 리스크가 커지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498623)
