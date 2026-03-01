@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_2051 </title></head>
-<center>Vers : 20260301_2051 </center>
-<center>Vers : 20260302_0551 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_2113 </title></head>
+<center>Vers : 20260301_2113 </center>
+<center>Vers : 20260302_0613 </center>
 <br><br><br>
+#### [트럼프, 이란과의 갈등이 4주 동안 지속될 수 있다, 데일리 메일 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498951)
+#### [최초 근대 올림픽 메달, 경매에서 추정가의 세 배 낙찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498952)
+#### [중동에서 전쟁이 격화되면서 BUZZ-EUR/USD 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498950)
 #### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498949)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.HSI>
 #### [아마존 인디아, 소매 성장 추진을 위해 셀러 추천 수수료 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498947)
@@ -64,6 +67,3 @@
 #### [미국인 4명 중 1명만이 미국의 대이란 공격을 지지한다고 로이터/입소스 여론조사가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498896)
 #### [오만 앞바다에서 발사체가 MKD VYOM 유조선에 충돌해 승무원 사망, 관리자?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498892)
 #### [독일 메르츠, 이란에서 '다음 날'에 대한 계획 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498894)
-#### [오만 앞바다에서 발사체가 MKD VYOM 유조선에 충돌 한 후 승무원 사망, 관리자?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498893)
-#### [KLM은 3 월 5 일까지 두바이, 리야드, 담맘으로 비행하지 않음, 네덜란드 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498891)
-#### [이란 지도자들이 대화를 원한다고 트럼프가 애틀랜틱지에 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498890)
