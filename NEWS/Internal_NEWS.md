@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_1654 </title></head>
-<center>Vers : 20260301_1654 </center>
-<center>Vers : 20260302_0154 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_1721 </title></head>
+<center>Vers : 20260301_1721 </center>
+<center>Vers : 20260302_0221 </center>
 <br><br><br>
+#### [로이드: 희망봉을 경유하는 IMX 서비스 경로 변경](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498895)
+#### [이란과 지역의 발전에 따른 NATO, 군사 본부? 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498897)
+#### [미국인 4명 중 1명만이 미국의 대이란 공격을 지지한다고 로이터/입소스 여론조사가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498896)
+#### [오만 앞바다에서 발사체가 MKD VYOM 유조선에 충돌해 승무원 사망, 관리자?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498892)
+#### [독일 메르츠, 이란에서 '다음 날'에 대한 계획 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498894)
+#### [오만 앞바다에서 발사체가 MKD VYOM 유조선에 충돌 한 후 승무원 사망, 관리자?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498893)
+#### [KLM은 3 월 5 일까지 두바이, 리야드, 담맘으로 비행하지 않음, 네덜란드 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498891)
+#### [이란 지도자들이 대화를 원한다고 트럼프가 애틀랜틱지에 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498890)
 #### [미국과 이스라엘의 공격 이후 해커들이 이란의 앱과 웹사이트를 공격했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498888)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRWD.O/total>
 #### [이란 지도자, 트럼프, 대서양 잡지 인터뷰에서 대화 원한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498889)
@@ -59,13 +67,3 @@
 #### [중동 분쟁의 영향을받지 않는 폴란드에 대한 석유 공급, 파이프 라인 운영자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498842)
 #### [영국, 미국이이란 공격에 대한 법적 근거를 마련해야한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498839)
 #### [이란 분쟁으로 유가가 10 % 상승하고 배럴당 100 달러까지 치 솟을 수 있다고 분석가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498838)
-#### [텍사스 오스틴에서 총격 사건으로 3명 사망, 14명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498836)
-#### [DHL: 군사 파업의 영향을 받은 지역의 직원들에게 재택 근무를 지시했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498837)
-#### [루프트한자, 중동 지역 상황으로 인해 항공편 운항 중단 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498835)
-#### [오만 해안에서 발사체에 의해 원유 유조선 MKD VYOM이 손상되었다고 보안 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498834)
-#### [체리 자동차의 2월 판매량, 전년 동월 대비 14.8% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498833)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9973.HK/total>
-#### [BYD 2월 자동차 판매량, 팬데믹 이후 가장 가파른 속도로 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498831)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1211.HK/total>
-#### [고지아, 슈퍼-G 우승으로 월드컵 선두 굳히기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498832)
-#### [러시아, 벨기에의 유조선 압류에 대한 정보 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498830)
