@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_2248 </title></head>
-<center>Vers : 20260301_2248 </center>
-<center>Vers : 20260302_0748 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_2301 </title></head>
+<center>Vers : 20260301_2301 </center>
+<center>Vers : 20260302_0801 </center>
 <br><br><br>
+#### [금속 파우더 웍스, 센터라인과 파우더 파트너 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498973)
+#### [퍼페추아 리소스 코퍼레이션에 잘못 태그된 경고 철회됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498971)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PPTA.O/total>
+#### [트럼프는이란이 대화를 원한다고 말하고, 이스라엘은 카메네이를 죽인 후 테헤란을 공격합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498972)
 #### [영국이 부모에게 묻습니다: 16세 미만 청소년에게 소셜 미디어를 금지해야 할까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498970)
 #### [호주의 주택 가격은 금리 인상을 무시하고 2 월에도 계속 상승하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498969)
 #### [영국 스타머, 미국이 이란 미사일에 대한 방어 공격에 영국 기지를 사용할 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498967)
@@ -64,6 +68,3 @@
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498916)
 #### [주말 이란 파업 후 안전한 피난처 일본 엔화와 스위스 프랑 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498915)
 #### [미국이이란 해군을 침몰시키고 있다고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498913)
-#### [영국 국방부, RAF 제트기가 카타르로 향하는이란 드론을 격추했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498914)
-#### [이란이 미사일 공격으로 보복하면서 이스라엘인 사망자 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498911)
-#### [프랑스와 레바논, 레바논 군대에 대한 회의를 4 월로 연기한다고 엘리제는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498912)
