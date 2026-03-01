@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_1110 </title></head>
-<center>Vers : 20260301_1110 </center>
-<center>Vers : 20260301_2010 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_1250 </title></head>
+<center>Vers : 20260301_1250 </center>
+<center>Vers : 20260301_2150 </center>
 <br><br><br>
+#### [텍사스 오스틴에서 총격 사건으로 3명 사망, 14명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498836)
+#### [DHL: 군사 파업의 영향을 받은 지역의 직원들에게 재택 근무를 지시했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498837)
+#### [루프트한자, 중동 지역 상황으로 인해 항공편 운항 중단 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498835)
+#### [오만 해안에서 발사체에 의해 원유 유조선 MKD VYOM이 손상되었다고 보안 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498834)
+#### [체리 자동차의 2월 판매량, 전년 동월 대비 14.8% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498833)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9973.HK/total>
+#### [BYD 2월 자동차 판매량, 팬데믹 이후 가장 가파른 속도로 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498831)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1211.HK/total>
+#### [고지아, 슈퍼-G 우승으로 월드컵 선두 굳히기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498832)
+#### [러시아, 벨기에의 유조선 압류에 대한 정보 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498830)
+#### [이란 공습 후 반전 시위대가 아테네 주재 미국 및 이스라엘 대사관으로 행진하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498829)
+#### [이란의 카메네이 살해에 대한 전 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498828)
+#### [지금 다른 이란으로 가는 길이 열려 있다고 EU의 칼라스 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498827)
+#### [독일 반유대주의 위원, 미국과 이스라엘의 공격 이후 유대인 생명에 위협을 느낀다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498824)
+#### [OPEC+, 미국의 대이란 전쟁으로 원유 수출에 차질이 빚어지는 가운데서도 원유 생산량 소폭 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498826)
+#### [이란의 카메네이 살해에 대한 전 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498825)
+#### [미국의 대이란 전쟁이 격화됨에 따라 수백 척의 선박이 중동 걸프만에 닻을 내리고 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498821)
+#### [교황 레오, 이란 공격 후 '폭력의 소용돌이' 종식 호소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498822)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498823)
+#### [이제 다른이란으로가는 열린 길이 있다고 EU의 Kallas는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498820)
 #### [OPEC +는 원칙적으로 206,000 배럴의 석유 생산량 증가에 동의한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498818)
 #### [북한, 이스라엘의 대이란 공격과 미국의 군사 작전은 '불법 침략'이라고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498817)
 #### [이란의 카메네이 살해에 대한 전 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498819)
@@ -52,6 +72,10 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9866.HK/total>
 #### [미국과 이스라엘의 이란 공격으로 중동 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498777)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
+<head><meta charset="utf-8"><title>Vers : 20260301_1250 </title></head>
+<center>Vers : 20260301_1250 </center>
+<center>Vers : 20260301_2150 </center>
+<br><br><br>
 #### [와팡뎬 베어링의 거래가 중단됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498776)
 #### [위대한 벽 자동차의 2월 차량 판매량, 전년 대비 6.8% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498778)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601633.SS/total>
@@ -73,10 +97,6 @@
 #### [마스터카드, 영국 자회사 보컬링크의 회장에 존 톰슨 경 임명 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498762)
 #### [추기경이 교황 레오 선출 비밀 회의에서 휴대 전화로 발견, 책에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498761)
 #### [두바이, 도하 상공에서 이틀째 큰 폭발음이 들렸다고 목격자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498760)
-<head><meta charset="utf-8"><title>Vers : 20260301_1110 </title></head>
-<center>Vers : 20260301_1110 </center>
-<center>Vers : 20260301_2010 </center>
-<br><br><br>
 #### [마이클 B. 조던, NAACP 이미지 어워드에서 올해의 엔터테이너상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498757)
 #### [에어 인디아, 3월 1일 런던, 버밍엄, 암스테르담, 취리히 등 추가 항공편 취소 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498758)
 #### [주목해야 할 요소 - 3월 1일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498759)
@@ -123,6 +143,10 @@
 #### [트럼프, 이란의 카메네이가 죽었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498718)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498720)
 #### [분석-트럼프의 이란 공격은 그의 가장 큰 외교 정책 도박입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498719)
+<head><meta charset="utf-8"><title>Vers : 20260301_1250 </title></head>
+<center>Vers : 20260301_1250 </center>
+<center>Vers : 20260301_2150 </center>
+<br><br><br>
 #### [CMA CGM, 걸프만 인근 선박에 피난처를 찾으라고 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498717)
 #### [네타냐후,이란의 카 메네이는 '더 이상 '많은 징후 '라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498716)
 #### [유엔 책임자, 이란에 대한 외교 기회 '낭비'에 깊은 후회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498715)
@@ -141,10 +165,6 @@
 #### [미국, 핵 협상에서이란의 '게임과 속임수' 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498703)
 #### [트럼프는 미군이이란의 공격을 흡수하지 않기로 결정했다고 트럼프 행정부 고위 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498700)
 #### [이란 관리, 이스라엘의 하메네이 사망 보도 후 '정신전' 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498701)
-<head><meta charset="utf-8"><title>Vers : 20260301_1110 </title></head>
-<center>Vers : 20260301_1110 </center>
-<center>Vers : 20260301_2010 </center>
-<br><br><br>
 #### [멕시코 관계자는 월드 다이빙 컵이 취소된 후 일정이 변경될 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498696)
 #### [이란의 최고 지도자 알리 하메네이 살해, 이스라엘 고위 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498697)
 #### [볼리비아 비행기 추락 사고로 지상에 남겨진 현금을 태우려는 당국에 항의하는 주민들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498699)
@@ -188,6 +208,10 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498660)
 #### [미국-이스라엘 공격으로 이란에서 공포와 공황이 촉발되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498659)
 #### [에어 인디아, 2026년 3월 1일 예정된 북미 및 유럽행 일부 항공편을 취소했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498657)
+<head><meta charset="utf-8"><title>Vers : 20260301_1250 </title></head>
+<center>Vers : 20260301_1250 </center>
+<center>Vers : 20260301_2150 </center>
+<br><br><br>
 #### [독일 메르츠 총리, 이스라엘의 안보에 대한 헌신 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498658)
 #### [러시아 라브로프, 카타르 측과이란 논의, 외무부는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498655)
 #### [항공사는 토요일에 카타르, 이스라엘 행 항공편의 약 절반을 취소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498652)
@@ -206,10 +230,6 @@
 #### [버진 애틀랜틱, 이라크 영공을 피하기 위해 항공편 노선 변경, 런던-두바이 서비스 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498642)
 #### [이스라엘 군 관계자는 회의장 공습으로이란 고위 인사 사망, 이스라엘 군 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498640)
 #### [유엔 안보리, 토요일 이란 분쟁 관련 회의 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498641)
-<head><meta charset="utf-8"><title>Vers : 20260301_1110 </title></head>
-<center>Vers : 20260301_1110 </center>
-<center>Vers : 20260301_2010 </center>
-<br><br><br>
 #### [버크셔 CEO 아벨, 버핏으로부터 바통을 이어받은 후 '요새 같은' 대차대조표로 투자자들을 안심시키다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498639)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KHC.O/total>
 #### [DNO와 다나 가스, 미-이스라엘의 이란 공격 후 쿠르드 생산 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498638)
@@ -255,23 +275,3 @@
 #### [미국과 이스라엘의 이란 공격에 대한 시장 분석가들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498602)
 #### [러시아 대사관, 시민들에게 아르메니아 또는 아제르바이잔을 통해이란을 떠나도록 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498598)
 #### [버크셔 해서웨이, 2025년 12월 31일 기준 3,733억 달러의 현금 및 등가물 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498597)
-#### [이스라엘은 공격으로 여러 명의이란 고위 관리가 사망했다고 믿고 있다고 작전 브리핑 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498599)
-#### [이스라엘, 미국과 이스라엘의 이란 공격 후 가스전 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498594)
-#### [베를린, 독일 자산을 통제하기 위해 로즈네프트 사업부를 신탁 관리로 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498592)
-#### [미국과 이란의 긴장이 세계 시장에 미치는 영향](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498596)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
-#### [사우디 왕세자, UAE 대통령에게 전화하여이란 공격 논의, UAE 국영 통신은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498593)
-#### [푸틴, 러시아 안보리에서 이란에 대해 논의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498591)
-#### [버크셔 해서웨이의 이익은 상각, 보험 수입 감소로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498595)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KHC.O/total>
-#### [백악관, 토요일 트럼프 연설 계획 확정되지 않았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498590)
-#### [브라질 정부, 이란에 대한 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498589)
-#### [버크셔 해서웨이, 4분기 평균 등가 클래스 A 주당 순이익이 $13,349라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498588)
-#### [이스라엘의 이란 공격 후 가스전 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498587)
-#### [홍해의 EU 해군 임무, 선박에 대한 공격 가능성 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498585)
-#### [러시아, 트럼프와 이스라엘이 이란 공격으로 중동을 심연에 빠뜨리고 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498586)
-#### [프랑스 마크롱, 이란에 대한 유엔 안보리 긴급 회의 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498584)
-#### [Flightradar24: 방문자 수가 급증함에 따라 일부 사용자에게 오류 메시지를 표시하는 웹사이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498583)
-#### [터키 외무 장관, 지역 카운터 파트와 공격 종식을위한 조치를 논의했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498581)
-#### [러시아 로사톰, 이란에서 대피한 사람들, 부셰르 공장에 직원 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498582)
-#### [러시아 라브로프, 이란 장관과 통화에서 이란에 대한 파업 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498578)
