@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_1834 </title></head>
-<center>Vers : 20260301_1834 </center>
-<center>Vers : 20260302_0334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_1900 </title></head>
+<center>Vers : 20260301_1900 </center>
+<center>Vers : 20260302_0400 </center>
 <br><br><br>
+#### [텍사스 술집 총격 사건으로 3명 사망, 14명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498922)
+#### [AWS는 일요일에 아랍에미리트의 가용성 구역이 데이터 센터를 강타하여 스파크와 화재를 일으킨 물체의 영향을 받았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498920)
+#### [UAE, 테헤란 주재 대사관 폐쇄 및 대사 철수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498917)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498919)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.HSI>
+#### [주말 이란 파업 이후 안전한 피난처 일본 엔화와 스위스 프랑 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498921)
+#### [UAE, 이란 공격 후 이틀간 주식 시장 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498918)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498916)
+#### [주말 이란 파업 후 안전한 피난처 일본 엔화와 스위스 프랑 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498915)
 #### [미국이이란 해군을 침몰시키고 있다고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498913)
 #### [영국 국방부, RAF 제트기가 카타르로 향하는이란 드론을 격추했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498914)
 #### [이란이 미사일 공격으로 보복하면서 이스라엘인 사망자 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498911)
@@ -58,11 +67,3 @@
 #### [미국과 이스라엘의 이란 공격으로 항공편이 중단되면서 발이 묶인 승객들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498863)
 #### [미국과 이스라엘의 이란 공격으로 항공편이 중단되면서 발이 묶인 승객들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498864)
 #### [러시아, 호르무즈 해협 폐쇄로 인한 석유 질식 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498865)
-#### [머스크, 분쟁 격화를 이유로 수에즈 운하, 밥 엘 만데브 해협 통과 항해 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498862)
-#### [미국, 이스라엘의 공격으로 최고 지도자 사망 후이란을 겨냥한 추가 공격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498856)
-#### [석유 및 가스 메이저 및 트레이더, 호르무즈 경유 운송 중단: 소식통](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498860)
-#### [석유 및 가스 메이저 및 트레이더, 호르무즈 경유 운송 중단: 소식통](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498861)
-#### [좌초 된 이탈리아 국방부 장관, 두바이에서 군용기 타고 귀국하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498855)
-#### [미국, 이란 공습에 사용된 장비의 영상 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498859)
-#### [이란 혁명수비대가 미국 항공모함을 표적으로 삼았다고 국영 언론이 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498858)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498857)
