@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_1721 </title></head>
-<center>Vers : 20260301_1721 </center>
-<center>Vers : 20260302_0221 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_1834 </title></head>
+<center>Vers : 20260301_1834 </center>
+<center>Vers : 20260302_0334 </center>
 <br><br><br>
+#### [미국이이란 해군을 침몰시키고 있다고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498913)
+#### [영국 국방부, RAF 제트기가 카타르로 향하는이란 드론을 격추했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498914)
+#### [이란이 미사일 공격으로 보복하면서 이스라엘인 사망자 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498911)
+#### [프랑스와 레바논, 레바논 군대에 대한 회의를 4 월로 연기한다고 엘리제는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498912)
+#### [UKMTO, UAE 샤르자 인근에서 발생한 사고 보고 접수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498908)
+#### [안전을 위해 베를린에 주차된 이스라엘 정부 비행기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498910)
+#### [미국인 4명 중 1명만이 미국의 대이란 공격을 지지한다고 로이터/입소스 여론조사가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498909)
+#### [하파그로이드, 중동 정정 혼란으로 걸프만 화물에 전쟁 위험 할증료 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498907)
+#### [리듬 파마슈티컬스, 세트멜라노타이드의 PDUFA 목표일이 2026년 3월 20일이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498903)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RYTM.O/total>
+#### [테헤란에서 파업이이란의 국영 라디오 및 텔레비전 본부의 일부를 강타했다고 국영 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498905)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498902)
+#### [트럼프, 미국이 9 척의이란 선박을 침몰시키고 해군 본부를 파괴했다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498906)
+#### [CBOT 밀 배송 - Mar 01](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498901)
+#### [트럼프, 폭스 뉴스 인터뷰에서 이란 공습으로 48명의 지도자가 사망했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498904)
+#### [UAE, 월요일과 화요일에 ADX와 DFM의 시장 폐쇄 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498899)
+#### [야당 지도자 마리아 코리나 마차도는 앞으로 몇 주 안에 베네수엘라로 돌아갈 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498900)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498898)
 #### [로이드: 희망봉을 경유하는 IMX 서비스 경로 변경](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498895)
 #### [이란과 지역의 발전에 따른 NATO, 군사 본부? 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498897)
 #### [미국인 4명 중 1명만이 미국의 대이란 공격을 지지한다고 로이터/입소스 여론조사가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498896)
@@ -48,22 +66,3 @@
 #### [미국, 이란 공습에 사용된 장비의 영상 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498859)
 #### [이란 혁명수비대가 미국 항공모함을 표적으로 삼았다고 국영 언론이 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498858)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498857)
-#### [미국과 이스라엘의 대이란 공격으로 항공편 운항이 중단되면서 두바이 금의 흐름이 억제되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498854)
-#### [미국 고용지표 발표와 함께 시장에 닥친 인공지능의 혼란](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498853)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [파키스탄 총리의 러시아 방문이 연기됐다고 타스 통신이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498852)
-#### [일본의 제라, 중동에서 직원 대피 중? - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498850)
-#### [머스크, 아프리카 주변 중동 운송 경로 변경](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498851)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498849)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498848)
-#### [T-모바일과 에릭슨, 엔비디아 AI 인프라에서 휴대용 Ai Ran 소프트웨어 발전시켜 나가다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498847)
-#### [이스라엘 마을 베이트 셰메시에서 미사일 공격 후 6 명 사망, 구급차 서비스, 구급차 서비스는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498846)
-#### [독일 외무 장관, 이란은 핵무장을 포기해야한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498845)
-#### [중동 걸프만에서 수백 척의 선박이 닻을 내리는 것으로 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498844)
-#### [미국과 이스라엘의 이란 공격으로 투자자들이 금의 항구를 찾습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498843)
-#### [독일 비밀 정보국 감독관, 유럽에서 이란의 보복 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498840)
-#### [BYD 2월 자동차 판매량, 팬데믹 이후 가장 가파른 속도로 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498841)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1211.HK/total>
-#### [중동 분쟁의 영향을받지 않는 폴란드에 대한 석유 공급, 파이프 라인 운영자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498842)
-#### [영국, 미국이이란 공격에 대한 법적 근거를 마련해야한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498839)
-#### [이란 분쟁으로 유가가 10 % 상승하고 배럴당 100 달러까지 치 솟을 수 있다고 분석가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498838)
