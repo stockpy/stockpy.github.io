@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_1331 </title></head>
-<center>Vers : 20260301_1331 </center>
-<center>Vers : 20260301_2231 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_1425 </title></head>
+<center>Vers : 20260301_1425 </center>
+<center>Vers : 20260301_2325 </center>
 <br><br><br>
+#### [미국 고용지표 발표와 함께 시장에 닥친 인공지능의 혼란](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498853)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [파키스탄 총리의 러시아 방문이 연기됐다고 타스 통신이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498852)
+#### [일본의 제라, 중동에서 직원 대피 중? - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498850)
+#### [머스크, 아프리카 주변 중동 운송 경로 변경](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498851)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498849)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498848)
 #### [T-모바일과 에릭슨, 엔비디아 AI 인프라에서 휴대용 Ai Ran 소프트웨어 발전시켜 나가다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498847)
 #### [이스라엘 마을 베이트 셰메시에서 미사일 공격 후 6 명 사망, 구급차 서비스, 구급차 서비스는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498846)
 #### [독일 외무 장관, 이란은 핵무장을 포기해야한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498845)
@@ -61,6 +68,10 @@
 #### [타타 자동차 승용차, 2026년 2월 총 판매량 63,331대 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498794)
 #### [2월에 7,364대의 차량을 판매한 바이크 블루파크 뉴 에너지 테크의 개요](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498792)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600733.SS/total>
+<head><meta charset="utf-8"><title>Vers : 20260301_1425 </title></head>
+<center>Vers : 20260301_1425 </center>
+<center>Vers : 20260301_2325 </center>
+<br><br><br>
 #### [아필리아의 베제키, KTM의 아코스타를 제치고 태국 그랑프리 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498795)
 #### [SAIC 자동차의 2월 자동차 판매량, 전년 동월 대비 8.6% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498793)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600104.SS/total>
@@ -69,10 +80,6 @@
 #### [배드민턴-인도 신두, 중동 위기 속 두바이 공항에 발이 묶이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498791)
 #### [KLM, 중동 전 지역 항공편 취소 또는 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498789)
 #### [테슬라, 사이버트럭 듀얼 모터 AWD 가격을 $69,990로 인상 - 웹 사이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498788)
-<head><meta charset="utf-8"><title>Vers : 20260301_1331 </title></head>
-<center>Vers : 20260301_1331 </center>
-<center>Vers : 20260301_2231 </center>
-<br><br><br>
 #### [테슬라, 미국에서 저렴한 사이버트럭의 가격을 $69,990로 인상합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498786)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
 #### [트랜스캐나다 온타리오 197MW 포틀랜드 2 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498787)
@@ -138,16 +145,16 @@
 #### [OpenAI, 미국 국방부 협정에서 계층적 보호에 대해 자세히 설명합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498734)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
 #### [유엔 핵기구 이사회, 러시아의 요청에 따라 월요일이란에서 회의 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498733)
+<head><meta charset="utf-8"><title>Vers : 20260301_1425 </title></head>
+<center>Vers : 20260301_1425 </center>
+<center>Vers : 20260301_2325 </center>
+<br><br><br>
 #### [2026 BRIT 어워드 수상작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498735)
 #### [이란에 대한 미국과 이스라엘의 공격에 반대하는 시위대의 워싱턴 집회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498732)
 #### [이란 미사일 공격으로 두바이 공항이 피해를 입어 부상자 4명 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498731)
 #### [올리비아 딘의 '더 아트 오브 러빙', BRITs에서 올해의 앨범 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498729)
 #### [쿼트-미국과 이스라엘의 대이란 공격에 대한 시장 분석가들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498730)
 #### [트럼프가 카 메네이가 살해 당했다고 말한 후 일부이란 인들은 축하한다고 목격자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498728)
-<head><meta charset="utf-8"><title>Vers : 20260301_1331 </title></head>
-<center>Vers : 20260301_1331 </center>
-<center>Vers : 20260301_2231 </center>
-<br><br><br>
 #### [이란의 신정주의 권력 체계는 어떻게 작동하나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498727)
 #### [온타리오주 킹스턴 코겐 140MW 데스텍 가스 발전소 폐쇄 - 온타리오주 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498726)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498725)
@@ -203,16 +210,16 @@
 #### [트럼프의 이란 공격, 중간선거를 앞두고 MAGA 단결 테스트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498677)
 #### [일요일이란에 대해 논의 할 EU 외무 장관, 칼라스, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498672)
 #### [이란의 보복에도 불구하고 미국 전투 사상자는 없다고 미군은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498675)
+<head><meta charset="utf-8"><title>Vers : 20260301_1425 </title></head>
+<center>Vers : 20260301_1425 </center>
+<center>Vers : 20260301_2325 </center>
+<br><br><br>
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498674)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498673)
 #### [이란에 대한 공격 이후 크레타의 그리스 / 미국 해군 기지, 소식통에 따르면 보안 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498671)
 #### [영국 장관, 언론인 조사 혐의에 대한 검토 면제에도 불구하고 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498669)
 #### [터키의 에르도안, 미국과 이스라엘의 대이란 공격은 주권 침해라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498668)
 #### [카타르, 추후 공지가있을 때까지 공개 행사 중단, 관광 서큘러는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498670)
-<head><meta charset="utf-8"><title>Vers : 20260301_1331 </title></head>
-<center>Vers : 20260301_1331 </center>
-<center>Vers : 20260301_2231 </center>
-<br><br><br>
 #### [가족과 함께 두바이에 갇힌 이탈리아 국방부 장관](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498667)
 #### [바레인 미군 기지 근처에서 발생한 공격의 순간을 보여주는 목격자 영상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498666)
 #### [이집트, 이스라엘로부터 가스 공급 중단, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498665)
@@ -270,9 +277,3 @@
 #### [인디고는 3월 1일까지 중동 및 기타 일부 국제 구간을 오가는 모든 항공편 운항을 중단했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498616)
 #### [에어 인디아는 3월 1일 2359시간까지 중동 목적지행 모든 항공편을 취소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498617)
 #### [우크라이나의 젤렌스키, 미국이 이란에 단호하게 행동하는 것이 중요하다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498614)
-#### [중국, 미국, 이스라엘의 이란 공격 후 즉각적인 휴전 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498613)
-#### [미국과 이스라엘, 이란 지도부를 겨냥한 공습 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498611)
-#### [사우디, 이란이 리야드 공격 확인, 외무부는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498610)
-#### [버크셔의 CEO 아벨은 버핏 이후 신중한 청지기가 될 것이라고 투자자들에게 확신합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498612)
-#### [독일, 프랑스, 영국, 이란에 역내 공격 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498606)
-#### [우크라이나의 젤렌스키: 미국이 이란에 단호하게 행동하는 것이 중요합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498609)
