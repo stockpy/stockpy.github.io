@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_2027 </title></head>
-<center>Vers : 20260301_2027 </center>
-<center>Vers : 20260302_0527 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_2051 </title></head>
+<center>Vers : 20260301_2051 </center>
+<center>Vers : 20260302_0551 </center>
 <br><br><br>
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498949)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.HSI>
+#### [아마존 인디아, 소매 성장 추진을 위해 셀러 추천 수수료 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498947)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [영국, 프랑스, 독일, 이란에 대한 이익 수호를 위해 개입할 준비 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498948)
+#### [오만 외무 장관, 공격에도 불구하고 미국,이란 간 외교의 문은 열려 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498944)
+#### [아마존의 클라우드 사업부, UAE 데이터 센터에 물체 충돌 후 화재 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498946)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498945)
+#### [우크라이나의 젤렌스키, 이란의 변화를 제대로 사용해야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498943)
+#### [터키 중앙은행, 지역 분쟁의 시장 영향을 제한하기 위한 조치 취해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498942)
 #### [이란 전쟁에 시장이 반응하면서 BUZZ-AUD/USD 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498941)
 #### [이란 군 지휘관 7 명이 파업으로 사망했다고이란 통신이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498939)
 #### [EU 국가들은이란 분쟁에서 국제법 존중, '최대한의 자제'를 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498940)
@@ -56,12 +67,3 @@
 #### [오만 앞바다에서 발사체가 MKD VYOM 유조선에 충돌 한 후 승무원 사망, 관리자?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498893)
 #### [KLM은 3 월 5 일까지 두바이, 리야드, 담맘으로 비행하지 않음, 네덜란드 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498891)
 #### [이란 지도자들이 대화를 원한다고 트럼프가 애틀랜틱지에 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498890)
-#### [미국과 이스라엘의 공격 이후 해커들이 이란의 앱과 웹사이트를 공격했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498888)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRWD.O/total>
-#### [이란 지도자, 트럼프, 대서양 잡지 인터뷰에서 대화 원한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498889)
-#### [여행자들은 일부이란 인들이 터키 국경에서 붙잡혔다 고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498886)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498887)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498884)
-#### [독일 메르츠, 이란 핵무장 종식을 위한 미국의 목표 공유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498885)
-#### [트럼프, 이란 공습으로 48 명의 지도자 사망, 폭스 뉴스 인터뷰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498883)
-#### [에어 인디아, 3월 2일 2359시까지 아랍에미리트, 사우디아라비아, 이스라엘, 카타르 출도착 항공편 운항 중단을 연장한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498882)
