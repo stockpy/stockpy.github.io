@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_2224 </title></head>
-<center>Vers : 20260301_2224 </center>
-<center>Vers : 20260302_0724 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_2248 </title></head>
+<center>Vers : 20260301_2248 </center>
+<center>Vers : 20260302_0748 </center>
 <br><br><br>
+#### [영국이 부모에게 묻습니다: 16세 미만 청소년에게 소셜 미디어를 금지해야 할까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498970)
+#### [호주의 주택 가격은 금리 인상을 무시하고 2 월에도 계속 상승하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498969)
+#### [영국 스타머, 미국이 이란 미사일에 대한 방어 공격에 영국 기지를 사용할 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498967)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498968)
 #### [로이터 뉴스 일정 오후 10시(GMT/6시(한국 시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498966)
 #### [이란 공격 이후 미국 휘발유 가격 상승, 분석가들 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498962)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498965)
@@ -63,7 +67,3 @@
 #### [영국 국방부, RAF 제트기가 카타르로 향하는이란 드론을 격추했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498914)
 #### [이란이 미사일 공격으로 보복하면서 이스라엘인 사망자 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498911)
 #### [프랑스와 레바논, 레바논 군대에 대한 회의를 4 월로 연기한다고 엘리제는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498912)
-#### [UKMTO, UAE 샤르자 인근에서 발생한 사고 보고 접수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498908)
-#### [안전을 위해 베를린에 주차된 이스라엘 정부 비행기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498910)
-#### [미국인 4명 중 1명만이 미국의 대이란 공격을 지지한다고 로이터/입소스 여론조사가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498909)
-#### [하파그로이드, 중동 정정 혼란으로 걸프만 화물에 전쟁 위험 할증료 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498907)

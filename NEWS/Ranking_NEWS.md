@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_2224 </title></head>
-<center>Vers : 20260301_2224 </center>
-<center>Vers : 20260302_0724 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_2248 </title></head>
+<center>Vers : 20260301_2248 </center>
+<center>Vers : 20260302_0748 </center>
 <br><br><br>
 #### [하메네이 사망에 비트코인 반등·금값 요동…원화값 급락 전망도](https://m.stock.naver.com/news/ranknews/view/009/0005643804)
 #### ['지옥행 급행열차' 평균 -61.42%…'우수수' 떨어지더니 동전주 속출[주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005727642)
