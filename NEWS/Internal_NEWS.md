@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_0538 </title></head>
-<center>Vers : 20260301_0538 </center>
-<center>Vers : 20260301_1438 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_0647 </title></head>
+<center>Vers : 20260301_0647 </center>
+<center>Vers : 20260301_1547 </center>
 <br><br><br>
+#### [로이터 뉴스 시간표 오전 6시(GMT/1시(동부시간))](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498767)
+#### [남아프리카공화국 공항공사, UAE 영공 폐쇄가 에미레이트항공, 카타르항공 항공편에 영향을 미친다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498766)
+#### [트럼프, 이란이 보복할 경우 전례 없는 무력 사용 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498764)
+#### [미국, 이스라엘의이란 공격 후 일본 화주, 호르무즈 작전 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498763)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9104.T/total>
+#### [인디고, 3월 2일까지 중동 영공을 이용하는 일부 국제선 항공편의 임시 운항 중단 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498765)
 #### [마스터카드, 영국 자회사 보컬링크의 회장에 존 톰슨 경 임명 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498762)
 #### [추기경이 교황 레오 선출 비밀 회의에서 휴대 전화로 발견, 책에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498761)
 #### [두바이, 도하 상공에서 이틀째 큰 폭발음이 들렸다고 목격자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498760)
@@ -61,15 +67,15 @@
 #### [트럼프, 이란의 카메네이가 죽었다는 보도가 맞다고 생각한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498711)
 #### [키예프, 러시아, 우크라이나 안보 보장을위한 미국 계획 수락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498708)
 #### [미국은이란의 카 메네이가 죽었다고 믿는다, 폭스 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498709)
+<head><meta charset="utf-8"><title>Vers : 20260301_0647 </title></head>
+<center>Vers : 20260301_0647 </center>
+<center>Vers : 20260301_1547 </center>
+<br><br><br>
 #### [트럼프의 이란 공격, 중간선거를 앞두고 MAGA의 단결을 시험하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498707)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498705)
 #### [미-이스라엘 공습으로 사망한 것으로 알려진 아야톨라 하메네이, 무시무시한 반서방 통치를 구체화하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498706)
 #### [BUZZ-재생-EUR/USD 해빙, 지정학적 리스크, 스털링 저지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498704)
 #### [이스라엘, 인도주의 구호 요원을 포함한 가자 지구로의 횡단 폐쇄, 이스라엘 정부 기관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498702)
-<head><meta charset="utf-8"><title>Vers : 20260301_0538 </title></head>
-<center>Vers : 20260301_0538 </center>
-<center>Vers : 20260301_1438 </center>
-<br><br><br>
 #### [미국, 핵 협상에서이란의 '게임과 속임수' 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498703)
 #### [트럼프는 미군이이란의 공격을 흡수하지 않기로 결정했다고 트럼프 행정부 고위 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498700)
 #### [이란 관리, 이스라엘의 하메네이 사망 보도 후 '정신전' 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498701)
@@ -126,15 +132,15 @@
 #### [ADNOC, 중단 없이 계속 운영한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498649)
 #### [보험사, 걸프만과 호르무즈 해협에서 선박 보험 취소 및 가격 인상 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498650)
 #### [유엔 핵 감시단은이란에 대한 공격으로 인한 '방사능 영향'을 보지 못했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498648)
+<head><meta charset="utf-8"><title>Vers : 20260301_0647 </title></head>
+<center>Vers : 20260301_0647 </center>
+<center>Vers : 20260301_1547 </center>
+<br><br><br>
 #### [이란 전쟁으로 석유 시장이 수십 년 만에 최대 위기에 처했습니다: Bousso](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498647)
 #### [OPEC +, 이란 파업 후 411,000 배럴의 석유 생산량 증가를 고려할 수 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498645)
 #### [독점-이란 공격 이전에 CIA는 카메네이가 살해되면 강경파 IRGC 요소로 대체 될 것이라고 평가했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498646)
 #### [독점-이란 공격 이전에 CIA는 카메네이가 살해되면 IRCG 요소로 대체 될 것이라고 평가했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498644)
 #### [공습의 표적이 된 아야톨라 카메네이, 이란을 철통같이 장악하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498643)
-<head><meta charset="utf-8"><title>Vers : 20260301_0538 </title></head>
-<center>Vers : 20260301_0538 </center>
-<center>Vers : 20260301_1438 </center>
-<br><br><br>
 #### [버진 애틀랜틱, 이라크 영공을 피하기 위해 항공편 노선 변경, 런던-두바이 서비스 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498642)
 #### [이스라엘 군 관계자는 회의장 공습으로이란 고위 인사 사망, 이스라엘 군 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498640)
 #### [유엔 안보리, 토요일 이란 분쟁 관련 회의 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498641)
@@ -195,8 +201,3 @@
 #### [백악관, 토요일 트럼프 연설 계획 확정되지 않았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498590)
 #### [브라질 정부, 이란에 대한 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498589)
 #### [버크셔 해서웨이, 4분기 평균 등가 클래스 A 주당 순이익이 $13,349라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498588)
-#### [이스라엘의 이란 공격 후 가스전 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498587)
-#### [홍해의 EU 해군 임무, 선박에 대한 공격 가능성 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498585)
-#### [러시아, 트럼프와 이스라엘이 이란 공격으로 중동을 심연에 빠뜨리고 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498586)
-#### [프랑스 마크롱, 이란에 대한 유엔 안보리 긴급 회의 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498584)
-#### [Flightradar24: 방문자 수가 급증함에 따라 일부 사용자에게 오류 메시지를 표시하는 웹사이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498583)
