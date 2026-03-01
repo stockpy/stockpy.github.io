@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_1025 </title></head>
-<center>Vers : 20260301_1025 </center>
-<center>Vers : 20260301_1925 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_1050 </title></head>
+<center>Vers : 20260301_1050 </center>
+<center>Vers : 20260301_1950 </center>
 <br><br><br>
 #### [달려든 2살 손주에 할머니 하반신 마비…가족이 가입한 보험, 배상책임 성립할까 [어쩌다 세상이]](https://m.stock.naver.com/news/ranknews/view/009/0005643654)
 #### ['지옥행 급행열차' 평균 -61.42%…'우수수' 떨어지더니 동전주 속출[주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005727642)
