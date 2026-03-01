@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260301_1629 </title></head>
-<center>Vers : 20260301_1629 </center>
-<center>Vers : 20260302_0129 </center>
+<head><meta charset="utf-8"><title>Vers : 20260301_1654 </title></head>
+<center>Vers : 20260301_1654 </center>
+<center>Vers : 20260302_0154 </center>
 <br><br><br>
+#### [미국과 이스라엘의 공격 이후 해커들이 이란의 앱과 웹사이트를 공격했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498888)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRWD.O/total>
+#### [이란 지도자, 트럼프, 대서양 잡지 인터뷰에서 대화 원한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498889)
+#### [여행자들은 일부이란 인들이 터키 국경에서 붙잡혔다 고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498886)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498887)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498884)
+#### [독일 메르츠, 이란 핵무장 종식을 위한 미국의 목표 공유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498885)
 #### [트럼프, 이란 공습으로 48 명의 지도자 사망, 폭스 뉴스 인터뷰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498883)
 #### [에어 인디아, 3월 2일 2359시까지 아랍에미리트, 사우디아라비아, 이스라엘, 카타르 출도착 항공편 운항 중단을 연장한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498882)
 #### [이란, 오만 외무부, 긴장 완화를위한 노력에 개방적이라고 오만 외무부는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498881)
@@ -62,9 +69,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1211.HK/total>
 #### [고지아, 슈퍼-G 우승으로 월드컵 선두 굳히기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498832)
 #### [러시아, 벨기에의 유조선 압류에 대한 정보 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498830)
-#### [이란 공습 후 반전 시위대가 아테네 주재 미국 및 이스라엘 대사관으로 행진하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498829)
-#### [이란의 카메네이 살해에 대한 전 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498828)
-#### [지금 다른 이란으로 가는 길이 열려 있다고 EU의 칼라스 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498827)
-#### [독일 반유대주의 위원, 미국과 이스라엘의 공격 이후 유대인 생명에 위협을 느낀다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498824)
-#### [OPEC+, 미국의 대이란 전쟁으로 원유 수출에 차질이 빚어지는 가운데서도 원유 생산량 소폭 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498826)
-#### [이란의 카메네이 살해에 대한 전 세계 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2498825)
