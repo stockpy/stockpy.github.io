@@ -1,8 +1,33 @@
-<head><meta charset="utf-8"><title>Vers : 20260302_2255 </title></head>
-<center>Vers : 20260302_2255 </center>
-<center>Vers : 20260303_0755 </center>
+<head><meta charset="utf-8"><title>Vers : 20260302_2325 </title></head>
+<center>Vers : 20260302_2325 </center>
+<center>Vers : 20260303_0825 </center>
 <br><br><br>
+#### [BUZZ-재생-EUR / USD 위험, 스털링 투쟁, USD / JPY 모멘텀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500791)
+#### [센소닉스 홀딩스, 4분기 및 2025년 전체 재무 결과 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500787)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SENS.O/total>
+#### [토르말린 석유 공사 <TOU.TO>는 주당 85 센트의 수익을 올릴 것으로 예상됩니다 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500789)
+#### [2월 온두라스 커피 수출량 83% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500790)
+#### [그레이트 엘름 캐피탈의 4분기 순투자 수익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500788)
+#### [블룸버그 뉴스에 따르면 LS 파워는 NRG 에너지의 지분 매각으로 21억 달러의 자금을 조달할 계획입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500780)
+#### [2 월 미국 LNG 수출 증가, 새로운 생산량은 카타르 공급 격차를 메우는 데 도움이 될 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500783)
+#### [그레이트 엘름 캐피털 Corp. Q4 EPS USD -1.57](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500786)
+#### [아마존 데이터 센터 사업부, 조지 워싱턴 대학교 버지니아 캠퍼스 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500782)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [LS Power, NRG 에너지 지분 매각으로 최대 21 억 달러 모금 추진 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500785)
+#### [캐나다의 플라자 리테일 리츠 4분기 수익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500781)
+#### ['이란의 임박한 위협은 없었다'고 이란의 유엔 특사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500784)
+#### [버즈몽고DB, 1분기 수익이 예상치를 밑돌 것으로 전망한 후 급락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500778)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MDB.O/total>
+#### [그리스, 크레타 미 해군 기지 스파이 혐의로 남성 구금, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500774)
+#### [유니티 그룹(델라웨어), 9월 30일 마감된 분기 실적 보고 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500771)
+#### [USTR, 더 많은 해외 관세 인하, USMCA 개선, 2026 년 중국 균형 추구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500777)
+#### [리오 틴토, 갈륨 금속 프로젝트를 위해 캐나다에서 최대 1,390만 달러 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500773)
+#### [에너지, 루이지애나 변전소 전력 대부분 복구 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500770)
+#### [투자자가 하락한 소프트웨어 주식에서 가치를 발견하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500776)
+#### [이란 전쟁으로 글로벌 공급 차질로 미국 원유-마스가 1년 만에 최고치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500772)
 #### [리나마, 리젠 리소스와 온타리오주에서 배터리 등급 흑연 개발 발전을 위한 제휴 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500769)
+#### [서부 캐나다 셀렉트 할인, 중동 생산량 우려로 배럴당 1달러 가까이 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500775)
+#### [미국 현금 원유 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500779)
 #### [얼라인먼트 헬스케어, 제너럴 애틀랜틱의 지분 매각을 통한 지분 정리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500763)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ALHC.O/total>
 #### [미국 곡물 바지선 운임 값 ? 3월 2일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500765)
@@ -48,28 +73,3 @@
 #### [빈치 컴파스 인베스트먼트 <VINP.OQ>는 주당 1.24 루피의 수익을 올릴 것으로 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500741)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VINP.O/total>
 #### [이스라엘, 가자 지구에 점진적 구호물자 유입을 위해 케렘 샬롬 교차로 재가동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500719)
-#### [유가 급등으로 에너지 주가가 상승하면서 캐나다 증시-TSX가 사상 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500724)
-#### [OFS 캐피탈 4분기 주당 순 투자 수익 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500740)
-#### [브라이트스프링, 보통주 2차 공모 및 동시 주식 환매 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500736)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BTSG.O/total>
-#### [디즈니 CFO: 스포츠 수익성은 4분기에 더 치우칠 것 - Morgan Stanley Conf](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500723)
-#### [AT&T, 2026년 및 다년간 재무 가이던스 재차 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500739)
-#### [퍼시픽 애비뉴 캐피탈 파트너스, IAC의 케어닷컴 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500735)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IAC.O/total>
-#### [Semrush의 4분기 매출은 예상치를 약간 하회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500733)
-#### [프리모 브랜드, 캐나다에서 보고 발행인 중단 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500738)
-#### [Aimco 4분기 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500734)
-#### [비현금 이연 법인세 혜택에 힘입어 4분기 순이익이 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500732)
-#### [아머 스포츠, 7억 5천만 달러 규모의 주식 공모 출시 후 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500737)
-#### [아처 에비에이션의 4분기 조정 상각전영업이익(EBITDA) 손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500698)
-#### [몽고DB, 4분기 실적 발표 후 급락, 임원 2명 퇴사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500731)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MDB.O/total>
-#### [누베이션 바이오 4분기 협업 및 라이선스 계약 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500701)
-#### [미국 홍역 퇴치 상태를 결정하기 위한 회의가 11월로 연기되었다고 NYT가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500718)
-#### [멜라니아 트럼프, 분쟁 아동에 관한 유엔 회의 의장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500730)
-#### [AST SpaceMobile, Inc. 회계연도 매출 미화 26,529만 달러 대 IBES 추정치 미화 5850만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500700)
-#### [도매 및 DTC 성장에 힘입어 BRC 4분기 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500717)
-#### [림바흐 4분기 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500710)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500699)
-#### [이란 분쟁으로 방위 부문 전망이 강화되었다고 투자자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500716)
-#### [크로포드 앤 코 4분기 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500709)
