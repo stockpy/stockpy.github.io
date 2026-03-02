@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260302_2227 </title></head>
-<center>Vers : 20260302_2227 </center>
-<center>Vers : 20260303_0727 </center>
+<head><meta charset="utf-8"><title>Vers : 20260302_2255 </title></head>
+<center>Vers : 20260302_2255 </center>
+<center>Vers : 20260303_0755 </center>
 <br><br><br>
 #### ['아들아 미안'…60대 주부, 14억 아파트 물려주려다 '화들짝' [고정삼의 절세GPT]](https://m.stock.naver.com/news/ranknews/view/015/0005257131)
 #### ["삼전·닉스로 돈 벌고 폭풍매도"...외인 '이 종목' 쓸어담는다](https://m.stock.naver.com/news/ranknews/view/008/0005324185)

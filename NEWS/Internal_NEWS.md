@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20260302_2227 </title></head>
-<center>Vers : 20260302_2227 </center>
-<center>Vers : 20260303_0727 </center>
+<head><meta charset="utf-8"><title>Vers : 20260302_2255 </title></head>
+<center>Vers : 20260302_2255 </center>
+<center>Vers : 20260303_0755 </center>
 <br><br><br>
+#### [리나마, 리젠 리소스와 온타리오주에서 배터리 등급 흑연 개발 발전을 위한 제휴 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500769)
+#### [얼라인먼트 헬스케어, 제너럴 애틀랜틱의 지분 매각을 통한 지분 정리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500763)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ALHC.O/total>
+#### [미국 곡물 바지선 운임 값 ? 3월 2일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500765)
+#### [분석-이란이 신경을 흔들면서 달러가 안전한 맨틀을 되찾았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500762)
+#### [OPG 온타리오 164MW 오브리 폴스 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500759)
+#### [월스트리트, 이란 공습 후 변동성 높은 거래로 약보합세로 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500764)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [캐나다의 아반떼 3분기 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500761)
+#### [바이퍼 에너지, 2차 보통주 공모 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500768)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNOM.O/total>
+#### [TMPAA 자선 영구 기금, 록턴 리 기부로 초기 목표인 200만 달러에 가까워져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500760)
+#### [보험료가 27% 하락하면서 제임스 리버 4분기 합산 비율이 94.1%로 개선되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500758)
+#### [제록스 홀딩스, 미국 증권거래위원회에 시기적절하지 않은 10-K 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500767)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/XRX.O/total>
+#### [미군, 호르무즈 해협이 폐쇄되지 않았다고 폭스 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500756)
+#### [실시간 참여 플랫폼 아고라, 비용 절감으로 4분기 수익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500757)
+#### [피델리스, 1억 6,330만 달러에 CVC의 남은 지분 재매입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500766)
+#### [AST SpaceMobile, 분기 손실 확대 후 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500755)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ASTS.O/total>
 #### [캐나다 프로펠의 4분기 매출이 예상치를 하회하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500754)
 #### [스카이워드?로빈슨 CEO, 주가 반등으로 AV '오독' 매도 후 100만 달러 지분 추가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500748)
 #### [조지아 학교 총격 사건 용의자 아버지의 살인 재판이 배심원으로 간다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500751)
@@ -53,18 +73,3 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500699)
 #### [이란 분쟁으로 방위 부문 전망이 강화되었다고 투자자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500716)
 #### [크로포드 앤 코 4분기 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500709)
-#### [셈러쉬 홀딩스 4분기 매출 1억 1,765만 9,000달러 대 IBES 추정치 1억 1,860만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500704)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500715)
-#### [신제품 출시 후 4분기 루거의 순매출이 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500708)
-#### [알라모 그룹 4분기 순매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500703)
-#### [헬리오스 테크놀로지스의 4분기 이익이 145% 증가하여 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500714)
-#### [영국 고릴라 테크놀로지 2025, AI 인프라의 강력한 실행으로 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500707)
-#### [NRG 에너지, 2차 보통주 공모 시작 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500702)
-#### [브리스톨 마이어스 스퀴브, 배당금 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500713)
-#### [엘리 릴리, 2분기 경구용 비만 치료제 출시 예정, 미국 승인 대기 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500706)
-#### [아메리칸 익스프레스 이사회, 보통주 배당금 16% 인상 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500697)
-#### [타이드워터 4분기 영업 이익 미화 63,976만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500712)
-#### [우크라이나의 젤 렌 스키, 러시아는 계획된 진전을 이행하는 데 어려움을 겪을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500705)
-#### [루이지애나 주 레이크 찰스에서 엔터지 변전소에 화재 발생, 현지 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500696)
-#### [메릴랜드 아메리칸 워터, 메릴랜드 공공 서비스 위원회에서 새로운 요금 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500711)
-#### [렌딩트리 4분기 매출, 보험 부문 강세로 예상치를 상회하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2500695)
