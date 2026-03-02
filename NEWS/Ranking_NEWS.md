@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260302_1734 </title></head>
-<center>Vers : 20260302_1734 </center>
-<center>Vers : 20260303_0234 </center>
+<head><meta charset="utf-8"><title>Vers : 20260302_1850 </title></head>
+<center>Vers : 20260302_1850 </center>
+<center>Vers : 20260303_0350 </center>
 <br><br><br>
 #### ['아들아 미안'…60대 주부, 14억 아파트 물려주려다 '화들짝' [고정삼의 절세GPT]](https://m.stock.naver.com/news/ranknews/view/015/0005257131)
 #### ['-7%' 국장서 돈 까먹던 국민연금..."수익률 +82% 대박" 100조 추정](https://m.stock.naver.com/news/ranknews/view/008/0005324143)
