@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260303_1930 </title></head>
-<center>Vers : 20260303_1930 </center>
-<center>Vers : 20260304_0430 </center>
+<head><meta charset="utf-8"><title>Vers : 20260303_2033 </title></head>
+<center>Vers : 20260303_2033 </center>
+<center>Vers : 20260304_0533 </center>
 <br><br><br>
 #### [“역시 코인 대통령이었나”…트럼프가 전쟁 일으키니 벌어진 일](https://m.stock.naver.com/news/ranknews/view/009/0005644734)
 #### [20만전자·100만닉스 깨졌는데...다시 뛴다? 목표가는 줄상향, 왜](https://m.stock.naver.com/news/ranknews/view/008/0005324748)
