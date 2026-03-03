@@ -1,7 +1,26 @@
-<head><meta charset="utf-8"><title>Vers : 20260303_2033 </title></head>
-<center>Vers : 20260303_2033 </center>
-<center>Vers : 20260304_0533 </center>
+<head><meta charset="utf-8"><title>Vers : 20260303_2100 </title></head>
+<center>Vers : 20260303_2100 </center>
+<center>Vers : 20260304_0600 </center>
 <br><br><br>
+#### [서브시7, 존 에반스, 2026년 6월 30일자로 CEO직에서 은퇴한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502337)
+#### [경고가 Tecno SpA Sb에 잘못 태그됨 철회됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502331)
+#### [미디어디, 로스차일드에 벨론 지분 인수 옵션 모색 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502336)
+#### [3월 기준 앨버타 일일 카놀라 가격. 03](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502330)
+#### [베네수엘라의 PDVSA, 미국을위한 석유 공급 계약 체결, 회사 측 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502333)
+#### [린빈, 마이애미 돌핀스 지분 125억 달러에 인수 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502335)
+#### [브라질, 부채 구조조정을 위해 로펌 Munhoz Advogados 고용 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502329)
+#### [연준 매파와 비둘기파: 미국 중앙은행 인사들의 발언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502332)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502334)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.TOPX>
+#### [캐나다 은행, 최대 5억 캐나다 달러 규모의 채권 매입 - RTRS](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502322)
+#### [UAE, 이란으로부터 1,000건 이상의 공격에 노출되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502321)
+#### [트럼프의 국가 안보 팀이 의회에 이란 전쟁을지지하도록 설득하러 왔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502326)
+#### [루비오, 두바이 주재 미국 영사관 근처에서 드론 공격 후 모든 인원이 사망했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502324)
+#### [보합세에서 더 높은 입찰, 작물에 도움이되는 비](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502328)
+#### [트럼프 행정부, 북대서양 귀신고래 보호 완화 고려 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502325)
+#### [분쟁 시작 이후 9,000 명의 미국인이 중동을 떠났다고 루비오는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502323)
+#### [버즈 프리뷰: 크라우드스트라이크가 실적 발표 후 더 높은 매출과 EPS를 기록할 것으로 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502327)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRWD.O/total>
 #### [미국 달러 기업들, 인플레이션 리스크 재부각; 시장, 금리 인하 전망 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502318)
 #### [지스케일러, 싱텔 싱가포르와의 파트너십 계약 발표 후 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502320)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ZS.O/total>
@@ -51,27 +70,3 @@
 #### [트럼프, 미국이 스페인과의 모든 무역을 중단할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502280)
 #### [안두릴, 40억 달러 규모의 펀딩 라운드로 기업가치를 두 배로 늘릴 예정이라고 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502275)
 #### [레바논, 이스라엘과의 갈등으로 5 월 선거 연기, 관리들은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502277)
-#### [중동 분쟁의 여파로 항공사, 여행 업계가 분주하게 움직입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502279)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600029.SS/total>
-#### [페트로레오 브라질레이로 SA 페트로브라스 <PBR.N>, 주당 55센트의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502274)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PBR/total>
-#### [프랑스, 항공 모함을 지중해로 보내는 프랑스, Macron은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502282)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502262)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502273)
-#### [폰 데어 라이엔, 젤렌스키 논의?대출 교착 상태의 중심에 드루즈바 파이프라인이 있다고 EU 집행위원회는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502281)
-#### [K에 대한 간략한 인터파르퓸 Inc 파일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502276)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IPAR.O/total>
-#### [정신 건강 스타트업 그로우 테라피, 최근 펀드레이징에서 30억 달러 규모 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502272)
-#### [캐나다 통계청 식재 의향 보고서의 무역 추정치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502270)
-#### [사이버큐브의 메스벤은 AI 통합이 조용한 사이버 플레이북을 반복하고 있으며 시장은 뒤처져 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502265)
-#### [미국 요약: EUR/USD가 2022년으로 되돌아가면서 달러가 우세한 상황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502267)
-#### [렌딩트리, 4분기 실적 호전, 낙관적 전망 이후 급등세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502269)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TREE.O/total>
-#### [미국 주식이 움직인다-버산트 미디어 그룹, 리튬 채굴업체, 익스피디아 그룹](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502264)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ZD.O/total>
-#### [페트로레오 브라질레이로 SA 페트로브라스 <PETR4.SA>는 주당 1.57 헤알의 수익을 올릴 것으로 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502266)
-#### [유엔, 이란 학교에 대한 '끔찍한' 치명적인 공격에 대한 조사 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502268)
-#### [페트로레오 브라질레이로 SA 페트로브라스 <PBRa.N>, 주당 67센트의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502263)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PBRa/total>
-#### [드래프트킹스, BMO의 목표가 인상 후 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2502253)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DKNG.O/total>
