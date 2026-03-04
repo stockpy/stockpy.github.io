@@ -1,7 +1,51 @@
-<head><meta charset="utf-8"><title>Vers : 20260304_1932 </title></head>
-<center>Vers : 20260304_1932 </center>
-<center>Vers : 20260305_0432 </center>
+<head><meta charset="utf-8"><title>Vers : 20260304_2032 </title></head>
+<center>Vers : 20260304_2032 </center>
+<center>Vers : 20260305_0532 </center>
 <br><br><br>
+#### [루비오는 터키 외무 장관과 이야기를 나누고 미국의 전폭적 인 지원을 약속했다고 국무부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504154)
+#### [트럼프, 베네수엘라에서 석유가 흘러 나오기 시작했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504153)
+#### [안전통화 수요 완화로 캐나다 달러 상승세 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504149)
+#### [공습으로 바그다드 남쪽에서이란 동맹 민병대 사령관 사망 ? 경찰 소식통](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504157)
+#### [버즈 프리뷰: 브로드컴의 상승, 투자자들은 AI 칩 마진에 주목하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504152)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AVGO.O/total>
+#### [중동 분쟁 완화 기대감 고조로 달러 자금 조달 스트레스 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504148)
+#### [에탄올 회사 인파사의 새로운 자문위원회, 성장에 집중할 것이라고 회원은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504156)
+#### [에콰도르, 쿠바 대사 '페르소나 논 그라타'선언, 쿠바 국영 아울렛은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504151)
+#### [산탄데르의 실패한 대출업체 MFS에 대한 노출액이 2억 6,700만 달러가 넘었다고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504147)
+#### [재생 - 취약한 EUR/USD, 앵커링 스털링, 엔화 지연](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504155)
+#### [이란의 대미 비밀 접촉 보도 이후 미국 증시-월가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504150)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRNA.O/total>
+#### [미국 천연가스 선물, 이전 상승에 따른 시장 안정화로 4% 이상 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504146)
+#### [우크라이나의 젤렌스키: 미국을 포함한 키예프의 파트너들이 이란 드론에 맞서 도움을 요청했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504145)
+#### [트럼프는이란 분쟁에서 미국의 행동에 대해 마크롱에게 전화했다고 프랑스 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504142)
+#### [독점-투자자들이 AI 보호 장치를 둘러싼 충돌을 완화하기 위해 추진함에 따라 거대 기술 그룹이 국방부 싸움에서 Anthropic을 지원합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504143)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [설명자-미국의 대이란 공격은 합법인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504144)
+#### [미국 내무부 장관, 로드리게스 장관과 만나 베네수엘라 광산 기업 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504133)
+#### [12월 31일로 마감된 분기 실적 보고 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504138)
+#### [Bayer의 72억 5천만 달러 라운드업 합의가 미주리 판사로부터 초기 승인을 받았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504136)
+#### [터키, 나토 방어가 다가오는이란 미사일을 파괴했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504132)
+#### [Exclusive: 클리어커버 설립자 나카츠지, 통신사 및 MGA에 프로덕션 AI를 내장하는 디어본 랩스 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504137)
+#### [IG 메탈, 테슬라의 독일 노동자협의회 선거에서 과반수 확보 실패](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504135)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
+#### [스페인의 중동 전쟁에 대한 입장은 변하지 않았다고 외무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504141)
+#### [미국 우체국, 2027년 자금 부족으로 구조조정 고문을 고용하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504134)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프 라인 tsp 캡 제공 - tsp 용량 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504140)
+#### [블룸버그 뉴스에 따르면 산탄데르가 실패한 대출 기관 MFS에 2억 파운드 이상을 노출했다고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504139)
+#### [아마존, 전략적으로 중요한 로봇 사업부서에서 일자리 감축 - Business Insider](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504127)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [버검 미 내무부 장관과 로드리게스 베네수엘라 대통령 대행의 만남](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504131)
+#### [버즈 핀테크 데이브, 계획된 자본 조달을 앞두고 7일 연속 연승을 눈앞에 두다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504126)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DAVE.O/total>
+#### [앞으로의 하루 주목할 사항 - 3월 5일 목요일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504122)
+#### [경영진의 내부자 매수 지속으로 BUZZ-KKR 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504130)
+#### [미국 FDA의 운영 책임자 버틀러가 물러나고 내부자 켈러가 후임으로 임명되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504125)
+#### [석유 회사들, 트럼프 행정부의 알래스카 해상 경매를 피하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504121)
+#### [KPMG, 차기 글로벌 최고 책임자로 윙그로브 COO 선정, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504124)
+#### [노조, 트럼프의 연방 근로자 일자리 보호 무력화 노력에 대해 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504129)
+#### [프랑스 마크롱, 이스라엘과 레바논에 이란 위기 확산으로 인한 긴장 완화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504120)
+#### [트럼프, 분쟁 이후이란에서 미국의 역할에 무게를두고 있다고 백악관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504123)
+#### [연준 보고서, 긍정적인 경제 전망과 안정적인 고용 전망 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504128)
 #### [몬테 데이 파스키 이사회, 로바글리오 CEO 축출 투표, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504119)
 #### [RFK Jr는 백신 정책을 재구성 할 수있는 '검토 할 수없는'권한을 가지고 있다고 DOJ 변호사는 판사에게 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504115)
 #### [산탄데르, 부실 대출업체 MFS에 2억 달러 이상 노출 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504118)
@@ -27,47 +71,3 @@
 #### [백악관: 스페인, 미군과 협력하기로 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504104)
 #### [트럼프, 분쟁 후이란에서 미국의 역할에 무게를 두다, 백악관은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504087)
 #### [트럼프 행정부, 알래스카 쿡 인렛 석유 및 가스 경매에서 낙찰받지 못함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504109)
-#### [법무부, 미국 비료 시장에 대한 가격 담합 가능성 조사 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504103)
-#### [뉴욕 연준, 스탠딩 레포 운용 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504086)
-#### [미국 주식이 움직인다-애냅티스바이오, 테슬라, 인텔](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504108)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EOLS.O/total>
-#### [중동 분쟁이 계속되면서 미국 디젤이 갤런 당 4 달러를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504102)
-#### [독점-빅 테크 그룹, 펜타곤의 헥세스에 앤트로픽을 공급망 위험으로 선언하는 것에 대해 '우려'한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504085)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [미국의 석유 공급 중단으로 쿠바 대부분 지역이 정전 사태에 빠졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504107)
-#### [백악관: 스페인, 미군과 협력하기로 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504101)
-#### [미국 천연가스 비축량이 지난주 121억 입방피트 감소한 것으로 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504094)
-#### [몬테 데이 파스키는 새로운 부칙에 대한 ECB의 승인을 받았다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504106)
-#### [영국의 에너지 가격 상한선이 약 10 % 상승 할 것으로 예상, Cornwall Insight는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504100)
-#### [트럼프는 미국인들이이란에 대한 파업을지지한다고 믿는다, 백악관은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504093)
-#### [홍역 발생을 막기 위해 미국 CDC 직원이 사우스캐롤라이나에 도착합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504090)
-#### [아야톨라의 행방이 미국 작전시기에 영향을 미쳤다고 백악관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504099)
-#### [트럼프 법무부, 변호사에 대한 윤리 조사 제한 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504092)
-#### [갈등에 대한 미국 주식의 지금까지의 반응은 "그것을 들여다보고 싶다"는 욕구를 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504089)
-#### [백악관 : 카 메네이의 아들이이란을 이끌 선두 주자로 부상 할 수 있다는 모니터링 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504081)
-#### [베이스 입찰은 철도, 트럭 터미널에서 대부분 안정적입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504077)
-#### [생명 공학이 그린란드 금속 매장지에 큰 베팅을하면서 버즈 클로토가 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504078)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KLTO.O/total>
-#### [트럼프, 이란 공격으로 사망 한 미군 이송 참석, 백악관은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504080)
-#### [테슬라의 영국 판매량이 2월에 급감했지만 BYD를 앞지른 새로운 자동차 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504072)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [상승 모멘텀이 사라지면서 BUZZ-USD/JPY 리스크 추가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504079)
-#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504082)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
-#### [캄파리, 현 단계에서는 중동 위기로 인한 중대한 영향은 없다고 CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504071)
-#### [스털링이 안정세를 보이며 1.33에 가까운 지지율을 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504075)
-#### [애플, 599달러짜리 맥북 네오 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504069)
-#### [이란 분쟁이 확대됨에 따라 미국 의원들이 전쟁 권한에 대해 투표 할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504076)
-#### [옥수수, 대두 기준 입찰은 선물 부진으로 안정적 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504074)
-#### [브라질 대두 수출량 3월 1,610만 톤 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504073)
-#### [트럼프는 곧 공화당 텍사스 상원 예비 선거에서지지 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504070)
-#### [KPMG, 전 호주 대표 윙로브를 글로벌 CEO로 선임, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504068)
-#### [미국 CDC 직원 3명이 사우스캐롤라이나에서 홍역 발생 억제 지원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504060)
-#### [포트나이트, 앱스토어 결제 및 수수료 구조 변경 후 전 세계 구글 플레이 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504064)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [수요일에 오프라인 상태의 미국 원자력 발전 용량이 12,858MW로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504067)
-#### [미국 원자력 발전 용량이 수요일에 오프라인으로 12,858MW로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504059)
-#### [유로넥스트 밀이 6개월래 최고치에서 후퇴합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504063)
-#### [OPG 온타리오 885MW 달링턴 4 원자력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504057)
-#### [KPMG, 차기 글로벌 최고 책임자로 게리 윙그로브 전 호주 대표 선임- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504058)
-#### [골드만 임원, 향후 몇 년 동안 AI가 대출 결정에 도전 할 것이라고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2504062)
