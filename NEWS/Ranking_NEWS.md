@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260304_1037 </title></head>
-<center>Vers : 20260304_1037 </center>
-<center>Vers : 20260304_1937 </center>
+<head><meta charset="utf-8"><title>Vers : 20260304_1107 </title></head>
+<center>Vers : 20260304_1107 </center>
+<center>Vers : 20260304_2007 </center>
 <br><br><br>
 #### [트럼프는 이란만 공격한게 아니었다…중동발 폭탄 맞은 아시아 증시 ‘와르르’](https://m.stock.naver.com/news/ranknews/view/009/0005645178)
 #### ["직원 27명 주유소, 상한가 찍었다"...흥구석유 PER 1900배 훌쩍](https://m.stock.naver.com/news/ranknews/view/008/0005325097)
@@ -62,9 +62,9 @@
 #### ["18만전자, 80만닉스 됐다…곱버스 부러울 줄이야" 폭락장에 개미들 '비명'](https://m.stock.naver.com/news/ranknews/view/421/0008805485)
 #### [전쟁 중엔 금 사라더니&#8943;'중동 쇼크'에 금값 마저 '휘청'](https://m.stock.naver.com/news/ranknews/view/374/0000495805)
 #### ["금은 왜 떨어지죠"…'안전자산'이라며 급락한 이유](https://m.stock.naver.com/news/ranknews/view/243/0000093931)
-<head><meta charset="utf-8"><title>Vers : 20260304_1037 </title></head>
-<center>Vers : 20260304_1037 </center>
-<center>Vers : 20260304_1937 </center>
+<head><meta charset="utf-8"><title>Vers : 20260304_1107 </title></head>
+<center>Vers : 20260304_1107 </center>
+<center>Vers : 20260304_2007 </center>
 <br><br><br>
 #### [한국판 공포지수 2008년 금융위기 이후 ‘역대급’…80선도 뚫었다 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002608372)
 #### [어제도, 오늘도 코스피 ‘뚝’…동학개미들, 방산·에너지株로 피신한다 [매경 자이앤트]](https://m.stock.naver.com/news/ranknews/view/009/0005644947)
