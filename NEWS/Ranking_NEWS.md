@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260304_2231 </title></head>
-<center>Vers : 20260304_2231 </center>
-<center>Vers : 20260305_0731 </center>
+<head><meta charset="utf-8"><title>Vers : 20260304_2300 </title></head>
+<center>Vers : 20260304_2300 </center>
+<center>Vers : 20260305_0800 </center>
 <br><br><br>
 #### [“최근 이틀간 20% 가까이 빠졌는데”…코스피 폭락 언제 멈추려나](https://m.stock.naver.com/news/ranknews/view/009/0005645378)
 #### [코스피 쥐고 흔드는 외인… 삼성전자·SK하이닉스 집중 매도](https://m.stock.naver.com/news/ranknews/view/005/0001835293)
