@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260304_1727 </title></head>
-<center>Vers : 20260304_1727 </center>
-<center>Vers : 20260305_0227 </center>
+<head><meta charset="utf-8"><title>Vers : 20260304_1852 </title></head>
+<center>Vers : 20260304_1852 </center>
+<center>Vers : 20260305_0352 </center>
 <br><br><br>
 #### ["지금 팔지 마라"…전쟁 충격에 코스피 폭락했는데 반전 전망 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005258343)
 #### [“최근 이틀간 20% 가까이 빠졌는데”…코스피 폭락 언제 멈추려나](https://m.stock.naver.com/news/ranknews/view/009/0005645378)
