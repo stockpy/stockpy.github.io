@@ -1,7 +1,28 @@
-<head><meta charset="utf-8"><title>Vers : 20260305_2037 </title></head>
-<center>Vers : 20260305_2037 </center>
-<center>Vers : 20260306_0537 </center>
+<head><meta charset="utf-8"><title>Vers : 20260305_2106 </title></head>
+<center>Vers : 20260305_2106 </center>
+<center>Vers : 20260306_0606 </center>
 <br><br><br>
+#### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506109)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
+#### [펀드, CBOT 옥수수, 대두 및 밀 선물 순매수, 트레이더들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506104)
+#### [독점-이란 작전 중 유가 상승에 대한 트럼프 : '상승하면 상승한다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506108)
+#### [중동에 갇힌 미국 시민을위한 항공편이 증가하고 있다고 국무부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506103)
+#### [중동 분쟁이 격화되면서 안전자산 수요에 힘입어 외환-미국 달러가 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506100)
+#### [미국, 중국에 러시아, 이란 석유 구매 감소를 요구, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506107)
+#### [베네수엘라, 광산 회사 보안 보장, 석유 생산량 초과 목표-부르굼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506102)
+#### [3월 기준 앨버타 일일 카놀라 가격. 05](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506099)
+#### [미국 내 수천 명의 사용자로 인해 아마존이 다운된 것으로 다운디텍터에서 확인되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506106)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [펀드 매수, 파급력으로 CBOT 밀 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506101)
+#### [건강 라운드: 파킨슨병과 관련된 단백질은 여성의 더 빠른 알츠하이머 진행과 관련이 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506098)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/STOK.O/total>
+#### [이란 전쟁으로 유가 랠리, 채권 매도세로 미국, 유럽 증시 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506105)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506097)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [시카고 곡물은 이란 분쟁에 초점을 맞춰 원유와 함께 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506094)
+#### [캐나다, 2036년 만기 52억 5,000만 캐나다 달러 채권 경매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506095)
+#### [미국 은행 규제 당국은 은행이 토큰화된 증권을 보유하는 데 추가 자본 요건을 적용받지 않는다고 명확히 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506096)
 #### ['치솟는' 유가로 인해 독일인들이 폴란드에서 주유를 하게 됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506089)
 #### [이라크 쿠르드족에서 드론 공격으로 미국 회사가 운영하는 유전이 타격을 입었다 고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506093)
 #### [미국 내 수천 명의 사용자로 인해 아마존이 다운된 것으로 나타났습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506091)
@@ -53,22 +74,3 @@
 #### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
 #### [미국 FDA, JNJ의 혈액암 치료제 승인?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506053)
 #### [OpenAI가 무면허 변호사 역할을 했다는 소송에 휘말린 ChatGPT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506047)
-#### [이스라엘은 11 월에 카 메네이를 죽이기로 결정했다고 국방부 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506049)
-#### [ECB는 중동 전쟁에 대한 사전 설정된 대응이 없다고 Lagarde는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506052)
-#### [에콰도르 최고의 에스메랄다스 정유공장, 화재 이후 3월 중순부터 점진적으로 재가동 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506046)
-#### [EU의 칼라스, 이란이 분쟁을 확대하려 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506043)
-#### [디즈니 픽사의 '호퍼스'가 밈을 흥행으로 연결시키려 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506051)
-#### [아이슬란드, 가을 중 EU 국민투표 개최 제안, 방송사 RUV 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506045)
-#### [Broadcom, 엔비디아 주도 시장에서 1,000억 달러 규모의 AI 전망으로 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506042)
-#### [미국, 쿠웨이트 주재 대사관 운영 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506048)
-#### [에라스카 주식, 리젠스 바이오, 낫가스 주식](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506044)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TTD.O/total>
-#### [펜타곤, F-35 전투기의 준비율 감소를 높이기 위해 2031 년까지 120 억 달러 추가 필요- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506035)
-#### [하원 공화당 최고 의원들은 곤잘레스에게 성 의혹에 대한 재선 입찰을 중단 할 것을 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506034)
-#### [수익률 상승, 확고한 달러 이클립스 안전 자산 수요로 금 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506031)
-#### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
-#### [독점-이란 작전 중 유가 상승에 대한 트럼프 : '상승하면 상승한다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506038)
-#### [MSC, 북유럽에서 홍해 및 동아프리카로 향하는 모든 화물에 긴급 유류 할증료 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506033)
-#### [나스닥 텍사스 거래소, 목요일 장 마감에 맞춰 본격적인 운영 개시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506030)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/APA.O/total>
-#### [로슈의 비만 치료제, 임상시험 중간 단계에서 최대 10.7% 체중 감소 효과 입증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2506037)

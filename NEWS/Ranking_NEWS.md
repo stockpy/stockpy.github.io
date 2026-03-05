@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260305_2037 </title></head>
-<center>Vers : 20260305_2037 </center>
-<center>Vers : 20260306_0537 </center>
+<head><meta charset="utf-8"><title>Vers : 20260305_2106 </title></head>
+<center>Vers : 20260305_2106 </center>
+<center>Vers : 20260306_0606 </center>
 <br><br><br>
 #### ['미쳤다' 비명 터졌는데…'1조 풀베팅' 개미들 일냈다](https://m.stock.naver.com/news/ranknews/view/015/0005258767)
 #### [“코스피 오늘밤 폭락”...‘반도체 거품론’ 주장한 월가의 비관론자 "내가 맞았다"](https://m.stock.naver.com/news/ranknews/view/014/0005486387)
