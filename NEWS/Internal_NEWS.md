@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260306_2032 </title></head>
-<center>Vers : 20260306_2032 </center>
-<center>Vers : 20260307_0532 </center>
+<head><meta charset="utf-8"><title>Vers : 20260306_2058 </title></head>
+<center>Vers : 20260306_2058 </center>
+<center>Vers : 20260307_0558 </center>
 <br><br><br>
+#### [주당 73센티미터의 수익을 올릴 것으로 예상되는 Auna SA <AUNA.N> - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507817)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AUNA.K/total>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507813)
+#### [ICE 카놀라 선물은 금요일과 일주일 동안 대두 연료 랠리에서 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507815)
+#### [3월 기준 앨버타 일일 카놀라 가격. 06](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507816)
+#### [연준의 해먹은 금리에 대한 양면 위험을 보고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507812)
+#### [투기꾼들이 옥수수 순매도 포지션 정리 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507814)
+#### [투기꾼들이 미국 원유 순매수를 늘리다-CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507806)
+#### [펀드 매니저들은 최근 한 주 동안 S&P 500 선물 순매수 포지션을 줄였습니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507804)
+#### [오라클과 OpenAI, 텍사스 데이터 센터 확장 계획 철회, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507809)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [트럼프, 최고 보좌관 스티븐 밀러가 주도하는 이민 단속에 앞서 나가다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507805)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507808)
+#### [이란 분쟁이 시장을 뒤흔들면서 중남미 자산이 수년 만에 가장 급격한 주간 하락을 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507811)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
+#### [오라클과 OpenAI, 텍사스 데이터 센터 사이트 확장 계획 종료, 블룸버그 뉴스 보도S](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507803)
+#### [오라클과 OpenAI, 플래그십 데이터 센터 확장 계획 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507807)
+#### [부진한 고용 보고서가 인플레이션 위험에 부담을 주면서 국채-미국 수익률은 고르지 못한 거래로 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507810)
 #### [헝가리 군, 우크라이나 은행 차량 급습으로 8,200만 달러 압수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507802)
 #### [펜타곤의 언론 접근 제한에 회의적인 판사들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507797)
 #### [드론이 이라크 아르빌의 호텔을 표적으로 삼았다고 보안 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507796)
@@ -50,21 +68,3 @@
 #### [스웨덴 해안 경비대, 발트해에서 무국적 선박 의심 선박 적발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507759)
 #### [보잉, 트럼프-시진핑 정상회담으로 500대 제트기 주문에 근접, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507761)
 #### [실시간 시장 - 상당한 유가 상승으로 연준의 금리 인하가 더 빨라질 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507756)
-#### [1월 아르헨티나 산업 생산 3.2% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507757)
-#### [주당 37 센타보의 수익을 올릴 것으로 예상되는 Companhia Siderurgica Nacional SA <SID.N> - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507758)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SID/total>
-#### [코산 SA <CSAN.N>, 주당 8 센타보의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507753)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CSAN.K/total>
-#### [록히드 마틴, 시코르스키가 S-92A+ 헬리콥터의 첫 생산 배치 제작을 준비하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507748)
-#### [소 88,000마리, 돼지 470,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507750)
-#### [트럼프, 미국의 대이란 공격으로 비축량 감소로 방위 기업들에 생산량 증대 압박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507752)
-#### [US, 걸프만에서 최대 약 200 억 달러의 해상 손실 재보험, 기관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507755)
-#### [미국 북서부 강 유량은 95 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507751)
-#### [플린트 힐스 리소스 코퍼스 크리스티 웨스트 정유소, 텍사스주 플레어링 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507747)
-#### [시 정상 회담으로 500대 제트기 주문에 근접, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507754)
-#### [EUR-Oil 충격이 지배적, 200DMA 상한선, 지지선 돌파시 다음 1.15](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507749)
-#### [미국 주식의 움직임-GoPro, 푸르덴셜 파이낸셜, 화이트스톤 리츠](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507746)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DAWN.O/total>
-#### [벤처 글로벌의 CP2 LNG 플랜트 비용 40억 달러 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507741)
-#### [상당한 유가 상승으로 연준의 금리 인하 시기가 빨라질 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507738)
-#### [뉴욕 연준, 스탠딩 레포 운용 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507744)
