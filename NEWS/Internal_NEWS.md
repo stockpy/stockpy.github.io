@@ -1,7 +1,41 @@
-<head><meta charset="utf-8"><title>Vers : 20260306_1847 </title></head>
-<center>Vers : 20260306_1847 </center>
-<center>Vers : 20260307_0347 </center>
+<head><meta charset="utf-8"><title>Vers : 20260306_1924 </title></head>
+<center>Vers : 20260306_1924 </center>
+<center>Vers : 20260307_0424 </center>
 <br><br><br>
+#### [실시간 시장 - 상당한 유가 상승으로 연준의 금리 인하가 더 빨라질 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507756)
+#### [1월 아르헨티나 산업 생산 3.2% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507757)
+#### [주당 37 센타보의 수익을 올릴 것으로 예상되는 Companhia Siderurgica Nacional SA <SID.N> - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507758)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SID/total>
+#### [코산 SA <CSAN.N>, 주당 8 센타보의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507753)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CSAN.K/total>
+#### [록히드 마틴, 시코르스키가 S-92A+ 헬리콥터의 첫 생산 배치 제작을 준비하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507748)
+#### [소 88,000마리, 돼지 470,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507750)
+#### [트럼프, 미국의 대이란 공격으로 비축량 감소로 방위 기업들에 생산량 증대 압박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507752)
+#### [US, 걸프만에서 최대 약 200 억 달러의 해상 손실 재보험, 기관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507755)
+#### [미국 북서부 강 유량은 95 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507751)
+#### [플린트 힐스 리소스 코퍼스 크리스티 웨스트 정유소, 텍사스주 플레어링 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507747)
+#### [시 정상 회담으로 500대 제트기 주문에 근접, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507754)
+#### [EUR-Oil 충격이 지배적, 200DMA 상한선, 지지선 돌파시 다음 1.15](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507749)
+#### [미국 주식의 움직임-GoPro, 푸르덴셜 파이낸셜, 화이트스톤 리츠](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507746)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DAWN.O/total>
+#### [벤처 글로벌의 CP2 LNG 플랜트 비용 40억 달러 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507741)
+#### [상당한 유가 상승으로 연준의 금리 인하 시기가 빨라질 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507738)
+#### [뉴욕 연준, 스탠딩 레포 운용 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507744)
+#### [S&P, 브라질 코산 신용등급을 'BB'에서 'BB-'로 강등하고 신용전망은 부정적으로 설정.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507740)
+#### [바클레이즈는 중동 긴장이 지속되면 브렌트유가 $ 120 / bbl을 테스트 할 수 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507737)
+#### [보잉, 트럼프-시진핑 정상회담으로 500대 제트기 주문에 근접 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507743)
+#### [펜타곤, 전직 국방부 관리 영입하여 AI 노력 주도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507739)
+#### [정부가 채굴 잠재력을 인정한 후, 미국, 베네수엘라 금의 일부 거래 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507745)
+#### [미국, 걸프만에서 최대 약 200 억 달러의 해상 손실을 보장한다고 개발 기관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507742)
+#### [젠코 해운 및 트레이딩, 다이애나 해운의 수정된 제안 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507732)
+#### [백악관, 미국이 이란 영공 통제를 향해 잘 나아가고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507730)
+#### [사우스캐롤라이나주에서 홍역 사례 1건 추가 보고, 총 환자 수 991명으로 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507736)
+#### [미국 원자력 발전 용량이 금요일에 12,805MW로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507731)
+#### [USD / JPY는 158 아래로 통합됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507729)
+#### [미국 원자력 발전 용량이 금요일에 오프라인으로 12,805MW로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507735)
+#### [사우스 보우, 미국, 캐나다 정책 변화로 키스톤 XL 부활 전망 높아져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507733)
+#### [연준의 해먹은 금리가 당분간 동결 될 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507734)
+#### [호주 중앙 은행가, 미국 달러는 투자자들에게 여전히 안전한 피난처라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507728)
 #### [방코 마스터 스캔들은 더 많은 브라질 탄소 시장 규제의 필요성을 보여줍니다, 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507726)
 #### [백악관, 미국이이란 영공 통제를 향해 잘 나아가고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507719)
 #### [안전 자산 프랑 상승, 미국 급여 감소 후 달러 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507720)
@@ -33,40 +67,3 @@
 #### [미국과 이스라엘의 이란 전쟁이 글로벌 비즈니스에 미치는 충격파](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507701)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
 #### [미국 경제가 예기치 않게 92,000개의 일자리를 잃고 실업률이 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507698)
-#### [미국 시추 업체, 4 주 만에 처음으로 석유, 가스 굴착 장치 추가, 베이커 휴즈는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507696)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
-#### [사우스캐롤라이나 보건부, 홍역 발생과 관련된 총 991건의 홍역 사례 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507700)
-#### [미국 천연가스 굴착장비 수가 132개로 2개 감소 - Baker Hughes](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507697)
-#### [미국 석유 굴착 장치 수 411개로 4개 증가 - Baker Hughes](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507695)
-#### [멕시코 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507694)
-#### [마크롱, 분쟁을 막기위한 이라크 총리의 행동에 대해 칭찬](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507689)
-#### [뉴욕증권거래소, 주식 시장 혼란을 초래한 결함으로 SEC에 900만 달러 벌금 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507686)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
-#### [뉴욕 비영리 단체, 비변호사가 무료 법률 자문을 제공한 것에 대한 소송에서 패소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507693)
-#### [큐셀, 미국 조지아주에서 태양광 패널 생산이 정상으로 돌아왔다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507688)
-#### [원유 선물 랠리 속 차액 안정세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507691)
-#### [이란 분쟁이 매도를 촉발하면서 신흥국 주식 펀드 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507692)
-#### [성공회 보수파, 캔터베리 지도부에 대한 보이콧 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507687)
-#### [러시아 설비 투자, 4분기 5.3% 감소, 연간 2.3% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507690)
-#### [미국 고용지표가 연준에 대한 우려를 높입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507685)
-#### [대두는 전쟁 우려가 커지면서 원유 랠리로 계약 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507682)
-#### [South32, 미국 산림청, Hermosa 광산 확장에 대한 초안 승인 발행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507674)
-#### [수스케한나의 지원을 받는 암호화폐 기업 블록필즈, 구조조정 준비- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507677)
-#### [브라질 규제 당국 CADE, 브라스켐의 IG4-노보노르 거래 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507680)
-#### [ERG, 3월 12일 회계연도 실적 및 전략 가이드라인 발표 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507673)
-#### [ICE, 면화, 오렌지 주스 선물 일일 가격제한폭 변경에 대한 개별 통지 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507676)
-#### [인플레이션 데이터에 주름이 더해지면서 중동 상황이 미국 증시를 흔들 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507679)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
-#### [트럼프가 타이레놀을 자폐증과 연관시킨 후 여성들의 타이레놀 사용 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507684)
-#### [중동 분쟁으로 남아시아에서 패스트 패션 의류가 쌓여갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507675)
-#### [캐나다 달러가 유가 급등으로 G10 통화를 능가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507678)
-#### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
-#### [트럼프의 시장 자랑이 주가 폭락으로 사라지다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507683)
-#### [우랄, 아제르바이잔 BTC 수출은 4 월에 증가 할 예정입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507681)
-#### [독점-터키, 영국 MI6에 시리아 샤라 보호 강화 요청, 소식통에 따르면 앙카라, 보도 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507672)
-#### [영국 은행이 붕괴된 모기지 제공업체 MFS와 대출 기관의 관계를 면밀히 조사한다고 FT가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507666)
-#### [독점-이란 국경 지역을 점령하려는이란 쿠르드족의 계획을 지원하는 이스라엘, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507671)
-#### [FTSE 지수가 중동 분쟁으로 1년 만에 최악의 한 주를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507668)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
-#### [중국 생명공학 서비스, 회계연도 순손실 1억 홍콩달러 이하 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507665)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8037.HK/total>
