@@ -1,7 +1,42 @@
-<head><meta charset="utf-8"><title>Vers : 20260306_2257 </title></head>
-<center>Vers : 20260306_2257 </center>
-<center>Vers : 20260307_0757 </center>
+<head><meta charset="utf-8"><title>Vers : 20260306_2333 </title></head>
+<center>Vers : 20260306_2333 </center>
+<center>Vers : 20260307_0833 </center>
 <br><br><br>
+#### [미국, 에콰도르에서 치명적인 작전 수행, 군 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507997)
+#### [버티브, 루멘텀, 코히어런트, 에코스타, S&P 500 합류 예정, 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507993)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LITE.O/total>
+#### [이란 분쟁으로 미국 걸프 유가가 2020년 이후 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507996)
+#### [버티브, 루멘텀, 코히어런트, 에코스타, S&P 500에 합류 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508000)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LITE.O/total>
+#### [콜롬비아의 2월 12개월 인플레이션이 예상보다 더 둔화되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507992)
+#### [피에라 캐피탈, Imaxx 캐나다 고정 급여 펀드 해지 연기 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507995)
+#### [미국, 에콰도르에서 치명적인 작전 수행, 군부는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507999)
+#### [Xai 옥타곤 변동 금리 및 대체 소득 신탁, 1 대 5 역 주식 분할 및 발효일 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508002)
+#### [미 상원의원 Kelly, 10월 1일까지 연방 유류세 유예 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507994)
+#### [넥타 테라퓨틱스, 나스닥 상장 규정 5635(C)(4)에 따른 유도 보조금 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507998)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NKTR.O/total>
+#### [노르헤스 은행, 브라질 브라스켐 지분 4.96%에서 A급 우선주 4.96%로 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508001)
+#### [2월 콜롬비아 12개월 인플레이션 5.29% - 로이터 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507989)
+#### [이란의 호르무즈 해협에서 미 해군에 유조선 호위를 요청하는 트럼프의 도전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507986)
+#### [짐칼 자산운용 "메달리온 파이낸셜이 저평가되고 있으며 리더십 부재로 인해 발목을 잡히고 있다고 판단"](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507991)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MFIN.O/total>
+#### [아르셀로미탈, 2025 연례 보고서 발간 및 20 F 양식의 2025 연례 보고서 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507988)
+#### [아쿠아리온 매각 승인 최종 결정안에 대한 에버소스 요약 성명서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507985)
+#### [탱고 테라퓨틱스, 나스닥 상장 규정 5635(C)(4)에 따른 유도 보조금 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507990)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TNGX.O/total>
+#### [이노밸리스 부동산 투자신탁, 아르퀘일 원천징수세 문제 및 이의신청에 대한 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507987)
+#### [지속 가능한 혁신 및 건강 배당 펀드, 특별 분배 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507984)
+#### [T3 Defense Inc - 킹스우드 캐피털 파트너스가 제출한 소환장 및 고소장 사본 접수 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507978)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DFNS.O/total>
+#### [바이낸스,?자오, 64개 공격 피해자들의 소송 기각 승소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507974)
+#### [크루드-서부 캐나다 셀렉트 할인 좁혀보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507983)
+#### [미국, 중국, FBI 감시 네트워크 위반 의심, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507977)
+#### [국립 심포니 오케스트라 전무 이사 사임, 케네디 센터 퇴장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507980)
+#### [옥수수, 대두 선물 랠리로 대두 베이시스 하락, 바지선 운임 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507982)
+#### [브라질 엠브라에르, 3월 5일 시작한 자사주 매입 프로그램 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507976)
+#### [튀니지, 듀럼, 연밀 입찰 구매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507981)
+#### [칼시와 폴리마켓, 각각 약 200억 달러 가치에 주목 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507975)
+#### [캐나다, USMCA에 대한 미국과의 논의 '건설적'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507979)
 #### [마켓 토크: '지저분한' 일자리 보고서로 '우려스러운' 경기 둔화 추가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507972)
 #### [미국 판사, 비행기를 거부한 추방 학생의 소송 기각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507970)
 #### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507973)
@@ -40,41 +75,3 @@
 #### [에콰도르, 석유 계약 연장으로 6억3800만 달러 투자 기대 - 공식 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507941)
 #### [글로벌 모피 AI, 최대 3억 달러의 혼합 선반에 대한 파일링 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507956)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GMM.O/total>
-#### [Incyte - FDA, Nsclc의 Zynyz Sbla에 대한 완전한 답변서 발행 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507940)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INCY.O/total>
-#### [Icon Energy Corp, 판매 주주가 최대 9.81 만주의 보통주 제공 신청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507955)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ICON.O/total>
-#### [FDA 백신 책임자 비나이 프라사드, 4월에 물러날 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507948)
-#### [비즈니스 룩어헤드: 전쟁의 안개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507939)
-#### [트럼프 미디어 및 기술 - 로버트 라이트하이저, 2026년 3월 6일부로 이사회에서 사임 - SEC 파일링](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507954)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DJT.O/total>
-#### [피치, 크로아티아 신용등급 'A-'로 확정 전망 안정적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507944)
-#### [S&P, 지역 분쟁으로 인한 불확실성으로 UAE의 신용등급을 'AA/A-1+'로 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507953)
-#### [피치, 포르투갈의 전망을 'A'로 긍정적으로 수정하고 IDR 전망도 '긍정적'으로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507947)
-#### [피치, 프랑스 신용등급 'A+' 전망 '안정적'으로 확정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507943)
-#### [봄바디어, 2028년 만기 남은 6.000% 선순위 채권 전량 상환 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507934)
-#### [Lee Enterprises Inc, 판매 주주가 최대 1540 만주의 보통주 제공을위한 파일 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507946)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LEE.O/total>
-#### [PIH Health, 특정 개인의 데이터에 영향을 미치는 데이터 보안 이벤트 경험](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507922)
-#### [InMed 제약 - 3 월 4 일, 공동 확인 및 승인 된 Baymedica의 상업 운영 종료 결정 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507931)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INM.O/total>
-#### [US 주식: "R-oil-ed"](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507920)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTU.O/total>
-#### [비나이 프라사드 FDA 백신 책임자, 4 월에 물러날 예정, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507929)
-#### [단백질 프리미엄이 하락함에 따라 미국 평야 HRW 밀-베이스는 안정적입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507930)
-#### [약정 물류 그룹 Inc - 최대 2억 달러의 증권을 제공할 수 있음 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507919)
-#### [인사이트, 유럽위원회, 진행성 항문관 편평세포암종(SCAC) 1차 치료제로 자이니스®(레티판리맙) 승인 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507928)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INCY.O/total>
-#### [안전 자산 프랑 반등, 급여 감소 후 달러 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507925)
-#### [BXP Inc - 판매 대리인을 통해 보통주를 최대 10 억 달러까지 제공 및 판매 할 수 있음 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507918)
-#### [콜롬비아 파이낸셜, 보통주 최대 192.63 만 주 공모 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507927)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CLBK.O/total>
-#### [허니웰, 회장 겸 CEO 비말 카푸르의 2025년 총 보수가 2040만 달러라고 발표 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507924)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HON.O/total>
-#### [트럼프: 치솟는 대학 축구 비용이 스포츠에 타격을 주고 있어 의회가 나서야 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507921)
-#### [엘리 릴리, CEO 데이비드 A. 릭스의 2025년 총 보수가 3,670만 달러라고 발표 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507926)
-#### [미국, 더 많은 러시아 석유에 대한 제재 해제 가능, 베센트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507923)
-#### [그루포 에어로포르투아리오 델 퍼시피코, 2025년 대비 2026년 2월 여객 교통량 5.5% 감소 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507917)
-#### [블랭크 체커, 아포지 인수, 최대 2억 5천만 달러의 IPO 신청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507907)
-#### [Aimco, 매각 및 청산 계획 추진에 따라 Aimco Op Gp, Llc, Aimco Op L.P. 파트너십 해산 결정- SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507903)
-#### [보잉, CEO 로버트 오트버그의 2025년 총 보수가 2360만 달러라고 밝힘 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507916)
