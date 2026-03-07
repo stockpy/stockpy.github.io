@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260307_2247 </title></head>
-<center>Vers : 20260307_2247 </center>
-<center>Vers : 20260308_0747 </center>
+<head><meta charset="utf-8"><title>Vers : 20260307_2300 </title></head>
+<center>Vers : 20260307_2300 </center>
+<center>Vers : 20260308_0800 </center>
 <br><br><br>
 #### [“주가 박살났다고? 그럼 담아야지”…월가도 베팅한 ‘나이키 킬러’ [오찬종의 매일뉴욕]](https://m.stock.naver.com/news/ranknews/view/009/0005646620)
 #### [코스피 10.56% 급락에도…증권가 “삼성전자 27만·하이닉스 154만 간다”](https://m.stock.naver.com/news/ranknews/view/022/0004110927)
