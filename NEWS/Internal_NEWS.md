@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260307_1834 </title></head>
-<center>Vers : 20260307_1834 </center>
-<center>Vers : 20260308_0334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260307_1859 </title></head>
+<center>Vers : 20260307_1859 </center>
+<center>Vers : 20260308_0359 </center>
 <br><br><br>
+#### [카츄샤 로켓은 바그다드에있는 미국 대사관을 목표로한다고 보안 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508147)
+#### [앙카라, 이란에 터키를 향한 미사일 추가 발사에 대해 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508148)
+#### [베네수엘라의 로드리게스, 트럼프에게 보내는 메시지에서 대화 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508146)
 #### [외교관을 포함하여 150 명 이상의이란 국민이 레바논을 떠났다고 레바논 안보 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508145)
 #### [이탈리아 국방부 장관, 무기 업계에 생산 속도 향상 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508144)
 #### [ADNOC은 육상 운영이 계속되고 있으며 해양 생산량을 관리하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508143)
@@ -61,6 +64,3 @@
 #### [이스라엘 국방부 장관, 레바논에 헤즈볼라 무장 해제 또는 '무거운 대가'에 직면 할 것이라고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508091)
 #### [트럼프, 이란이 중동 이웃에 사과했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508090)
 #### [영국 광고 그룹 M&C 사치의 CEO가 사임한다고 스카이 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508089)
-#### [이란 공격 며칠 후, 트럼프는 중국을 중심으로 라틴 아메리카 지도자들을 초청합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508088)
-#### [이란 전쟁으로 글로벌 에너지 시장에 장기적인 타격이 우려되는 상황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508087)
-#### [스폰지밥, 아이언맨, 콜 오브 듀티: 이란과의 미국 밈 전쟁의 내막](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508086)
