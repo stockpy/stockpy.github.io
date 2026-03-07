@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260307_1715 </title></head>
-<center>Vers : 20260307_1715 </center>
-<center>Vers : 20260308_0215 </center>
+<head><meta charset="utf-8"><title>Vers : 20260307_1834 </title></head>
+<center>Vers : 20260307_1834 </center>
+<center>Vers : 20260308_0334 </center>
 <br><br><br>
+#### [외교관을 포함하여 150 명 이상의이란 국민이 레바논을 떠났다고 레바논 안보 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508145)
+#### [이탈리아 국방부 장관, 무기 업계에 생산 속도 향상 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508144)
+#### [ADNOC은 육상 운영이 계속되고 있으며 해양 생산량을 관리하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508143)
+#### [이란, 걸프 지역에 사과했지만 여전히 전쟁이 벌어지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508141)
+#### [이란 전쟁으로 글로벌 에너지 시장 타격 장기화 우려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508142)
+#### [아타이 베클리, 주요 환각제에 대한 옵션을 모색한다고합니다- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508140)
+#### [이란 강경파 성직자들이 새 최고 지도자의 조속한 지명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508139)
+#### [미국, 일본, 투자 패키지의 일환으로 130억 달러 규모의 일본 디스플레이 공장에 주목, 닛케이 아시아 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508138)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6740.T/total>
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508137)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508135)
+#### [이란, 담수화 공장 공격에 남부 이웃 국가 공군 기지의 지원 있었다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508136)
 #### [파리에서 가을/겨울 컬렉션을 위해 더스키 컬러의 바이커 룩을 선보이는 에르메스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508134)
 #### [린, 비티사른 꺾고 인도 센과 올잉글랜드 오픈 결승전 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508133)
 #### [이란 공격 후 트럼프, 반카르텔 연합 결성을 위해 중남미 지도자 초청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508131)
@@ -52,14 +64,3 @@
 #### [이란 공격 며칠 후, 트럼프는 중국을 중심으로 라틴 아메리카 지도자들을 초청합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508088)
 #### [이란 전쟁으로 글로벌 에너지 시장에 장기적인 타격이 우려되는 상황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508087)
 #### [스폰지밥, 아이언맨, 콜 오브 듀티: 이란과의 미국 밈 전쟁의 내막](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508086)
-#### [이란 강경파 성직자들이 새 최고 지도자의 신속한 지명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508085)
-#### [러시아가 우크라이나 전역에서 밤새 공격을 시작하면서 어린이 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508084)
-#### [모터 레이싱-러셀, 호주에서 폴 차지 후 '놀라운' 메르세데스 차량에 놀란 모습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508083)
-#### [컴퓨터 기술의 광범위한 사용을 볼 수 있다고 전문가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508082)
-#### [디펜딩 챔피언 노리스가 '최악'의 F1 자동차를 강타하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508081)
-#### [영국, 영국 철강 압류 후 중국 징예 그룹에 보상 제안, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508079)
-#### [이스라엘, 레바논에서 희귀 한 공습 실시, 공격으로 16 명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508080)
-#### [전쟁이 확산되면서 항공사 조종사들은 드론, 미사일과 맞서 싸우고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508077)
-#### [전쟁이 확산되면서 항공사 조종사들은 드론, 미사일과 맞서 싸우고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508078)
-#### [영국 정부는 영국 철강 소유권에 대한 교착 상태를 풀기 위해 중국 징예 그룹에 수천만 파운드를 제공했습니다-스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508076)
-#### [러시아가 밤새 우크라이나 군사 및 에너지 시설을 공격했다고 Ifax가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508075)
