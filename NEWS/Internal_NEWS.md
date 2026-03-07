@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260307_2026 </title></head>
-<center>Vers : 20260307_2026 </center>
-<center>Vers : 20260308_0526 </center>
+<head><meta charset="utf-8"><title>Vers : 20260307_2049 </title></head>
+<center>Vers : 20260307_2049 </center>
+<center>Vers : 20260308_0549 </center>
 <br><br><br>
+#### [OpenAI 로보틱스 책임자, 국방부와의 계약 후 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508162)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
 #### [미국 북서부 강 유량 최대 97% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508161)
 #### [사우디 아람코, 일부 석유 선적을 일시적으로 얀부 항구로 우회, 국영 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508160)
 #### [이란 혁명수비대, 테헤란 정유소에 이어 하이파 정유소 표적 공격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508159)
@@ -63,4 +65,3 @@
 #### [16 배치 고려 중, 국방부 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508105)
 #### [페트로페루, 에드가 레오니다스 자말로아를 새 이사회 의장으로 임명 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508104)
 #### [교황 레오, 전 두테르테 필리핀 특사를 주미 대사로 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508102)
-#### [트럼프는 35 만 명의 아이티 인에 대한 보호를 종료 할 수 없다, 미국 항소 법원 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508103)
