@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260307_1628 </title></head>
-<center>Vers : 20260307_1628 </center>
-<center>Vers : 20260308_0128 </center>
+<head><meta charset="utf-8"><title>Vers : 20260307_1652 </title></head>
+<center>Vers : 20260307_1652 </center>
+<center>Vers : 20260308_0152 </center>
 <br><br><br>
+#### [파리에서 가을/겨울 컬렉션을 위해 더스키 컬러의 바이커 룩을 선보이는 에르메스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508134)
+#### [린, 비티사른 꺾고 인도 센과 올잉글랜드 오픈 결승전 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508133)
+#### [이란 공격 후 트럼프, 반카르텔 연합 결성을 위해 중남미 지도자 초청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508131)
+#### [브라질 선거 대결에서 플라비우 볼소나루가 룰라와 무승부를 기록했다고 데이터폴랴가 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508132)
 #### [미국 자폐증 자문위원회는 예정대로 3 월에 만나지 않을 것이라고 보건 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508130)
 #### [UAE 대통령은이란 파업 이후 첫 공개 발언에서 국가가 잘 지내고 있으며 쉬운 먹이가 아니라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508129)
 #### [관리, UAE는 걸프만에 대한이란의 침략을 즉시 끝내기를 원한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508127)
@@ -59,7 +63,3 @@
 #### [전쟁이 확산되면서 항공사 조종사들은 드론, 미사일과 맞서 싸우고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508078)
 #### [영국 정부는 영국 철강 소유권에 대한 교착 상태를 풀기 위해 중국 징예 그룹에 수천만 파운드를 제공했습니다-스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508076)
 #### [러시아가 밤새 우크라이나 군사 및 에너지 시설을 공격했다고 Ifax가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508075)
-#### [화주 MSC, 긴급 유류 할증료 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508073)
-#### [로슈 회장은 여전히 미국 관세로 인한 진단 타격을 예상합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508074)
-#### [모터 레이싱-호주 첫 예선 세션에서 베르스타펜이 충돌사고를 일으켰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508069)
-#### [이란 전쟁으로 인도, 식용 가스 가격 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508072)
