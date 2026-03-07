@@ -1,9 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260307_2049 </title></head>
-<center>Vers : 20260307_2049 </center>
-<center>Vers : 20260308_0549 </center>
+<head><meta charset="utf-8"><title>Vers : 20260307_2100 </title></head>
+<center>Vers : 20260307_2100 </center>
+<center>Vers : 20260308_0600 </center>
 <br><br><br>
+#### [카츄샤 로켓이 바그다드에있는 미국 대사관을 표적으로 삼았다고 보안 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508164)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508163)
 #### [OpenAI 로보틱스 책임자, 국방부와의 계약 후 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508162)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [공격적인 트럼프, 라틴 아메리카 카르텔 연합 출범](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508165)
 #### [미국 북서부 강 유량 최대 97% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508161)
 #### [사우디 아람코, 일부 석유 선적을 일시적으로 얀부 항구로 우회, 국영 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508160)
 #### [이란 혁명수비대, 테헤란 정유소에 이어 하이파 정유소 표적 공격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508159)
@@ -62,6 +65,3 @@
 #### [쿠웨이트,이란 긴장 속에서 예방책으로 석유 생산량 감축, KPC는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508108)
 #### [브라텐, 크란스카 고라 대회 우승으로 오데르마트에 압박을 가하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508107)
 #### [터키의 에르도안, 영국 스타머에게 이란에 대한 대화를 위해 더 많은 일을 할 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508106)
-#### [16 배치 고려 중, 국방부 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508105)
-#### [페트로페루, 에드가 레오니다스 자말로아를 새 이사회 의장으로 임명 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508104)
-#### [교황 레오, 전 두테르테 필리핀 특사를 주미 대사로 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508102)
