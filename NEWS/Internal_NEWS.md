@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260307_1048 </title></head>
-<center>Vers : 20260307_1048 </center>
-<center>Vers : 20260307_1948 </center>
+<head><meta charset="utf-8"><title>Vers : 20260307_1100 </title></head>
+<center>Vers : 20260307_1100 </center>
+<center>Vers : 20260307_2000 </center>
 <br><br><br>
 #### [러시아가 우크라이나 전역에서 밤새 공격을 시작하면서 어린이 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508084)
 #### [모터 레이싱-러셀, 호주에서 폴 차지 후 '놀라운' 메르세데스 차량에 놀란 모습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508083)
@@ -62,9 +62,9 @@
 #### [노보와 힘스, 분쟁 해결, 비만 치료제 함께 판매 할 예정, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508026)
 #### [이란 전쟁이 글로벌 에너지 공급을 뒤흔들면서 미국 펌프 가격 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508028)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508025)
-<head><meta charset="utf-8"><title>Vers : 20260307_1048 </title></head>
-<center>Vers : 20260307_1048 </center>
-<center>Vers : 20260307_1948 </center>
+<head><meta charset="utf-8"><title>Vers : 20260307_1100 </title></head>
+<center>Vers : 20260307_1100 </center>
+<center>Vers : 20260307_2000 </center>
 <br><br><br>
 #### [노보와 힘스, 불화 끝내고 비만 치료제 공동 판매하기로- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508022)
 #### [Blue Owl, Vista Nexthink 인수를 위한 7억 5천만 달러 규모의 부채 거래 주도 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508024)
@@ -136,9 +136,9 @@
 #### [케네디-윌슨 채권단, 공개 매수에 반발하며 조직적 반발 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507962)
 #### [엔비디아, 2027 회계연도 계획에 따라 황 CEO에게 400만 달러의 목표 현금 보너스 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507968)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260307_1048 </title></head>
-<center>Vers : 20260307_1048 </center>
-<center>Vers : 20260307_1948 </center>
+<head><meta charset="utf-8"><title>Vers : 20260307_1100 </title></head>
+<center>Vers : 20260307_1100 </center>
+<center>Vers : 20260307_2000 </center>
 <br><br><br>
 #### [골드만 삭스, 호르무즈 흐름이 회복되지 않으면 유가가 $ 100 / bbl 이상으로 급등 할 수 있다고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507965)
 #### [웨스트게이트 에너지, 전환사채 전환 예정 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507961)
@@ -220,9 +220,9 @@
 #### [암파스타 제약-난징 제약, 3월 3일 난징 레탑 바이오테크놀로지와 공급 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507891)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMPH.O/total>
 #### [미국은 더 많은 러시아 석유에 대한 제재를 해제 할 수 있다고 베 센트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507913)
-<head><meta charset="utf-8"><title>Vers : 20260307_1048 </title></head>
-<center>Vers : 20260307_1048 </center>
-<center>Vers : 20260307_1948 </center>
+<head><meta charset="utf-8"><title>Vers : 20260307_1100 </title></head>
+<center>Vers : 20260307_1100 </center>
+<center>Vers : 20260307_2000 </center>
 <br><br><br>
 #### [트럼프가 타이레놀을 자폐증과 연결시킨 후 여성들의 타이레놀 사용 감소, 랜싯 분석에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507901)
 #### [캐나다, 미국, USMCA에 대한 '건설적인'논의 개최, 캐나다 장관실은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507890)
@@ -301,9 +301,9 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SVRA.O/total>
 #### [더 캐나비스트 컴퍼니, 선순위 채권 보유자들과의 인내 계약을 추가로 연장하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507828)
 #### [오퍼패드, 뉴욕증권거래소 거래 주가 상장 규정 미준수 통지서 수신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507846)
-<head><meta charset="utf-8"><title>Vers : 20260307_1048 </title></head>
-<center>Vers : 20260307_1048 </center>
-<center>Vers : 20260307_1948 </center>
+<head><meta charset="utf-8"><title>Vers : 20260307_1100 </title></head>
+<center>Vers : 20260307_1100 </center>
+<center>Vers : 20260307_2000 </center>
 <br><br><br>
 #### [브라질항공, A330 신규 기종으로 리우발 장거리 노선 취항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507833)
 #### [S&P 아랍에미리트 신용등급 'Aa/A-1+' 전망 '안정적'으로 확정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507827)
@@ -381,9 +381,9 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
 #### [약한 일자리, 높은 인플레이션으로 어려운 선택에 직면한 연준](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507783)
 #### [S&P, 루모의 신용등급을 'BB'에서 'BB-'로 하향 조정하고 신용 관찰 대상에 부정적으로 등록합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507781)
-<head><meta charset="utf-8"><title>Vers : 20260307_1048 </title></head>
-<center>Vers : 20260307_1048 </center>
-<center>Vers : 20260307_1948 </center>
+<head><meta charset="utf-8"><title>Vers : 20260307_1100 </title></head>
+<center>Vers : 20260307_1100 </center>
+<center>Vers : 20260307_2000 </center>
 <br><br><br>
 #### [캐나다와 앨버타, 앨버타의 주요 프로젝트 건설 가속화를 위한 원칙적 합의 도달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507776)
 #### [전쟁 프리미엄, 숏 커버링에 대한 CBOT 밀기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507782)
@@ -448,9 +448,9 @@
 #### [방코 마스터 스캔들은 더 많은 브라질 탄소 시장 규제의 필요성을 보여줍니다, 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507726)
 #### [백악관, 미국이이란 영공 통제를 향해 잘 나아가고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507719)
 #### [안전 자산 프랑 상승, 미국 급여 감소 후 달러 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507720)
-<head><meta charset="utf-8"><title>Vers : 20260307_1048 </title></head>
-<center>Vers : 20260307_1048 </center>
-<center>Vers : 20260307_1948 </center>
+<head><meta charset="utf-8"><title>Vers : 20260307_1100 </title></head>
+<center>Vers : 20260307_1100 </center>
+<center>Vers : 20260307_2000 </center>
 <br><br><br>
 #### [이스라엘, 레바논에서 10만 명의 이재민을 경고하며 베이루트를 포격하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507725)
 #### [백악관: 미국은 트럼프가 방위 계약자를 만날 수있는 충분한 무기 비축량을 보유하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2507718)
