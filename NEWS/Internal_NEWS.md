@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260307_2224 </title></head>
-<center>Vers : 20260307_2224 </center>
-<center>Vers : 20260308_0724 </center>
+<head><meta charset="utf-8"><title>Vers : 20260307_2247 </title></head>
+<center>Vers : 20260307_2247 </center>
+<center>Vers : 20260308_0747 </center>
 <br><br><br>
+#### [미 중앙 사령부, 이란의 미군 포로 주장 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508174)
 #### [러시아 남부의 석유 터미널에서 드론 공격 후 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508173)
 #### [트럼프, 영국 스타 머에게이란 전쟁에서 항공 모함 도움이 필요하지 않다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508172)
 #### [우크라이나의 젤렌스키가 사우디 왕세자와 통화했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508171)
@@ -64,4 +65,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600745.SS/total>
 #### [트럼프, 쿠바가 자신과 루비오와 협상 중이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508116)
 #### [에어버스, 군사위성을 위해 라인메탈, OHB와 협력-블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508115)
-#### [브라질 대두 수확량, 47.4%에 달한다고 Patria AgroNegocios는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508114)
