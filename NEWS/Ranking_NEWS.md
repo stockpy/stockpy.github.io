@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_1025 </title></head>
-<center>Vers : 20260308_1025 </center>
-<center>Vers : 20260308_1925 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_1051 </title></head>
+<center>Vers : 20260308_1051 </center>
+<center>Vers : 20260308_1951 </center>
 <br><br><br>
 #### [1달러 주면 자폭드론 격추해 드립니다…미국의 '전쟁방패'](https://m.stock.naver.com/news/ranknews/view/008/0005326838)
 #### [“1억 넣으면 150만원 매달 따박따박” 믿었다가 낭패…ETF 과장 광고 ‘주의보’](https://m.stock.naver.com/news/ranknews/view/011/0004596819)

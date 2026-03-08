@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_1025 </title></head>
-<center>Vers : 20260308_1025 </center>
-<center>Vers : 20260308_1925 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_1051 </title></head>
+<center>Vers : 20260308_1051 </center>
+<center>Vers : 20260308_1951 </center>
 <br><br><br>
+#### [러시아는 기술적으로 드루 즈바를 통해 석유 공급 준비가되어 있다고 첫 번째 부총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508226)
+#### [프랑스 마크롱, 월요일 키프로스 방문, 엘리제는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508228)
+#### [이란 공격은 국제법 위반이라고 스위스 국방부 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508227)
+#### [슬로바키아 피코 총리, EU의 폰 데어 라이엔과 만나 드루즈바 원유 흐름 재개 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508225)
 #### [KKR, 수십억 달러 규모의 데이터 센터 냉각 회사 매각에 눈독, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508223)
 #### [도쿄는이란 위기 속에서 국가 석유 비축기지에 방출 준비를하라고 말했다, 일본 의원은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508224)
 #### [이란의 신정 통치 체제에서 누가 성공할 수 있을까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508222)
@@ -62,14 +66,14 @@
 #### [우크라이나의 젤렌스키가 사우디 왕세자와 통화했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508171)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508170)
 #### [레바논 장관, 이번 주에 454,000 명이 난민으로 등록했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508168)
+<head><meta charset="utf-8"><title>Vers : 20260308_1051 </title></head>
+<center>Vers : 20260308_1051 </center>
+<center>Vers : 20260308_1951 </center>
+<br><br><br>
 #### [우크라이나의 젤렌스키, 사우디 왕세자와 통화했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508169)
 #### [독점-사우디는이란에 공격하지 말라고 말했고, 보복 가능성을 경고했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508167)
 #### [카니, 토론토 지역 유대교 회당에서 총기 난사 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508166)
 #### [카츄샤 로켓이 바그다드에있는 미국 대사관을 표적으로 삼았다고 보안 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508164)
-<head><meta charset="utf-8"><title>Vers : 20260308_1025 </title></head>
-<center>Vers : 20260308_1025 </center>
-<center>Vers : 20260308_1925 </center>
-<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508163)
 #### [OpenAI 로보틱스 책임자, 국방부와의 계약 후 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508162)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
@@ -129,7 +133,3 @@
 #### [트럼프 이란의 군대, 해군, 통신 및 지도자들은 '사라졌다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508111)
 #### [수천 명의 미국인이 전세기를 타고 중동에서 대피했다고 국무부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508110)
 #### [수천 명의 미국인이 전세기를 타고 중동에서 대피했다고 국무부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508109)
-#### [쿠웨이트,이란 긴장 속에서 예방책으로 석유 생산량 감축, KPC는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508108)
-#### [브라텐, 크란스카 고라 대회 우승으로 오데르마트에 압박을 가하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508107)
-#### [터키의 에르도안, 영국 스타머에게 이란에 대한 대화를 위해 더 많은 일을 할 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508106)
-#### [16 배치 고려 중, 국방부 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508105)
