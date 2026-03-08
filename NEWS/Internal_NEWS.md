@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_1835 </title></head>
-<center>Vers : 20260308_1835 </center>
-<center>Vers : 20260309_0335 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_1901 </title></head>
+<center>Vers : 20260308_1901 </center>
+<center>Vers : 20260309_0401 </center>
 <br><br><br>
+#### [프랑스의 마크롱, 이란의 페제쉬키안과 대화하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508289)
+#### [트럼프와 스타머, 미국이 영국의 도움이 필요 없다고 말한 후 이란에 대해 논의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508288)
 #### [이스라엘의 공격으로 가자 시티에서 팔레스타인 인 3 명이 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508287)
 #### [CBOT 밀 배송 - Mar 08](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508286)
 #### [NTSB 이사 인먼, 백악관으로부터 해고당했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508284)
@@ -63,5 +65,3 @@
 #### [1776년부터 2026년까지: 아담 스미스의 글로벌 경제에 대한 교훈](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508233)
 #### [KKR, 수십억 달러 규모의 데이터 센터 냉각 회사 매각에 눈독, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508230)
 #### [KKR, 수십억 달러 규모의 데이터 센터 냉각 회사 매각에 눈독-FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508231)
-#### [미국은 한국에 대한 관세를 인상 할 가능성이 낮다고 서울 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508229)
-#### [러시아는 기술적으로 드루 즈바를 통해 석유 공급 준비가되어 있다고 첫 번째 부총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508226)
