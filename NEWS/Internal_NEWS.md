@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_1051 </title></head>
-<center>Vers : 20260308_1051 </center>
-<center>Vers : 20260308_1951 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_1112 </title></head>
+<center>Vers : 20260308_1112 </center>
+<center>Vers : 20260308_2012 </center>
 <br><br><br>
+#### [KKR, 수십억 달러 규모의 데이터 센터 냉각 회사 매각에 눈독, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508230)
+#### [KKR, 수십억 달러 규모의 데이터 센터 냉각 회사 매각에 눈독-FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508231)
+#### [미국은 한국에 대한 관세를 인상 할 가능성이 낮다고 서울 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508229)
 #### [러시아는 기술적으로 드루 즈바를 통해 석유 공급 준비가되어 있다고 첫 번째 부총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508226)
 #### [프랑스 마크롱, 월요일 키프로스 방문, 엘리제는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508228)
 #### [이란 공격은 국제법 위반이라고 스위스 국방부 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508227)
@@ -63,13 +66,13 @@
 #### [미 중앙 사령부, 이란의 미군 포로 주장 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508174)
 #### [러시아 남부의 석유 터미널에서 드론 공격 후 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508173)
 #### [트럼프, 영국 스타 머에게이란 전쟁에서 항공 모함 도움이 필요하지 않다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508172)
+<head><meta charset="utf-8"><title>Vers : 20260308_1112 </title></head>
+<center>Vers : 20260308_1112 </center>
+<center>Vers : 20260308_2012 </center>
+<br><br><br>
 #### [우크라이나의 젤렌스키가 사우디 왕세자와 통화했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508171)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508170)
 #### [레바논 장관, 이번 주에 454,000 명이 난민으로 등록했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508168)
-<head><meta charset="utf-8"><title>Vers : 20260308_1051 </title></head>
-<center>Vers : 20260308_1051 </center>
-<center>Vers : 20260308_1951 </center>
-<br><br><br>
 #### [우크라이나의 젤렌스키, 사우디 왕세자와 통화했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508169)
 #### [독점-사우디는이란에 공격하지 말라고 말했고, 보복 가능성을 경고했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508167)
 #### [카니, 토론토 지역 유대교 회당에서 총기 난사 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508166)
@@ -130,6 +133,3 @@
 #### [브라질 대두 수확량, 47.4%에 달한다고 Patria AgroNegocios는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508114)
 #### [트럼프, 서반구에서 '카르텔 근절'을 위한 새로운 군사 연합 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508113)
 #### [트럼프, 미국이 사흘 만에 42 척의이란 해군 함정을 격침시켰다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508112)
-#### [트럼프 이란의 군대, 해군, 통신 및 지도자들은 '사라졌다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508111)
-#### [수천 명의 미국인이 전세기를 타고 중동에서 대피했다고 국무부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508110)
-#### [수천 명의 미국인이 전세기를 타고 중동에서 대피했다고 국무부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508109)
