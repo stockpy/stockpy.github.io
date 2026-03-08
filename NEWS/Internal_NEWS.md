@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_1654 </title></head>
-<center>Vers : 20260308_1654 </center>
-<center>Vers : 20260309_0154 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_1721 </title></head>
+<center>Vers : 20260308_1721 </center>
+<center>Vers : 20260309_0221 </center>
 <br><br><br>
+#### [콜라핀토, '고양이 같은' 반사신경으로 아슬아슬한 미스에 깜짝 놀란 라이벌들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508275)
+#### [독일 녹색당이 메르츠 총리의 보수파를 이끌고 총선에서 승리했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508274)
+#### [시리아의 쿠르드족, 이란의 쿠르드족에게 테헤란에 대항하는 미국과 협력하지 말라고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508273)
+#### [이라크 석유 생산, 호르무즈 해협이 분쟁으로 막히면서 붕괴, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508272)
+#### [올림픽 추락에서 패럴림픽 금메달까지, 스노보드 선수 페라토너의 두 가지 삶](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508271)
 #### [이란의 차기 지도자와 이슬람 공화국의 생존을 위협하는 충성주의자 기반 약화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508268)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508270)
 #### [린, 센을 꺾고 올잉글랜드오픈 영광, 왕은 안 여자부 왕관을 거부하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508269)
@@ -59,9 +64,3 @@
 #### [이탈리아, 중동 전쟁으로 인한 에너지 가격 급등 경고로 유류세 인하 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508217)
 #### [이란이 걸프 공격 중단을 승인하면서 중동 주식-사우디 지수가 상승세를 확대합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508218)
 #### [독점-미국, 스리랑카에 침몰 한 배에서이란 승무원과 생존자를 송환하지 말라고 스리랑카에 압박, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508216)
-#### [러시아 남부의 석유 창고에서 화재가 진화되었다고 현지 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508215)
-#### [호주 GP 우승자 러셀, 새로운 F1 시대에 기회를 줘야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508214)
-#### [이스라엘 군, 이란 카메네이의 모든 후계자를 추적할 것이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508213)
-#### [중난홍 문화, 화력 발전 회사 지분 57.3% 인수한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508212)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002445.SZ/total>
-#### [이스라엘 군, 이란 카메네이의 모든 후계자를 추적 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508210)
