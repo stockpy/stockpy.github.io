@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_0419 </title></head>
-<center>Vers : 20260308_0419 </center>
-<center>Vers : 20260308_1319 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_0525 </title></head>
+<center>Vers : 20260308_0525 </center>
+<center>Vers : 20260308_1425 </center>
 <br><br><br>
+#### [MH370편 탑승객 가족들, 말레이시아에 수색 연장 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508194)
+#### [미국, 이스라엘, 이란의 핵 비축량을 압수하기 위해 특수 부대 파견을 검토하고 있다고 Axios는 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508192)
+#### [주목해야 할 요소 - 3월 8일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508193)
 #### [알바니아 국경을 강타했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508190)
 #### [중국, 트럼프가 중국의 핵심 파트너를 표적으로 삼으면서 미국과의 대화가 중요하다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508191)
 #### [트럼프는 아이티인 35만명에 대한 보호를 종료할 수 없다고 미국 항소법원이 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508189)
@@ -62,13 +65,13 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508137)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508135)
 #### [이란, 담수화 공장 공격에 남부 이웃 국가 공군 기지의 지원 있었다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508136)
+<head><meta charset="utf-8"><title>Vers : 20260308_0525 </title></head>
+<center>Vers : 20260308_0525 </center>
+<center>Vers : 20260308_1425 </center>
+<br><br><br>
 #### [파리에서 가을/겨울 컬렉션을 위해 더스키 컬러의 바이커 룩을 선보이는 에르메스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508134)
 #### [린, 비티사른 꺾고 인도 센과 올잉글랜드 오픈 결승전 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508133)
 #### [이란 공격 후 트럼프, 반카르텔 연합 결성을 위해 중남미 지도자 초청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508131)
-<head><meta charset="utf-8"><title>Vers : 20260308_0419 </title></head>
-<center>Vers : 20260308_0419 </center>
-<center>Vers : 20260308_1319 </center>
-<br><br><br>
 #### [브라질 선거 대결에서 플라비우 볼소나루가 룰라와 무승부를 기록했다고 데이터폴랴가 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508132)
 #### [미국 자폐증 자문위원회는 예정대로 3 월에 만나지 않을 것이라고 보건 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508130)
 #### [UAE 대통령은이란 파업 이후 첫 공개 발언에서 국가가 잘 지내고 있으며 쉬운 먹이가 아니라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508129)
@@ -127,6 +130,3 @@
 #### [전쟁이 확산되면서 항공사 조종사들은 드론, 미사일과 맞서 싸우고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508078)
 #### [영국 정부는 영국 철강 소유권에 대한 교착 상태를 풀기 위해 중국 징예 그룹에 수천만 파운드를 제공했습니다-스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508076)
 #### [러시아가 밤새 우크라이나 군사 및 에너지 시설을 공격했다고 Ifax가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508075)
-#### [화주 MSC, 긴급 유류 할증료 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508073)
-#### [로슈 회장은 여전히 미국 관세로 인한 진단 타격을 예상합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508074)
-#### [모터 레이싱-호주 첫 예선 세션에서 베르스타펜이 충돌사고를 일으켰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508069)
