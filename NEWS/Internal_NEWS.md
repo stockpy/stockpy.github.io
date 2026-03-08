@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_0208 </title></head>
-<center>Vers : 20260308_0208 </center>
-<center>Vers : 20260308_1108 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_0419 </title></head>
+<center>Vers : 20260308_0419 </center>
+<center>Vers : 20260308_1319 </center>
 <br><br><br>
+#### [알바니아 국경을 강타했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508190)
+#### [중국, 트럼프가 중국의 핵심 파트너를 표적으로 삼으면서 미국과의 대화가 중요하다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508191)
+#### [트럼프는 아이티인 35만명에 대한 보호를 종료할 수 없다고 미국 항소법원이 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508189)
+#### [미국 판사, 일자리 삭감 등 보이스오브아메리카 CEO로서 카리 레이크가 취한 2025년 조치 무효 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508188)
+#### [트럼프, 이란 전쟁 해결 거부, 잠재적 지도자 모두 살해 가능성 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508187)
+#### [국제 질서가 '중요한 시점'에 도달했다고 중국 외무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508186)
+#### [미국 판사, 일자리 감축 등 보이스 오브 아메리카 CEO로서 카리 레이크가 취한 2025년 조치 무효화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508185)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508184)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508183)
 #### [NTSB 이사 J. 토드 인먼, 갑작스럽게 안전 감시자에서 물러나다- The Air Current](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508182)
@@ -58,6 +65,10 @@
 #### [파리에서 가을/겨울 컬렉션을 위해 더스키 컬러의 바이커 룩을 선보이는 에르메스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508134)
 #### [린, 비티사른 꺾고 인도 센과 올잉글랜드 오픈 결승전 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508133)
 #### [이란 공격 후 트럼프, 반카르텔 연합 결성을 위해 중남미 지도자 초청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508131)
+<head><meta charset="utf-8"><title>Vers : 20260308_0419 </title></head>
+<center>Vers : 20260308_0419 </center>
+<center>Vers : 20260308_1319 </center>
+<br><br><br>
 #### [브라질 선거 대결에서 플라비우 볼소나루가 룰라와 무승부를 기록했다고 데이터폴랴가 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508132)
 #### [미국 자폐증 자문위원회는 예정대로 3 월에 만나지 않을 것이라고 보건 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508130)
 #### [UAE 대통령은이란 파업 이후 첫 공개 발언에서 국가가 잘 지내고 있으며 쉬운 먹이가 아니라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508129)
@@ -65,10 +76,6 @@
 #### [청산 된 브라질 대출 기관 방코 마스터의 소유주가 사망했다고 변호사들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508128)
 #### [러시아 국기, 다운힐 동메달 2개로 올림픽 시상대 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508126)
 #### [플러그 파워, 미국 최고 전력망 경매에서 수소 공급 계획 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508125)
-<head><meta charset="utf-8"><title>Vers : 20260308_0208 </title></head>
-<center>Vers : 20260308_0208 </center>
-<center>Vers : 20260308_1108 </center>
-<br><br><br>
 #### [바이비트, 공동 CEO 헬렌 리우, 창업가 여정 시작하며 퇴사 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508123)
 #### [트럼프, 쿠바가 자신과 루비오와 협상 중이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508124)
 #### [스웨덴, 발트해에서 압수 된 선박에 허위 깃발, 승무원 한 명이 범죄 통보를 받았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508122)
@@ -123,10 +130,3 @@
 #### [화주 MSC, 긴급 유류 할증료 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508073)
 #### [로슈 회장은 여전히 미국 관세로 인한 진단 타격을 예상합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508074)
 #### [모터 레이싱-호주 첫 예선 세션에서 베르스타펜이 충돌사고를 일으켰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508069)
-#### [이란 전쟁으로 인도, 식용 가스 가격 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508072)
-#### [프랑스 CMA CGM, 선박 유류할증료 부과 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508071)
-#### [인도는 미국이 스리랑카 앞바다에서 다른 군함을 침몰시킨 날이란 군함을 정박하게했다고 관리들은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508070)
-#### [러셀, 호주에서 폴 차지 후 '놀라운' 메르세데스 차량에 깜짝 놀라다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508068)
-#### [제네럴 모터스, 엔진 실속으로 인해 충돌 위험이 증가함에 따라 미국 차량 11,787 대 리콜- NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508067)
-#### [프랑스 극우파, 페르피냥에서 범죄에 대한 강경한 청사진을 시험하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508066)
-#### [에미레이트항공, 두바이 왕복 운항 재개한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508065)
