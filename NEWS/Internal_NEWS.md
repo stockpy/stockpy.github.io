@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_1629 </title></head>
-<center>Vers : 20260308_1629 </center>
-<center>Vers : 20260309_0129 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_1654 </title></head>
+<center>Vers : 20260308_1654 </center>
+<center>Vers : 20260309_0154 </center>
 <br><br><br>
+#### [이란의 차기 지도자와 이슬람 공화국의 생존을 위협하는 충성주의자 기반 약화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508268)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508270)
+#### [린, 센을 꺾고 올잉글랜드오픈 영광, 왕은 안 여자부 왕관을 거부하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508269)
 #### [사우디아라비아에서 주택가에 발사체가 떨어져 2명이 사망하고 12명이 부상당했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508267)
 #### [UK의 스타머, 트럼프 미국 대통령과 중동에 대해 이야기하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508266)
 #### [영국 스타머, 트럼프 미국 대통령과 중동 문제 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508265)
@@ -62,6 +65,3 @@
 #### [중난홍 문화, 화력 발전 회사 지분 57.3% 인수한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508212)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002445.SZ/total>
 #### [이스라엘 군, 이란 카메네이의 모든 후계자를 추적 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508210)
-#### [이란의 차기 최고 지도자에 대한 다수결 합의 도출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508211)
-#### [리야드, 테헤란에 공격 경고로 사우디 지수 상승세 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508208)
-#### [BUZZ-IMM: 달러 숏은 피난처 매수로 상당히 완화되고, 유로 숏은 증가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508209)
