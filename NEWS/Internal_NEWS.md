@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_2027 </title></head>
-<center>Vers : 20260308_2027 </center>
-<center>Vers : 20260309_0527 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_2051 </title></head>
+<center>Vers : 20260308_2051 </center>
+<center>Vers : 20260309_0551 </center>
 <br><br><br>
+#### [BUZZ-재생-EUR/USD 히트, 스털링 지원, USD/JPY 콜 옵션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508301)
+#### [러시아, UAE 외무 장관,이란, 걸프만 국가에 대한 공격 종식 추구, 러시아 외무부 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508300)
 #### [뉴욕시 경찰, 맘다니의 집 밖에서 폭발물로 추정되는 장치 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508299)
 #### [이란 대통령, 테헤란에서 미-이스라엘 전쟁으로 부상당한 부상자 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508298)
 #### [미국 교통안전국 결석자 증가로 일부 미국 공항에서 보안 검색대가 3시간 동안 줄을 섭니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508297)
@@ -63,5 +65,3 @@
 #### [알제리는 두 항구로만 선적하기 위해 명목상 50,000 톤의 연 밀을 구매하는 경향이 있다고 상인들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508244)
 #### [레오 교황, 이란과 중동 폭력 사태 속에서 폭격 중단 촉구, 대화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508243)
 #### [APK-Inform, 우크라이나의 2026년 곡물 수확량이 4% 감소한 5,860만 톤으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508242)
-#### [오슬로 주재 미국 대사관에서 폭발이 발생해 경미한 피해가 발생했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508241)
-#### [교황 레오, 폭격 중단 촉구, 이란과 중동 폭력 속에서 대화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508240)
