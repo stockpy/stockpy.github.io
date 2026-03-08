@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_1721 </title></head>
-<center>Vers : 20260308_1721 </center>
-<center>Vers : 20260309_0221 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_1835 </title></head>
+<center>Vers : 20260308_1835 </center>
+<center>Vers : 20260309_0335 </center>
 <br><br><br>
+#### [이스라엘의 공격으로 가자 시티에서 팔레스타인 인 3 명이 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508287)
+#### [CBOT 밀 배송 - Mar 08](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508286)
+#### [NTSB 이사 인먼, 백악관으로부터 해고당했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508284)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
+#### [이란의 지도자로서 카메네이의 이름은 계속 될 것이라고 전문가 회의 회원은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508285)
+#### [영국군이 이란에서 이라크를 향해 발사한 드론과 교전 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508283)
+#### [미국과 이스라엘의 이란 전쟁으로 석유, 가스 공급 차질 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508281)
+#### [NTSB 이사 인먼은 백악관에 의해 해고되었다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508282)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
+#### [이란 군, 지난주 미국의이란 군함 공격으로 최소 104 명이 사망했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508280)
+#### [러시아, 4시간 동안 우크라이나 드론 170대를 요격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508278)
+#### [독일 녹색당, 메르츠 총리의 보수당을 주 선거에서 승리로 이끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508276)
+#### [브라질 룰라 대통령의 연례 건강 검진 검사 결과는 정상입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508279)
+#### [미국, 이란의 우라늄을 압수하기위한 특별 작전 아이디어 고려, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508277)
 #### [콜라핀토, '고양이 같은' 반사신경으로 아슬아슬한 미스에 깜짝 놀란 라이벌들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508275)
 #### [독일 녹색당이 메르츠 총리의 보수파를 이끌고 총선에서 승리했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508274)
 #### [시리아의 쿠르드족, 이란의 쿠르드족에게 테헤란에 대항하는 미국과 협력하지 말라고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508273)
@@ -51,16 +65,3 @@
 #### [KKR, 수십억 달러 규모의 데이터 센터 냉각 회사 매각에 눈독-FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508231)
 #### [미국은 한국에 대한 관세를 인상 할 가능성이 낮다고 서울 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508229)
 #### [러시아는 기술적으로 드루 즈바를 통해 석유 공급 준비가되어 있다고 첫 번째 부총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508226)
-#### [프랑스 마크롱, 월요일 키프로스 방문, 엘리제는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508228)
-#### [이란 공격은 국제법 위반이라고 스위스 국방부 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508227)
-#### [슬로바키아 피코 총리, EU의 폰 데어 라이엔과 만나 드루즈바 원유 흐름 재개 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508225)
-#### [KKR, 수십억 달러 규모의 데이터 센터 냉각 회사 매각에 눈독, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508223)
-#### [도쿄는이란 위기 속에서 국가 석유 비축기지에 방출 준비를하라고 말했다, 일본 의원은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508224)
-#### [이란의 신정 통치 체제에서 누가 성공할 수 있을까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508222)
-#### [페라리가 메르세데스를 끌어들일 수 있다고 해밀턴은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508221)
-#### [레바논 남성, 지난 전쟁으로 파손된 집 수리 후 몇 달 만에 고향을 떠나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508220)
-#### [GEM, 중국 ENFI와 중요 광물 자원 개발을 위한 협력 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508219)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002340.SZ/total>
-#### [이탈리아, 중동 전쟁으로 인한 에너지 가격 급등 경고로 유류세 인하 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508217)
-#### [이란이 걸프 공격 중단을 승인하면서 중동 주식-사우디 지수가 상승세를 확대합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508218)
-#### [독점-미국, 스리랑카에 침몰 한 배에서이란 승무원과 생존자를 송환하지 말라고 스리랑카에 압박, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508216)
