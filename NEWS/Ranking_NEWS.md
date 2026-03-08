@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_1425 </title></head>
-<center>Vers : 20260308_1425 </center>
-<center>Vers : 20260308_2325 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_1450 </title></head>
+<center>Vers : 20260308_1450 </center>
+<center>Vers : 20260308_2350 </center>
 <br><br><br>
 #### [10년간 준 아이 용돈 2000만원, 주식 사줬다가…'화들짝'](https://m.stock.naver.com/news/ranknews/view/015/0005259544)
 #### ["주식에 80억 투자했는데"…120억 번 40대女 대표의 고민](https://m.stock.naver.com/news/ranknews/view/015/0005259543)
@@ -62,9 +62,9 @@
 #### [전쟁에도 ‘2조 베팅’…  레버리지 서학개미, 주가 반토막 ‘울상’](https://m.stock.naver.com/news/ranknews/view/014/0005487828)
 #### [“ 상반기 후보물질 추가 기술이전 추진…하반기엔 셀트리온 협업 임상 결과도”](https://m.stock.naver.com/news/ranknews/view/011/0004596895)
 #### ["배당 늘리고 자사주 태운다"… 소각 기업 6배 급증](https://m.stock.naver.com/news/ranknews/view/014/0005487830)
-<head><meta charset="utf-8"><title>Vers : 20260308_1425 </title></head>
-<center>Vers : 20260308_1425 </center>
-<center>Vers : 20260308_2325 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_1450 </title></head>
+<center>Vers : 20260308_1450 </center>
+<center>Vers : 20260308_2350 </center>
 <br><br><br>
 #### [“코스피 7000까지도 가능”…韓 자산시장 대격변 이제 시작이라는데 [K주식, 이걸 사? 말아?]](https://m.stock.naver.com/news/ranknews/view/009/0005646683)
 #### [“코스피 ‘현기증 장세’ 맞았네”…나흘간 VI 발동만 3000건 넘었다 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002609988)
