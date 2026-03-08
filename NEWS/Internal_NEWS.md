@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_1250 </title></head>
-<center>Vers : 20260308_1250 </center>
-<center>Vers : 20260308_2150 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_1332 </title></head>
+<center>Vers : 20260308_1332 </center>
+<center>Vers : 20260308_2232 </center>
 <br><br><br>
+#### [레바논 남부에서 이스라엘 군인 2 명이 사망했다고 이스라엘 군이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508254)
+#### [스위스 유권자, 국영 방송사 자금 삭감 계획 거부 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508252)
+#### [페루 투표를 앞두고 시위대가 젠더 폭력에 대한 조치를 요구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508253)
+#### [이스라엘 군, 레바논 남부에서 군인 사살](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508249)
+#### [트럼프, 유권자 법안이 의회에서 통과될 때까지 다른 법안에 서명하지 않겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508248)
+#### [월스트리트 주간을 앞두고-인플레이션 데이터가 주름을 더함에 따라 중동 개발이 미국 증시를 흔들 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508250)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
+#### [우크라이나의 젤렌스키, 네덜란드 총리와 공동 무기 생산에 대해 논의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508251)
+#### [미국과 이스라엘의 이란 전쟁으로 석유, 가스 공급 차질 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508247)
 #### [트럼프, 유권자 법안이 의회에서 통과 될 때까지 다른 법안에 서명하지 않을 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508246)
 #### [시프린, 로빈슨과 고지아가 슈퍼-G 타이틀을 놓고 격돌하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508245)
 #### [알제리는 두 항구로만 선적하기 위해 명목상 50,000 톤의 연 밀을 구매하는 경향이 있다고 상인들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508244)
@@ -57,6 +66,10 @@
 #### [모터 레이싱-러셀과 메르세데스가 호주 그랑프리를 제패하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508197)
 #### [이란 대통령, 자신의 발언이 '적에 의해 잘못 해석되었다'고 말하다 - 국영 TV](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508195)
 #### [러셀, 메르세데스의 포뮬러 원 호주 그랑프리 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508196)
+<head><meta charset="utf-8"><title>Vers : 20260308_1332 </title></head>
+<center>Vers : 20260308_1332 </center>
+<center>Vers : 20260308_2232 </center>
+<br><br><br>
 #### [MH370편 탑승객 가족들, 말레이시아에 수색 연장 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508194)
 #### [미국, 이스라엘, 이란의 핵 비축량을 압수하기 위해 특수 부대 파견을 검토하고 있다고 Axios는 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508192)
 #### [주목해야 할 요소 - 3월 8일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508193)
@@ -65,10 +78,6 @@
 #### [트럼프는 아이티인 35만명에 대한 보호를 종료할 수 없다고 미국 항소법원이 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508189)
 #### [미국 판사, 일자리 삭감 등 보이스오브아메리카 CEO로서 카리 레이크가 취한 2025년 조치 무효 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508188)
 #### [트럼프, 이란 전쟁 해결 거부, 잠재적 지도자 모두 살해 가능성 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508187)
-<head><meta charset="utf-8"><title>Vers : 20260308_1250 </title></head>
-<center>Vers : 20260308_1250 </center>
-<center>Vers : 20260308_2150 </center>
-<br><br><br>
 #### [국제 질서가 '중요한 시점'에 도달했다고 중국 외무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508186)
 #### [미국 판사, 일자리 감축 등 보이스 오브 아메리카 CEO로서 카리 레이크가 취한 2025년 조치 무효화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508185)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508184)
@@ -124,6 +133,10 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508137)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508135)
 #### [이란, 담수화 공장 공격에 남부 이웃 국가 공군 기지의 지원 있었다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508136)
+<head><meta charset="utf-8"><title>Vers : 20260308_1332 </title></head>
+<center>Vers : 20260308_1332 </center>
+<center>Vers : 20260308_2232 </center>
+<br><br><br>
 #### [파리에서 가을/겨울 컬렉션을 위해 더스키 컬러의 바이커 룩을 선보이는 에르메스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508134)
 #### [린, 비티사른 꺾고 인도 센과 올잉글랜드 오픈 결승전 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508133)
 #### [이란 공격 후 트럼프, 반카르텔 연합 결성을 위해 중남미 지도자 초청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508131)
@@ -132,10 +145,6 @@
 #### [UAE 대통령은이란 파업 이후 첫 공개 발언에서 국가가 잘 지내고 있으며 쉬운 먹이가 아니라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508129)
 #### [관리, UAE는 걸프만에 대한이란의 침략을 즉시 끝내기를 원한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508127)
 #### [청산 된 브라질 대출 기관 방코 마스터의 소유주가 사망했다고 변호사들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508128)
-<head><meta charset="utf-8"><title>Vers : 20260308_1250 </title></head>
-<center>Vers : 20260308_1250 </center>
-<center>Vers : 20260308_2150 </center>
-<br><br><br>
 #### [러시아 국기, 다운힐 동메달 2개로 올림픽 시상대 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508126)
 #### [플러그 파워, 미국 최고 전력망 경매에서 수소 공급 계획 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508125)
 #### [바이비트, 공동 CEO 헬렌 리우, 창업가 여정 시작하며 퇴사 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508123)
@@ -189,11 +198,3 @@
 #### [전쟁이 확산되면서 항공사 조종사들은 드론, 미사일과 맞서 싸우고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508078)
 #### [영국 정부는 영국 철강 소유권에 대한 교착 상태를 풀기 위해 중국 징예 그룹에 수천만 파운드를 제공했습니다-스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508076)
 #### [러시아가 밤새 우크라이나 군사 및 에너지 시설을 공격했다고 Ifax가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508075)
-#### [화주 MSC, 긴급 유류 할증료 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508073)
-#### [로슈 회장은 여전히 미국 관세로 인한 진단 타격을 예상합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508074)
-#### [모터 레이싱-호주 첫 예선 세션에서 베르스타펜이 충돌사고를 일으켰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508069)
-#### [이란 전쟁으로 인도, 식용 가스 가격 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508072)
-#### [프랑스 CMA CGM, 선박 유류할증료 부과 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508071)
-#### [인도는 미국이 스리랑카 앞바다에서 다른 군함을 침몰시킨 날이란 군함을 정박하게했다고 관리들은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508070)
-#### [러셀, 호주에서 폴 차지 후 '놀라운' 메르세데스 차량에 깜짝 놀라다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508068)
-#### [제네럴 모터스, 엔진 실속으로 인해 충돌 위험이 증가함에 따라 미국 차량 11,787 대 리콜- NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508067)
