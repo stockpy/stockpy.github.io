@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_2224 </title></head>
-<center>Vers : 20260308_2224 </center>
-<center>Vers : 20260309_0724 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_2248 </title></head>
+<center>Vers : 20260308_2248 </center>
+<center>Vers : 20260309_0748 </center>
 <br><br><br>
+#### [러시아, 9시간 동안 234대의 우크라이나 드론을 요격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508320)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508319)
 #### [로스투디르센 임상시험에서 새로운 긍정적인 심폐 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508317)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DYN.O/total>
@@ -64,4 +65,3 @@
 #### [이스라엘의 공격으로 가자 지구의 자동차에서 두 명의 팔레스타인 인이 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508263)
 #### [이란 전쟁으로 호르무즈가 여전히 막히면서 이라크 석유 생산이 붕괴, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508262)
 #### [콜롬비아 국민들이 입법 경선, 대통령 예비선거에 투표하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508261)
-#### [오만 두쿰 항구, 항만 및 해상 작업 정상 진행 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508259)
