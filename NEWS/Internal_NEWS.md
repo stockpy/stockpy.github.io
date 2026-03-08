@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_1112 </title></head>
-<center>Vers : 20260308_1112 </center>
-<center>Vers : 20260308_2012 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_1250 </title></head>
+<center>Vers : 20260308_1250 </center>
+<center>Vers : 20260308_2150 </center>
 <br><br><br>
+#### [트럼프, 유권자 법안이 의회에서 통과 될 때까지 다른 법안에 서명하지 않을 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508246)
+#### [시프린, 로빈슨과 고지아가 슈퍼-G 타이틀을 놓고 격돌하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508245)
+#### [알제리는 두 항구로만 선적하기 위해 명목상 50,000 톤의 연 밀을 구매하는 경향이 있다고 상인들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508244)
+#### [레오 교황, 이란과 중동 폭력 사태 속에서 폭격 중단 촉구, 대화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508243)
+#### [APK-Inform, 우크라이나의 2026년 곡물 수확량이 4% 감소한 5,860만 톤으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508242)
+#### [오슬로 주재 미국 대사관에서 폭발이 발생해 경미한 피해가 발생했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508241)
+#### [교황 레오, 폭격 중단 촉구, 이란과 중동 폭력 속에서 대화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508240)
+#### [텍사스 유권자는 트럼프의이란 파업을지지하지만 전쟁이 확대 될 수 있다고 우려합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508237)
+#### [노르웨이 경찰은 미국 대사관 폭발이 안보 상황과 관련이있을 수 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508239)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508238)
+#### [Inform, 우크라이나의 2026년 곡물 수확량 4% 감소한 5,860만 톤으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508236)
+#### [중국 대형 슈퍼마켓 업체 선아트, '연락이 닿지 않는' 전임 대표에 이어 회장에 CEO 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508235)
+#### [아담 스미스의 '국부론'에서 엄선한 인용문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508232)
+#### [점령이 아닌 공습: 트럼프 유권자들이 이란에 빨간 선을 긋는 곳](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508234)
+#### [1776년부터 2026년까지: 아담 스미스의 글로벌 경제에 대한 교훈](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508233)
 #### [KKR, 수십억 달러 규모의 데이터 센터 냉각 회사 매각에 눈독, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508230)
 #### [KKR, 수십억 달러 규모의 데이터 센터 냉각 회사 매각에 눈독-FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508231)
 #### [미국은 한국에 대한 관세를 인상 할 가능성이 낮다고 서울 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508229)
@@ -50,6 +65,10 @@
 #### [트럼프는 아이티인 35만명에 대한 보호를 종료할 수 없다고 미국 항소법원이 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508189)
 #### [미국 판사, 일자리 삭감 등 보이스오브아메리카 CEO로서 카리 레이크가 취한 2025년 조치 무효 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508188)
 #### [트럼프, 이란 전쟁 해결 거부, 잠재적 지도자 모두 살해 가능성 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508187)
+<head><meta charset="utf-8"><title>Vers : 20260308_1250 </title></head>
+<center>Vers : 20260308_1250 </center>
+<center>Vers : 20260308_2150 </center>
+<br><br><br>
 #### [국제 질서가 '중요한 시점'에 도달했다고 중국 외무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508186)
 #### [미국 판사, 일자리 감축 등 보이스 오브 아메리카 CEO로서 카리 레이크가 취한 2025년 조치 무효화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508185)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508184)
@@ -66,10 +85,6 @@
 #### [미 중앙 사령부, 이란의 미군 포로 주장 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508174)
 #### [러시아 남부의 석유 터미널에서 드론 공격 후 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508173)
 #### [트럼프, 영국 스타 머에게이란 전쟁에서 항공 모함 도움이 필요하지 않다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508172)
-<head><meta charset="utf-8"><title>Vers : 20260308_1112 </title></head>
-<center>Vers : 20260308_1112 </center>
-<center>Vers : 20260308_2012 </center>
-<br><br><br>
 #### [우크라이나의 젤렌스키가 사우디 왕세자와 통화했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508171)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508170)
 #### [레바논 장관, 이번 주에 454,000 명이 난민으로 등록했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508168)
@@ -117,6 +132,10 @@
 #### [UAE 대통령은이란 파업 이후 첫 공개 발언에서 국가가 잘 지내고 있으며 쉬운 먹이가 아니라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508129)
 #### [관리, UAE는 걸프만에 대한이란의 침략을 즉시 끝내기를 원한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508127)
 #### [청산 된 브라질 대출 기관 방코 마스터의 소유주가 사망했다고 변호사들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508128)
+<head><meta charset="utf-8"><title>Vers : 20260308_1250 </title></head>
+<center>Vers : 20260308_1250 </center>
+<center>Vers : 20260308_2150 </center>
+<br><br><br>
 #### [러시아 국기, 다운힐 동메달 2개로 올림픽 시상대 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508126)
 #### [플러그 파워, 미국 최고 전력망 경매에서 수소 공급 계획 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508125)
 #### [바이비트, 공동 CEO 헬렌 리우, 창업가 여정 시작하며 퇴사 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508123)
@@ -133,3 +152,48 @@
 #### [브라질 대두 수확량, 47.4%에 달한다고 Patria AgroNegocios는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508114)
 #### [트럼프, 서반구에서 '카르텔 근절'을 위한 새로운 군사 연합 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508113)
 #### [트럼프, 미국이 사흘 만에 42 척의이란 해군 함정을 격침시켰다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508112)
+#### [트럼프 이란의 군대, 해군, 통신 및 지도자들은 '사라졌다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508111)
+#### [수천 명의 미국인이 전세기를 타고 중동에서 대피했다고 국무부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508110)
+#### [수천 명의 미국인이 전세기를 타고 중동에서 대피했다고 국무부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508109)
+#### [쿠웨이트,이란 긴장 속에서 예방책으로 석유 생산량 감축, KPC는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508108)
+#### [브라텐, 크란스카 고라 대회 우승으로 오데르마트에 압박을 가하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508107)
+#### [터키의 에르도안, 영국 스타머에게 이란에 대한 대화를 위해 더 많은 일을 할 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508106)
+#### [16 배치 고려 중, 국방부 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508105)
+#### [페트로페루, 에드가 레오니다스 자말로아를 새 이사회 의장으로 임명 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508104)
+#### [교황 레오, 전 두테르테 필리핀 특사를 주미 대사로 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508102)
+#### [트럼프는 35 만 명의 아이티 인에 대한 보호를 종료 할 수 없다, 미국 항소 법원 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508103)
+#### [M&C 사치 CEO, 앞으로 몇 주 안에 물러날 예정, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508099)
+#### [미국, 이란 목표물 공습 영상 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508098)
+#### [레바논의 헤즈볼라, 이스라엘 북부 주민들에게 대피 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508101)
+#### [인도 석유 공사, 홍해에서 일부 석유화물 예약, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508100)
+#### [백악관, 러시아가 이란과 미국 정보를 공유했다는 보도 경시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508097)
+#### [우크라이나의 요격 드론 제조업체,이란 전쟁 발발로 걸프만 수출 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508096)
+#### [피로바노, 다운힐 더블로 본의 정상 질주를 끝내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508095)
+#### [중국 시진핑, 군대는 정치적으로 충성스럽고 부패를 근절해야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508094)
+#### [레바논의 헤즈볼라, 이스라엘 북부 주민들에게 '대피'하라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508093)
+#### [트럼프, 이란이 토요일에 '매우 큰 타격을 입을 것'이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508092)
+#### [이스라엘 국방부 장관, 레바논에 헤즈볼라 무장 해제 또는 '무거운 대가'에 직면 할 것이라고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508091)
+#### [트럼프, 이란이 중동 이웃에 사과했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508090)
+#### [영국 광고 그룹 M&C 사치의 CEO가 사임한다고 스카이 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508089)
+#### [이란 공격 며칠 후, 트럼프는 중국을 중심으로 라틴 아메리카 지도자들을 초청합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508088)
+#### [이란 전쟁으로 글로벌 에너지 시장에 장기적인 타격이 우려되는 상황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508087)
+#### [스폰지밥, 아이언맨, 콜 오브 듀티: 이란과의 미국 밈 전쟁의 내막](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508086)
+#### [이란 강경파 성직자들이 새 최고 지도자의 신속한 지명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508085)
+#### [러시아가 우크라이나 전역에서 밤새 공격을 시작하면서 어린이 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508084)
+#### [모터 레이싱-러셀, 호주에서 폴 차지 후 '놀라운' 메르세데스 차량에 놀란 모습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508083)
+#### [컴퓨터 기술의 광범위한 사용을 볼 수 있다고 전문가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508082)
+#### [디펜딩 챔피언 노리스가 '최악'의 F1 자동차를 강타하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508081)
+#### [영국, 영국 철강 압류 후 중국 징예 그룹에 보상 제안, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508079)
+#### [이스라엘, 레바논에서 희귀 한 공습 실시, 공격으로 16 명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508080)
+#### [전쟁이 확산되면서 항공사 조종사들은 드론, 미사일과 맞서 싸우고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508077)
+#### [전쟁이 확산되면서 항공사 조종사들은 드론, 미사일과 맞서 싸우고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508078)
+#### [영국 정부는 영국 철강 소유권에 대한 교착 상태를 풀기 위해 중국 징예 그룹에 수천만 파운드를 제공했습니다-스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508076)
+#### [러시아가 밤새 우크라이나 군사 및 에너지 시설을 공격했다고 Ifax가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508075)
+#### [화주 MSC, 긴급 유류 할증료 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508073)
+#### [로슈 회장은 여전히 미국 관세로 인한 진단 타격을 예상합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508074)
+#### [모터 레이싱-호주 첫 예선 세션에서 베르스타펜이 충돌사고를 일으켰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508069)
+#### [이란 전쟁으로 인도, 식용 가스 가격 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508072)
+#### [프랑스 CMA CGM, 선박 유류할증료 부과 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508071)
+#### [인도는 미국이 스리랑카 앞바다에서 다른 군함을 침몰시킨 날이란 군함을 정박하게했다고 관리들은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508070)
+#### [러셀, 호주에서 폴 차지 후 '놀라운' 메르세데스 차량에 깜짝 놀라다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508068)
+#### [제네럴 모터스, 엔진 실속으로 인해 충돌 위험이 증가함에 따라 미국 차량 11,787 대 리콜- NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508067)
