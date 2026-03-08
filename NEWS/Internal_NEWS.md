@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_2113 </title></head>
-<center>Vers : 20260308_2113 </center>
-<center>Vers : 20260309_0613 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_2224 </title></head>
+<center>Vers : 20260308_2224 </center>
+<center>Vers : 20260309_0724 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508319)
+#### [로스투디르센 임상시험에서 새로운 긍정적인 심폐 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508317)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DYN.O/total>
+#### [터키 야당 탄압으로 수감된 이스탄불 시장, 재판에 직면하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508318)
+#### [캔자스시티 국제공항, 불특정 위협으로 인해 잠시 폐쇄되었다가 재개장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508316)
+#### [EUR/USD가 강한 압력을 받고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508315)
+#### [주말 뉴스-중동 전쟁, 중국-미국 회담, 이란 지도자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508314)
+#### [카타르 총리, 스카이 뉴스 인터뷰에서 이란과 긴장 완화를 모색할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508313)
+#### [분석-이란, 트럼프 무시하고 카메네이의 아들 모즈타바를 후계자로 내세우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508312)
+#### [이란의 새로운 최고 지도자 모즈타바 하메네이는 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508310)
+#### [카타르 총리, 스카이 뉴스 인터뷰에서이란 분쟁의 완화를 추구 할 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508311)
+#### [이란, 카메네이의 아들 모즈타바를 새 최고 지도자로 지명, 국영 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508309)
+#### [이란, 카메네이의 아들 모즈 타바를 새로운 최고 지도자로 지명, 국영 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508307)
+#### [이란 대통령 페제쉬키안, 아제르바이잔 지도자에게 드론 사건 조사 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508308)
 #### [이란 전쟁으로 글로벌 에너지 공급이 위협받자 BUZZ-AUD/USD 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508306)
 #### [미국 일부 공항의 보안 검색대 대기 시간이 3시간으로 늘어나면서 TSA 결석자가 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508305)
 #### [일본에 풍력 터빈을 건설하는 덴마크의 베스타스, 닛케이 보고서 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508302)
@@ -51,17 +65,3 @@
 #### [이란 전쟁으로 호르무즈가 여전히 막히면서 이라크 석유 생산이 붕괴, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508262)
 #### [콜롬비아 국민들이 입법 경선, 대통령 예비선거에 투표하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508261)
 #### [오만 두쿰 항구, 항만 및 해상 작업 정상 진행 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508259)
-#### [러시아는 이틀째 우크라이나의 가스 생산을 공격한다고 Naftogaz는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508258)
-#### [젤렌스키, 우크라이나는 독특한 드론 경험을 가지고 있다며 네덜란드 총리와 공동 제작 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508260)
-#### [그리스, 4 월까지 이탈리아 제 호위함 구매 계약, 장관에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508257)
-#### [스위스 유권자, 국영 방송사 지원금 삭감 계획 부결 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508256)
-#### [맥그래스, 올림픽 악몽을 딛고 슬라럼 월드컵 우승으로 마무리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508255)
-#### [레바논 남부에서 이스라엘 군인 2 명이 사망했다고 이스라엘 군이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508254)
-#### [스위스 유권자, 국영 방송사 자금 삭감 계획 거부 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508252)
-#### [페루 투표를 앞두고 시위대가 젠더 폭력에 대한 조치를 요구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508253)
-#### [이스라엘 군, 레바논 남부에서 군인 사살](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508249)
-#### [트럼프, 유권자 법안이 의회에서 통과될 때까지 다른 법안에 서명하지 않겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508248)
-#### [월스트리트 주간을 앞두고-인플레이션 데이터가 주름을 더함에 따라 중동 개발이 미국 증시를 흔들 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508250)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
-#### [우크라이나의 젤렌스키, 네덜란드 총리와 공동 무기 생산에 대해 논의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508251)
-#### [미국과 이스라엘의 이란 전쟁으로 석유, 가스 공급 차질 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508247)
