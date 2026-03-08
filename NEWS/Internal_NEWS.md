@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_0832 </title></head>
-<center>Vers : 20260308_0832 </center>
-<center>Vers : 20260308_1732 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_0858 </title></head>
+<center>Vers : 20260308_0858 </center>
+<center>Vers : 20260308_1758 </center>
 <br><br><br>
+#### [이탈리아, 중동 전쟁으로 인한 에너지 가격 급등 경고로 유류세 인하 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508217)
+#### [이란이 걸프 공격 중단을 승인하면서 중동 주식-사우디 지수가 상승세를 확대합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508218)
+#### [독점-미국, 스리랑카에 침몰 한 배에서이란 승무원과 생존자를 송환하지 말라고 스리랑카에 압박, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508216)
+#### [러시아 남부의 석유 창고에서 화재가 진화되었다고 현지 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508215)
+#### [호주 GP 우승자 러셀, 새로운 F1 시대에 기회를 줘야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508214)
 #### [이스라엘 군, 이란 카메네이의 모든 후계자를 추적할 것이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508213)
 #### [중난홍 문화, 화력 발전 회사 지분 57.3% 인수한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508212)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002445.SZ/total>
@@ -61,15 +66,15 @@
 #### [미국 북서부 강 유량 최대 97% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508161)
 #### [사우디 아람코, 일부 석유 선적을 일시적으로 얀부 항구로 우회, 국영 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508160)
 #### [이란 혁명수비대, 테헤란 정유소에 이어 하이파 정유소 표적 공격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508159)
+<head><meta charset="utf-8"><title>Vers : 20260308_0858 </title></head>
+<center>Vers : 20260308_0858 </center>
+<center>Vers : 20260308_1758 </center>
+<br><br><br>
 #### [페루에서 나이트 클럽 폭발로 30명 이상 부상, 혼란 야기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508158)
 #### [독점-미국, 스리랑카에 침몰 한 배에서이란 승무원과 생존자를 송환하지 말라고 스리랑카에 압박, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508155)
 #### [패럴림픽-러시아 국기, 다운힐 동메달 2개로 올림픽 시상대 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508154)
 #### [시테 온타리오 195MW 고어웨이 13 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508157)
 #### [공습에 시달리는 이란의 지도부에 균열이 나타나고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508156)
-<head><meta charset="utf-8"><title>Vers : 20260308_0832 </title></head>
-<center>Vers : 20260308_0832 </center>
-<center>Vers : 20260308_1732 </center>
-<br><br><br>
 #### [이란의 보복이 시작되자 미국 관리들은 대피 준비를 위해 분주하게 움직였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508153)
 #### [이란 외무 장관, 사우디 측과 지속적으로 접촉하고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508152)
 #### [이란 외교관들, 이스라엘 대사관 인근 공습 후 레바논을 떠나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508150)
@@ -127,8 +132,3 @@
 #### [M&C 사치 CEO, 앞으로 몇 주 안에 물러날 예정, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508099)
 #### [미국, 이란 목표물 공습 영상 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508098)
 #### [레바논의 헤즈볼라, 이스라엘 북부 주민들에게 대피 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508101)
-#### [인도 석유 공사, 홍해에서 일부 석유화물 예약, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508100)
-#### [백악관, 러시아가 이란과 미국 정보를 공유했다는 보도 경시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508097)
-#### [우크라이나의 요격 드론 제조업체,이란 전쟁 발발로 걸프만 수출 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508096)
-#### [피로바노, 다운힐 더블로 본의 정상 질주를 끝내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508095)
-#### [중국 시진핑, 군대는 정치적으로 충성스럽고 부패를 근절해야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508094)
