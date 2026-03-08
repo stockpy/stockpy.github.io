@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_0938 </title></head>
-<center>Vers : 20260308_0938 </center>
-<center>Vers : 20260308_1838 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_1025 </title></head>
+<center>Vers : 20260308_1025 </center>
+<center>Vers : 20260308_1925 </center>
 <br><br><br>
+#### [KKR, 수십억 달러 규모의 데이터 센터 냉각 회사 매각에 눈독, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508223)
+#### [도쿄는이란 위기 속에서 국가 석유 비축기지에 방출 준비를하라고 말했다, 일본 의원은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508224)
+#### [이란의 신정 통치 체제에서 누가 성공할 수 있을까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508222)
 #### [페라리가 메르세데스를 끌어들일 수 있다고 해밀턴은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508221)
 #### [레바논 남성, 지난 전쟁으로 파손된 집 수리 후 몇 달 만에 고향을 떠나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508220)
 #### [GEM, 중국 ENFI와 중요 광물 자원 개발을 위한 협력 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508219)
@@ -63,14 +66,14 @@
 #### [독점-사우디는이란에 공격하지 말라고 말했고, 보복 가능성을 경고했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508167)
 #### [카니, 토론토 지역 유대교 회당에서 총기 난사 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508166)
 #### [카츄샤 로켓이 바그다드에있는 미국 대사관을 표적으로 삼았다고 보안 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508164)
+<head><meta charset="utf-8"><title>Vers : 20260308_1025 </title></head>
+<center>Vers : 20260308_1025 </center>
+<center>Vers : 20260308_1925 </center>
+<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508163)
 #### [OpenAI 로보틱스 책임자, 국방부와의 계약 후 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508162)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
 #### [공격적인 트럼프, 라틴 아메리카 카르텔 연합 출범](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508165)
-<head><meta charset="utf-8"><title>Vers : 20260308_0938 </title></head>
-<center>Vers : 20260308_0938 </center>
-<center>Vers : 20260308_1838 </center>
-<br><br><br>
 #### [미국 북서부 강 유량 최대 97% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508161)
 #### [사우디 아람코, 일부 석유 선적을 일시적으로 얀부 항구로 우회, 국영 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508160)
 #### [이란 혁명수비대, 테헤란 정유소에 이어 하이파 정유소 표적 공격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508159)
@@ -130,6 +133,3 @@
 #### [브라텐, 크란스카 고라 대회 우승으로 오데르마트에 압박을 가하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508107)
 #### [터키의 에르도안, 영국 스타머에게 이란에 대한 대화를 위해 더 많은 일을 할 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508106)
 #### [16 배치 고려 중, 국방부 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508105)
-#### [페트로페루, 에드가 레오니다스 자말로아를 새 이사회 의장으로 임명 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508104)
-#### [교황 레오, 전 두테르테 필리핀 특사를 주미 대사로 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508102)
-#### [트럼프는 35 만 명의 아이티 인에 대한 보호를 종료 할 수 없다, 미국 항소 법원 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508103)
