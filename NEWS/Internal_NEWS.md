@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_1901 </title></head>
-<center>Vers : 20260308_1901 </center>
-<center>Vers : 20260309_0401 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_2027 </title></head>
+<center>Vers : 20260308_2027 </center>
+<center>Vers : 20260309_0527 </center>
 <br><br><br>
+#### [뉴욕시 경찰, 맘다니의 집 밖에서 폭발물로 추정되는 장치 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508299)
+#### [이란 대통령, 테헤란에서 미-이스라엘 전쟁으로 부상당한 부상자 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508298)
+#### [미국 교통안전국 결석자 증가로 일부 미국 공항에서 보안 검색대가 3시간 동안 줄을 섭니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508297)
+#### [이란 작전에서 또 다른 미군 장병 사망, 총 7명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508296)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508295)
+#### [이란 의회 의장, 테헤란은 휴전을 추구하지 않는다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508294)
+#### [캔자스 시티 국제 공항, 불특정 위협으로 인해 잠시 폐쇄 후 재개장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508293)
+#### [터키, 전쟁으로 인해 중동 항공편 취소 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508292)
+#### [미국 북서부 강 유량 최대 98% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508291)
+#### [3월 8일 일요일 오후 2시 47분(한국 시간) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508290)
 #### [프랑스의 마크롱, 이란의 페제쉬키안과 대화하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508289)
 #### [트럼프와 스타머, 미국이 영국의 도움이 필요 없다고 말한 후 이란에 대해 논의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508288)
 #### [이스라엘의 공격으로 가자 시티에서 팔레스타인 인 3 명이 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508287)
@@ -55,13 +65,3 @@
 #### [APK-Inform, 우크라이나의 2026년 곡물 수확량이 4% 감소한 5,860만 톤으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508242)
 #### [오슬로 주재 미국 대사관에서 폭발이 발생해 경미한 피해가 발생했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508241)
 #### [교황 레오, 폭격 중단 촉구, 이란과 중동 폭력 속에서 대화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508240)
-#### [텍사스 유권자는 트럼프의이란 파업을지지하지만 전쟁이 확대 될 수 있다고 우려합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508237)
-#### [노르웨이 경찰은 미국 대사관 폭발이 안보 상황과 관련이있을 수 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508239)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508238)
-#### [Inform, 우크라이나의 2026년 곡물 수확량 4% 감소한 5,860만 톤으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508236)
-#### [중국 대형 슈퍼마켓 업체 선아트, '연락이 닿지 않는' 전임 대표에 이어 회장에 CEO 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508235)
-#### [아담 스미스의 '국부론'에서 엄선한 인용문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508232)
-#### [점령이 아닌 공습: 트럼프 유권자들이 이란에 빨간 선을 긋는 곳](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508234)
-#### [1776년부터 2026년까지: 아담 스미스의 글로벌 경제에 대한 교훈](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508233)
-#### [KKR, 수십억 달러 규모의 데이터 센터 냉각 회사 매각에 눈독, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508230)
-#### [KKR, 수십억 달러 규모의 데이터 센터 냉각 회사 매각에 눈독-FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508231)
