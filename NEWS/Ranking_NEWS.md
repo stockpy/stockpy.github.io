@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_2248 </title></head>
-<center>Vers : 20260308_2248 </center>
-<center>Vers : 20260309_0748 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_2301 </title></head>
+<center>Vers : 20260308_2301 </center>
+<center>Vers : 20260309_0801 </center>
 <br><br><br>
 #### [10년간 준 아이 용돈 2000만원, 주식 사줬다가…'화들짝'](https://m.stock.naver.com/news/ranknews/view/015/0005259544)
 #### [“‘바닥이다’ 믿은 개미들…코스피 급락에 10조 베팅, 삼성전자 쓸어담았다”](https://m.stock.naver.com/news/ranknews/view/022/0004111166)
