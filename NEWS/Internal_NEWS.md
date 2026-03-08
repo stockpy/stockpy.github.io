@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_1450 </title></head>
-<center>Vers : 20260308_1450 </center>
-<center>Vers : 20260308_2350 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_1512 </title></head>
+<center>Vers : 20260308_1512 </center>
+<center>Vers : 20260309_0012 </center>
 <br><br><br>
+#### [콜롬비아 국민들이 입법 경선, 대통령 예비선거에 투표하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508261)
 #### [오만 두쿰 항구, 항만 및 해상 작업 정상 진행 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508259)
 #### [러시아는 이틀째 우크라이나의 가스 생산을 공격한다고 Naftogaz는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508258)
 #### [젤렌스키, 우크라이나는 독특한 드론 경험을 가지고 있다며 네덜란드 총리와 공동 제작 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508260)
@@ -65,11 +66,11 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508205)
 #### [트럼프, 이탈리아 총리 멜로니의 이란과의 미-이스라엘 전쟁 지원 의지 칭찬](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508203)
 #### [그리스-알바니아 국경에서 규모 5.3의 강진 발생, 피해 보고는 없습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508202)
-#### [ECB, 엘르 매거진과 미디어 인터뷰 게재](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508201)
-<head><meta charset="utf-8"><title>Vers : 20260308_1450 </title></head>
-<center>Vers : 20260308_1450 </center>
-<center>Vers : 20260308_2350 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_1512 </title></head>
+<center>Vers : 20260308_1512 </center>
+<center>Vers : 20260309_0012 </center>
 <br><br><br>
+#### [ECB, 엘르 매거진과 미디어 인터뷰 게재](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508201)
 #### [클린 라이프 회계연도 순이익 770만 리얄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508198)
 #### [우드 사이드를 이끌기 위해 출마하는 BHP 호주 보스, 블룸버그 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508200)
 #### [이란의 차기 최고 지도자에 대한 대다수의 합의가 이루어졌다고 Mehr 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508199)
@@ -131,11 +132,11 @@
 #### [이탈리아 국방부 장관, 무기 업계에 생산 속도 향상 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508144)
 #### [ADNOC은 육상 운영이 계속되고 있으며 해양 생산량을 관리하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508143)
 #### [이란, 걸프 지역에 사과했지만 여전히 전쟁이 벌어지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508141)
-#### [이란 전쟁으로 글로벌 에너지 시장 타격 장기화 우려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508142)
-<head><meta charset="utf-8"><title>Vers : 20260308_1450 </title></head>
-<center>Vers : 20260308_1450 </center>
-<center>Vers : 20260308_2350 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_1512 </title></head>
+<center>Vers : 20260308_1512 </center>
+<center>Vers : 20260309_0012 </center>
 <br><br><br>
+#### [이란 전쟁으로 글로벌 에너지 시장 타격 장기화 우려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508142)
 #### [아타이 베클리, 주요 환각제에 대한 옵션을 모색한다고합니다- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508140)
 #### [이란 강경파 성직자들이 새 최고 지도자의 조속한 지명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508139)
 #### [미국, 일본, 투자 패키지의 일환으로 130억 달러 규모의 일본 디스플레이 공장에 주목, 닛케이 아시아 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508138)
@@ -197,4 +198,3 @@
 #### [러시아가 우크라이나 전역에서 밤새 공격을 시작하면서 어린이 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508084)
 #### [모터 레이싱-러셀, 호주에서 폴 차지 후 '놀라운' 메르세데스 차량에 놀란 모습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508083)
 #### [컴퓨터 기술의 광범위한 사용을 볼 수 있다고 전문가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508082)
-#### [디펜딩 챔피언 노리스가 '최악'의 F1 자동차를 강타하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508081)
