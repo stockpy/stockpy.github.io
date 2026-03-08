@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_0721 </title></head>
-<center>Vers : 20260308_0721 </center>
-<center>Vers : 20260308_1621 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_0832 </title></head>
+<center>Vers : 20260308_0832 </center>
+<center>Vers : 20260308_1732 </center>
 <br><br><br>
+#### [이스라엘 군, 이란 카메네이의 모든 후계자를 추적할 것이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508213)
+#### [중난홍 문화, 화력 발전 회사 지분 57.3% 인수한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508212)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002445.SZ/total>
+#### [이스라엘 군, 이란 카메네이의 모든 후계자를 추적 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508210)
+#### [이란의 차기 최고 지도자에 대한 다수결 합의 도출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508211)
+#### [리야드, 테헤란에 공격 경고로 사우디 지수 상승세 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508208)
+#### [BUZZ-IMM: 달러 숏은 피난처 매수로 상당히 완화되고, 유로 숏은 증가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508209)
+#### [닝보 투오푸 그룹, 홍콩 상장 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508207)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601689.SS/total>
+#### [레이싱 불스 루키 린드블래드, F1 데뷔전에서 '견과류' 맛보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508206)
+#### [쿠웨이트 소방관 2 명이 '임무 수행 중'사망했다고 소방청은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508204)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508205)
+#### [트럼프, 이탈리아 총리 멜로니의 이란과의 미-이스라엘 전쟁 지원 의지 칭찬](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508203)
+#### [그리스-알바니아 국경에서 규모 5.3의 강진 발생, 피해 보고는 없습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508202)
 #### [ECB, 엘르 매거진과 미디어 인터뷰 게재](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508201)
 #### [클린 라이프 회계연도 순이익 770만 리얄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508198)
 #### [우드 사이드를 이끌기 위해 출마하는 BHP 호주 보스, 블룸버그 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508200)
@@ -52,6 +66,10 @@
 #### [패럴림픽-러시아 국기, 다운힐 동메달 2개로 올림픽 시상대 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508154)
 #### [시테 온타리오 195MW 고어웨이 13 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508157)
 #### [공습에 시달리는 이란의 지도부에 균열이 나타나고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508156)
+<head><meta charset="utf-8"><title>Vers : 20260308_0832 </title></head>
+<center>Vers : 20260308_0832 </center>
+<center>Vers : 20260308_1732 </center>
+<br><br><br>
 #### [이란의 보복이 시작되자 미국 관리들은 대피 준비를 위해 분주하게 움직였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508153)
 #### [이란 외무 장관, 사우디 측과 지속적으로 접촉하고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508152)
 #### [이란 외교관들, 이스라엘 대사관 인근 공습 후 레바논을 떠나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508150)
@@ -64,10 +82,6 @@
 #### [이탈리아 국방부 장관, 무기 업계에 생산 속도 향상 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508144)
 #### [ADNOC은 육상 운영이 계속되고 있으며 해양 생산량을 관리하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508143)
 #### [이란, 걸프 지역에 사과했지만 여전히 전쟁이 벌어지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508141)
-<head><meta charset="utf-8"><title>Vers : 20260308_0721 </title></head>
-<center>Vers : 20260308_0721 </center>
-<center>Vers : 20260308_1621 </center>
-<br><br><br>
 #### [이란 전쟁으로 글로벌 에너지 시장 타격 장기화 우려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508142)
 #### [아타이 베클리, 주요 환각제에 대한 옵션을 모색한다고합니다- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508140)
 #### [이란 강경파 성직자들이 새 최고 지도자의 조속한 지명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508139)
@@ -118,15 +132,3 @@
 #### [우크라이나의 요격 드론 제조업체,이란 전쟁 발발로 걸프만 수출 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508096)
 #### [피로바노, 다운힐 더블로 본의 정상 질주를 끝내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508095)
 #### [중국 시진핑, 군대는 정치적으로 충성스럽고 부패를 근절해야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508094)
-#### [레바논의 헤즈볼라, 이스라엘 북부 주민들에게 '대피'하라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508093)
-#### [트럼프, 이란이 토요일에 '매우 큰 타격을 입을 것'이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508092)
-#### [이스라엘 국방부 장관, 레바논에 헤즈볼라 무장 해제 또는 '무거운 대가'에 직면 할 것이라고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508091)
-#### [트럼프, 이란이 중동 이웃에 사과했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508090)
-#### [영국 광고 그룹 M&C 사치의 CEO가 사임한다고 스카이 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508089)
-#### [이란 공격 며칠 후, 트럼프는 중국을 중심으로 라틴 아메리카 지도자들을 초청합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508088)
-#### [이란 전쟁으로 글로벌 에너지 시장에 장기적인 타격이 우려되는 상황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508087)
-#### [스폰지밥, 아이언맨, 콜 오브 듀티: 이란과의 미국 밈 전쟁의 내막](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508086)
-#### [이란 강경파 성직자들이 새 최고 지도자의 신속한 지명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508085)
-#### [러시아가 우크라이나 전역에서 밤새 공격을 시작하면서 어린이 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508084)
-#### [모터 레이싱-러셀, 호주에서 폴 차지 후 '놀라운' 메르세데스 차량에 놀란 모습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508083)
-#### [컴퓨터 기술의 광범위한 사용을 볼 수 있다고 전문가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508082)
