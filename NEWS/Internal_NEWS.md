@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_0858 </title></head>
-<center>Vers : 20260308_0858 </center>
-<center>Vers : 20260308_1758 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_0938 </title></head>
+<center>Vers : 20260308_0938 </center>
+<center>Vers : 20260308_1838 </center>
 <br><br><br>
+#### [페라리가 메르세데스를 끌어들일 수 있다고 해밀턴은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508221)
+#### [레바논 남성, 지난 전쟁으로 파손된 집 수리 후 몇 달 만에 고향을 떠나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508220)
+#### [GEM, 중국 ENFI와 중요 광물 자원 개발을 위한 협력 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508219)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002340.SZ/total>
 #### [이탈리아, 중동 전쟁으로 인한 에너지 가격 급등 경고로 유류세 인하 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508217)
 #### [이란이 걸프 공격 중단을 승인하면서 중동 주식-사우디 지수가 상승세를 확대합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508218)
 #### [독점-미국, 스리랑카에 침몰 한 배에서이란 승무원과 생존자를 송환하지 말라고 스리랑카에 압박, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508216)
@@ -63,13 +67,13 @@
 #### [OpenAI 로보틱스 책임자, 국방부와의 계약 후 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508162)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
 #### [공격적인 트럼프, 라틴 아메리카 카르텔 연합 출범](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508165)
+<head><meta charset="utf-8"><title>Vers : 20260308_0938 </title></head>
+<center>Vers : 20260308_0938 </center>
+<center>Vers : 20260308_1838 </center>
+<br><br><br>
 #### [미국 북서부 강 유량 최대 97% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508161)
 #### [사우디 아람코, 일부 석유 선적을 일시적으로 얀부 항구로 우회, 국영 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508160)
 #### [이란 혁명수비대, 테헤란 정유소에 이어 하이파 정유소 표적 공격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508159)
-<head><meta charset="utf-8"><title>Vers : 20260308_0858 </title></head>
-<center>Vers : 20260308_0858 </center>
-<center>Vers : 20260308_1758 </center>
-<br><br><br>
 #### [페루에서 나이트 클럽 폭발로 30명 이상 부상, 혼란 야기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508158)
 #### [독점-미국, 스리랑카에 침몰 한 배에서이란 승무원과 생존자를 송환하지 말라고 스리랑카에 압박, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508155)
 #### [패럴림픽-러시아 국기, 다운힐 동메달 2개로 올림픽 시상대 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508154)
@@ -129,6 +133,3 @@
 #### [페트로페루, 에드가 레오니다스 자말로아를 새 이사회 의장으로 임명 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508104)
 #### [교황 레오, 전 두테르테 필리핀 특사를 주미 대사로 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508102)
 #### [트럼프는 35 만 명의 아이티 인에 대한 보호를 종료 할 수 없다, 미국 항소 법원 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508103)
-#### [M&C 사치 CEO, 앞으로 몇 주 안에 물러날 예정, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508099)
-#### [미국, 이란 목표물 공습 영상 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508098)
-#### [레바논의 헤즈볼라, 이스라엘 북부 주민들에게 대피 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508101)
