@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_2051 </title></head>
-<center>Vers : 20260308_2051 </center>
-<center>Vers : 20260309_0551 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_2113 </title></head>
+<center>Vers : 20260308_2113 </center>
+<center>Vers : 20260309_0613 </center>
 <br><br><br>
+#### [이란 전쟁으로 글로벌 에너지 공급이 위협받자 BUZZ-AUD/USD 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508306)
+#### [미국 일부 공항의 보안 검색대 대기 시간이 3시간으로 늘어나면서 TSA 결석자가 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508305)
+#### [일본에 풍력 터빈을 건설하는 덴마크의 베스타스, 닛케이 보고서 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508302)
+#### [영국 외무부, 레바논에서 일시적으로 직원 철수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508303)
+#### [한 주 앞으로-이란 전쟁, 미국 CPI, 미중 무역 회의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508304)
 #### [BUZZ-재생-EUR/USD 히트, 스털링 지원, USD/JPY 콜 옵션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508301)
 #### [러시아, UAE 외무 장관,이란, 걸프만 국가에 대한 공격 종식 추구, 러시아 외무부 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508300)
 #### [뉴욕시 경찰, 맘다니의 집 밖에서 폭발물로 추정되는 장치 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508299)
@@ -60,8 +65,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
 #### [우크라이나의 젤렌스키, 네덜란드 총리와 공동 무기 생산에 대해 논의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508251)
 #### [미국과 이스라엘의 이란 전쟁으로 석유, 가스 공급 차질 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508247)
-#### [트럼프, 유권자 법안이 의회에서 통과 될 때까지 다른 법안에 서명하지 않을 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508246)
-#### [시프린, 로빈슨과 고지아가 슈퍼-G 타이틀을 놓고 격돌하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508245)
-#### [알제리는 두 항구로만 선적하기 위해 명목상 50,000 톤의 연 밀을 구매하는 경향이 있다고 상인들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508244)
-#### [레오 교황, 이란과 중동 폭력 사태 속에서 폭격 중단 촉구, 대화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508243)
-#### [APK-Inform, 우크라이나의 2026년 곡물 수확량이 4% 감소한 5,860만 톤으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2508242)

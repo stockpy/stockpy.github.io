@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260308_2051 </title></head>
-<center>Vers : 20260308_2051 </center>
-<center>Vers : 20260309_0551 </center>
+<head><meta charset="utf-8"><title>Vers : 20260308_2113 </title></head>
+<center>Vers : 20260308_2113 </center>
+<center>Vers : 20260309_0613 </center>
 <br><br><br>
 #### [10년간 준 아이 용돈 2000만원, 주식 사줬다가…'화들짝'](https://m.stock.naver.com/news/ranknews/view/015/0005259544)
 #### [개장 전 15% 폭락 가능성 봤다…코스피 N자형 흐름 예견한 이 리포트](https://m.stock.naver.com/news/ranknews/view/008/0005326855)
