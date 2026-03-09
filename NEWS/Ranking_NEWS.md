@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260309_2229 </title></head>
-<center>Vers : 20260309_2229 </center>
-<center>Vers : 20260310_0729 </center>
+<head><meta charset="utf-8"><title>Vers : 20260309_2257 </title></head>
+<center>Vers : 20260309_2257 </center>
+<center>Vers : 20260310_0757 </center>
 <br><br><br>
 #### [코스피 '10조' 팔더니…5일 만에 외국인 '1300억' 담은 회사 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005260111)
 #### [“지금 손절하면 평생 후회한다”…개미들은 코스피 던질 때 고수들이 노리는 ‘이 지수’](https://m.stock.naver.com/news/ranknews/view/011/0004597194)
