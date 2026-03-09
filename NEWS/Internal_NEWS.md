@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20260309_2257 </title></head>
-<center>Vers : 20260309_2257 </center>
-<center>Vers : 20260310_0757 </center>
+<head><meta charset="utf-8"><title>Vers : 20260309_2332 </title></head>
+<center>Vers : 20260309_2332 </center>
+<center>Vers : 20260310_0832 </center>
 <br><br><br>
+#### [NBA, 호크스 스트립 클럽 프로모션의 밤 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509904)
+#### [트럼프, 이란이 석유 공급을 방해하면 '그들을 제거'하겠다고 위협하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509900)
+#### [BUZZ-재생-EUR/USD 포커스, 스털링 테스트, 확정 USD/JPY](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509905)
+#### [러시아 드론이 우크라이나 하르키우 아파트 단지에서 6명 부상자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509903)
+#### [닉슨의 도청 시스템을 폭로한 백악관 보좌관 알렉산더 버터필드, 99세로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509901)
+#### [이탈리아 씨 그룹, 전 경영진에 대한 고소장 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509902)
+#### [독점-EQT, 리눅스 선구자 SUSE의 60억 달러 매각 가능성 주시, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509899)
+#### [대만, 파트너에 대한 해외 지원 비용을 지불하기 위해 데뷔 채권 발행 검토- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509898)
+#### [뉴욕 최고의 부동산 중개인 알렉산더 형제, 성매매 재판에서 유죄 판결 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509897)
+#### [선물 가격 급등으로 CIF/FOB 걸프 곡물-대두, 옥수수 기준 입찰가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509894)
+#### [트럼프, 푸틴과 우크라이나와 이란 분쟁에 대해 논의했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509892)
+#### [쿠바의 트럼프: "우호적 인수"일 수도 있고 아닐 수도 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509896)
+#### [브라질의 가격이 세계 시장에 뒤처지면서 페트로브라스, 추가 디젤 주문 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509891)
+#### [브록하우스 테크놀로지스: 2025년 예비 매출 2억2500만 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509895)
+#### [독일 브록하우스 2025의 예비 매출은 증가하고 EBITDA는 감소합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509890)
+#### [플루언트, 감사 받지 않은 4분기 및 2025년 전체 재무 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509893)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FLNT.O/total>
 #### [보야저, 4분기 및 2025년 전체 재무 결과 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509880)
 #### [트럼프, 미국이 공급을 보장하기 위해 특정 석유 관련 제재를 면제한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509874)
 #### [W.T.B. 파이낸셜 코퍼레이션, 주식 환매 승인 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509879)
@@ -51,24 +68,3 @@
 #### [버뮤다 프리미어: 대규모 복원력을 제공하기 위한 혁신의 열쇠](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509834)
 #### [이란 혁명수비대, 미국, 이스라엘 특사를 추방하는 아랍, 유럽 국가는 호르무즈 해협을 통과할 수 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509850)
 #### [크루드-서부 캐나다 셀렉트 할인 폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509855)
-#### [베타 테크놀로지스, 군용 화물 드론 개발 가속화, FAA 보조금 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509833)
-#### [간략한 EIA 보고서: 코발트 생산업체 CMOC, 콩고민주공화국에서 지역 공기 오염과 이재민 발생 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509849)
-#### [미국 투자자, 쿠팡에 대한 한국 정부에 대한 청원 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509854)
-#### [트럼프, 유가 하락을 위한 러시아 제재 완화 및 기타 조치에 무게를 두다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509840)
-#### [직접 4분기 순이익 2억1천100만 헤알 대 IBES 추정치 2억2천만 헤알](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509848)
-#### [리얼리얼, 이사회 및 임원진 업데이트 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509853)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/REAL.O/total>
-#### [크로노스 월드와이드, 12월 31일 마감 분기 실적 발표 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509839)
-#### [킴벨 로열티 파트너스, 1억 달러 규모의 보통주 환매 프로그램 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509846)
-#### [메사 래버러토리스, 싯다르타 카디아를 사장 겸 CEO로 임명하고 CEO 승계 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509852)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MLAB.O/total>
-#### [미네랄리스 테라퓨틱스, 성인 고혈압 치료제로 로룬드로스타트에 대한 FDA의 NDA 승인 및 탑라인 탐색-Osa 임상시험 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509838)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MLYS.O/total>
-#### [파월 연준 의장은 법무부 조사 공개 후 일주일 동안 미국 의원들과 13 차례 통화했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509845)
-#### [ADM, 마이클 맥머레이를 이사회에 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509841)
-#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509837)
-#### [C4 테라퓨틱스, 나스닥 상장 규정 5635(C)(4)에 따른 유도 보조금 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509822)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CCCC.O/total>
-#### [트럼프, 하원 공화당에 100만 달러 기부할 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509820)
-#### [프로프락 홀딩, 신용 계약 만기를 2027년 9월 3일까지 연장 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2509812)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ACDC.O/total>
