@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260310_2255 </title></head>
-<center>Vers : 20260310_2255 </center>
-<center>Vers : 20260311_0755 </center>
+<head><meta charset="utf-8"><title>Vers : 20260310_2329 </title></head>
+<center>Vers : 20260310_2329 </center>
+<center>Vers : 20260311_0829 </center>
 <br><br><br>
+#### [UBS, 미국 판사에게 나치 관련 범죄에 대한 책임 억제 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511769)
+#### [대두, 옥수수 기준 혼합 선물이 완화됨에 따라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511768)
+#### [중동 긴장 고조로 월가 혼조 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511767)
+#### [베이스 입찰은 조용한 거래에서 변동 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511765)
+#### [멕시코만 석유 및 가스 경매에서 트럼프의 첫 번째 매각보다 훨씬 적은 입찰가가 나왔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511766)
+#### [CIF/FOB 걸프만 곡물 현물 대두 기준 입찰이 상승세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511764)
 #### [미국 퍼스트 리파이닝, 미국 신규 정유공장 건설을 위한 20년간의 오프테이크 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511745)
 #### [ChatGPT, 미국 상원에서 공식 사용 승인된 다른 AI 챗봇, NYT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511760)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
@@ -68,10 +74,3 @@
 #### [민간 신용, 소프트웨어 회사 Enverus에 4억 달러 추가 대출 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511712)
 #### [슈레야 인수 그룹, IPO 규모를 최대 1억 달러로 늘리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511708)
 #### [판게아 로지스틱스 4분기 매출은 상회, 이익은 예상치 하회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511715)
-#### [알제리, 밀 구매, 요르단, 밀 입찰 통과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511707)
-#### [스파 트리트먼트부터 휴가까지: 오스카상 후보자들이 받는 호화로운 선물 가방을 살펴보세요.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511711)
-#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511714)
-#### [미국산 오일 및 지방 - 3월 10일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511706)
-#### [라이젠, 채권자, 이르면 이번 주에 법원 밖 부채 재 작업 거래에 근접 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511699)
-#### [Microsoft, 미국 국방부에 Anthropic의 소송을 지지하는 의견서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2511701)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
