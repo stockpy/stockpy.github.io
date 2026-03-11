@@ -1,8 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260311_2251 </title></head>
-<center>Vers : 20260311_2251 </center>
-<center>Vers : 20260312_0751 </center>
+<head><meta charset="utf-8"><title>Vers : 20260311_2315 </title></head>
+<center>Vers : 20260311_2315 </center>
+<center>Vers : 20260312_0815 </center>
 <br><br><br>
+#### [배터리 전기 자동차 판매, 2026 년 EU, 노르웨이에서 시장 점유율 23 %에 도달 할 것이라는 연구 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513597)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
+#### [미국, 전략 석유 비축량에서 1 억 7200 만 배럴의 석유 방출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513596)
+#### [미국, 설탕 음료, 사탕 제한에 대해 푸드 스탬프 수혜자 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513589)
+#### [스위스 버스 화재, 한 남성이 스스로 불을 질러 발생한 것으로 추정되는 치명적인 화재](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513593)
+#### [걸프만 연안 휘발유 등급은 증기압 감소에 따라 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513594)
+#### [아르헨티나 곡물 거래소, 2 월 비 이후 대두, 옥수수 전망 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513588)
+#### [모건 스탠리, 사모 신용 펀드에 대한 상환 제한, 신고에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513592)
+#### [대두의 CIF/FOB 걸프만 곡물 현물 기준 입찰은 대체로 보합세를 유지합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513587)
+#### [카길, 검사 변경으로 중국으로의 브라질 대두 선적 중단, 경영진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513591)
 #### [국방부, 6 개월 램프 다운 이후 인위적 사용을 면제 할 수있는 문 열어, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513577)
+#### [트럼프는 미국이이란에서 '승리'했지만 '우리는 일찍 떠나고 싶지 않다'고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513590)
+#### [아이페리온엑스의 사업 확장으로 반기 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513595)
 #### [기술 기업이 AI 및 클라우드 확장 자금을 조달하기 위해 채권 시장을 활용하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513586)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
 #### [유니레버, 목요일 CEO 임금 인상 제안 예정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513581)
@@ -58,16 +70,3 @@
 #### [유네스코, 이란 전쟁 중 유적지 보호 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513554)
 #### [통합 에디슨과 유닛, 신용 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513521)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513559)
-#### [네비게이터 가스, 2025년 4분기 예비 실적 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513535)
-#### [인포마 테크타깃, 4분기 및 2025년 전체 실적 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513520)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TTGT.O/total>
-#### [브라질 프라슬, 2026년 순매출 56억 헤알에서 62억 헤알로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513526)
-#### [컬프, 2026 회계연도 3분기 실적 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513524)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CULP.O/total>
-#### [알파 프로 테크 4분기 기본 EPS USD 0.07](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513519)
-#### [BRT 아파트, 2026 년 1 분기 배당금 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513525)
-#### [Ci&T, 4Q25 실적에서 19.3%의 유기적 매출 성장 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513523)
-#### [노그, 보통주 공모 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513506)
-#### [시카고 소 선물 하락, 유가가 경제 우려를 촉발하면서 살코기 돼지가 뒤따릅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513515)
-#### [넷스코프, 4분기 및 2026 회계연도 재무 실적 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513508)
-#### [독점-소프트뱅크의 페이페이가 주당 16달러로 기업공개(IPO) 가격을 낮췄다고 소식통이 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513505)
