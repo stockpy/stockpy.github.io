@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260311_1744 </title></head>
-<center>Vers : 20260311_1744 </center>
-<center>Vers : 20260312_0244 </center>
+<head><meta charset="utf-8"><title>Vers : 20260311_1854 </title></head>
+<center>Vers : 20260311_1854 </center>
+<center>Vers : 20260312_0354 </center>
 <br><br><br>
 #### ["삼전, 쳐다도 보기 싫어"…170% 수익 놓치고 터진 고백](https://m.stock.naver.com/news/ranknews/view/215/0001244810)
 #### [월 400만원 따박따박…"2억으로 이 주식만 샀다" 30대에 은퇴한 비결](https://m.stock.naver.com/news/ranknews/view/008/0005328195)
