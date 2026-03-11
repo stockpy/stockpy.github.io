@@ -1,5 +1,5 @@
-<center>Vers : 20260311_2335 </center>
-<center>Vers : 20260312_0835 </center>
+<center>Vers : 20260311_2357 </center>
+<center>Vers : 20260312_0857 </center>
 <br>
 <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -74,10 +74,10 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>5</th>
       <td>KODEX 미국배당다우존스</td>
       <td>15%</td>
-      <td>12390</td>
+      <td>12360</td>
       <td>7</td>
       <td>12.0%</td>
-      <td>54</td>
+      <td>55</td>
     </tr>
     <tr>
       <th>6</th>
