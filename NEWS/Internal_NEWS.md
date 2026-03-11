@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260311_2227 </title></head>
-<center>Vers : 20260311_2227 </center>
-<center>Vers : 20260312_0727 </center>
+<head><meta charset="utf-8"><title>Vers : 20260311_2251 </title></head>
+<center>Vers : 20260311_2251 </center>
+<center>Vers : 20260312_0751 </center>
 <br><br><br>
+#### [국방부, 6 개월 램프 다운 이후 인위적 사용을 면제 할 수있는 문 열어, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513577)
+#### [기술 기업이 AI 및 클라우드 확장 자금을 조달하기 위해 채권 시장을 활용하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513586)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [유니레버, 목요일 CEO 임금 인상 제안 예정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513581)
+#### [아자스 2154년 4분기 반복 순이익 1억 6,800만 헤알 대 IBES 추정치 1억 6,100만 헤알](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513585)
+#### [테크타깃, 12월 31일로 마감된 분기 실적 보고 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513576)
+#### [캐나다 웨스돔 금광의 4 분기 매출 급증, 가격 상승으로 순이익 두 배 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513580)
+#### [걸프 이웃 국가의 수출이 중단 된 후에도 호르무즈 해협을 통해이란 석유가 흐르고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513584)
+#### [캐나다의 데이터 통신 관리 2025 수익 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513575)
+#### [미국, 러시아 팀이 플로리다에서 만나 '다양한 주제'에 대해 논의했다고 위트코프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513579)
+#### [씨티, 호주 콜린스 푸드의 KFC 레스토랑 인수 '지지'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513583)
+#### [브라질의 룰라, 페트로브라스 회장을 예산 장관으로 지명, 폴하 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513574)
+#### [코그나 4분기 순이익 2억2천만 헤알 대 IBES 추정치 3억3천400만 헤알](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513578)
+#### [이란 전쟁 격화로 위험선호심리가 악화되면서 S&P 500, 다우지수 하락 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513582)
 #### [캐나다의 북미 건설 부문 4분기 핵심 이익이 예상치를 하회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513563)
 #### [웨스트돔 4분기 순이익 117백만 캐나다 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513571)
 #### [베일리 기포드, 브라질 라이젠 지분 4.93%로 감축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513572)
@@ -57,22 +71,3 @@
 #### [시카고 소 선물 하락, 유가가 경제 우려를 촉발하면서 살코기 돼지가 뒤따릅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513515)
 #### [넷스코프, 4분기 및 2026 회계연도 재무 실적 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513508)
 #### [독점-소프트뱅크의 페이페이가 주당 16달러로 기업공개(IPO) 가격을 낮췄다고 소식통이 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513505)
-#### [빌드어베어 워크샵, 분기별 현금 배당금 인상 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513512)
-#### [스티치 픽스, 2026 회계연도 2분기 재무 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513507)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SFIX.O/total>
-#### [이란 분쟁 전 미국 소비자 물가 소폭 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513504)
-#### [가디언 약국 서비스, 4분기 및 2025년 전체 재무 결과 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513511)
-#### [엑소더스, 기록적인 연간 매출로 2025년 4분기 실적 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513540)
-#### [펫코, 4분기 및 2025년 전체 실적 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513503)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WOOF.O/total>
-#### [134 부동산 소득에 따른 보통주 월 배당금 증가 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513510)
-#### [칩 제조업체 글로벌파운드리, 대주주 무바달라가 지분 매각을 시작하면서 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513539)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GFS.O/total>
-#### [프리홀드 로열티, 2025년 실적 및 2026년 가이던스 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513530)
-#### [펠로톤, 임시 CFO로 사킵 베이그 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513509)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PTON.O/total>
-#### [시각 효과 학교가 자폐성 장애인의 할리우드 진출을 돕습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513538)
-#### [2026 회계연도 3분기에 대한 간략한 케와니 과학 보고서 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513529)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KEQU.O/total>
-#### [인슐린 주입기, 완전 폐쇄 루프 자동 인슐린 전달 시스템에 대한 연구 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2513534)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PODD.O/total>
