@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260312_2227 </title></head>
-<center>Vers : 20260312_2227 </center>
-<center>Vers : 20260313_0727 </center>
+<head><meta charset="utf-8"><title>Vers : 20260312_2254 </title></head>
+<center>Vers : 20260312_2254 </center>
+<center>Vers : 20260313_0754 </center>
 <br><br><br>
+#### [판매 자동화 스타트업 Rox AI의 기업가치가 12억 달러에 달한다고 소식통이 밝혔습니다 - TechCrunch](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515496)
+#### [아마존은 프라임 데이 이벤트를 7 월에서 6 월로 옮길 계획이라고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515495)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
+#### [페레티 스파, 독립 이사회 위원회가 독립 주주들에게 KKCG 마린의 제안을 받아들이지 말 것을 권고한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515492)
+#### [디트로이트 지역 회당에 트럭 충돌 후 용의자 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515499)
+#### [트럼프, 축소된 미국 글로벌 미디어 기관을 이끌 국무부 관리 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515494)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515498)
+#### [베네수엘라 정부, 렙솔과 '전략적 협약' 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515493)
+#### [캐나다, 북극 방어 강화, 더 이상 다른 국가에 의존 할 수 없다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515491)
+#### [캐나다 카디널 에너지의 4분기 매출은 유가 하락으로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515497)
 #### [패커 마진이 플러스로 전환되고 소고기 가격이 상승함에 따라 LIVESTOCK-CME 생우 확고함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515475)
 #### [본수섹스 홀딩, 주주 실비오 티니, 브라질 GPA 지분 23.03%로 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515488)
 #### [브라질은 디젤에서 바이오 디젤 혼합을 늘리기 전에 더 많은 연구가 필요하다고 에너지 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515481)
@@ -60,12 +70,3 @@
 #### [캐나다의 Mattr 4분기 매출이 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515449)
 #### [퀘스트 리소스 4분기 매출은 산업 물량 감소로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515442)
 #### [드론 공격으로 이라크 마흐무르 기지에서 최소 6 명의 프랑스 군인이 부상 당했다고 아르빌 주지사는 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515433)
-#### [미국 곡물 바지선 운임 값은? 3월 12일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515431)
-#### [캐나다의 Enghouse Systems, 1분기 매출 예상치 미달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515441)
-#### [미국 부동산 투자자 4분기 순이익 미화 980만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515438)
-#### [트랜스콘티넨탈 부동산 투자자 4분기 순이익 미화 844만3천 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515430)
-#### [정수 필터 공급업체 네프로스의 4분기 매출이 재주문 활동의 호조로 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515440)
-#### [캐나다의 임페리얼 메탈 2025 매출은 금속 가격 상승으로 증가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515437)
-#### [종양학 연구소, 4분기 매출 예상치 상회, 순손실 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515428)
-#### [하버드, 미국 최초의 노예 사진을 사우스캐롤라이나 박물관에 넘기다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515439)
-#### [라이엘 이뮤노파마, 4분기 매출 추정치 미달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515436)
