@@ -1,7 +1,30 @@
-<head><meta charset="utf-8"><title>Vers : 20260312_2254 </title></head>
-<center>Vers : 20260312_2254 </center>
-<center>Vers : 20260313_0754 </center>
+<head><meta charset="utf-8"><title>Vers : 20260312_2325 </title></head>
+<center>Vers : 20260312_2325 </center>
+<center>Vers : 20260313_0825 </center>
 <br><br><br>
+#### [페루 중앙은행, 기준금리 4.25%로 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515518)
+#### [네타냐후, 이란 최고 지도자 살해 위협 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515520)
+#### [중국이 AI 추진을 강화함에 따라 중국 은행들이 기술 부문에 대한 대출을 늘립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515515)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601939.SS/total>
+#### ['세서미 스트리트' 브랜드를 잘못 취급한 씨월드, 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515517)
+#### [우크라이나, 아군의 AI 모델에 전장 데이터 액세스 권한 개방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515519)
+#### [월리, 쉐브론 키프로스의 아프로디테 가스전 개발 FEED에 선정됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515514)
+#### [스웨덴 해안 경비대, 일주일 만에 두 번째 무국적자 선박 탑승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515516)
+#### [드론 공격으로 이라크에서 부상당한 프랑스 군인 6 명, 육군 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515511)
+#### [에네르기사 4분기 반복 조정 순이익 8억 6천만 헤알](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515513)
+#### [월스트리트는이란 전쟁, 원유 급등으로 급락세로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515512)
+#### [텔레포니카 브라질의 주주들, 40억 헤알 규모의 자본 감소 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515510)
+#### [노마는 '폭력적인 업무 분위기'를 가지고 있다고 연구원들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515507)
+#### [브라질 최고법원, 트럼프 고문의 볼소나루 감옥 면회 금지 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515503)
+#### [노마는 '폭력적인 업무 분위기'를 가지고 있다고 연구원들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515502)
+#### [캐나다, 북극 방어 강화, 더 이상 다른 나라에 의존 할 수 없다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515506)
+#### [FBI, 미시간 회당 공격은 '표적 폭력 행위'로 조사 중이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515501)
+#### [하이페라 4분기 반복 순이익 4억5천만 헤알 대 IBES 추정치 3억9천500만 헤알](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515509)
+#### [베네수엘라, 렙솔과 가스 생산 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515505)
+#### [토론토 경찰, 주말 알 쿠드스 데이 보안 강화? 미국 영사관에서 총격 후 집회?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515500)
+#### [아마존이 프라임데이 이벤트를 7월에서 6월로 옮길 계획이라고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515508)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
+#### [머스크의 X, 유럽에서 검증 시스템 변경, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515504)
 #### [판매 자동화 스타트업 Rox AI의 기업가치가 12억 달러에 달한다고 소식통이 밝혔습니다 - TechCrunch](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515496)
 #### [아마존은 프라임 데이 이벤트를 7 월에서 6 월로 옮길 계획이라고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515495)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
@@ -46,27 +69,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAOI.O/total>
 #### [드론 공격으로 이라크에서 부상당한 프랑스 군인 6 명, 육군 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515461)
 #### [북한, 일본의 미사일 확장이 지역 안보 위험을 높이고 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515459)
-#### [북한, 일본의 미사일 확장이 지역 안보 위험을 높이고 있다고 말함 -KCNA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515466)
-#### [98 세 판사, 정직에 대한 사건을 심리 해달라고 미국 대법원에 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515460)
-#### [루마니아 정부, 6.2 % 적자 목표의 2026 년 예산 계획 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515458)
-#### [자산 매각으로 4분기 순이익이 급증한 트랜스콘티넨탈 부동산 투자회사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515454)
-#### [플러스 테라퓨틱스 2025 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515429)
-#### [AMREP의 3분기 매출은 거의 두 배로, 이익은 급격히 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515453)
-#### [카이로프랙틱 클리닉 운영업체 조인트, 4분기 매출 예상치 상회?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515448)
-#### [아메리칸 리얼티 인베스터스 4분기 매출 증가, 순이익 흑자 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515452)
-#### [캐나다의 스위스 워터 디카페인 커피, 원자재 가격 상승으로 4분기 매출 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515446)
-#### [시카고, FAA는 일일 항공편을 2,800편 이하로 줄여서는 안 된다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515434)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
-#### [콜롬비아의 페트로와 베네수엘라의 로드리게스 간 만남 취소, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515443)
-#### [소득 기회 부동산 투자자 4분기 순이익은 이자 수익 감소로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515457)
-#### [광고 비용 증가로 연간 수익이 예상치를 밑돌 것으로 예상되는 Ulta Beauty](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515447)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
-#### [캐나다의 휘튼 귀금속 2025년 매출, 예상치를 상회하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515451)
-#### [크루드-캐나다 서부 지역 할인 변경 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515456)
-#### [데이터 및 분석 회사 Health Catalyst의 4분기 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515432)
-#### [인슐렛, 누출 위험으로 미국에서 일부 인슐린 기기 리콜](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515450)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PODD.O/total>
-#### [북한, 일본의 미사일 확장이 지역 안보 위험을 높이고 있다고 말하다 -KCNA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515455)
-#### [캐나다의 Mattr 4분기 매출이 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515449)
-#### [퀘스트 리소스 4분기 매출은 산업 물량 감소로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515442)
-#### [드론 공격으로 이라크 마흐무르 기지에서 최소 6 명의 프랑스 군인이 부상 당했다고 아르빌 주지사는 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2515433)
