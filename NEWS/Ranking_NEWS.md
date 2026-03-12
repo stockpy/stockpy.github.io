@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260312_1855 </title></head>
-<center>Vers : 20260312_1855 </center>
-<center>Vers : 20260313_0355 </center>
+<head><meta charset="utf-8"><title>Vers : 20260312_1941 </title></head>
+<center>Vers : 20260312_1941 </center>
+<center>Vers : 20260313_0441 </center>
 <br><br><br>
 #### [“이제 그만하지…” 26만전자·135만닉스? 골드만삭스의 전망](https://m.stock.naver.com/news/ranknews/view/021/0002776782)
 #### [“오늘만큼은 삼전닉스 안부럽네요”…네 마녀의 날도 버틴 중소형주](https://m.stock.naver.com/news/ranknews/view/009/0005649531)
