@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260313_2228 </title></head>
-<center>Vers : 20260313_2228 </center>
-<center>Vers : 20260314_0728 </center>
+<head><meta charset="utf-8"><title>Vers : 20260313_2255 </title></head>
+<center>Vers : 20260313_2255 </center>
+<center>Vers : 20260314_0755 </center>
 <br><br><br>
+#### [연방 준비 은행은 법무부 소환장 싸움에서 바이든 특별 검사에게로 향했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517205)
+#### [트럼프 행정부, 틱톡 거래 중개 수수료로 100억 달러 받을 예정, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517206)
+#### [브라질 아줄의 1월 잠정 조정 EBITDA 7억9630만헤알 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517208)
+#### [2026년 3분기까지 비행기를 76~80대로 감축할 계획인 Spirit](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517204)
+#### [이란 전쟁으로 미국 내 많은 사람들이 높은 경각심을 갖지만 회당 공격은 한계를 보여줍니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517209)
+#### [미국 현금 원유 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517207)
+#### [온타리오 190MW 오터 래피즈 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517203)
 #### [버크셔, 2025년 아벨 CEO에게 2,200만 달러 수여, 자사주 매입 재개 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517197)
 #### [화이트 정제소 협상에 관한 브리프: 노조 교섭 위원회와 만나 수정 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517200)
 #### [브라질 포르투, 온코클리니카에 1억 8,800만 달러 투자하는 MOU 체결, 브라질 저널에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517194)
@@ -62,11 +69,3 @@
 #### [브라질 파그세구로, 보통주당 0.26달러의 현금 배당 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517157)
 #### [트럼프, 이란의 우라늄을 러시아로 옮기 겠다는 푸틴의 제안을 거부했다고 Axios가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517149)
 #### [미국 법률 소식: Genworth의 4,500 만 달러 E & O 보상, ' '적격 오염 제외'에 대한 승리, 재 해석 등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517158)
-#### [트럼프 행정부는 사법부가 법원을 관리할 '장비가 부족하다'고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517156)
-#### [NATGAS 파이프라인 중요 공지: 사빈 파이프 라인 기타/성능 초과/미달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517155)
-#### [퓨투 홀딩스, 12월 31일 마감 분기 실적 보고 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517147)
-#### [Uber 공동 창업자 칼라닉, 전문 로봇 공학 추진을 위한 아톰스 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517140)
-#### [이란 전쟁으로 시장이 불안한 가운데 투자자들은 연준 금리 전망을 기다립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517143)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [미국, 버지니아 캠퍼스 총격 사건에 사용 된 총기 불법 판매 혐의로 남성 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517138)
-#### [미국 판사가 트럼프 행정부에 소비자 감시 기관에 계속 자금을 지원하라고 명령했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517139)
