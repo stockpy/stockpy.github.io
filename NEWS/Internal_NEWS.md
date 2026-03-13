@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260313_2255 </title></head>
-<center>Vers : 20260313_2255 </center>
-<center>Vers : 20260314_0755 </center>
+<head><meta charset="utf-8"><title>Vers : 20260313_2330 </title></head>
+<center>Vers : 20260313_2330 </center>
+<center>Vers : 20260314_0830 </center>
 <br><br><br>
+#### [노조원들이 제안을 거부하자 BP, 화이팅 정유소 계약 제안 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517218)
+#### [에콰도르, 보안 작전을 위해 해안 지방에 통행금지령 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517216)
+#### [스텔란티스, '채널 스터핑' 관련 미국 주주 소송에서 기각 승소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517215)
+#### [미국, 이란의 카그 섬 공격, 트럼프는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517217)
+#### [파월의 변호사들은 그가 연준 이사회에 남아있을 가능성에 대해 논의했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517211)
+#### [AI 봇 급증에 직면한 Digg, 일자리를 줄이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517213)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
+#### [트럼프, 미국과 이스라엘의이란 목표가 조금 다를 수 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517214)
+#### [검역 강화로 브라질산 대두의 중국 수출이 차질을 빚다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517210)
+#### [보토란팀, 화신, CSN 시멘트 인수 경쟁 기업들 사이에서 언급 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517212)
 #### [연방 준비 은행은 법무부 소환장 싸움에서 바이든 특별 검사에게로 향했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517205)
 #### [트럼프 행정부, 틱톡 거래 중개 수수료로 100억 달러 받을 예정, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517206)
 #### [브라질 아줄의 1월 잠정 조정 EBITDA 7억9630만헤알 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517208)
@@ -58,14 +68,3 @@
 #### [캐나다, 2360 만 배럴로 IEA 방출 지원, 에너지 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517165)
 #### [CK 허치슨의 파나마 사업부는 항만 계약이 취소 된 후 공급 업체와 협력하고 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517152)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517148)
-#### [폭풍으로 미국 중서부, 중부 대서양 지역 고객 836,000명 정전, 오하이오가 가장 큰 피해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517154)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AEP.O/total>
-#### [앤더슨 그룹 <ANDG.N>, 주당 26센트의 손실 예상 - 실적 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517151)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ANDG.K/total>
-#### [젤렌스키, 미국이 전쟁 해결에 대한 회담 연기를 요구했다고 우크라이나 언론이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517160)
-#### [공급망 중단으로 엔지니어링 금속 가격을 인상하는 Celanese](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517153)
-#### [장비 정전으로 인해 DC 지역 공항에 지상 정지 발령, 미국 FAA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517150)
-#### [이라크 근처에서 공격받은 미국 소유 유조선이 무인 보트에 맞았다는 초기 조사 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517159)
-#### [브라질 파그세구로, 보통주당 0.26달러의 현금 배당 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517157)
-#### [트럼프, 이란의 우라늄을 러시아로 옮기 겠다는 푸틴의 제안을 거부했다고 Axios가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517149)
-#### [미국 법률 소식: Genworth의 4,500 만 달러 E & O 보상, ' '적격 오염 제외'에 대한 승리, 재 해석 등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517158)
