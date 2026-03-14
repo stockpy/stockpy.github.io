@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260314_1839 </title></head>
-<center>Vers : 20260314_1839 </center>
-<center>Vers : 20260315_0339 </center>
+<head><meta charset="utf-8"><title>Vers : 20260314_1914 </title></head>
+<center>Vers : 20260314_1914 </center>
+<center>Vers : 20260315_0414 </center>
 <br><br><br>
+#### [드론 공격으로 이라크 아르빌의 정유소 운영 중단, 관리들은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517381)
+#### [콜롬비아, 베네수엘라 PDVSA, 에코페트롤과의 파이프라인 계약 종료 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517380)
 #### [패럴, 부상으로 타격을 입은 아일랜드에 '강력한' 6개국을 칭송하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517379)
 #### [쿠바 시위대가 정전으로 인해 불을 지르고 물건을 던지는 드문 폭동을 일으켰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517378)
 #### [콜롬비아, 베네수엘라 PDVSA, 에코페트롤과의 파이프라인 계약 종료 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517377)
@@ -62,5 +64,3 @@
 #### [우크라이나, 러시아 크라 스노 다르 지역의 정유소, 항구를 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517325)
 #### [미국, 하르그 섬에서 90 개 이상의이란 군사 목표물 공격, CENTCOM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517322)
 #### [트럼프, 이란의 카르그 섬에 대한 공습을 보여주는 영상 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517323)
-#### [독일, 2025년 온실가스 감축에 거의 진전이 없다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517321)
-#### [이란, 일부 인도 선박이 호르무즈 해협 통과를 허용했다고 특사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517319)
