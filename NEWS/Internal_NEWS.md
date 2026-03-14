@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260314_2125 </title></head>
-<center>Vers : 20260314_2125 </center>
-<center>Vers : 20260315_0625 </center>
+<head><meta charset="utf-8"><title>Vers : 20260314_2226 </title></head>
+<center>Vers : 20260314_2226 </center>
+<center>Vers : 20260315_0726 </center>
 <br><br><br>
+#### [F1, 바레인과 사우디 아라비아에서 4월 레이스 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517400)
+#### [북한 지도자 김, 여러 로켓 발사 시험 발사 감독 -KCNA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517399)
+#### [페르티타 엔터테인먼트, 65억 달러에 시저스 인수 협상 중, CNBC 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517398)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CZR.O/total>
+#### [공화당, 반유대주의 혐의로 플로리다 대학 지부 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517397)
+#### [북한 지도자 김, 여러 로켓 발사 시험 발사 감독 -KCNA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517396)
+#### [스위스, 이란 전쟁 관련 비행에 대한 미국의 비행 요청 2 건 거부, 다른 3 건 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517395)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517394)
 #### [UAE, 이란, 자국 영토에서 발사된 미국의 카그 섬 공격 주장 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517393)
 #### [러시아 방공망은 모스크바로 향하는 65 대의 드론을 격추했다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517391)
 #### [이스라엘의 요격 미사일이 극도로 부족하다고 Semafor가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517392)
@@ -56,11 +64,3 @@
 #### [브라질의 하다드, 1분기 최대 1% 성장 전망, 2026년은 금리에 달렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517342)
 #### [쿠바 시위대가 정전으로 인한 희귀 한 폭동으로 공산당 사무실을 공격합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517345)
 #### [트럼프, 사우디 아라비아 기지 공격 대상 항공기 대부분 피해가 거의 없었다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517341)
-#### [하마스, 이란에 이웃 국가를 표적으로 삼지 말 것을 촉구하지만 자위권을 확인합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517340)
-#### [머스크, 테슬라의 '거대한' 칩 팹 프로젝트가 7일 안에 시작될 것이라고 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517339)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [트럼프, 사우디 아라비아 공격 표적이 된 대부분의 비행기는 거의 피해가 없었다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517338)
-#### [오스트리아의 샤이브, 아레에서 우승하며 대회전 세계 정상에 오르다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517337)
-#### [대출 기관이 템즈 워터 구출을 위해 44억 달러 이상의 자본 투입을 제안했다고 스카이 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517336)
-#### [인도, 호르무즈 해협에 발이 묶인 더 많은 선박을 위한 통로 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517335)
-#### [그리스 유조선이 CPC 터미널 근처에서 미확인 물체에 부딪혀 경미한 피해를 입었다 고 운영자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517334)
