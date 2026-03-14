@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260314_1632 </title></head>
-<center>Vers : 20260314_1632 </center>
-<center>Vers : 20260315_0132 </center>
+<head><meta charset="utf-8"><title>Vers : 20260314_1659 </title></head>
+<center>Vers : 20260314_1659 </center>
+<center>Vers : 20260315_0159 </center>
 <br><br><br>
+#### [이란 이스파한 공장 파업으로 15 명 사망, 파르스 통신은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517366)
+#### [독점-트럼프, 이란 휴전 회담 시작 노력 거부, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517365)
+#### [EU, 러시아의 우크라이나 전쟁에 대한 제재 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517364)
 #### [바이트댄스, 저작권 분쟁 후 비디오 AI 모델 출시 중단, 더 인포메이션 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517362)
 #### [쿠바 시위대가 정전으로 인한 희귀한 폭동으로 공산당 사무실을 공격합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517363)
 #### [터키, 미사일에 대해이란과 모순 논의, 외무 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517361)
@@ -62,6 +65,3 @@
 #### [일본 산업부, 이란 위기 속 호주에 LNG 생산량 증대 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517308)
 #### [베르스타펜, 중국 GP 예선 후 레드불 자동차 '완전히 운전할 수 없다' 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517309)
 #### [드론, 불타는 배: 이란 앞바다에 좌초된 인도 선원들은 집으로 돌아가고 싶어합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517305)
-#### [UAE 푸자이라에서 화재 발생 후 일부 석유 선적 작업 중단, 업계 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517307)
-#### [그리스 국적 유조선이 노보로시 스크의 CPC 터미널 외부에서 미확인 물체에 충돌, 경미한 손상, 운영자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517306)
-#### [영국은 에너지 비용이 급증함에 따라 가구를 대상으로 한 지원을 고려하고 있다고 Reeves는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517304)
