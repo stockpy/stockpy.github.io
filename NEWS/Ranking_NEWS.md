@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260314_2226 </title></head>
-<center>Vers : 20260314_2226 </center>
-<center>Vers : 20260315_0726 </center>
+<head><meta charset="utf-8"><title>Vers : 20260314_2254 </title></head>
+<center>Vers : 20260314_2254 </center>
+<center>Vers : 20260315_0754 </center>
 <br><br><br>
 #### [삼전·하이닉스 뚝뚝 떨어지는데…'놀라운 전망' 나왔다 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005262295)
 #### [삼전·닉스 이미 훨훨..."젠슨황이 찍었다" 월가도 주목한 전력반도체주](https://m.stock.naver.com/news/ranknews/view/008/0005329851)

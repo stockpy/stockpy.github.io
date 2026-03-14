@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260314_2226 </title></head>
-<center>Vers : 20260314_2226 </center>
-<center>Vers : 20260315_0726 </center>
+<head><meta charset="utf-8"><title>Vers : 20260314_2254 </title></head>
+<center>Vers : 20260314_2254 </center>
+<center>Vers : 20260315_0754 </center>
 <br><br><br>
+#### [퍼티타 엔터테인먼트, 시저스 엔터테인먼트 주당 32달러에 인수 논의 중- CNBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517406)
+#### [모터 레이싱-F1, 바레인과 사우디 아라비아에서 4월 레이스 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517408)
+#### [인디고, 중동 지역의 상황 변화로 인해 두바이에서 항공편 운항이 더욱 제한되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517403)
+#### [페르티타 엔터테인먼트, 65억 달러에 시저스 인수 협상 중, CNBC 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517405)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CZR.O/total>
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517407)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517402)
+#### [페루에서 도로를 개간하던 중 산사태를 가까스로 피한 노동자?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517401)
+#### [이란, 미국의 카그섬 공격에 대해 지역 보복 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517404)
 #### [F1, 바레인과 사우디 아라비아에서 4월 레이스 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517400)
 #### [북한 지도자 김, 여러 로켓 발사 시험 발사 감독 -KCNA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517399)
 #### [페르티타 엔터테인먼트, 65억 달러에 시저스 인수 협상 중, CNBC 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517398)
@@ -56,11 +65,3 @@
 #### [이라크, 지난주 총이란 가스 공급량이 6 백만에서 18 백만 입방 미터로 증가했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517351)
 #### [머스크, 테슬라의 초대형 AI 칩 팹 프로젝트가 7일 안에 시작될 예정이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517349)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
-#### [트럼프, '많은 국가'가 호르무즈 해협을 개방하기 위해 군함을 보낼 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517348)
-#### [철학자 유르겐 하버마스, 96 세로 사망, 출판사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517347)
-#### [트럼프, '많은 국가'가 호르무즈 해협을 개방하기 위해 군함을 보낼 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517346)
-#### [슈나이더, 기후 보호에 동참합니다: 슈나이더 일렉트릭, 2025년 기후 보호 솔루션 출시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517344)
-#### [엘론 머스크, 테라팹 프로젝트가 7일 안에 시작된다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517343)
-#### [브라질의 하다드, 1분기 최대 1% 성장 전망, 2026년은 금리에 달렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517342)
-#### [쿠바 시위대가 정전으로 인한 희귀 한 폭동으로 공산당 사무실을 공격합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517345)
-#### [트럼프, 사우디 아라비아 기지 공격 대상 항공기 대부분 피해가 거의 없었다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517341)
