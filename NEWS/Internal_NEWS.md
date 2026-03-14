@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260314_2029 </title></head>
-<center>Vers : 20260314_2029 </center>
-<center>Vers : 20260315_0529 </center>
+<head><meta charset="utf-8"><title>Vers : 20260314_2054 </title></head>
+<center>Vers : 20260314_2054 </center>
+<center>Vers : 20260315_0554 </center>
 <br><br><br>
+#### [러시아 방공망은 모스크바로 향하는 65 대의 드론을 격추했다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517391)
+#### [이스라엘의 요격 미사일이 극도로 부족하다고 Semafor가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517392)
+#### [케냐에서 혼란스러운 토요일을 보낸 후 첫 WRC 우승을 향해 달려가는 랠리-카츠타](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517389)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517390)
 #### [에어 인디아, UAE 공항 당국의 지시에 따라 2026년 3월 15일까지 에어 인디아 익스프레스, 임시 항공편 운항을 축소한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517388)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517387)
 #### [스위스, 이란 전쟁 관련 비행에 대한 미국의 두 건의 비행 요청 거부, 다른 세 건은 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517386)
@@ -60,7 +64,3 @@
 #### [인도, 호르무즈 해협에 발이 묶인 더 많은 선박을 위한 통로 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517335)
 #### [그리스 유조선이 CPC 터미널 근처에서 미확인 물체에 부딪혀 경미한 피해를 입었다 고 운영자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517334)
 #### [미사일 공격 후 이라크 주재 미국 대사관에서 화재 및 피해 목격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517333)
-#### [바그다드에서 파업으로 이라크 PMF 전투기 3 명 사망, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517332)
-#### [대출 기관이 템즈 워터 구출을 위해 44 억 달러 이상의 자본 투입을 제안한다고 스카이 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517331)
-#### [인도는 배관 가스 연결이있는 가구의 LPG 접근을 금지한다고 석유부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517330)
-#### [대출 기관, 병든 템즈 강 육상 구조에 33 억 5 천만 Stg 주식 주입 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517329)
