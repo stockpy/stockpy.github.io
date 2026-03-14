@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260314_2254 </title></head>
-<center>Vers : 20260314_2254 </center>
-<center>Vers : 20260315_0754 </center>
+<head><meta charset="utf-8"><title>Vers : 20260314_2324 </title></head>
+<center>Vers : 20260314_2324 </center>
+<center>Vers : 20260315_0824 </center>
 <br><br><br>
+#### [드론 공격으로 이라크 아르빌의 정유소 운영 중단, 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517411)
+#### [FCC의 Carr, 이란 보도에 대한 트럼프 발언을 다시 올리면서 방송사들에게 경고하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517410)
+#### [델타항공, 3월 16일 월요일 악천후로 인한 항공편 지연 및 결항 가능성 안내](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517409)
 #### [퍼티타 엔터테인먼트, 시저스 엔터테인먼트 주당 32달러에 인수 논의 중- CNBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517406)
 #### [모터 레이싱-F1, 바레인과 사우디 아라비아에서 4월 레이스 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517408)
 #### [인디고, 중동 지역의 상황 변화로 인해 두바이에서 항공편 운항이 더욱 제한되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517403)
@@ -61,7 +64,3 @@
 #### [브라질의 볼 소나로는 안정적이지만 테스트 결과는 악화, 의료 기록에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517353)
 #### [이스라엘과 레바논은 앞으로 며칠 안에 직접 회담을 가질 것으로 예상한다고 Haaretz는 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517354)
 #### [한국, 2월 이란산 원유 수입 전무 - 관세청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517352)
-#### [전후 독일의 양심을 형성한 철학자, 하버마스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517350)
-#### [이라크, 지난주 총이란 가스 공급량이 6 백만에서 18 백만 입방 미터로 증가했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517351)
-#### [머스크, 테슬라의 초대형 AI 칩 팹 프로젝트가 7일 안에 시작될 예정이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517349)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
