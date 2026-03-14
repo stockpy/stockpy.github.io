@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260314_2054 </title></head>
-<center>Vers : 20260314_2054 </center>
-<center>Vers : 20260315_0554 </center>
+<head><meta charset="utf-8"><title>Vers : 20260314_2125 </title></head>
+<center>Vers : 20260314_2125 </center>
+<center>Vers : 20260315_0625 </center>
 <br><br><br>
+#### [UAE, 이란, 자국 영토에서 발사된 미국의 카그 섬 공격 주장 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517393)
 #### [러시아 방공망은 모스크바로 향하는 65 대의 드론을 격추했다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517391)
 #### [이스라엘의 요격 미사일이 극도로 부족하다고 Semafor가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517392)
 #### [케냐에서 혼란스러운 토요일을 보낸 후 첫 WRC 우승을 향해 달려가는 랠리-카츠타](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517389)
@@ -63,4 +64,3 @@
 #### [대출 기관이 템즈 워터 구출을 위해 44억 달러 이상의 자본 투입을 제안했다고 스카이 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517336)
 #### [인도, 호르무즈 해협에 발이 묶인 더 많은 선박을 위한 통로 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517335)
 #### [그리스 유조선이 CPC 터미널 근처에서 미확인 물체에 부딪혀 경미한 피해를 입었다 고 운영자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517334)
-#### [미사일 공격 후 이라크 주재 미국 대사관에서 화재 및 피해 목격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517333)
