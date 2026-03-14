@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260314_1914 </title></head>
-<center>Vers : 20260314_1914 </center>
-<center>Vers : 20260315_0414 </center>
+<head><meta charset="utf-8"><title>Vers : 20260314_2029 </title></head>
+<center>Vers : 20260314_2029 </center>
+<center>Vers : 20260315_0529 </center>
 <br><br><br>
+#### [에어 인디아, UAE 공항 당국의 지시에 따라 2026년 3월 15일까지 에어 인디아 익스프레스, 임시 항공편 운항을 축소한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517388)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517387)
+#### [스위스, 이란 전쟁 관련 비행에 대한 미국의 두 건의 비행 요청 거부, 다른 세 건은 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517386)
+#### [이란, 미국에 지역 밖으로 산업을 옮기라고 경고, 국영 언론은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517385)
+#### [미국 북서부 강 유량이 99퍼센트까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517384)
+#### [트럼프, 각국 정부에 호르무즈 해협 '관리' 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517383)
+#### [퍼스트에너지, 폭풍 후 655,400명의 고객 중 약 478,000명에게 전력 복구 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517382)
 #### [드론 공격으로 이라크 아르빌의 정유소 운영 중단, 관리들은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517381)
 #### [콜롬비아, 베네수엘라 PDVSA, 에코페트롤과의 파이프라인 계약 종료 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517380)
 #### [패럴, 부상으로 타격을 입은 아일랜드에 '강력한' 6개국을 칭송하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517379)
@@ -57,10 +64,3 @@
 #### [대출 기관이 템즈 워터 구출을 위해 44 억 달러 이상의 자본 투입을 제안한다고 스카이 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517331)
 #### [인도는 배관 가스 연결이있는 가구의 LPG 접근을 금지한다고 석유부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517330)
 #### [대출 기관, 병든 템즈 강 육상 구조에 33 억 5 천만 Stg 주식 주입 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517329)
-#### [우크라이나에 대한 러시아의 대규모 공격으로 4명의 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517328)
-#### [영국은 에너지 비용이 급증함에 따라 가정을 대상으로 한 지원을 고려하고 있다고 Reeves는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517327)
-#### [인디고, 2026년 3월 28일까지 도하, 쿠웨이트, 바레인, 담맘, 푸자이라, 라스 알 카이마, 샤르자에 대한 운항을 중단한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517326)
-#### [미국, 하르그 섬에서 90 개 이상의이란 군사 목표물 공격, CENTCOM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517324)
-#### [우크라이나, 러시아 크라 스노 다르 지역의 정유소, 항구를 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517325)
-#### [미국, 하르그 섬에서 90 개 이상의이란 군사 목표물 공격, CENTCOM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517322)
-#### [트럼프, 이란의 카르그 섬에 대한 공습을 보여주는 영상 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517323)
