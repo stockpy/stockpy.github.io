@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260314_1530 </title></head>
-<center>Vers : 20260314_1530 </center>
-<center>Vers : 20260315_0030 </center>
+<head><meta charset="utf-8"><title>Vers : 20260314_1632 </title></head>
+<center>Vers : 20260314_1632 </center>
+<center>Vers : 20260315_0132 </center>
 <br><br><br>
+#### [바이트댄스, 저작권 분쟁 후 비디오 AI 모델 출시 중단, 더 인포메이션 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517362)
+#### [쿠바 시위대가 정전으로 인한 희귀한 폭동으로 공산당 사무실을 공격합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517363)
+#### [터키, 미사일에 대해이란과 모순 논의, 외무 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517361)
+#### [키예프 근처에서 러시아 파업으로 3 명 사망, 경찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517360)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517359)
+#### [이스라엘과 레바논이 앞으로 며칠 안에 직접 회담을 가질 것으로 예상된다고 Haaretz가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517358)
+#### [푸자이라 항구가 석유 시장에 중요한 이유는 무엇인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517355)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517356)
+#### [이란, 자국 에너지 시설 타격 시 역내 미국 기업 시설 표적 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517357)
 #### [브라질의 볼 소나로는 안정적이지만 테스트 결과는 악화, 의료 기록에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517353)
 #### [이스라엘과 레바논은 앞으로 며칠 안에 직접 회담을 가질 것으로 예상한다고 Haaretz는 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517354)
 #### [한국, 2월 이란산 원유 수입 전무 - 관세청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517352)
@@ -56,12 +65,3 @@
 #### [UAE 푸자이라에서 화재 발생 후 일부 석유 선적 작업 중단, 업계 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517307)
 #### [그리스 국적 유조선이 노보로시 스크의 CPC 터미널 외부에서 미확인 물체에 충돌, 경미한 손상, 운영자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517306)
 #### [영국은 에너지 비용이 급증함에 따라 가구를 대상으로 한 지원을 고려하고 있다고 Reeves는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517304)
-#### [이란, 이란 섬 공습 후 아랍에미리트 내 미국 연계 시설 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517303)
-#### [일본, 한국, 외환 변동성에 대응할 준비가되어 있다고 장관들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517302)
-#### [UAE 푸자이라에서 드론 요격 중 파편이 떨어진 후 화재 발생, 부상자는보고되지 않았다고 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517301)
-#### [암스테르담에서 폭발한 사법 학교: 버거 마이스터가 분노를 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517300)
-#### [중국이 오랜 동맹국인 대만에서 벗어나 파라과이의 정치 계급을 끌어들이는 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517299)
-#### [인도 아카사 에어, 국내 및 국제 노선에 199루피에서 1300루피까지 유류할증료 도입 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517298)
-#### [일본의 JERA, 더 많은 LNG 공급을 모색하며 증가하는 중동 리스크 헤지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517297)
-#### [모터 레이싱-안토넬리, 메르세데스 우세로 중국서 기록적인 폴 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517296)
-#### [드론 공격과 화재로 일부 푸자이라 석유 작업 중단, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517295)
