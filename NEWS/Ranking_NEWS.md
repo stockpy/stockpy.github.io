@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_0837 </title></head>
-<center>Vers : 20260315_0837 </center>
-<center>Vers : 20260315_1737 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_0906 </title></head>
+<center>Vers : 20260315_0906 </center>
+<center>Vers : 20260315_1806 </center>
 <br><br><br>
 #### ["여보, 대출 하루만 더 기다릴까?"…전쟁에 이자 출렁, 눈치게임 시작](https://m.stock.naver.com/news/ranknews/view/008/0005329955)
 #### [4000만원 보험금 청구하니 현미경 검증…“뇌종양 내 출혈도 뇌출혈”[어쩌다 세상이]](https://m.stock.naver.com/news/ranknews/view/009/0005650315)
