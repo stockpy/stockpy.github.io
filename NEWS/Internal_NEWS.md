@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_1030 </title></head>
-<center>Vers : 20260315_1030 </center>
-<center>Vers : 20260315_1930 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_1059 </title></head>
+<center>Vers : 20260315_1059 </center>
+<center>Vers : 20260315_1959 </center>
 <br><br><br>
+#### [바레인 알바, 호르무즈 혼란 지속으로 알루미늄 생산량 19% 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517484)
+#### [캐나다와 북유럽, 군수 산업 생산에 협력하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517486)
+#### [GCL 뉴에너지, 자회사, 2025 회계연도에 약 11억 위안의 순손실 기록할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517488)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0451.HK/total>
+#### [프랑스 시장 선거, 대선 투표 전 극우 세력의 세력을 가늠하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517483)
+#### [이라크 석유부, 쿠르드 당국이 당분간 석유 수출 재개를 거부했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517485)
+#### [이스라엘 외무 장관, 레바논 정부와의 대화 계획 없다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517487)
+#### [바레인의 알루미늄 제련소 알바, 생산 능력의 19% 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517482)
+#### [자이언텍 반도체 주주, 지분 감축 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517481)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688123.SS/total>
 #### ["Wir werden vorne bleiben": CDU-기독민주당 후보, 독일-팔츠 총선에 낙관적 전망 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517480)
 #### [할리우드에 불안감이 감도는 가운데 오스카 최고상이 걸려 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517479)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBD.O/total>
@@ -61,6 +71,10 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517430)
 #### [러시아가 이란에 샤헤드 드론을 공급하고 있다고 젤렌스키가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517432)
 #### [미국, 이라크 상공에서 비행기 추락으로 사망한 군인 6명 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517426)
+<head><meta charset="utf-8"><title>Vers : 20260315_1059 </title></head>
+<center>Vers : 20260315_1059 </center>
+<center>Vers : 20260315_1959 </center>
+<br><br><br>
 #### [이란 전쟁으로 미국, 비응급 요원 오만 출국 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517429)
 #### [트랜스캐나다 온타리오 197MW 포틀랜드 2 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517428)
 #### [트랜스캐나다 온타리오 245MW 포틀랜드 3 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517427)
@@ -69,10 +83,6 @@
 #### [프랑스 지방 선거에 대해 알아야 할 사항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517422)
 #### [프랑스 시장 선거, 대선 투표 전 극우 세력 측정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517423)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517421)
-<head><meta charset="utf-8"><title>Vers : 20260315_1030 </title></head>
-<center>Vers : 20260315_1030 </center>
-<center>Vers : 20260315_1930 </center>
-<br><br><br>
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517420)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517419)
 #### [베트남 국회의원 선거에서 공산당이 93%에 가까운 후보를 배출했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517417)
@@ -128,6 +138,10 @@
 #### [프랑스 핀투로, 월드컵 결승전 후 은퇴 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517371)
 #### [독점- 트럼프,이란 휴전 회담 시작 노력 거부, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517369)
 #### [아르헨티나, 미국 법무부, YPF 국유화 사건에서 발견을 중단하려는 입찰을지지한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517368)
+<head><meta charset="utf-8"><title>Vers : 20260315_1059 </title></head>
+<center>Vers : 20260315_1059 </center>
+<center>Vers : 20260315_1959 </center>
+<br><br><br>
 #### [이란 외무 장관, 최고 지도자와 함께 문제 없다고 말하다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517370)
 #### [모스크바로 향하는 32 대의 드론을 격추시킨 러시아 방공망, 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517367)
 #### [이란 이스파한 공장 파업으로 15 명 사망, 파르스 통신은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517366)
@@ -136,10 +150,6 @@
 #### [바이트댄스, 저작권 분쟁 후 비디오 AI 모델 출시 중단, 더 인포메이션 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517362)
 #### [쿠바 시위대가 정전으로 인한 희귀한 폭동으로 공산당 사무실을 공격합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517363)
 #### [터키, 미사일에 대해이란과 모순 논의, 외무 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517361)
-<head><meta charset="utf-8"><title>Vers : 20260315_1030 </title></head>
-<center>Vers : 20260315_1030 </center>
-<center>Vers : 20260315_1930 </center>
-<br><br><br>
 #### [키예프 근처에서 러시아 파업으로 3 명 사망, 경찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517360)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517359)
 #### [이스라엘과 레바논이 앞으로 며칠 안에 직접 회담을 가질 것으로 예상된다고 Haaretz가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517358)
@@ -195,11 +205,3 @@
 #### [루이스 해밀턴, F1 폴 기록 후 메르세데스 키미 안토넬리에게 칭찬 아끼지 않아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517313)
 #### [아이미움, 한화와 미국 바이오 탄소 공장 건설을 위한 5억 달러 규모의 MOU 체결 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517312)
 #### [일본 산업부, 이란 위기 속 호주에 LNG 생산량 증대 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517308)
-#### [베르스타펜, 중국 GP 예선 후 레드불 자동차 '완전히 운전할 수 없다' 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517309)
-#### [드론, 불타는 배: 이란 앞바다에 좌초된 인도 선원들은 집으로 돌아가고 싶어합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517305)
-#### [UAE 푸자이라에서 화재 발생 후 일부 석유 선적 작업 중단, 업계 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517307)
-#### [그리스 국적 유조선이 노보로시 스크의 CPC 터미널 외부에서 미확인 물체에 충돌, 경미한 손상, 운영자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517306)
-#### [영국은 에너지 비용이 급증함에 따라 가구를 대상으로 한 지원을 고려하고 있다고 Reeves는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517304)
-#### [이란, 이란 섬 공습 후 아랍에미리트 내 미국 연계 시설 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517303)
-#### [일본, 한국, 외환 변동성에 대응할 준비가되어 있다고 장관들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517302)
-#### [UAE 푸자이라에서 드론 요격 중 파편이 떨어진 후 화재 발생, 부상자는보고되지 않았다고 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517301)

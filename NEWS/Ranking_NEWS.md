@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_1030 </title></head>
-<center>Vers : 20260315_1030 </center>
-<center>Vers : 20260315_1930 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_1059 </title></head>
+<center>Vers : 20260315_1059 </center>
+<center>Vers : 20260315_1959 </center>
 <br><br><br>
 #### ["시총 최소 1조 돼야 정상" 사 놓으면 크게 오른다?...'이 주식' 뭐길래](https://m.stock.naver.com/news/ranknews/view/008/0005330087)
 #### [[단독] 대기업 중복상장 사실상 전면금지 [시그널]](https://m.stock.naver.com/news/ranknews/view/011/0004599425)
