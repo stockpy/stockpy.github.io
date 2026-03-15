@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_1840 </title></head>
-<center>Vers : 20260315_1840 </center>
-<center>Vers : 20260316_0340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_1916 </title></head>
+<center>Vers : 20260315_1916 </center>
+<center>Vers : 20260316_0416 </center>
 <br><br><br>
 #### [장롱 속 '금 50돈' 팔려고 내놨다가…'몰랐던 사실'](https://m.stock.naver.com/news/ranknews/view/015/0005262434)
 #### ["시총 최소 1조 돼야 정상" 사 놓으면 크게 오른다?...'이 주식' 뭐길래](https://m.stock.naver.com/news/ranknews/view/008/0005330087)

@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_1840 </title></head>
-<center>Vers : 20260315_1840 </center>
-<center>Vers : 20260316_0340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_1916 </title></head>
+<center>Vers : 20260315_1916 </center>
+<center>Vers : 20260316_0416 </center>
 <br><br><br>
+#### [미국 항공사 CEO, 의회에 교착 상태 종식 및 공항 보안 요원 급여 지급 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517566)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
+#### [이스라엘과 레바논은 앞으로 며칠 안에 회담을 열 것으로 예상된다고 이스라엘 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517567)
+#### [반유대주의 공격을 계획한 혐의로 프랑스에서 수사를 받고 있는 두 형제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517564)
+#### [로이터 미국 스포츠 일정 3월 15일 일요일 오후 2시 40분(동부 표준시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517565)
+#### [아프가니스탄 망명 신청자가 ICE 구금에서 사망했다고 미국 옹호 단체는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517563)
+#### [중동 분쟁 심화 속 달러 지수, 2024년 9월 이후 주간 최대 상승폭 이후 안정세 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517562)
+#### [이란 대통령, 프랑스 마크롱과 전화 통화, 타스님 통신은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517560)
+#### [인도 외무 장관, 호르무즈 해협 개방을 위해이란과 회담 환영, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517561)
 #### [미국 북서부 강 유량은 99 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517559)
 #### [독일, 호르무즈 해협에서 EU 작전 확대에 회의적인 입장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517558)
 #### [독점-이란은 아랍 걸프 관계에 대한 '심각한?검토 '를 원하며 사우디 석유 공격에서 역할을 부인합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517556)
@@ -56,12 +65,3 @@
 #### [베르스타펜, 중국 GP 은퇴 후 F1 '농담'에 쾅!](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517509)
 #### [CMGE 기술 그룹, 2025년 15억 위안 이하의 순손실 기록 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517508)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0302.HK/total>
-#### [울프, 안토넬리의 첫 우승과 중국 포디엄에 '압도당하다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517506)
-#### [쉐이프 로보틱스, 법원 명령 불이행으로 나스닥 코펜하겐에 형사 고소 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517507)
-#### [캐나다와 북유럽의 긴밀한 '중견국' 협력 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517505)
-#### [회로 패브리올로지 마이크로일렉트로닉스 장비, 홍콩 상장 신청서 재제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517504)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688630.SS/total>
-#### [이란, 이스라엘 정보원 혐의로 수십 명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517502)
-#### [이란 미사일 파편이 이스라엘 주재 미국 영사관 건물에 충돌, 이스라엘 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517503)
-#### [모터 레이싱-해밀턴이 포디움 가뭄을 끝내고 다시 우승에 가까워졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517501)
-#### [스미스 앤 네프, 최고 경영자의 최대 급여 패키지를 1,400만 파운드 이상으로 인상 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517500)
