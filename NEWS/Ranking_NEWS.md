@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_2228 </title></head>
-<center>Vers : 20260315_2228 </center>
-<center>Vers : 20260316_0728 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_2256 </title></head>
+<center>Vers : 20260315_2256 </center>
+<center>Vers : 20260316_0756 </center>
 <br><br><br>
 #### [장롱 속 '금 50돈' 팔려고 내놨다가…'몰랐던 사실'](https://m.stock.naver.com/news/ranknews/view/015/0005262434)
 #### [“나, 고점에 물린거야?” 삼전·하닉 하락에 개미들 ‘공포’…증권가는 목표치↑](https://m.stock.naver.com/news/ranknews/view/021/0002777271)

@@ -1,11 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_2228 </title></head>
-<center>Vers : 20260315_2228 </center>
-<center>Vers : 20260316_0728 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_2256 </title></head>
+<center>Vers : 20260315_2256 </center>
+<center>Vers : 20260316_0756 </center>
 <br><br><br>
+#### [미국 관리들, 이란의 무력 주장으로 빠른 전쟁 종식 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517596)
+#### [미국 석유 CEO들은 트럼프 행정부에 에너지 위기가 악화 될 가능성이 있다고 경고, WSJ 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517593)
+#### [영국, 높은 실업률 해결을 위한 청년 일자리 대책 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517595)
+#### [영국 스타 머, 분쟁의 여파로부터 '일하는 사람들'을 보호하겠다고 맹세하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517592)
+#### [호주 린나스, 미국 희토류 산화물 공급 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517597)
+#### [독점-미국, 중국, '매우 안정된' 파리 회담에서 농산물, 관리 무역 논의-소식통](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517594)
+#### [4월 투표를 앞두고 헝가리 정당들이 대규모 집회를 열다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517591)
 #### [중동 분쟁으로 수출 시설 위협으로 유가 2% 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517590)
 #### [호주 린나스, 미국 희토류 산화물 공급 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517588)
 #### [분석-혼다의 157억 달러 규모의 전기차 상각은 고통스럽지만 중국의 도전이 다가오고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517587)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7267.T/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6758.T/total>
 #### [일본, 미국이 미국산 구매를 말하면서 석유 재고 방출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517586)
 #### [퍼페추얼, 자산 관리 부문을 베인 캐피털에 3억 5천만 달러에 선불 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517589)
 #### [아스트라제네카, 임핀지, 유럽에서 조기 위암 및 위식도암 환자를 위한 최초이자 유일한 수술 전후 면역요법으로 승인 받았다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517585)
@@ -57,10 +64,3 @@
 #### [아프리카 국가들이 러시아 네트워크의 시민 모집에 속수무책으로 당하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517540)
 #### [4 억 배럴 이상의 비상 석유 비축량이 곧 세계 시장에 유입 될 것이라고 IEA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517538)
 #### [아시아 태평양 동맹국들이 미국 기업들과 570억 달러 규모의 거래를 체결했다고 버검은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517539)
-#### [업그레이드 공동 창립자 로니 스크루발라, 우리 업그레이드가 전체 주식 거래로 Unacademy를 인수하는 계약서에 서명했다고 밝혔습니다 - X 포스트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517536)
-#### [NATGAS 파이프라인 중요 공지: 사빈 파이프 라인 기타/성능 초과/미달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517535)
-#### [프랑스 현지 투표, 대선 투표 전 극우 세력 강세 가늠하기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517537)
-#### [1월 페루 경제, 전년 대비 3.54% 성장률 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517533)
-#### [이라크, 쿠르드 당국이 파이프라인을 통한 석유 공급을 거부한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517534)
-#### [이스라엘 이란 여객기 추락으로 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517532)
-#### [아시아 태평양 동맹국들이 도쿄 포럼에서 미국 기업들과 560억 달러 규모의 거래를 체결했다고 버검은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517531)
