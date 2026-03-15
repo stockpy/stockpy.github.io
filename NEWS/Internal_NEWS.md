@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_1537 </title></head>
-<center>Vers : 20260315_1537 </center>
-<center>Vers : 20260316_0037 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_1633 </title></head>
+<center>Vers : 20260315_1633 </center>
+<center>Vers : 20260316_0133 </center>
 <br><br><br>
+#### [중동 분쟁이 수출 시설을 위협하면서 유가가 추가 상승할 것으로 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517546)
+#### [헝가리 정당들이 4월 12일 선거를 앞두고 대규모 집회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517545)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517544)
+#### [인도의 업그래드, 전체 주식 거래로 유아카데미 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517543)
+#### [페루 경제, 1월 전년 동월 대비 3.54% 성장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517541)
+#### [독일, 이란 전쟁으로 인한 연료 가격 인상 단속 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517542)
+#### [아프리카 국가들이 러시아 네트워크의 시민 모집에 속수무책으로 당하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517540)
 #### [4 억 배럴 이상의 비상 석유 비축량이 곧 세계 시장에 유입 될 것이라고 IEA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517538)
 #### [아시아 태평양 동맹국들이 미국 기업들과 570억 달러 규모의 거래를 체결했다고 버검은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517539)
 #### [업그레이드 공동 창립자 로니 스크루발라, 우리 업그레이드가 전체 주식 거래로 Unacademy를 인수하는 계약서에 서명했다고 밝혔습니다 - X 포스트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517536)
@@ -59,12 +66,3 @@
 #### [덴마크 총리, 그린란드에 대한 미국의 '용납 할 수없는'압력 속에서 캐나다의지지를 칭찬하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517489)
 #### [바레인 알바, 호르무즈 혼란 지속으로 알루미늄 생산량 19% 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517484)
 #### [캐나다와 북유럽, 군수 산업 생산에 협력하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517486)
-#### [GCL 뉴에너지, 자회사, 2025 회계연도에 약 11억 위안의 순손실 기록할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517488)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0451.HK/total>
-#### [프랑스 시장 선거, 대선 투표 전 극우 세력의 세력을 가늠하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517483)
-#### [이라크 석유부, 쿠르드 당국이 당분간 석유 수출 재개를 거부했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517485)
-#### [이스라엘 외무 장관, 레바논 정부와의 대화 계획 없다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517487)
-#### [바레인의 알루미늄 제련소 알바, 생산 능력의 19% 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517482)
-#### [자이언텍 반도체 주주, 지분 감축 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517481)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688123.SS/total>
-#### ["Wir werden vorne bleiben": CDU-기독민주당 후보, 독일-팔츠 총선에 낙관적 전망 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517480)
