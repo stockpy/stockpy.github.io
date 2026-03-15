@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_2030 </title></head>
-<center>Vers : 20260315_2030 </center>
-<center>Vers : 20260316_0530 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_2056 </title></head>
+<center>Vers : 20260315_2056 </center>
+<center>Vers : 20260316_0556 </center>
 <br><br><br>
+#### [한 주 앞으로-이란 전쟁과 주요 중앙은행 회의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517580)
+#### [트리톤 파트너스, 지연된 플래그십 펀드를 위해 55억 유로 모금- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517579)
+#### [사회당이 파리 시장 선거 1 라운드에서 1 위, 출구 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517578)
 #### [카니, 러시아가 북극에서 가장 큰 안보 위협이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517577)
 #### [마르세유 시장 선거 1 라운드에서 좌파, RN 후보가 사실상 동점, 출구 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517575)
 #### [RBA 인상이 예정된 가운데, 향후 움직임에 초점이 맞춰져 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517576)
@@ -60,7 +63,3 @@
 #### [미국 에너지 장관은이란 전쟁이 몇 주 안에 끝나고 석유 공급이 반등 할 것으로보고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517523)
 #### [EU 장관들, 호르무즈 해협에 대한 해군 임무 확대 논의, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517522)
 #### [이스라엘, 레바논과의 가스 거래 취소 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517519)
-#### [이란 전쟁이 시장을 긴장시키면서 투자자들은 연준 금리 전망을 기다립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517521)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [카츠타, 케냐 사파리 랠리에서 WRC 첫 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517520)
-#### [시프린, 슬라럼 우승으로 월드컵 종합 선두 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517516)
