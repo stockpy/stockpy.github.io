@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_2256 </title></head>
-<center>Vers : 20260315_2256 </center>
-<center>Vers : 20260316_0756 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_2333 </title></head>
+<center>Vers : 20260315_2333 </center>
+<center>Vers : 20260316_0833 </center>
 <br><br><br>
+#### [호주 시라, 테슬라, 흑연 공급 계약 불이행 혐의 해결 기한 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517603)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
+#### [프랑스 마크롱, 이란에 지역 공격 중단과 호르무즈 항행 회복 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517602)
+#### [이란 전쟁 혼란 속에서 중동 해군 임무 강화 논의하는 EU](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517601)
+#### [LVMH의 지원을 받는 L 캐터튼, 일본 거래에서 3억 1,300만 달러 목표 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517600)
+#### [예상치 못한 오스카에 도착한 할리우드 스타들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517599)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBD.O/total>
+#### [프랑스 마크롱, 이란에 중동 국가에 대한 공격 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517598)
 #### [미국 관리들, 이란의 무력 주장으로 빠른 전쟁 종식 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517596)
 #### [미국 석유 CEO들은 트럼프 행정부에 에너지 위기가 악화 될 가능성이 있다고 경고, WSJ 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517593)
 #### [영국, 높은 실업률 해결을 위한 청년 일자리 대책 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517595)
@@ -58,9 +66,3 @@
 #### [중동 분쟁이 수출 시설을 위협하면서 유가가 추가 상승할 것으로 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517546)
 #### [헝가리 정당들이 4월 12일 선거를 앞두고 대규모 집회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517545)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517544)
-#### [인도의 업그래드, 전체 주식 거래로 유아카데미 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517543)
-#### [페루 경제, 1월 전년 동월 대비 3.54% 성장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517541)
-#### [독일, 이란 전쟁으로 인한 연료 가격 인상 단속 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517542)
-#### [아프리카 국가들이 러시아 네트워크의 시민 모집에 속수무책으로 당하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517540)
-#### [4 억 배럴 이상의 비상 석유 비축량이 곧 세계 시장에 유입 될 것이라고 IEA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517538)
-#### [아시아 태평양 동맹국들이 미국 기업들과 570억 달러 규모의 거래를 체결했다고 버검은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517539)
