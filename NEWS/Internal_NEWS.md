@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_1059 </title></head>
-<center>Vers : 20260315_1059 </center>
-<center>Vers : 20260315_1959 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_1135 </title></head>
+<center>Vers : 20260315_1135 </center>
+<center>Vers : 20260315_2035 </center>
 <br><br><br>
+#### [스미스 앤 네프, 최고 경영자의 최대 급여 패키지를 1,400만 파운드 이상으로 인상 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517500)
+#### [세 명의 이란 축구 선수가 호주로 떠나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517498)
+#### [헝가리의 불화 정당이 선거를 앞두고 주요 무력시위를 위해 모였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517496)
+#### [이스라엘 외무 장관, 레바논 회담, 요격기 부족 보도 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517499)
+#### [러시아는 북극에서 가장 큰 안보 위협이라고 캐나다의 카니는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517497)
+#### [핀란드, 자국 영토에 핵무기 보유를 추구하지 않는 총리, 총리 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517491)
+#### [시노펙 엔지니어링 그룹 2025년 순이익, 전년 대비 27.1% 감소 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517493)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2386.HK/total>
+#### [이란 전쟁이 확대되는 것으로 보이며 계획은 불분명 해 보인다고 노르웨이 총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517494)
+#### [힌달코, 이란 전쟁으로 압출 알루미늄 제품 생산 중단, 공지에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517490)
+#### [아다니 파워, 1,600MW 장기 전력 공급을 위해 MSEDCL로부터 LoA 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517492)
+#### [해밀턴, 첫 페라리 포디엄을 향한 오랜 기다림 끝내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517495)
+#### [덴마크 총리, 그린란드에 대한 미국의 '용납 할 수없는'압력 속에서 캐나다의지지를 칭찬하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517489)
 #### [바레인 알바, 호르무즈 혼란 지속으로 알루미늄 생산량 19% 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517484)
 #### [캐나다와 북유럽, 군수 산업 생산에 협력하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517486)
 #### [GCL 뉴에너지, 자회사, 2025 회계연도에 약 11억 위안의 순손실 기록할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517488)
@@ -58,6 +71,10 @@
 #### [재생 가능한 제트 연료가 중국과 가격 전쟁에 직면 할 수 있다고 최고 생산자 Neste가 경고 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517444)
 #### [알래스카 LNG는 최종 투자 결정 전에 더 많은 오프테이크 약정이 필요하다고 CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517441)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9531.T/total>
+<head><meta charset="utf-8"><title>Vers : 20260315_1135 </title></head>
+<center>Vers : 20260315_1135 </center>
+<center>Vers : 20260315_2035 </center>
+<br><br><br>
 #### [베트남, 공산당이 의회 후보의 93%에 가까운 득표율을 기록하면서 투표가 진행 중입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517437)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VCB.HM/total>
 #### [주목해야 할 요소 - 3월 15일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517440)
@@ -71,10 +88,6 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517430)
 #### [러시아가 이란에 샤헤드 드론을 공급하고 있다고 젤렌스키가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517432)
 #### [미국, 이라크 상공에서 비행기 추락으로 사망한 군인 6명 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517426)
-<head><meta charset="utf-8"><title>Vers : 20260315_1059 </title></head>
-<center>Vers : 20260315_1059 </center>
-<center>Vers : 20260315_1959 </center>
-<br><br><br>
 #### [이란 전쟁으로 미국, 비응급 요원 오만 출국 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517429)
 #### [트랜스캐나다 온타리오 197MW 포틀랜드 2 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517428)
 #### [트랜스캐나다 온타리오 245MW 포틀랜드 3 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517427)
@@ -126,6 +139,10 @@
 #### [트럼프, 각국 정부에 호르무즈 해협 '관리' 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517383)
 #### [퍼스트에너지, 폭풍 후 655,400명의 고객 중 약 478,000명에게 전력 복구 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517382)
 #### [드론 공격으로 이라크 아르빌의 정유소 운영 중단, 관리들은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517381)
+<head><meta charset="utf-8"><title>Vers : 20260315_1135 </title></head>
+<center>Vers : 20260315_1135 </center>
+<center>Vers : 20260315_2035 </center>
+<br><br><br>
 #### [콜롬비아, 베네수엘라 PDVSA, 에코페트롤과의 파이프라인 계약 종료 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517380)
 #### [패럴, 부상으로 타격을 입은 아일랜드에 '강력한' 6개국을 칭송하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517379)
 #### [쿠바 시위대가 정전으로 인해 불을 지르고 물건을 던지는 드문 폭동을 일으켰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517378)
@@ -138,10 +155,6 @@
 #### [프랑스 핀투로, 월드컵 결승전 후 은퇴 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517371)
 #### [독점- 트럼프,이란 휴전 회담 시작 노력 거부, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517369)
 #### [아르헨티나, 미국 법무부, YPF 국유화 사건에서 발견을 중단하려는 입찰을지지한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517368)
-<head><meta charset="utf-8"><title>Vers : 20260315_1059 </title></head>
-<center>Vers : 20260315_1059 </center>
-<center>Vers : 20260315_1959 </center>
-<br><br><br>
 #### [이란 외무 장관, 최고 지도자와 함께 문제 없다고 말하다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517370)
 #### [모스크바로 향하는 32 대의 드론을 격추시킨 러시아 방공망, 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517367)
 #### [이란 이스파한 공장 파업으로 15 명 사망, 파르스 통신은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517366)
@@ -192,16 +205,3 @@
 #### [미국, 하르그 섬에서 90 개 이상의이란 군사 목표물 공격, CENTCOM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517322)
 #### [트럼프, 이란의 카르그 섬에 대한 공습을 보여주는 영상 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517323)
 #### [독일, 2025년 온실가스 감축에 거의 진전이 없다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517321)
-#### [이란, 일부 인도 선박이 호르무즈 해협 통과를 허용했다고 특사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517319)
-#### [중요한 모피 알렉포트: 미군, 이란 섬 차지를 점령하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517320)
-#### [새로운 해리 왕자, '미친 음모'를 책으로, 그의 대변인은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517318)
-#### [모터 레이싱-루이스 해밀턴, F1 폴 기록 후 메르세데스 키미 안토넬리에게 찬사 아끼지 않아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517316)
-#### [프랑스, 이스라엘과 레바논 간 휴전 논의 촉진 할 준비가되어 있다고 Macron은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517317)
-#### [베네수엘라, 수년간의 억압을 뚫고 거리를 되찾은 학생들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517315)
-#### [오스카 스포트라이트, 글로벌 엔터테인먼트 플레이어로 부상한 브라질의 위상을 드높이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517314)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
-#### [클레버 멘돈카 필류가 말하는 브라질의 쿨한 요소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517311)
-#### [미니애폴리스, ICE 급증 후 트라우마, 경제적 피해와 씨름하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517310)
-#### [루이스 해밀턴, F1 폴 기록 후 메르세데스 키미 안토넬리에게 칭찬 아끼지 않아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517313)
-#### [아이미움, 한화와 미국 바이오 탄소 공장 건설을 위한 5억 달러 규모의 MOU 체결 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517312)
-#### [일본 산업부, 이란 위기 속 호주에 LNG 생산량 증대 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517308)
