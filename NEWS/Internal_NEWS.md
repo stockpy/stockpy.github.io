@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_1633 </title></head>
-<center>Vers : 20260315_1633 </center>
-<center>Vers : 20260316_0133 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_1700 </title></head>
+<center>Vers : 20260315_1700 </center>
+<center>Vers : 20260316_0200 </center>
 <br><br><br>
+#### [교황 레오, 이란 전쟁의 '잔혹한 폭력'을 비난하며 휴전 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517550)
+#### [안토넬리의 첫 F1 우승 후 메르세데스 볼프, 타이틀 논의는 너무 이르다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517549)
+#### [이란이 타격을 입은 시장에 긴급 비축유가 곧 제공 될 것이라고 IEA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517547)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517548)
 #### [중동 분쟁이 수출 시설을 위협하면서 유가가 추가 상승할 것으로 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517546)
 #### [헝가리 정당들이 4월 12일 선거를 앞두고 대규모 집회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517545)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517544)
@@ -62,7 +66,3 @@
 #### [이란 전쟁이 확대되는 것으로 보이며 계획은 불분명 해 보인다고 노르웨이 총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517494)
 #### [힌달코, 이란 전쟁으로 압출 알루미늄 제품 생산 중단, 공지에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517490)
 #### [아다니 파워, 1,600MW 장기 전력 공급을 위해 MSEDCL로부터 LoA 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517492)
-#### [해밀턴, 첫 페라리 포디엄을 향한 오랜 기다림 끝내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517495)
-#### [덴마크 총리, 그린란드에 대한 미국의 '용납 할 수없는'압력 속에서 캐나다의지지를 칭찬하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517489)
-#### [바레인 알바, 호르무즈 혼란 지속으로 알루미늄 생산량 19% 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517484)
-#### [캐나다와 북유럽, 군수 산업 생산에 협력하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517486)
