@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_1345 </title></head>
-<center>Vers : 20260315_1345 </center>
-<center>Vers : 20260315_2245 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_1430 </title></head>
+<center>Vers : 20260315_1430 </center>
+<center>Vers : 20260315_2330 </center>
 <br><br><br>
+#### [이집트 외무 장관, 카타르 에미 르, 지역 긴장 완화, 전쟁 종식 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517528)
+#### [중동 위기가 스포츠 이벤트와 선수들에게 미친 영향](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517527)
+#### [틸의 비밀스러운 로마 회의가 교회의 관심을 끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517526)
+#### [러시아 크라 스노 다르 지역의 석유 시설 화재 진압, 관리들은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517525)
+#### [모터 레이싱?알론소 '손도 발도 못 느꼈다', 애스턴 마틴 중국서 은퇴하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517524)
 #### [미국 에너지 장관은이란 전쟁이 몇 주 안에 끝나고 석유 공급이 반등 할 것으로보고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517523)
 #### [EU 장관들, 호르무즈 해협에 대한 해군 임무 확대 논의, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517522)
 #### [이스라엘, 레바논과의 가스 거래 취소 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517519)
@@ -65,16 +70,16 @@
 #### [이란 전쟁이 3주째 접어들면서 중동 증시-걸프 지역 증시가 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517471)
 #### [안토넬리, 중국에서 메르세데스 원투로 첫 F1 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517470)
 #### [이란, 민간인 지역에 대한 파업 조사를 도울 준비가되어 있다고 외무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517468)
+<head><meta charset="utf-8"><title>Vers : 20260315_1430 </title></head>
+<center>Vers : 20260315_1430 </center>
+<center>Vers : 20260315_2330 </center>
+<br><br><br>
 #### [젤렌스키, 우크라이나가 중동 드론 지원에 대한 대가로 돈과 기술을 원한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517469)
 #### [대진중공업, 비정상적인 주가 움직임에 대응하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517467)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002487.SZ/total>
 #### [힌달코, 이란 전쟁으로 압출 알루미늄 제품 생산 중단, 통지서 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517466)
 #### [모터사이클-MotoGP, 중동 분쟁으로 카타르 그랑프리 연기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517465)
 #### [메트로랜드, 2025년 순손실 10억~12억 위안으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517464)
-<head><meta charset="utf-8"><title>Vers : 20260315_1345 </title></head>
-<center>Vers : 20260315_1345 </center>
-<center>Vers : 20260315_2245 </center>
-<br><br><br>
 #### [제이드 버드 파이어, 자사주 매입 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517463)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002960.SZ/total>
 #### [MotoGP, 중동 분쟁으로 카타르 그랑프리 연기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517462)
@@ -135,16 +140,16 @@
 #### [드론 공격으로 이라크 아르빌의 정유소 운영 중단, 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517411)
 #### [FCC의 Carr, 이란 보도에 대한 트럼프 발언을 다시 올리면서 방송사들에게 경고하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517410)
 #### [델타항공, 3월 16일 월요일 악천후로 인한 항공편 지연 및 결항 가능성 안내](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517409)
+<head><meta charset="utf-8"><title>Vers : 20260315_1430 </title></head>
+<center>Vers : 20260315_1430 </center>
+<center>Vers : 20260315_2330 </center>
+<br><br><br>
 #### [퍼티타 엔터테인먼트, 시저스 엔터테인먼트 주당 32달러에 인수 논의 중- CNBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517406)
 #### [모터 레이싱-F1, 바레인과 사우디 아라비아에서 4월 레이스 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517408)
 #### [인디고, 중동 지역의 상황 변화로 인해 두바이에서 항공편 운항이 더욱 제한되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517403)
 #### [페르티타 엔터테인먼트, 65억 달러에 시저스 인수 협상 중, CNBC 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517405)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CZR.O/total>
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517407)
-<head><meta charset="utf-8"><title>Vers : 20260315_1345 </title></head>
-<center>Vers : 20260315_1345 </center>
-<center>Vers : 20260315_2245 </center>
-<br><br><br>
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517402)
 #### [페루에서 도로를 개간하던 중 산사태를 가까스로 피한 노동자?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517401)
 #### [이란, 미국의 카그섬 공격에 대해 지역 보복 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517404)
@@ -202,8 +207,3 @@
 #### [이라크, 지난주 총이란 가스 공급량이 6 백만에서 18 백만 입방 미터로 증가했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517351)
 #### [머스크, 테슬라의 초대형 AI 칩 팹 프로젝트가 7일 안에 시작될 예정이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517349)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
-#### [트럼프, '많은 국가'가 호르무즈 해협을 개방하기 위해 군함을 보낼 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517348)
-#### [철학자 유르겐 하버마스, 96 세로 사망, 출판사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517347)
-#### [트럼프, '많은 국가'가 호르무즈 해협을 개방하기 위해 군함을 보낼 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517346)
-#### [슈나이더, 기후 보호에 동참합니다: 슈나이더 일렉트릭, 2025년 기후 보호 솔루션 출시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517344)
-#### [엘론 머스크, 테라팹 프로젝트가 7일 안에 시작된다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517343)
