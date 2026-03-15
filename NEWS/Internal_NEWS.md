@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_1916 </title></head>
-<center>Vers : 20260315_1916 </center>
-<center>Vers : 20260316_0416 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_2030 </title></head>
+<center>Vers : 20260315_2030 </center>
+<center>Vers : 20260316_0530 </center>
 <br><br><br>
+#### [카니, 러시아가 북극에서 가장 큰 안보 위협이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517577)
+#### [마르세유 시장 선거 1 라운드에서 좌파, RN 후보가 사실상 동점, 출구 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517575)
+#### [RBA 인상이 예정된 가운데, 향후 움직임에 초점이 맞춰져 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517576)
+#### [영국 스타 머, 트럼프, 카니와 통화에서 호르무즈 해협 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517574)
+#### [이스라엘과 레바논이 곧 회담을 개최 할 것으로 예상된다고 이스라엘 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517573)
+#### [카자흐스탄, 국민 투표에서 새 헌법 승인, 출구 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517571)
+#### [인도 외무장관, 호르무즈 해협 개방을 위한 이란과의 회담 환영, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517572)
+#### [W/E 뉴스-이란의 카르그 섬 타격, 메타의 대대적인 정리해고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517570)
+#### [이란 미사일 파편이 이스라엘 주재 미국 영사관 건물 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517569)
+#### [카자흐스탄, 국민 투표에서 새 헌법 승인, 출구 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517568)
 #### [미국 항공사 CEO, 의회에 교착 상태 종식 및 공항 보안 요원 급여 지급 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517566)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
 #### [이스라엘과 레바논은 앞으로 며칠 안에 회담을 열 것으로 예상된다고 이스라엘 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517567)
@@ -54,14 +64,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
 #### [카츠타, 케냐 사파리 랠리에서 WRC 첫 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517520)
 #### [시프린, 슬라럼 우승으로 월드컵 종합 선두 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517516)
-#### [사우이드의 SIIG, 유니바이오와 바이오 단백질 생산 프로젝트 개발 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517518)
-#### [인도 선박이 UAE 푸자이라에서 터미널 공격 후 출항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517517)
-#### [분석-이란, 글로벌 에너지 시장 재개의 열쇠를 쥐고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517515)
-#### [이란 전쟁이 3주째 접어들면서 중동 증시-걸프 지역 증시가 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517514)
-#### [에티오피아의 테스페이, 마라톤 데뷔전에서 역대 두 번째로 빠른 기록 세우기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517513)
-#### [러시아 설치 관리, 러시아 군대가 슬로비안 스크에 더 가까워 졌다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517512)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517511)
-#### [교황 레오, 이란 전쟁의 '잔혹한 폭력'을 비난하며 휴전 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517510)
-#### [베르스타펜, 중국 GP 은퇴 후 F1 '농담'에 쾅!](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517509)
-#### [CMGE 기술 그룹, 2025년 15억 위안 이하의 순손실 기록 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517508)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0302.HK/total>
