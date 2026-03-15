@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_2132 </title></head>
-<center>Vers : 20260315_2132 </center>
-<center>Vers : 20260316_0632 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_2228 </title></head>
+<center>Vers : 20260315_2228 </center>
+<center>Vers : 20260316_0728 </center>
 <br><br><br>
+#### [중동 분쟁으로 수출 시설 위협으로 유가 2% 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517590)
+#### [호주 린나스, 미국 희토류 산화물 공급 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517588)
+#### [분석-혼다의 157억 달러 규모의 전기차 상각은 고통스럽지만 중국의 도전이 다가오고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517587)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7267.T/total>
+#### [일본, 미국이 미국산 구매를 말하면서 석유 재고 방출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517586)
+#### [퍼페추얼, 자산 관리 부문을 베인 캐피털에 3억 5천만 달러에 선불 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517589)
+#### [아스트라제네카, 임핀지, 유럽에서 조기 위암 및 위식도암 환자를 위한 최초이자 유일한 수술 전후 면역요법으로 승인 받았다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517585)
+#### [시라 리소스, 테슬라 오프테이크의 채무 불이행 치료 날짜 연장 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517584)
 #### [BUZZ-재생-EUR/USD 다이버전스, 스털링 압력, USD/JPY 도지 힌트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517583)
 #### [트럼프 행정부, 호르무즈 해협을 통과하는 선박 호위를위한 연합 발표, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517581)
 #### [AUD/USD는 장 초반 안정적이지만 위험 선호도는 여전히 낮습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517582)
@@ -56,10 +64,3 @@
 #### [이라크, 쿠르드 당국이 파이프라인을 통한 석유 공급을 거부한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517534)
 #### [이스라엘 이란 여객기 추락으로 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517532)
 #### [아시아 태평양 동맹국들이 도쿄 포럼에서 미국 기업들과 560억 달러 규모의 거래를 체결했다고 버검은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517531)
-#### [브라질 볼소나루, 염증 악화로 중환자실 입원 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517530)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517529)
-#### [이집트 외무 장관, 카타르 에미 르, 지역 긴장 완화, 전쟁 종식 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517528)
-#### [중동 위기가 스포츠 이벤트와 선수들에게 미친 영향](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517527)
-#### [틸의 비밀스러운 로마 회의가 교회의 관심을 끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517526)
-#### [러시아 크라 스노 다르 지역의 석유 시설 화재 진압, 관리들은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517525)
-#### [모터 레이싱?알론소 '손도 발도 못 느꼈다', 애스턴 마틴 중국서 은퇴하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517524)
