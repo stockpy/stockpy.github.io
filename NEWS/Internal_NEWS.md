@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_1700 </title></head>
-<center>Vers : 20260315_1700 </center>
-<center>Vers : 20260316_0200 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_1840 </title></head>
+<center>Vers : 20260315_1840 </center>
+<center>Vers : 20260316_0340 </center>
 <br><br><br>
+#### [미국 북서부 강 유량은 99 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517559)
+#### [독일, 호르무즈 해협에서 EU 작전 확대에 회의적인 입장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517558)
+#### [독점-이란은 아랍 걸프 관계에 대한 '심각한?검토 '를 원하며 사우디 석유 공격에서 역할을 부인합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517556)
+#### [미중 무역 협상이 하루 동안 마무리되고 월요일에 재개 될 것이라고 미국 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517557)
+#### [이스라엘 중부에서 이란의 미사일 공격으로 부상자 2명 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517554)
+#### [WHO, 레바논, 이라크, 시리아에 200 만 달러의 긴급 자금 지원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517555)
+#### [랠리-카츠타, 케냐 사파리 랠리에서 WRC 첫 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517553)
+#### [스위스 정부, UBS가 더 많은 자본을 보유하도록 강요 할 수있는 계획 제출, 보고서에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517551)
+#### [폭우 속에서 전쟁을 피해 도망친 레바논 난민들이 임시 대피소에 모여 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517552)
 #### [교황 레오, 이란 전쟁의 '잔혹한 폭력'을 비난하며 휴전 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517550)
 #### [안토넬리의 첫 F1 우승 후 메르세데스 볼프, 타이틀 논의는 너무 이르다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517549)
 #### [이란이 타격을 입은 시장에 긴급 비축유가 곧 제공 될 것이라고 IEA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517547)
@@ -56,13 +65,3 @@
 #### [이란 미사일 파편이 이스라엘 주재 미국 영사관 건물에 충돌, 이스라엘 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517503)
 #### [모터 레이싱-해밀턴이 포디움 가뭄을 끝내고 다시 우승에 가까워졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517501)
 #### [스미스 앤 네프, 최고 경영자의 최대 급여 패키지를 1,400만 파운드 이상으로 인상 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517500)
-#### [세 명의 이란 축구 선수가 호주로 떠나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517498)
-#### [헝가리의 불화 정당이 선거를 앞두고 주요 무력시위를 위해 모였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517496)
-#### [이스라엘 외무 장관, 레바논 회담, 요격기 부족 보도 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517499)
-#### [러시아는 북극에서 가장 큰 안보 위협이라고 캐나다의 카니는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517497)
-#### [핀란드, 자국 영토에 핵무기 보유를 추구하지 않는 총리, 총리 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517491)
-#### [시노펙 엔지니어링 그룹 2025년 순이익, 전년 대비 27.1% 감소 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517493)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2386.HK/total>
-#### [이란 전쟁이 확대되는 것으로 보이며 계획은 불분명 해 보인다고 노르웨이 총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517494)
-#### [힌달코, 이란 전쟁으로 압출 알루미늄 제품 생산 중단, 공지에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517490)
-#### [아다니 파워, 1,600MW 장기 전력 공급을 위해 MSEDCL로부터 LoA 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517492)
