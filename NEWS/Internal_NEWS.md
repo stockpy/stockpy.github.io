@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_0605 </title></head>
-<center>Vers : 20260315_0605 </center>
-<center>Vers : 20260315_1505 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_0712 </title></head>
+<center>Vers : 20260315_0712 </center>
+<center>Vers : 20260315_1612 </center>
 <br><br><br>
+#### [UAE 푸자이라에서 석유 적재 작업이 재개되었다고 업계 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517450)
+#### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517451)
+#### [아랍에미리트 푸자이라에서 석유 선적 작업이 재개되었다고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517449)
 #### [15 일 팜유 수출 43.5 % 증가 -ITS](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517447)
 #### [이란, 이스라엘에 대한 정보원 혐의로 20 명 체포, 타스님 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517448)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517446)
@@ -64,13 +67,13 @@
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517394)
 #### [UAE, 이란, 자국 영토에서 발사된 미국의 카그 섬 공격 주장 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517393)
 #### [러시아 방공망은 모스크바로 향하는 65 대의 드론을 격추했다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517391)
+<head><meta charset="utf-8"><title>Vers : 20260315_0712 </title></head>
+<center>Vers : 20260315_0712 </center>
+<center>Vers : 20260315_1612 </center>
+<br><br><br>
 #### [이스라엘의 요격 미사일이 극도로 부족하다고 Semafor가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517392)
 #### [케냐에서 혼란스러운 토요일을 보낸 후 첫 WRC 우승을 향해 달려가는 랠리-카츠타](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517389)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517390)
-<head><meta charset="utf-8"><title>Vers : 20260315_0605 </title></head>
-<center>Vers : 20260315_0605 </center>
-<center>Vers : 20260315_1505 </center>
-<br><br><br>
 #### [에어 인디아, UAE 공항 당국의 지시에 따라 2026년 3월 15일까지 에어 인디아 익스프레스, 임시 항공편 운항을 축소한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517388)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517387)
 #### [스위스, 이란 전쟁 관련 비행에 대한 미국의 두 건의 비행 요청 거부, 다른 세 건은 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517386)
@@ -130,6 +133,3 @@
 #### [그리스 유조선이 CPC 터미널 근처에서 미확인 물체에 부딪혀 경미한 피해를 입었다 고 운영자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517334)
 #### [미사일 공격 후 이라크 주재 미국 대사관에서 화재 및 피해 목격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517333)
 #### [바그다드에서 파업으로 이라크 PMF 전투기 3 명 사망, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517332)
-#### [대출 기관이 템즈 워터 구출을 위해 44 억 달러 이상의 자본 투입을 제안한다고 스카이 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517331)
-#### [인도는 배관 가스 연결이있는 가구의 LPG 접근을 금지한다고 석유부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517330)
-#### [대출 기관, 병든 템즈 강 육상 구조에 33 억 5 천만 Stg 주식 주입 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517329)
