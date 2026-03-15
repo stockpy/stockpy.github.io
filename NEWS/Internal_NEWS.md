@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_2056 </title></head>
-<center>Vers : 20260315_2056 </center>
-<center>Vers : 20260316_0556 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_2132 </title></head>
+<center>Vers : 20260315_2132 </center>
+<center>Vers : 20260316_0632 </center>
 <br><br><br>
+#### [BUZZ-재생-EUR/USD 다이버전스, 스털링 압력, USD/JPY 도지 힌트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517583)
+#### [트럼프 행정부, 호르무즈 해협을 통과하는 선박 호위를위한 연합 발표, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517581)
+#### [AUD/USD는 장 초반 안정적이지만 위험 선호도는 여전히 낮습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517582)
 #### [한 주 앞으로-이란 전쟁과 주요 중앙은행 회의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517580)
 #### [트리톤 파트너스, 지연된 플래그십 펀드를 위해 55억 유로 모금- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517579)
 #### [사회당이 파리 시장 선거 1 라운드에서 1 위, 출구 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517578)
@@ -60,6 +63,3 @@
 #### [틸의 비밀스러운 로마 회의가 교회의 관심을 끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517526)
 #### [러시아 크라 스노 다르 지역의 석유 시설 화재 진압, 관리들은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517525)
 #### [모터 레이싱?알론소 '손도 발도 못 느꼈다', 애스턴 마틴 중국서 은퇴하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517524)
-#### [미국 에너지 장관은이란 전쟁이 몇 주 안에 끝나고 석유 공급이 반등 할 것으로보고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517523)
-#### [EU 장관들, 호르무즈 해협에 대한 해군 임무 확대 논의, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517522)
-#### [이스라엘, 레바논과의 가스 거래 취소 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2517519)
