@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260315_1430 </title></head>
-<center>Vers : 20260315_1430 </center>
-<center>Vers : 20260315_2330 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_1458 </title></head>
+<center>Vers : 20260315_1458 </center>
+<center>Vers : 20260315_2358 </center>
 <br><br><br>
 #### [장롱 속 '금 50돈' 팔려고 내놨다가…'몰랐던 사실'](https://m.stock.naver.com/news/ranknews/view/015/0005262434)
 #### ["시총 최소 1조 돼야 정상" 사 놓으면 크게 오른다?...'이 주식' 뭐길래](https://m.stock.naver.com/news/ranknews/view/008/0005330087)
@@ -62,9 +62,9 @@
 #### [네이버페이 "기름값 부담 덜어드려요"…주유소 결제 최대 5천원 적립](https://m.stock.naver.com/news/ranknews/view/008/0005330031)
 #### [스테이블코인, 51%의 주도권인가 100%의 신뢰인가 [스페셜리스트뷰]](https://m.stock.naver.com/news/ranknews/view/243/0000094520)
 #### [[공모주달력]케이뱅크, 주가하락 속 보호예수 풀린다](https://m.stock.naver.com/news/ranknews/view/648/0000045281)
-<head><meta charset="utf-8"><title>Vers : 20260315_1430 </title></head>
-<center>Vers : 20260315_1430 </center>
-<center>Vers : 20260315_2330 </center>
+<head><meta charset="utf-8"><title>Vers : 20260315_1458 </title></head>
+<center>Vers : 20260315_1458 </center>
+<center>Vers : 20260315_2358 </center>
 <br><br><br>
 #### [[단독] DN솔루션즈·SK에코플랜트 등 IPO 비상…자금조달 플랜B 찾아야 [시그널]](https://m.stock.naver.com/news/ranknews/view/011/0004599431)
 #### [국내 우주 핵심기업 분산투자... 정책적 지원 등 성장성 가속화[이런 펀드 어때요?]](https://m.stock.naver.com/news/ranknews/view/014/0005491608)
