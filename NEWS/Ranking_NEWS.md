@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260316_2039 </title></head>
-<center>Vers : 20260316_2039 </center>
-<center>Vers : 20260317_0539 </center>
+<head><meta charset="utf-8"><title>Vers : 20260316_2122 </title></head>
+<center>Vers : 20260316_2122 </center>
+<center>Vers : 20260317_0622 </center>
 <br><br><br>
 #### [다보링크, 주총서 로보틱스·드론 사업목적 추가…통신 인프라 시너지 노린다](https://m.stock.naver.com/news/ranknews/view/008/0005330663)
 #### [“주식 가치 오를 일만 남았다”...상장사 자사주 소각 올해만 벌써 46조](https://m.stock.naver.com/news/ranknews/view/009/0005651142)
