@@ -1,7 +1,32 @@
-<head><meta charset="utf-8"><title>Vers : 20260316_2234 </title></head>
-<center>Vers : 20260316_2234 </center>
-<center>Vers : 20260317_0734 </center>
+<head><meta charset="utf-8"><title>Vers : 20260316_2259 </title></head>
+<center>Vers : 20260316_2259 </center>
+<center>Vers : 20260317_0759 </center>
 <br><br><br>
+#### [제넨텍 CEO, 견딜 수 있고 저렴한 비만 치료제를 목표로 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519450)
+#### [딜리버리 히어로, 시장 혼란 속 대출 규모 축소 및 가격 인상 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519453)
+#### [텔레헬스 회사, 에픽 소송에서 변호사에게 의료 기록 제공 인정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519449)
+#### [Nvidia AWS와 엔비디아, 스펙트럼 네트워킹 및 기타 인프라 분야에서도 협력 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519452)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [유가가 완만하게 하락하면서 BUZZ-NZD/USD가 반등합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519448)
+#### [다저스 투자 펀드, 브라질 하이페라 지분 4.96%로 감축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519456)
+#### [엔비디아와 우버, 2027년 상반기 로스앤젤레스와 샌프란시스코를 시작으로 전적으로 엔비디아 소프트웨어 기반 자율주행 차량으로 구성된 글로벌 차량 출시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519451)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [원격 의료 회사, 에픽 소송에서 변호사에게 의료 기록 제공 인정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519447)
+#### [트럼프 행정부, 쿠바 대통령에게 가야한다고 말했다, NYT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519455)
+#### [스킬드 AI, ABB 로보틱스 및 유니버설 로봇과 협력하여 산업 및 애플리케이션 전반에 걸쳐 옴니 바디 로봇 브레인 배포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519454)
+#### [캉고, 4분기 EPS $-0.82 게시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519445)
+#### [영국 리브스, 양자 조달을 위해 10억 파운드 기부 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519441)
+#### [중국 수요 우려로 CIF/FOB 걸프 곡물-대두 바지선 입찰가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519437)
+#### [루비오, 한국 외교 장관 조, 호르무즈 해협이 세계 경제의 핵심이라는 데 동의, 서울은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519444)
+#### [러시아 방공망이 모스크바로 향하는 67 대의 우크라이나 드론을 격추했다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519440)
+#### [트럼프 제안으로 50 억 달러의 미국 EV 충전기 기금을 사용할 수 없게 될 것이라고 민주당은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519436)
+#### [교모세포종 암 치료를 위한 새로운 마이크로RNA 약물을 발견한 브리프 패턴 컴퓨터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519443)
+#### [Playboy, 4분기 매출 성장 후 급성장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519446)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLBY.O/total>
+#### [브라질의 큐리: CEO 파비오 큐리, 회장직 맡기 위해 회장직에서 물러나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519439)
+#### [백신 정책을 차단하는 미국 법원 명령이 공중 보건을 위한 승리라고 전문가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519442)
+#### [삼성전자가 4나노미터 공정으로 만든 엔비디아의 새로운 추론 칩을 선보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519438)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
 #### [트럼프, '쿠바를 점령하는 영광을 누릴 것'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519435)
 #### [트럼프, 이란 전쟁으로 중국 방문을 연기하고 싶다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519430)
 #### [밴스, 이란 전쟁에 대해 트럼프 대통령을 신뢰한다고 말하며 이견 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519429)
@@ -55,33 +80,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OCCI.O/total>
 #### [씨아 인더스트리즈(BNC), 2026 회계연도 3분기 실적 발표 및 CEO 교체 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519375)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BNC.O/total>
-#### [사이퍼펑크, 2025년 전체 재무 결과 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519381)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CYPH.O/total>
-#### [브런즈윅 탐사, 총 4,195,000 달러의 총 수익금으로 비중개 사모 발행의 첫 번째 트랜치 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519403)
-#### [브라질 아제베도 & 트라바소스: 주주들이 이고르 클레멘테를 회장으로 승인하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519374)
-#### [코어브릿지 파이낸셜, 기무라 미노루 후임으로 일본 지명자 임명 예정 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519380)
-#### [뉴에라 에너지 & 디지털, 최고재무책임자로 테드 워너 임명 발표 및 고용유발상 수여 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519393)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NUAI.O/total>
-#### [플래닛, 엔비디아와 함께 세계 최초의 행성 지능을 위한 GPU 네이티브 AI 엔진 구축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519373)
-#### [엔비디아 CEO, 2027년까지 1조 달러의 AI 칩 매출 기회 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519379)
-#### [월트 디즈니 컴퍼니, 디즈니 엔터테인먼트 부문 확장을 위한 리더십 팀 구성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519392)
-#### [5N Plus Inc. 이사회에 예정된 변경 사항 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519409)
-#### [Nvidia와 글로벌 로보틱스 리더, 실제 세계에 물리적 AI를 도입하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519378)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [노반타, 엔비디아 헤일로 AI 시스템 검사 연구소 합류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519391)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NOVT.O/total>
-#### [엔비디아, T-Mobile 및 파트너사, AI-Ran-레디 인프라에 물리적 AI 애플리케이션 통합](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519408)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [엔비디아, 모션을 통한 레벨 2+ 자율성 및 레벨 4 로봇택시 혁신을 위한 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519394)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [SK하이닉스, 엔비디아 GTC 2026에서 인공지능 메모리 리더십을 선보이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519390)
-#### [엔비디아, 로봇 공학, 비전 AI 에이전트 및 자율주행차 개발 가속화를 위한 개방형 물리적 AI 데이터 팩토리 청사진 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519407)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [엔비디아, AI 공장에 널리 채택된 추론 운영 체제인 Dynamo의 생산 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519387)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [Lensar®, 알콘 리서치와의 합병 계약 종료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519398)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LNSR.O/total>
-#### [2026년 1월 30일 기준, 약 97,000명의 직원을 보유하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519406)
-#### [듀폰, 2026년 4월 1일 아클린에 아라미드 사업 매각 완료 예상 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519386)
-#### [델타, 엔비디아 GTC에서 빌딩 자동화 및 스마트 제조 솔루션의 실제 애플리케이션을 통해 엔비디아 옴니버스 기반 AI 디지털 트윈의 새로운 시대를 열다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519389)
-#### [케이먼의 연결 물 2025 매출, 서비스 부문 약세로 1% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2519377)

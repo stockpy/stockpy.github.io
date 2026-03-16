@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260316_2234 </title></head>
-<center>Vers : 20260316_2234 </center>
-<center>Vers : 20260317_0734 </center>
+<head><meta charset="utf-8"><title>Vers : 20260316_2259 </title></head>
+<center>Vers : 20260316_2259 </center>
+<center>Vers : 20260317_0759 </center>
 <br><br><br>
 #### ["10년간 1원도 잃은 적 없다" 비결은 달러?...'100억 자산가' 투자법[부꾸미]](https://m.stock.naver.com/news/ranknews/view/008/0005330721)
 #### ["호르무즈 개방되나"… WTI 5%↓나스닥 1.2%↑](https://m.stock.naver.com/news/ranknews/view/215/0001245413)
