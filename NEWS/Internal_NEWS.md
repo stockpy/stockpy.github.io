@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20260317_2233 </title></head>
-<center>Vers : 20260317_2233 </center>
-<center>Vers : 20260318_0733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260317_2303 </title></head>
+<center>Vers : 20260317_2303 </center>
+<center>Vers : 20260318_0803 </center>
 <br><br><br>
+#### [독점-엔비디아, 중국 시장에서 판매 할 수있는 Groq 칩 준비 중, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521256)
+#### [마르코 폴로 마린, 대만에서 15년 정부 용선 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521257)
+#### [미국 우편 서비스는 빠르면 10월부터 자금이 부족할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521251)
+#### [엘살바도르, 종신형을 허용하도록 헌법을 개정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521254)
+#### [캐나다의 알보페트로 에너지 4분기 순이익이 두 배 이상 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521253)
+#### [테코젠 4분기 매출 감소, 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521255)
+#### [보험사 푸르덴셜, 연간 신규 비즈니스 수익 12% 증가 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521252)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2378.HK/total>
+#### [그란 티에라 에너지, 콜롬비아 유전에 약 9,200만 달러 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521244)
+#### [식료품 소매업체 Maison Solutions의 3분기 매출은 매장 폐쇄로 인해 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521250)
+#### [엘살바도르, 종신형을 허용하도록 헌법 개정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521240)
+#### [육류 포장 파업, 옥수수 가격 하락에 대한 가축-CME 소 회사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521243)
+#### [알프레드 테오, 고 레지덴셜 오퍼레이팅과 기부 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521247)
+#### [테코젠 4분기 순이익 미화 -399만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521242)
+#### [피닉스 에너지, 4분기 및 2025년 전체 재무 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521246)
+#### [보험사 푸르덴셜, 연간 신규 비즈니스 수익 12% 증가 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521249)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2378.HK/total>
+#### [Flowserve Corp에 잘못 태그된 경고 철회됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521241)
+#### [트레이더들이 연준에 집중하면서 월가가 상승세로 마감하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521245)
+#### [메종 솔루션 3분기 매출 미화 2950만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521248)
 #### [호주 우드사이드, 새 CEO로 리즈 웨스트콧 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521236)
 #### [애플의 가정용 하드웨어 책임자 브라이언 린치, 스마트 반지 제조업체 오우라로 떠나다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521235)
 #### [아마존은 우체국을 통해 보내는 패키지를 대폭 삭감 할 계획이라고 WSJ은 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521239)
@@ -53,22 +73,3 @@
 #### [무디스, 지역 분쟁 관련 석유 생산량 감소로 이라크 신용등급을 '부정적'으로 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521209)
 #### [스타 에퀴티 홀딩스, 2025년 4분기 실적 보고 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521201)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/STRR.O/total>
-#### [텔레플렉스의 급성 치료 및 비뇨기과 구매자가 미국 FTC로부터 추가 정보 및 문서 자료 요청을 받았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521205)
-#### [FERC, PSE&G 고객에게 전송 비용을 할당하는 정산 제안 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521208)
-#### [애터리언, 2026년 3월 13일 신용 계약에 대한 수정 5호 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521200)
-#### [콜게이트 팜올리브, 러시아와 벨라루스가 아시아 태평양 운영 부문에서보고 될 것이라고 밝혔다 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521194)
-#### [쿠첸 3분기 상품 및 서비스 매출 5,800백만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521187)
-#### [쿠쉬타드 3분기 조정 순이익 7억5100만 달러 대 IBES 추정치 7억6460만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521180)
-#### [요르단, 선택적 원산지 밀 구매, 한국, 대두 구매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521193)
-#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521178)
-#### [DTE 에너지, 구글과의 공급 및 용량 계약 승인 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521179)
-#### [브라질의 누뱅크, 멕시코의 옥소 매장에서 현금 인출 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521192)
-#### [이란과의 전쟁에 배치 된 미국 항공 모함 포드, 화재 후 일시적으로 항구로 이동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521177)
-#### [오일 가격이 다시 100달러를 넘어섰는데... 그래서?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521190)
-#### [룰루레몬 연간 매출 후 하락, 이익 전망치 예상치 밑돌아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521191)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LULU.O/total>
-#### [이란, 알리 라리 자니 보안 책임자 살해 확인,이란 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521176)
-#### [미국 증권 규제 당국이 오랫동안 기다려온 암호화폐 지침을 발표합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521189)
-#### [소련에서 그루지야 교회를 이끈 총대주교 일리아 2세, 향년 93세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521184)
-#### [러시아 로사톰, 이란 부셰르 원자력 발전소 타격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521186)
-#### [API는 미국 원유 재고가 주간 상승하고 연료 재고가 감소했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2521188)

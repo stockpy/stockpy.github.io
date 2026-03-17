@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260317_2233 </title></head>
-<center>Vers : 20260317_2233 </center>
-<center>Vers : 20260318_0733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260317_2303 </title></head>
+<center>Vers : 20260317_2303 </center>
+<center>Vers : 20260318_0803 </center>
 <br><br><br>
 #### [“지금 안 사면 평생 후회?”…전쟁 쇼크에 폭락한 ‘이 종목’ 저가매수 기회라는데](https://m.stock.naver.com/news/ranknews/view/011/0004600210)
 #### [[단독] 미래에셋 ‘미친 촉’ 이번에도?…피터 틸이 찍은 이 은행에 투자했다](https://m.stock.naver.com/news/ranknews/view/009/0005651800)
