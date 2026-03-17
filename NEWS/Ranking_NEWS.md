@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260317_1717 </title></head>
-<center>Vers : 20260317_1717 </center>
-<center>Vers : 20260318_0217 </center>
+<head><meta charset="utf-8"><title>Vers : 20260317_1903 </title></head>
+<center>Vers : 20260317_1903 </center>
+<center>Vers : 20260318_0403 </center>
 <br><br><br>
 #### [부자아빠 “대폭락 후, 폭등한다”…추천한 자산 3가지는](https://m.stock.naver.com/news/ranknews/view/018/0006237376)
 #### [“지금 안 사면 평생 후회?”…전쟁 쇼크에 폭락한 ‘이 종목’ 저가매수 기회라는데](https://m.stock.naver.com/news/ranknews/view/011/0004600210)
