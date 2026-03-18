@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260318_2233 </title></head>
-<center>Vers : 20260318_2233 </center>
-<center>Vers : 20260319_0733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260318_2300 </title></head>
+<center>Vers : 20260318_2300 </center>
+<center>Vers : 20260319_0800 </center>
 <br><br><br>
 #### [“다리 하나 골절돼도 200~300만원”…수술비 500만원 펫보험 나왔다](https://m.stock.naver.com/news/ranknews/view/009/0005652437)
 #### ['부업 504개' 몸 갈아 넣던 부부, 돈 벌게 해준 건...20억 자산가 된 비결](https://m.stock.naver.com/news/ranknews/view/008/0005332007)

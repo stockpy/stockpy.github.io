@@ -1,7 +1,31 @@
-<head><meta charset="utf-8"><title>Vers : 20260318_2233 </title></head>
-<center>Vers : 20260318_2233 </center>
-<center>Vers : 20260319_0733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260318_2300 </title></head>
+<center>Vers : 20260318_2300 </center>
+<center>Vers : 20260319_0800 </center>
 <br><br><br>
+#### [미네르바 4분기 순이익 8,500만 헤알](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523021)
+#### [찰스 국왕, 나이지리아의 티누부 국빈 방문을 환영하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523019)
+#### [몬로 에너지, 펜실베이니아 주 트레이너에있는 정유 공장의 주요 장치를 재가동한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523025)
+#### [S&P, 브라질 국가신용등급을 'B+'에서 'B'로 강등, 전망 '부정적'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523023)
+#### [브라질의 모티바, ViaQuatro가 12억 5천만 헤알의 자금을 조달했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523024)
+#### [캐나다의 Vitalhub 4분기 매출, 예상치를 상회하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523020)
+#### [파월은 후임이 확정 될 때까지 연준 총재로 남을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523022)
+#### [연준이 금리를 동결하자 월가는 급락세로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523012)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LULU.O/total>
+#### [Five 연간 매출은 예상치를 밑돌고 이익 전망은 예상치를 웃돌았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523006)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FIVE.O/total>
+#### [미국 규제 당국, 유니온 퍼시픽과 노퍽 서던에 합병을 위한 추가 정보 제출 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523008)
+#### [오를라 마이닝, 멕시코에서 사업 확장 허가를 받아 카미노 로호에 대한 회사의 장기적 약속을 지원하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523011)
+#### [보험사 AIA 그룹, 연간 신규 사업 가치 15% 증가, 17억 달러 규모의 자사주 매입 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523018)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1299.HK/total>
+#### [파월, 관세로 인플레이션 상승 유지, 연준이 에너지 가격을 면밀히 주시하고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523007)
+#### [브라질 페트로레콘카보, 2025년 8010만 배럴의 석유 매장량 전망 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523010)
+#### [AIA 그룹, 6,234백만 달러의 회계연도 순이익 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523015)
+#### [브라질의 MBRF, 2050년 만기 BRF 선순위 채권 8070만 달러 재매입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523009)
+#### [AIA 그룹, 17억 달러 규모의 자사주 매입 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523017)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1299.HK/total>
+#### [캐나다의 캐비 에너지 4분기 순영업 이익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523014)
+#### [황, 황산 원가 상승으로 이타포스 4분기 수익 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523013)
+#### [미사일 요격 이후 UAE의 합산 가스 시설 운영 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523016)
 #### [캐나다 페트러스 리소스의 4분기 자금 흐름은 생산량 증가로 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2523000)
 #### [보험사 AIA 그룹, 연간 신규 비즈니스 가치 15% 증가 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522998)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1299.HK/total>
@@ -46,26 +70,3 @@
 #### [뉴테코네, 2026년 3월 13일 증권 유통 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522973)
 #### [정책 회의 후 브라질 중앙은행의 성명서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522970)
 #### [바이오덱사 파마슈티컬스, 미국 예탁금 비율 변경 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522960)
-#### [독립 은행 코퍼레이션과 HCB 파이낸셜 코퍼레이션, 최종 합병 계약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522972)
-#### [마커 테라퓨틱스 회계연도 기본 주당순이익 -0.79달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522969)
-#### [트럼프, 이스라엘이 사우스 파스를 공격 한 후이란 에너지 시설에 대한 추가 공격에 반대, WSJ 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522966)
-#### [컨스텔레이션, FERC의 일부로 PJM 발전 자산을 LS파워에 매각하는 계약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522971)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CEG.O/total>
-#### [탯 테크놀로지스, 2025년 4분기 실적 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522968)
-#### [세라 프로그노스틱스, 윌리엄 블레어 앤 컴퍼니와 시판 판매 계약 체결-증권거래위원회 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522965)
-#### [캐나다 오토캐나다의 4분기 매출 12% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522950)
-#### [3억 달러의 기간 대출을 제공하는 BRIEF-FTI 컨설팅 증분 수정안 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522959)
-#### [레이크 쇼어 뱅코프, 2026년 3월 17일 스틸웰 그룹과 거래 정지 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522952)
-#### [액텔리스 네트웍스 2025 매출 감소, 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522949)
-#### [장비공유, 4분기 및 2025년 전체 재무 결과 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522957)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EQPT.O/total>
-#### [로건 에너지, 2025년 재무 결과 발표 및 운영 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522951)
-#### [코티, 5명의 신규 사외이사를 선임하며 이사회를 개편하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522956)
-#### [미국 육상운송위원회, 유니온 퍼시픽, 노퍽 서던에 합병을 위한 추가 정보 제출 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522948)
-#### [듀폰, 주식 역분할 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522946)
-#### [데이터 센터, AI 추론 및 클라우드 컴퓨팅 시장의 비즈니스 성장에 대한 업데이트를 제공하는 BRIEF-NN](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522947)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NNBR.O/total>
-#### [브라이트스파이어 캐피탈, 2026년 3월 12일에 마스터 환매 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522955)
-#### [가디언 약국 서비스, A급 보통주에 대한 인수 공모 개시 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522945)
-#### [힐튼 월드와이드 홀딩스, 신용 계약에 대한 수정 제12호 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522958)
-#### [팀켄, 비주르 델리몬 인수로 자동 윤활 시스템 역량 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2522954)
