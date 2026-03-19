@@ -1,7 +1,32 @@
-<head><meta charset="utf-8"><title>Vers : 20260319_2258 </title></head>
-<center>Vers : 20260319_2258 </center>
-<center>Vers : 20260320_0758 </center>
+<head><meta charset="utf-8"><title>Vers : 20260319_2338 </title></head>
+<center>Vers : 20260319_2338 </center>
+<center>Vers : 20260320_0838 </center>
 <br><br><br>
+#### [셀렉티스 4분기 영업 이익 미화 -173만5200달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524879)
+#### [유니레버, 맥코믹과 식품 사업 합병 논의 중, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524888)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KHC.O/total>
+#### [FCC, 넥스스타 및 테그나 TV 방송국 합병 승인?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524886)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NXST.O/total>
+#### [슈퍼 마이크로, AI 기술을 중국으로 빼돌리려 한 혐의로 미국 기소 후 직원 휴직 조치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524883)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMCI.O/total>
+#### [EU, 우크라이나에 약속 된 대출을받을 방법을 찾으라고 요청, Merz는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524887)
+#### [미국 돼지 / 돼지 보고서, 분석가들은 약간 더 큰 무리를 보여줄 것이라고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524885)
+#### [FCC, 넥스스타와 테그나 TV 방송국 합병 승인?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524882)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NXST.O/total>
+#### [인프라스트럭처 와이어리스 이탈리아어 스파, 팀과 패스트웹+보다폰 간의 새로운 JV 제안을 MSAS와 상충되는 것으로 간주한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524881)
+#### [트럭 운전사들은 브라질에서 파업을 거부한다고 운송 노동자 노조는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524884)
+#### [BUZZ-재생-심각한 호주 리스크, 탄력적 인 스털링, 참여하지 않은 USD / JPY 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524880)
+#### [넥스스타 미디어 그룹, FCC 및 법무부 승인 후 테그나 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524873)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NXST.O/total>
+#### [독일 세수는 2 월에 1.6 % 증가했다고 재무부는 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524878)
+#### [중동 위기가 아시아의 수익 호황을 시험대에 올립니다: 레이차우두리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524875)
+#### [유니레버, 식품 사업 분리 및 맥코믹과의 합병 논의 중, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524872)
+#### [에너지 요금을 억제하기 위한 EU의 옵션에는 어떤 것이 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524877)
+#### [전직 FBI 요원, 트럼프 선거 음모 사건으로 해고당했다며 파텔 고소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524874)
+#### [미국 법무부가 승인한 넥스스타의 35억 달러 규모의 테그나 거래, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524871)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NXST.O/total>
+#### [사용자 경험을 단순화하기 위한 데스크톱 '슈퍼앱', OpenAI 계획, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524876)
+#### [유니레버, 식품 사업 분리 및 맥코믹과 합병 논의 중 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524870)
 #### [옥수수 선물 상승, 박스형 쇠고기 하락으로 가축-CME 가축 선물 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524868)
 #### [OpenAI, 사용자 경험 재조정 및 간소화를 위한 데스크톱 '슈퍼앱' 출시 계획 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524867)
 #### [미국, AI 기술을 중국으로 빼돌리려 한 혐의로 3인 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524869)
@@ -47,23 +72,3 @@
 #### [일렉트로코어, 댄 골드버거가 2026년 4월 1일부로 CEO직에서 은퇴한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524828)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ECOR.O/total>
 #### [미국산 오일 및 지방 - 3월 19일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524826)
-#### [필립스 66 보거, 텍사스주 정유 공장, 배출량 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524832)
-#### [아르헨티나의 1월 광업 수출이 8억 1,200만 달러로 82% 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524827)
-#### [FBI 국장 파텔의 여자 친구를 협박한 혐의로 기소 된 매사추세츠 남성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524825)
-#### [Planned Parenthood, DEI 교육, 인종 '친화성' 그룹에 대한 EEOC 조사 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524835)
-#### [엔비디아, 클라우드 거래로 2027 년 말까지 아마존에 1 백만 개의 칩 판매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524824)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [미국의 강력한 수요에 힘입어 캐나다의 Hammond Power Solutions 4분기 매출이 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524823)
-#### [EU 지도자들, 이란 전쟁과 관련된 에너지 가격 급등에 대해 브뤼셀에 도움 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524814)
-#### [산탄데르 브라질, B3의 핀켈슈타인을 CEO로 영입, 오 글로보 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524802)
-#### [OSCE 국가들이 5년 만에 첫 예산안 합의, 미국이 요구한 예산 삭감 단행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524822)
-#### [Kalshi, 최근 펀딩 라운드에서 220억 달러 가치 평가, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524813)
-#### [미시간 주, 워시 테노 카운티에서 홍역 발생 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524799)
-#### [이란 전쟁으로 중동 공급이 위축되면서 석유, 연료 화물 가격이 사상 최고치를 경신했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524821)
-#### [이란 위기로 WTI/브렌트유 스프레드가 확대되면서 미국 서부 텍사스산 원유가 수년 만에 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524812)
-#### [R&D 비용 증가로 2025년 엘레돈 파마슈티컬스 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524798)
-#### [트럼프, 일본이 이란에 대해 '정말 한 발짝 더 나아가고 있다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524820)
-#### [해몬드 전력 솔루션 Q4 EPS CAD 1.28](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524811)
-#### [아발론 홀딩스 4분기 매출 증가, 순손실 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524808)
-#### [러시아, 걸프에서 적대 행위 종식을 새롭게 촉구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524819)
-#### [암호화폐 거래소 OKX, 전 LSEG 유럽 거래 책임자 아담 우드를 고용해 유럽 사업을 이끌다 - 파이낸셜 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2524817)
