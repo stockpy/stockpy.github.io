@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260320_2258 </title></head>
-<center>Vers : 20260320_2258 </center>
-<center>Vers : 20260321_0758 </center>
+<head><meta charset="utf-8"><title>Vers : 20260320_2336 </title></head>
+<center>Vers : 20260320_2336 </center>
+<center>Vers : 20260321_0836 </center>
 <br><br><br>
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526405)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526404)
+#### [머스크, 440억 달러 인수에 대한 사기 소송에서 트위터 주주들에게 배상 책임 인정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526403)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
+#### [미국, 이란산 원유 임시 인도 및 판매 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526402)
+#### [콜롬비아, 5월까지 90억 달러 규모의 스위스 프랑 스왑 종료 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526399)
+#### [이라크, 호르무즈 중단으로 유전에서 불가항력 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526401)
+#### [이라크, 호르무즈 중단으로 유전에서 불가항력 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526398)
+#### [브라질의 Totvs는 RJ Participacoes 지분 매각이 종료되었다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526400)
+#### [멕시코의 Femsa, 핀 테크 사업부 Spin에서 해고 확인, 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526397)
 #### [이란 전쟁으로 인해 더 많은 LNG 선박 교통량이 유발됨에 따라 파나마 운하가 최고 용량에 도달했다고 수석은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526394)
 #### [CIA 벤처 암 IQT, AI 데이터 센터 개발업체 프로메테우스 하이퍼스케일에 투자 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526395)
 #### [블랙스톤의 대표 사모 신용 펀드, 3년 만에 첫 월간 손실 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526396)
@@ -59,13 +69,3 @@
 #### [3월 17일, 포티브 코퍼레이션, 뱅크 오브 아메리카와 세 번째 수정 및 재작성된 신용 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526361)
 #### [미국 현금 원유 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526347)
 #### [원자로 개발업체 X?energy가 미국 기업공개 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526342)
-#### [법원, 2026년 3월 19일 자넥스의 조직 개편 계획 확정 - SEC 파일링](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526345)
-#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526340)
-#### [클레이튼 아담스, 2026년 3월 16일자로 클린코어 솔루션의 CEO직 사임 - SEC 파일링](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526341)
-#### [원자로 개발업체 X?energy, 미국 기업공개 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526344)
-#### [브라질의 대두 수확량이 65 %를 넘어 섰지만 여전히 작년에 뒤쳐져 있다고 Patria AgroNegocios는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526339)
-#### [리버티 뮤추얼, 아이언쇼어 사장으로 존슨 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526337)
-#### [달러 강세, 평야 비로 CBOT 밀 하락 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526343)
-#### [아이포인트, 안과 약물에 대한 허위 주장으로 라이벌 오큘러 테라퓨틱스 고소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526338)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EYPT.O/total>
-#### [트럼프, 미국이 이란 전쟁에서 목표 달성에 가까워지고 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526336)
