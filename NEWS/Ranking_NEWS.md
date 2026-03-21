@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_2027 </title></head>
-<center>Vers : 20260321_2027 </center>
-<center>Vers : 20260322_0527 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_2052 </title></head>
+<center>Vers : 20260321_2052 </center>
+<center>Vers : 20260322_0552 </center>
 <br><br><br>
 #### ["샀다 팔았다 지쳤어요"…30대 직장인, 퇴직연금 베팅한 곳](https://m.stock.naver.com/news/ranknews/view/015/0005265195)
 #### [“금값의 배신, 전쟁 나길래 왕창 샀는데”…6년만의 최대 하락률 눈앞](https://m.stock.naver.com/news/ranknews/view/016/0002617220)

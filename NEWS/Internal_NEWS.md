@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_2027 </title></head>
-<center>Vers : 20260321_2027 </center>
-<center>Vers : 20260322_0527 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_2052 </title></head>
+<center>Vers : 20260321_2052 </center>
+<center>Vers : 20260322_0552 </center>
 <br><br><br>
+#### [사우디 아라비아, 이란 군 무관, 대사관 직원 4 명에게 퇴거 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526543)
+#### [트럼프, 자금 교착 상태 때문에 ICE 요원을 공항에 배치하겠다고 위협하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526542)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526541)
+#### [쿠바, 미국과의 '진지하고 책임감있는 대화'에 열려 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526540)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526539)
 #### [트럼프를 조사했지만 기소하지 않은 특별검사 로버트 뮬러, 81세로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526538)
 #### [브라질 CSN, 최대 14억 달러 대출 약정서 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526537)
@@ -59,7 +63,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526486)
 #### [이라크 국영 통신사는 사우스 파스 공격 후 이라크에이란 가스가 재개된다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526484)
-#### [OpenAI, 2026년 말까지 인력을 8,000명으로 두 배 가까이 늘릴 예정, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526482)
-#### [브라질에서 자동차를 랙시트에 장착한 자동차가 출시되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526481)
-#### [오픈AI, 라이벌 앤트로픽과의 격차 줄이기 위해 2026년 말까지 직원을 8,000명으로 늘릴 계획 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526483)
-#### [독점-바레인, 3 월 9 일 주거 지역 폭발에 패트리어트 미사일 시스템 관련](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526480)
