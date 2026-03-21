@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_1731 </title></head>
-<center>Vers : 20260321_1731 </center>
-<center>Vers : 20260322_0231 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1837 </title></head>
+<center>Vers : 20260321_1837 </center>
+<center>Vers : 20260322_0337 </center>
 <br><br><br>
+#### [디 지아난토니오, 혼란스러운 브라질 모토GP 예선 1위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526532)
+#### [미국 북서부 강 유량 최대 101% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526533)
+#### [Atco Power 앨버타 385MW 배틀 리버 5 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526531)
+#### [트럼프는 국토 안보부 자금 교착 상태가 계속되면 월요일에 ICE를 공항으로 보내겠다고 맹세합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526529)
+#### [트럼프를 조사했지만 기소하지 않은 특별 변호사 로버트 뮬러, 81 세로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526530)
+#### [EU 반인종주의 책임자는 유럽 전역에 깊이 박힌 차별을 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526528)
+#### [파월 연준 의장은 볼커의 '저항 의지'에 찬사를 보냅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526527)
+#### [OpenAI, 미국 내 모든 ChatGPT 무료 및 Go 사용자에게 광고 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526524)
+#### [인도, 3월 23일부터 한시적 국내선 항공료 상한제 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526525)
+#### [터키의 쿠르드족, 노루즈 축제에 참여하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526526)
 #### [MSNOW 보고서에 따르면 뮬러 전 FBI 국장이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526523)
 #### [쿠바, 미국과의 협상에서 대통령 임기 협상 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526522)
 #### [우크라이나 포격으로 러시아 벨고로드 국경 지역에서 4 명 사망, 주지사는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526521)
@@ -53,13 +63,3 @@
 #### [허리띠 졸라매기에 나선 공항, 무급 TSA 직원들에게 급식 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526476)
 #### [BNSF, 2026년 3월 20일 오후 0732시(CDT) 워싱턴주 이스턴 인근에서 선로 유실에 대한 예비 보고를 받았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526474)
 #### [이란, 나탄 즈 핵 사이트 공격에 대해 IAEA에 통보, 감시견은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526475)
-#### [이란 남성, 루마니아 여성이 영국 잠수함 기지 진입 시도로 기소됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526473)
-#### [폴 프로이트가 예술을 통해 전쟁과 정치를 이해하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526472)
-#### [그리스, 은행 위기 회복 후 대출 문제에 직면, ECB 블로그에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526471)
-#### [뉴멕시코의 조사 과정에서 엡스타인과 권력자들과의 관계에 대한 의문이 제기됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526470)
-#### [분석-이란 전쟁 3주째, 트럼프의 통제를 벗어난 이란 전쟁 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526469)
-#### [영국 총리 스타머, 이란 전쟁의 비용과 생활 영향에 대한 회의 소집, 타임즈에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526467)
-#### [Merz: 트럼프는 지금 "나에 대해 말하는 게 별로 좋지 않다"](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526468)
-#### [바그다드 이라크 정보 본부 근처에서 드론 공격으로 장교 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526466)
-#### [이스라엘 공격의 표적이 된 나탄 즈 농축 시설,이란의 타스 님은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526465)
-#### [강가 페이퍼스 인디아, 2026년 3월 20일부로 마니쉬 쿠마르를 회장으로 임명한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526464)
