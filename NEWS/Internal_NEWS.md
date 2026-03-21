@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_1453 </title></head>
-<center>Vers : 20260321_1453 </center>
-<center>Vers : 20260321_2353 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1522 </title></head>
+<center>Vers : 20260321_1522 </center>
+<center>Vers : 20260322_0022 </center>
 <br><br><br>
 #### [라인란트팔츠의 Wahl: CDU, 사민당에 대한 사민당 지지 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526497)
 #### [몬테 데이 파스키 CEO, 배제에 도전하는 새로운 위임장 입찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526498)
@@ -64,9 +64,9 @@
 #### [유엔 총장은 트럼프의 가자 지구 평화위원회와 협력하고 있다고 말했다, 폴리티코 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526442)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526441)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526440)
-<head><meta charset="utf-8"><title>Vers : 20260321_1454 </title></head>
-<center>Vers : 20260321_1454 </center>
-<center>Vers : 20260321_2354 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1522 </title></head>
+<center>Vers : 20260321_1522 </center>
+<center>Vers : 20260322_0022 </center>
 <br><br><br>
 #### [선 파마, 인도에서 Noveltreat 및 Sematrinity라는 브랜드 이름으로 세마글루타이드 주사제 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526439)
 #### [이란, 일본 선박의 호르무즈 통과 허용 준비, 교도통신 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526437)
@@ -137,9 +137,9 @@
 #### [S&P 다우존스 인덱스, 비타코코가 S&P 스몰캡 600에 합류한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526375)
 #### ['를 부여하다 '안정적' 전망으로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526378)
 #### [쿠바, 미국의 연료 반입 요청 거부, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526384)
-<head><meta charset="utf-8"><title>Vers : 20260321_1454 </title></head>
-<center>Vers : 20260321_1454 </center>
-<center>Vers : 20260321_2354 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1522 </title></head>
+<center>Vers : 20260321_1522 </center>
+<center>Vers : 20260322_0022 </center>
 <br><br><br>
 #### [일라이 릴리 CEO 데이비드 릭스의 2025년 임금 26% 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526387)
 #### [미국 평야 HRW 밀 기준은 대부분 안정적-혼합, 걸프 기준 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526377)
@@ -208,9 +208,9 @@
 #### [브라질의 Aegea, 잠재적 인 사전 IPO 라운드에 대한 투자자를 검토, Valor Economico 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526317)
 #### [연준 금리 인상 급등에 대한 시장의 베팅](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526319)
 #### [방탄소년단이 돌아왔다: 서울 도심이 K팝 슈퍼그룹의 수년 만의 첫 공연을 위해 폐쇄된다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526322)
-<head><meta charset="utf-8"><title>Vers : 20260321_1454 </title></head>
-<center>Vers : 20260321_1454 </center>
-<center>Vers : 20260321_2354 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1522 </title></head>
+<center>Vers : 20260321_1522 </center>
+<center>Vers : 20260322_0022 </center>
 <br><br><br>
 #### [지속되는 이란 전쟁, 에너지 가격 급등으로 흔들리는 증시를 흔들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526316)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
@@ -283,9 +283,9 @@
 #### [투기꾼들이 미국 원유 순매수를 늘리다-CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526264)
 #### [투기꾼들이 옥수수 순매수 포지션을 늘립니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526261)
 #### [펀드 매니저들은 최근 한 주 동안 S&P 500 선물 순매수 포지션을 줄였습니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526260)
-<head><meta charset="utf-8"><title>Vers : 20260321_1454 </title></head>
-<center>Vers : 20260321_1454 </center>
-<center>Vers : 20260321_2354 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1522 </title></head>
+<center>Vers : 20260321_1522 </center>
+<center>Vers : 20260322_0022 </center>
 <br><br><br>
 #### [이라크, 남부 수출 중단 후 바스라 석유 생산량을 330 만 배럴에서 90 만 배럴로 감축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526256)
 #### [브라질 도시, 디젤을 완전히 대체하는 것을 목표로 새로운 바이오 연료 시험 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526258)
@@ -352,9 +352,9 @@
 #### [미국 북서부 강 유량은 100 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526203)
 #### [넷플릭스, 워너 뮤직과 아티스트 다큐멘터리에 대한 다년 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526198)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260321_1454 </title></head>
-<center>Vers : 20260321_1454 </center>
-<center>Vers : 20260321_2354 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1522 </title></head>
+<center>Vers : 20260321_1522 </center>
+<center>Vers : 20260322_0022 </center>
 <br><br><br>
 #### [켄트 뇌수막염 발병으로 영국 백신 수요 급증, 정책 논쟁 촉발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526199)
 #### [원유 랠리가 멈추면서 옥수수와 밀이 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526202)
@@ -424,9 +424,9 @@
 #### [2022 년과는 다른 에너지 충격이지만 정책 입안자들은 안주하지 않아야한다고 ECB의 Makhlouf는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526145)
 #### [로슈, 임상 시험 좌절 후 근육 질환 치료제 개발 중단, 비만 연구 계속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526138)
 #### [엘리오, 2026년 7월 만기 3.750% 선순위 채권 조기 상환 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526143)
-<head><meta charset="utf-8"><title>Vers : 20260321_1454 </title></head>
-<center>Vers : 20260321_1454 </center>
-<center>Vers : 20260321_2354 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1522 </title></head>
+<center>Vers : 20260321_1522 </center>
+<center>Vers : 20260322_0022 </center>
 <br><br><br>
 #### [DXY가 99?100 범위로 하락하는 테스트 카운터? 추세 랠리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526136)
 #### [미국 천연가스 굴착장비 수가 131개로 2개 감소 - Baker Hughes](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526142)
