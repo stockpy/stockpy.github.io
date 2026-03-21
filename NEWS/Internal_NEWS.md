@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_1630 </title></head>
-<center>Vers : 20260321_1630 </center>
-<center>Vers : 20260322_0130 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1657 </title></head>
+<center>Vers : 20260321_1657 </center>
+<center>Vers : 20260322_0157 </center>
 <br><br><br>
+#### [영국은 키프로스에있는 기지가 공격 작전에 사용되지 않을 것이라고 키프로스 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526519)
+#### [독일의 최신 글리셔 리프트가 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526518)
+#### [리비아, 해안으로 표류하는 러시아 유조선에 대응하기 위해 회사 고용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526517)
 #### [OpenAI, 모든 무료 및 저비용 사용자에게 ChatGPT의 광고를 확대한다고 더 인포메이션이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526516)
 #### [앞으로 몇 주 안에 모든 무료 사용자에게 광고를 표시하는 BRIEF-ChatGPT - 정보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526513)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526514)
@@ -60,6 +63,3 @@
 #### [이란 전쟁의 에너지 충격으로 전 세계가 비용을 지불하고 소비를 줄입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526462)
 #### [토렌트 파마, 인도에서 일반 경구용 세마글루타이드 출시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526461)
 #### [맥심 파워 앨버타 144MW H.R. 밀너 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526460)
-#### [IMF, 스페인의 2026년과 2027년 성장률 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526459)
-#### [나폴리에 상륙한 아메리카 컵의 녹, 먼지, 슈퍼요트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526458)
-#### [러시아의 공격으로 우크라이나 체르니히프 지역 대부분 정전 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526457)
