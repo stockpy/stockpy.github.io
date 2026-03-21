@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_1903 </title></head>
-<center>Vers : 20260321_1903 </center>
-<center>Vers : 20260322_0403 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_2027 </title></head>
+<center>Vers : 20260321_2027 </center>
+<center>Vers : 20260322_0527 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526539)
+#### [트럼프를 조사했지만 기소하지 않은 특별검사 로버트 뮬러, 81세로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526538)
+#### [브라질 CSN, 최대 14억 달러 대출 약정서 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526537)
+#### [글로벌 에너지 공급을 보호하기 위해 행동할 준비가 된 G7, 호르무즈 해협 안보 지지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526535)
+#### [영국, 키프로스 기지는 영국-미국 자위권 협정에 포함되지 않을 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526536)
 #### [인도, 항공사 구제를 위해 국내선 항공료 상한제 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526534)
 #### [디 지아난토니오, 혼란스러운 브라질 모토GP 예선 1위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526532)
 #### [미국 북서부 강 유량 최대 101% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526533)
@@ -58,8 +63,3 @@
 #### [브라질에서 자동차를 랙시트에 장착한 자동차가 출시되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526481)
 #### [오픈AI, 라이벌 앤트로픽과의 격차 줄이기 위해 2026년 말까지 직원을 8,000명으로 늘릴 계획 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526483)
 #### [독점-바레인, 3 월 9 일 주거 지역 폭발에 패트리어트 미사일 시스템 관련](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526480)
-#### [코디악 AI, 2026년 말까지 완전 무인 장거리 화물 운송 서비스 개시 계획 - The Verge](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526479)
-#### [미국, 이란산 모피에 대한 제재 조치 30일 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526478)
-#### [이란의 페제쉬키안과 대화하는 모디 인도 총리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526477)
-#### [허리띠 졸라매기에 나선 공항, 무급 TSA 직원들에게 급식 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526476)
-#### [BNSF, 2026년 3월 20일 오후 0732시(CDT) 워싱턴주 이스턴 인근에서 선로 유실에 대한 예비 보고를 받았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526474)
