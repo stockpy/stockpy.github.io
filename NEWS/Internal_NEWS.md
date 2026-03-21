@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_2251 </title></head>
-<center>Vers : 20260321_2251 </center>
-<center>Vers : 20260322_0751 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_2314 </title></head>
+<center>Vers : 20260321_2314 </center>
+<center>Vers : 20260322_0814 </center>
 <br><br><br>
+#### [부분적인 정부 폐쇄가 시작된 이후 400 명 이상의 교통 안전국 직원이 그만 두었다고 NBC 뉴스는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526553)
+#### [우크라이나, 전쟁 해결을 위한 회담이 일요일에 미국에서 계속될 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526552)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526551)
 #### [마르케즈, 브라질 그랑프리 스프린트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526550)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526549)
@@ -60,5 +62,3 @@
 #### [Atco Power 앨버타 385MW 배틀 리버 5 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526496)
 #### [허리펑 중국 부총리, 글로벌 CEO들과 만나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526495)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526494)
-#### [이라크에 대한이란 가스, 사우스 파스 공격 후 재개, 이라크 국영 통신사는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526493)
-#### [피로바노, 월드컵 다운힐 3연패로 우승컵을 거머쥐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526492)

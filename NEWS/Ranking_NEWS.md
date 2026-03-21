@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_2251 </title></head>
-<center>Vers : 20260321_2251 </center>
-<center>Vers : 20260322_0751 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_2314 </title></head>
+<center>Vers : 20260321_2314 </center>
+<center>Vers : 20260322_0814 </center>
 <br><br><br>
 #### ["샀다 팔았다 지쳤어요"…30대 직장인, 퇴직연금 베팅한 곳](https://m.stock.naver.com/news/ranknews/view/015/0005265195)
 #### ["몰빵 투자했는데 어쩌죠"…대박 꿈꾸던 개미들 '화들짝'](https://m.stock.naver.com/news/ranknews/view/015/0005265210)
