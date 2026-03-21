@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_2052 </title></head>
-<center>Vers : 20260321_2052 </center>
-<center>Vers : 20260322_0552 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_2117 </title></head>
+<center>Vers : 20260321_2117 </center>
+<center>Vers : 20260322_0617 </center>
 <br><br><br>
+#### [사우디아라비아, 이란 군 무관, 대사관 직원 4명에 퇴거 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526546)
+#### [우크라이나, 일요일 미국에서 전쟁 해결을위한 회담 계속 될 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526545)
+#### [상업 단지 파업으로 실종된 이란 도살업자 가족, 희망에 매달리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526544)
 #### [사우디 아라비아, 이란 군 무관, 대사관 직원 4 명에게 퇴거 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526543)
 #### [트럼프, 자금 교착 상태 때문에 ICE 요원을 공항에 배치하겠다고 위협하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526542)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526541)
@@ -59,7 +62,3 @@
 #### [러시아, 이란 나탄즈 시설 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526490)
 #### [인도, 중동 가스 쇼크에도 불구하고 여름철 전력 수요 충족 자신감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526489)
 #### [글로벌 방위 산업, 시장 상황으로 인해 자금 조달 제안이 추후에 고려될 수 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526487)
-#### [OpenAI, 2026년 말까지 인력을 8,000명으로 두 배 가까이 늘릴 예정, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526485)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526486)
-#### [이라크 국영 통신사는 사우스 파스 공격 후 이라크에이란 가스가 재개된다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526484)
