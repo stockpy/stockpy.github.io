@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_2225 </title></head>
-<center>Vers : 20260321_2225 </center>
-<center>Vers : 20260322_0725 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_2251 </title></head>
+<center>Vers : 20260321_2251 </center>
+<center>Vers : 20260322_0751 </center>
 <br><br><br>
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526551)
+#### [마르케즈, 브라질 그랑프리 스프린트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526550)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526549)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526548)
 #### [우크라이나 관리들은 키예프 일부 지역에서 전력, 수도가 끊어 졌다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526547)
@@ -60,5 +62,3 @@
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526494)
 #### [이라크에 대한이란 가스, 사우스 파스 공격 후 재개, 이라크 국영 통신사는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526493)
 #### [피로바노, 월드컵 다운힐 3연패로 우승컵을 거머쥐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526492)
-#### [우크라이나 군이 러시아의 사라 토프 정유소를 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526491)
-#### [인도의 무슬림들이 이란 전쟁 시위와 검은 완장으로 이드(Eid)를 기념하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526488)
