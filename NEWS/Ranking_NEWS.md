@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_1027 </title></head>
-<center>Vers : 20260321_1027 </center>
-<center>Vers : 20260321_1927 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1054 </title></head>
+<center>Vers : 20260321_1054 </center>
+<center>Vers : 20260321_1954 </center>
 <br><br><br>
 #### [“금값의 배신, 전쟁 나길래 왕창 샀는데”…6년만의 최대 하락률 눈앞](https://m.stock.naver.com/news/ranknews/view/016/0002617220)
 #### ["여보, 대출 5억 껴서 신축 갈까? 아님 15년 '엔비디아'에 묻을까?" [영수증 브리핑]](https://m.stock.naver.com/news/ranknews/view/014/0005495082)
