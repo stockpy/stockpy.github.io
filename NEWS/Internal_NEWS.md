@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_1657 </title></head>
-<center>Vers : 20260321_1657 </center>
-<center>Vers : 20260322_0157 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1731 </title></head>
+<center>Vers : 20260321_1731 </center>
+<center>Vers : 20260322_0231 </center>
 <br><br><br>
+#### [MSNOW 보고서에 따르면 뮬러 전 FBI 국장이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526523)
+#### [쿠바, 미국과의 협상에서 대통령 임기 협상 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526522)
+#### [우크라이나 포격으로 러시아 벨고로드 국경 지역에서 4 명 사망, 주지사는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526521)
+#### [사이클링 포가카가 피콕을 제치고 밀라노-산 레모에서 첫 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526520)
 #### [영국은 키프로스에있는 기지가 공격 작전에 사용되지 않을 것이라고 키프로스 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526519)
 #### [독일의 최신 글리셔 리프트가 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526518)
 #### [리비아, 해안으로 표류하는 러시아 유조선에 대응하기 위해 회사 고용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526517)
@@ -59,7 +63,3 @@
 #### [바그다드 이라크 정보 본부 근처에서 드론 공격으로 장교 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526466)
 #### [이스라엘 공격의 표적이 된 나탄 즈 농축 시설,이란의 타스 님은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526465)
 #### [강가 페이퍼스 인디아, 2026년 3월 20일부로 마니쉬 쿠마르를 회장으로 임명한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526464)
-#### [정보, 훈련을 위해 나이지리아에 군대와 함께 배치 된 미국 드론](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526463)
-#### [이란 전쟁의 에너지 충격으로 전 세계가 비용을 지불하고 소비를 줄입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526462)
-#### [토렌트 파마, 인도에서 일반 경구용 세마글루타이드 출시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526461)
-#### [맥심 파워 앨버타 144MW H.R. 밀너 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526460)
