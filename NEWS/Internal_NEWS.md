@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_1837 </title></head>
-<center>Vers : 20260321_1837 </center>
-<center>Vers : 20260322_0337 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1903 </title></head>
+<center>Vers : 20260321_1903 </center>
+<center>Vers : 20260322_0403 </center>
 <br><br><br>
+#### [인도, 항공사 구제를 위해 국내선 항공료 상한제 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526534)
 #### [디 지아난토니오, 혼란스러운 브라질 모토GP 예선 1위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526532)
 #### [미국 북서부 강 유량 최대 101% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526533)
 #### [Atco Power 앨버타 385MW 배틀 리버 5 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526531)
@@ -62,4 +63,3 @@
 #### [이란의 페제쉬키안과 대화하는 모디 인도 총리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526477)
 #### [허리띠 졸라매기에 나선 공항, 무급 TSA 직원들에게 급식 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526476)
 #### [BNSF, 2026년 3월 20일 오후 0732시(CDT) 워싱턴주 이스턴 인근에서 선로 유실에 대한 예비 보고를 받았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526474)
-#### [이란, 나탄 즈 핵 사이트 공격에 대해 IAEA에 통보, 감시견은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526475)
