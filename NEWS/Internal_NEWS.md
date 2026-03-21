@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_2117 </title></head>
-<center>Vers : 20260321_2117 </center>
-<center>Vers : 20260322_0617 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_2225 </title></head>
+<center>Vers : 20260321_2225 </center>
+<center>Vers : 20260322_0725 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526549)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526548)
+#### [우크라이나 관리들은 키예프 일부 지역에서 전력, 수도가 끊어 졌다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526547)
 #### [사우디아라비아, 이란 군 무관, 대사관 직원 4명에 퇴거 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526546)
 #### [우크라이나, 일요일 미국에서 전쟁 해결을위한 회담 계속 될 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526545)
 #### [상업 단지 파업으로 실종된 이란 도살업자 가족, 희망에 매달리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526544)
@@ -59,6 +62,3 @@
 #### [피로바노, 월드컵 다운힐 3연패로 우승컵을 거머쥐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526492)
 #### [우크라이나 군이 러시아의 사라 토프 정유소를 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526491)
 #### [인도의 무슬림들이 이란 전쟁 시위와 검은 완장으로 이드(Eid)를 기념하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526488)
-#### [러시아, 이란 나탄즈 시설 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526490)
-#### [인도, 중동 가스 쇼크에도 불구하고 여름철 전력 수요 충족 자신감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526489)
-#### [글로벌 방위 산업, 시장 상황으로 인해 자금 조달 제안이 추후에 고려될 수 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526487)
