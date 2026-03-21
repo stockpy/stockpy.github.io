@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_1054 </title></head>
-<center>Vers : 20260321_1054 </center>
-<center>Vers : 20260321_1954 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1120 </title></head>
+<center>Vers : 20260321_1120 </center>
+<center>Vers : 20260321_2020 </center>
 <br><br><br>
+#### [허리띠 졸라매기에 나선 공항, 무급 TSA 직원들에게 급식 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526476)
 #### [BNSF, 2026년 3월 20일 오후 0732시(CDT) 워싱턴주 이스턴 인근에서 선로 유실에 대한 예비 보고를 받았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526474)
 #### [이란, 나탄 즈 핵 사이트 공격에 대해 IAEA에 통보, 감시견은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526475)
 #### [이란 남성, 루마니아 여성이 영국 잠수함 기지 진입 시도로 기소됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526473)
@@ -63,11 +64,11 @@
 #### [유나이티드 항공, 연료 가격 급등으로 정기 항공편의 5% 감축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526418)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
 #### [CME 소 선물, 소 사육 마릿수 기대감에 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526417)
-#### [미국, 해상 이란산 원유 판매에 대해 30일 제재 면제 조치 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526416)
-<head><meta charset="utf-8"><title>Vers : 20260321_1054 </title></head>
-<center>Vers : 20260321_1054 </center>
-<center>Vers : 20260321_1954 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1120 </title></head>
+<center>Vers : 20260321_1120 </center>
+<center>Vers : 20260321_2020 </center>
 <br><br><br>
+#### [미국, 해상 이란산 원유 판매에 대해 30일 제재 면제 조치 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526416)
 #### [블랙스톤의 대표 사모 신용 펀드, 3년 만에 첫 월간 손실 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526415)
 #### [독점-아마존, 파이어 폰 실패 이후 10년 만에 스마트폰 컴백 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526413)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
@@ -137,11 +138,11 @@
 #### [리젠엑스바이오, 2026년 3월 18일 글락소스미스클라인과 합의 및 출시 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526369)
 #### [스프루스 바이오사이언스, 3월 16일 카켄 제약과 계약 종료 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526373)
 #### [S&P 아일랜드, 경제 및 재정 전망 '안정적'으로 신용등급 'Aa+'로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526350)
-#### [HM 익스플로레이션, 150만 달러 규모의 라이프 플로우 스루 오퍼링 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526356)
-<head><meta charset="utf-8"><title>Vers : 20260321_1054 </title></head>
-<center>Vers : 20260321_1054 </center>
-<center>Vers : 20260321_1954 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1120 </title></head>
+<center>Vers : 20260321_1120 </center>
+<center>Vers : 20260321_2020 </center>
 <br><br><br>
+#### [HM 익스플로레이션, 150만 달러 규모의 라이프 플로우 스루 오퍼링 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526356)
 #### [2026년 3월 16일, 베이커 틸리를 독립 회계법인으로 해임하는 요약-세즐, SEC 신고서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526372)
 #### [펜타이어, 데이비드 A. 존스 이사회 회장 퇴임 및 T. 마이클 글렌 신임 회장 선임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526349)
 #### [굿이어 타이어 및 고무, 비용 구조 개선을 위한 EMEA 지역 합리화 계획 승인 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526355)
@@ -214,11 +215,11 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMCI.O/total>
 #### [3월 20일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526296)
 #### [필립스 66, 텍사스 주 보거 정유공장 JV에서 발생한 사고로 인한 배출량 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526301)
-#### [미국과 동맹국들이 아시아의 화점에 더 가까운 곳에 미사일과 드론을 배치하기 위해 움직입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526291)
-<head><meta charset="utf-8"><title>Vers : 20260321_1054 </title></head>
-<center>Vers : 20260321_1054 </center>
-<center>Vers : 20260321_1954 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1120 </title></head>
+<center>Vers : 20260321_1120 </center>
+<center>Vers : 20260321_2020 </center>
 <br><br><br>
+#### [미국과 동맹국들이 아시아의 화점에 더 가까운 곳에 미사일과 드론을 배치하기 위해 움직입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526291)
 #### [러시아와 연계된 사이버 공격자들이 메시징 앱 사용자를 노린다고 FBI가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526295)
 #### [북미, 3월 23일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526300)
 #### [달러 상승으로 곡물, 유지종자 가격 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526294)
@@ -284,11 +285,11 @@
 #### [미국산 오일 및 지방 - 3월 20일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526242)
 #### [대만의 린, 세계 복싱 대회 여자부 출전 자격 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526245)
 #### [전쟁으로 인한 인플레이션 우려로 글로벌 채권 하락세가 심화되고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526237)
-#### [오렌지, 회장에 프레데릭 산체스 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526235)
-<head><meta charset="utf-8"><title>Vers : 20260321_1054 </title></head>
-<center>Vers : 20260321_1054 </center>
-<center>Vers : 20260321_1954 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1120 </title></head>
+<center>Vers : 20260321_1120 </center>
+<center>Vers : 20260321_2020 </center>
 <br><br><br>
+#### [오렌지, 회장에 프레데릭 산체스 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526235)
 #### [슈퍼 마이크로 컴퓨터 타자 주식의 최근 '나쁜 모습', 투자자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526233)
 #### [멕시코의 페멕스, 유가 상승으로 수출에 대해 '관망'접근 방식을 취하고 있다고 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526236)
 #### [미국 천연가스 선물, 생산량 증가와 온화한 일기 예보로 2% 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526234)
@@ -354,11 +355,11 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IBRX.O/total>
 #### [이란 분쟁 장기화로 원유 가격 상승에 따른 에너지주 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526172)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/APA.O/total>
-#### [앱티브, 총 13억 7천만 달러 규모의 채권 공개매수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526169)
-<head><meta charset="utf-8"><title>Vers : 20260321_1054 </title></head>
-<center>Vers : 20260321_1054 </center>
-<center>Vers : 20260321_1954 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1120 </title></head>
+<center>Vers : 20260321_1120 </center>
+<center>Vers : 20260321_2020 </center>
 <br><br><br>
+#### [앱티브, 총 13억 7천만 달러 규모의 채권 공개매수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526169)
 #### [혼바흐 2025/26년 4분기 순매출 3.8% 증가한 1,296.1백만 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526176)
 #### [독일 메르츠 총리는 주말에 트럼프와 대화할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526171)
 #### [브리프필, 2026년 3월 19일 기준 FDM 그룹 지분 5.96% 보고, 서류에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526168)
@@ -423,11 +424,11 @@
 #### [브라질의 수자노, 4 월에 펄프 가격 인상, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526107)
 #### [이탈리아 재무부, 3 월 25 일 경매에서 최대 40 억 유로의 단기 국채 및 인플레이션 연계 국채를 매각하기로 - Reuters News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526116)
 #### [잉글랜드 은행의 2분기 금 판매, 단기 채권에 편중됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526111)
-#### [독점-카타르의 에너지 보스는이란 도발의 위험에 대해 경고했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526119)
-<head><meta charset="utf-8"><title>Vers : 20260321_1054 </title></head>
-<center>Vers : 20260321_1054 </center>
-<center>Vers : 20260321_1954 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_1120 </title></head>
+<center>Vers : 20260321_1120 </center>
+<center>Vers : 20260321_2020 </center>
 <br><br><br>
+#### [독점-카타르의 에너지 보스는이란 도발의 위험에 대해 경고했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526119)
 #### [이란 전쟁이 세계 경제에 타격을 주면서 가장 큰 피해를 보는 사람은 누구일까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526115)
 #### [판사, 구글 광고 기술 집단 소송에서 변호사의 선제적 수수료 제안 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526110)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
@@ -495,4 +496,3 @@
 #### [쿠바, 미국과의 협상에서 대통령 임기는 협상 대상이 아니라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526068)
 #### [일본의 소프트뱅크와 AEP, 오하이오 천연가스 발전을 위한 공공-민간 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526065)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AEP.O/total>
-#### [코메르츠은행 CEO, 직원들에게 UniCredit 협상은 문서로 거래가 성사된 후에야 의미가 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526060)
