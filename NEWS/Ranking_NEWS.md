@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260321_0834 </title></head>
-<center>Vers : 20260321_0834 </center>
-<center>Vers : 20260321_1734 </center>
+<head><meta charset="utf-8"><title>Vers : 20260321_0901 </title></head>
+<center>Vers : 20260321_0901 </center>
+<center>Vers : 20260321_1801 </center>
 <br><br><br>
 #### [기안84 김희민, 충주맨 김선태…"형이 왜 거기서 나와"[은행은 지금]](https://m.stock.naver.com/news/ranknews/view/003/0013836462)
 #### [“금값의 배신, 전쟁 나길래 왕창 샀는데”…6년만의 최대 하락률 눈앞](https://m.stock.naver.com/news/ranknews/view/016/0002617220)
