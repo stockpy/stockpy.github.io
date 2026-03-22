@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_2029 </title></head>
-<center>Vers : 20260322_2029 </center>
-<center>Vers : 20260323_0529 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_2054 </title></head>
+<center>Vers : 20260322_2054 </center>
+<center>Vers : 20260323_0554 </center>
 <br><br><br>
+#### [패러데이 퓨처, SEC가 회사 또는 관련자에 대한 집행 또는 기타 조치 없이 수년간의 조사를 종료했다고 발표했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526700)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FFAI.O/total>
+#### [텔레콤 이탈리아, 이사회가 월요일 Poste의 인수 입찰에 대해 논의 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526701)
+#### [트럼프, TSA 자금 지원 싸움에서 ICE 요원을 공항에 파견하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526698)
+#### [BUZZ-재생-에너지, ECB 매파, 급등락, USD / JPY 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526699)
+#### [라인란트팔츠의 레츠트럭](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526697)
 #### [중동 전쟁 격화로 유가 추가 상승 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526696)
 #### [중동 전쟁 격화로 유가 추가 상승 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526691)
 #### [BUZZ-재생- EUR/USD 블루스, 스털링 압력, USD/JPY 약세 종료,? DXY 테스트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526694)
@@ -60,8 +66,3 @@
 #### [어니 플레처, 다니엘 에드니, 조셉 마린이 미국 CDC의 수장으로 고려되고 있다 - 워싱턴 포스트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526644)
 #### [멕시코 소넨피라미드에서 벌어진 타우센데 베그루스겐 프루훌링](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526642)
 #### [젤렌스키, 동맹국들에게 미국과의 회담을 앞두고 러시아에 대한 압박을 계속할 것을 촉구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526643)
-#### [ICC 전범 검사에 대한 혐의는 무혐의 보고에도 불구하고 여전히 검토 중입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526641)
-#### [쿠바 외무부 차관, 미군의 침략 가능성에 대비하고 있다고 말하다 - NBC 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526640)
-#### [중동 전쟁이 격화되면서 월요일 유가가 더 상승 할 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526638)
-#### [이란, 트럼프가이란 에너지에 대한 위협을 실행하면 호르무즈를 완전히 폐쇄 할 것이라고 혁명 수비대는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526639)
-#### [이란의 위협에 직면한 걸프 아랍 국가들은 현재 담수화 플랜트에 얼마나 의존하고 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526637)
