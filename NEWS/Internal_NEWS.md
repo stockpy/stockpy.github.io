@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_2125 </title></head>
-<center>Vers : 20260322_2125 </center>
-<center>Vers : 20260323_0625 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_2226 </title></head>
+<center>Vers : 20260322_2226 </center>
+<center>Vers : 20260323_0726 </center>
 <br><br><br>
+#### [알바니아 시위, 경찰 물대포에 맞서 불꽃놀이를 벌이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526713)
+#### [사우디 아람코 사장, 이란 분쟁으로 주요 국제 에너지 회의에서 철수, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526714)
+#### [슬로베니아 집권 자유운동, 야당 SDS 예비 결과 동률](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526712)
+#### [이란 전쟁 불확실성 고조로 BUZZ-EUR/USD 약세 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526711)
+#### [머스크, 스페이스X와 테슬라가 오스틴에 첨단 칩 공장을 짓는다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526710)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
+#### [미국 증권거래위원회, 전기차 스타트업 패러데이 퓨처에 대한 4년간의 조사를 아무런 조치 없이 마무리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526709)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FFAI.O/total>
 #### [중동 불안 심화로 BUZZ-AUD/USD 하락 개장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526707)
 #### [독점-사우디 아람코 사장,이란 분쟁으로 주요 국제 에너지 회의에서 철수, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526706)
 #### [한 주 앞으로-이란 전쟁과 글로벌 플래시 PMI 집중 조명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526708)
@@ -61,9 +69,3 @@
 #### [독일 메르츠 총리의 보수당이 주 선거에서 선두를 차지할 것이라는 전망이 나왔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526658)
 #### [메르츠 독일 총리의 보수당이 주 선거에서 선두를 달리고 있다는 예측이 나왔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526656)
 #### [파스키, 월요일 이사회에서 로바글리오 입장 재검토 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526655)
-#### [영국 스타머, 이란 전쟁의 경제적 영향에 대한 월요일 회의 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526651)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526654)
-#### [프랑스 지방선거 결선투표에서 파리와 마르세유가 주목받는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526650)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526653)
-#### [슬로베니아, 일부 펌프 고갈로 연료 구매 제한](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526652)
-#### [트럼프, 전쟁 '축소' 시사 후 이란 위협 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526649)
