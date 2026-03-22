@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_0430 </title></head>
-<center>Vers : 20260322_0430 </center>
-<center>Vers : 20260322_1330 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_0539 </title></head>
+<center>Vers : 20260322_0539 </center>
+<center>Vers : 20260322_1439 </center>
 <br><br><br>
+#### [베트남 공산당, 의석의 97%에 가까운 의석 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526582)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526581)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526580)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526578)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526577)
 #### [프랑스 지방 선거에 대해 알아야 할 사항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526579)
@@ -60,13 +63,13 @@
 #### [인도, 3월 23일부터 한시적 국내선 항공료 상한제 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526525)
 #### [터키의 쿠르드족, 노루즈 축제에 참여하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526526)
 #### [MSNOW 보고서에 따르면 뮬러 전 FBI 국장이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526523)
+<head><meta charset="utf-8"><title>Vers : 20260322_0539 </title></head>
+<center>Vers : 20260322_0539 </center>
+<center>Vers : 20260322_1439 </center>
+<br><br><br>
 #### [쿠바, 미국과의 협상에서 대통령 임기 협상 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526522)
 #### [우크라이나 포격으로 러시아 벨고로드 국경 지역에서 4 명 사망, 주지사는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526521)
 #### [사이클링 포가카가 피콕을 제치고 밀라노-산 레모에서 첫 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526520)
-<head><meta charset="utf-8"><title>Vers : 20260322_0430 </title></head>
-<center>Vers : 20260322_0430 </center>
-<center>Vers : 20260322_1330 </center>
-<br><br><br>
 #### [영국은 키프로스에있는 기지가 공격 작전에 사용되지 않을 것이라고 키프로스 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526519)
 #### [독일의 최신 글리셔 리프트가 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526518)
 #### [리비아, 해안으로 표류하는 러시아 유조선에 대응하기 위해 회사 고용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526517)
@@ -125,6 +128,3 @@
 #### [이스라엘 공격의 표적이 된 나탄 즈 농축 시설,이란의 타스 님은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526465)
 #### [강가 페이퍼스 인디아, 2026년 3월 20일부로 마니쉬 쿠마르를 회장으로 임명한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526464)
 #### [정보, 훈련을 위해 나이지리아에 군대와 함께 배치 된 미국 드론](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526463)
-#### [이란 전쟁의 에너지 충격으로 전 세계가 비용을 지불하고 소비를 줄입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526462)
-#### [토렌트 파마, 인도에서 일반 경구용 세마글루타이드 출시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526461)
-#### [맥심 파워 앨버타 144MW H.R. 밀너 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526460)
