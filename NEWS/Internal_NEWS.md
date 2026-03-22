@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_1905 </title></head>
-<center>Vers : 20260322_1905 </center>
-<center>Vers : 20260323_0405 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_2029 </title></head>
+<center>Vers : 20260322_2029 </center>
+<center>Vers : 20260323_0529 </center>
 <br><br><br>
+#### [중동 전쟁 격화로 유가 추가 상승 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526696)
+#### [중동 전쟁 격화로 유가 추가 상승 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526691)
+#### [BUZZ-재생- EUR/USD 블루스, 스털링 압력, USD/JPY 약세 종료,? DXY 테스트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526694)
+#### [SEC, 전기차 스타트업 패러데이 퓨처에 대한 4년간의 조사를 중단하다 - TechCrunch](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526695)
+#### [미국 SEC, 전기차 스타트업 패러데이 퓨처에 대한 4년간의 조사 중단, 테크크런치 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526690)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FFAI.O/total>
+#### [슬로베니아의 포퓰리스트 얀 사의 SDS 당이 여론 조사에서 선두를 달리고있다, 초기 결과에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526693)
+#### [좌파 그레고아르가 전 장관 다티를 꺾고 파리 시청을 차지한 출구 조사 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526692)
+#### [마르세유의 좌파 시장이 극우 라이벌을 쉽게 이긴다는 프랑스 출구 조사 결과, 프랑스 출구 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526689)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526688)
+#### [모터사이클-베제키, MotoGP 브라질에서 4연승 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526687)
+#### [이탈리아의 포스테, 텔레콤 이탈리아 인수를 위한 120억 달러 규모의 현금 및 주식 공개 매수 입찰 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526685)
+#### [아메리카 모빌의 클라로, 7억 5천만 달러 규모의 거래로 데스크톱 SA 인수 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526686)
+#### [유니크레딧, 코메르츠은행 입찰을 위한 세 가지 옵션에 무게를 두고 있다고 Il Messaggero는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526684)
+#### [EU의 Kallas는 일요일에이란 외무 장관과 이야기했다고 관계자는 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526683)
+#### [포스테 이탈리아, 약 120억 달러에 텔레콤 이탈리아 인수 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526682)
+#### [프랑스 극우 후보가 툴롱에서 시장 선거에서 패배 한 것으로 보이는 출구 조사 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526680)
+#### [Poste Italiane, 텔레콤 이탈리아 S.P.A.에서 자발적인 공공 전체주의 현금 및 교환 제안을 발표합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526681)
+#### [우크라이나, 미국 팀, 회담 마무리, 새로운 포로 교환 가능, 젤 렌스키 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526678)
+#### [베제키, 브라질 그랑프리에서 우승으로 순항하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526679)
 #### [3월 22일 일요일 오후 2시 30분(미국 동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526676)
 #### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526677)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
@@ -45,23 +65,3 @@
 #### [중동 전쟁이 격화되면서 월요일 유가가 더 상승 할 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526638)
 #### [이란, 트럼프가이란 에너지에 대한 위협을 실행하면 호르무즈를 완전히 폐쇄 할 것이라고 혁명 수비대는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526639)
 #### [이란의 위협에 직면한 걸프 아랍 국가들은 현재 담수화 플랜트에 얼마나 의존하고 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526637)
-#### [알파인 스키-이탈리아의 고지아, 여자 슈퍼-G 월드컵 글로브 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526636)
-#### [터키, 이란, 미국, EU, 이집트와 통화에서 전쟁 종식을위한 조치 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526635)
-#### [쿠바, 일주일 만에 두 번째 전력망 붕괴 후 복구 노력 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526633)
-#### [월스트리트 한 주 앞으로-지속되는 이란 전쟁, 에너지 가격 급등으로 흔들리는 증시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526634)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
-#### [유니크레딧은 코메르츠방크 입찰을 성사시키기 위해 세 가지 옵션을 고려하고 있다고 Il Messaggero는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526630)
-#### [러시아, 수리 된 바이 코 누르 발사대에서 첫 로켓 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526631)
-#### [쿠바, 일주일 만에 두 번째 전력망 붕괴 후 복구 노력 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526632)
-#### [슬로베니아, 펌프 고갈로 연료 구매 제한](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526629)
-#### [이란 미사일이 이스라엘 사막 마을을 강타해 인명 피해가 발생했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526628)
-#### [교황 레오, 중동 전쟁은 인류에 대한 '스캔들'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526626)
-#### [트럼프, 미국 공항에 교통안전국(TSA)을 지원하기 위해 ICE 요원 배치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526627)
-#### [트럼프와 이란, 전쟁이 격화되면서 에너지 목표에 대한 위협 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526623)
-#### [이스라엘, 레바논의 교량과 이스라엘 국경 인근 주택 파괴 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526625)
-#### [CERAWEEK-CERAWeek 에너지 컨퍼런스가 휴스턴으로 돌아옵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526624)
-#### [기술 오작동으로 카타르 헬리콥터 추락 사고로 7 명 사망, 카타르 및 터키 당국 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526622)
-#### [독일 클럽 보루시아 도르트문트가 스포츠 디렉터 켈과 결별합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526621)
-#### [보루시아 도르트문트와 세바스티안 켈이 즉각적인 효과로 협업을 종료한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526620)
-#### [프랑스에서 시장 결선투표 시작, 극우 세력의 부상 시험대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526619)
-#### [이탈리아의 고지아, 여자 슈퍼-G 월드컵 글로브 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526618)
