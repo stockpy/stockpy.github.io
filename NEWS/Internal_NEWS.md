@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_1340 </title></head>
-<center>Vers : 20260322_1340 </center>
-<center>Vers : 20260322_2240 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_1428 </title></head>
+<center>Vers : 20260322_1428 </center>
+<center>Vers : 20260322_2328 </center>
 <br><br><br>
+#### [이란의 위협에 직면한 걸프 아랍 국가들은 현재 담수화 플랜트에 얼마나 의존하고 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526637)
+#### [알파인 스키-이탈리아의 고지아, 여자 슈퍼-G 월드컵 글로브 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526636)
 #### [터키, 이란, 미국, EU, 이집트와 통화에서 전쟁 종식을위한 조치 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526635)
 #### [쿠바, 일주일 만에 두 번째 전력망 붕괴 후 복구 노력 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526633)
 #### [월스트리트 한 주 앞으로-지속되는 이란 전쟁, 에너지 가격 급등으로 흔들리는 증시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526634)
@@ -64,12 +66,12 @@
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526580)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526578)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526577)
+<head><meta charset="utf-8"><title>Vers : 20260322_1428 </title></head>
+<center>Vers : 20260322_1428 </center>
+<center>Vers : 20260322_2328 </center>
+<br><br><br>
 #### [프랑스 지방 선거에 대해 알아야 할 사항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526579)
 #### [프랑스 지방선거 결선투표에서 파리와 마르세유가 주목받는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526576)
-<head><meta charset="utf-8"><title>Vers : 20260322_1340 </title></head>
-<center>Vers : 20260322_1340 </center>
-<center>Vers : 20260322_2240 </center>
-<br><br><br>
 #### [일본, 휴전되면 호르무즈 지뢰 제거 고려할 수 있다고 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526575)
 #### [치명적인 중국 동부 비행기 추락 사고 4년 후, 수사관들은 답을 내놓지 못했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526574)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600115.SS/total>
@@ -129,12 +131,12 @@
 #### [사이클링 포가카가 피콕을 제치고 밀라노-산 레모에서 첫 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526520)
 #### [영국은 키프로스에있는 기지가 공격 작전에 사용되지 않을 것이라고 키프로스 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526519)
 #### [독일의 최신 글리셔 리프트가 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526518)
+<head><meta charset="utf-8"><title>Vers : 20260322_1428 </title></head>
+<center>Vers : 20260322_1428 </center>
+<center>Vers : 20260322_2328 </center>
+<br><br><br>
 #### [리비아, 해안으로 표류하는 러시아 유조선에 대응하기 위해 회사 고용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526517)
 #### [OpenAI, 모든 무료 및 저비용 사용자에게 ChatGPT의 광고를 확대한다고 더 인포메이션이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526516)
-<head><meta charset="utf-8"><title>Vers : 20260322_1340 </title></head>
-<center>Vers : 20260322_1340 </center>
-<center>Vers : 20260322_2240 </center>
-<br><br><br>
 #### [앞으로 몇 주 안에 모든 무료 사용자에게 광고를 표시하는 BRIEF-ChatGPT - 정보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526513)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526514)
 #### [트럼프, 자금 교착 상태 때문에 공항에 ICE 요원 배치 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526515)
@@ -194,5 +196,3 @@
 #### [맥심 파워 앨버타 144MW H.R. 밀너 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526460)
 #### [IMF, 스페인의 2026년과 2027년 성장률 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526459)
 #### [나폴리에 상륙한 아메리카 컵의 녹, 먼지, 슈퍼요트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526458)
-#### [러시아의 공격으로 우크라이나 체르니히프 지역 대부분 정전 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526457)
-#### [푸틴이 테헤란에 말한다: 러시아, 이란 편에 서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526456)
