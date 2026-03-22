@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_1733 </title></head>
-<center>Vers : 20260322_1733 </center>
-<center>Vers : 20260323_0233 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_1838 </title></head>
+<center>Vers : 20260322_1838 </center>
+<center>Vers : 20260323_0338 </center>
 <br><br><br>
+#### [미 상원, 멀린 국토안보부 장관 지명, 인준 표결로 가는 길 닦다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526674)
+#### [미국 북서부 강 유량은 101 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526669)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526673)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526672)
+#### [트럼프 행정부, 노조와 민주당의 비판 속에 공항 내 이민세관단속국(ICE) 계획 선전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526668)
+#### [코인베이스 글로벌, 일부 사용자가 피아트 인출 시 지연 시간 또는 성능 저하를 경험할 수 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526671)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
+#### [젤렌스키, 러시아가 공세를 강화하려 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526670)
+#### [슬로베니아 집권 자유운동, 의회 투표에서 승리할 전망 - 출구 조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526667)
+#### [라인란트팔츠에서 CDU가 SPD를 제치고 승리할 것으로 예상됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526665)
+#### [쿠바는 석유 봉쇄 속에서 미국의 잠재적 인 공격에 대비하고 있다고 특사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526666)
+#### [ICC 전쟁 범죄 검사에 대한 혐의는 아직 검토 중이라고 메모에 나와 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526664)
+#### [코인베이스 글로벌, 일부 사용자들이 이더리움 네트워크에서 송수신 지연을 경험할 수 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526663)
+#### [쿠바, 일주일 만에 두 번째 전력망 붕괴 후 복구 노력 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526662)
+#### [바레인 폭발에 연루된 패트리어트 미사일은 미국 작전일 가능성이 높다: 분석](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526659)
+#### [이스라엘, 레바논 교량 타격에 이란 미사일 공격까지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526661)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526660)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526657)
 #### [독일 메르츠 총리의 보수당이 주 선거에서 선두를 차지할 것이라는 전망이 나왔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526658)
 #### [메르츠 독일 총리의 보수당이 주 선거에서 선두를 달리고 있다는 예측이 나왔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526656)
@@ -47,20 +64,3 @@
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526617)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526616)
 #### [EU의 칼라스 장관은 일요일이란 외무 장관과 이야기를 나눴다고 관계자는 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526615)
-#### [자오진 광산업, 2025년 순이익 전년대비 149.1% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526613)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1818.HK/total>
-#### [이란, 발전소 공격 시 지역 인프라에 '돌이킬 수 없는 피해' 경고, X에 글 올려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526614)
-#### [독일 팔츠 주의회에서 국회 회의가 열립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526612)
-#### [전쟁이 격화되면서 에너지 목표를 둘러싼 트럼프와 이란의 무역 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526611)
-#### [트럼프, 이란에 최후통첩으로 호르무즈 해협 봉쇄 해제 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526610)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526609)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526608)
-#### [터키, 카타르 헬리콥터 추락으로 군인 1 명, 요원 2 명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526607)
-#### [3월 21일에 보고된 후 오류로 반복되었던 G7 성명서 알림을 철회합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526605)
-#### [BOK, 한국이 반 부채 전문가 신을 임명하면서 매파 적 전환 신호를 보냅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526604)
-#### [필리핀, 중동 위기 속 더 더러운 연료 한시적 사용 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526603)
-#### [UAE 샤 르자 앞바다에서 발사체가 선박에 충돌, UKMTO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526606)
-#### [이스라엘 군이 '최전선 마을'에서 레바논 주택 철거를 가속화하도록 지시했다고 장관은 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526602)
-#### [영국은 이란이 유럽을 미사일로 겨냥하고 있다는 증거를 보지 못했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526601)
-#### [크라켄은 현재 은행 파트너인 고객 은행의 정기 점검으로 인해 특정 자금 조달 방법이 지연되고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526600)
-#### [이란, 호르무즈, '적과 연계된' 선박을 제외한 모든 선박의 출입 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526599)
