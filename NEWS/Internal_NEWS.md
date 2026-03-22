@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_0539 </title></head>
-<center>Vers : 20260322_0539 </center>
-<center>Vers : 20260322_1439 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_0653 </title></head>
+<center>Vers : 20260322_0653 </center>
+<center>Vers : 20260322_1553 </center>
 <br><br><br>
+#### [BUZZ-IMM: 중동 혼란 속 USD 순 스펙 포지션이 피난처를 찾는 롱 포지션으로 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526587)
+#### [이탈리아 국민, 사법부 개혁 국민투표 투표 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526586)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526585)
+#### [이란, 걸프만 해양 안전을 위해 협력 할 준비가되어 있다고 IMO 대표는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526584)
+#### [중국, 개방 경제와 외국 기업에 대한 국가적 대우 강화 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526583)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AVGO.O/total>
 #### [베트남 공산당, 의석의 97%에 가까운 의석 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526582)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526581)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526580)
@@ -58,15 +64,15 @@
 #### [트럼프는 국토 안보부 자금 교착 상태가 계속되면 월요일에 ICE를 공항으로 보내겠다고 맹세합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526529)
 #### [트럼프를 조사했지만 기소하지 않은 특별 변호사 로버트 뮬러, 81 세로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526530)
 #### [EU 반인종주의 책임자는 유럽 전역에 깊이 박힌 차별을 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526528)
+<head><meta charset="utf-8"><title>Vers : 20260322_0653 </title></head>
+<center>Vers : 20260322_0653 </center>
+<center>Vers : 20260322_1553 </center>
+<br><br><br>
 #### [파월 연준 의장은 볼커의 '저항 의지'에 찬사를 보냅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526527)
 #### [OpenAI, 미국 내 모든 ChatGPT 무료 및 Go 사용자에게 광고 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526524)
 #### [인도, 3월 23일부터 한시적 국내선 항공료 상한제 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526525)
 #### [터키의 쿠르드족, 노루즈 축제에 참여하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526526)
 #### [MSNOW 보고서에 따르면 뮬러 전 FBI 국장이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526523)
-<head><meta charset="utf-8"><title>Vers : 20260322_0539 </title></head>
-<center>Vers : 20260322_0539 </center>
-<center>Vers : 20260322_1439 </center>
-<br><br><br>
 #### [쿠바, 미국과의 협상에서 대통령 임기 협상 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526522)
 #### [우크라이나 포격으로 러시아 벨고로드 국경 지역에서 4 명 사망, 주지사는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526521)
 #### [사이클링 포가카가 피콕을 제치고 밀라노-산 레모에서 첫 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526520)
@@ -123,8 +129,3 @@
 #### [뉴멕시코의 조사 과정에서 엡스타인과 권력자들과의 관계에 대한 의문이 제기됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526470)
 #### [분석-이란 전쟁 3주째, 트럼프의 통제를 벗어난 이란 전쟁 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526469)
 #### [영국 총리 스타머, 이란 전쟁의 비용과 생활 영향에 대한 회의 소집, 타임즈에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526467)
-#### [Merz: 트럼프는 지금 "나에 대해 말하는 게 별로 좋지 않다"](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526468)
-#### [바그다드 이라크 정보 본부 근처에서 드론 공격으로 장교 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526466)
-#### [이스라엘 공격의 표적이 된 나탄 즈 농축 시설,이란의 타스 님은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526465)
-#### [강가 페이퍼스 인디아, 2026년 3월 20일부로 마니쉬 쿠마르를 회장으로 임명한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526464)
-#### [정보, 훈련을 위해 나이지리아에 군대와 함께 배치 된 미국 드론](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526463)
