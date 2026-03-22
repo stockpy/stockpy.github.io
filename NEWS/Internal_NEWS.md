@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_1428 </title></head>
-<center>Vers : 20260322_1428 </center>
-<center>Vers : 20260322_2328 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_1455 </title></head>
+<center>Vers : 20260322_1455 </center>
+<center>Vers : 20260322_2355 </center>
 <br><br><br>
+#### [쿠바 외무부 차관, 미군의 침략 가능성에 대비하고 있다고 말하다 - NBC 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526640)
+#### [중동 전쟁이 격화되면서 월요일 유가가 더 상승 할 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526638)
+#### [이란, 트럼프가이란 에너지에 대한 위협을 실행하면 호르무즈를 완전히 폐쇄 할 것이라고 혁명 수비대는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526639)
 #### [이란의 위협에 직면한 걸프 아랍 국가들은 현재 담수화 플랜트에 얼마나 의존하고 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526637)
 #### [알파인 스키-이탈리아의 고지아, 여자 슈퍼-G 월드컵 글로브 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526636)
 #### [터키, 이란, 미국, EU, 이집트와 통화에서 전쟁 종식을위한 조치 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526635)
@@ -63,13 +66,13 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AVGO.O/total>
 #### [베트남 공산당, 의석의 97%에 가까운 의석 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526582)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526581)
+<head><meta charset="utf-8"><title>Vers : 20260322_1455 </title></head>
+<center>Vers : 20260322_1455 </center>
+<center>Vers : 20260322_2355 </center>
+<br><br><br>
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526580)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526578)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526577)
-<head><meta charset="utf-8"><title>Vers : 20260322_1428 </title></head>
-<center>Vers : 20260322_1428 </center>
-<center>Vers : 20260322_2328 </center>
-<br><br><br>
 #### [프랑스 지방 선거에 대해 알아야 할 사항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526579)
 #### [프랑스 지방선거 결선투표에서 파리와 마르세유가 주목받는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526576)
 #### [일본, 휴전되면 호르무즈 지뢰 제거 고려할 수 있다고 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526575)
@@ -128,13 +131,13 @@
 #### [MSNOW 보고서에 따르면 뮬러 전 FBI 국장이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526523)
 #### [쿠바, 미국과의 협상에서 대통령 임기 협상 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526522)
 #### [우크라이나 포격으로 러시아 벨고로드 국경 지역에서 4 명 사망, 주지사는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526521)
+<head><meta charset="utf-8"><title>Vers : 20260322_1455 </title></head>
+<center>Vers : 20260322_1455 </center>
+<center>Vers : 20260322_2355 </center>
+<br><br><br>
 #### [사이클링 포가카가 피콕을 제치고 밀라노-산 레모에서 첫 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526520)
 #### [영국은 키프로스에있는 기지가 공격 작전에 사용되지 않을 것이라고 키프로스 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526519)
 #### [독일의 최신 글리셔 리프트가 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526518)
-<head><meta charset="utf-8"><title>Vers : 20260322_1428 </title></head>
-<center>Vers : 20260322_1428 </center>
-<center>Vers : 20260322_2328 </center>
-<br><br><br>
 #### [리비아, 해안으로 표류하는 러시아 유조선에 대응하기 위해 회사 고용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526517)
 #### [OpenAI, 모든 무료 및 저비용 사용자에게 ChatGPT의 광고를 확대한다고 더 인포메이션이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526516)
 #### [앞으로 몇 주 안에 모든 무료 사용자에게 광고를 표시하는 BRIEF-ChatGPT - 정보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526513)
@@ -193,6 +196,3 @@
 #### [정보, 훈련을 위해 나이지리아에 군대와 함께 배치 된 미국 드론](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526463)
 #### [이란 전쟁의 에너지 충격으로 전 세계가 비용을 지불하고 소비를 줄입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526462)
 #### [토렌트 파마, 인도에서 일반 경구용 세마글루타이드 출시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526461)
-#### [맥심 파워 앨버타 144MW H.R. 밀너 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526460)
-#### [IMF, 스페인의 2026년과 2027년 성장률 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526459)
-#### [나폴리에 상륙한 아메리카 컵의 녹, 먼지, 슈퍼요트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526458)
