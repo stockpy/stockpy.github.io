@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_0835 </title></head>
-<center>Vers : 20260322_0835 </center>
-<center>Vers : 20260322_1735 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_0902 </title></head>
+<center>Vers : 20260322_0902 </center>
+<center>Vers : 20260322_1802 </center>
 <br><br><br>
+#### [러시아, 바슈 코르 토 스탄 정유소 근처에서 우크라이나 드론 격추했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526591)
 #### [기술 오작동으로 카타르 헬리콥터 추락으로 6 명 사망, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526590)
 #### [이스라엘 갈릴리 근처에서 차량 화재로 한 명 사망, 레바논에서 파업 후 응급 서비스는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526589)
 #### [이란, 미국의 위협 속 호르무즈, '적 연계' 선박 제외 모든 선박에 개방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526588)
@@ -63,11 +64,11 @@
 #### [인도, 항공사 구제를 위해 국내선 항공료 상한제 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526534)
 #### [디 지아난토니오, 혼란스러운 브라질 모토GP 예선 1위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526532)
 #### [미국 북서부 강 유량 최대 101% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526533)
-#### [Atco Power 앨버타 385MW 배틀 리버 5 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526531)
-<head><meta charset="utf-8"><title>Vers : 20260322_0835 </title></head>
-<center>Vers : 20260322_0835 </center>
-<center>Vers : 20260322_1735 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_0902 </title></head>
+<center>Vers : 20260322_0902 </center>
+<center>Vers : 20260322_1802 </center>
 <br><br><br>
+#### [Atco Power 앨버타 385MW 배틀 리버 5 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526531)
 #### [트럼프는 국토 안보부 자금 교착 상태가 계속되면 월요일에 ICE를 공항으로 보내겠다고 맹세합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526529)
 #### [트럼프를 조사했지만 기소하지 않은 특별 변호사 로버트 뮬러, 81 세로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526530)
 #### [EU 반인종주의 책임자는 유럽 전역에 깊이 박힌 차별을 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526528)
@@ -128,4 +129,3 @@
 #### [이란, 나탄 즈 핵 사이트 공격에 대해 IAEA에 통보, 감시견은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526475)
 #### [이란 남성, 루마니아 여성이 영국 잠수함 기지 진입 시도로 기소됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526473)
 #### [폴 프로이트가 예술을 통해 전쟁과 정치를 이해하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526472)
-#### [그리스, 은행 위기 회복 후 대출 문제에 직면, ECB 블로그에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526471)
