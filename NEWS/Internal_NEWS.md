@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_0653 </title></head>
-<center>Vers : 20260322_0653 </center>
-<center>Vers : 20260322_1553 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_0734 </title></head>
+<center>Vers : 20260322_0734 </center>
+<center>Vers : 20260322_1634 </center>
 <br><br><br>
+#### [이스라엘 갈릴리 근처에서 차량 화재로 한 명 사망, 레바논에서 파업 후 응급 서비스는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526589)
+#### [이란, 미국의 위협 속 호르무즈, '적 연계' 선박 제외 모든 선박에 개방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526588)
 #### [BUZZ-IMM: 중동 혼란 속 USD 순 스펙 포지션이 피난처를 찾는 롱 포지션으로 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526587)
 #### [이탈리아 국민, 사법부 개혁 국민투표 투표 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526586)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526585)
@@ -62,12 +64,12 @@
 #### [미국 북서부 강 유량 최대 101% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526533)
 #### [Atco Power 앨버타 385MW 배틀 리버 5 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526531)
 #### [트럼프는 국토 안보부 자금 교착 상태가 계속되면 월요일에 ICE를 공항으로 보내겠다고 맹세합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526529)
+<head><meta charset="utf-8"><title>Vers : 20260322_0734 </title></head>
+<center>Vers : 20260322_0734 </center>
+<center>Vers : 20260322_1634 </center>
+<br><br><br>
 #### [트럼프를 조사했지만 기소하지 않은 특별 변호사 로버트 뮬러, 81 세로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526530)
 #### [EU 반인종주의 책임자는 유럽 전역에 깊이 박힌 차별을 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526528)
-<head><meta charset="utf-8"><title>Vers : 20260322_0653 </title></head>
-<center>Vers : 20260322_0653 </center>
-<center>Vers : 20260322_1553 </center>
-<br><br><br>
 #### [파월 연준 의장은 볼커의 '저항 의지'에 찬사를 보냅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526527)
 #### [OpenAI, 미국 내 모든 ChatGPT 무료 및 Go 사용자에게 광고 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526524)
 #### [인도, 3월 23일부터 한시적 국내선 항공료 상한제 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526525)
@@ -127,5 +129,3 @@
 #### [폴 프로이트가 예술을 통해 전쟁과 정치를 이해하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526472)
 #### [그리스, 은행 위기 회복 후 대출 문제에 직면, ECB 블로그에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526471)
 #### [뉴멕시코의 조사 과정에서 엡스타인과 권력자들과의 관계에 대한 의문이 제기됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526470)
-#### [분석-이란 전쟁 3주째, 트럼프의 통제를 벗어난 이란 전쟁 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526469)
-#### [영국 총리 스타머, 이란 전쟁의 비용과 생활 영향에 대한 회의 소집, 타임즈에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526467)
