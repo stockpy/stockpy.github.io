@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_1838 </title></head>
-<center>Vers : 20260322_1838 </center>
-<center>Vers : 20260323_0338 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_1905 </title></head>
+<center>Vers : 20260322_1905 </center>
+<center>Vers : 20260323_0405 </center>
 <br><br><br>
+#### [3월 22일 일요일 오후 2시 30분(미국 동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526676)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526677)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [베를린에서 시위: 디지털 권력에 반대하는 수많은 시위대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526675)
 #### [미 상원, 멀린 국토안보부 장관 지명, 인준 표결로 가는 길 닦다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526674)
 #### [미국 북서부 강 유량은 101 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526669)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526673)
@@ -61,6 +65,3 @@
 #### [보루시아 도르트문트와 세바스티안 켈이 즉각적인 효과로 협업을 종료한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526620)
 #### [프랑스에서 시장 결선투표 시작, 극우 세력의 부상 시험대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526619)
 #### [이탈리아의 고지아, 여자 슈퍼-G 월드컵 글로브 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526618)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526617)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526616)
-#### [EU의 칼라스 장관은 일요일이란 외무 장관과 이야기를 나눴다고 관계자는 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526615)
