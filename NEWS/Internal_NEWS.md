@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_0902 </title></head>
-<center>Vers : 20260322_0902 </center>
-<center>Vers : 20260322_1802 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_1028 </title></head>
+<center>Vers : 20260322_1028 </center>
+<center>Vers : 20260322_1928 </center>
 <br><br><br>
+#### [터키, 카타르 헬리콥터 추락으로 군인 1 명, 요원 2 명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526607)
+#### [3월 21일에 보고된 후 오류로 반복되었던 G7 성명서 알림을 철회합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526605)
+#### [BOK, 한국이 반 부채 전문가 신을 임명하면서 매파 적 전환 신호를 보냅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526604)
+#### [필리핀, 중동 위기 속 더 더러운 연료 한시적 사용 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526603)
+#### [UAE 샤 르자 앞바다에서 발사체가 선박에 충돌, UKMTO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526606)
+#### [이스라엘 군이 '최전선 마을'에서 레바논 주택 철거를 가속화하도록 지시했다고 장관은 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526602)
+#### [영국은 이란이 유럽을 미사일로 겨냥하고 있다는 증거를 보지 못했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526601)
+#### [크라켄은 현재 은행 파트너인 고객 은행의 정기 점검으로 인해 특정 자금 조달 방법이 지연되고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526600)
+#### [이란, 호르무즈, '적과 연계된' 선박을 제외한 모든 선박의 출입 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526599)
+#### [러시아, 우크라이나 수미 지역 마을 점령, RIA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526598)
+#### [프랑스 지방선거 결선투표에서 파리와 마르세유가 주목받는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526596)
+#### [영국 장관은 트럼프가이란에 대한 마감일에 대해 스스로를 대변한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526597)
+#### [슬로베니아 국민, 자유주의와 포퓰리즘 우파 간 치열한 경쟁 속에서 투표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526594)
+#### [중국 상무부 장관, 외국인 투자 유치 추진 중 제약사 경영진과 만남](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526595)
+#### [대만, 지연된 미국 F-16이 올해 도착할 것이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526593)
+#### [중국 석유 및 화학 2025년 순이익, 중국 회계기준으로 전년 대비 36.8% 감소할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526592)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600028.SS/total>
 #### [러시아, 바슈 코르 토 스탄 정유소 근처에서 우크라이나 드론 격추했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526591)
 #### [기술 오작동으로 카타르 헬리콥터 추락으로 6 명 사망, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526590)
 #### [이스라엘 갈릴리 근처에서 차량 화재로 한 명 사망, 레바논에서 파업 후 응급 서비스는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526589)
@@ -48,6 +65,10 @@
 #### [마르케즈, 브라질 그랑프리 스프린트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526550)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526549)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526548)
+<head><meta charset="utf-8"><title>Vers : 20260322_1028 </title></head>
+<center>Vers : 20260322_1028 </center>
+<center>Vers : 20260322_1928 </center>
+<br><br><br>
 #### [우크라이나 관리들은 키예프 일부 지역에서 전력, 수도가 끊어 졌다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526547)
 #### [사우디아라비아, 이란 군 무관, 대사관 직원 4명에 퇴거 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526546)
 #### [우크라이나, 일요일 미국에서 전쟁 해결을위한 회담 계속 될 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526545)
@@ -64,10 +85,6 @@
 #### [인도, 항공사 구제를 위해 국내선 항공료 상한제 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526534)
 #### [디 지아난토니오, 혼란스러운 브라질 모토GP 예선 1위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526532)
 #### [미국 북서부 강 유량 최대 101% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526533)
-<head><meta charset="utf-8"><title>Vers : 20260322_0902 </title></head>
-<center>Vers : 20260322_0902 </center>
-<center>Vers : 20260322_1802 </center>
-<br><br><br>
 #### [Atco Power 앨버타 385MW 배틀 리버 5 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526531)
 #### [트럼프는 국토 안보부 자금 교착 상태가 계속되면 월요일에 ICE를 공항으로 보내겠다고 맹세합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526529)
 #### [트럼프를 조사했지만 기소하지 않은 특별 변호사 로버트 뮬러, 81 세로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526530)
@@ -112,20 +129,3 @@
 #### [인도의 무슬림들이 이란 전쟁 시위와 검은 완장으로 이드(Eid)를 기념하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526488)
 #### [러시아, 이란 나탄즈 시설 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526490)
 #### [인도, 중동 가스 쇼크에도 불구하고 여름철 전력 수요 충족 자신감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526489)
-#### [글로벌 방위 산업, 시장 상황으로 인해 자금 조달 제안이 추후에 고려될 수 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526487)
-#### [OpenAI, 2026년 말까지 인력을 8,000명으로 두 배 가까이 늘릴 예정, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526485)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526486)
-#### [이라크 국영 통신사는 사우스 파스 공격 후 이라크에이란 가스가 재개된다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526484)
-#### [OpenAI, 2026년 말까지 인력을 8,000명으로 두 배 가까이 늘릴 예정, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526482)
-#### [브라질에서 자동차를 랙시트에 장착한 자동차가 출시되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526481)
-#### [오픈AI, 라이벌 앤트로픽과의 격차 줄이기 위해 2026년 말까지 직원을 8,000명으로 늘릴 계획 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526483)
-#### [독점-바레인, 3 월 9 일 주거 지역 폭발에 패트리어트 미사일 시스템 관련](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526480)
-#### [코디악 AI, 2026년 말까지 완전 무인 장거리 화물 운송 서비스 개시 계획 - The Verge](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526479)
-#### [미국, 이란산 모피에 대한 제재 조치 30일 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526478)
-#### [이란의 페제쉬키안과 대화하는 모디 인도 총리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526477)
-#### [허리띠 졸라매기에 나선 공항, 무급 TSA 직원들에게 급식 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526476)
-#### [BNSF, 2026년 3월 20일 오후 0732시(CDT) 워싱턴주 이스턴 인근에서 선로 유실에 대한 예비 보고를 받았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526474)
-#### [이란, 나탄 즈 핵 사이트 공격에 대해 IAEA에 통보, 감시견은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526475)
-#### [이란 남성, 루마니아 여성이 영국 잠수함 기지 진입 시도로 기소됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526473)
-#### [폴 프로이트가 예술을 통해 전쟁과 정치를 이해하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526472)
