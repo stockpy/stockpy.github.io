@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_0221 </title></head>
-<center>Vers : 20260322_0221 </center>
-<center>Vers : 20260322_1121 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_0430 </title></head>
+<center>Vers : 20260322_0430 </center>
+<center>Vers : 20260322_1330 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526578)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526577)
+#### [프랑스 지방 선거에 대해 알아야 할 사항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526579)
+#### [프랑스 지방선거 결선투표에서 파리와 마르세유가 주목받는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526576)
+#### [일본, 휴전되면 호르무즈 지뢰 제거 고려할 수 있다고 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526575)
+#### [치명적인 중국 동부 비행기 추락 사고 4년 후, 수사관들은 답을 내놓지 못했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526574)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600115.SS/total>
+#### [미식축구-미국 대표팀이 LA에서 열린 플래그 풋볼 클래식에서 NFL 스타들을 상대로 승리를 거둡니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526573)
 #### [미국 대표팀이 NFL 선수들을 제압하고 LA에서 열린 플래그 풋볼 클래식 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526572)
 #### [16이 올해 도착할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526571)
 #### [카타르 헬리콥터, 기술적 오작동 후 추락, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526570)
@@ -55,6 +63,10 @@
 #### [쿠바, 미국과의 협상에서 대통령 임기 협상 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526522)
 #### [우크라이나 포격으로 러시아 벨고로드 국경 지역에서 4 명 사망, 주지사는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526521)
 #### [사이클링 포가카가 피콕을 제치고 밀라노-산 레모에서 첫 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526520)
+<head><meta charset="utf-8"><title>Vers : 20260322_0430 </title></head>
+<center>Vers : 20260322_0430 </center>
+<center>Vers : 20260322_1330 </center>
+<br><br><br>
 #### [영국은 키프로스에있는 기지가 공격 작전에 사용되지 않을 것이라고 키프로스 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526519)
 #### [독일의 최신 글리셔 리프트가 시작되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526518)
 #### [리비아, 해안으로 표류하는 러시아 유조선에 대응하기 위해 회사 고용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526517)
@@ -62,10 +74,6 @@
 #### [앞으로 몇 주 안에 모든 무료 사용자에게 광고를 표시하는 BRIEF-ChatGPT - 정보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526513)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526514)
 #### [트럼프, 자금 교착 상태 때문에 공항에 ICE 요원 배치 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526515)
-<head><meta charset="utf-8"><title>Vers : 20260322_0221 </title></head>
-<center>Vers : 20260322_0221 </center>
-<center>Vers : 20260322_1121 </center>
-<br><br><br>
 #### [키로스카르 철 산업, 2026년 3월 21일부터 솔라푸르 공장의 고압 성형 라인 가동 재개 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526511)
 #### [코탁 마힌드라 은행, KMCC, 인피나 지분 일부를 129억 4,000만 루피에 매각한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526512)
 #### [독점-바레인, 3월 9일 이란 드론 사건에서 패트리어트 요격 인용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526508)
@@ -120,10 +128,3 @@
 #### [이란 전쟁의 에너지 충격으로 전 세계가 비용을 지불하고 소비를 줄입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526462)
 #### [토렌트 파마, 인도에서 일반 경구용 세마글루타이드 출시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526461)
 #### [맥심 파워 앨버타 144MW H.R. 밀너 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526460)
-#### [IMF, 스페인의 2026년과 2027년 성장률 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526459)
-#### [나폴리에 상륙한 아메리카 컵의 녹, 먼지, 슈퍼요트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526458)
-#### [러시아의 공격으로 우크라이나 체르니히프 지역 대부분 정전 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526457)
-#### [푸틴이 테헤란에 말한다: 러시아, 이란 편에 서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526456)
-#### [러시아의 공격으로 우크라이나 체르니히 지역 대부분이 정전 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526455)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526453)
-#### [푸틴이 테헤란에 말한다: 러시아, 이란 편에 서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526454)
