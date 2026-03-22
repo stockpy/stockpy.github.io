@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_2253 </title></head>
-<center>Vers : 20260322_2253 </center>
-<center>Vers : 20260323_0753 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_2322 </title></head>
+<center>Vers : 20260322_2322 </center>
+<center>Vers : 20260323_0822 </center>
 <br><br><br>
+#### [정유업체들, 미국의 제재 면제 이후 이란산 원유 구매 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526721)
+#### [메타 CEO 마크 주커버그가 자신의 업무를 도와줄 CEO 에이전트를 구축하다 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526720)
+#### [NZD / USD는 여전히 압박을 받고 있으며 Fitch는 등급 전망을 하향 조정합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526718)
+#### [영국 스타 머,이란 전쟁 위험 증가로 경제에 대한 긴급 회의 소집](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526719)
 #### [행동주의 투자자 엘리엇, 칩 설계 소프트웨어 제조업체 Synopsys에 큰 지분 확보 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526717)
 #### [행동주의 투자자 엘리엇, 칩 설계 소프트웨어 제조업체 시놉시스에 큰 지분 확보, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526716)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SNPS.O/total>
@@ -66,7 +70,3 @@
 #### [ICC 전쟁 범죄 검사에 대한 혐의는 아직 검토 중이라고 메모에 나와 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526664)
 #### [코인베이스 글로벌, 일부 사용자들이 이더리움 네트워크에서 송수신 지연을 경험할 수 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526663)
 #### [쿠바, 일주일 만에 두 번째 전력망 붕괴 후 복구 노력 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526662)
-#### [바레인 폭발에 연루된 패트리어트 미사일은 미국 작전일 가능성이 높다: 분석](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526659)
-#### [이스라엘, 레바논 교량 타격에 이란 미사일 공격까지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526661)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526660)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526657)
