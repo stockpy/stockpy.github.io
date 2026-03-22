@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_1028 </title></head>
-<center>Vers : 20260322_1028 </center>
-<center>Vers : 20260322_1928 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_1055 </title></head>
+<center>Vers : 20260322_1055 </center>
+<center>Vers : 20260322_1955 </center>
 <br><br><br>
+#### [트럼프, 이란에 최후통첩으로 호르무즈 해협 봉쇄 해제 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526610)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526609)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526608)
 #### [터키, 카타르 헬리콥터 추락으로 군인 1 명, 요원 2 명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526607)
 #### [3월 21일에 보고된 후 오류로 반복되었던 G7 성명서 알림을 철회합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526605)
 #### [BOK, 한국이 반 부채 전문가 신을 임명하면서 매파 적 전환 신호를 보냅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526604)
@@ -62,13 +65,13 @@
 #### [부분적인 정부 폐쇄가 시작된 이후 400 명 이상의 교통 안전국 직원이 그만 두었다고 NBC 뉴스는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526553)
 #### [우크라이나, 전쟁 해결을 위한 회담이 일요일에 미국에서 계속될 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526552)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526551)
+<head><meta charset="utf-8"><title>Vers : 20260322_1055 </title></head>
+<center>Vers : 20260322_1055 </center>
+<center>Vers : 20260322_1955 </center>
+<br><br><br>
 #### [마르케즈, 브라질 그랑프리 스프린트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526550)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526549)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526548)
-<head><meta charset="utf-8"><title>Vers : 20260322_1028 </title></head>
-<center>Vers : 20260322_1028 </center>
-<center>Vers : 20260322_1928 </center>
-<br><br><br>
 #### [우크라이나 관리들은 키예프 일부 지역에서 전력, 수도가 끊어 졌다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526547)
 #### [사우디아라비아, 이란 군 무관, 대사관 직원 4명에 퇴거 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526546)
 #### [우크라이나, 일요일 미국에서 전쟁 해결을위한 회담 계속 될 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526545)
@@ -126,6 +129,3 @@
 #### [이라크에 대한이란 가스, 사우스 파스 공격 후 재개, 이라크 국영 통신사는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526493)
 #### [피로바노, 월드컵 다운힐 3연패로 우승컵을 거머쥐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526492)
 #### [우크라이나 군이 러시아의 사라 토프 정유소를 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526491)
-#### [인도의 무슬림들이 이란 전쟁 시위와 검은 완장으로 이드(Eid)를 기념하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526488)
-#### [러시아, 이란 나탄즈 시설 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526490)
-#### [인도, 중동 가스 쇼크에도 불구하고 여름철 전력 수요 충족 자신감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526489)
