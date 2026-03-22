@@ -1,10 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_2054 </title></head>
-<center>Vers : 20260322_2054 </center>
-<center>Vers : 20260323_0554 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_2125 </title></head>
+<center>Vers : 20260322_2125 </center>
+<center>Vers : 20260323_0625 </center>
 <br><br><br>
+#### [중동 불안 심화로 BUZZ-AUD/USD 하락 개장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526707)
+#### [독점-사우디 아람코 사장,이란 분쟁으로 주요 국제 에너지 회의에서 철수, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526706)
+#### [한 주 앞으로-이란 전쟁과 글로벌 플래시 PMI 집중 조명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526708)
+#### [아메리카 모빌의 클라로, 브라질의 데스크톱을 7억 5,300만 달러에 인수하기로 합의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526704)
+#### [W/E 뉴스-중동 전쟁 격화, 트럼프의 최후통첩, 이란의 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526705)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526703)
 #### [패러데이 퓨처, SEC가 회사 또는 관련자에 대한 집행 또는 기타 조치 없이 수년간의 조사를 종료했다고 발표했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526700)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FFAI.O/total>
 #### [텔레콤 이탈리아, 이사회가 월요일 Poste의 인수 입찰에 대해 논의 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526701)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526702)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
 #### [트럼프, TSA 자금 지원 싸움에서 ICE 요원을 공항에 파견하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526698)
 #### [BUZZ-재생-에너지, ECB 매파, 급등락, USD / JPY 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526699)
 #### [라인란트팔츠의 레츠트럭](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526697)
@@ -59,10 +67,3 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526653)
 #### [슬로베니아, 일부 펌프 고갈로 연료 구매 제한](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526652)
 #### [트럼프, 전쟁 '축소' 시사 후 이란 위협 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526649)
-#### [그루지야 정통교도들은 오랜 가부장에게 마지막 작별을 고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526646)
-#### [노르웨이의 Gassco는 3월 23일 0500~3월 24일 0500에 하루 -5.0mcm의 정전을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526648)
-#### [패니, 프레디, 모기지 담보 증권에 대규모 입찰 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526645)
-#### [재무부의 베 센트는 미국이이란 전쟁에 대한 자금이 '충분하다'고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526647)
-#### [어니 플레처, 다니엘 에드니, 조셉 마린이 미국 CDC의 수장으로 고려되고 있다 - 워싱턴 포스트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526644)
-#### [멕시코 소넨피라미드에서 벌어진 타우센데 베그루스겐 프루훌링](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526642)
-#### [젤렌스키, 동맹국들에게 미국과의 회담을 앞두고 러시아에 대한 압박을 계속할 것을 촉구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526643)
