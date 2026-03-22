@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_2226 </title></head>
-<center>Vers : 20260322_2226 </center>
-<center>Vers : 20260323_0726 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_2253 </title></head>
+<center>Vers : 20260322_2253 </center>
+<center>Vers : 20260323_0753 </center>
 <br><br><br>
+#### [행동주의 투자자 엘리엇, 칩 설계 소프트웨어 제조업체 Synopsys에 큰 지분 확보 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526717)
+#### [행동주의 투자자 엘리엇, 칩 설계 소프트웨어 제조업체 시놉시스에 큰 지분 확보, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526716)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SNPS.O/total>
+#### [미국, 이란의 중동 에너지 목표 달성 위협으로 유가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526715)
 #### [알바니아 시위, 경찰 물대포에 맞서 불꽃놀이를 벌이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526713)
 #### [사우디 아람코 사장, 이란 분쟁으로 주요 국제 에너지 회의에서 철수, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526714)
 #### [슬로베니아 집권 자유운동, 야당 SDS 예비 결과 동률](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526712)
@@ -66,6 +70,3 @@
 #### [이스라엘, 레바논 교량 타격에 이란 미사일 공격까지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526661)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526660)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526657)
-#### [독일 메르츠 총리의 보수당이 주 선거에서 선두를 차지할 것이라는 전망이 나왔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526658)
-#### [메르츠 독일 총리의 보수당이 주 선거에서 선두를 달리고 있다는 예측이 나왔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526656)
-#### [파스키, 월요일 이사회에서 로바글리오 입장 재검토 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526655)
