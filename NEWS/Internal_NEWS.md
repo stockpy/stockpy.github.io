@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_1124 </title></head>
-<center>Vers : 20260322_1124 </center>
-<center>Vers : 20260322_2024 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_1253 </title></head>
+<center>Vers : 20260322_1253 </center>
+<center>Vers : 20260322_2153 </center>
 <br><br><br>
+#### [이란 미사일이 이스라엘 사막 마을을 강타해 인명 피해가 발생했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526628)
+#### [교황 레오, 중동 전쟁은 인류에 대한 '스캔들'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526626)
+#### [트럼프, 미국 공항에 교통안전국(TSA)을 지원하기 위해 ICE 요원 배치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526627)
+#### [트럼프와 이란, 전쟁이 격화되면서 에너지 목표에 대한 위협 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526623)
+#### [이스라엘, 레바논의 교량과 이스라엘 국경 인근 주택 파괴 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526625)
+#### [CERAWEEK-CERAWeek 에너지 컨퍼런스가 휴스턴으로 돌아옵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526624)
+#### [기술 오작동으로 카타르 헬리콥터 추락 사고로 7 명 사망, 카타르 및 터키 당국 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526622)
+#### [독일 클럽 보루시아 도르트문트가 스포츠 디렉터 켈과 결별합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526621)
+#### [보루시아 도르트문트와 세바스티안 켈이 즉각적인 효과로 협업을 종료한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526620)
+#### [프랑스에서 시장 결선투표 시작, 극우 세력의 부상 시험대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526619)
+#### [이탈리아의 고지아, 여자 슈퍼-G 월드컵 글로브 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526618)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526617)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526616)
+#### [EU의 칼라스 장관은 일요일이란 외무 장관과 이야기를 나눴다고 관계자는 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526615)
 #### [자오진 광산업, 2025년 순이익 전년대비 149.1% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526613)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1818.HK/total>
 #### [이란, 발전소 공격 시 지역 인프라에 '돌이킬 수 없는 피해' 경고, X에 글 올려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526614)
@@ -52,6 +66,10 @@
 #### [16이 올해 도착할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526571)
 #### [카타르 헬리콥터, 기술적 오작동 후 추락, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526570)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526569)
+<head><meta charset="utf-8"><title>Vers : 20260322_1253 </title></head>
+<center>Vers : 20260322_1253 </center>
+<center>Vers : 20260322_2153 </center>
+<br><br><br>
 #### [발사체가 UAE 샤 르자 앞바다에서 선박에 충돌, UKMTO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526567)
 #### [에블로예프, 머피를 제압하고 UFC 페더급 타이틀전 준비 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526568)
 #### [호주 연료 공급 강세, 배급 계획 없음, 에너지 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526566)
@@ -66,10 +84,6 @@
 #### [Atco Power 앨버타 385MW 배틀 리버 5 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526557)
 #### [쿠바의 전력망 붕괴, 전국 전기 조합은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526556)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526555)
-<head><meta charset="utf-8"><title>Vers : 20260322_1124 </title></head>
-<center>Vers : 20260322_1124 </center>
-<center>Vers : 20260322_2024 </center>
-<br><br><br>
 #### [폭스 바겐 CEO, 독일 자동차 제조업체는 중국 계획에 주목해야한다고 신문사에 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526554)
 #### [부분적인 정부 폐쇄가 시작된 이후 400 명 이상의 교통 안전국 직원이 그만 두었다고 NBC 뉴스는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526553)
 #### [우크라이나, 전쟁 해결을 위한 회담이 일요일에 미국에서 계속될 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526552)
@@ -116,6 +130,10 @@
 #### [코탁 마힌드라 은행, KMCC, 인피나 지분 일부를 129억 4,000만 루피에 매각한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526512)
 #### [독점-바레인, 3월 9일 이란 드론 사건에서 패트리어트 요격 인용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526508)
 #### [클래식 필라멘트, 2026년 3월 22일부로 바라트 파텔이 이사 겸 CFO직 사임한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526509)
+<head><meta charset="utf-8"><title>Vers : 20260322_1253 </title></head>
+<center>Vers : 20260322_1253 </center>
+<center>Vers : 20260322_2153 </center>
+<br><br><br>
 #### [체코 국민, 2019년 이후 최대 규모의 반정부 시위로 집결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526510)
 #### [트럼프, 자금 교착 상태에 대해 ICE 요원을 공항에 배치하겠다고 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526507)
 #### [러시아 드론 공격으로 부부 사망, 어린이 부상자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526506)
@@ -130,3 +148,50 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526499)
 #### [Atco Power 앨버타 385MW 배틀 리버 5 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526496)
 #### [허리펑 중국 부총리, 글로벌 CEO들과 만나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526495)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526494)
+#### [이라크에 대한이란 가스, 사우스 파스 공격 후 재개, 이라크 국영 통신사는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526493)
+#### [피로바노, 월드컵 다운힐 3연패로 우승컵을 거머쥐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526492)
+#### [우크라이나 군이 러시아의 사라 토프 정유소를 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526491)
+#### [인도의 무슬림들이 이란 전쟁 시위와 검은 완장으로 이드(Eid)를 기념하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526488)
+#### [러시아, 이란 나탄즈 시설 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526490)
+#### [인도, 중동 가스 쇼크에도 불구하고 여름철 전력 수요 충족 자신감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526489)
+#### [글로벌 방위 산업, 시장 상황으로 인해 자금 조달 제안이 추후에 고려될 수 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526487)
+#### [OpenAI, 2026년 말까지 인력을 8,000명으로 두 배 가까이 늘릴 예정, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526485)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526486)
+#### [이라크 국영 통신사는 사우스 파스 공격 후 이라크에이란 가스가 재개된다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526484)
+#### [OpenAI, 2026년 말까지 인력을 8,000명으로 두 배 가까이 늘릴 예정, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526482)
+#### [브라질에서 자동차를 랙시트에 장착한 자동차가 출시되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526481)
+#### [오픈AI, 라이벌 앤트로픽과의 격차 줄이기 위해 2026년 말까지 직원을 8,000명으로 늘릴 계획 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526483)
+#### [독점-바레인, 3 월 9 일 주거 지역 폭발에 패트리어트 미사일 시스템 관련](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526480)
+#### [코디악 AI, 2026년 말까지 완전 무인 장거리 화물 운송 서비스 개시 계획 - The Verge](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526479)
+#### [미국, 이란산 모피에 대한 제재 조치 30일 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526478)
+#### [이란의 페제쉬키안과 대화하는 모디 인도 총리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526477)
+#### [허리띠 졸라매기에 나선 공항, 무급 TSA 직원들에게 급식 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526476)
+#### [BNSF, 2026년 3월 20일 오후 0732시(CDT) 워싱턴주 이스턴 인근에서 선로 유실에 대한 예비 보고를 받았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526474)
+#### [이란, 나탄 즈 핵 사이트 공격에 대해 IAEA에 통보, 감시견은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526475)
+#### [이란 남성, 루마니아 여성이 영국 잠수함 기지 진입 시도로 기소됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526473)
+#### [폴 프로이트가 예술을 통해 전쟁과 정치를 이해하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526472)
+#### [그리스, 은행 위기 회복 후 대출 문제에 직면, ECB 블로그에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526471)
+#### [뉴멕시코의 조사 과정에서 엡스타인과 권력자들과의 관계에 대한 의문이 제기됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526470)
+#### [분석-이란 전쟁 3주째, 트럼프의 통제를 벗어난 이란 전쟁 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526469)
+#### [영국 총리 스타머, 이란 전쟁의 비용과 생활 영향에 대한 회의 소집, 타임즈에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526467)
+#### [Merz: 트럼프는 지금 "나에 대해 말하는 게 별로 좋지 않다"](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526468)
+#### [바그다드 이라크 정보 본부 근처에서 드론 공격으로 장교 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526466)
+#### [이스라엘 공격의 표적이 된 나탄 즈 농축 시설,이란의 타스 님은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526465)
+#### [강가 페이퍼스 인디아, 2026년 3월 20일부로 마니쉬 쿠마르를 회장으로 임명한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526464)
+#### [정보, 훈련을 위해 나이지리아에 군대와 함께 배치 된 미국 드론](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526463)
+#### [이란 전쟁의 에너지 충격으로 전 세계가 비용을 지불하고 소비를 줄입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526462)
+#### [토렌트 파마, 인도에서 일반 경구용 세마글루타이드 출시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526461)
+#### [맥심 파워 앨버타 144MW H.R. 밀너 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526460)
+#### [IMF, 스페인의 2026년과 2027년 성장률 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526459)
+#### [나폴리에 상륙한 아메리카 컵의 녹, 먼지, 슈퍼요트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526458)
+#### [러시아의 공격으로 우크라이나 체르니히프 지역 대부분 정전 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526457)
+#### [푸틴이 테헤란에 말한다: 러시아, 이란 편에 서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526456)
+#### [러시아의 공격으로 우크라이나 체르니히 지역 대부분이 정전 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526455)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526453)
+#### [푸틴이 테헤란에 말한다: 러시아, 이란 편에 서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526454)
+#### [영 기지를 향해 미사일 발사, 이란의 Mehr는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526452)
+#### [알켐 연구소, 인도에서 450루피부터 시작하는 주 1회 치료로 세마글루타이드 주사제 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526451)
+#### [EU, 이란 전쟁으로 인해 회원국들에게 가스 저장 목표 감축 촉구, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526450)
+#### [인도와 다른 아시아 지역의 정유사들은 미국의 제재 면제 이후 이란산 석유 구매를 모색하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526449)
