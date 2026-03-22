@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260322_1631 </title></head>
-<center>Vers : 20260322_1631 </center>
-<center>Vers : 20260323_0131 </center>
+<head><meta charset="utf-8"><title>Vers : 20260322_1733 </title></head>
+<center>Vers : 20260322_1733 </center>
+<center>Vers : 20260323_0233 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526657)
+#### [독일 메르츠 총리의 보수당이 주 선거에서 선두를 차지할 것이라는 전망이 나왔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526658)
+#### [메르츠 독일 총리의 보수당이 주 선거에서 선두를 달리고 있다는 예측이 나왔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526656)
+#### [파스키, 월요일 이사회에서 로바글리오 입장 재검토 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526655)
 #### [영국 스타머, 이란 전쟁의 경제적 영향에 대한 월요일 회의 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526651)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526654)
 #### [프랑스 지방선거 결선투표에서 파리와 마르세유가 주목받는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526650)
@@ -60,7 +64,3 @@
 #### [영국은 이란이 유럽을 미사일로 겨냥하고 있다는 증거를 보지 못했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526601)
 #### [크라켄은 현재 은행 파트너인 고객 은행의 정기 점검으로 인해 특정 자금 조달 방법이 지연되고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526600)
 #### [이란, 호르무즈, '적과 연계된' 선박을 제외한 모든 선박의 출입 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526599)
-#### [러시아, 우크라이나 수미 지역 마을 점령, RIA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526598)
-#### [프랑스 지방선거 결선투표에서 파리와 마르세유가 주목받는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526596)
-#### [영국 장관은 트럼프가이란에 대한 마감일에 대해 스스로를 대변한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526597)
-#### [슬로베니아 국민, 자유주의와 포퓰리즘 우파 간 치열한 경쟁 속에서 투표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2526594)
