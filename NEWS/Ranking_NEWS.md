@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260323_1705 </title></head>
-<center>Vers : 20260323_1705 </center>
-<center>Vers : 20260324_0205 </center>
+<head><meta charset="utf-8"><title>Vers : 20260323_1856 </title></head>
+<center>Vers : 20260323_1856 </center>
+<center>Vers : 20260324_0356 </center>
 <br><br><br>
 #### [“믿었던 금이 배신했다”…하루 8% 폭락, ‘20만원 붕괴’ 눈앞](https://m.stock.naver.com/news/ranknews/view/029/0003017536)
 #### [트럼프에 뉴욕증시 환호…삼전ㆍSK하닉도 기대감 ‘쑥’](https://m.stock.naver.com/news/ranknews/view/029/0003017611)
