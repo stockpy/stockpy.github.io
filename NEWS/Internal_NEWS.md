@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260323_2233 </title></head>
-<center>Vers : 20260323_2233 </center>
-<center>Vers : 20260324_0733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260323_2303 </title></head>
+<center>Vers : 20260323_2303 </center>
+<center>Vers : 20260324_0803 </center>
 <br><br><br>
+#### [브라질의 대두 수출이 운송 문제로 3월 일평균 18% 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528360)
+#### [NextEra, 데이터 센터에 전력을 공급할 거대한 가스 플랜트 프로젝트를 위해 텍사스에 토지를 확보했다고 CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528358)
+#### [브라질 볼소나로 중환자실 퇴원, 현지 언론에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528359)
+#### [백악관 에너지 고문, 미국 석유 회사들이 알래스카에서 추가 시추에 대해 문의하고 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528357)
+#### [길리어드, 생명 공학 회사 오로 메디신 인수 20 억 달러 이상 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528356)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GILD.O/total>
+#### [길리어드 사이언스, 자가면역질환 치료제 개발 위해 오로 메디슨 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528353)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GILD.O/total>
+#### [브루스 파워 온타리오 781MW 브루스 A 1 원자력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528354)
+#### [미국 규제 당국, 보안 우려를 이유로 새로운 외산 라우터 수입 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528355)
 #### [Exor, Iveco, GEDI, Lifenet 및 Nuo의 지분 매각으로 23억 달러 수익 창출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528352)
 #### [캘리포니아, 세이블 송유관 재가동에 대해 미국 에너지부에 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528347)
 #### [파라투스 에너지 서비스, 잭업 사업부 매각 발표 잭업 사업 매각 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528351)
@@ -62,12 +72,3 @@
 #### [연준의 데일리: 금리에 대한 가장 가능성 높은 단일 경로 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528307)
 #### [리오칸, 임시 최고재무책임자 임명 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528311)
 #### [트럼프가 이란 최후통첩을 풀자 BUZZ-AUD/USD가 반등하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528302)
-#### [캘리포니아, 세이블 송유관 재가동에 대해 미국 에너지부에 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528306)
-#### [미국, 우크라이나, 재건 기금 회의, 첫 투자 프로젝트에 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528310)
-#### [아폴로 부채 솔루션 Bdc - 2025 년 12 월 31 일 현재 발행 주식의 11.2 %에 대한 주주 환매 요청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528301)
-#### [Defi Technologies, 연간 제출 시점에 대한 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528305)
-#### [웨더포드, 2026년 1분기 컨퍼런스콜 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528292)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WFRD.O/total>
-#### [D-Box Technologies, 일반 코스 발행자 입찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528295)
-#### [가격 하락과 생산량 감소로 배틀먼트 오일 4분기 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528289)
-#### [퍼미미터, 3월 31일로 예정된 4분기 및 2025년 연간 재무 결과 컨퍼런스콜에서 기업 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2528291)

@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260323_2233 </title></head>
-<center>Vers : 20260323_2233 </center>
-<center>Vers : 20260324_0733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260323_2303 </title></head>
+<center>Vers : 20260323_2303 </center>
+<center>Vers : 20260324_0803 </center>
 <br><br><br>
 #### ["서학개미 환호"…WTI 10%↓ 뉴욕증시 1.4%↑](https://m.stock.naver.com/news/ranknews/view/215/0001246315)
 #### [“믿었던 금이 배신했다”…하루 8% 폭락, ‘20만원 붕괴’ 눈앞](https://m.stock.naver.com/news/ranknews/view/029/0003017536)
