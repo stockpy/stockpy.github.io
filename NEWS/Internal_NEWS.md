@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260324_2232 </title></head>
-<center>Vers : 20260324_2232 </center>
-<center>Vers : 20260325_0732 </center>
+<head><meta charset="utf-8"><title>Vers : 20260324_2301 </title></head>
+<center>Vers : 20260324_2301 </center>
+<center>Vers : 20260325_0801 </center>
 <br><br><br>
+#### [높은 가격이 더 오래 지속되지 않는 한 배럴당 100 달러로 시추 할 가능성이없는 CERAWEEK-미국 셰일 회사 경영진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530191)
+#### [뉴욕의 가나 대통령, 미국이 흑인 역사 삭제를 '정상화'하고 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530193)
+#### [트럼프 행정부는 빠르면 수요일에 여름 휘발유 규칙을 면제 할 수 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530189)
+#### [안두릴, 팔란티르, 골든 돔 미사일 방패 소프트웨어 개발, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530190)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLTR.O/total>
+#### [미국, 소셜 미디어 검열 사건 합의, 기관의 처벌 협박 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530192)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [98세 미국 판사, 정직에 대한 또 다른 도전에 패소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530184)
+#### [미디어 고문 로버트 말론, 미국 연방 백신 패널 그만두다 -NYT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530188)
+#### [호주 페퍼 머니, 7억 6천만 달러 인수 제안 거절하며 실행 문제 언급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530186)
+#### [연준의 Barr는 목표 이상의 인플레이션을 감안할 때 금리가 '한동안'안정적으로 유지 될 것으로보고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530187)
+#### [영국, 어린이를 위한 소셜 미디어 금지, 시간 제한 및 통금 시간 시범 운영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530183)
+#### [S&P: 라센앤투브로, 중동의 지정학적 긴장 고조에도 불구하고 회복력 유지 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530185)
+#### [중동 전쟁, 금리 우려에 월가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530182)
 #### [판사, 트럼프 행정부에 시카고 대중교통 자금 동결 일시 해제 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530177)
 #### [유나이티드항공, 2028년 4월까지 250대 이상의 신규 항공기 인도 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530180)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
@@ -59,17 +73,3 @@
 #### [엡실론 에너지 4분기 조정 EBITDA 미화 7,553백만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530138)
 #### [CME 소 선물이 혼조세로 거래되고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530135)
 #### [발레로, 폭발 후 텍사스 정유소 폐쇄, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530141)
-#### [베네수엘라 야당 지도자 마리아 코리나 마차도, 에너지 투자 보안과 투명성 강화 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530137)
-#### [Ppl Corp - Ferc, 뉴잉글랜드 송전 소유주를 위한 Roe에 대한 의견 594호 발행 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530134)
-#### [칠레 중앙은행, 유가 급등 속 기준금리 동결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530129)
-#### [뉴멕시코 평결에 대한 메타의 앤디 스톤 브리핑: 평결에 정중히 동의하지 않으며 항소할 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530125)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [미국, 중동 전쟁 종식을 목표로이란에 15 개 포인트 계획 보내, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530126)
-#### [솔리디온 테크놀로지 - CFO, 2024년 감사 재무는 더 이상 신뢰할 수 없다고 말하다 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530128)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/STI.O/total>
-#### [98세 미국 판사, 정직에 대한 또 다른 도전에서 패소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530124)
-#### [그리폴스 - 이사회가 그리폴스의 미국 바이오제약 사업 지분 일부의 미국 주식시장 상장을 승인했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530131)
-#### [미국 판사, 펜타곤의 인류학 블랙리스트가 AI 안전 견해에 대한 처벌로 보인다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530127)
-#### [그리폴스, 미국 바이오 제약 사업 IPO 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530123)
-#### [칠레 중앙 은행은 연료 가격 급등으로 금리를 4.5 %로 유지합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530130)
-#### [에너지 공급 불안이 지속되면서 BUZZ-AUD/USD가 급등세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2530121)
