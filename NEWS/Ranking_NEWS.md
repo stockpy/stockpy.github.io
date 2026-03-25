@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260325_1856 </title></head>
-<center>Vers : 20260325_1856 </center>
-<center>Vers : 20260326_0356 </center>
+<head><meta charset="utf-8"><title>Vers : 20260325_1948 </title></head>
+<center>Vers : 20260325_1948 </center>
+<center>Vers : 20260326_0448 </center>
 <br><br><br>
 #### ["연말까지 2배 간다, 지금 절대 팔지마"…월가 큰손이 내놓은 비트코인 파격 전망](https://m.stock.naver.com/news/ranknews/view/277/0005739997)
 #### [뉴욕증시, 엔비디아ㆍAMDㆍ인텔 ‘폭풍 질주’… 삼전닉스도 기대감](https://m.stock.naver.com/news/ranknews/view/029/0003018170)
