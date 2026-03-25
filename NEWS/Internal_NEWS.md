@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260325_2236 </title></head>
-<center>Vers : 20260325_2236 </center>
-<center>Vers : 20260326_0736 </center>
+<head><meta charset="utf-8"><title>Vers : 20260325_2306 </title></head>
+<center>Vers : 20260325_2306 </center>
+<center>Vers : 20260326_0806 </center>
 <br><br><br>
+#### [블랙록, 브라질 아자스 2154 지분 6.11%로 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532083)
+#### [적도 지역 4분기 조정 순이익 8억2천만 헤알](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532085)
+#### [투자자들이 중동의 긴장 완화를 평가하면서 미국 유가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532082)
+#### [대규모 에너지 컨퍼런스가 마무리되는 가운데 휴스턴 공항의 CERAWEEK-혼돈 속에서 참석자들이 분주하게 움직이고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532084)
+#### [액센츄어, 보안 운영을 위한 앤트로픽의 클로드 기반 사이버닷에이아이 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532081)
+#### [영국, 군에 러시아 그림자 함대 유조선 탑승 허가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532076)
+#### [호주 우드사이드 에너지, 텍사스의 보몬트 암모니아 시설 관리권 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532079)
+#### [발레로, 텍사스 주 포트 아서 정유소 재가동 시작, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532080)
+#### [JBS, 미국 소값 상승으로 마진 압박으로 분기 이익 보합세 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532075)
+#### [에콰도르 경제는 2025 년에 3.7 % 성장했다고 중앙 은행은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532078)
+#### [미국 평야 HRW 밀-기반 대부분 안정적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532077)
 #### [브라질 적도, 의무 지급금 삭감 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532069)
 #### [슈퍼 마이크로, 공동 설립자 등에 대한 중국 관련 형사 소송으로 주주들로부터 고소당함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532071)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMCI.O/total>
@@ -53,14 +64,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8316.T/total>
 #### [넥시의 오랜 CEO 파올로 베르톨루조 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532023)
 #### [미 법무부, 트럼프 동맹 플린의 미공개 금액에 대한 소송 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532029)
-#### [헤클라 마이닝 컴퍼니, 카사 베라르디 매각 마감 및 선순위 채권 상환 공지 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532034)
-#### [TC에너지, GasLink 확장을 위한 새로운 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532022)
-#### [백악관이 상임 책임자를 계속 물색함에 따라 당분간 바타차르야가 CDC를 이끌게 됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532028)
-#### [Sparc AI, 오버워치 GPS 거부 내비게이션 플랫폼 배포를 가속화하기 위해 우크라이나에 지상 추천 에이전트 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532018)
-#### [미란, 연준에 금리 목표 인하 재차 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532026)
-#### [Equillium, 예상보다 낮은 4분기 순손실 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532017)
-#### [에버레스트, 북미 조약 재보험 책임자로 전 Axis 임원 부스티 영입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532011)
-#### [미국 현금 원유 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532021)
-#### [사바 캐피탈 소득 및 기회 펀드 - 이전에 승인된 BRW 및 사바의 재편성 종료 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532016)
-#### [세리나 테라퓨틱스, R&D 비용 급증으로 2025년 순손실 확대 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532010)
-#### [브라질 법원, 현지 규제 당국에 Enel 상파울루 사건 진행 허가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2532020)
