@@ -1,7 +1,32 @@
-<head><meta charset="utf-8"><title>Vers : 20260326_2258 </title></head>
-<center>Vers : 20260326_2258 </center>
-<center>Vers : 20260327_0758 </center>
+<head><meta charset="utf-8"><title>Vers : 20260326_2340 </title></head>
+<center>Vers : 20260326_2340 </center>
+<center>Vers : 20260327_0840 </center>
 <br><br><br>
+#### [테더, 미국 확장을 앞두고 KPMG를 감사인으로 고용 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533972)
+#### [AUD / USD 취약, 에너지 위기가 호주 벨트를 강타합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533977)
+#### [12월 31일로 마감된 분기 실적 보고 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533980)
+#### [알트먼은 직원들에게 펜타곤 충돌에서 인류를 "구하려고"시도했다고 말했습니다 - Axios](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533975)
+#### [페츠 4분기 조정 순이익 2,600만 헤알](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533976)
+#### [뉴욕 연준 관계자는 중앙 은행의 채권 매입이 곧 완화될 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533979)
+#### [러시아와 우크라이나 모두 최전선 마을을 점령했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533974)
+#### [미국 교육부, 트럼프 정부에서 해체가 계속됨에 따라 현 본부를 떠날 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533978)
+#### [페르노드, 브라운-포먼 거래 고려 중, 상당한 주식 구성 요소 포함, 코스 뒤에있는 가족들은 각각 상당한 지분을 보유 할 가능성이 높습니다 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533973)
+#### [Fed's Barr: 인플레이션 기대치 상승에 대한 경계 필요](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533981)
+#### [KKCG 마리타임, 이탈리아 요트 제조업체 페레티 지분 인수 제안 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533965)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9638.HK/total>
+#### [미국 대도시 지역의 인구 증가 둔화, 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533964)
+#### [미국 판사가 펜타곤의 인류학 블랙리스트를 당분간 차단합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533971)
+#### [BUZZ-재생-아시아 전염병, 심각한 위험 변화, 달러 수요 플래그](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533963)
+#### [트럼프, 연방 계약업체에 DEI 제거를 요구하는 행정명령 서명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533970)
+#### [나스닥, 이란 전쟁 불확실성으로 투자자들이 겁을 먹자 조정 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533968)
+#### [뉴욕 연준 관계자는 중앙 은행의 지폐 매입이 곧 완화 될 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533962)
+#### [지정학적 역풍을 헤쳐나가기 위한 기업들의 경쟁으로 전 MI6 국장 리처드 무어, 테네오에 합류 - Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533969)
+#### [이란 전쟁 패닉으로 한국 주식은 약세가 아닌 약세로 돌아섰다: 레이차우두리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533967)
+#### [연준의 제퍼슨 : 지속적인 에너지 가격 상승은 인플레이션, 지출 전망을 악화시킬 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533966)
+#### [맥주에서 화장품까지, 아시아는 전쟁으로 인한 에너지 위기를 온몸으로 느끼고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533961)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8233.T/total>
+#### [오라클, 빠른 성장을 지원하기 위해 내슈빌 지사 확장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533960)
+#### [포먼과 잠재적 사업 결합에 대해 논의 중이라고 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533959)
 #### [KKCG Maritime, 페레티에 대한 주당 3.90유로 인상 고려 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533950)
 #### [멕시코의 볼라리스, 비바 에어로버스와의 합병 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533954)
 #### [트럼프, 이란 에너지 시설 공격 중단하고 회담이 '잘 진행되고 있다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533957)
@@ -44,29 +69,3 @@
 #### [칠레의 연료 가격 급등, 카스트의 조기 정치적 시험대에 오르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533919)
 #### [독점-트럼프의 서명이 미국 화폐에 등장 할 것이라고 재무부는 165 년 전통을 끝내겠다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533923)
 #### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533924)
-#### [알제리, 제분용 밀 구매, 한국 사료업체, 사료용 밀 구매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533918)
-#### [넷플릭스, 미국 내 모든 요금제에서 구독료 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533922)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
-#### [유니티 소프트웨어, 1분기 예비 실적 호조에 힘입어 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533920)
-#### [분석가들, 이란 분쟁 지속으로 유가 전망 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533917)
-#### [캐나다 가격 책정, 미국 물량 증가로 라손드 인더스트리의 4분기 매출이 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533895)
-#### [사우스랜드 4분기 매출 미화 1억 4천만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533921)
-#### [유니레버, 벤앤제리스의 이사회 의장 축출에 따른 명예훼손 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533916)
-#### [유럽, 러시아의 대이란 지원에 대해 미국을 압박하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533912)
-#### [미국 곡물 바지선 운임 값은? 3월 26일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533894)
-#### [미국 연방항공청, 캘리포니아에서 유나이티드 제트기와 육군 헬리콥터 간 근접 충돌 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533915)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
-#### [위험선호심리 증발로 침체기에 빠진 BUZZ-NZD/USD](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533906)
-#### [북한, 벨로루시, 우호 조약 체결, KCNA는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533893)
-#### [독점-트럼프의 서명이 미국 화폐에 등장 할 것이라고 재무부는 165 년 전통을 끝내겠다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533914)
-#### [연준의 쿡 : 이란 전쟁으로 인해 위험의 균형이 인플레이션으로 이동했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533905)
-#### [프랑스 DBV 테크놀로지스 2025 순손실 확대, 영업 이익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533901)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533913)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533904)
-#### [애플이 맥 프로를 단종하고 웹 사이트에서 삭제했다 - 블룸버그 뉴스 기자 구르만](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533900)
-#### [에너지엑스, 프로젝트 론스타에 미국 기반 리튬 생산 시설 가동 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533910)
-#### [제나스 바이오파마, 전환사채 발행을 통한 주식 공모 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533903)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ZBIO.O/total>
-#### [IOC 위원장, '선수들의 최선의 이익'이 트랜스젠더 금지를 주도했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533899)
-#### [노텍 시스템즈 4분기 순매출 증가, 공동 흑자 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533909)
-#### [라손드 인더스트리 4분기 EPS CAD 7.92](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533897)
