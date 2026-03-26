@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260326_1906 </title></head>
-<center>Vers : 20260326_1906 </center>
-<center>Vers : 20260327_0406 </center>
+<head><meta charset="utf-8"><title>Vers : 20260326_2036 </title></head>
+<center>Vers : 20260326_2036 </center>
+<center>Vers : 20260327_0536 </center>
 <br><br><br>
 #### [구글이 던진 폭탄에 삼전닉스 '와르르'…증권가는 '반전' 전망 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005267620)
 #### [“삼전·하닉, 너무 많이 떴다?”…뭉칫돈, 이제 ‘이곳으로’](https://m.stock.naver.com/news/ranknews/view/021/0002780000)
