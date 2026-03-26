@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260326_2230 </title></head>
-<center>Vers : 20260326_2230 </center>
-<center>Vers : 20260327_0730 </center>
+<head><meta charset="utf-8"><title>Vers : 20260326_2258 </title></head>
+<center>Vers : 20260326_2258 </center>
+<center>Vers : 20260327_0758 </center>
 <br><br><br>
 #### ["나스닥, 조정구간"…트럼프, 장 마감 뒤 "열흘 유예"](https://m.stock.naver.com/news/ranknews/view/215/0001246810)
 #### [구글이 던진 폭탄에 삼전닉스 '와르르'…증권가는 '반전' 전망 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005267620)

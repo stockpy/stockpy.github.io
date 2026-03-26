@@ -1,7 +1,31 @@
-<head><meta charset="utf-8"><title>Vers : 20260326_2230 </title></head>
-<center>Vers : 20260326_2230 </center>
-<center>Vers : 20260327_0730 </center>
+<head><meta charset="utf-8"><title>Vers : 20260326_2258 </title></head>
+<center>Vers : 20260326_2258 </center>
+<center>Vers : 20260327_0758 </center>
 <br><br><br>
+#### [KKCG Maritime, 페레티에 대한 주당 3.90유로 인상 고려 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533950)
+#### [멕시코의 볼라리스, 비바 에어로버스와의 합병 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533954)
+#### [트럼프, 이란 에너지 시설 공격 중단하고 회담이 '잘 진행되고 있다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533957)
+#### [치니 얼라이언스, 회계연도 매출 6,498백만 홍콩 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533949)
+#### [자산 관리 부문의 흑자 전환으로 캐나다 웨스트임의 4분기 순손실 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533953)
+#### [이탈리아 요트 제조업체 페레티의 지분 인수 제안에 KKCG 마리타임이 화답했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533956)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9638.HK/total>
+#### [중재자들은이란이 에너지 현장 파업에 대한 일시 중지를 요청하지 않았다고 WSJ 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533948)
+#### [트럼프, DHS 국장에게 미국 TSA 요원에게 돈을 지불하도록 명령 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533952)
+#### [멕시코 피브라 단호스, 코로나19 기간 중 임대료 재협상에 관한 반독점위원회 결의안 검토, 법적 방어 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533955)
+#### [브라운-포먼, 페르노 리카르드와 논의 확정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533947)
+#### [미국 국토안보부 내부 감시반이 노엠의 계약 처리를 조사한다고 CNN이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533951)
+#### [12월 31일로 마감된 분기 실적 보고 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533958)
+#### [연준의 미란, 중앙은행 대차대조표를 더 축소할 수 있는 경로 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533946)
+#### [아메리칸 항공, 기내 인터넷 및 엔터테인먼트 개편을 위해 Spacex의 Starlink 및 Amazon과 협의 중- CNBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533940)
+#### [럼블, 최고 재무 책임자 전환 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533945)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RUM.O/total>
+#### [유니레버, 벤앤제리스의 이사회 의장 축출에 따른 명예훼손 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533941)
+#### [OpenAI의 미국 광고 파일럿 프로그램, 6주 만에 연간 매출 1억 달러 돌파](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533939)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [목요일 셰브론이 운영하는 휘트 스톤 플랫폼에서 정전이 발생하여 LNG 및 국내 가스 생산이 중단되었습니다- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533944)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533938)
+#### [미농무부 3월 재배, 재고 보고서에 대한 무역 추정치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533943)
+#### [예상되는 IPO를 앞두고 레버리지 스페이스엑스, 앤트로픽 ETF에 대한 T-Rex 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533942)
 #### [러시아 푸틴, 우크라이나 전쟁 비용 급증으로 과두 정치인들에게 예산 기부 요청, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533934)
 #### [멕시코 에센티아 에너지, 2억5천만 달러 규모의 확장 계획 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533929)
 #### [Fed의 쿡은 이란 전쟁으로 인해 위험의 균형이 인플레이션으로 이동했다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533935)
@@ -46,29 +70,3 @@
 #### [IOC 위원장, '선수들의 최선의 이익'이 트랜스젠더 금지를 주도했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533899)
 #### [노텍 시스템즈 4분기 순매출 증가, 공동 흑자 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533909)
 #### [라손드 인더스트리 4분기 EPS CAD 7.92](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533897)
-#### [직원들에게 AI 사용을 장려하는 MEDIA-Meta - Business Insider](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533898)
-#### [2026년 1월 구리 시장, 17,000톤 흑자 - ICSG](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533908)
-#### [EU, 안전하지 않은 제품을 수입하는 온라인 플랫폼에 과태료 부과에 동의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533887)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9988.HK/total>
-#### [DBV 회계연도 영업 이익 560만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533883)
-#### [파 테크놀로지 코퍼레이션 파일 미공개 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533907)
-#### [모토로라 솔루션 캐나다 네트워크 Inc. 벨 캐나다의 랜드 모바일 무선 네트워크 서비스 사업 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533886)
-#### [칼리안, 성장을 추구하기 위해 약정 신용 시설을 늘리고 경영진 변경 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533902)
-#### [웍스스포츠, 2026년 전체 매출이 3,500만 달러에서 4,200만 달러 사이가 될 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533911)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WKSP.O/total>
-#### [USTR, USMCA 패널, 오라 마이닝의 미네라 카미노 로호 시설에서 '심각한' 노동권 거부를 발견했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533896)
-#### [리비아 NOC, 셰브론과 해양 블록 NC 146 연구를 위한 양해각서 체결, NOC 책임자 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533882)
-#### [UK의 리브스, 중동 분쟁의 영향을 가늠하기 위해 은행들을 만나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533885)
-#### [맥쿼리, 공급 리스크에 따라 2026년 WTI 전망치를 $83/bbl로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533881)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프 라인 tsp 캡 제공 - tsp 용량 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533877)
-#### [모든 상품 판매(오일 제외)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533884)
-#### [나스닥, 미국 증시 후퇴로 조정 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533880)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [마스터브랜드 주식회사와 그 사업부, 2026년 3월 26일 신용 계약에 대한 두 번째 수정안 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533890)
-#### [Health In Tech Inc - 5,600,000 보통주에 대한 파이프 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533863)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HIT.O/total>
-#### [마스코, 2026년 3월 20일에 새로운 신용 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533879)
-#### [나스닥은 조정 확인, 월가는 중동 불확실성으로 폭락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533889)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [키보코, 경영진 및 이사회 변경 사항 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533892)
-#### [AI 소프트웨어 기업 베리톤, 4분기 잠정 실적 보고 및 오라클과의 계약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2533878)
