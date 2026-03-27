@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260327_2233 </title></head>
-<center>Vers : 20260327_2233 </center>
-<center>Vers : 20260328_0733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260327_2304 </title></head>
+<center>Vers : 20260327_2304 </center>
+<center>Vers : 20260328_0804 </center>
 <br><br><br>
+#### [트럼프, 미군 성공을 선전하는 연설에서 '쿠바는 다음'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535691)
+#### [메타, 다음 주에 처방전 착용자를 위한 두 가지 새로운 Ray-Ban 스마트 안경 모델 출시 계획 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535692)
+#### [싱귤러스 테크놀로지스, 기술 파트너로부터 두 자릿수 백만 유로 규모의 첫 수주 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535690)
+#### [토론토 경찰, 건물 옥상에서 화재, 폭발 가능성 신고에 대응 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535689)
+#### [중동 전쟁의 무게로 증시 폭락, 다우 지수 조정 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535688)
+#### [아르테미스 달 탐사 임무에 임하는 우주 비행사들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535687)
+#### [토론토 경찰, 건물 옥상에서 화재, 폭발 가능성 신고에 대응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535686)
+#### [KPMG, 감사 부문에서 수백 개의 일자리를 줄일 계획, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535684)
+#### [IAEA, 이란 부셰르 원자력 발전소 근처에서 새로운 파업보고, 피해보고 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535685)
 #### [트럼프, 미군 성공을 선전하는 연설에서 '쿠바는 다음'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535683)
 #### [러시아와 이란 외무장관, 분쟁 해결 가능성 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535678)
 #### [블랙록 CEO 핑크의 2025년 보수가 3,770만 달러로 인상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535681)
@@ -60,14 +69,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
 #### [증시 폭락, 다우, 중동 긴장으로 조정 영역 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535635)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [미국 디젤 가격 급등으로 트럭 운송 업계가 수년간의 침체에서 벗어나지 못하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535631)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CHRW.O/total>
-#### [베네수엘라 국영 석유 회사, 카르돈 정유소 인근에서 두 건의 기름 유출 사고 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535633)
-#### [TF Bank AB, 영국 자회사인 TFBN Services가 영국에서 소비자 신용 활동을 수행하고 결제 서비스를 제공할 수 있도록 FCA로부터 승인을 받았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535634)
-#### [상품 가격 상승이 중동 불확실성을 상쇄하면서 캐나다 증시-TSX, 주간 상승폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535614)
-#### [프랑스 기업 Arverne Group, 최소 3300만 유로에 ORANE 채권 발행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535619)
-#### [3월 27일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535625)
-#### [전쟁에 대한 트레이더들의 우려로 다우지수가 조정을 확인했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535618)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
-#### [베르데 클린 퓨얼스 4분기 손상차손으로 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535621)
-#### [일라이 릴리, 미국 대법원에서 남북전쟁 시대의 내부 고발자 법 적용 대상에 오르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535624)
