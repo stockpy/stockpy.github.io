@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260327_1942 </title></head>
-<center>Vers : 20260327_1942 </center>
-<center>Vers : 20260328_0442 </center>
+<head><meta charset="utf-8"><title>Vers : 20260327_2039 </title></head>
+<center>Vers : 20260327_2039 </center>
+<center>Vers : 20260328_0539 </center>
 <br><br><br>
 #### [삼전닉스 주가 박살낸 ‘터보퀀트’…30대 KAIST 교수가 만들었다](https://m.stock.naver.com/news/ranknews/view/009/0005657199)
 #### [102억→275억 급증…"당국 경고도 안 통한다"](https://m.stock.naver.com/news/ranknews/view/215/0001246944)
