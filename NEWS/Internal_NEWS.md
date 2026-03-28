@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260328_2259 </title></head>
-<center>Vers : 20260328_2259 </center>
-<center>Vers : 20260329_0759 </center>
+<head><meta charset="utf-8"><title>Vers : 20260328_2340 </title></head>
+<center>Vers : 20260328_2340 </center>
+<center>Vers : 20260329_0840 </center>
 <br><br><br>
+#### [예멘 후티, 이스라엘 공격으로 이란 전쟁 돌입, 미 해병대 지역 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535872)
+#### [모터사이클 - 아필리아 레이싱의 마틴, US MotoGP 스프린트 우승, 베제키 충돌 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535871)
 #### [방공 시스템이 이라크 쿠르드 지도자 거주지 근처에서 드론을 격추했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535870)
 #### [어스아워를 맞아 유럽 전역의 랜드마크가 어두워집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535869)
 #### [예멘 후티 반군, 이란 전쟁 중 첫 공격으로 이스라엘 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535868)
@@ -64,5 +66,3 @@
 #### [이라크 총리, 쿠르드 지역 대통령 집 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535816)
 #### [브라질의 룰라, 차기 유엔 사무총장으로 바첼레트 지지 재차 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535814)
 #### [세계무역기구 전자상거래 모라토리엄이란 무엇인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535812)
-#### [인도, 에너지 비용 상승으로 중동 분쟁으로 인한 성장 위험 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535813)
-#### [로사톰, 이란의 부셰르 원자력 발전소 상황이 계속 악화되고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535811)
