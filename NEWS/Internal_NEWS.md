@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260328_2031 </title></head>
-<center>Vers : 20260328_2031 </center>
-<center>Vers : 20260329_0531 </center>
+<head><meta charset="utf-8"><title>Vers : 20260328_2059 </title></head>
+<center>Vers : 20260328_2059 </center>
+<center>Vers : 20260329_0559 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535863)
+#### [예멘의 후티 반군, 24시간 만에 이스라엘에 두 번째 공격 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535861)
+#### [영국 시위대가 정치적 우파의 부상에 반대하며 런던에서 행진하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535862)
 #### [밴스 부통령, CPAC 보수주의자 모임의 2028년 대선 여론조사에서 승리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535860)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535859)
 #### [이란의 현 지도자들과 거래를 하지 말라, 야당 지도자 팔레비 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535858)
@@ -62,6 +65,3 @@
 #### [로사톰, 이란의 부셰르 원자력 발전소 상황이 계속 악화되고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535805)
 #### [인도 중앙은행이 차익거래 베팅을 강제로 풀기 위해 루피를 억제한다고 트레이더들은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535806)
 #### [그리스 해안에서 이주민 22명, 6일 만에 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535803)
-#### [러시아 드론이 우크라이나에서 4명을 살해하고 주요 인프라와 산부인과 병원에 피해를 입혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535804)
-#### [미국 무역 협상 불안에 캐나다 기업들 주춤](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535801)
-#### [미국 무역 협상 불안에 캐나다 기업들 주춤](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535800)
