@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260328_2138 </title></head>
-<center>Vers : 20260328_2138 </center>
-<center>Vers : 20260329_0638 </center>
+<head><meta charset="utf-8"><title>Vers : 20260328_2229 </title></head>
+<center>Vers : 20260328_2229 </center>
+<center>Vers : 20260329_0729 </center>
 <br><br><br>
+#### [어스아워를 맞아 유럽 전역의 랜드마크가 어두워집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535869)
+#### [예멘 후티 반군, 이란 전쟁 중 첫 공격으로 이스라엘 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535868)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535866)
 #### [아필리아 레이싱의 마틴, US MotoGP 스프린트 우승, 베제키 충돌 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535867)
 #### [암젠의 레파타, 고위험군 환자에서 첫 주요 심혈관 사건 발생 위험 31% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535865)
@@ -64,5 +66,3 @@
 #### [인도, 에너지 비용 상승으로 중동 분쟁으로 인한 성장 위험 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535813)
 #### [로사톰, 이란의 부셰르 원자력 발전소 상황이 계속 악화되고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535811)
 #### [후티 반군이 이란 분쟁에서 처음으로 이스라엘을 공격합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535810)
-#### [조세 피난처 모나코를 방문한 레오 교황, 빈곤층에 대한 도움 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535808)
-#### [러시아, 홍수로 327,000 명 이상의 전력 공급이 중단됨에 따라 다게 스탄의 수도에 비상 사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535809)
