@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260328_2229 </title></head>
-<center>Vers : 20260328_2229 </center>
-<center>Vers : 20260329_0729 </center>
+<head><meta charset="utf-8"><title>Vers : 20260328_2259 </title></head>
+<center>Vers : 20260328_2259 </center>
+<center>Vers : 20260329_0759 </center>
 <br><br><br>
+#### [방공 시스템이 이라크 쿠르드 지도자 거주지 근처에서 드론을 격추했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535870)
 #### [어스아워를 맞아 유럽 전역의 랜드마크가 어두워집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535869)
 #### [예멘 후티 반군, 이란 전쟁 중 첫 공격으로 이스라엘 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535868)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535866)
@@ -65,4 +66,3 @@
 #### [세계무역기구 전자상거래 모라토리엄이란 무엇인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535812)
 #### [인도, 에너지 비용 상승으로 중동 분쟁으로 인한 성장 위험 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535813)
 #### [로사톰, 이란의 부셰르 원자력 발전소 상황이 계속 악화되고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535811)
-#### [후티 반군이 이란 분쟁에서 처음으로 이스라엘을 공격합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535810)

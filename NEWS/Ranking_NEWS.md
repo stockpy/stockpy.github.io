@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260328_2229 </title></head>
-<center>Vers : 20260328_2229 </center>
-<center>Vers : 20260329_0729 </center>
+<head><meta charset="utf-8"><title>Vers : 20260328_2259 </title></head>
+<center>Vers : 20260328_2259 </center>
+<center>Vers : 20260329_0759 </center>
 <br><br><br>
 #### [“이럴 바엔 삼전·닉스 몰빵” 속터진 개미들, ETF 팔고 ‘각자도생’ 나섰다](https://m.stock.naver.com/news/ranknews/view/011/0004604468)
 #### [삼전 말고 엔비디아 샀는데 어쩌나…“더 이상 못 버티겠다” 1000억 던진 돈나무 언니](https://m.stock.naver.com/news/ranknews/view/011/0004604457)
