@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260328_1256 </title></head>
-<center>Vers : 20260328_1256 </center>
-<center>Vers : 20260328_2156 </center>
+<head><meta charset="utf-8"><title>Vers : 20260328_1352 </title></head>
+<center>Vers : 20260328_1352 </center>
+<center>Vers : 20260328_2252 </center>
 <br><br><br>
+#### [브라질의 룰라, 차기 유엔 사무총장으로 바첼레트 지지 재차 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535814)
+#### [세계무역기구 전자상거래 모라토리엄이란 무엇인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535812)
+#### [인도, 에너지 비용 상승으로 중동 분쟁으로 인한 성장 위험 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535813)
+#### [로사톰, 이란의 부셰르 원자력 발전소 상황이 계속 악화되고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535811)
+#### [후티 반군이 이란 분쟁에서 처음으로 이스라엘을 공격합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535810)
+#### [조세 피난처 모나코를 방문한 레오 교황, 빈곤층에 대한 도움 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535808)
+#### [러시아, 홍수로 327,000 명 이상의 전력 공급이 중단됨에 따라 다게 스탄의 수도에 비상 사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535809)
+#### [이집트,이란 전쟁으로 2 개월 동안 일부 국가 프로젝트 둔화, 총리, 총리는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535807)
 #### [로사톰, 이란의 부셰르 원자력 발전소 상황이 계속 악화되고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535805)
 #### [인도 중앙은행이 차익거래 베팅을 강제로 풀기 위해 루피를 억제한다고 트레이더들은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535806)
 #### [그리스 해안에서 이주민 22명, 6일 만에 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535803)
@@ -54,6 +62,10 @@
 #### [우크라이나 젤렌스키, UAE 대통령과 국방 협력 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535757)
 #### [쿠웨이트 국제 공항, 드론 공격 후 레이더 시스템 '심각한' 손상 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535756)
 #### [모터 레이싱-메르세데스 드라이버 안토넬리, 일본에서 2연속 폴을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535755)
+<head><meta charset="utf-8"><title>Vers : 20260328_1352 </title></head>
+<center>Vers : 20260328_1352 </center>
+<center>Vers : 20260328_2252 </center>
+<br><br><br>
 #### [예멘 후티 반군, 현 전쟁에서 처음으로 이스라엘에 대한 공격 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535752)
 #### [러시아 야로 슬라 블 지역에 대한 우크라이나 드론 공격으로 어린이 사망, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535753)
 #### [인도 민간 항공부, 인디고 항공편이 한 번의 엔진 고장을 겪은 후 델리 공항에 전면 비상 사태가 선포되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535754)
@@ -62,10 +74,6 @@
 #### [안토넬리, 일본에서 폴에 오르며 메르세데스, 앞줄을 잠그다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535750)
 #### [오만 살랄라 항구에서 드론 공격으로 근로자 부상, 정부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535748)
 #### [Atco 온타리오 580MW 브라이튼 비치 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535746)
-<head><meta charset="utf-8"><title>Vers : 20260328_1256 </title></head>
-<center>Vers : 20260328_1256 </center>
-<center>Vers : 20260328_2156 </center>
-<br><br><br>
 #### [맥쿼리 온타리오 184MW 카디널 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535745)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535744)
 #### [KPMG, 영국 감사 부문에서 일자리 감축 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535743)
@@ -121,6 +129,10 @@
 #### [트럼프, '나토를 위해 나토에 있을 필요 없다' 발언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535697)
 #### [ICE 자금 지원을 둘러싼 정치적 싸움에서 많은 패자, 소수의 승자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535696)
 #### [트럼프, 미군 성공을 선전하는 연설에서 '쿠바는 다음'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535693)
+<head><meta charset="utf-8"><title>Vers : 20260328_1352 </title></head>
+<center>Vers : 20260328_1352 </center>
+<center>Vers : 20260328_2252 </center>
+<br><br><br>
 #### [질 바이든에게 배정 된 비밀 경호원, 자신의 다리에 총격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535695)
 #### [트럼프, '우리는 나토를 위해 거기에 있을 필요가 없다' 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535694)
 #### [트럼프, 미군 성공을 선전하는 연설에서 '쿠바는 다음'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535691)
@@ -129,10 +141,6 @@
 #### [토론토 경찰, 건물 옥상에서 화재, 폭발 가능성 신고에 대응 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535689)
 #### [중동 전쟁의 무게로 증시 폭락, 다우 지수 조정 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535688)
 #### [아르테미스 달 탐사 임무에 임하는 우주 비행사들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535687)
-<head><meta charset="utf-8"><title>Vers : 20260328_1256 </title></head>
-<center>Vers : 20260328_1256 </center>
-<center>Vers : 20260328_2156 </center>
-<br><br><br>
 #### [토론토 경찰, 건물 옥상에서 화재, 폭발 가능성 신고에 대응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535686)
 #### [KPMG, 감사 부문에서 수백 개의 일자리를 줄일 계획, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535684)
 #### [IAEA, 이란 부셰르 원자력 발전소 근처에서 새로운 파업보고, 피해보고 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535685)
@@ -190,6 +198,10 @@
 #### [FG Nexus Inc <FGNX.OQ>는 주당 35 센트의 수익을 올릴 것으로 예상됩니다 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535642)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FGNX.O/total>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535632)
+<head><meta charset="utf-8"><title>Vers : 20260328_1353 </title></head>
+<center>Vers : 20260328_1353 </center>
+<center>Vers : 20260328_2253 </center>
+<br><br><br>
 #### [전쟁에 휩싸인 시장에 경제 전망을 제시하는 미국 고용 데이터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535630)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
 #### [증시 폭락, 다우, 중동 긴장으로 조정 영역 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535635)
@@ -201,10 +213,6 @@
 #### [상품 가격 상승이 중동 불확실성을 상쇄하면서 캐나다 증시-TSX, 주간 상승폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535614)
 #### [프랑스 기업 Arverne Group, 최소 3300만 유로에 ORANE 채권 발행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535619)
 #### [3월 27일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535625)
-<head><meta charset="utf-8"><title>Vers : 20260328_1256 </title></head>
-<center>Vers : 20260328_1256 </center>
-<center>Vers : 20260328_2156 </center>
-<br><br><br>
 #### [전쟁에 대한 트레이더들의 우려로 다우지수가 조정을 확인했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535618)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
 #### [베르데 클린 퓨얼스 4분기 손상차손으로 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535621)
@@ -270,6 +278,10 @@
 #### [아이레닉 캐피털, 텔레플렉스 이사회에 새로운 사외이사로 소위원회 구성 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535584)
 #### [EU와 CPTPP, "역사적인" 디지털 무역 협정 진행에 합의, 캐나다 국제 무역 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535579)
 #### [텔레플렉스, 2026년 하반기에 판매 거래가 마감될 예정이라고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535583)
+<head><meta charset="utf-8"><title>Vers : 20260328_1353 </title></head>
+<center>Vers : 20260328_1353 </center>
+<center>Vers : 20260328_2253 </center>
+<br><br><br>
 #### [크라켄, 펀드 라이즈 혁신 펀드 토큰화 위해 펀드레이즈와 파트너쉽 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535567)
 #### [오후 03:30(미국 동부 표준시) 기준 S&P 500 상위 및 하위 실적 종목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535571)
 #### [사우스캐롤라이나 보건부, 신규 홍역 사례 보고 없음, 총 발생 건수는 997건 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535564)
@@ -278,10 +290,6 @@
 #### [투기꾼들이 옥수수 순매수 포지션을 늘립니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535563)
 #### [채권 선반용 캐터필라 금융 서비스 파일, 크기 미공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535565)
 #### [타이거 우즈가 플로리다에서 전복 사고에 연루되었다고 ABC 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535569)
-<head><meta charset="utf-8"><title>Vers : 20260328_1256 </title></head>
-<center>Vers : 20260328_1256 </center>
-<center>Vers : 20260328_2156 </center>
-<br><br><br>
 #### [원무브 캐피털, 즉시 합류할 준비가 된 CEO 후보자 발굴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535562)
 #### [바이오 연료 발표에 따른 차익 실현으로 CBOT 대두 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535574)
 #### [예스웨이, 클래스 A 보통주 IPO 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535568)
@@ -337,6 +345,10 @@
 #### [캐나다 킹스베리, 홈 설원에서 화려한 커리어 마감하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535521)
 #### [에코 피스크 하락, 중동 혼란으로 다른 유가는 새로운 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535515)
 #### [텍사스에 있는 쉐니에르 에너지의 열차 5호선이 최대 용량으로 운행 중입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535517)
+<head><meta charset="utf-8"><title>Vers : 20260328_1353 </title></head>
+<center>Vers : 20260328_1353 </center>
+<center>Vers : 20260328_2253 </center>
+<br><br><br>
 #### [AUD / USD- 신랄한 위험이 지속됨에 따라 2 개월 최저치 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535506)
 #### [트럼프, NLRB 위원, 경력 직원 머피를 기관의 의장으로 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535512)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535514)
@@ -345,10 +357,6 @@
 #### [스털링은 지정학적, 인플레이션 위험 증가로 3월 저점을 주시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535508)
 #### [오일, 가스 탐사가 돌아왔습니다: 매장량 보충을 위한 에너지 대기업들의 사냥](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535513)
 #### [화석연료 거물들이 이란의 핵무장 지대에 갇히다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535510)
-<head><meta charset="utf-8"><title>Vers : 20260328_1256 </title></head>
-<center>Vers : 20260328_1256 </center>
-<center>Vers : 20260328_2156 </center>
-<br><br><br>
 #### [투자자들이 중동 긴장을 추적하면서 금이 하락 매수세로 3% 이상 급등했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535507)
 #### [편의점 소유주 예스웨이, 미국 기업공개 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535505)
 #### [슈퍼마켓 소매업체 카지노, 콰트림 담보 채권자들에 대한 상환 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535502)
@@ -408,6 +416,10 @@
 #### [3월 미국 소비자 심리가 3개월 만에 최저치로 떨어지다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535463)
 #### [드래프트킹스, '3월의 광란' 사용을 막기 위해 NCAA의 조기 입찰을 막다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535458)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DKNG.O/total>
+<head><meta charset="utf-8"><title>Vers : 20260328_1353 </title></head>
+<center>Vers : 20260328_1353 </center>
+<center>Vers : 20260328_2253 </center>
+<br><br><br>
 #### [쿠바 구호 호송을 위해 실종된 요트가 무사히 도착했다고 AFP 통신이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535453)
 #### [미국 시추업체들이 2주 연속 석유 및 가스 굴착 장비를 삭감했다고 Baker Hughes는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535462)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
@@ -417,10 +429,6 @@
 #### [뉴욕 연준, 리버스 리포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535450)
 #### [ECB는 금리 인상을 서두르지 말아야한다고 슈나벨은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535442)
 #### [러시아, 4 월 1 일부터 휘발유 수출 금지 도입, 정부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535446)
-<head><meta charset="utf-8"><title>Vers : 20260328_1256 </title></head>
-<center>Vers : 20260328_1256 </center>
-<center>Vers : 20260328_2156 </center>
-<br><br><br>
 #### [독점-미국, 워너-파라마운트 반독점 조사에 소환장을 보내며 조사에 박차를 가하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535449)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBD.O/total>
 #### [미국 SBA, 농부와 식품 공급 업체를위한 새로운 대출 보증을 시작한다고 트럼프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535441)
@@ -485,11 +493,3 @@
 #### [미국은이란 작전이 몇 달이 아닌 몇 주 안에 끝날 것으로 예상한다고 루비오는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535395)
 #### [유엔, 호르무즈 해협 무역을위한 새로운 메커니즘을 만들다, 대변인은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535398)
 #### [이탈리아 최고 법원, 시칠리아에서 낙태 의사에 대한 분리 고용 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535393)
-#### [Asseco 비즈니스 솔루션, 91,119 주를 79.80 Zlotys / Sh에 매입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535394)
-#### [이란의 안전한 통항 보장에도 불구하고 중국 선박, 호르무즈 해협 출항 시도 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535397)
-#### [미국 예비 2025년 연결 EBITDA 1억3440만 PLN](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535392)
-#### [ECB는 금리 인상을 서두르지 말아야한다고 슈나벨은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535391)
-#### [무무와 뉴욕 메츠, 전략적 파트너십 2년차 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535390)
-#### [러시아는 4 월 1 일부터 생산자를위한 휘발유 수출을 금지 할 수 있다고 타스 통신이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535385)
-#### [컨슈머 에너지, 미시간에서 2026년 전력망 업그레이드를 위한 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535389)
-#### [루비오, G7 장관들에게이란 전쟁이 몇 주 안에 끝나야한다고 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535383)
