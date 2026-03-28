@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260328_1635 </title></head>
-<center>Vers : 20260328_1635 </center>
-<center>Vers : 20260329_0135 </center>
+<head><meta charset="utf-8"><title>Vers : 20260328_1841 </title></head>
+<center>Vers : 20260328_1841 </center>
+<center>Vers : 20260329_0341 </center>
 <br><br><br>
+#### [이라크 경찰관 2명이 모술의 시아파 무장단체(PMF) 거점을 겨냥한 공습으로 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535849)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535847)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535848)
+#### [오데사에서 러시아 공격으로 2 명 사망, 병원 피해, 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535846)
+#### [매그니튜드, 포에버 영 꺾고 두바이월드컵 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535845)
+#### [멜로니, 좌절 후 이탈리아 국영 기업의 변화를 검토하다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535844)
+#### [아토스, 뉴욕 법원이 Syntel에 2억 3,690만 달러 지급을 명령한 코그니전트/트리제토에 대해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535843)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535842)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535841)
+#### [디 지아난토니오, US 그랑프리 연속 폴 랩 기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535840)
+#### [브리지 론 확보 및 잠재적 리파이낸싱에 대한 업데이트-애틀랜틱 사파이어, 브리지 론 확보 및 업데이트 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535839)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535837)
+#### [엘론 머스크의 마지막 xAI 공동 창업자 로스 노딘, 이번 주에 회사를 떠나다- 비즈니스 인사이더](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535838)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535836)
 #### [프랑스, 파리 뱅크 오브 아메리카 공격 시도 후 테러 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535835)
 #### [프랑스 반테러 검찰, 파리 뱅크 오브 아메리카 공격 의혹에 대한 수사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535834)
@@ -49,16 +62,3 @@
 #### [폴란드, 독일, 리투아니아 국경 검역 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535790)
 #### [그리스 해안에서 22 명의 이주민이 바다에서 6 일 만에 사망했다고 AFP가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535791)
 #### [마이어스 스퀴브, 오픈 라벨 외래 환자 전환 연구에서 경구용 비정형 항정신병약물에서 코벤피로 전환하는 동안 증상 안정성을 입증했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535792)
-#### [네팔 올리 전 총리, Z세대 시위 중 사망 사건으로 체포됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535789)
-#### [쿠웨이트 공항, 이란 드론 공격으로 '중대한' 레이더 시스템 손상 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535788)
-#### [미국 항공사 포드, 수리를 위해 크로아티아에 도착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535787)
-#### [멕시코 해군, 쿠바에 구호품을 실은 실종된 범선 2척 발견, 승무원 안전 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535785)
-#### [레오 교황, 억만장자들의 조세 피난처 모나코에 불우이웃 돕기 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535786)
-#### [러시아 드론이 폴 타바 지역에서 우크라이나의 가스 생산을 강타했다고 Naftogaz는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535784)
-#### [머스크, 보안 사고로 오만 살랄라 항구에서 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535783)
-#### [멕시코 해군, 쿠바에 원조를 실은 실종 된 요트 2 척 발견, 승무원 무사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535782)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535775)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535774)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535780)
-#### [러시아가 우크라이나 동부의 또 다른 마을을 장악했다고 RIA가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535773)
-#### [우크라이나와 러시아의 반정부 시위: 여러?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535779)

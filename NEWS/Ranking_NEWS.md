@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260328_1635 </title></head>
-<center>Vers : 20260328_1635 </center>
-<center>Vers : 20260329_0135 </center>
+<head><meta charset="utf-8"><title>Vers : 20260328_1841 </title></head>
+<center>Vers : 20260328_1841 </center>
+<center>Vers : 20260329_0341 </center>
 <br><br><br>
 #### ["큰손, '10조' 빼나갔다"…삼전닉스 고수도 '심란'](https://m.stock.naver.com/news/ranknews/view/215/0001246970)
 #### [삼전 말고 엔비디아 샀는데 어쩌나…“더 이상 못 버티겠다” 1000억 던진 돈나무 언니](https://m.stock.naver.com/news/ranknews/view/011/0004604457)
