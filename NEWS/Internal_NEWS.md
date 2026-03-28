@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260328_1841 </title></head>
-<center>Vers : 20260328_1841 </center>
-<center>Vers : 20260329_0341 </center>
+<head><meta charset="utf-8"><title>Vers : 20260328_1919 </title></head>
+<center>Vers : 20260328_1919 </center>
+<center>Vers : 20260329_0419 </center>
 <br><br><br>
+#### [경찰, 체코 방산 공장 방화 공격 후 네 번째 용의자 구금](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535852)
+#### [인시테의 피부병 치료제, 후기 임상시험에서 장기 증상 완화 효과 입증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535853)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INCY.O/total>
+#### [다케다의 건선 치료제, 후기 연구에서 성공하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535851)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/4502.T/total>
+#### [미국 북서부 강 유량이 103%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535850)
 #### [이라크 경찰관 2명이 모술의 시아파 무장단체(PMF) 거점을 겨냥한 공습으로 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535849)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535847)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535848)
@@ -58,7 +64,3 @@
 #### [타이거 우즈의 자동차 충돌 보도에 대해 트럼프는 '너무 기분이 나쁘다'고 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535796)
 #### [인도, 이커머스 관세 유예에 대한 변화 신호, 미국의 영구 연장 추진에 반발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535795)
 #### [이스라엘의 파업으로 최소 두 명의 레바논 언론인이 사망했다고 알 마나르 TV는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535794)
-#### [걸프만에서 호르무즈 해협을 건너는 인도행 LPG 유조선 2 척, 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535793)
-#### [폴란드, 독일, 리투아니아 국경 검역 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535790)
-#### [그리스 해안에서 22 명의 이주민이 바다에서 6 일 만에 사망했다고 AFP가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535791)
-#### [마이어스 스퀴브, 오픈 라벨 외래 환자 전환 연구에서 경구용 비정형 항정신병약물에서 코벤피로 전환하는 동안 증상 안정성을 입증했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535792)
