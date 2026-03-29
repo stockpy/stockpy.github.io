@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_0841 </title></head>
-<center>Vers : 20260329_0841 </center>
-<center>Vers : 20260329_1741 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_0921 </title></head>
+<center>Vers : 20260329_0921 </center>
+<center>Vers : 20260329_1821 </center>
 <br><br><br>
+#### [교황 레오, 하나님은 전쟁을 벌이는 지도자들의 기도를 거부하신다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535913)
+#### [세인츠, 베어맨의 스즈카 충돌 후 FIA에 행동 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535912)
+#### [스위스 대통령, 미국 무역 협상이 3 월 이후에도 계속 될 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535911)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535908)
 #### [윈난 주석 2025년 순이익 36.1% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535906)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000960.SZ/total>
@@ -67,15 +70,15 @@
 #### [릴리, 탈츠와 제바운드가 36주 시점에서 탈츠 단독요법 대비 통계적 우월성에 대한 1차 및 모든 주요 2차 평가변수를 충족했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535857)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535854)
 #### [이란, 파키스탄 국적 선박의 호르무즈 해협 통과 추가 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535855)
+<head><meta charset="utf-8"><title>Vers : 20260329_0921 </title></head>
+<center>Vers : 20260329_0921 </center>
+<center>Vers : 20260329_1821 </center>
+<br><br><br>
 #### [경찰, 체코 방산 공장 방화 공격 후 네 번째 용의자 구금](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535852)
 #### [인시테의 피부병 치료제, 후기 임상시험에서 장기 증상 완화 효과 입증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535853)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INCY.O/total>
 #### [다케다의 건선 치료제, 후기 연구에서 성공하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535851)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/4502.T/total>
-<head><meta charset="utf-8"><title>Vers : 20260329_0841 </title></head>
-<center>Vers : 20260329_0841 </center>
-<center>Vers : 20260329_1741 </center>
-<br><br><br>
 #### [미국 북서부 강 유량이 103%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535850)
 #### [이라크 경찰관 2명이 모술의 시아파 무장단체(PMF) 거점을 겨냥한 공습으로 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535849)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535847)
@@ -133,6 +136,3 @@
 #### [타이거 우즈의 자동차 충돌 보도에 대해 트럼프는 '너무 기분이 나쁘다'고 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535796)
 #### [인도, 이커머스 관세 유예에 대한 변화 신호, 미국의 영구 연장 추진에 반발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535795)
 #### [이스라엘의 파업으로 최소 두 명의 레바논 언론인이 사망했다고 알 마나르 TV는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535794)
-#### [걸프만에서 호르무즈 해협을 건너는 인도행 LPG 유조선 2 척, 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535793)
-#### [폴란드, 독일, 리투아니아 국경 검역 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535790)
-#### [그리스 해안에서 22 명의 이주민이 바다에서 6 일 만에 사망했다고 AFP가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535791)
