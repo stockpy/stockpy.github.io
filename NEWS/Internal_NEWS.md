@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_1434 </title></head>
-<center>Vers : 20260329_1434 </center>
-<center>Vers : 20260329_2334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_1503 </title></head>
+<center>Vers : 20260329_1503 </center>
+<center>Vers : 20260330_0003 </center>
 <br><br><br>
+#### [이스라엘 남부 아다마 공장이 이란 미사일 및 파편에 피격되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535969)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000553.SZ/total>
+#### [이란의 최고 지도자, 이라크 국민과 종교 지도자들의 지원에 감사를 표하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535968)
 #### [러시아, 영국 외무부에 외무부 소환, RIA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535966)
 #### [교황 레오, 유럽에서 튀김을 먹다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535967)
 #### [인도, 에너지 공급 문제 해결을 위해 등유 규정 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535965)
@@ -70,14 +73,14 @@
 #### [세인츠, 베어맨의 스즈카 충돌 후 FIA에 행동 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535912)
 #### [스위스 대통령, 미국 무역 협상이 3 월 이후에도 계속 될 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535911)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535908)
+<head><meta charset="utf-8"><title>Vers : 20260329_1503 </title></head>
+<center>Vers : 20260329_1503 </center>
+<center>Vers : 20260330_0003 </center>
+<br><br><br>
 #### [윈난 주석 2025년 순이익 36.1% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535906)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000960.SZ/total>
 #### [베이징 지오환경 엔지니어링 & 테크놀로지, 홍콩 상장 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535909)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603588.SS/total>
-<head><meta charset="utf-8"><title>Vers : 20260329_1434 </title></head>
-<center>Vers : 20260329_1434 </center>
-<center>Vers : 20260329_2334 </center>
-<br><br><br>
 #### [천산 알루미늄의 2025 년 순이익 8.1 % 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535907)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002532.SZ/total>
 #### [바이본 그룹 주식 거래 중단에 대한 간략한 설명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535910)
@@ -144,12 +147,12 @@
 #### [다케다의 건선 치료제, 후기 연구에서 성공하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535851)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/4502.T/total>
 #### [미국 북서부 강 유량이 103%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535850)
+<head><meta charset="utf-8"><title>Vers : 20260329_1503 </title></head>
+<center>Vers : 20260329_1503 </center>
+<center>Vers : 20260330_0003 </center>
+<br><br><br>
 #### [이라크 경찰관 2명이 모술의 시아파 무장단체(PMF) 거점을 겨냥한 공습으로 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535849)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535847)
-<head><meta charset="utf-8"><title>Vers : 20260329_1434 </title></head>
-<center>Vers : 20260329_1434 </center>
-<center>Vers : 20260329_2334 </center>
-<br><br><br>
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535848)
 #### [오데사에서 러시아 공격으로 2 명 사망, 병원 피해, 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535846)
 #### [매그니튜드, 포에버 영 꺾고 두바이월드컵 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535845)
@@ -208,5 +211,3 @@
 #### [폴란드, 독일, 리투아니아 국경 검역 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535790)
 #### [그리스 해안에서 22 명의 이주민이 바다에서 6 일 만에 사망했다고 AFP가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535791)
 #### [마이어스 스퀴브, 오픈 라벨 외래 환자 전환 연구에서 경구용 비정형 항정신병약물에서 코벤피로 전환하는 동안 증상 안정성을 입증했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535792)
-#### [네팔 올리 전 총리, Z세대 시위 중 사망 사건으로 체포됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535789)
-#### [쿠웨이트 공항, 이란 드론 공격으로 '중대한' 레이더 시스템 손상 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535788)
