@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_2231 </title></head>
-<center>Vers : 20260329_2231 </center>
-<center>Vers : 20260330_0731 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_2302 </title></head>
+<center>Vers : 20260329_2302 </center>
+<center>Vers : 20260330_0802 </center>
 <br><br><br>
 #### [“5일간 1700조 녹았다, 내 노후도 함께”…믿었던 빅테크서 곡소리](https://m.stock.naver.com/news/ranknews/view/009/0005657803)
 #### [지금은 금 대신 '이것' 살때…이란 전쟁 끝나면 주도권 바뀐다[주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005741516)

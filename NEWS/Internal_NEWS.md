@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_2231 </title></head>
-<center>Vers : 20260329_2231 </center>
-<center>Vers : 20260330_0731 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_2302 </title></head>
+<center>Vers : 20260329_2302 </center>
+<center>Vers : 20260330_0802 </center>
 <br><br><br>
+#### [에너지 위기의 무게에 짓눌린 BUZZ-NZD/USD 변동성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536027)
+#### [러시아 석유를 운반하는 유조선이 쿠바의 배타적 경제 수역에 진입했다고 선박 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536026)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536025)
 #### [예멘 후티 반군이 이스라엘을 공격하고이란 분쟁이 확대되면서 유가가 급등했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536024)
 #### [우크라이나 드론이 러시아 남부 타간로크에서 1명을 살해하고 주택과 산업에 피해를 입혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536022)
@@ -63,5 +65,3 @@
 #### [이스라엘 남부 아다마 공장이 이란 미사일 및 파편에 피격되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535969)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000553.SZ/total>
 #### [이란의 최고 지도자, 이라크 국민과 종교 지도자들의 지원에 감사를 표하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535968)
-#### [러시아, 영국 외무부에 외무부 소환, RIA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535966)
-#### [교황 레오, 유럽에서 튀김을 먹다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535967)
