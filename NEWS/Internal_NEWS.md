@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_1704 </title></head>
-<center>Vers : 20260329_1704 </center>
-<center>Vers : 20260330_0204 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_1843 </title></head>
+<center>Vers : 20260329_1843 </center>
+<center>Vers : 20260330_0343 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535993)
+#### [WHO, 레바논 남부에서 또 다른 의료 종사자 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535991)
+#### [W/E 뉴스-후티 전쟁 돌입, 미국 지상 작전 준비, '왕은 없다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535992)
+#### [미국 북서부 강 유량이 101%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535990)
+#### [이스라엘의 네타냐후, 헤즈볼라 로켓을 막기 위해 레바논 남부 작전 확대 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535989)
+#### [우크라이나 동부 크라 마 토르 스크에 대한 러시아 공격으로 3 명 사망, 경찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535988)
+#### [민주당 하임스 의원, 기소된 동료 체필러스-맥코믹에게 사임 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535987)
+#### [영국 플라잉 택시 회사 버티컬 에어로스페이스, 8억 달러 모금에 근접 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535986)
 #### [파키스탄, 사우디 아라비아, 터키, 이집트, 이란 전쟁의 영구적 인 종식을위한 방안 논의, 파키스탄은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535984)
 #### [인프라스트럭처 와이어리스 이탈리아어, Co. 모든 법적 절차에서 TIM 종료 통지에 반대한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535985)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535983)
@@ -62,13 +70,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3696.HK/total>
 #### [핀란드, 드론에 의한 영토 침범 의심 사례 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535934)
 #### [엘리 릴리, 홍콩 바이오테크 인실리코 메디신과 AI 신약 개발 위해 20억 달러 계약 체결 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535932)
-#### [프랑스, 파리 뱅크 오브 아메리카 공격 저지 용의자 2명 추가 구금](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535935)
-#### [인도행 LPG 유조선 2 척, 호르무즈 해협 통과, 정부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535933)
-#### [UAE 대통령 고문, 이란 공격에 대한 정치적 해결책에 배상이 포함되어야 한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535931)
-#### [핀란드, 드론에 의한 영토 침범 의심 사례 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535929)
-#### [텔레콤 이탈리아, 팀 이사회가 인윗과의 마스터 서비스 계약을 종료하기로 결의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535928)
-#### [신테 에너지의 2025년 순손실, 12억 위안에 달할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535930)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1799.HK/total>
-#### [진상은행 2025년 순이익 5.1% 감소 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535926)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2558.HK/total>
-#### [셰브론, 휘트스톤 가스 시설 수리에 몇 주 걸릴 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535927)
