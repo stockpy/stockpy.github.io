@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_1034 </title></head>
-<center>Vers : 20260329_1034 </center>
-<center>Vers : 20260329_1934 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_1103 </title></head>
+<center>Vers : 20260329_1103 </center>
+<center>Vers : 20260329_2003 </center>
 <br><br><br>
+#### [진상은행 2025년 순이익 5.1% 감소 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535926)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2558.HK/total>
+#### [셰브론, 휘트스톤 가스 시설 수리에 몇 주 걸릴 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535927)
+#### [레오 교황, 하나님은 전쟁을 일으키는 지도자들의 기도를 거절하신다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535925)
 #### ['좌절감을 넘어' 베르스타펜, 8위가 자신이 할 수 있는 최선이었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535922)
 #### [해외 차이나 타운 (아시아)의 2025 년 지분 보유자 귀속 손실 16.5 억 위안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535924)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3366.HK/total>
@@ -67,14 +71,14 @@
 #### [방공 시스템이 이라크 쿠르드 지도자 거주지 근처에서 드론을 격추했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535870)
 #### [어스아워를 맞아 유럽 전역의 랜드마크가 어두워집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535869)
 #### [예멘 후티 반군, 이란 전쟁 중 첫 공격으로 이스라엘 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535868)
+<head><meta charset="utf-8"><title>Vers : 20260329_1103 </title></head>
+<center>Vers : 20260329_1103 </center>
+<center>Vers : 20260329_2003 </center>
+<br><br><br>
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535866)
 #### [아필리아 레이싱의 마틴, US MotoGP 스프린트 우승, 베제키 충돌 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535867)
 #### [암젠의 레파타, 고위험군 환자에서 첫 주요 심혈관 사건 발생 위험 31% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535865)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMGN.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260329_1034 </title></head>
-<center>Vers : 20260329_1034 </center>
-<center>Vers : 20260329_1934 </center>
-<br><br><br>
 #### [밴스 부통령, CPAC 보수주의자 모임의 2028년 대선 여론조사에서 승리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535864)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535863)
 #### [예멘의 후티 반군, 24시간 만에 이스라엘에 두 번째 공격 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535861)
@@ -135,6 +139,3 @@
 #### [후티 반군이 이란 분쟁에서 처음으로 이스라엘을 공격합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535810)
 #### [조세 피난처 모나코를 방문한 레오 교황, 빈곤층에 대한 도움 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535808)
 #### [러시아, 홍수로 327,000 명 이상의 전력 공급이 중단됨에 따라 다게 스탄의 수도에 비상 사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535809)
-#### [이집트,이란 전쟁으로 2 개월 동안 일부 국가 프로젝트 둔화, 총리, 총리는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535807)
-#### [로사톰, 이란의 부셰르 원자력 발전소 상황이 계속 악화되고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535805)
-#### [인도 중앙은행이 차익거래 베팅을 강제로 풀기 위해 루피를 억제한다고 트레이더들은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535806)
