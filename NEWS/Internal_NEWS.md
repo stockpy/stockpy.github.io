@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_0921 </title></head>
-<center>Vers : 20260329_0921 </center>
-<center>Vers : 20260329_1821 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_1034 </title></head>
+<center>Vers : 20260329_1034 </center>
+<center>Vers : 20260329_1934 </center>
 <br><br><br>
+#### ['좌절감을 넘어' 베르스타펜, 8위가 자신이 할 수 있는 최선이었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535922)
+#### [해외 차이나 타운 (아시아)의 2025 년 지분 보유자 귀속 손실 16.5 억 위안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535924)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3366.HK/total>
+#### [커민스 인디아는 Co. 525.6백만 루피의 세금 요구와 525.6백만 루피의 벌금을 부과받음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535918)
+#### [중국, 남중국해 분쟁 지역 주변에서 순찰 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535921)
+#### [트럼프 정책 움직임을 앞두고 일부 거래는 의문을 제기합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535923)
+#### ['JD 또는 마르코?': 이란 전쟁, 트럼프가 밴스 대 루비오의 무게로 2028 년 판돈을 키우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535920)
+#### [트럼프의 정책 서프라이즈를 예상 한 수익성있는 베팅은 면밀한 조사가 필요하다고 전문가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535919)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CME.O/total>
+#### [선천적 시민권을 둘러싼 대법원 싸움에서 증손자가 1898년의 메아리를 듣습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535917)
+#### [중국이 홍콩 보안 규칙 변경에 대한 미국의 경고에 항의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535916)
+#### [러시아가 우크라이나 하르 키우 지역의 또 다른 마을을 점령했다고 RIA가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535915)
+#### [WTO, 미국-인도 전자상거래 교착 상태 속 개혁 로드맵 협상 타결 임박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535914)
 #### [교황 레오, 하나님은 전쟁을 벌이는 지도자들의 기도를 거부하신다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535913)
 #### [세인츠, 베어맨의 스즈카 충돌 후 FIA에 행동 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535912)
 #### [스위스 대통령, 미국 무역 협상이 3 월 이후에도 계속 될 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535911)
@@ -58,6 +71,10 @@
 #### [아필리아 레이싱의 마틴, US MotoGP 스프린트 우승, 베제키 충돌 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535867)
 #### [암젠의 레파타, 고위험군 환자에서 첫 주요 심혈관 사건 발생 위험 31% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535865)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMGN.O/total>
+<head><meta charset="utf-8"><title>Vers : 20260329_1034 </title></head>
+<center>Vers : 20260329_1034 </center>
+<center>Vers : 20260329_1934 </center>
+<br><br><br>
 #### [밴스 부통령, CPAC 보수주의자 모임의 2028년 대선 여론조사에서 승리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535864)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535863)
 #### [예멘의 후티 반군, 24시간 만에 이스라엘에 두 번째 공격 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535861)
@@ -70,10 +87,6 @@
 #### [릴리, 탈츠와 제바운드가 36주 시점에서 탈츠 단독요법 대비 통계적 우월성에 대한 1차 및 모든 주요 2차 평가변수를 충족했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535857)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535854)
 #### [이란, 파키스탄 국적 선박의 호르무즈 해협 통과 추가 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535855)
-<head><meta charset="utf-8"><title>Vers : 20260329_0921 </title></head>
-<center>Vers : 20260329_0921 </center>
-<center>Vers : 20260329_1821 </center>
-<br><br><br>
 #### [경찰, 체코 방산 공장 방화 공격 후 네 번째 용의자 구금](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535852)
 #### [인시테의 피부병 치료제, 후기 임상시험에서 장기 증상 완화 효과 입증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535853)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INCY.O/total>
@@ -125,14 +138,3 @@
 #### [이집트,이란 전쟁으로 2 개월 동안 일부 국가 프로젝트 둔화, 총리, 총리는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535807)
 #### [로사톰, 이란의 부셰르 원자력 발전소 상황이 계속 악화되고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535805)
 #### [인도 중앙은행이 차익거래 베팅을 강제로 풀기 위해 루피를 억제한다고 트레이더들은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535806)
-#### [그리스 해안에서 이주민 22명, 6일 만에 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535803)
-#### [러시아 드론이 우크라이나에서 4명을 살해하고 주요 인프라와 산부인과 병원에 피해를 입혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535804)
-#### [미국 무역 협상 불안에 캐나다 기업들 주춤](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535801)
-#### [미국 무역 협상 불안에 캐나다 기업들 주춤](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535800)
-#### [시리아, 이라크 영토에서 발사 된 드론 공격 차단, 국영 통신사 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535802)
-#### ['뱅커' 랩, 일본에서 침착한 안토넬리에게 보답하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535798)
-#### [러시아, 4월 1일부터 7일까지 곡물 수출세 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535797)
-#### [우크라이나, 이란이 두바이의 우크라이나 방공 기지 파괴 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535799)
-#### [타이거 우즈의 자동차 충돌 보도에 대해 트럼프는 '너무 기분이 나쁘다'고 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535796)
-#### [인도, 이커머스 관세 유예에 대한 변화 신호, 미국의 영구 연장 추진에 반발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535795)
-#### [이스라엘의 파업으로 최소 두 명의 레바논 언론인이 사망했다고 알 마나르 TV는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535794)
