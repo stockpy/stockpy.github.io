@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_1636 </title></head>
-<center>Vers : 20260329_1636 </center>
-<center>Vers : 20260330_0136 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_1704 </title></head>
+<center>Vers : 20260329_1704 </center>
+<center>Vers : 20260330_0204 </center>
 <br><br><br>
+#### [파키스탄, 사우디 아라비아, 터키, 이집트, 이란 전쟁의 영구적 인 종식을위한 방안 논의, 파키스탄은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535984)
+#### [인프라스트럭처 와이어리스 이탈리아어, Co. 모든 법적 절차에서 TIM 종료 통지에 반대한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535985)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535983)
+#### [러시아 우스트 루가 항구의 화재가 현재 통제되고 있다고 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535982)
 #### [아폴로, 미국 남부에 두 번째 미국 본사 설립 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535981)
 #### [혹등고래 티미? 얕은 바다를 탈출하기 위해 고군분투하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535980)
 #### [머크, 윈레베어, 2상 케이던스 시험에서 1차 평가지표 충족했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535979)
@@ -68,8 +72,3 @@
 #### [진상은행 2025년 순이익 5.1% 감소 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535926)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2558.HK/total>
 #### [셰브론, 휘트스톤 가스 시설 수리에 몇 주 걸릴 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535927)
-#### [레오 교황, 하나님은 전쟁을 일으키는 지도자들의 기도를 거절하신다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535925)
-#### ['좌절감을 넘어' 베르스타펜, 8위가 자신이 할 수 있는 최선이었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535922)
-#### [해외 차이나 타운 (아시아)의 2025 년 지분 보유자 귀속 손실 16.5 억 위안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535924)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3366.HK/total>
-#### [커민스 인디아는 Co. 525.6백만 루피의 세금 요구와 525.6백만 루피의 벌금을 부과받음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535918)
