@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_0500 </title></head>
-<center>Vers : 20260329_0500 </center>
-<center>Vers : 20260329_1400 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_0704 </title></head>
+<center>Vers : 20260329_0704 </center>
+<center>Vers : 20260329_1604 </center>
 <br><br><br>
+#### [오만은 자국 영토 공격에 대한 책임을 주장한 정당이 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535895)
 #### [메이웨더, 파퀴아오와의 재경기는 전시, 장소는 아직 결정되지 않았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535894)
 #### [주목해야 할 요소 - 3월 29일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535893)
 #### [러시아 우스트 루가 항구가 우크라이나 드론에 의해 손상되고 화재가 발생했다고 러시아 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535891)
@@ -65,11 +66,11 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535837)
 #### [엘론 머스크의 마지막 xAI 공동 창업자 로스 노딘, 이번 주에 회사를 떠나다- 비즈니스 인사이더](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535838)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535836)
-#### [프랑스, 파리 뱅크 오브 아메리카 공격 시도 후 테러 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535835)
-<head><meta charset="utf-8"><title>Vers : 20260329_0500 </title></head>
-<center>Vers : 20260329_0500 </center>
-<center>Vers : 20260329_1400 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_0704 </title></head>
+<center>Vers : 20260329_0704 </center>
+<center>Vers : 20260329_1604 </center>
 <br><br><br>
+#### [프랑스, 파리 뱅크 오브 아메리카 공격 시도 후 테러 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535835)
 #### [프랑스 반테러 검찰, 파리 뱅크 오브 아메리카 공격 의혹에 대한 수사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535834)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535833)
 #### [정치적 우파의 부상에 반대하는 시위대가 런던에서 행진하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535830)
@@ -129,4 +130,3 @@
 #### [러시아가 우크라이나 동부의 또 다른 마을을 장악했다고 RIA가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535773)
 #### [우크라이나와 러시아의 반정부 시위: 여러?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535779)
 #### [머스크, 보안 사고로 오만 살랄라 항구에서 운영 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535772)
-#### [미국 수천 개 도시에서 트럼프 반대 시위를 위한 '왕은 없다' 집회 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535781)
