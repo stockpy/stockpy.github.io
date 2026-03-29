@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260328_2340 </title></head>
-<center>Vers : 20260328_2340 </center>
-<center>Vers : 20260329_0840 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_0230 </title></head>
+<center>Vers : 20260329_0230 </center>
+<center>Vers : 20260329_1130 </center>
 <br><br><br>
+#### [인도 베단타, 다음 달 5개 회사로 분할, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535886)
+#### [미국 국토 안보부, 노엠의 해고 후 레반도프스키가 떠났다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535885)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535884)
+#### [인도 베단타, 다음 달 5개 회사로 분할, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535882)
+#### [영국 더비 도심에서 차량이 보행자 여러 명을 치어 사망케 한 사고, 더 타임스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535883)
+#### [펜타곤, 이란에서 몇 주간의 지상 작전 준비 중, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535881)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535880)
+#### [나렐 이후에도 계속되는 호주 LNG 공급 중단, 수천 명이 전력 공급을 받지 못하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535879)
+#### [국방부, 이란에서 몇 주간의 지상 작전 준비, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535878)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535875)
+#### [바레인 알바, 자국 시설에 대한 이란의 공격 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535876)
+#### [한국은 새로운 계획에 따라 에너지 부문을 미국의 첫 번째 투자 프로젝트로 고려하고 있다고 재무 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535877)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535874)
+#### [바레인 알바, 자국 시설에 대한 이란의 공격 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535873)
 #### [예멘 후티, 이스라엘 공격으로 이란 전쟁 돌입, 미 해병대 지역 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535872)
 #### [모터사이클 - 아필리아 레이싱의 마틴, US MotoGP 스프린트 우승, 베제키 충돌 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535871)
 #### [방공 시스템이 이라크 쿠르드 지도자 거주지 근처에서 드론을 격추했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535870)
@@ -52,17 +66,3 @@
 #### [대만 시노팩, 킹스 타운과 합병해 1,000억 달러 규모의 은행 설립- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535827)
 #### [프랑스 경찰, 파리 뱅크 오브 아메리카 밖에서 공격 미수 혐의로 남성 체포, 르 파리지앵 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535829)
 #### [마닐라, 베이징, 남중국해와 에너지 안보에 관한 회담 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535828)
-#### [이집트, 이란 전쟁으로 2 개월 동안 일부 국가 프로젝트 속도 늦추다 총리, 총리 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535826)
-#### [이탈리아 포스테, 텔레콤 이탈리아 이사회와 인수 입찰에 대한 회의 모색, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535825)
-#### [유럽에서 12톤의 킷캣 초콜릿 바를 훔친 도둑들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535824)
-#### [드론이 쿠르드 대통령 자택을 표적으로 삼아 바그다드에 조사 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535823)
-#### [WTO 회원국, 반대를 무릅쓰고 세계 최초의 디지털 무역 기본 규칙을 도입하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535821)
-#### [트럼프가 100달러 지폐에 서명해 현직 대통령 중 가장 작은 서클에 속하게 된 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535822)
-#### [미국 수천 개 도시에서 트럼프 반대 시위를 위한 '왕은 없다' 집회 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535819)
-#### [우크라이나, 러시아 야로 슬라 블 지역의 주요 정유 공장 타격, 키예프는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535820)
-#### [J&J, 아이코티드의 1년 결과, 판상 건선 치료제로서 지속적인 피부 개선 효과와 유리한 안전성 프로파일을 확인했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535817)
-#### [브라질의 대두 수확량은 73 %에 가까워졌지만 여전히 작년에 뒤쳐져 있다고 Patria AgroNegocios는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535818)
-#### [이탈리아 국가 재정이 중동 위기로 인한 충격을 흡수 할 수 있다고 FinMin은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535815)
-#### [이라크 총리, 쿠르드 지역 대통령 집 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535816)
-#### [브라질의 룰라, 차기 유엔 사무총장으로 바첼레트 지지 재차 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535814)
-#### [세계무역기구 전자상거래 모라토리엄이란 무엇인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535812)
