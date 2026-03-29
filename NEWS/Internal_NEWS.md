@@ -1,7 +1,28 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_2101 </title></head>
-<center>Vers : 20260329_2101 </center>
-<center>Vers : 20260330_0601 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_2231 </title></head>
+<center>Vers : 20260329_2231 </center>
+<center>Vers : 20260330_0731 </center>
 <br><br><br>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536025)
+#### [예멘 후티 반군이 이스라엘을 공격하고이란 분쟁이 확대되면서 유가가 급등했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536024)
+#### [우크라이나 드론이 러시아 남부 타간로크에서 1명을 살해하고 주택과 산업에 피해를 입혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536022)
+#### [호주 글로마르의 코발트 블루, 미국 심해저 광물 가공 공장 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536023)
+#### [파키스탄, 이란 전쟁 종식을 위한 평화 회담 개최 준비](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536021)
+#### [미국, 러시아 유조선의 쿠바 도착 허용, 뉴욕 타임즈 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536019)
+#### [영국 리브스, 이란 전쟁 중 G7에 일방적 무역 움직임 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536020)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536016)
+#### [맥쿼리 온타리오 184MW 카디널 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536014)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536012)
+#### [미국, 러시아 유조선의 쿠바 도착 허용, 뉴욕 타임즈 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536018)
+#### [우크라이나 드론 공격으로 러시아 남부 타간 로크에서 한 명 사망, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536015)
+#### [베제키, USA 그랑프리 우승으로 완벽한 시즌 출발을 알리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536013)
+#### [미국 전투기가 트럼프의 마러라고 리조트 근처 비행 금지 구역에서 비행기를 호위합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536017)
+#### [AUD/USD가 아시아 초반 약세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536011)
+#### [몰도바 야당, 국가비상사태의 당위성에 의문 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536006)
+#### [다이아미드 메디컬 AB, 3상 임상 3상 시험에서 예상치 못한 중간 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536008)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536010)
+#### [한 주 앞으로 - 중동 분쟁 격화, 미국 일자리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536009)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536007)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.SSEC>
 #### [BUZZ-재생-그림 EUR / USD, 스털링 약세 강화, USD / JPY 160](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536004)
 #### [폴리티코, 새로운 글로벌 편집장으로 내부자 조나단 그린버거 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536005)
 #### [이란의 중수 생산 공장이 더 이상 가동되지 않는다고 IAEA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536003)
@@ -44,25 +65,3 @@
 #### [이란의 최고 지도자, 이라크 국민과 종교 지도자들의 지원에 감사를 표하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535968)
 #### [러시아, 영국 외무부에 외무부 소환, RIA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535966)
 #### [교황 레오, 유럽에서 튀김을 먹다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535967)
-#### [인도, 에너지 공급 문제 해결을 위해 등유 규정 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535965)
-#### [인도 EPL, 인도라마의 지원을 받는 인도비다와 20억 달러 규모의 패키징 거래로 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535963)
-#### [모터 레이싱-일본 충돌 '무서운 순간', 베어먼, 사인츠가 FIA에 행동 촉구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535964)
-#### [이스라엘 경찰은 종려주일에 예루살렘 성묘에서 가톨릭 추기경을 막았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535961)
-#### [은행들이 인도 RBI에 3개월간 외환 포지션 한도를 준수해달라고 요청했다고 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535960)
-#### [이탈리아 MPS 이사회는 내부 협력을 강화하기 위해 제안된 CEO 변경이 목표라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535962)
-#### [이탈리아 은행, 대출 기관의 구조조정을 지원하기 위해 특별 관리자를 임명합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535959)
-#### [파키스탄, 호르무즈 제안에 초점을 맞춘이란 회담을 위해 지역 강대국 주최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535958)
-#### [인도 EPL, 인도라마가 지원하는 인도비다와 20억 달러 규모의 패키징 거래로 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535957)
-#### [우크라이나의 젤렌스키, 걸프 투어의 다음 여정을 위해 요르단에 도착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535956)
-#### ["코니게": 트럼프에 반대하는 대중 시위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535953)
-#### [우크라이나의 젤렌스키, '중요한 회의'를 위해 요르단에 도착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535955)
-#### [전쟁에 휩싸인 시장에 경제 전망을 제시하는 미국 일자리 데이터, RPT-월스트리트 주간 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535952)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
-#### [Epl Ltd와 Indovida, 합병으로 20억 달러 가치의 10억 달러 매출 법인 설립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535954)
-#### [대부분의 걸프 지역 증시가 이란 분쟁 확대 우려에 약세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535951)
-#### ['JD 또는 마르코?': 이란 전쟁, 트럼프가 밴스 대 루비오에 무게를 두면서 2028 년 지분을 높입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535950)
-#### [우크라이나는 일주일 만에 두 번째로 러시아의 우스트 루가 항구를 공격했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535949)
-#### [스위스, 미성년자에 대한 소셜 미디어 규칙 강화, 설문 조사 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535948)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [이탈리아 BFF 은행, 연체 신용 익스포저 9억2천만 달러 증가 가능성 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535947)
-#### [Bff, 이탈리아 은행의 규제 조치를 받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535945)
