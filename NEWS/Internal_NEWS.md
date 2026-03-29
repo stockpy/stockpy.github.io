@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_1355 </title></head>
-<center>Vers : 20260329_1355 </center>
-<center>Vers : 20260329_2255 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_1434 </title></head>
+<center>Vers : 20260329_1434 </center>
+<center>Vers : 20260329_2334 </center>
 <br><br><br>
+#### [러시아, 영국 외무부에 외무부 소환, RIA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535966)
+#### [교황 레오, 유럽에서 튀김을 먹다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535967)
+#### [인도, 에너지 공급 문제 해결을 위해 등유 규정 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535965)
+#### [인도 EPL, 인도라마의 지원을 받는 인도비다와 20억 달러 규모의 패키징 거래로 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535963)
+#### [모터 레이싱-일본 충돌 '무서운 순간', 베어먼, 사인츠가 FIA에 행동 촉구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535964)
+#### [이스라엘 경찰은 종려주일에 예루살렘 성묘에서 가톨릭 추기경을 막았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535961)
+#### [은행들이 인도 RBI에 3개월간 외환 포지션 한도를 준수해달라고 요청했다고 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535960)
+#### [이탈리아 MPS 이사회는 내부 협력을 강화하기 위해 제안된 CEO 변경이 목표라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535962)
 #### [이탈리아 은행, 대출 기관의 구조조정을 지원하기 위해 특별 관리자를 임명합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535959)
 #### [파키스탄, 호르무즈 제안에 초점을 맞춘이란 회담을 위해 지역 강대국 주최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535958)
 #### [인도 EPL, 인도라마가 지원하는 인도비다와 20억 달러 규모의 패키징 거래로 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535957)
@@ -66,6 +74,10 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000960.SZ/total>
 #### [베이징 지오환경 엔지니어링 & 테크놀로지, 홍콩 상장 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535909)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603588.SS/total>
+<head><meta charset="utf-8"><title>Vers : 20260329_1434 </title></head>
+<center>Vers : 20260329_1434 </center>
+<center>Vers : 20260329_2334 </center>
+<br><br><br>
 #### [천산 알루미늄의 2025 년 순이익 8.1 % 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535907)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002532.SZ/total>
 #### [바이본 그룹 주식 거래 중단에 대한 간략한 설명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535910)
@@ -78,10 +90,6 @@
 #### [대부분의 걸프 지역 증시가 이란 분쟁 확대 우려에 약세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535904)
 #### [영국 더비시에서 자동차가 보행자를 치고 여러 명이 부상 당했다고 경찰은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535901)
 #### [우크라이나 드론에 의해 손상된 러시아 우스트-루가 항구, 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535900)
-<head><meta charset="utf-8"><title>Vers : 20260329_1355 </title></head>
-<center>Vers : 20260329_1355 </center>
-<center>Vers : 20260329_2255 </center>
-<br><br><br>
 #### [모터 레이싱-이탈리아의 10대 안토넬리, 일본 GP에서 우승하며 챔피언십 선두로 올라서다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535898)
 #### [BUZZ-IMM: 중동, 인플레이션 우려로 유로화 매수세가 증발하면서 달러 포지션은 안정적입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535899)
 #### [오만, 자국 영토 공격에 대한 책임을 주장한 정당은 없다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535897)
@@ -138,6 +146,10 @@
 #### [미국 북서부 강 유량이 103%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535850)
 #### [이라크 경찰관 2명이 모술의 시아파 무장단체(PMF) 거점을 겨냥한 공습으로 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535849)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535847)
+<head><meta charset="utf-8"><title>Vers : 20260329_1434 </title></head>
+<center>Vers : 20260329_1434 </center>
+<center>Vers : 20260329_2334 </center>
+<br><br><br>
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535848)
 #### [오데사에서 러시아 공격으로 2 명 사망, 병원 피해, 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535846)
 #### [매그니튜드, 포에버 영 꺾고 두바이월드컵 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535845)
@@ -146,10 +158,6 @@
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535842)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535841)
 #### [디 지아난토니오, US 그랑프리 연속 폴 랩 기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535840)
-<head><meta charset="utf-8"><title>Vers : 20260329_1355 </title></head>
-<center>Vers : 20260329_1355 </center>
-<center>Vers : 20260329_2255 </center>
-<br><br><br>
 #### [브리지 론 확보 및 잠재적 리파이낸싱에 대한 업데이트-애틀랜틱 사파이어, 브리지 론 확보 및 업데이트 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535839)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535837)
 #### [엘론 머스크의 마지막 xAI 공동 창업자 로스 노딘, 이번 주에 회사를 떠나다- 비즈니스 인사이더](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535838)
@@ -202,11 +210,3 @@
 #### [마이어스 스퀴브, 오픈 라벨 외래 환자 전환 연구에서 경구용 비정형 항정신병약물에서 코벤피로 전환하는 동안 증상 안정성을 입증했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535792)
 #### [네팔 올리 전 총리, Z세대 시위 중 사망 사건으로 체포됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535789)
 #### [쿠웨이트 공항, 이란 드론 공격으로 '중대한' 레이더 시스템 손상 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535788)
-#### [미국 항공사 포드, 수리를 위해 크로아티아에 도착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535787)
-#### [멕시코 해군, 쿠바에 구호품을 실은 실종된 범선 2척 발견, 승무원 안전 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535785)
-#### [레오 교황, 억만장자들의 조세 피난처 모나코에 불우이웃 돕기 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535786)
-#### [러시아 드론이 폴 타바 지역에서 우크라이나의 가스 생산을 강타했다고 Naftogaz는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535784)
-#### [머스크, 보안 사고로 오만 살랄라 항구에서 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535783)
-#### [멕시코 해군, 쿠바에 원조를 실은 실종 된 요트 2 척 발견, 승무원 무사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535782)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535775)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535774)
