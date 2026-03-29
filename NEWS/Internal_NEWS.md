@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_1843 </title></head>
-<center>Vers : 20260329_1843 </center>
-<center>Vers : 20260330_0343 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_1921 </title></head>
+<center>Vers : 20260329_1921 </center>
+<center>Vers : 20260330_0421 </center>
 <br><br><br>
+#### [독일, 프랑스, 이탈리아, 영국, 이스라엘 사형 법안에 '깊은 우려' 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535996)
+#### [3월 29일 일요일 오후 2시 30분(미국 동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535995)
+#### [인프라 공격 후 테헤란 일부 지역에서 전기 공급 중단, 에너지 부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535994)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535993)
 #### [WHO, 레바논 남부에서 또 다른 의료 종사자 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535991)
 #### [W/E 뉴스-후티 전쟁 돌입, 미국 지상 작전 준비, '왕은 없다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535992)
@@ -66,7 +69,3 @@
 #### [텔레콤 이탈리아, INWIT와의 임대 계약 종료로 마스트 사업자에 대한 압박 가중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535937)
 #### [쉐브론, 휘트스톤 가스 시설 수리에 몇 주 소요될 것이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535938)
 #### [미국 전역에서 수천 건의 반 트럼프 '왕은 없다' 행사가 열립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535939)
-#### [일라이 릴리, 홍콩의 인실리코 메디슨과 AI 신약 개발을위한 20 억 달러 계약 체결, FT는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535936)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3696.HK/total>
-#### [핀란드, 드론에 의한 영토 침범 의심 사례 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535934)
-#### [엘리 릴리, 홍콩 바이오테크 인실리코 메디신과 AI 신약 개발 위해 20억 달러 계약 체결 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535932)
