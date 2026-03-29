@@ -1,7 +1,28 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_0704 </title></head>
-<center>Vers : 20260329_0704 </center>
-<center>Vers : 20260329_1604 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_0841 </title></head>
+<center>Vers : 20260329_0841 </center>
+<center>Vers : 20260329_1741 </center>
 <br><br><br>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535908)
+#### [윈난 주석 2025년 순이익 36.1% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535906)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000960.SZ/total>
+#### [베이징 지오환경 엔지니어링 & 테크놀로지, 홍콩 상장 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535909)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603588.SS/total>
+#### [천산 알루미늄의 2025 년 순이익 8.1 % 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535907)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002532.SZ/total>
+#### [바이본 그룹 주식 거래 중단에 대한 간략한 설명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535910)
+#### [대련 지윤 오토메이션의 주식 거래가 3월 30일에 중단됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535905)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300097.SZ/total>
+#### [장쑤성 고속도로의 2025년 순이익 7.1% 감소 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535903)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600377.SS/total>
+#### [신강 바이 철강의 2025년 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535902)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600581.SS/total>
+#### [대부분의 걸프 지역 증시가 이란 분쟁 확대 우려에 약세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535904)
+#### [영국 더비시에서 자동차가 보행자를 치고 여러 명이 부상 당했다고 경찰은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535901)
+#### [우크라이나 드론에 의해 손상된 러시아 우스트-루가 항구, 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535900)
+#### [모터 레이싱-이탈리아의 10대 안토넬리, 일본 GP에서 우승하며 챔피언십 선두로 올라서다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535898)
+#### [BUZZ-IMM: 중동, 인플레이션 우려로 유로화 매수세가 증발하면서 달러 포지션은 안정적입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535899)
+#### [오만, 자국 영토 공격에 대한 책임을 주장한 정당은 없다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535897)
+#### [안토넬리, 일본에서 우승하며 최연소 F1 리더가 되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535896)
 #### [오만은 자국 영토 공격에 대한 책임을 주장한 정당이 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535895)
 #### [메이웨더, 파퀴아오와의 재경기는 전시, 장소는 아직 결정되지 않았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535894)
 #### [주목해야 할 요소 - 3월 29일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535893)
@@ -51,6 +72,10 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INCY.O/total>
 #### [다케다의 건선 치료제, 후기 연구에서 성공하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535851)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/4502.T/total>
+<head><meta charset="utf-8"><title>Vers : 20260329_0841 </title></head>
+<center>Vers : 20260329_0841 </center>
+<center>Vers : 20260329_1741 </center>
+<br><br><br>
 #### [미국 북서부 강 유량이 103%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535850)
 #### [이라크 경찰관 2명이 모술의 시아파 무장단체(PMF) 거점을 겨냥한 공습으로 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535849)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535847)
@@ -66,10 +91,6 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535837)
 #### [엘론 머스크의 마지막 xAI 공동 창업자 로스 노딘, 이번 주에 회사를 떠나다- 비즈니스 인사이더](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535838)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535836)
-<head><meta charset="utf-8"><title>Vers : 20260329_0704 </title></head>
-<center>Vers : 20260329_0704 </center>
-<center>Vers : 20260329_1604 </center>
-<br><br><br>
 #### [프랑스, 파리 뱅크 오브 아메리카 공격 시도 후 테러 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535835)
 #### [프랑스 반테러 검찰, 파리 뱅크 오브 아메리카 공격 의혹에 대한 수사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535834)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535833)
@@ -115,18 +136,3 @@
 #### [걸프만에서 호르무즈 해협을 건너는 인도행 LPG 유조선 2 척, 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535793)
 #### [폴란드, 독일, 리투아니아 국경 검역 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535790)
 #### [그리스 해안에서 22 명의 이주민이 바다에서 6 일 만에 사망했다고 AFP가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535791)
-#### [마이어스 스퀴브, 오픈 라벨 외래 환자 전환 연구에서 경구용 비정형 항정신병약물에서 코벤피로 전환하는 동안 증상 안정성을 입증했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535792)
-#### [네팔 올리 전 총리, Z세대 시위 중 사망 사건으로 체포됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535789)
-#### [쿠웨이트 공항, 이란 드론 공격으로 '중대한' 레이더 시스템 손상 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535788)
-#### [미국 항공사 포드, 수리를 위해 크로아티아에 도착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535787)
-#### [멕시코 해군, 쿠바에 구호품을 실은 실종된 범선 2척 발견, 승무원 안전 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535785)
-#### [레오 교황, 억만장자들의 조세 피난처 모나코에 불우이웃 돕기 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535786)
-#### [러시아 드론이 폴 타바 지역에서 우크라이나의 가스 생산을 강타했다고 Naftogaz는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535784)
-#### [머스크, 보안 사고로 오만 살랄라 항구에서 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535783)
-#### [멕시코 해군, 쿠바에 원조를 실은 실종 된 요트 2 척 발견, 승무원 무사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535782)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535775)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535774)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535780)
-#### [러시아가 우크라이나 동부의 또 다른 마을을 장악했다고 RIA가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535773)
-#### [우크라이나와 러시아의 반정부 시위: 여러?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535779)
-#### [머스크, 보안 사고로 오만 살랄라 항구에서 운영 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535772)
