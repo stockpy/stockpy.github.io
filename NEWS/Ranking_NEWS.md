@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_1921 </title></head>
-<center>Vers : 20260329_1921 </center>
-<center>Vers : 20260330_0421 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_2033 </title></head>
+<center>Vers : 20260329_2033 </center>
+<center>Vers : 20260330_0533 </center>
 <br><br><br>
 #### [“5일간 1700조 녹았다, 내 노후도 함께”…믿었던 빅테크서 곡소리](https://m.stock.naver.com/news/ranknews/view/009/0005657803)
 #### ["코스피 수익률이 꼴찌" 1위 달리다 폭락...'삼전닉스' 팔아? 말아?](https://m.stock.naver.com/news/ranknews/view/008/0005336591)

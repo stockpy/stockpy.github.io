@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_1921 </title></head>
-<center>Vers : 20260329_1921 </center>
-<center>Vers : 20260330_0421 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_2033 </title></head>
+<center>Vers : 20260329_2033 </center>
+<center>Vers : 20260330_0533 </center>
 <br><br><br>
+#### [BUZZ-재생-그림 EUR / USD, 스털링 약세 강화, USD / JPY 160](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536004)
+#### [폴리티코, 새로운 글로벌 편집장으로 내부자 조나단 그린버거 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536005)
+#### [이란의 중수 생산 공장이 더 이상 가동되지 않는다고 IAEA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536003)
+#### [브라질 교착 상태에 이어 제네바에서 계속되는 WTO 회담, 두 외교관은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536002)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536001)
+#### [폴리티코, 내부자 조나단 그린버거를 새 편집장으로 선임 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535999)
+#### [폴리티코, 글로벌 편집장에 조나단 그린버거 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536000)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535998)
+#### [브라질의 룰라, 안드레 데 파울라를 새 농업부 장관으로 임명, 발로 이코노미코는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535997)
 #### [독일, 프랑스, 이탈리아, 영국, 이스라엘 사형 법안에 '깊은 우려' 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535996)
 #### [3월 29일 일요일 오후 2시 30분(미국 동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535995)
 #### [인프라 공격 후 테헤란 일부 지역에서 전기 공급 중단, 에너지 부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535994)
@@ -57,15 +66,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
 #### [이탈리아 BFF 은행, 연체 신용 익스포저 9억2천만 달러 증가 가능성 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535947)
 #### [Bff, 이탈리아 은행의 규제 조치를 받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535945)
-#### [중국 한소제약그룹, 2025년 순이익 전망치 상회 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535946)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3692.HK/total>
-#### [모터 레이싱의 역사를 새로 쓴 안토넬리는 계속해서 기준을 높이고자 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535944)
-#### [혹등고래 '티미'가 독일 앞바다의 얕은 바다에서 탈출하기 위해 고군분투하다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535943)
-#### [일라이 릴리, 홍콩의 인실리코 메디슨과 AI 신약 개발을위한 20 억 달러 계약 체결, FT는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535942)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3696.HK/total>
-#### [인실리코 메디신 케이맨 탑코, 2025년 매출 5,620만 달러 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535941)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3696.HK/total>
-#### [중국, 홍콩 보안 규칙 변경에 대한 미국의 경고에 항의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535940)
-#### [텔레콤 이탈리아, INWIT와의 임대 계약 종료로 마스트 사업자에 대한 압박 가중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535937)
-#### [쉐브론, 휘트스톤 가스 시설 수리에 몇 주 소요될 것이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535938)
-#### [미국 전역에서 수천 건의 반 트럼프 '왕은 없다' 행사가 열립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2535939)
