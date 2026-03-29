@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260329_2033 </title></head>
-<center>Vers : 20260329_2033 </center>
-<center>Vers : 20260330_0533 </center>
+<head><meta charset="utf-8"><title>Vers : 20260329_2101 </title></head>
+<center>Vers : 20260329_2101 </center>
+<center>Vers : 20260330_0601 </center>
 <br><br><br>
 #### [BUZZ-재생-그림 EUR / USD, 스털링 약세 강화, USD / JPY 160](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536004)
 #### [폴리티코, 새로운 글로벌 편집장으로 내부자 조나단 그린버거 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2536005)
