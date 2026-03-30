@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260330_2236 </title></head>
-<center>Vers : 20260330_2236 </center>
-<center>Vers : 20260331_0736 </center>
+<head><meta charset="utf-8"><title>Vers : 20260330_2307 </title></head>
+<center>Vers : 20260330_2307 </center>
+<center>Vers : 20260331_0807 </center>
 <br><br><br>
 #### [[속보] “마이크론 9.88% 폭락”…반도체 지수 급락 속 나스닥 0.73%↓](https://m.stock.naver.com/news/ranknews/view/005/0001840244)
 #### ["목·금 vs 월·화"…전쟁이 낳은 증시 '이상' 패턴](https://m.stock.naver.com/news/ranknews/view/215/0001247210)

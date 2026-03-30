@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260330_2236 </title></head>
-<center>Vers : 20260330_2236 </center>
-<center>Vers : 20260331_0736 </center>
+<head><meta charset="utf-8"><title>Vers : 20260330_2307 </title></head>
+<center>Vers : 20260330_2307 </center>
+<center>Vers : 20260331_0807 </center>
 <br><br><br>
+#### [브라질의 MRV, 조지아에서 지류 프로젝트 매각 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537759)
+#### [호주, 결제 카드 할증료 금지, 25억 호주 달러 상당의 비용 절감 효과 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537760)
 #### [이란, 트럼프의 새로운 경고에 미국의 평화 제안에 '비현실적'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537755)
 #### [미국 이민국, 중단된 망명 신청 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537757)
 #### [조세 피난처로 수감 된 변호사는 IRS 징수를 막을 수 없다고 법원은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537754)
@@ -12,6 +14,7 @@
 #### [견고한 수출 수요에 힘입어 CIF/FOB 걸프 곡물-옥수수 바지선 기준 견조한 상승세 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537750)
 #### [독점-유니레버, 중동 전쟁 영향을 이유로 전 세계 고용 동결, 메모에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537749)
 #### [유니레버와 맥코믹의 잠재적 식품 사업부 거래에 160억 달러의 현금이 포함된다고 WSJ이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537752)
+#### [중동 분쟁 확대로 공급 우려가 커지면서 미국 원유 선물이 2 달러 이상 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537758)
 #### [칠레 주지사, 후안 카를로스 사에즈 국영 광산업체 에나미의 새 CEO 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537745)
 #### [시장 가격에 따른 연준의 윌리엄스 에너지 가격 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537747)
 #### [미국, 루코일 자산의 잠재적 인수자 마감일을 5월 1일로 연장합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537748)
@@ -64,7 +67,3 @@
 #### [버진 갤럭틱 업, 4월에 첫 번째 새 우주선 지상 테스트 시작한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537706)
 #### [미국 현금 원유 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537702)
 #### [미국 재배를 앞두고 CBOT 대두는 거의 변하지 않았다고 주식 보고서는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537697)
-#### [캐나다의 복스 로열티 4분기 매출 총이익 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537701)
-#### [백악관이 개조 공사를 방어하면서 황금 화장실이 트럼프 장식을 조롱하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537694)
-#### [서비스 프로퍼티, 5억 달러 규모의 주식 공모 출시 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2537696)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SVC.O/total>
