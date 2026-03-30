@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260330_1902 </title></head>
-<center>Vers : 20260330_1902 </center>
-<center>Vers : 20260331_0402 </center>
+<head><meta charset="utf-8"><title>Vers : 20260330_2044 </title></head>
+<center>Vers : 20260330_2044 </center>
+<center>Vers : 20260331_0544 </center>
 <br><br><br>
 #### ["집에만 있던 남편, 다시 지점장" 눈물의 다림질...'후반전' 뛰는 퇴직 은행원](https://m.stock.naver.com/news/ranknews/view/008/0005337107)
 #### [“외국인들 왜 이래?” 삼성전자·하이닉스에서만 21조 순매도 폭탄…환율까지 휘청](https://m.stock.naver.com/news/ranknews/view/016/0002621438)
