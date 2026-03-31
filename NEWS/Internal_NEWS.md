@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260331_2234 </title></head>
-<center>Vers : 20260331_2234 </center>
-<center>Vers : 20260401_0734 </center>
+<head><meta charset="utf-8"><title>Vers : 20260331_2303 </title></head>
+<center>Vers : 20260331_2303 </center>
+<center>Vers : 20260401_0803 </center>
 <br><br><br>
+#### [타이거 우즈가 치료를 위해 자리를 비운다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539766)
+#### [월드 슈퍼 홀딩스, 2310만 홍콩달러의 회계연도 손실 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539765)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8612.HK/total>
+#### [크림 반도에서 러시아 군 수송기 추락, 29 명 사망, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539767)
+#### [호주, 노던 미네랄에 대한 홍콩 투자자의 의결권 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539762)
+#### [공화당 상원의원, 중국산 자동차에 대한 미국 내 금지 확대 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539760)
+#### [앤트로픽, 호주와 AI 안전 및 경제 데이터 추적에 관한 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539758)
+#### [트럼프 행정부, 이민자 구금을위한 창고 매입 계획 중단, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539764)
+#### [나이키, 4분기 깜짝 매출 감소 예상 후 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539757)
+#### [NFL, 11.1 억 달러 가치로 라스 베이거스 레이더스의 7 % 매각 승인 - CNBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539763)
+#### [이반호, 수정된 보고서에서 DR콩고 광산에 대한 2026년 구리 생산량 전망 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539759)
+#### [마이크로소프트, 70억 달러 규모의 텍사스 발전소 건설을 위해 셰브론과 협상 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539761)
 #### [미국 CFTC는 우선순위 중 예측 시장에서의 내부자 거래에 초점을 맞출 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539752)
 #### [트럼프, 선천적 시민권 소송을 위해 직접 대법원에 갈 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539746)
 #### [옥수수 바지선 기준 수요에 따라 안정적, 대두 입찰은 보합세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539749)
@@ -53,14 +65,3 @@
 #### [웰링턴 매니지먼트 그룹, 브라질 사베스프 지분 5.09%로 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539701)
 #### [그린레인 4분기 매출 감소, 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539704)
 #### [이란 오프 램프에 대한 열기가 증폭되면서 BUZZ-AUD/USD가 급등합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539709)
-#### [북극 에너지 서비스 4분기 매출 29억8500만 캐나다 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539700)
-#### [브라질 에코로도비아스, 미나스 제라이스 주 고속도로 경매 낙찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539703)
-#### [브라질 중앙은행, 2025년 금 보유량을 두 번째로 큰 준비자산으로 늘린다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539708)
-#### [콜로라도 목장주들은 아르헨티나산 소고기 수입으로 인해 목장주들이 쫓겨날 것을 우려합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539707)
-#### [미국 곡물 바지선 운임 값 ? 3월 31일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539715)
-#### [API는 미국 원유 재고가 급격히 증가했지만 연료 및 증류유 재고는 감소했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539706)
-#### [인도, 터/비둘기 완두콩 무료 수입 정책 1년 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539714)
-#### [육류 부문 4분기 매출 6,160만 달러 대 IBES 추정치 6,260만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539699)
-#### [미국인의 3 분의 2는 목표가 달성되지 않더라도이란 전쟁의 빠른 종식을 원합니다, 로이터 / 입소스 여론 조사 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539716)
-#### [트레이딩 데이 1분기 끝!](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539698)
-#### [HMH 홀딩, 미국 IPO로 2억 1천만 달러 조달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2539684)
