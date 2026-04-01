@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260401_1752 </title></head>
-<center>Vers : 20260401_1752 </center>
-<center>Vers : 20260402_0252 </center>
+<head><meta charset="utf-8"><title>Vers : 20260401_1903 </title></head>
+<center>Vers : 20260401_1903 </center>
+<center>Vers : 20260402_0403 </center>
 <br><br><br>
 #### ["삼성전자 어제 샀어야" 하루에 13.4% 불기둥...역대 최대 상승률](https://m.stock.naver.com/news/ranknews/view/008/0005338588)
 #### [“공포에 사라 했던 분, 사랑합니다”...종전 희망에 반도체 투톱 두자릿수 ‘폭등’](https://m.stock.naver.com/news/ranknews/view/009/0005659746)
