@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260402_2231 </title></head>
-<center>Vers : 20260402_2231 </center>
-<center>Vers : 20260403_0731 </center>
+<head><meta charset="utf-8"><title>Vers : 20260402_2302 </title></head>
+<center>Vers : 20260402_2302 </center>
+<center>Vers : 20260403_0802 </center>
 <br><br><br>
 #### [‘32만전자’·‘160만닉스’까지 간다…증권사들이 자신하는 이유 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002623972)
 #### [결국 통행료 엔딩?…'호르무즈 톨게이트' 전망에 증시 뛴 이유 [빈난새의 빈틈없이월가]](https://m.stock.naver.com/news/ranknews/view/015/0005270486)
