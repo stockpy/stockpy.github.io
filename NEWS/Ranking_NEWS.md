@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260402_2035 </title></head>
-<center>Vers : 20260402_2035 </center>
-<center>Vers : 20260403_0535 </center>
+<head><meta charset="utf-8"><title>Vers : 20260402_2106 </title></head>
+<center>Vers : 20260402_2106 </center>
+<center>Vers : 20260403_0606 </center>
 <br><br><br>
 #### [‘32만전자’·‘160만닉스’까지 간다…증권사들이 자신하는 이유 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002623972)
 #### [“시총 50조 증발했다”…‘라부부’로 돈 쓸어담은 중국 회사, 무슨 일?](https://m.stock.naver.com/news/ranknews/view/009/0005660364)
