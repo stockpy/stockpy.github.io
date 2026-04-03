@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260403_1849 </title></head>
-<center>Vers : 20260403_1849 </center>
-<center>Vers : 20260404_0349 </center>
+<head><meta charset="utf-8"><title>Vers : 20260403_1930 </title></head>
+<center>Vers : 20260403_1930 </center>
+<center>Vers : 20260404_0430 </center>
 <br><br><br>
+#### [파키스탄, 휘발유 가격 리터당 80루피 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543666)
+#### [코멘트-미국 요약: 고용 데이터, 이란 전쟁으로 EUR / USD가 하락하면서 달러가 강세를 유지합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543665)
+#### [페르시아만 지역에서 두 번째 미 공군 비행기 추락, 뉴욕 타임즈 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543664)
+#### [원격 의료 기업 웨이트워처스의 CEO가 회사를 떠납니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543663)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WW.O/total>
 #### [프랑스, EU 집행위원회에 유럽 정유 부문 조사 요청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543662)
 #### [독점: 베이스라인, 서튼 내셔널 지원 프로그램으로 캘리포니아 산재보험 시장 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543659)
 #### [테헤란, 미국의 48 시간 휴전 제안 거부, 소식통을 인용 한이란 언론은 다음과 같이 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543660)
@@ -60,7 +65,3 @@
 #### [일본 총리 타카이치, 희토류 논의 위해 호주 방문 계획, 닛케이 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543609)
 #### [아스트라 마이크로웨이브 제품, S. 구루나타 레디가 MD를 그만두겠다고 선언하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543604)
 #### [2026년 3월 31일 기준 바자즈 파이낸스 AUM 22% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543608)
-#### [프레스티지 에스테이트, 하이데라바드에 프레스티지 골든 그로브 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543603)
-#### [아스트라 마이크로웨이브 제품, S. 구루나타 레디가 MD직에서 물러나기로 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543606)
-#### [베단타 4분기 아연 인도 채굴 금속 생산량 전년 동기 대비 2% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543607)
-#### [US, 새로운 파트너와 함께 호르무즈 보증을 400억 달러로 두 배로 늘리다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543602)
