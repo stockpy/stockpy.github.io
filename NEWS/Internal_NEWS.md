@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260403_2234 </title></head>
-<center>Vers : 20260403_2234 </center>
-<center>Vers : 20260404_0734 </center>
+<head><meta charset="utf-8"><title>Vers : 20260403_2303 </title></head>
+<center>Vers : 20260403_2303 </center>
+<center>Vers : 20260404_0803 </center>
 <br><br><br>
+#### [백악관, 트럼프 대통령이 모든 국토안보부 직원에게 셧다운으로 인한 급여 반납을 명령했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543700)
+#### [루시드, 1분기에 5,500대의 차량 생산](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543701)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LCID.O/total>
 #### [트럼프, 대학 스포츠 규칙 강화를 위한 행정 명령 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543699)
 #### [트럼프, 국토 안보부에 모든 직원에게 셧다운 수당을 지급하라고 지시, 백악관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543698)
 #### [영국, 유대인 커뮤니티 구급차 공격으로 방화 혐의로 남성 3 명 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543697)
@@ -65,5 +68,3 @@
 #### [요격 공격으로 인한 파편이 아부다비 가스 시설에 부딪혀 1명이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543643)
 #### [BUZZ-EUR/USD가 하락 압력을 받습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543644)
 #### [토요타 파이낸셜 서비스, 스콧 쿡이 CEO에서 은퇴한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543641)
-#### [터키, 전기 및 가스 요금 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543642)
-#### [미국 판사, 연준 파월에 대한 소환장 차단 유지, 항소 가능성 시사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543632)
