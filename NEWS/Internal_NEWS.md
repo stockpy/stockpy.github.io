@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260403_1640 </title></head>
-<center>Vers : 20260403_1640 </center>
-<center>Vers : 20260404_0140 </center>
+<head><meta charset="utf-8"><title>Vers : 20260403_1719 </title></head>
+<center>Vers : 20260403_1719 </center>
+<center>Vers : 20260404_0219 </center>
 <br><br><br>
+#### [진도 5.9의 지진이 아프가니스탄의 힌두 쿠시 지역을 강타했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543628)
+#### [체스-나카무라, 후보자 토너먼트에서 FIDE의 부정행위 방지 조치 비판, 우승 희망 사라지다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543627)
+#### [미국 판사, 연준 파월에 대한 소환장 차단 유지, 항소 가능성 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543625)
+#### [무디스, '안정적' 전망으로 신용등급을 'Baa1'으로 상향 조정한 남경필 지사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543626)
+#### [일본 총리 다카이치, 희토류 논의 위해 호주 방문 계획, 닛케이 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543623)
+#### [블록버스터 일자리 수로 연준의 일시 중지 입장을 뒷받침 한 후 재무부-미국 채권 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543624)
 #### [베이루트 주재 미국 대사관, 레바논 대학에 대한이란 위협 가능성 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543621)
 #### [더 강력하고 광범위한 고용은 연준의 고용 시장 우려를 완화할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543619)
 #### [민주당 상원의원들, 월스트리트 베팅에 대한 정부 감시를 질의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543622)
@@ -59,11 +65,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002583.SZ/total>
 #### [폴란드 중앙은행, 이란을 주시하며 기준금리 동결 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543570)
 #### [이란 상공에서 미국 전투기 격추, 승무원 수색 진행 중, 미국 관리 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543568)
-#### [상원 의원들, 트럼프에게 중국 자동차 제조업체의 미국 내 자동차 생산 금지 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543569)
-#### [터키, 광고 및 청구 관행에 대한 Google 조사 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543567)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [바라트 코크스 석탄, 블록-Ii 아래 Abocp 광산에서 석탄 채굴, 파견 작업이 조직화되지 않은 사람들에 의해 불법적으로 중단되었다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543565)
-#### [유나이티드항공, 프리미엄 객실에 계층별 요금 카테고리 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543563)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
-#### [이탈리아의 멜로니, 에너지 안보 추진을 위해 걸프 지역으로 날아갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543566)
-#### [라이덴 예수를 기억하는 카프리타그 프로즈 세션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543561)
