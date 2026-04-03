@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20260403_1930 </title></head>
-<center>Vers : 20260403_1930 </center>
-<center>Vers : 20260404_0430 </center>
+<head><meta charset="utf-8"><title>Vers : 20260403_2037 </title></head>
+<center>Vers : 20260403_2037 </center>
+<center>Vers : 20260404_0537 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543685)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543684)
+#### [쿠라 스시 USA Inc <KRUS.OQ>는 주당 15 센트의 손실을 기록 할 것으로 예상됩니다 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543683)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KRUS.O/total>
+#### [재방송-미국 급여 인상, 중재 결렬, 위협적인 돌파구 마련](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543681)
+#### [격추된 미국 전투기 승무원 수색 진행 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543682)
+#### [레오 교황의 성 금요일 예배에서 추방된 어린이들을 위한 기도 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543679)
+#### [공격을 받고있는 러시아 석유 터미널, 2 주 동안 선적을받을 수 없다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543678)
+#### [IMM: EUR 롱은 간신히 살아남고, JPY 숏은 증가, CAD 점프에 대한 베팅](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543680)
+#### [트럼프, 미국 제트기 추락이이란과의 회담에 영향을 미치지 않을 것이라고 말하다 - NBC 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543677)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543676)
+#### [4월 기준 앨버타 일일 카놀라 가격. 03](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543675)
+#### [투기꾼들이 옥수수 순매수 포지션 매도 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543673)
+#### [펀드 매니저들이 최근 한 주 동안 S&P 500 선물 순매수 포지션을 늘렸습니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543671)
+#### [투기꾼들이 미국 원유 순매수를 줄였습니다-CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543674)
+#### [쿠바, 인권 단체의 감시하에 수감자 석방 시작, 미국 정부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543672)
+#### [찰스 슈왑, 2026년 상반기 암호화폐 현물 거래 출시 계획 - CoinDesk](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543669)
+#### [이란, 호르무즈 해협 근처에서 '적'항공기를 표적으로 삼았다고 국영 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543667)
+#### [OpenAI의 오랜 COO였던 브래드 라이트캡이 새로운 역할로 이동, 이제 특별 프로젝트를 이끌게 됨 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543670)
+#### [아시아 외환 시장 오픈 - 4월 6일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543668)
 #### [파키스탄, 휘발유 가격 리터당 80루피 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543666)
 #### [코멘트-미국 요약: 고용 데이터, 이란 전쟁으로 EUR / USD가 하락하면서 달러가 강세를 유지합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543665)
 #### [페르시아만 지역에서 두 번째 미 공군 비행기 추락, 뉴욕 타임즈 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543664)
@@ -46,22 +66,3 @@
 #### [진도 5.9의 지진이 아프가니스탄의 힌두 쿠시 지역을 강타했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543628)
 #### [체스-나카무라, 후보자 토너먼트에서 FIDE의 부정행위 방지 조치 비판, 우승 희망 사라지다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543627)
 #### [미국 판사, 연준 파월에 대한 소환장 차단 유지, 항소 가능성 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543625)
-#### [무디스, '안정적' 전망으로 신용등급을 'Baa1'으로 상향 조정한 남경필 지사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543626)
-#### [일본 총리 다카이치, 희토류 논의 위해 호주 방문 계획, 닛케이 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543623)
-#### [블록버스터 일자리 수로 연준의 일시 중지 입장을 뒷받침 한 후 재무부-미국 채권 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543624)
-#### [베이루트 주재 미국 대사관, 레바논 대학에 대한이란 위협 가능성 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543621)
-#### [더 강력하고 광범위한 고용은 연준의 고용 시장 우려를 완화할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543619)
-#### [민주당 상원의원들, 월스트리트 베팅에 대한 정부 감시를 질의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543622)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543620)
-#### [이탈리아 중앙 은행, 성장 전망 하향 조정, 멜로니 총리에게 타격으로 인플레이션 추정치 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543618)
-#### [에미레이트 글로벌 알루미늄, 공격으로부터 완전한 생산 복구에 1년이 걸릴 수 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543616)
-#### [Emlak Konut REIT, CMB 승인 후 1 년 이내에 최대 80 억 리라까지 임대 증명서를 발행하기로 결정했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543614)
-#### [캐나다 기업 실적 발표 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543617)
-#### [미국 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543615)
-#### [이란 상공에서 추락 한 미국 전투기 승무원이 구조되었다고 CBS 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543613)
-#### [트럼프, 알카트라즈 교도소 재개를 위해 1억 5,200만 달러 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543610)
-#### [이란 상공에서 전투기 추락 후 미국 승무원 한 명 구출, 이스라엘 언론에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543612)
-#### [터키는이란 전쟁 소용돌이를 막기 위해 회담을 계속하고 있으며 에르도안은 푸틴에게 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543611)
-#### [일본 총리 타카이치, 희토류 논의 위해 호주 방문 계획, 닛케이 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543609)
-#### [아스트라 마이크로웨이브 제품, S. 구루나타 레디가 MD를 그만두겠다고 선언하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543604)
-#### [2026년 3월 31일 기준 바자즈 파이낸스 AUM 22% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543608)
