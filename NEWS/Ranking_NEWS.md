@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260403_2037 </title></head>
-<center>Vers : 20260403_2037 </center>
-<center>Vers : 20260404_0537 </center>
+<head><meta charset="utf-8"><title>Vers : 20260403_2106 </title></head>
+<center>Vers : 20260403_2106 </center>
+<center>Vers : 20260404_0606 </center>
 <br><br><br>
 #### [“잘 있어라 개미들아”…전쟁 한 달, 외국인들은 삼성전자 ‘1억주’ 팔고 떠났다](https://m.stock.naver.com/news/ranknews/view/011/0004606894)
 #### [이와중에 20%대 급등…"이란, 美공장 공격" 관련株 줄줄이 ↑](https://m.stock.naver.com/news/ranknews/view/215/0001247841)

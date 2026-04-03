@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260403_2037 </title></head>
-<center>Vers : 20260403_2037 </center>
-<center>Vers : 20260404_0537 </center>
+<head><meta charset="utf-8"><title>Vers : 20260403_2106 </title></head>
+<center>Vers : 20260403_2106 </center>
+<center>Vers : 20260404_0606 </center>
 <br><br><br>
+#### [분석-민간 신용 부문 스트레스가 재앙이 될 수 있지만 아직은 아닙니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543687)
+#### [연방준비은행 이벤트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543686)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543685)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543684)
 #### [쿠라 스시 USA Inc <KRUS.OQ>는 주당 15 센트의 손실을 기록 할 것으로 예상됩니다 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543683)
@@ -64,5 +66,3 @@
 #### [미국 북서부 강 유량이 95퍼센트까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543631)
 #### [멕시코 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543629)
 #### [진도 5.9의 지진이 아프가니스탄의 힌두 쿠시 지역을 강타했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543628)
-#### [체스-나카무라, 후보자 토너먼트에서 FIDE의 부정행위 방지 조치 비판, 우승 희망 사라지다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543627)
-#### [미국 판사, 연준 파월에 대한 소환장 차단 유지, 항소 가능성 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543625)
