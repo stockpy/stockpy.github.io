@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260403_2106 </title></head>
-<center>Vers : 20260403_2106 </center>
-<center>Vers : 20260404_0606 </center>
+<head><meta charset="utf-8"><title>Vers : 20260403_2234 </title></head>
+<center>Vers : 20260403_2234 </center>
+<center>Vers : 20260404_0734 </center>
 <br><br><br>
+#### [트럼프, 대학 스포츠 규칙 강화를 위한 행정 명령 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543699)
+#### [트럼프, 국토 안보부에 모든 직원에게 셧다운 수당을 지급하라고 지시, 백악관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543698)
+#### [영국, 유대인 커뮤니티 구급차 공격으로 방화 혐의로 남성 3 명 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543697)
+#### [우크라이나 공격으로 러시아가 점령 한 자 포리 지아 지역의 전력 공급이 중단되었다고 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543694)
+#### [독점-미국 정보,이란이 곧 호르무즈 해협 봉쇄를 완화하지 않을 것이라고 경고, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543695)
+#### ['에서 'CCC+'로 하향 조정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543696)
+#### [루시드, 1분기 차량 배송 예상치 누락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543692)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LCID.O/total>
+#### [무디스, 몰도바 신용등급을 'B3'에서 'B2'로 상향 조정하고 전망은 '안정적'으로 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543693)
+#### [메타 지원 데이터 센터, 새로운 자금 조달로 캠퍼스에 30억 달러 투자 모색- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543691)
+#### [트럼프는이란에서 실종 된 조종사가 해를 입었을 때 미국이 무엇을 할 것인지에 대해 언급 할 수 없다고 인디펜던트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543689)
+#### [Lucid, 1분기 차량 인도 예상치 미달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543690)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LCID.O/total>
+#### [인공지능, 자체 버전의 오픈클로를 개발하다 - Semafor](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543688)
 #### [분석-민간 신용 부문 스트레스가 재앙이 될 수 있지만 아직은 아닙니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543687)
 #### [연방준비은행 이벤트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543686)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543685)
@@ -53,16 +67,3 @@
 #### [토요타 파이낸셜 서비스, 스콧 쿡이 CEO에서 은퇴한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543641)
 #### [터키, 전기 및 가스 요금 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543642)
 #### [미국 판사, 연준 파월에 대한 소환장 차단 유지, 항소 가능성 시사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543632)
-#### [젤렌스키, 주간 파업 후 러시아의 '부활절 확대'를 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543640)
-#### [엘론 머스크, 월스트리트 기업들에게 스페이스엑스 IPO 자문을 위해 Grok AI 챗봇 구독을 요구하다 - NYT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543636)
-#### [추락 한 전투기에서 미국인 한 명이 구조되었다고 미국 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543638)
-#### [아마존, 프라임데이 세일을 앞두고 오해의 소지가 있는 가격 인하를 억제하다 - 관련 정보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543639)
-#### [스웨덴, 기름 유출 원인으로 의심되는 유조선 압류 해제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543635)
-#### [이란 휴전 협상이 교착 상태에 빠졌다고 WSJ이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543637)
-#### [USD / JPY는 160을 주시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543633)
-#### [린-마누엘 미란다 감독, 뮤지컬 '옥테'를 영화로 만들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543634)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
-#### [SpaceX, 다음 우주선 시험 발사 한 달 연기, 머스크는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543630)
-#### [미국 북서부 강 유량이 95퍼센트까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543631)
-#### [멕시코 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543629)
-#### [진도 5.9의 지진이 아프가니스탄의 힌두 쿠시 지역을 강타했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543628)
