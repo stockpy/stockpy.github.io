@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_1102 </title></head>
-<center>Vers : 20260404_1102 </center>
-<center>Vers : 20260404_2002 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_1256 </title></head>
+<center>Vers : 20260404_1256 </center>
+<center>Vers : 20260404_2156 </center>
 <br><br><br>
+#### [영국 경찰은 유대인 커뮤니티 구급차 공격으로 네 번째 사람을 체포했다고 검찰은 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543760)
+#### [인도, 2027년 3월까지 노란 완두콩 면세 수입 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543759)
+#### [스포츠의 새로운 프로 리그, 올림픽 화제성에 큰 베팅을 걸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543758)
+#### [이란, 호르무즈 해협에서 이스라엘 연계 선박 타격했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543756)
+#### [우크라이나의 나프토가즈, 러시아가 폴타바 지역의 시설을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543757)
+#### [우크라이나의 젤렌스키, 에르도안과 안보 회담 위해 이스탄불 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543755)
+#### [이라크 북부 루마일라 유전에서 드론 공격으로 근로자 3명 부상, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543754)
+#### [전쟁으로 유네스코의 우려를 불러 일으키는 테헤란의 골레스탄 궁전 손상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543753)
 #### [이란은 호르무즈 해협을 통해 필수품 선박의 항구 입항을 허용한다고 Tasnim은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543751)
 #### [젤렌스키, 에르도안과의 회담을 위해 이스탄불에 도착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543752)
 #### [파벨 오델노프, 영국의 취약한 도시 유토피아에 대하여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543750)
@@ -54,6 +62,10 @@
 #### [네바다 판사, 주 내 칼시 운영 예측 시장 금지 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543703)
 #### [다마스커스에서 들리는 폭발음, 본질은 알려지지 않았다고 국영 TV는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543702)
 #### [백악관, 트럼프 대통령이 모든 국토안보부 직원에게 셧다운으로 인한 급여 반납을 명령했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543700)
+<head><meta charset="utf-8"><title>Vers : 20260404_1256 </title></head>
+<center>Vers : 20260404_1256 </center>
+<center>Vers : 20260404_2156 </center>
+<br><br><br>
 #### [루시드, 1분기에 5,500대의 차량 생산](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543701)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LCID.O/total>
 #### [트럼프, 대학 스포츠 규칙 강화를 위한 행정 명령 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543699)
@@ -64,10 +76,6 @@
 #### ['에서 'CCC+'로 하향 조정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543696)
 #### [루시드, 1분기 차량 배송 예상치 누락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543692)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LCID.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260404_1102 </title></head>
-<center>Vers : 20260404_1102 </center>
-<center>Vers : 20260404_2002 </center>
-<br><br><br>
 #### [무디스, 몰도바 신용등급을 'B3'에서 'B2'로 상향 조정하고 전망은 '안정적'으로 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543693)
 #### [메타 지원 데이터 센터, 새로운 자금 조달로 캠퍼스에 30억 달러 투자 모색- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543691)
 #### [트럼프는이란에서 실종 된 조종사가 해를 입었을 때 미국이 무엇을 할 것인지에 대해 언급 할 수 없다고 인디펜던트는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543689)
@@ -124,6 +132,10 @@
 #### [BUZZ-EUR/USD가 하락 압력을 받습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543644)
 #### [토요타 파이낸셜 서비스, 스콧 쿡이 CEO에서 은퇴한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543641)
 #### [터키, 전기 및 가스 요금 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543642)
+<head><meta charset="utf-8"><title>Vers : 20260404_1257 </title></head>
+<center>Vers : 20260404_1257 </center>
+<center>Vers : 20260404_2157 </center>
+<br><br><br>
 #### [미국 판사, 연준 파월에 대한 소환장 차단 유지, 항소 가능성 시사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543632)
 #### [젤렌스키, 주간 파업 후 러시아의 '부활절 확대'를 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543640)
 #### [엘론 머스크, 월스트리트 기업들에게 스페이스엑스 IPO 자문을 위해 Grok AI 챗봇 구독을 요구하다 - NYT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543636)
@@ -132,10 +144,6 @@
 #### [스웨덴, 기름 유출 원인으로 의심되는 유조선 압류 해제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543635)
 #### [이란 휴전 협상이 교착 상태에 빠졌다고 WSJ이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543637)
 #### [USD / JPY는 160을 주시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543633)
-<head><meta charset="utf-8"><title>Vers : 20260404_1102 </title></head>
-<center>Vers : 20260404_1102 </center>
-<center>Vers : 20260404_2002 </center>
-<br><br><br>
 #### [린-마누엘 미란다 감독, 뮤지컬 '옥테'를 영화로 만들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543634)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
 #### [SpaceX, 다음 우주선 시험 발사 한 달 연기, 머스크는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543630)
@@ -191,11 +199,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9988.HK/total>
 #### [재글 선불 해양 서비스, 임시 CFO에 라제쉬 툼말라간티 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543579)
 #### [푸틴, 터키 에르도안과 통화해 중동 문제 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543581)
-#### [러시아는 디젤 수출을 금지 할 필요가 없다고 본다, RIA 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543582)
-#### [KNDS 프랑스, 프랑스 기업 텍셀리스 디펜스 인수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543578)
-#### [미국 전투기이란 상공에서 격추, 승무원 수색 진행 중, 미국 관리 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543580)
-#### [트럼프, 미국 공항 보안 운영 민영화 시작 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543577)
-#### [세노레스 파마슈티컬스, 미국 내 전략적 합작 투자 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543572)
-#### [미국, 러시아 국적자 미하일 자도르노프 제재 명단에서 삭제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543574)
-#### [미국 3월 고용보고서가 예상보다 호조를 보이면서 연준이 관망세를 유지할 것으로 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543576)
-#### [인도 다부르, 4분기 한 자릿수 중반의 매출 성장률 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543571)
