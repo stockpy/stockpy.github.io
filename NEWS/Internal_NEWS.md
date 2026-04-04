@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_1920 </title></head>
-<center>Vers : 20260404_1920 </center>
-<center>Vers : 20260405_0420 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_2032 </title></head>
+<center>Vers : 20260404_2032 </center>
+<center>Vers : 20260405_0532 </center>
 <br><br><br>
+#### [케임브리지, 남자 보트 레이스 우승, 옥스퍼드, 여자 우승 기다리는 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543786)
 #### [바이오세르젠, Bsg005 개발 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543785)
 #### [인도 북부에서 승용차가 도로에서 추락 한 후 4 명 사망, ANI 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543784)
 #### [미국 북서부 강 유량은 95 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543783)
@@ -61,4 +62,3 @@
 #### [독점-유럽연합 재무장관 5명, 에너지 기업에 횡재 이익세 부과 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543729)
 #### [경찰, 네덜란드 이스라엘 센터에서 폭발 사고 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543727)
 #### [IMF는이란 전쟁이 새로운 위험을 초래하더라도 BOJ에 금리 인상을 계속할 것을 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543728)
-#### [도요타 자동차 엔지니어링 및 제조, 미국 차량 73,528 대 리콜 - NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543726)
