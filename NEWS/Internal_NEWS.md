@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_2100 </title></head>
-<center>Vers : 20260404_2100 </center>
-<center>Vers : 20260405_0600 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_2231 </title></head>
+<center>Vers : 20260404_2231 </center>
+<center>Vers : 20260405_0731 </center>
 <br><br><br>
+#### [트럼프, 이스라엘이 실종 된 미 공군 조종사 수색이 계속되면서 마감일을 앞두고이란에 압력을가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543791)
+#### [차량이 루이지애나 군중을 충돌하여 최소 15 명 부상, 보안관 사무실은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543790)
+#### [교황 레오, 부활절 철야기도에서 전 세계에 전쟁에 무감각해지지 말 것을 촉구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543793)
+#### [미국과 이란, 추락한 조종사를 찾기 위한 경쟁으로 전쟁의 위기가 고조되고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543792)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543787)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543788)
+#### [체코 방산 공장 방화 공격으로 2명 추가 구속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543789)
 #### [케임브리지, 남자 보트 레이스 우승, 옥스퍼드, 여자 우승 기다리는 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543786)
 #### [바이오세르젠, Bsg005 개발 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543785)
 #### [인도 북부에서 승용차가 도로에서 추락 한 후 4 명 사망, ANI 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543784)
@@ -55,10 +62,3 @@
 #### [텔레그램의 듀로프, 러시아가 VPN을 차단해 결제 시스템 문제를 일으켰다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543736)
 #### [의결권 자문사 ISS, 일부 기후보고 폐기 시도에 대해 BP 이사회에 반대 투표 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543737)
 #### [독점-유럽 연합 재무 장관 5 명, 에너지 기업의 횡재 이익에 대한 세금 부과 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543734)
-#### [HSBC, 전 스탠다드 차타드 재무 책임자 리처드 메딩스에게 이사회 합류에 대해 접근 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543733)
-#### [영국, 유대인 커뮤니티 구급차 공격으로 남성 3인 방화 혐의 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543732)
-#### [세네갈, 이란 전쟁 오일 쇼크로 공공 재정에 타격을 주면서 정부 여행 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543731)
-#### [독점-유럽연합 재무장관 5명, 에너지 기업에 횡재 이익세 부과 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543730)
-#### [독점-유럽연합 재무장관 5명, 에너지 기업에 횡재 이익세 부과 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543729)
-#### [경찰, 네덜란드 이스라엘 센터에서 폭발 사고 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543727)
-#### [IMF는이란 전쟁이 새로운 위험을 초래하더라도 BOJ에 금리 인상을 계속할 것을 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543728)
