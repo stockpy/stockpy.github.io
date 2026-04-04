@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_1842 </title></head>
-<center>Vers : 20260404_1842 </center>
-<center>Vers : 20260405_0342 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_1920 </title></head>
+<center>Vers : 20260404_1920 </center>
+<center>Vers : 20260405_0420 </center>
 <br><br><br>
+#### [바이오세르젠, Bsg005 개발 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543785)
+#### [인도 북부에서 승용차가 도로에서 추락 한 후 4 명 사망, ANI 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543784)
+#### [미국 북서부 강 유량은 95 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543783)
 #### [스웨덴의 포스마크 블록3 원자로가 4월 5일에 재가동될 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543782)
 #### [이스라엘, 이란 에너지 시설에 대한 공격 준비, 미국의 승인을 기다리고 있다고 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543780)
 #### [규모 5.5의 지진이 대만 화롄시를 강타했다고 USGS는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543781)
@@ -59,6 +62,3 @@
 #### [경찰, 네덜란드 이스라엘 센터에서 폭발 사고 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543727)
 #### [IMF는이란 전쟁이 새로운 위험을 초래하더라도 BOJ에 금리 인상을 계속할 것을 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543728)
 #### [도요타 자동차 엔지니어링 및 제조, 미국 차량 73,528 대 리콜 - NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543726)
-#### [우크라이나 드론과 미사일 공격으로 러시아 남부에서 최소 한 명 사망, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543725)
-#### [텔레그램의 두로프, 러시아가 VPN을 차단해 결제 시스템 문제를 일으켰다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543724)
-#### [우크라이나 드론과 미사일 공격으로 러시아 남부에서 최소 한 명 사망, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543723)
