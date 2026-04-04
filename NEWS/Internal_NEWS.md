@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_0539 </title></head>
-<center>Vers : 20260404_0539 </center>
-<center>Vers : 20260404_1439 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_0701 </title></head>
+<center>Vers : 20260404_0701 </center>
+<center>Vers : 20260404_1601 </center>
 <br><br><br>
+#### [우크라이나 드론과 미사일 공격으로 러시아 남부에서 최소 한 명 사망, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543725)
+#### [텔레그램의 두로프, 러시아가 VPN을 차단해 결제 시스템 문제를 일으켰다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543724)
+#### [우크라이나 드론과 미사일 공격으로 러시아 남부에서 최소 한 명 사망, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543723)
+#### [테헤란이 실종 된 미국 조종사를 사냥하면서 추락 한 비행기가 트럼프에게 새로운 위험을 예고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543722)
 #### [드론 공격 후 이라크 내 외국 석유 회사의 저장 시설에서 화재가보고되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543721)
 #### [미디어메타, 데이터 유출 이후 AI 교육 스타트업 머코와의 협력 중단 - Business Insider](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543720)
 #### [페루 경기장 '사건'으로 축구 더비 전 1 명 사망, 47 명 부상, AFP는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543719)
@@ -62,15 +66,15 @@
 #### [OpenAI의 오랜 COO였던 브래드 라이트캡이 새로운 역할로 이동, 이제 특별 프로젝트를 이끌게 됨 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543670)
 #### [아시아 외환 시장 오픈 - 4월 6일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543668)
 #### [파키스탄, 휘발유 가격 리터당 80루피 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543666)
+<head><meta charset="utf-8"><title>Vers : 20260404_0701 </title></head>
+<center>Vers : 20260404_0701 </center>
+<center>Vers : 20260404_1601 </center>
+<br><br><br>
 #### [코멘트-미국 요약: 고용 데이터, 이란 전쟁으로 EUR / USD가 하락하면서 달러가 강세를 유지합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543665)
 #### [페르시아만 지역에서 두 번째 미 공군 비행기 추락, 뉴욕 타임즈 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543664)
 #### [원격 의료 기업 웨이트워처스의 CEO가 회사를 떠납니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543663)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WW.O/total>
 #### [프랑스, EU 집행위원회에 유럽 정유 부문 조사 요청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543662)
-<head><meta charset="utf-8"><title>Vers : 20260404_0539 </title></head>
-<center>Vers : 20260404_0539 </center>
-<center>Vers : 20260404_1439 </center>
-<br><br><br>
 #### [독점: 베이스라인, 서튼 내셔널 지원 프로그램으로 캘리포니아 산재보험 시장 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543659)
 #### [테헤란, 미국의 48 시간 휴전 제안 거부, 소식통을 인용 한이란 언론은 다음과 같이 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543660)
 #### [머스크, SpaceX IPO 은행에 Grok AI 구독 구매 요청, NYT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543661)
@@ -129,14 +133,14 @@
 #### [아스트라 마이크로웨이브 제품, S. 구루나타 레디가 MD를 그만두겠다고 선언하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543604)
 #### [2026년 3월 31일 기준 바자즈 파이낸스 AUM 22% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543608)
 #### [프레스티지 에스테이트, 하이데라바드에 프레스티지 골든 그로브 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543603)
+<head><meta charset="utf-8"><title>Vers : 20260404_0701 </title></head>
+<center>Vers : 20260404_0701 </center>
+<center>Vers : 20260404_1601 </center>
+<br><br><br>
 #### [아스트라 마이크로웨이브 제품, S. 구루나타 레디가 MD직에서 물러나기로 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543606)
 #### [베단타 4분기 아연 인도 채굴 금속 생산량 전년 동기 대비 2% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543607)
 #### [US, 새로운 파트너와 함께 호르무즈 보증을 400억 달러로 두 배로 늘리다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543602)
 #### [백악관, 2027년 NASA 예산 56억 달러 삭감 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543605)
-<head><meta charset="utf-8"><title>Vers : 20260404_0539 </title></head>
-<center>Vers : 20260404_0539 </center>
-<center>Vers : 20260404_1439 </center>
-<br><br><br>
 #### [커넥스 마이크로시스템즈(인도), 주문 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543600)
 #### [이탈리아의 멜로니, 걸프 긴장과 에너지 우려 속에 사우디, 카타르, UAE 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543601)
 #### [이탈리아 법원, 넷플릭스 가격 인상 조항 무효, 환불 명령 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543599)
@@ -204,8 +208,3 @@
 #### [터키, 전기, 천연 가스 가격 인상 검토, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543544)
 #### [산옥고무, 환매 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543545)
 #### [캐나다 달러 약세, 벤치마크 수익률 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543549)
-#### [UPDATE 2-이란 전쟁이 지속되면 세계 식량 가격 상승이 계속 될 것이라고 FAO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543548)
-#### [카자흐스탄, 사우디 지원으로 멸종 위기에 처한 사커 매를 방생하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543543)
-#### [자동차 사이트 Edmunds는 중국 SUV를 테스트하고 미국 자동차 제조업체를 걱정해야한다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543541)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7203.T/total>
-#### [러시아 서부에서 열차 탈선, 7 명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543540)
