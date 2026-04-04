@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_1434 </title></head>
-<center>Vers : 20260404_1434 </center>
-<center>Vers : 20260404_2334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_1502 </title></head>
+<center>Vers : 20260404_1502 </center>
+<center>Vers : 20260405_0002 </center>
 <br><br><br>
 #### ["전쟁통인데 '54조'라니"…개미들 놀랄 삼전 '역대급' 예고 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005270926)
 #### [“삼성전자 32만원 간다는데”…이란 전쟁 지상전 가능성에 ‘글쎄’](https://m.stock.naver.com/news/ranknews/view/138/0002223290)

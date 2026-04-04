@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_1434 </title></head>
-<center>Vers : 20260404_1434 </center>
-<center>Vers : 20260404_2334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_1502 </title></head>
+<center>Vers : 20260404_1502 </center>
+<center>Vers : 20260405_0002 </center>
 <br><br><br>
+#### [슬로바키아 총리, EU는 에너지 안보를 강화하기 위해 러시아 석유 및 가스에 대한 제재를 철회해야한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543767)
+#### [40년 만의 첫 WM 참가: 이라크 축구 대표팀 축하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543768)
 #### [트럼프 행정부, 보안 문제를 이유로 볼룸 작업 재개를 위한 긴급 동의안 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543766)
 #### [IAEA: AKW 원자로에 대한 추가 핵실험 금지 조치 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543765)
 #### [러시아, 이란의 부셰르 원자력 발전소에서 198 명 이상의 직원 대피, 기관 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543764)
@@ -60,12 +62,12 @@
 #### [베트남 1분기 GDP 성장률이 2025년 1분기 7.07%에서 전년 동기 대비 7.83%로 가속화됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543713)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543710)
 #### [이스라엘 군, 베이루트의 헤즈볼라 시설을 공격하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543707)
+<head><meta charset="utf-8"><title>Vers : 20260404_1502 </title></head>
+<center>Vers : 20260404_1502 </center>
+<center>Vers : 20260405_0002 </center>
+<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543709)
 #### [5월 29일까지의 정부 부채 경매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543708)
-<head><meta charset="utf-8"><title>Vers : 20260404_1434 </title></head>
-<center>Vers : 20260404_1434 </center>
-<center>Vers : 20260404_2334 </center>
-<br><br><br>
 #### [이머징 마켓 경제 이벤트 5월 29일까지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543706)
 #### [5월 29일까지의 주요 경제 이벤트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543705)
 #### [안트로픽, 구독자에게 추가 비용을 지불하게 함으로써 클로드의 오픈클로를 본질적으로 금지 - Verge](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543704)
@@ -130,12 +132,12 @@
 #### [AMC 네트웍스, 마이클 J. 셰린 3세가 임시로 최고재무책임자를 맡게 됐다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543650)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMCX.O/total>
 #### [BUZZ-미국 고용지표 호조로 주말에 GBP/USD가 약세를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543652)
+<head><meta charset="utf-8"><title>Vers : 20260404_1502 </title></head>
+<center>Vers : 20260404_1502 </center>
+<center>Vers : 20260405_0002 </center>
+<br><br><br>
 #### [오대호 지역에서 눈과 얼음으로 인해 특정 우편물이 지연될 수 있다고 USPS는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543647)
 #### [AI 스타트업 Mercor, 계약업체로부터 사전 작업 자료 구매 제안, 지적재산권 우려 제기 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543649)
-<head><meta charset="utf-8"><title>Vers : 20260404_1434 </title></head>
-<center>Vers : 20260404_1434 </center>
-<center>Vers : 20260404_2334 </center>
-<br><br><br>
 #### [이스라엘이 베이루트를 공격하고 미국은이란이 레바논 대학을 공격 할 수 있다고 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543645)
 #### [러시아 공습으로 우크라이나 동부 크라 마 토르 스크에서 3 명 사망, 지역 총재는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543646)
 #### [요격 공격으로 인한 파편이 아부다비 가스 시설에 부딪혀 1명이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543643)
@@ -196,5 +198,3 @@
 #### [미국, 러시아 국적의 미하일 자도르노프를 제재 명단에서 삭제합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543591)
 #### [재글 선불 해양 서비스, Effiasoft 인수 진행하지 않기로 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543590)
 #### [콩고, 제 3 국 추방에 대해 미국과 협상 중, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543585)
-#### [중국의 우주 개척자, 재사용 가능한 로켓의 처녀 비행이 실패했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543588)
-#### [미국 1월 소고기, 돼지고기, 육계 무역 데이터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543589)
