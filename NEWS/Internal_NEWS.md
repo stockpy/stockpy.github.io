@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_0841 </title></head>
-<center>Vers : 20260404_0841 </center>
-<center>Vers : 20260404_1741 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_0923 </title></head>
+<center>Vers : 20260404_0923 </center>
+<center>Vers : 20260404_1823 </center>
 <br><br><br>
+#### [우크라이나 최전방 도시에서 러시아 시장 공격으로 5명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543739)
+#### [ISS, 일부 기후 보고를 폐기하려는 BP 이사회의 움직임에 반대 투표 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543740)
+#### [타타 스틸, 초과 석탄 채굴 혐의에 대해 약 175 억 5 천만 루피의 수요 통지를 받았다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543738)
 #### [인도, 원유 공급 확보, 이란 수입에 대한 지불 문제 없다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543735)
 #### [텔레그램의 듀로프, 러시아가 VPN을 차단해 결제 시스템 문제를 일으켰다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543736)
 #### [의결권 자문사 ISS, 일부 기후보고 폐기 시도에 대해 BP 이사회에 반대 투표 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543737)
@@ -63,13 +66,13 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KRUS.O/total>
 #### [재방송-미국 급여 인상, 중재 결렬, 위협적인 돌파구 마련](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543681)
 #### [격추된 미국 전투기 승무원 수색 진행 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543682)
+<head><meta charset="utf-8"><title>Vers : 20260404_0923 </title></head>
+<center>Vers : 20260404_0923 </center>
+<center>Vers : 20260404_1823 </center>
+<br><br><br>
 #### [레오 교황의 성 금요일 예배에서 추방된 어린이들을 위한 기도 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543679)
 #### [공격을 받고있는 러시아 석유 터미널, 2 주 동안 선적을받을 수 없다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543678)
 #### [IMM: EUR 롱은 간신히 살아남고, JPY 숏은 증가, CAD 점프에 대한 베팅](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543680)
-<head><meta charset="utf-8"><title>Vers : 20260404_0841 </title></head>
-<center>Vers : 20260404_0841 </center>
-<center>Vers : 20260404_1741 </center>
-<br><br><br>
 #### [트럼프, 미국 제트기 추락이이란과의 회담에 영향을 미치지 않을 것이라고 말하다 - NBC 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543677)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543676)
 #### [4월 기준 앨버타 일일 카놀라 가격. 03](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543675)
@@ -130,13 +133,13 @@
 #### [블록버스터 일자리 수로 연준의 일시 중지 입장을 뒷받침 한 후 재무부-미국 채권 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543624)
 #### [베이루트 주재 미국 대사관, 레바논 대학에 대한이란 위협 가능성 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543621)
 #### [더 강력하고 광범위한 고용은 연준의 고용 시장 우려를 완화할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543619)
+<head><meta charset="utf-8"><title>Vers : 20260404_0923 </title></head>
+<center>Vers : 20260404_0923 </center>
+<center>Vers : 20260404_1823 </center>
+<br><br><br>
 #### [민주당 상원의원들, 월스트리트 베팅에 대한 정부 감시를 질의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543622)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543620)
 #### [이탈리아 중앙 은행, 성장 전망 하향 조정, 멜로니 총리에게 타격으로 인플레이션 추정치 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543618)
-<head><meta charset="utf-8"><title>Vers : 20260404_0841 </title></head>
-<center>Vers : 20260404_0841 </center>
-<center>Vers : 20260404_1741 </center>
-<br><br><br>
 #### [에미레이트 글로벌 알루미늄, 공격으로부터 완전한 생산 복구에 1년이 걸릴 수 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543616)
 #### [Emlak Konut REIT, CMB 승인 후 1 년 이내에 최대 80 억 리라까지 임대 증명서를 발행하기로 결정했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543614)
 #### [캐나다 기업 실적 발표 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543617)
@@ -200,7 +203,3 @@
 #### [일자리 수 폭증으로 연준의 일시 중지 입장을 확인한 후 재무부-미국 수익률 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543562)
 #### [증권 규제 당국의 조사를 받은 항진 기술](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543560)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000818.SZ/total>
-#### [딥시크의 V4 모델이 화웨이 칩에서 실행될 것이라고 더 인포메이션이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543559)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9988.HK/total>
-#### [젤렌스키, 우크라이나 자금이 균형을 잃자 의원들에게 행동 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543558)
-#### [과학자들이 거대한 별 폭발 이론의 증거를 찾았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543556)
