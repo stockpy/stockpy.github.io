@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_1704 </title></head>
-<center>Vers : 20260404_1704 </center>
-<center>Vers : 20260405_0204 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_1842 </title></head>
+<center>Vers : 20260404_1842 </center>
+<center>Vers : 20260405_0342 </center>
 <br><br><br>
+#### [스웨덴의 포스마크 블록3 원자로가 4월 5일에 재가동될 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543782)
+#### [이스라엘, 이란 에너지 시설에 대한 공격 준비, 미국의 승인을 기다리고 있다고 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543780)
+#### [규모 5.5의 지진이 대만 화롄시를 강타했다고 USGS는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543781)
 #### [미국 특사 위트 코프와 쿠슈너가 우크라이나를 방문 할 수 있다고 키예프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543779)
 #### [이란, 이라크는 호르무즈 해협 제한에서 면제된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543778)
 #### [젤렌스키, 에르도안과 안보 협력에서 "새로운 단계"에 합의했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543777)
@@ -59,6 +62,3 @@
 #### [우크라이나 드론과 미사일 공격으로 러시아 남부에서 최소 한 명 사망, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543725)
 #### [텔레그램의 두로프, 러시아가 VPN을 차단해 결제 시스템 문제를 일으켰다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543724)
 #### [우크라이나 드론과 미사일 공격으로 러시아 남부에서 최소 한 명 사망, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543723)
-#### [테헤란이 실종 된 미국 조종사를 사냥하면서 추락 한 비행기가 트럼프에게 새로운 위험을 예고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543722)
-#### [드론 공격 후 이라크 내 외국 석유 회사의 저장 시설에서 화재가보고되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543721)
-#### [미디어메타, 데이터 유출 이후 AI 교육 스타트업 머코와의 협력 중단 - Business Insider](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543720)
