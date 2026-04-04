@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_2231 </title></head>
-<center>Vers : 20260404_2231 </center>
-<center>Vers : 20260405_0731 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_2259 </title></head>
+<center>Vers : 20260404_2259 </center>
+<center>Vers : 20260405_0759 </center>
 <br><br><br>
+#### [드론 공격 후 쿠웨이트의 슈와이크 석유 부문 단지에서 화재가 발생했다고 국영 통신사가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543794)
 #### [트럼프, 이스라엘이 실종 된 미 공군 조종사 수색이 계속되면서 마감일을 앞두고이란에 압력을가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543791)
 #### [차량이 루이지애나 군중을 충돌하여 최소 15 명 부상, 보안관 사무실은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543790)
 #### [교황 레오, 부활절 철야기도에서 전 세계에 전쟁에 무감각해지지 말 것을 촉구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543793)
@@ -61,4 +62,3 @@
 #### [인도, 원유 공급 확보, 이란 수입에 대한 지불 문제 없다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543735)
 #### [텔레그램의 듀로프, 러시아가 VPN을 차단해 결제 시스템 문제를 일으켰다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543736)
 #### [의결권 자문사 ISS, 일부 기후보고 폐기 시도에 대해 BP 이사회에 반대 투표 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543737)
-#### [독점-유럽 연합 재무 장관 5 명, 에너지 기업의 횡재 이익에 대한 세금 부과 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543734)
