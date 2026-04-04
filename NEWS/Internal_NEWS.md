@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_0425 </title></head>
-<center>Vers : 20260404_0425 </center>
-<center>Vers : 20260404_1325 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_0539 </title></head>
+<center>Vers : 20260404_0539 </center>
+<center>Vers : 20260404_1439 </center>
 <br><br><br>
+#### [드론 공격 후 이라크 내 외국 석유 회사의 저장 시설에서 화재가보고되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543721)
+#### [미디어메타, 데이터 유출 이후 AI 교육 스타트업 머코와의 협력 중단 - Business Insider](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543720)
 #### [페루 경기장 '사건'으로 축구 더비 전 1 명 사망, 47 명 부상, AFP는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543719)
 #### [두바이, 오라클 건물에 떨어진 파편으로 인한 부상자 없음 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543718)
 #### [트럼프 행정부는 대학에 인종 관련 데이터 제공, 판사 규칙을 제공하도록 할 수 없습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543717)
@@ -65,12 +67,12 @@
 #### [원격 의료 기업 웨이트워처스의 CEO가 회사를 떠납니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543663)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WW.O/total>
 #### [프랑스, EU 집행위원회에 유럽 정유 부문 조사 요청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543662)
+<head><meta charset="utf-8"><title>Vers : 20260404_0539 </title></head>
+<center>Vers : 20260404_0539 </center>
+<center>Vers : 20260404_1439 </center>
+<br><br><br>
 #### [독점: 베이스라인, 서튼 내셔널 지원 프로그램으로 캘리포니아 산재보험 시장 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543659)
 #### [테헤란, 미국의 48 시간 휴전 제안 거부, 소식통을 인용 한이란 언론은 다음과 같이 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543660)
-<head><meta charset="utf-8"><title>Vers : 20260404_0425 </title></head>
-<center>Vers : 20260404_0425 </center>
-<center>Vers : 20260404_1325 </center>
-<br><br><br>
 #### [머스크, SpaceX IPO 은행에 Grok AI 구독 구매 요청, NYT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543661)
 #### [트리수라, 테일러가 은퇴함에 따라 전 보증 책임자 세키네를 영입하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543656)
 #### [아프가니스탄 지진으로 8명 사망, 어린이 1명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543657)
@@ -131,12 +133,12 @@
 #### [베단타 4분기 아연 인도 채굴 금속 생산량 전년 동기 대비 2% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543607)
 #### [US, 새로운 파트너와 함께 호르무즈 보증을 400억 달러로 두 배로 늘리다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543602)
 #### [백악관, 2027년 NASA 예산 56억 달러 삭감 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543605)
+<head><meta charset="utf-8"><title>Vers : 20260404_0539 </title></head>
+<center>Vers : 20260404_0539 </center>
+<center>Vers : 20260404_1439 </center>
+<br><br><br>
 #### [커넥스 마이크로시스템즈(인도), 주문 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543600)
 #### [이탈리아의 멜로니, 걸프 긴장과 에너지 우려 속에 사우디, 카타르, UAE 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543601)
-<head><meta charset="utf-8"><title>Vers : 20260404_0425 </title></head>
-<center>Vers : 20260404_0425 </center>
-<center>Vers : 20260404_1325 </center>
-<br><br><br>
 #### [이탈리아 법원, 넷플릭스 가격 인상 조항 무효, 환불 명령 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543599)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
 #### [게딕 야티림 멘쿨 데거러, 자본시장위원회, 2억 7,500만 리라 규모의 기 바릭 키랄라마 유닛 임대 증명서 발행 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543596)
@@ -207,5 +209,3 @@
 #### [자동차 사이트 Edmunds는 중국 SUV를 테스트하고 미국 자동차 제조업체를 걱정해야한다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543541)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7203.T/total>
 #### [러시아 서부에서 열차 탈선, 7 명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543540)
-#### [이란 지도자들이 테헤란 거리에서 군중과 함께 전시 통제를 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543538)
-#### [캐나다 재무장관, 중국에서 열린 회의에서 공급망 무결성 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543542)
