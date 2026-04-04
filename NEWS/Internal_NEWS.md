@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_1636 </title></head>
-<center>Vers : 20260404_1636 </center>
-<center>Vers : 20260405_0136 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_1704 </title></head>
+<center>Vers : 20260404_1704 </center>
+<center>Vers : 20260405_0204 </center>
 <br><br><br>
+#### [미국 특사 위트 코프와 쿠슈너가 우크라이나를 방문 할 수 있다고 키예프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543779)
+#### [이란, 이라크는 호르무즈 해협 제한에서 면제된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543778)
 #### [젤렌스키, 에르도안과 안보 협력에서 "새로운 단계"에 합의했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543777)
 #### [이란-콜른의 전쟁은 오스터마쉬를 실천합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543776)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543774)
@@ -60,5 +62,3 @@
 #### [테헤란이 실종 된 미국 조종사를 사냥하면서 추락 한 비행기가 트럼프에게 새로운 위험을 예고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543722)
 #### [드론 공격 후 이라크 내 외국 석유 회사의 저장 시설에서 화재가보고되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543721)
 #### [미디어메타, 데이터 유출 이후 AI 교육 스타트업 머코와의 협력 중단 - Business Insider](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543720)
-#### [페루 경기장 '사건'으로 축구 더비 전 1 명 사망, 47 명 부상, AFP는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543719)
-#### [두바이, 오라클 건물에 떨어진 파편으로 인한 부상자 없음 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543718)
