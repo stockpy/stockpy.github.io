@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_1355 </title></head>
-<center>Vers : 20260404_1355 </center>
-<center>Vers : 20260404_2255 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_1434 </title></head>
+<center>Vers : 20260404_1434 </center>
+<center>Vers : 20260404_2334 </center>
 <br><br><br>
+#### [트럼프 행정부, 보안 문제를 이유로 볼룸 작업 재개를 위한 긴급 동의안 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543766)
 #### [IAEA: AKW 원자로에 대한 추가 핵실험 금지 조치 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543765)
 #### [러시아, 이란의 부셰르 원자력 발전소에서 198 명 이상의 직원 대피, 기관 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543764)
 #### [쿠바, 인권 단체와 미국의 감시 아래 수감자 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543763)
@@ -61,11 +62,11 @@
 #### [이스라엘 군, 베이루트의 헤즈볼라 시설을 공격하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543707)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543709)
 #### [5월 29일까지의 정부 부채 경매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543708)
-#### [이머징 마켓 경제 이벤트 5월 29일까지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543706)
-<head><meta charset="utf-8"><title>Vers : 20260404_1355 </title></head>
-<center>Vers : 20260404_1355 </center>
-<center>Vers : 20260404_2255 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_1434 </title></head>
+<center>Vers : 20260404_1434 </center>
+<center>Vers : 20260404_2334 </center>
 <br><br><br>
+#### [이머징 마켓 경제 이벤트 5월 29일까지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543706)
 #### [5월 29일까지의 주요 경제 이벤트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543705)
 #### [안트로픽, 구독자에게 추가 비용을 지불하게 함으로써 클로드의 오픈클로를 본질적으로 금지 - Verge](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543704)
 #### [네바다 판사, 주 내 칼시 운영 예측 시장 금지 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543703)
@@ -131,11 +132,11 @@
 #### [BUZZ-미국 고용지표 호조로 주말에 GBP/USD가 약세를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543652)
 #### [오대호 지역에서 눈과 얼음으로 인해 특정 우편물이 지연될 수 있다고 USPS는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543647)
 #### [AI 스타트업 Mercor, 계약업체로부터 사전 작업 자료 구매 제안, 지적재산권 우려 제기 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543649)
-#### [이스라엘이 베이루트를 공격하고 미국은이란이 레바논 대학을 공격 할 수 있다고 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543645)
-<head><meta charset="utf-8"><title>Vers : 20260404_1355 </title></head>
-<center>Vers : 20260404_1355 </center>
-<center>Vers : 20260404_2255 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_1434 </title></head>
+<center>Vers : 20260404_1434 </center>
+<center>Vers : 20260404_2334 </center>
 <br><br><br>
+#### [이스라엘이 베이루트를 공격하고 미국은이란이 레바논 대학을 공격 할 수 있다고 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543645)
 #### [러시아 공습으로 우크라이나 동부 크라 마 토르 스크에서 3 명 사망, 지역 총재는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543646)
 #### [요격 공격으로 인한 파편이 아부다비 가스 시설에 부딪혀 1명이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543643)
 #### [BUZZ-EUR/USD가 하락 압력을 받습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543644)
@@ -197,4 +198,3 @@
 #### [콩고, 제 3 국 추방에 대해 미국과 협상 중, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543585)
 #### [중국의 우주 개척자, 재사용 가능한 로켓의 처녀 비행이 실패했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543588)
 #### [미국 1월 소고기, 돼지고기, 육계 무역 데이터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543589)
-#### [러시아 유가가 3 월에 배럴당 77 달러로 급등했다고 경제부는 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543584)
