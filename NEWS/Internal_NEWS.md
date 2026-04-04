@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_1034 </title></head>
-<center>Vers : 20260404_1034 </center>
-<center>Vers : 20260404_1934 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_1102 </title></head>
+<center>Vers : 20260404_1102 </center>
+<center>Vers : 20260404_2002 </center>
 <br><br><br>
 #### [이란은 호르무즈 해협을 통해 필수품 선박의 항구 입항을 허용한다고 Tasnim은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543751)
 #### [젤렌스키, 에르도안과의 회담을 위해 이스탄불에 도착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543752)
@@ -64,9 +64,9 @@
 #### ['에서 'CCC+'로 하향 조정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543696)
 #### [루시드, 1분기 차량 배송 예상치 누락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543692)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LCID.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260404_1034 </title></head>
-<center>Vers : 20260404_1034 </center>
-<center>Vers : 20260404_1934 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_1102 </title></head>
+<center>Vers : 20260404_1102 </center>
+<center>Vers : 20260404_2002 </center>
 <br><br><br>
 #### [무디스, 몰도바 신용등급을 'B3'에서 'B2'로 상향 조정하고 전망은 '안정적'으로 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543693)
 #### [메타 지원 데이터 센터, 새로운 자금 조달로 캠퍼스에 30억 달러 투자 모색- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543691)
@@ -132,9 +132,9 @@
 #### [스웨덴, 기름 유출 원인으로 의심되는 유조선 압류 해제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543635)
 #### [이란 휴전 협상이 교착 상태에 빠졌다고 WSJ이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543637)
 #### [USD / JPY는 160을 주시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543633)
-<head><meta charset="utf-8"><title>Vers : 20260404_1034 </title></head>
-<center>Vers : 20260404_1034 </center>
-<center>Vers : 20260404_1934 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_1102 </title></head>
+<center>Vers : 20260404_1102 </center>
+<center>Vers : 20260404_2002 </center>
 <br><br><br>
 #### [린-마누엘 미란다 감독, 뮤지컬 '옥테'를 영화로 만들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543634)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
