@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_0210 </title></head>
-<center>Vers : 20260404_0210 </center>
-<center>Vers : 20260404_1110 </center>
+<head><meta charset="utf-8"><title>Vers : 20260404_0425 </title></head>
+<center>Vers : 20260404_0425 </center>
+<center>Vers : 20260404_1325 </center>
 <br><br><br>
+#### [페루 경기장 '사건'으로 축구 더비 전 1 명 사망, 47 명 부상, AFP는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543719)
+#### [두바이, 오라클 건물에 떨어진 파편으로 인한 부상자 없음 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543718)
+#### [트럼프 행정부는 대학에 인종 관련 데이터 제공, 판사 규칙을 제공하도록 할 수 없습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543717)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543716)
+#### [두바이 당국은 선착장 지역에서 떨어지는 파편으로 인한 화재나 부상자는 없다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543715)
 #### [베트남 1분기 GDP 성장률이 4분기 8.46%에서 7.83%로 둔화되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543714)
 #### [베트남 1분기 커피 수출량 전년 동기 대비 14% 증가한 585,000톤, 통계청 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543712)
 #### [베트남 3 월 쌀 수출량은 965,000 톤으로 전년 대비 10.6 % 감소했다고 통계청은 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543711)
@@ -62,15 +67,15 @@
 #### [프랑스, EU 집행위원회에 유럽 정유 부문 조사 요청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543662)
 #### [독점: 베이스라인, 서튼 내셔널 지원 프로그램으로 캘리포니아 산재보험 시장 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543659)
 #### [테헤란, 미국의 48 시간 휴전 제안 거부, 소식통을 인용 한이란 언론은 다음과 같이 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543660)
+<head><meta charset="utf-8"><title>Vers : 20260404_0425 </title></head>
+<center>Vers : 20260404_0425 </center>
+<center>Vers : 20260404_1325 </center>
+<br><br><br>
 #### [머스크, SpaceX IPO 은행에 Grok AI 구독 구매 요청, NYT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543661)
 #### [트리수라, 테일러가 은퇴함에 따라 전 보증 책임자 세키네를 영입하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543656)
 #### [아프가니스탄 지진으로 8명 사망, 어린이 1명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543657)
 #### [은퇴하는 그레가리오의 후임으로 구티에레즈를 선임한 위대한 미국인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543658)
 #### [프랑스 검찰, 2024년 파리올림픽 조직위원장 에스탕게에 대한 수사 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543653)
-<head><meta charset="utf-8"><title>Vers : 20260404_0210 </title></head>
-<center>Vers : 20260404_0210 </center>
-<center>Vers : 20260404_1110 </center>
-<br><br><br>
 #### [머스크, SpaceX IPO 은행에 Grok AI 구독 구매 요청, NYT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543654)
 #### [미국 일자리 보고서의 최고점과 최저점](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543655)
 #### [민주당 주도 주, 트럼프의 우편투표 강화 행정명령을 막기 위해 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543651)
@@ -128,16 +133,16 @@
 #### [백악관, 2027년 NASA 예산 56억 달러 삭감 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543605)
 #### [커넥스 마이크로시스템즈(인도), 주문 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543600)
 #### [이탈리아의 멜로니, 걸프 긴장과 에너지 우려 속에 사우디, 카타르, UAE 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543601)
+<head><meta charset="utf-8"><title>Vers : 20260404_0425 </title></head>
+<center>Vers : 20260404_0425 </center>
+<center>Vers : 20260404_1325 </center>
+<br><br><br>
 #### [이탈리아 법원, 넷플릭스 가격 인상 조항 무효, 환불 명령 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543599)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
 #### [게딕 야티림 멘쿨 데거러, 자본시장위원회, 2억 7,500만 리라 규모의 기 바릭 키랄라마 유닛 임대 증명서 발행 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543596)
 #### [댓글-달러가 강세 삼각지대가 형성되면서 돌파를 위협합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543597)
 #### [상원의원들, 트럼프에게 중국 자동차 제조업체의 미국 내 자동차 생산 금지 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543598)
 #### [스위스 산업 단체는 의약품에 대한 미국의 관세가 환자에게 해를 끼칠 것이라고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543594)
-<head><meta charset="utf-8"><title>Vers : 20260404_0210 </title></head>
-<center>Vers : 20260404_0210 </center>
-<center>Vers : 20260404_1110 </center>
-<br><br><br>
 #### [민주당 주도 주, 트럼프의 우편 투표 강화 명령을 막기 위해 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543595)
 #### [브라질 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543593)
 #### [이스라엘 군, 베이루트에서 '테러'인프라를 공격하고 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543586)
@@ -204,9 +209,3 @@
 #### [러시아 서부에서 열차 탈선, 7 명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543540)
 #### [이란 지도자들이 테헤란 거리에서 군중과 함께 전시 통제를 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543538)
 #### [캐나다 재무장관, 중국에서 열린 회의에서 공급망 무결성 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543542)
-#### [DXY, 트럼프 포스트 100위 재탈환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543539)
-#### [미국 3월 비농업 급여 데이터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543537)
-#### [트럼프의 예산안, 2027년 재량 지출 10% 삭감 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543535)
-#### [예상보다 강한 고용지표 발표 후 미 국채 수익률 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543533)
-#### [일본 국적 LNG 유조선, 호르무즈 해협 통과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543536)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9104.T/total>
