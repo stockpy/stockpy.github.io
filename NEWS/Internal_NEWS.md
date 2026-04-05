@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_1258 </title></head>
-<center>Vers : 20260405_1258 </center>
-<center>Vers : 20260405_2158 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_1357 </title></head>
+<center>Vers : 20260405_1357 </center>
+<center>Vers : 20260405_2257 </center>
 <br><br><br>
+#### [갈등 고조로 대부분의 걸프 지역 증시가 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543869)
+#### [트럼프, 해협 봉쇄 유지 시 화요일 이란 인프라 타격 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543870)
+#### [월스트리트 주간 전망 - 중동 전쟁 신호에 따른 인플레이션에 주목하는 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543868)
+#### [부다비, 보루지 공장의 낙하 잔해로 인한 피해 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543867)
+#### [Ostersonntag: 레오 14세는 ?우르비 에트 오르비"-세겐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543866)
+#### [샤라 대통령을 만나기 위해 시리아에있는 젤 렌스키, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543865)
+#### [이란 전쟁에서 에너지 자산에 대한 공격에 대해 우려하는 OPEC + 패널, 성명 초안에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543864)
 #### [이라크는 유조선의 호르무즈 통과를 허용한 이란에 감사를 표합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543863)
 #### [스웨덴 포스 마크 블록 3 원자로, 예기치 않은 정전 발생 - 전력 거래소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543861)
 #### [트럼프, 미국은 화요일에 이란의 인프라를 표적으로 삼을 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543862)
@@ -57,6 +64,10 @@
 #### [트랜스캐나다 온타리오 197MW 포틀랜드 1 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543813)
 #### [트랜스캐나다 온타리오 197MW 포틀랜드 2 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543812)
 #### [러시아 프리 모르 스크의 송유관이 드론 공격으로 손상되었다고 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543811)
+<head><meta charset="utf-8"><title>Vers : 20260405_1357 </title></head>
+<center>Vers : 20260405_1357 </center>
+<center>Vers : 20260405_2257 </center>
+<br><br><br>
 #### [영국, 미국 국방 충돌 후 인류 확장, FT는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543810)
 #### [영국 법원, 미 국방 충돌 후 런던에서 앤서픽 확장- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543807)
 #### [미국, 이란에서 F-15가 추락 한 공군 조종사 구조, 미국 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543808)
@@ -64,10 +75,6 @@
 #### [영국, 미국 국방 충돌 후 Anthropic의 확장 노력, FT는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543806)
 #### [미국, 이란에서 추락 한 승무원 구조, 트럼프는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543805)
 #### [주목해야 할 요소 - 4월 5일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543804)
-<head><meta charset="utf-8"><title>Vers : 20260405_1258 </title></head>
-<center>Vers : 20260405_1258 </center>
-<center>Vers : 20260405_2158 </center>
-<br><br><br>
 #### [노보 노디스크 책임자, 업계가 잠재 고객의 최대 15%에 불과하다고 추정 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543803)
 #### [15가 추락 한 공군 조종사 구조, 미국 관리들은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543802)
 #### [파업 중인 JBS 노동자, 대화 약속에 따라 콜로라도 공장으로 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543801)
@@ -121,10 +128,3 @@
 #### [전쟁으로 유네스코의 우려를 불러 일으키는 테헤란의 골레스탄 궁전 손상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543753)
 #### [이란은 호르무즈 해협을 통해 필수품 선박의 항구 입항을 허용한다고 Tasnim은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543751)
 #### [젤렌스키, 에르도안과의 회담을 위해 이스탄불에 도착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543752)
-#### [파벨 오델노프, 영국의 취약한 도시 유토피아에 대하여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543750)
-#### [이란 전쟁 압력이 커지면서 트럼프, 광범위한 내각 개편에 무게를 두다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543748)
-#### [이라크, 공습으로 이라크인 사망 후 이란과의 샬람체 교차로 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543749)
-#### [A2A는 타스카를 회장으로, 마존치니를 CEO로 지명했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543747)
-#### [IAEA, 이란의 부셰르 원자력 발전소 근처에서 발사체가 충돌해 1 명이 사망했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543746)
-#### [이라크, 공습으로 이라크인 사망 후 이란과 샬람체 교차로 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543744)
-#### [러시아, 4월 8일부터 14일까지 곡물 수출세 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543745)
