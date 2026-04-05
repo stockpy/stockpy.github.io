@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_1034 </title></head>
-<center>Vers : 20260405_1034 </center>
-<center>Vers : 20260405_1934 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_1104 </title></head>
+<center>Vers : 20260405_1104 </center>
+<center>Vers : 20260405_2004 </center>
 <br><br><br>
 #### [아이 얼굴 푸른 반점 제거 레이저 치료 40차례…횟수 늘자 보험사가 갑자기 [어쩌다 세상이]](https://m.stock.naver.com/news/ranknews/view/009/0005661138)
 #### [원전·방산 팔고 삼성전자 1100억 샀다... 위기 속 ‘기초체력’ 베팅한 스마트 머니](https://m.stock.naver.com/news/ranknews/view/023/0003968889)

@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_1034 </title></head>
-<center>Vers : 20260405_1034 </center>
-<center>Vers : 20260405_1934 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_1104 </title></head>
+<center>Vers : 20260405_1104 </center>
+<center>Vers : 20260405_2004 </center>
 <br><br><br>
+#### [이라크 원유를 실은 유조선이 호르무즈를 통과했다고 해운 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543844)
+#### [쿠웨이트 석유 공사, 이란 드론 공격 후 부대 피해 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543845)
+#### [콩고, 미국과의 새로운 협정에 따라 제3국 추방자를 받을 것이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543842)
+#### [세르비아에서 헝가리 공급 가스관 근처에서 폭발물 발견, 지도자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543843)
 #### [부활절을 맞아 교황 레오, 세계 지도자들에게 전쟁 종식 및 정복 포기 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543841)
 #### [중국, 마약 밀매 혐의로 유죄 판결을 받은 프랑스 시민 처형](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543839)
 #### [오만, 이란, 호르무즈 통과 보장에 관한 회담 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543840)
@@ -60,14 +64,14 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543788)
 #### [체코 방산 공장 방화 공격으로 2명 추가 구속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543789)
 #### [케임브리지, 남자 보트 레이스 우승, 옥스퍼드, 여자 우승 기다리는 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543786)
+<head><meta charset="utf-8"><title>Vers : 20260405_1104 </title></head>
+<center>Vers : 20260405_1104 </center>
+<center>Vers : 20260405_2004 </center>
+<br><br><br>
 #### [바이오세르젠, Bsg005 개발 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543785)
 #### [인도 북부에서 승용차가 도로에서 추락 한 후 4 명 사망, ANI 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543784)
 #### [미국 북서부 강 유량은 95 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543783)
 #### [스웨덴의 포스마크 블록3 원자로가 4월 5일에 재가동될 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543782)
-<head><meta charset="utf-8"><title>Vers : 20260405_1034 </title></head>
-<center>Vers : 20260405_1034 </center>
-<center>Vers : 20260405_1934 </center>
-<br><br><br>
 #### [이스라엘, 이란 에너지 시설에 대한 공격 준비, 미국의 승인을 기다리고 있다고 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543780)
 #### [규모 5.5의 지진이 대만 화롄시를 강타했다고 USGS는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543781)
 #### [미국 특사 위트 코프와 쿠슈너가 우크라이나를 방문 할 수 있다고 키예프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543779)
@@ -124,7 +128,3 @@
 #### [경찰, 네덜란드 이스라엘 센터에서 폭발 사고 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543727)
 #### [IMF는이란 전쟁이 새로운 위험을 초래하더라도 BOJ에 금리 인상을 계속할 것을 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543728)
 #### [도요타 자동차 엔지니어링 및 제조, 미국 차량 73,528 대 리콜 - NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543726)
-#### [우크라이나 드론과 미사일 공격으로 러시아 남부에서 최소 한 명 사망, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543725)
-#### [텔레그램의 두로프, 러시아가 VPN을 차단해 결제 시스템 문제를 일으켰다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543724)
-#### [우크라이나 드론과 미사일 공격으로 러시아 남부에서 최소 한 명 사망, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543723)
-#### [테헤란이 실종 된 미국 조종사를 사냥하면서 추락 한 비행기가 트럼프에게 새로운 위험을 예고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543722)
