@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_1440 </title></head>
-<center>Vers : 20260405_1440 </center>
-<center>Vers : 20260405_2340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_1506 </title></head>
+<center>Vers : 20260405_1506 </center>
+<center>Vers : 20260406_0006 </center>
 <br><br><br>
 #### [아이 얼굴 푸른 반점 제거 레이저 치료 40차례…횟수 늘자 보험사가 갑자기 [어쩌다 세상이]](https://m.stock.naver.com/news/ranknews/view/009/0005661138)
 #### [진작 이렇게 할걸…국민연금 따라 했더니 수익률 61% '대박'](https://m.stock.naver.com/news/ranknews/view/015/0005271170)
@@ -62,9 +62,9 @@
 #### [RFHIC 신고가 울린 이 리포트…게임 체험·반도체 탐방도 눈길](https://m.stock.naver.com/news/ranknews/view/008/0005339975)
 #### [“달러 오르면 몇억씩 버는데”…신현송 외화자산 45억 보유 ‘이해충돌’ 논란](https://m.stock.naver.com/news/ranknews/view/009/0005661098)
 #### [“개미들 손절할 때 부자들은 ‘이것’ 샀다”…전쟁통에 원전·방산 털고 담은 종목은](https://m.stock.naver.com/news/ranknews/view/011/0004607123)
-<head><meta charset="utf-8"><title>Vers : 20260405_1440 </title></head>
-<center>Vers : 20260405_1440 </center>
-<center>Vers : 20260405_2340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_1506 </title></head>
+<center>Vers : 20260405_1506 </center>
+<center>Vers : 20260406_0006 </center>
 <br><br><br>
 #### [12거래일 만에 잦아든 ‘셀 코리아’…국민주 ‘삼전·닉스’ 향방은 [선데이 머니카페]](https://m.stock.naver.com/news/ranknews/view/011/0004607094)
 #### [중동전에 에너지·방산 ETF 자금 집중… 바이오는 ‘썰물’ [ETF 스퀘어]](https://m.stock.naver.com/news/ranknews/view/014/0005502657)

@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_1440 </title></head>
-<center>Vers : 20260405_1440 </center>
-<center>Vers : 20260405_2340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_1506 </title></head>
+<center>Vers : 20260405_1506 </center>
+<center>Vers : 20260406_0006 </center>
 <br><br><br>
+#### [시리아 젤렌스키, 샤라와 안보 협력 논의하기 위해 시리아 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543875)
+#### [시카고: 긴 모피 무료 정신 - 트럼프에 대한 좌절감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543874)
 #### [우크라이나의 젤렌스키, 지역 외교적 압박 속에 시리아 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543873)
 #### [UAE 코르 파칸 항구에서 컨테이너 선박이 사고를보고했다고 UKMTO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543872)
 #### [트럼프, 월요일까지 이란과의 협상 가능, 폭스 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543871)
@@ -62,12 +64,12 @@
 #### [이란, 미국 조종사 구출 임무 중 여러 '적 비행 물체'가 파괴되었다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543818)
 #### [바레인의 Bapco, 이란 공격 후 저장 시설에서 탱크에 불이 났다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543817)
 #### [트랜스알타/캐피탈 파워 앨버타 450MW 키필즈 3 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543816)
+<head><meta charset="utf-8"><title>Vers : 20260405_1506 </title></head>
+<center>Vers : 20260405_1506 </center>
+<center>Vers : 20260406_0006 </center>
+<br><br><br>
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543814)
 #### [트랜스캐나다 온타리오 245MW 포틀랜드 3 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543815)
-<head><meta charset="utf-8"><title>Vers : 20260405_1440 </title></head>
-<center>Vers : 20260405_1440 </center>
-<center>Vers : 20260405_2340 </center>
-<br><br><br>
 #### [트랜스캐나다 온타리오 197MW 포틀랜드 1 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543813)
 #### [트랜스캐나다 온타리오 197MW 포틀랜드 2 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543812)
 #### [러시아 프리 모르 스크의 송유관이 드론 공격으로 손상되었다고 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543811)
@@ -126,5 +128,3 @@
 #### [스포츠의 새로운 프로 리그, 올림픽 화제성에 큰 베팅을 걸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543758)
 #### [이란, 호르무즈 해협에서 이스라엘 연계 선박 타격했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543756)
 #### [우크라이나의 나프토가즈, 러시아가 폴타바 지역의 시설을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543757)
-#### [우크라이나의 젤렌스키, 에르도안과 안보 회담 위해 이스탄불 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543755)
-#### [이라크 북부 루마일라 유전에서 드론 공격으로 근로자 3명 부상, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543754)
