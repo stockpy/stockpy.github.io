@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_2034 </title></head>
-<center>Vers : 20260405_2034 </center>
-<center>Vers : 20260406_0534 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_2101 </title></head>
+<center>Vers : 20260405_2101 </center>
+<center>Vers : 20260406_0601 </center>
 <br><br><br>
+#### [OpenAI CEO와 CFO, IPO 시점에 대해 견해차이 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543898)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543897)
 #### [러시아 발트해 항구, 공격 후 원유 선적 재개, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543896)
 #### [러시아 발트해 항구, 공격 후 원유 선적 재개, 블룸버그 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543895)
 #### [러시아의 주요 발트해 항구 우스트-루가, 며칠간의 중단 끝에 원유 선적 재개 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543894)
@@ -60,5 +62,3 @@
 #### [부활절을 맞아 교황 레오, 세계 지도자들에게 전쟁 종식 및 정복 포기 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543841)
 #### [중국, 마약 밀매 혐의로 유죄 판결을 받은 프랑스 시민 처형](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543839)
 #### [오만, 이란, 호르무즈 통과 보장에 관한 회담 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543840)
-#### [콩고, 미국과의 새로운 협정에 따라 제 3 국 추방자를받을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543838)
-#### [미국이 이란에서 피랍된 군인 석방 - 테헤란, 미군 헬리콥터 철수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543835)
