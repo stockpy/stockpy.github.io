@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_0501 </title></head>
-<center>Vers : 20260405_0501 </center>
-<center>Vers : 20260405_1401 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_0707 </title></head>
+<center>Vers : 20260405_0707 </center>
+<center>Vers : 20260405_1607 </center>
 <br><br><br>
+#### [드론 공격 후 러시아 노르시 정유 공장에서 화재 발생, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543821)
+#### [아부 다비, 잔해 낙하 후 보루지 운영 중단 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543820)
+#### [이란, 미군 조종사 구출 임무 중 여러 '적 비행 물체'가 파괴됐다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543819)
+#### [이란, 미국 조종사 구출 임무 중 여러 '적 비행 물체'가 파괴되었다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543818)
+#### [바레인의 Bapco, 이란 공격 후 저장 시설에서 탱크에 불이 났다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543817)
+#### [트랜스알타/캐피탈 파워 앨버타 450MW 키필즈 3 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543816)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543814)
+#### [트랜스캐나다 온타리오 245MW 포틀랜드 3 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543815)
+#### [트랜스캐나다 온타리오 197MW 포틀랜드 1 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543813)
+#### [트랜스캐나다 온타리오 197MW 포틀랜드 2 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543812)
+#### [러시아 프리 모르 스크의 송유관이 드론 공격으로 손상되었다고 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543811)
+#### [영국, 미국 국방 충돌 후 인류 확장, FT는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543810)
 #### [영국 법원, 미 국방 충돌 후 런던에서 앤서픽 확장- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543807)
 #### [미국, 이란에서 F-15가 추락 한 공군 조종사 구조, 미국 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543808)
 #### [프라이스, 피네이로 꺾고 쉴즈와 대결 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543809)
@@ -50,15 +62,3 @@
 #### [러시아, 이란의 부셰르 원자력 발전소에서 198 명 이상의 직원 대피, 기관 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543764)
 #### [쿠바, 인권 단체와 미국의 감시 아래 수감자 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543763)
 #### [이란, 미국 전투기를 겨냥한 새로운 방공 시스템에 사용 된 새로운 방공 시스템](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543762)
-#### [독점-유럽 5개국, 에너지 기업에 횡재세 부과 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543761)
-#### [영국 경찰은 유대인 커뮤니티 구급차 공격으로 네 번째 사람을 체포했다고 검찰은 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543760)
-#### [인도, 2027년 3월까지 노란 완두콩 면세 수입 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543759)
-#### [스포츠의 새로운 프로 리그, 올림픽 화제성에 큰 베팅을 걸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543758)
-#### [이란, 호르무즈 해협에서 이스라엘 연계 선박 타격했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543756)
-#### [우크라이나의 나프토가즈, 러시아가 폴타바 지역의 시설을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543757)
-#### [우크라이나의 젤렌스키, 에르도안과 안보 회담 위해 이스탄불 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543755)
-#### [이라크 북부 루마일라 유전에서 드론 공격으로 근로자 3명 부상, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543754)
-#### [전쟁으로 유네스코의 우려를 불러 일으키는 테헤란의 골레스탄 궁전 손상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543753)
-#### [이란은 호르무즈 해협을 통해 필수품 선박의 항구 입항을 허용한다고 Tasnim은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543751)
-#### [젤렌스키, 에르도안과의 회담을 위해 이스탄불에 도착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543752)
-#### [파벨 오델노프, 영국의 취약한 도시 유토피아에 대하여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543750)
