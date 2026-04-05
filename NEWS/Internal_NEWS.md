@@ -1,8 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_2231 </title></head>
-<center>Vers : 20260405_2231 </center>
-<center>Vers : 20260406_0731 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_2302 </title></head>
+<center>Vers : 20260405_2302 </center>
+<center>Vers : 20260406_0802 </center>
 <br><br><br>
+#### [한 주간의 브레이킹뷰: 기업 제국의 종말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543907)
+#### [러시아는 3시간 만에 우크라이나 드론 148대를 격추했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543906)
+#### [트럼프, 이란 구출을 찬양하는 종교적 수사를 불러와 비판을 불러 일으켰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543908)
 #### [트럼프, 이란에 호르무즈 해협 개방 시한 화요일로 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543904)
+#### [미국과 이스라엘의 이란과의 전쟁으로 공급 차질이 계속되면서 유가가 상승세로 출발했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543905)
 #### [BUZZ-IMM: EUR 롱은 간신히 살아남고, JPY 숏은 증가, CAD 점프에 대한 베팅](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543903)
 #### [BUZZ-재방송-미국 급여 인상, 중재 실패, 위협적인 탈주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543901)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543902)
@@ -58,7 +62,3 @@
 #### [밀화물을 실은 선박이 ?아 조프 해에서 침몰, 1 명 사망, 2 명 실종-TASS 통신사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543850)
 #### [OPEC +는이란 전쟁 마비 속에서 이론적 인 석유 생산량 증가에 원칙적으로 동의한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543851)
 #### [그리스 정교회 총대주교가 텅 빈 예루살렘에서 종려주일 의식을 인도합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543852)
-#### [러시아가 우크라이나의 폴 타바 지역 가스 시설을 공격했다고 국영 회사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543848)
-#### [이라크 원유를 실은 유조선, 호르무즈 통과, 선적 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543847)
-#### [이스라엘 정보국이이란에서 미 공군 구조 임무를 도왔다고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543846)
-#### [이라크 원유를 실은 유조선이 호르무즈를 통과했다고 해운 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543844)

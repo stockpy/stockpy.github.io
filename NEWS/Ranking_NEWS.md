@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_2231 </title></head>
-<center>Vers : 20260405_2231 </center>
-<center>Vers : 20260406_0731 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_2302 </title></head>
+<center>Vers : 20260405_2302 </center>
+<center>Vers : 20260406_0802 </center>
 <br><br><br>
 #### [아이 얼굴 푸른 반점 제거 레이저 치료 40차례…횟수 늘자 보험사가 갑자기 [어쩌다 세상이]](https://m.stock.naver.com/news/ranknews/view/009/0005661138)
 #### ["돈 삭제" 123만→64만원...천당에서 지옥? 이 종목 담은 ETF도 비명](https://m.stock.naver.com/news/ranknews/view/008/0005340024)
