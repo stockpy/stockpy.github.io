@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_1924 </title></head>
-<center>Vers : 20260405_1924 </center>
-<center>Vers : 20260406_0424 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_2034 </title></head>
+<center>Vers : 20260405_2034 </center>
+<center>Vers : 20260406_0534 </center>
 <br><br><br>
+#### [러시아 발트해 항구, 공격 후 원유 선적 재개, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543896)
+#### [러시아 발트해 항구, 공격 후 원유 선적 재개, 블룸버그 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543895)
+#### [러시아의 주요 발트해 항구 우스트-루가, 며칠간의 중단 끝에 원유 선적 재개 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543894)
 #### [미국 북서부 강 유량은 95 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543893)
 #### [노르웨이 가스코, 카르스토 가스전에서 4월 5일 0400시부터 4월 6일 0359시까지 -12.6밀리미터/일 정전 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543892)
 #### [로이터 미국 스포츠 일정 4월 5일 일요일 오후 0156시(동부 표준시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543891)
@@ -59,6 +62,3 @@
 #### [오만, 이란, 호르무즈 통과 보장에 관한 회담 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543840)
 #### [콩고, 미국과의 새로운 협정에 따라 제 3 국 추방자를받을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543838)
 #### [미국이 이란에서 피랍된 군인 석방 - 테헤란, 미군 헬리콥터 철수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543835)
-#### [이탈리아 대사를 소환해 스위스로 귀국시켰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543836)
-#### [모스크바에서 불타는 군사 학교에서 약 100 명이 대피했다고 TASS가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543837)
-#### [헝가리 오르반 총리, 세르비아 가스 인프라 근처에서 폭발물 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543834)
