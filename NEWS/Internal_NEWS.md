@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260404_2259 </title></head>
-<center>Vers : 20260404_2259 </center>
-<center>Vers : 20260405_0759 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_0232 </title></head>
+<center>Vers : 20260405_0232 </center>
+<center>Vers : 20260405_1132 </center>
 <br><br><br>
+#### [위성 회사 플래닛 랩스, 이란 전쟁 영상 무기한 보류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543799)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543798)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543797)
+#### [드론 공격 후 쿠웨이트의 슈와이크 석유 부문 단지에서 화재가 발생했다고 국영 통신사가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543796)
+#### [차량이 루이지애나 군중을 충돌하여 최소 15 명 부상, 보안관 사무실은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543795)
 #### [드론 공격 후 쿠웨이트의 슈와이크 석유 부문 단지에서 화재가 발생했다고 국영 통신사가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543794)
 #### [트럼프, 이스라엘이 실종 된 미 공군 조종사 수색이 계속되면서 마감일을 앞두고이란에 압력을가합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543791)
 #### [차량이 루이지애나 군중을 충돌하여 최소 15 명 부상, 보안관 사무실은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543790)
@@ -57,8 +62,3 @@
 #### [대만, '주요'국가의 LNG 공급에 대한 보장이 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543741)
 #### [인도, 7년 만에 처음으로 이란산 원유를 결제 문제 없이 구매하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543742)
 #### [우크라이나 최전방 도시에서 러시아 시장 공격으로 5명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543739)
-#### [ISS, 일부 기후 보고를 폐기하려는 BP 이사회의 움직임에 반대 투표 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543740)
-#### [타타 스틸, 초과 석탄 채굴 혐의에 대해 약 175 억 5 천만 루피의 수요 통지를 받았다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543738)
-#### [인도, 원유 공급 확보, 이란 수입에 대한 지불 문제 없다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543735)
-#### [텔레그램의 듀로프, 러시아가 VPN을 차단해 결제 시스템 문제를 일으켰다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543736)
-#### [의결권 자문사 ISS, 일부 기후보고 폐기 시도에 대해 BP 이사회에 반대 투표 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543737)
