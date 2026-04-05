@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_0925 </title></head>
-<center>Vers : 20260405_0925 </center>
-<center>Vers : 20260405_1825 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_1034 </title></head>
+<center>Vers : 20260405_1034 </center>
+<center>Vers : 20260405_1934 </center>
 <br><br><br>
+#### [부활절을 맞아 교황 레오, 세계 지도자들에게 전쟁 종식 및 정복 포기 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543841)
+#### [중국, 마약 밀매 혐의로 유죄 판결을 받은 프랑스 시민 처형](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543839)
+#### [오만, 이란, 호르무즈 통과 보장에 관한 회담 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543840)
+#### [콩고, 미국과의 새로운 협정에 따라 제 3 국 추방자를받을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543838)
+#### [미국이 이란에서 피랍된 군인 석방 - 테헤란, 미군 헬리콥터 철수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543835)
+#### [이탈리아 대사를 소환해 스위스로 귀국시켰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543836)
+#### [모스크바에서 불타는 군사 학교에서 약 100 명이 대피했다고 TASS가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543837)
+#### [헝가리 오르반 총리, 세르비아 가스 인프라 근처에서 폭발물 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543834)
 #### [중국, 마약 밀매 혐의로 유죄 판결을받은 프랑스 시민 처형](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543833)
 #### [이스라엘의 총격으로 가자 지구에서 팔레스타인 인 4 명이 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543831)
 #### [쿠웨이트항공, 4월 5일부터 인도 왕복 정기 항공편 운항 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543832)
@@ -56,6 +64,10 @@
 #### [인도 북부에서 승용차가 도로에서 추락 한 후 4 명 사망, ANI 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543784)
 #### [미국 북서부 강 유량은 95 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543783)
 #### [스웨덴의 포스마크 블록3 원자로가 4월 5일에 재가동될 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543782)
+<head><meta charset="utf-8"><title>Vers : 20260405_1034 </title></head>
+<center>Vers : 20260405_1034 </center>
+<center>Vers : 20260405_1934 </center>
+<br><br><br>
 #### [이스라엘, 이란 에너지 시설에 대한 공격 준비, 미국의 승인을 기다리고 있다고 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543780)
 #### [규모 5.5의 지진이 대만 화롄시를 강타했다고 USGS는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543781)
 #### [미국 특사 위트 코프와 쿠슈너가 우크라이나를 방문 할 수 있다고 키예프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543779)
@@ -64,10 +76,6 @@
 #### [이란-콜른의 전쟁은 오스터마쉬를 실천합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543776)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543774)
 #### [미국 요원들이 영주권 취소 후 이란의 카셈 솔레이마니 친척 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543775)
-<head><meta charset="utf-8"><title>Vers : 20260405_0925 </title></head>
-<center>Vers : 20260405_0925 </center>
-<center>Vers : 20260405_1825 </center>
-<br><br><br>
 #### [러시아 협상을 계속 지원할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543773)
 #### [독점-유럽 5개국, 에너지 기업에 횡재세 부과 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543772)
 #### [슬로바키아 총리, EU는 에너지 안보를 강화하기 위해 러시아 석유 및 가스에 대한 제재를 철회해야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543771)
@@ -120,11 +128,3 @@
 #### [텔레그램의 두로프, 러시아가 VPN을 차단해 결제 시스템 문제를 일으켰다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543724)
 #### [우크라이나 드론과 미사일 공격으로 러시아 남부에서 최소 한 명 사망, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543723)
 #### [테헤란이 실종 된 미국 조종사를 사냥하면서 추락 한 비행기가 트럼프에게 새로운 위험을 예고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543722)
-#### [드론 공격 후 이라크 내 외국 석유 회사의 저장 시설에서 화재가보고되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543721)
-#### [미디어메타, 데이터 유출 이후 AI 교육 스타트업 머코와의 협력 중단 - Business Insider](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543720)
-#### [페루 경기장 '사건'으로 축구 더비 전 1 명 사망, 47 명 부상, AFP는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543719)
-#### [두바이, 오라클 건물에 떨어진 파편으로 인한 부상자 없음 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543718)
-#### [트럼프 행정부는 대학에 인종 관련 데이터 제공, 판사 규칙을 제공하도록 할 수 없습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543717)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543716)
-#### [두바이 당국은 선착장 지역에서 떨어지는 파편으로 인한 화재나 부상자는 없다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543715)
-#### [베트남 1분기 GDP 성장률이 4분기 8.46%에서 7.83%로 둔화되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543714)
