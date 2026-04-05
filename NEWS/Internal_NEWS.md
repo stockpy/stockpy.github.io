@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_0232 </title></head>
-<center>Vers : 20260405_0232 </center>
-<center>Vers : 20260405_1132 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_0501 </title></head>
+<center>Vers : 20260405_0501 </center>
+<center>Vers : 20260405_1401 </center>
 <br><br><br>
+#### [영국 법원, 미 국방 충돌 후 런던에서 앤서픽 확장- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543807)
+#### [미국, 이란에서 F-15가 추락 한 공군 조종사 구조, 미국 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543808)
+#### [프라이스, 피네이로 꺾고 쉴즈와 대결 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543809)
+#### [영국, 미국 국방 충돌 후 Anthropic의 확장 노력, FT는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543806)
+#### [미국, 이란에서 추락 한 승무원 구조, 트럼프는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543805)
+#### [주목해야 할 요소 - 4월 5일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543804)
+#### [노보 노디스크 책임자, 업계가 잠재 고객의 최대 15%에 불과하다고 추정 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543803)
+#### [15가 추락 한 공군 조종사 구조, 미국 관리들은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543802)
+#### [파업 중인 JBS 노동자, 대화 약속에 따라 콜로라도 공장으로 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543801)
+#### [한국, 걸프 국가들에 안정적 에너지 공급과 한국 선박의 안전 보장 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543800)
 #### [위성 회사 플래닛 랩스, 이란 전쟁 영상 무기한 보류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543799)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543798)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543797)
@@ -52,13 +62,3 @@
 #### [이란은 호르무즈 해협을 통해 필수품 선박의 항구 입항을 허용한다고 Tasnim은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543751)
 #### [젤렌스키, 에르도안과의 회담을 위해 이스탄불에 도착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543752)
 #### [파벨 오델노프, 영국의 취약한 도시 유토피아에 대하여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543750)
-#### [이란 전쟁 압력이 커지면서 트럼프, 광범위한 내각 개편에 무게를 두다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543748)
-#### [이라크, 공습으로 이라크인 사망 후 이란과의 샬람체 교차로 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543749)
-#### [A2A는 타스카를 회장으로, 마존치니를 CEO로 지명했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543747)
-#### [IAEA, 이란의 부셰르 원자력 발전소 근처에서 발사체가 충돌해 1 명이 사망했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543746)
-#### [이라크, 공습으로 이라크인 사망 후 이란과 샬람체 교차로 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543744)
-#### [러시아, 4월 8일부터 14일까지 곡물 수출세 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543745)
-#### [A2A, 회장에 로베르토 타스카, 부회장에 플라비오 파소티, CEO에 레나토 마존치니 후보 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543743)
-#### [대만, '주요'국가의 LNG 공급에 대한 보장이 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543741)
-#### [인도, 7년 만에 처음으로 이란산 원유를 결제 문제 없이 구매하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543742)
-#### [우크라이나 최전방 도시에서 러시아 시장 공격으로 5명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543739)
