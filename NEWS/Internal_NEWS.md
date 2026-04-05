@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_2101 </title></head>
-<center>Vers : 20260405_2101 </center>
-<center>Vers : 20260406_0601 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_2231 </title></head>
+<center>Vers : 20260405_2231 </center>
+<center>Vers : 20260406_0731 </center>
 <br><br><br>
+#### [트럼프, 이란에 호르무즈 해협 개방 시한 화요일로 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543904)
+#### [BUZZ-IMM: EUR 롱은 간신히 살아남고, JPY 숏은 증가, CAD 점프에 대한 베팅](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543903)
+#### [BUZZ-재방송-미국 급여 인상, 중재 실패, 위협적인 탈주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543901)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543902)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543899)
+#### [이란에서 미국의 위험한 구조 임무가 궤도를 벗어날 뻔한 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543900)
 #### [OpenAI CEO와 CFO, IPO 시점에 대해 견해차이 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543898)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543897)
 #### [러시아 발트해 항구, 공격 후 원유 선적 재개, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543896)
@@ -56,9 +62,3 @@
 #### [이라크 원유를 실은 유조선, 호르무즈 통과, 선적 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543847)
 #### [이스라엘 정보국이이란에서 미 공군 구조 임무를 도왔다고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543846)
 #### [이라크 원유를 실은 유조선이 호르무즈를 통과했다고 해운 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543844)
-#### [쿠웨이트 석유 공사, 이란 드론 공격 후 부대 피해 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543845)
-#### [콩고, 미국과의 새로운 협정에 따라 제3국 추방자를 받을 것이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543842)
-#### [세르비아에서 헝가리 공급 가스관 근처에서 폭발물 발견, 지도자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543843)
-#### [부활절을 맞아 교황 레오, 세계 지도자들에게 전쟁 종식 및 정복 포기 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543841)
-#### [중국, 마약 밀매 혐의로 유죄 판결을 받은 프랑스 시민 처형](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543839)
-#### [오만, 이란, 호르무즈 통과 보장에 관한 회담 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543840)
