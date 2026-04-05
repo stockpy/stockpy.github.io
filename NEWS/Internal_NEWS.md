@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_1706 </title></head>
-<center>Vers : 20260405_1706 </center>
-<center>Vers : 20260406_0206 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_1844 </title></head>
+<center>Vers : 20260405_1844 </center>
+<center>Vers : 20260406_0344 </center>
 <br><br><br>
+#### [노르웨이 가스코, 카르스토 가스전에서 4월 5일 0400시부터 4월 6일 0359시까지 -12.6밀리미터/일 정전 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543892)
+#### [로이터 미국 스포츠 일정 4월 5일 일요일 오후 0156시(동부 표준시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543891)
 #### [트럼프, 이란에 호르무즈 해협 개방을 화요일 밤까지 허용, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543889)
 #### [하마스 무장 세력, 무장 해제 요구는 받아들일 수 없다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543890)
 #### [러시아, 미국은 이란에 대한 '최후통첩의 언어'를 버려야 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543888)
@@ -60,5 +62,3 @@
 #### [모스크바에서 불타는 군사 학교에서 약 100 명이 대피했다고 TASS가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543837)
 #### [헝가리 오르반 총리, 세르비아 가스 인프라 근처에서 폭발물 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543834)
 #### [중국, 마약 밀매 혐의로 유죄 판결을받은 프랑스 시민 처형](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543833)
-#### [이스라엘의 총격으로 가자 지구에서 팔레스타인 인 4 명이 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543831)
-#### [쿠웨이트항공, 4월 5일부터 인도 왕복 정기 항공편 운항 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543832)
