@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_1357 </title></head>
-<center>Vers : 20260405_1357 </center>
-<center>Vers : 20260405_2257 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_1440 </title></head>
+<center>Vers : 20260405_1440 </center>
+<center>Vers : 20260405_2340 </center>
 <br><br><br>
+#### [우크라이나의 젤렌스키, 지역 외교적 압박 속에 시리아 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543873)
+#### [UAE 코르 파칸 항구에서 컨테이너 선박이 사고를보고했다고 UKMTO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543872)
+#### [트럼프, 월요일까지 이란과의 협상 가능, 폭스 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543871)
 #### [갈등 고조로 대부분의 걸프 지역 증시가 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543869)
 #### [트럼프, 해협 봉쇄 유지 시 화요일 이란 인프라 타격 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543870)
 #### [월스트리트 주간 전망 - 중동 전쟁 신호에 따른 인플레이션에 주목하는 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543868)
@@ -61,13 +64,13 @@
 #### [트랜스알타/캐피탈 파워 앨버타 450MW 키필즈 3 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543816)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543814)
 #### [트랜스캐나다 온타리오 245MW 포틀랜드 3 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543815)
+<head><meta charset="utf-8"><title>Vers : 20260405_1440 </title></head>
+<center>Vers : 20260405_1440 </center>
+<center>Vers : 20260405_2340 </center>
+<br><br><br>
 #### [트랜스캐나다 온타리오 197MW 포틀랜드 1 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543813)
 #### [트랜스캐나다 온타리오 197MW 포틀랜드 2 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543812)
 #### [러시아 프리 모르 스크의 송유관이 드론 공격으로 손상되었다고 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543811)
-<head><meta charset="utf-8"><title>Vers : 20260405_1357 </title></head>
-<center>Vers : 20260405_1357 </center>
-<center>Vers : 20260405_2257 </center>
-<br><br><br>
 #### [영국, 미국 국방 충돌 후 인류 확장, FT는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543810)
 #### [영국 법원, 미 국방 충돌 후 런던에서 앤서픽 확장- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543807)
 #### [미국, 이란에서 F-15가 추락 한 공군 조종사 구조, 미국 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543808)
@@ -125,6 +128,3 @@
 #### [우크라이나의 나프토가즈, 러시아가 폴타바 지역의 시설을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543757)
 #### [우크라이나의 젤렌스키, 에르도안과 안보 회담 위해 이스탄불 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543755)
 #### [이라크 북부 루마일라 유전에서 드론 공격으로 근로자 3명 부상, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543754)
-#### [전쟁으로 유네스코의 우려를 불러 일으키는 테헤란의 골레스탄 궁전 손상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543753)
-#### [이란은 호르무즈 해협을 통해 필수품 선박의 항구 입항을 허용한다고 Tasnim은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543751)
-#### [젤렌스키, 에르도안과의 회담을 위해 이스탄불에 도착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543752)
