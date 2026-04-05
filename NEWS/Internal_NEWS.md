@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_1637 </title></head>
-<center>Vers : 20260405_1637 </center>
-<center>Vers : 20260406_0137 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_1706 </title></head>
+<center>Vers : 20260405_1706 </center>
+<center>Vers : 20260406_0206 </center>
 <br><br><br>
+#### [트럼프, 이란에 호르무즈 해협 개방을 화요일 밤까지 허용, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543889)
+#### [하마스 무장 세력, 무장 해제 요구는 받아들일 수 없다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543890)
+#### [러시아, 미국은 이란에 대한 '최후통첩의 언어'를 버려야 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543888)
+#### [이란의 호르무즈 해협 개방 시한이 화요일 저녁이라고 트럼프는 WSJ에 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543887)
 #### [ADNOC 가스, 합산 공격 이후에도 국내 수요는 여전히 충족되고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543886)
 #### [러시아, 미국은이란에 대한 '최후 통첩의 언어'를 포기해야한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543884)
 #### [후지모리 케이코, 선거 일주일 전 페루 대선 여론조사에서 선두를 달리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543882)
@@ -58,8 +62,3 @@
 #### [중국, 마약 밀매 혐의로 유죄 판결을받은 프랑스 시민 처형](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543833)
 #### [이스라엘의 총격으로 가자 지구에서 팔레스타인 인 4 명이 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543831)
 #### [쿠웨이트항공, 4월 5일부터 인도 왕복 정기 항공편 운항 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543832)
-#### [OPEC +, 이란 전쟁 마비 속에서 이론적 인 석유 생산량 증가에 대해 논의, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543829)
-#### [터키 중앙 은행은 런던 브리핑에서 공개 혐의가 근거가 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543830)
-#### [우크라이나가 러시아의 정유 공장과 항구를 공격했다고 드론 부대 사령관이 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543828)
-#### [폭스콘 1분기 매출 급증, 지정학에 대한 회사의 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543827)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>

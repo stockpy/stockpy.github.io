@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_1637 </title></head>
-<center>Vers : 20260405_1637 </center>
-<center>Vers : 20260406_0137 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_1706 </title></head>
+<center>Vers : 20260405_1706 </center>
+<center>Vers : 20260406_0206 </center>
 <br><br><br>
 #### [아이 얼굴 푸른 반점 제거 레이저 치료 40차례…횟수 늘자 보험사가 갑자기 [어쩌다 세상이]](https://m.stock.naver.com/news/ranknews/view/009/0005661138)
 #### [진작 이렇게 할걸…국민연금 따라 했더니 수익률 61% '대박'](https://m.stock.naver.com/news/ranknews/view/015/0005271170)
