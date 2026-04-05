@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_0843 </title></head>
-<center>Vers : 20260405_0843 </center>
-<center>Vers : 20260405_1743 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_0925 </title></head>
+<center>Vers : 20260405_0925 </center>
+<center>Vers : 20260405_1825 </center>
 <br><br><br>
+#### [중국, 마약 밀매 혐의로 유죄 판결을받은 프랑스 시민 처형](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543833)
+#### [이스라엘의 총격으로 가자 지구에서 팔레스타인 인 4 명이 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543831)
+#### [쿠웨이트항공, 4월 5일부터 인도 왕복 정기 항공편 운항 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543832)
 #### [OPEC +, 이란 전쟁 마비 속에서 이론적 인 석유 생산량 증가에 대해 논의, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543829)
 #### [터키 중앙 은행은 런던 브리핑에서 공개 혐의가 근거가 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543830)
 #### [우크라이나가 러시아의 정유 공장과 항구를 공격했다고 드론 부대 사령관이 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543828)
@@ -61,13 +64,13 @@
 #### [이란-콜른의 전쟁은 오스터마쉬를 실천합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543776)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543774)
 #### [미국 요원들이 영주권 취소 후 이란의 카셈 솔레이마니 친척 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543775)
+<head><meta charset="utf-8"><title>Vers : 20260405_0925 </title></head>
+<center>Vers : 20260405_0925 </center>
+<center>Vers : 20260405_1825 </center>
+<br><br><br>
 #### [러시아 협상을 계속 지원할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543773)
 #### [독점-유럽 5개국, 에너지 기업에 횡재세 부과 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543772)
 #### [슬로바키아 총리, EU는 에너지 안보를 강화하기 위해 러시아 석유 및 가스에 대한 제재를 철회해야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543771)
-<head><meta charset="utf-8"><title>Vers : 20260405_0843 </title></head>
-<center>Vers : 20260405_0843 </center>
-<center>Vers : 20260405_1743 </center>
-<br><br><br>
 #### [버지니아 지프레의 가족, 찰스 왕세자에게 미국 방문 중 엡스타인 생존자들을 만나도록 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543770)
 #### [루비오가 영주권을 취소 한 후 미국 요원들이이란의 카셈 솔레이 마니의 조카 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543769)
 #### [슬로바키아 총리, EU는 에너지 안보를 강화하기 위해 러시아 석유 및 가스에 대한 제재를 철회해야한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543767)
@@ -125,6 +128,3 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543716)
 #### [두바이 당국은 선착장 지역에서 떨어지는 파편으로 인한 화재나 부상자는 없다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543715)
 #### [베트남 1분기 GDP 성장률이 4분기 8.46%에서 7.83%로 둔화되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543714)
-#### [베트남 1분기 커피 수출량 전년 동기 대비 14% 증가한 585,000톤, 통계청 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543712)
-#### [베트남 3 월 쌀 수출량은 965,000 톤으로 전년 대비 10.6 % 감소했다고 통계청은 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543711)
-#### [베트남 1분기 GDP 성장률이 2025년 1분기 7.07%에서 전년 동기 대비 7.83%로 가속화됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543713)
