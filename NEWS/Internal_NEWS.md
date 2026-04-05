@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260405_1104 </title></head>
-<center>Vers : 20260405_1104 </center>
-<center>Vers : 20260405_2004 </center>
+<head><meta charset="utf-8"><title>Vers : 20260405_1258 </title></head>
+<center>Vers : 20260405_1258 </center>
+<center>Vers : 20260405_2158 </center>
 <br><br><br>
+#### [이라크는 유조선의 호르무즈 통과를 허용한 이란에 감사를 표합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543863)
+#### [스웨덴 포스 마크 블록 3 원자로, 예기치 않은 정전 발생 - 전력 거래소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543861)
+#### [트럼프, 미국은 화요일에 이란의 인프라를 표적으로 삼을 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543862)
+#### [영국 왕실은 부활절 예배를 위해 모이고 앤드류와 그의 가족은 불참합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543860)
+#### [화염 속의 "타이타닉" - 또 다른 오스터피어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543859)
+#### [와일더, 치소라에 승리 후 조슈아를 외치다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543858)
+#### [이스라엘의 총격으로 가자 지구에서 팔레스타인인 4명이 사망했다고 의료진이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543857)
+#### [이란 혁명수비대는 걸프만의 석유화학 시설을 표적으로 삼았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543856)
+#### [밀 화물을 실은 선박이 ?아조프 해에서 침몰, 1 명 사망, 2 명 실종](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543855)
+#### [레바논 군대, 레바논 남부에서 이스라엘 공격으로 군인 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543854)
+#### [트럼프, 이스라엘이 시한을 앞두고 이란을 압박하는 가운데 미국, 공군 조종사 구조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543849)
+#### [트럼프, 이스라엘이 시한을 앞두고 이란을 압박하는 가운데 미국, 공군 조종사 구조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543853)
+#### [밀화물을 실은 선박이 ?아 조프 해에서 침몰, 1 명 사망, 2 명 실종-TASS 통신사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543850)
+#### [OPEC +는이란 전쟁 마비 속에서 이론적 인 석유 생산량 증가에 원칙적으로 동의한다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543851)
+#### [그리스 정교회 총대주교가 텅 빈 예루살렘에서 종려주일 의식을 인도합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543852)
+#### [러시아가 우크라이나의 폴 타바 지역 가스 시설을 공격했다고 국영 회사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543848)
+#### [이라크 원유를 실은 유조선, 호르무즈 통과, 선적 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543847)
+#### [이스라엘 정보국이이란에서 미 공군 구조 임무를 도왔다고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543846)
 #### [이라크 원유를 실은 유조선이 호르무즈를 통과했다고 해운 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543844)
 #### [쿠웨이트 석유 공사, 이란 드론 공격 후 부대 피해 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543845)
 #### [콩고, 미국과의 새로운 협정에 따라 제3국 추방자를 받을 것이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543842)
@@ -46,6 +64,10 @@
 #### [영국, 미국 국방 충돌 후 Anthropic의 확장 노력, FT는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543806)
 #### [미국, 이란에서 추락 한 승무원 구조, 트럼프는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543805)
 #### [주목해야 할 요소 - 4월 5일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543804)
+<head><meta charset="utf-8"><title>Vers : 20260405_1258 </title></head>
+<center>Vers : 20260405_1258 </center>
+<center>Vers : 20260405_2158 </center>
+<br><br><br>
 #### [노보 노디스크 책임자, 업계가 잠재 고객의 최대 15%에 불과하다고 추정 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543803)
 #### [15가 추락 한 공군 조종사 구조, 미국 관리들은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543802)
 #### [파업 중인 JBS 노동자, 대화 약속에 따라 콜로라도 공장으로 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543801)
@@ -64,10 +86,6 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543788)
 #### [체코 방산 공장 방화 공격으로 2명 추가 구속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543789)
 #### [케임브리지, 남자 보트 레이스 우승, 옥스퍼드, 여자 우승 기다리는 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543786)
-<head><meta charset="utf-8"><title>Vers : 20260405_1104 </title></head>
-<center>Vers : 20260405_1104 </center>
-<center>Vers : 20260405_2004 </center>
-<br><br><br>
 #### [바이오세르젠, Bsg005 개발 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543785)
 #### [인도 북부에서 승용차가 도로에서 추락 한 후 4 명 사망, ANI 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543784)
 #### [미국 북서부 강 유량은 95 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543783)
@@ -110,21 +128,3 @@
 #### [IAEA, 이란의 부셰르 원자력 발전소 근처에서 발사체가 충돌해 1 명이 사망했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543746)
 #### [이라크, 공습으로 이라크인 사망 후 이란과 샬람체 교차로 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543744)
 #### [러시아, 4월 8일부터 14일까지 곡물 수출세 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543745)
-#### [A2A, 회장에 로베르토 타스카, 부회장에 플라비오 파소티, CEO에 레나토 마존치니 후보 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543743)
-#### [대만, '주요'국가의 LNG 공급에 대한 보장이 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543741)
-#### [인도, 7년 만에 처음으로 이란산 원유를 결제 문제 없이 구매하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543742)
-#### [우크라이나 최전방 도시에서 러시아 시장 공격으로 5명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543739)
-#### [ISS, 일부 기후 보고를 폐기하려는 BP 이사회의 움직임에 반대 투표 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543740)
-#### [타타 스틸, 초과 석탄 채굴 혐의에 대해 약 175 억 5 천만 루피의 수요 통지를 받았다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543738)
-#### [인도, 원유 공급 확보, 이란 수입에 대한 지불 문제 없다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543735)
-#### [텔레그램의 듀로프, 러시아가 VPN을 차단해 결제 시스템 문제를 일으켰다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543736)
-#### [의결권 자문사 ISS, 일부 기후보고 폐기 시도에 대해 BP 이사회에 반대 투표 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543737)
-#### [독점-유럽 연합 재무 장관 5 명, 에너지 기업의 횡재 이익에 대한 세금 부과 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543734)
-#### [HSBC, 전 스탠다드 차타드 재무 책임자 리처드 메딩스에게 이사회 합류에 대해 접근 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543733)
-#### [영국, 유대인 커뮤니티 구급차 공격으로 남성 3인 방화 혐의 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543732)
-#### [세네갈, 이란 전쟁 오일 쇼크로 공공 재정에 타격을 주면서 정부 여행 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543731)
-#### [독점-유럽연합 재무장관 5명, 에너지 기업에 횡재 이익세 부과 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543730)
-#### [독점-유럽연합 재무장관 5명, 에너지 기업에 횡재 이익세 부과 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543729)
-#### [경찰, 네덜란드 이스라엘 센터에서 폭발 사고 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543727)
-#### [IMF는이란 전쟁이 새로운 위험을 초래하더라도 BOJ에 금리 인상을 계속할 것을 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543728)
-#### [도요타 자동차 엔지니어링 및 제조, 미국 차량 73,528 대 리콜 - NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2543726)
