@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260406_1900 </title></head>
-<center>Vers : 20260406_1900 </center>
-<center>Vers : 20260407_0400 </center>
+<head><meta charset="utf-8"><title>Vers : 20260406_2038 </title></head>
+<center>Vers : 20260406_2038 </center>
+<center>Vers : 20260407_0538 </center>
 <br><br><br>
 #### [삼천당제약, 외부인이 특허·임상 해명…누구냐 묻자 자리 떠나](https://m.stock.naver.com/news/ranknews/view/011/0004607731)
 #### [삼천당제약, 블록딜 철회에도 애프터마켓서 10%대 급락](https://m.stock.naver.com/news/ranknews/view/005/0001841584)
