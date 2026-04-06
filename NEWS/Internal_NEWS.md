@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260406_2237 </title></head>
-<center>Vers : 20260406_2237 </center>
-<center>Vers : 20260407_0737 </center>
+<head><meta charset="utf-8"><title>Vers : 20260406_2319 </title></head>
+<center>Vers : 20260406_2319 </center>
+<center>Vers : 20260407_0819 </center>
 <br><br><br>
+#### [미국의 적시 비로 밀 선물은 하락, 옥수수, 대두는 강보합 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544813)
+#### [사우디 아라비아, 7 개의 미사일 요격, 파편이 에너지 시설 근처에 떨어졌다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544814)
+#### [삼성, AI 칩 수요 증가로 1분기 이익 8배 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544815)
+#### [삼성, AI 칩 수요로 가격 상승으로 1분기 이익 8배 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544812)
+#### [이란 긴장 고조, 호르몬 공급 중단으로 $1 또는 0.9% 상승한 $113.41/BBL로 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544811)
+#### [브로드컴, 구글의 맞춤형 AI 칩 개발을 위한 장기 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544810)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [투자자들이 미국-이란 협상, 위협을 분석하면서 월스트리트는 상승세로 마감합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544807)
+#### [이란 위기로 유가 상승으로 필립스 66, 9억 달러 손실 직면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544806)
+#### [업데이트 3- 아르테미스 2호 달 탐사, 지구와의 거리 기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544809)
+#### [미국, 화요일 밤까지 합의 안되면 대규모 파업으로이란 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544808)
+#### [러시아의 헤르손 공격 후 어머니의 시신 앞에서 울부짖는 남자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544804)
+#### [트럼프의 해운 면제로 미국 내 석유 흐름이 증가하지 않고 연료 수출이 급증합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544802)
+#### [오션퍼스트 파이낸셜 Corp. 와 플러싱 파이낸셜 코퍼레이션, 보류 중인 합병 거래에 대한 필수 주주 승인 접수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544805)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FFIC.O/total>
+#### [이글 포인트 크레딧 컴퍼니 Inc. 2031년 만기 6.75% 채권과 2028년 만기 6.6875% 채권의 전액 상환 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544803)
 #### [이란 전쟁의 혼란이 계속되고 있음에도 불구하고 BUZZ-AUD/USD 기업들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544801)
 #### [러시아 석유화학 공장 사고로 최종 사망자 12명 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544800)
 #### [골드만삭스, 2026년 구리 가격 전망 하향 조정, 시장 잉여 규모 확대 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544797)
@@ -57,22 +73,3 @@
 #### [노이즈에서 신호 찾기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544758)
 #### [아마존, 소포 물량의 80%를 유지하는 USPS와 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544770)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [펀드, CBOT 옥수수 및 콩기름 선물 순매수, 트레이더들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544757)
-#### [미국, 메디케어 어드밴티지 보험료 2.48% 인상 확정으로 건강 보험사 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544754)
-#### [미국산 겨울 밀 35% 양호-우수, 애널리스트 예상치 하회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544749)
-#### [뉴로네틱스, 직원의 최대 5%에 영향을 미치는 인력 감축 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544746)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/STIM.O/total>
-#### [브리프, 존 파이를 사장으로, 에릭 앤더슨을 CFO로 승진 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544753)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EXPO.O/total>
-#### [트럼프 행정부는 트랜스젠더 학생을 지원하는 일부 민권 합의를 종료합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544748)
-#### [머피 미국, 도널드 R. 스미스 주니어를 CFO 겸 재무 책임자로 임명 2026년 4월 3일부로 최고재무책임자 겸 재무책임자로 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544745)
-#### [찰스 앤 콜버드, 2026년 3월 24일 최대 100만 달러 규모의 딥 시설에 대한 파산 법원 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544752)
-#### [뉴로네틱스, 최고 재무 책임자 전환 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544747)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/STIM.O/total>
-#### [FMC, 유럽 제초제 시장의 중요한 격차를 해소하는 Isoflex® 액티브의 유럽 연합 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544744)
-#### [오파 그룹, 전략적 IP 소유권 재조정을 통해 대차 대조표 및 장기 수익 프로필 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544751)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OFAL.O/total>
-#### [파나마, 퍼스트 퀀텀이 폐쇄된 구리 광산에서 광석을 제거할 수 있도록 승인함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544750)
-#### [Vfn 홀딩스, 기존 신용 시설 4억2500만 달러로 성공적으로 확장 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544743)
-#### [Atg 캐피탈 오퍼튜니티 펀드, 공동 대표인 라이언 레인, 존 김 및 기타 이사들에 대한 선언적 및 금지명령 구제를 요청하는 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2544730)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EMPD.O/total>
