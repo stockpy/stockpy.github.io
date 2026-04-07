@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260407_2238 </title></head>
-<center>Vers : 20260407_2238 </center>
-<center>Vers : 20260408_0738 </center>
+<head><meta charset="utf-8"><title>Vers : 20260407_2322 </title></head>
+<center>Vers : 20260407_2322 </center>
+<center>Vers : 20260408_0822 </center>
 <br><br><br>
+#### [중국의 시그너지 테크놀로지, 홍콩 IPO에서 5억 6,200만 달러 조달 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546207)
+#### [트럼프가 이란에 대한 공격을 2주간 중단하면서 금값 상승폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546199)
+#### [추방 시도가 계속되면서 미군 병사의 아내가 ICE 구금에서 풀려났습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546205)
+#### [BUZZ-재생-달러 포지셔닝, AUD/USD에 도전, USD/JPY 박스권 돌파 대기 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546206)
+#### [조지아 결선투표에서 트럼프의 영향력을 시험하는 MAGA의 거점](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546204)
+#### [중국의 한 공장이 트럼프, 관세, 혼란과 함께 살아가는 법을 배운 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546198)
+#### [트럼프, 2주 이란 휴전 발표로 BUZZ-AUD/USD 급등세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546201)
+#### [트럼프, 2주 휴전 합의로 유가 급락, 증시 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546197)
+#### [갤러거, 사우스 플로리다의 어슈어드파트너즈 합의에 대한 성명서 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546203)
+#### [미국 증시는 트럼프의 이란 시한을 앞두고 진전 조짐에 혼조세로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546200)
+#### [트럼프, '이란 폭격 및 공격'을 2주간 중단하기로 합의했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546195)
+#### [트럼프가 2주 휴전 발표 후 미국 원유 선물은 $12.04에서 $100.90/bbl로 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546202)
+#### [중국 시그너지 테크놀로지, 홍콩 IPO에서 5억 6,200만 달러 조달 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546196)
+#### [델타항공, 사우스웨스트 항공, 제트 연료 가격 급등으로 위탁 수하물 수수료 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546194)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
+#### [퍼싱 스퀘어 캐피털 매니지먼트로부터 구속력 없는 제안을 받았다고 밝힌 BRIEF-UMG](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546192)
+#### [트럼프는 2 주 동안 '이란 폭격과 공격'을 중단하기로 합의했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546191)
+#### [옥수수, 대두 바지선 입찰이 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546193)
 #### [UN 특사, 평화 노력의 일환으로 이란 방문 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546190)
 #### [스콜피오 탱커스 Inc. 전환 선순위 채권 및 동시 주식 환매 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546187)
 #### [슈퍼마이크로, 독립 이사회 이사들의 조사에 대한 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546181)
@@ -52,23 +70,3 @@
 #### [BUZZ-COMMENT-RBNZ는 보류, 모든 도로는 NZD로 내리막길을 가리킵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546152)
 #### [미국과 캐나다 우주비행사, 아르테미스 II 달 비행으로 전 세계의 이목을 사로잡다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546150)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546145)
-#### [갈수록 경쟁이 치열해지는 MGA 시장에서 품질을 향한 비행, 헐리한 로키는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546124)
-#### [카타르, 미사일 요격 후 파편이 집에 떨어지면서 4 명이 부상 당했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546144)
-#### [브라질 아제베도 & 트라바소스, 사베스프와 5억 9,600만 달러 규모의 실제 서비스 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546131)
-#### [카니예 웨스트 영국 입국 '절대 일어나지 않을 일'이라고 런던은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546148)
-#### [슈퍼마이크로, 공동 창업자 등에 대한 형사 소송 이후 독립적인 조사 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546143)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMCI.O/total>
-#### [카니예 웨스트 영국 입국 '절대 일어나지 않을 일'이라고 런던은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546130)
-#### [유엔 특사, 평화 노력의 일환으로 이란 방문 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546135)
-#### [펌 캐피탈 아파트 부동산 투자 신탁 이사회, 모든 현재 투자 자산 매각 및 종료, 조합원에게 현금 환원 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546142)
-#### [트리덴트, ADS 비율 변경 시행 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546129)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TDTH.O/total>
-#### [버밀리언 에너지, 3월 독일 내 일부 생산 자산을 베브 에르드가스 운트 에르돌 및 모빌 에르드가스 에르돌로부터 인수하는 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546134)
-#### [아레스 코어 인프라 펀드, 2026년 4월 보통주 3억520만 달러에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546138)
-#### [제너럴 다이나믹스 랜드 시스템즈, 미 해병대로부터 4억 5천만 달러 계약 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546128)
-#### [글래드스톤 랜드 코퍼레이션, 최대 10억 달러 규모의 증권 투자 설명서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546133)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LAND.O/total>
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546137)
-#### [탐보란 리소스 코퍼레이션, 보통주 300만 주 이상에 대한 별도 인수 공모 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546127)
-#### [네이버스 인더스트리즈, 2026년 4월 7일에 신용 계약에 증액 결합 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546132)
-#### [아메리칸 헬스케어 리츠, 2026년 4월 1일 2024년 신용 계약에 대한 두 번째 수정안 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2546136)
