@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260407_1803 </title></head>
-<center>Vers : 20260407_1803 </center>
-<center>Vers : 20260408_0303 </center>
+<head><meta charset="utf-8"><title>Vers : 20260407_1919 </title></head>
+<center>Vers : 20260407_1919 </center>
+<center>Vers : 20260408_0419 </center>
 <br><br><br>
 #### ["매도 사이드카 울리면 줍줍"…청개구리 개미들](https://m.stock.naver.com/news/ranknews/view/018/0006252235)
 #### [이익은 엔비디아급인데 몸값은 5분의 1…증권사 "더 간다"](https://m.stock.naver.com/news/ranknews/view/215/0001248225)
