@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260408_2239 </title></head>
-<center>Vers : 20260408_2239 </center>
-<center>Vers : 20260409_0739 </center>
+<head><meta charset="utf-8"><title>Vers : 20260408_2324 </title></head>
+<center>Vers : 20260408_2324 </center>
+<center>Vers : 20260409_0824 </center>
 <br><br><br>
+#### [페레티 이사회의 3.90유로 부분 공개매수에 대한 KKCG 마리타임의 반대 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547830)
+#### [프랑스 마크롱, 미국, 이란에 레바논 휴전 존중 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547832)
+#### [브라질, 6월 말까지 휘발유 내 에탄올 혼합 비율을 32%까지 올릴 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547831)
+#### [NATO 책임자, 일부 유럽 동맹국들이 이란 전쟁에서 시험을 받고 실패했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547833)
+#### [나토 수장은 트럼프에게 대부분의 유럽 국가들이 도움이되었다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547825)
+#### [미국 연방 항공청, 마약 및 알코올 위반 혐의로 아메리칸, 사우스웨스트 항공에 벌금 부과 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547828)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
+#### [보충 공지에 포함된 알투스에 대한 보고서에도 동일한 우려를 표명하는 KKCG 마린의 간략한 설명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547826)
+#### [미국 원유 선물은 6 년 만에 가장 큰 하락으로 전 세션을 마감 한 후 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547829)
+#### [대두 바지선 입찰이 강세를 보이고, 바람으로 인해 일부 바지선 강 교통에 차질이 빚어지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547827)
+#### [웰스파고 내부 고발자 상, 월스트리트 감시 단체에 의해 삭감 - Financial Times](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547823)
+#### [오스트리아의 라이파이젠, 비엔나 상장사인 Addiko 인수 입찰 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547821)
+#### [중국의 기록적인 구매로 브라질의 월간 석유 수출이 두 번째로 높아졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547824)
+#### [WTI/브렌트 스프레드 거래 축소, 공급 우려 완화로 미국 서부텍사스산원유 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547822)
 #### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547815)
 #### [세계은행, 2026년 라틴아메리카 성장률 전망치 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547808)
 #### [미국, 경제 지원을 위해 베네수엘라 중앙은행 제재 해제 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547809)
@@ -54,24 +68,3 @@
 #### [캔바, 심테리아와 오르토 인수로 인공지능 및 마케팅 파워 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547758)
 #### [에어로멕시코 2026년 3월 트래픽 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547780)
 #### [앱타 디지털 헬스, 인퓨즈®(Enfuse®)의 동반자 디지털 솔루션 파트너로 선정됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547763)
-#### [사람과 L3해리스, 인공지능 시대를 위해 설계된 전례 없는 우주 기반 측정 시스템 공동 개발 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547778)
-#### [Csc 콜렉티브 홀딩스, 450만 클래스 A 보통주 IPO 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547779)
-#### ['로 하향 조정하다 'B' 전망 안정적에서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547762)
-#### [Google 블로그 - 이번 주에 쌍둥이자리 노트북 출시, Google Ai Ultra, Pro 및 웹 구독자부터 시작됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547777)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [1 수용체 작용제에 의한 구토 예방을 위한 네레우스™의 임상시험인 thetis 연구 개시 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547772)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNDA.O/total>
-#### [애어 테스트 시스템즈, 윌리엄 블레어 앤 컴퍼니 및 크레이그-할럼 캐피털 그룹과 주식 분배 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547761)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AEHR.O/total>
-#### [비트코인 디포, 2026년 3월 23일 사이버 보안 사고 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547776)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BTM.O/total>
-#### [캐나다의 피란 테크놀로지 1분기 매출, 예상치를 상회하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547771)
-#### [라이프프라스 주식회사 2025 회계연도 재무 결과 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547768)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LFS.O/total>
-#### [델타항공, 2026년 남은 기간 동안 연료 소비는 2025년 대비 수용 능력 변화에 맞춰 유지될 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547775)
-#### [피오 파마슈티컬스, 2026년 4월 8일 H.C. 웨인라이트와 주식공개상장 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547770)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PHIO.O/total>
-#### [코스트코 도매 법인, 3월 판매 실적 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547767)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COST.O/total>
-#### [코제트 파마슈티컬스, 심파잔® 및 어서티오의 추가 제품 인수를 통해 브랜드 포트폴리오 확장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2547774)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ASRT.O/total>
