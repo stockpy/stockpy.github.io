@@ -1,8 +1,35 @@
-<head><meta charset="utf-8"><title>Vers : 20260409_2240 </title></head>
-<center>Vers : 20260409_2240 </center>
-<center>Vers : 20260410_0740 </center>
+<head><meta charset="utf-8"><title>Vers : 20260409_2325 </title></head>
+<center>Vers : 20260409_2325 </center>
+<center>Vers : 20260410_0825 </center>
 <br><br><br>
+#### [BUZZ-Replay-EUR / USD의 희망 전략, 건설적인 케이블, 지속되는 USD / JPY 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549623)
+#### [페루 중앙은행, 기준금리 4.25%로 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549625)
+#### [3월 콜롬비아 12개월 인플레이션 5.56% - 로이터 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549621)
+#### [상원 위원회, 연준 지명자의 청문회 연기, 펀치볼 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549622)
+#### [독점-인류학은 자체 AI 칩을 만드는 데 무게를 둔다, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549624)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [덱스컴에 대한 로펌의 경고가 철회되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549620)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DXCM.O/total>
+#### [NATO의 루테, 트럼프가 동맹국들에게 며칠 내 호르무즈 공약을 원한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549617)
+#### [에미상 수상 코미디 '핵스'가 다섯 번째이자 마지막 시즌으로 돌아옵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549618)
+#### [미국, 중국 통신사에 대한 새로운 단속 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549619)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000063.SZ/total>
+#### [쿠웨이트, 중요 시설에 대한 드론 공격 규탄, 이란은 관련성 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549616)
+#### [브라질 다이렉셔널 1분기 순매출, 19% 증가한 16억헤알 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549615)
+#### [엘론 머스크의 xAI, 콜로라도의 새로운 AI 법에 대해 콜로라도 주를 고소하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549611)
+#### [코게코 커뮤니케이션즈, 2월 28일로 마감된 분기 실적 보고 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549614)
+#### [브라질리아에서 거물급 인사에게 돈을 건넨 은행가가 선거 긴장을 불러일으키다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549606)
+#### [트럼프, 이란이 호르무즈 해협을 통해 석유를 허용하는 '매우 열악한 일'을하고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549610)
+#### [Fitch, 자산 건전성 약화로 FS KKR Capital 등급을 정크 영역으로 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549613)
+#### [메타, 최고의 엔지니어를 새로운 AI 툴링 팀으로 이동시키다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549605)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [석유 사업 기회를 평가하기 위해 베네수엘라를 방문한 코노코필립스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549609)
+#### [에콰도르, 콜롬비아에 대한 관세 50%에서 100%로 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549612)
+#### [중동 평화 회담으로 투자 심리가 개선되면서 월스트리트 상승 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549604)
+#### [밀, 옥수수는 USDA 데이터 약세로 하락, 대두는 상승세 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549608)
 #### [백악관, 직원들에게이란 전쟁 중 시장 베팅을하지 말라고 경고, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549565)
+#### [크루드-서부 캐나다 셀렉트 할인 폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549603)
+#### [럼블할 준비가 되셨나요? 헌터 바이든, 트럼프의 아들들에게 케이지 매치에 도전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549607)
 #### [킬로이 리얼티, 15번째 연례 지속가능성 보고서 발간](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549564)
 #### [피치, 블루 아울 크레딧 인컴 코퍼레이션의 신용등급을 '. 의 신용등급을 'Bbb-'로 전망 안정적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549591)
 #### [로완 디지털 인프라 블랙스톤, 로완 디지털 인프라의 소수 지분 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549570)
@@ -52,33 +79,3 @@
 #### [웰지스틱스 헬스, 2026년 4월 3일 실버백 캐피탈과 합의 계약 종료 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549559)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WGRX.O/total>
 #### [카맥스, 윌리엄 콥과 짐 케슬러의 이사회 합류 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549586)
-#### [피치, 블루 아울 캐피탈 코퍼레이션 II의 신용등급을 'Bbb-'로 부여 전망 안정적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549579)
-#### [솔라나 컴퍼니(나스닥 상장사), 다음 단계 성장을 이끌 최고운영책임자 겸 부 CFO에 마델린 가니 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549553)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HSDT.O/total>
-#### [아레스 매니지먼트사에 발신된 자문-트레이 경보가 철회되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549585)
-#### [라탐항공 그룹 SA, 3월 760만 명의 승객 수송](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549578)
-#### [옴다 아스 - 제안된 현금 배당 관련 주요 정보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549552)
-#### [Clarke Inc. 일반 코스 발행자 입찰의 성공적인 완료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549572)
-#### [캠든 부동산 신탁, 2026년 4월 7일 집단 소송 합의를 위한 구속력 있는 약정서 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549577)
-#### [M-Tron 산업 - 2026 년 4 월 20 일까지 권리 공모 만료 연장 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549551)
-#### [트리넷, 코쿤 인수로 중소기업용 휴가 관리 솔루션 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549571)
-#### [피치, 블루 아울 캐피탈 코퍼레이션의 신용등급 전망 'Bbb'를 '안정적'으로 부여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549593)
-#### [사티쉬쿠마르 쿠마라싱암, 프랫 앤 휘트니 캐나다 사장 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549550)
-#### [피치, FS Kkr Capital Corp의 신용등급을 'BB+'로 하향 조정하고 전망 부정적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549540)
-#### [메인 스트리트, 1억 5천만 달러 규모의 투자 등급 채권 발행 완료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549592)
-#### [프로그레시브 플래닛, 주주 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549598)
-#### [동맹 파일 관리 정보 회람 및 CFO 전환 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549539)
-#### [An2 Therapeutics Inc - Jefferies와 최대 8 천만 달러의 보통주에 대한 공개 시장 판매 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549549)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ANTX.O/total>
-#### [베리카 파마슈티컬스, 다가오는 2026년 미국연구피부과학회 연례회의에서 기저세포암종 치료에 대한 VP-315의 잠재적 앱스코팔 효과 강조하는 최신 초록 채택 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549526)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VRCA.O/total>
-#### [사나두, 4분기 및 2025년 전체 실적 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549535)
-#### [바이노르딕 인수, 기업결합 완료 기한 연장 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549597)
-#### [엑소자임스 - 보통주 공모 발표 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549548)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EXOZ.O/total>
-#### [루멕사 이미징 홀딩스, 2026년 4월 8일 2026년 연간 가이던스 재확인 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549534)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LMRI.O/total>
-#### [Stran & Company Inc - 보통주, 우선주, 부채, 워런트 및 유닛으로 최대 $ 150 백만 제공 가능 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549521)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SWAG.O/total>
-#### [윈트러스트 파이낸셜 코퍼레이션, 이사회 멤버 H. 패트릭 해켓 주니어와 윌리엄 J. 도일의 은퇴 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2549525)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WTFC.O/total>
