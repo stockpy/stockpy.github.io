@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260410_2238 </title></head>
-<center>Vers : 20260410_2238 </center>
-<center>Vers : 20260411_0738 </center>
+<head><meta charset="utf-8"><title>Vers : 20260410_2319 </title></head>
+<center>Vers : 20260410_2319 </center>
+<center>Vers : 20260411_0819 </center>
 <br><br><br>
+#### [연준, 미국 은행의 민간 신용 회사에 대한 노출에 대한 세부 정보를 찾고 있다고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551105)
+#### [넥스스타, 지역 네트워크 뉴스 세그먼트를 뉴스네이션으로 대체 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551106)
+#### [트럼프 세금 감면이 주는 것은 주유소가 빼앗아갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551104)
+#### [트럼프의 평화위원회가 현금 위기에 직면하여 가자 지구 계획을 지연시키고 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551100)
+#### [블룸버그에 따르면 PJM은 AI로 인한 수요 급증으로 15기가와트의 새로운 전력 공급을 모색하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551102)
+#### [마이클 잭슨 전기 영화 시사회를 위해 베를린에서 팬들과 함께한 잭슨 가족](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551103)
+#### [투자자들이 중동 협상을 분석하면서 월가는 혼조세로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551099)
+#### [터키에 대한 피치의 전망 하향 조정으로 경제 부담이 커지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551101)
+#### [미국 민주당 의원 Raskin, 대통령 해임 감독위원회 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551093)
+#### [IMF, 세계은행, 2029년 아부다비에서 연례 회의 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551095)
+#### [트럼프, 미국이 호르무즈 해협을 '곧 개방할 것'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551097)
+#### [트럼프, 미국은 호르무즈 해협을 '조만간 개방할 것'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551092)
+#### [로이드는 영국의 자동차 금융 구제 제도에 대해 법적 조치를 취하지 않을 것이라고 FT는 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551094)
+#### [에릭 스위더, 트럼프 미디어 이사회에서 사임하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551096)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DJT.O/total>
+#### [트럼프, 전 오하이오 법무장관 설리번 앤 크롬웰 변호사를 미국 항소법원 판사로 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551098)
 #### [트럼프의 평화위원회는 자금 제약이 없다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551088)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551089)
 #### [FDA가 흑색종 치료제 승인을 거부한 후 BUZZ-리플리뮨 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551091)
@@ -56,23 +72,3 @@
 #### [앤디 코헨, 더글라스 에멧의 이사로 선임됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551047)
 #### [산탄데르 브라질, 주주들에게 20 억 헤알의 자본에 대한이자 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551050)
 #### [킨로스, 주주들에게 보통주에 대한 Trc 캐피탈 인베스트먼트의 시장가 이하 '미니 공개매수' 제안 거부 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551048)
-#### [트럼프 미디어 및 기술 - 에릭 스위더, 2026년 4월 6일부로 트럼프 미디어 및 기술 그룹 이사회에서 사임 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551046)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DJT.O/total>
-#### [연방준비은행 이벤트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551041)
-#### [펠토스 테라퓨틱스, CFO 전환 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551043)
-#### [웨스턴 메탈리카, 이사 선임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551042)
-#### [이란 대표단이 분쟁 회담에 참여하기 위해 이슬라마바드에 도착했다고 파키스탄은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551045)
-#### [US 주식: 희미한 희망의 빛](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551044)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AVGO.O/total>
-#### [C2 Capital Group Inc - IPO에서 3,750,000 주 제공 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551031)
-#### [Usa Compression Partners Lp - 유한 파트너 지분을 매각하여 최대 1880 만 개의 보통주를 제공 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551030)
-#### [이스라엘과 레바논이 회담을 개최할 것으로 예상됩니다. 어떤 소식이 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551034)
-#### [리튬 이온 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551040)
-#### [롱제버론, 자금 조달에 따른 임원 보수 삭감 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551029)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LGVN.O/total>
-#### [뉴에라 에너지 & 디지털, 주주 매각을 통해 약 3백만 주의 보통주 제공 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551033)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NUAI.O/total>
-#### [정유사 거래로 미국 중서부 그룹 3 현물 시장에서 미국 현금 제품-디젤이 급등합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551039)
-#### [다우, S&P 500 지수, 중동 사태로 투자자들이 긴장하며 하락 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551036)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.SOX>
-#### [베센트, 파월, 은행 CEO에게 인류 위험에 대해 경고, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551032)
