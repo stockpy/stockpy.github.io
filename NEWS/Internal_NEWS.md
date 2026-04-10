@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20260410_1854 </title></head>
-<center>Vers : 20260410_1854 </center>
-<center>Vers : 20260411_0354 </center>
+<head><meta charset="utf-8"><title>Vers : 20260410_1942 </title></head>
+<center>Vers : 20260410_1942 </center>
+<center>Vers : 20260411_0442 </center>
 <br><br><br>
+#### [2월 칠레 코델코의 구리 생산량이 10% 가까이 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550916)
+#### [콜롬비아 정부, 회기 종료가 임박함에 따라 44억 달러 규모의 세제 개혁을 의회에 제안합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550912)
+#### [미국, 이란 전쟁 이후 두 번째로 850 만 배럴의 SPR 석유 대출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550913)
+#### [수자라이프, 미국 IPO 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550915)
+#### [버크셔 해서웨이, 최대 272.3억 위안 규모의 6부 채권 발행 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550911)
+#### [독점 컨덕트 리 부사장 겸 COO 퀸란, 은퇴 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550914)
+#### [미국 곡물 바지선 운임 값은? 4월 10일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550908)
+#### [미국 하원 감독위원회 위원장, 엡스타인 피해자들과 '우리는 청문회를 가질 것'이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550910)
+#### [중동 전쟁이 성장을 줄이고 계단식 영향을 미칠 것이라고 세계 은행 총재는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550907)
+#### [백악관, 이란 휴전에 대한 텔레비전 연설에 반대, 미국 관리들은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550909)
+#### [에반스와 솔베르그가 추락한 크로아티아에서 랠리링-파자리가 선두를 달립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550905)
+#### [미국 천연가스, 온화한 날씨와 충분한 비축량으로 17개월 만에 최저치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550904)
+#### [익스클루시브 아이스, 미국의 '출생 관광 계획'을 밝히기 위한 새로운 노력 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550903)
+#### [콜롬비아 주지사, 회기 종료가 가까워지면서 의회에 44 억 달러의 세제 개혁을 제안하지 않을 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550906)
+#### [Siav SpA - 아타코드 지분 9.1%에 100만 유로 지불, 사전 평가액 1,000만 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550902)
+#### [수자라이프, 미국 기업공개 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550901)
+#### [글래스 루이스, 투자자들에게 워너-파라마운트 합병 지지 권고 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550900)
 #### [월가 혼조세, 투자자들이 중동 협상을 지켜보며 주간 상승세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550898)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRWV.O/total>
 #### [골드 댄서, 아인트리 우승으로 치명적인 부상 당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550896)
@@ -51,23 +68,3 @@
 #### [영국, 다음 주 호르무즈 해협에서 더 많은 회담 소집, 관계자는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550859)
 #### [폴리펩타이드, EQT, KKR의 인수 관심 끌다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550854)
 #### [베이스는 강한 수요, 타이트한 현물 공급으로 꾸준한 상승세를 보이고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550858)
-#### [뉴욕 연준, 리버스 리포 시설 데이터 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550856)
-#### [다이아미드 메디컬, 무용성 확인 평가 후 전략적 검토 착수 후 Diagnode-3 개발 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550857)
-#### [헝가리 유권자들이 오르반의 16년 통치를 끝낼 수 있었던 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550855)
-#### [영국 관광객을 태운 버스가 스페인 라 고메라에서 추락해 1명 사망, 27명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550847)
-#### [미국 시추 업체들이 4 주 만에 세 번째로 석유 및 가스 굴착 장치를 절단했다고 Baker Hughes는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550852)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
-#### [에딘버러 월드와이드, 투자자들이 공개매수 제안을 거부하자 사바 캐피탈 제안으로 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550849)
-#### [이탈리아 유니크레딧, 러시아 사업 청산 계획 없다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550846)
-#### [브라질 펄프 대기업 수자노, 이란 전쟁 장기화시 화장지, 휴지 글로벌 가격 상승 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550851)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KMB.O/total>
-#### [멕시코 기업 실적 주간을 앞두고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550848)
-#### [호르무즈 해협이 여전히 대부분 폐쇄되면서 북해산 원유-WTI 미들랜드가 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550853)
-#### [독점-컴볼트, 인수 관심 후 매각 검토, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550850)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CVLT.O/total>
-#### [목적지 이탈리아 1분기 매출 2,190만 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550845)
-#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550843)
-#### [프랑스, 에너지원으로 전기 사용을 늘리기 위해 국가 지원 2배 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550844)
-#### [발레로, 텍사스 정유공장 폭발 후 멕시코산 원유 공급 중단 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550842)
-#### [블랙스톤, 데이터 센터 인수 회사로 20억 달러 IPO 추진 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550841)
-#### [브라질의 발레, 광미에 초점을 맞춘 새로운 철광석 처리 공장 건설](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550838)
