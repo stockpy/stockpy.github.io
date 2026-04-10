@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260410_2037 </title></head>
-<center>Vers : 20260410_2037 </center>
-<center>Vers : 20260411_0537 </center>
+<head><meta charset="utf-8"><title>Vers : 20260410_2119 </title></head>
+<center>Vers : 20260410_2119 </center>
+<center>Vers : 20260411_0619 </center>
 <br><br><br>
 #### [국내에서 가장 비싼 주식인데...“410만 원 간다” 목표가 또 올랐다](https://m.stock.naver.com/news/ranknews/view/011/0004609513)
 #### [“전쟁 끝나기 전에 미리미리 사 둬라”…증권가가 금 대신 주목한 ‘이것’ 뭐길래](https://m.stock.naver.com/news/ranknews/view/011/0004609346)
