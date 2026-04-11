@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260411_1034 </title></head>
-<center>Vers : 20260411_1034 </center>
-<center>Vers : 20260411_1934 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_1105 </title></head>
+<center>Vers : 20260411_1105 </center>
+<center>Vers : 20260411_2005 </center>
 <br><br><br>
+#### [러시아, 우크라이나, 포로 교환 실시, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551177)
 #### [미국은이란 자산 동결 해제에 동의하지 않았다고 백악관 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551176)
 #### [우크라이나는 호르무즈 해협에서 유용한 역할을 할 수 있다고 영국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551170)
 #### [미국과 이란이 파키스탄에서 평화 회담을 위해 의구심을 불러일으키고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551167)
@@ -69,11 +70,11 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NXST.O/total>
 #### [CME 생우 계약 최고치 경신, 돼지 선물은 하락세 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551116)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551120)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551119)
-<head><meta charset="utf-8"><title>Vers : 20260411_1034 </title></head>
-<center>Vers : 20260411_1034 </center>
-<center>Vers : 20260411_1934 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_1105 </title></head>
+<center>Vers : 20260411_1105 </center>
+<center>Vers : 20260411_2005 </center>
 <br><br><br>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551119)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551118)
 #### [6월 30일까지의 신흥 시장 경제 이벤트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551117)
 #### [6월 19일까지의 정부 부채 경매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551114)
@@ -142,11 +143,11 @@
 #### [헬스케어 트라이앵글, 4월 7일 시큐어클라우드 및 블록엣지와 플랫폼 개발 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551060)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HCTI.O/total>
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551065)
-#### [퍼시픽코프 - 2026년 4월 9일, 재판소로부터 2단계 손해배상 재판 중지 명령 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551054)
-<head><meta charset="utf-8"><title>Vers : 20260411_1034 </title></head>
-<center>Vers : 20260411_1034 </center>
-<center>Vers : 20260411_1934 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_1105 </title></head>
+<center>Vers : 20260411_1105 </center>
+<center>Vers : 20260411_2005 </center>
 <br><br><br>
+#### [퍼시픽코프 - 2026년 4월 9일, 재판소로부터 2단계 손해배상 재판 중지 명령 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551054)
 #### [피치, 터키의 신용등급 전망을 'BB-'에서 '안정적'으로 상향 조정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551057)
 #### [테슬라의 자율 주행 소프트웨어, 네덜란드가 EU의 야망에 힘을 실어주며 앞서 나갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551053)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
@@ -222,11 +223,11 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FAST.O/total>
 #### [스콜피오 탱커스, 2031년 만기 전환사채 및 동시 주식 매입 마감 발표 2031년 만기 전환사채 및 동시 주식 재매입 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551002)
 #### [백지 수표 회사 알펙스 애퀴지션, 1,000만 유닛의 IPO 개시 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550988)
-#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550997)
-<head><meta charset="utf-8"><title>Vers : 20260411_1034 </title></head>
-<center>Vers : 20260411_1034 </center>
-<center>Vers : 20260411_1934 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_1105 </title></head>
+<center>Vers : 20260411_1105 </center>
+<center>Vers : 20260411_2005 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550997)
 #### [특이한 기계 - 올랜도 시설에서 일일 모터 생산량을 두 배 이상 늘릴 것으로 예상 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551001)
 #### [보스턴 맥주 회사 - 배심원 평결, 보스턴 맥주에 1억 7550만 달러의 손해 배상금 지급 명령 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550996)
 #### [브라질 대출 기관 BRB, 마스터 자산에 대해 30 억 달러 제안을 받았다고 총재는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550987)
@@ -297,11 +298,11 @@
 #### [의결권 자문사 글래스 루이스, 워너 브라더스 주주들에게 파라마운트 인수에 투표할 것을 권고하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550936)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
 #### [ICE 카놀라 선물은 베고일 약세로 하락하고 일주일 동안 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550934)
-#### [미국산 오일 및 지방 - 4월 10일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550938)
-<head><meta charset="utf-8"><title>Vers : 20260411_1034 </title></head>
-<center>Vers : 20260411_1034 </center>
-<center>Vers : 20260411_1934 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_1105 </title></head>
+<center>Vers : 20260411_1105 </center>
+<center>Vers : 20260411_2005 </center>
 <br><br><br>
+#### [미국산 오일 및 지방 - 4월 10일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550938)
 #### [로이드는 영국의 90 억 Stg 자동차 금융 구제 계획에 대해 법적 조치를 취하지 않을 것입니다 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550935)
 #### [달 항해 후 불타는 재진입을 앞둔 아르테미스 2호 승무원들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550933)
 #### [캐나다 은행, 국가 은행, 금융 회사들이 금요일에 만나 인류의 최신 AI 모델로 인한 사이버 보안 위험에 대해 논의했습니다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550929)
@@ -366,11 +367,11 @@
 #### [미국 기업실적 성장 전망은 견조하나 주식 포지셔닝은 붕괴될 전망 - 도이치뱅크](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550883)
 #### [기록적인 유가 급등으로 3월 미국 소비자 물가 상승률 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550879)
 #### [연준은 현재의 인플레이션 상승이 2022 년 급등과 다른 이유를 설명해야합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550878)
-#### [소 83,000마리, 돼지 484,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550877)
-<head><meta charset="utf-8"><title>Vers : 20260411_1034 </title></head>
-<center>Vers : 20260411_1034 </center>
-<center>Vers : 20260411_1934 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_1105 </title></head>
+<center>Vers : 20260411_1105 </center>
+<center>Vers : 20260411_2005 </center>
 <br><br><br>
+#### [소 83,000마리, 돼지 484,000마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550877)
 #### [미국 3 월 예산 적자가 1,640 억 달러로 소폭 증가, 전쟁 지출 지연](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550876)
 #### [BUZZ-EUR/USD- 강세로 한 주 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550874)
 #### [파트너스 그룹, 사모 신용 상환으로 유동성 테스트에 게이팅 지원 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550873)
@@ -438,11 +439,11 @@
 #### [디젤 배송, 만기 시 급감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550823)
 #### [FERC, 텍사스 현장에서 더 많은 근로자와 더 긴 근무 시간에 대한 NextDecade의 요청 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550811)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NEXT.O/total>
-#### [미국과 이란의 휴전 회담에 초점을 맞춘 EU 밀은 약세를 유지합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550810)
-<head><meta charset="utf-8"><title>Vers : 20260411_1034 </title></head>
-<center>Vers : 20260411_1034 </center>
-<center>Vers : 20260411_1934 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_1105 </title></head>
+<center>Vers : 20260411_1105 </center>
+<center>Vers : 20260411_2005 </center>
 <br><br><br>
+#### [미국과 이란의 휴전 회담에 초점을 맞춘 EU 밀은 약세를 유지합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550810)
 #### [PJM, 4월 14?15일 중부 대서양 및 남부 지역에 폭염 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550814)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550818)
 #### [드 롱기, 최대 6천만 유로 규모의 자사주 매입 프로그램 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550809)
@@ -512,5 +513,3 @@
 #### [베식타스, 아르첼릭 파자라마와 4억 6840만 리라(부가세 포함) 상당의 유니폼 스폰서십 및 광고권 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550748)
 #### [금 주간 상승, 미국-이란 휴전 초점](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550759)
 #### [페나르 인더스트리, 페나르 홀딩스에 총 5억4천만 루피 규모의 전환사채 발행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550755)
-#### [미국 FDA, 레플리뮨의 진행성 피부암 치료제 승인 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2550747)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/REPL.O/total>
