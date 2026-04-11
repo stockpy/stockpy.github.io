@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260411_1925 </title></head>
-<center>Vers : 20260411_1925 </center>
-<center>Vers : 20260412_0425 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_2034 </title></head>
+<center>Vers : 20260411_2034 </center>
+<center>Vers : 20260412_0534 </center>
 <br><br><br>
 #### ["원금만 겨우 건질 수도"…1억 예금했다가 '낭패'본 사연](https://m.stock.naver.com/news/ranknews/view/015/0005273716)
 #### [셀트리온, 20만원도 깨졌다…바이오 개미 '분통'](https://m.stock.naver.com/news/ranknews/view/215/0001248643)

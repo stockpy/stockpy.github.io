@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260411_1925 </title></head>
-<center>Vers : 20260411_1925 </center>
-<center>Vers : 20260412_0425 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_2034 </title></head>
+<center>Vers : 20260411_2034 </center>
+<center>Vers : 20260412_0534 </center>
 <br><br><br>
+#### [미국 회담의 새로운 라운드가 이슬라마바드에서 시작된다고이란 통신은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551234)
+#### [이스라엘, 네타냐후 동상 폭파에 대해 스페인 질책](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551233)
+#### [우크라이나 군, 러시아의 부활절 휴전 위반 469건 고발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551232)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551231)
+#### [OPG 온타리오 885MW 달링턴 4 원자력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551230)
 #### [노빌, 크로아티아에서 경쟁자들이 펑크를 겪으며 현대자동차를 정상에 올려놓다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551229)
 #### [에너지 트레이더 Vitol, 손실 후 파생상품 팀 재구성 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551228)
 #### [미국 북서부 강 유량은 97 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551227)
@@ -58,8 +63,3 @@
 #### [러시아, 우크라이나, 포로 교환 실시, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551177)
 #### [미국은이란 자산 동결 해제에 동의하지 않았다고 백악관 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551176)
 #### [우크라이나는 호르무즈 해협에서 유용한 역할을 할 수 있다고 영국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551170)
-#### [미국과 이란이 파키스탄에서 평화 회담을 위해 의구심을 불러일으키고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551167)
-#### [밴스 미국 부통령, 샤리프 파키스탄 총리와 회담 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551175)
-#### [이스라엘 기업 블랙 큐브, '부패 폭로'를 위한 키프로스 스팅 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551169)
-#### [독일 부채 브레이크 개혁은 현 정부 임기 동안 일어나지 않을 것이라고 Bild는보고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551173)
-#### [달 주위를 돌며 수백만 명에게 영감을 주는 흑인 우주비행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551174)
