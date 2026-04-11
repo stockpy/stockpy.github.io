@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260411_2233 </title></head>
-<center>Vers : 20260411_2233 </center>
-<center>Vers : 20260412_0733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_2303 </title></head>
+<center>Vers : 20260411_2303 </center>
+<center>Vers : 20260412_0803 </center>
 <br><br><br>
+#### [퓨리가 마흐무도프에게 판정승으로 순항하며 조슈아와의 다음 대결을 원합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551246)
+#### [런던 경찰, 팔레스타인 행동 금지에 항의하는 시위에서 523명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551247)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551245)
 #### [러시아의 새로운 우주 발사체가 최종 테스트를 받고 있다고 최고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551244)
 #### [더 큰 스크린, 더 큰 팬덤: 방탄소년단, '아리랑' 투어를 AMC 극장에서 선보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551243)
@@ -60,6 +62,3 @@
 #### [영국 범죄 기관, 해협 보트 횡단에서 4 명이 사망 한 후 수단 남성 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551190)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551187)
 #### [이란, 휴전 약속 존중을 위해 레바논과 접촉, 외무부 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551188)
-#### [우크라이나, 러시아, 부활절 휴전을 앞두고 각각 175명의 군인 교환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551189)
-#### [인도 자동차 허브, 이란 전쟁으로 인한 비용 상승에 항의하는 시위로 최저임금 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551186)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7267.T/total>

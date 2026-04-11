@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260411_2233 </title></head>
-<center>Vers : 20260411_2233 </center>
-<center>Vers : 20260412_0733 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_2303 </title></head>
+<center>Vers : 20260411_2303 </center>
+<center>Vers : 20260412_0803 </center>
 <br><br><br>
 #### ["원금만 겨우 건질 수도"…1억 예금했다가 '낭패'본 사연](https://m.stock.naver.com/news/ranknews/view/015/0005273716)
 #### ["일주일 새 20% 폭등" 휴전 소식에 개미들 쓸어 담은 이 종목](https://m.stock.naver.com/news/ranknews/view/277/0005748101)
