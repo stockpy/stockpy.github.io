@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260411_1845 </title></head>
-<center>Vers : 20260411_1845 </center>
-<center>Vers : 20260412_0345 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_1925 </title></head>
+<center>Vers : 20260411_1925 </center>
+<center>Vers : 20260412_0425 </center>
 <br><br><br>
+#### [노빌, 크로아티아에서 경쟁자들이 펑크를 겪으며 현대자동차를 정상에 올려놓다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551229)
+#### [에너지 트레이더 Vitol, 손실 후 파생상품 팀 재구성 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551228)
+#### [미국 북서부 강 유량은 97 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551227)
 #### [온타리오 123MW 벡 2 PGS 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551226)
 #### [이란의 타스님: 호르무즈 해협, 이슬라마바드 회담에서 여전히 '심각한 불일치'의 지점](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551225)
 #### [아부다비의 DIAFA, 리차드 카링 호텔 포트폴리오의 과반 지분 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551224)
@@ -60,7 +63,3 @@
 #### [이스라엘 기업 블랙 큐브, '부패 폭로'를 위한 키프로스 스팅 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551169)
 #### [독일 부채 브레이크 개혁은 현 정부 임기 동안 일어나지 않을 것이라고 Bild는보고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551173)
 #### [달 주위를 돌며 수백만 명에게 영감을 주는 흑인 우주비행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551174)
-#### [미국인들은 이란 전쟁, 유가, 그리고 그들의 두려움에 대해 무게를 둡니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551172)
-#### [네덜란드 장갑 제작자 Jeanne Hermans가 할리우드와 그 밖의 지역에서 그녀의 틈새 공예가 어떻게 팔로워를 확보했는지 이야기합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551171)
-#### [보스턴에서 덴버까지, 이란 전쟁으로 인한 연료비 상승으로 미국 운전자들이 연료 소비를 줄였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551168)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EZPW.O/total>
