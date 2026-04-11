@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260411_1706 </title></head>
-<center>Vers : 20260411_1706 </center>
-<center>Vers : 20260412_0206 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_1845 </title></head>
+<center>Vers : 20260411_1845 </center>
+<center>Vers : 20260412_0345 </center>
 <br><br><br>
+#### [온타리오 123MW 벡 2 PGS 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551226)
+#### [이란의 타스님: 호르무즈 해협, 이슬라마바드 회담에서 여전히 '심각한 불일치'의 지점](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551225)
+#### [아부다비의 DIAFA, 리차드 카링 호텔 포트폴리오의 과반 지분 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551224)
+#### [헝가리 투표를 앞두고 체코, 슬로바키아 지도자들이 동맹국 오르반을 지지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551223)
+#### [런던 경찰, 팔레스타인 행동 금지에 항의하는 시위에서 212명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551220)
+#### [러시아 지역 관리, 우크라이나가 쿠르스크, 벨고로드 지역을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551221)
+#### [법원이 백악관 연회장 공사를 당분간 계속할 수 있도록 허용했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551222)
+#### [레오 교황, 미국과이란이 회담 시작하면서 '전쟁의 광기'에 종식 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551218)
+#### [메모리얼에 정치범으로 등재된 러시아인, 단식 투쟁에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551219)
 #### [미군, 두 척의 함정이 호르무즈 해협을 통과했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551217)
 #### [영국, 트럼프 반대 후 차고스 제도 양도 계획 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551216)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551215)
@@ -55,15 +64,3 @@
 #### [네덜란드 장갑 제작자 Jeanne Hermans가 할리우드와 그 밖의 지역에서 그녀의 틈새 공예가 어떻게 팔로워를 확보했는지 이야기합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551171)
 #### [보스턴에서 덴버까지, 이란 전쟁으로 인한 연료비 상승으로 미국 운전자들이 연료 소비를 줄였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551168)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EZPW.O/total>
-#### [고령화되는 미국 대법관들에게 은퇴의 정치가 크게 다가옵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551166)
-#### [브라질에 대한 중국의 투자는 발전 댐에서 아이스크림으로 전환하여 소비자를 유혹합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551165)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [마이크로소프트 직원이 개발자에게 CO2 제거 거래를 일시 중지한다고 말하다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551163)
-#### [메르세데스-벤츠 미국, 드라이브 샤프트 유니버설 조인트 문제로 인해 미국 차량 24,092 대 리콜- NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551164)
-#### [독점-이란 소식통, 미국이 카타르와 다른 국가에 보유한이란 자금 동결 해제에 동의했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551162)
-#### [캐세이퍼시픽항공, 제트 연료 가격 급등으로 5월 중순부터 6월 말까지 항공편 감편 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551161)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
-#### [독점-이란 소식통, 미국이 카타르, 다른 은행에서 동결 된이란 자산을 해제하기로 합의했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551159)
-#### [캐세이퍼시픽, 제트 연료 가격 급등으로 5월 중순부터 6월 말까지 항공편 감편 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551160)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
-#### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551158)
