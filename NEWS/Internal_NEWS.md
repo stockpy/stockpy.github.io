@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260411_2034 </title></head>
-<center>Vers : 20260411_2034 </center>
-<center>Vers : 20260412_0534 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_2103 </title></head>
+<center>Vers : 20260411_2103 </center>
+<center>Vers : 20260412_0603 </center>
 <br><br><br>
+#### [스웨덴의 아르테미스, 개막 첫날 호주를 제치고 리우에서 열린 세일GP 개막전에서 우승하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551238)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551236)
+#### [맨해튼 지방 검사, 스왈웰에 대한 성폭행 주장 조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551237)
+#### [시테 온타리오 195MW 고어웨이 11 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551235)
 #### [미국 회담의 새로운 라운드가 이슬라마바드에서 시작된다고이란 통신은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551234)
 #### [이스라엘, 네타냐후 동상 폭파에 대해 스페인 질책](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551233)
 #### [우크라이나 군, 러시아의 부활절 휴전 위반 469건 고발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551232)
@@ -59,7 +63,3 @@
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551181)
 #### [영국, 미국의 반대로 차고스 제도 양도 계획 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551180)
 #### [독일 부채 브레이크 개혁은 현 정부 임기 동안 이루어지지 않을 것이라고 Bild가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551179)
-#### [우크라이나는 175 명의 군인과 7 명의 민간인을 러시아에서 집으로 데려온다고 Zelenskiy는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551178)
-#### [러시아, 우크라이나, 포로 교환 실시, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551177)
-#### [미국은이란 자산 동결 해제에 동의하지 않았다고 백악관 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551176)
-#### [우크라이나는 호르무즈 해협에서 유용한 역할을 할 수 있다고 영국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551170)
