@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260411_1637 </title></head>
-<center>Vers : 20260411_1637 </center>
-<center>Vers : 20260412_0137 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_1706 </title></head>
+<center>Vers : 20260411_1706 </center>
+<center>Vers : 20260412_0206 </center>
 <br><br><br>
+#### [미군, 두 척의 함정이 호르무즈 해협을 통과했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551217)
+#### [영국, 트럼프 반대 후 차고스 제도 양도 계획 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551216)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551215)
 #### [법원은 백악관 연회장 건설을 당분간 계속하도록 허용했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551214)
 #### [브라질 대선 2라운드에서도 룰라와 보우소나루, 다타폴랴 여론조사 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551212)
 #### [국경 지역 주지사는 우크라이나 드론 공격으로 2 명이 부상 당했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551213)
@@ -64,6 +67,3 @@
 #### [캐세이퍼시픽, 제트 연료 가격 급등으로 5월 중순부터 6월 말까지 항공편 감편 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551160)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
 #### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551158)
-#### [아톰 은행, 최대 10억 파운드에 달하는 잠재적 매각 논의 중 - Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551157)
-#### [바비스 체코 총리, 투표 앞두고 헝가리 오르반 지지 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551156)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551155)
