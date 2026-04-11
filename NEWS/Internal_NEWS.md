@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260411_2103 </title></head>
-<center>Vers : 20260411_2103 </center>
-<center>Vers : 20260412_0603 </center>
+<head><meta charset="utf-8"><title>Vers : 20260411_2233 </title></head>
+<center>Vers : 20260411_2233 </center>
+<center>Vers : 20260412_0733 </center>
 <br><br><br>
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551245)
+#### [러시아의 새로운 우주 발사체가 최종 테스트를 받고 있다고 최고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551244)
+#### [더 큰 스크린, 더 큰 팬덤: 방탄소년단, '아리랑' 투어를 AMC 극장에서 선보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551243)
+#### [이란, 군함에 호르무즈 해협 통과 금지 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551242)
+#### [트럼프, 중국이이란에 무기를 선적하면 큰 문제가 될 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551240)
+#### [레오 교황, 미국과 이란이 회담 시작하면서 '전쟁의 광기' 종식 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551241)
+#### [미국과 이란, 이슬라마바드에서 고위급 평화 회담 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551239)
 #### [스웨덴의 아르테미스, 개막 첫날 호주를 제치고 리우에서 열린 세일GP 개막전에서 우승하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551238)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551236)
 #### [맨해튼 지방 검사, 스왈웰에 대한 성폭행 주장 조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551237)
@@ -56,10 +63,3 @@
 #### [우크라이나, 러시아, 부활절 휴전을 앞두고 각각 175명의 군인 교환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551189)
 #### [인도 자동차 허브, 이란 전쟁으로 인한 비용 상승에 항의하는 시위로 최저임금 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551186)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7267.T/total>
-#### [프랑스 마크롱, 터키 에르도안과 이란 휴전, 우크라이나 논의 언급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551185)
-#### [트럼프, 빈 유조선들이 석유와 가스를 싣고 미국으로 향하고 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551184)
-#### [트럼프 대통령은 미국으로 향하는 빈 유조선에 대해 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551183)
-#### [OPG 온타리오 123MW 벡 2 PGS 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551182)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551181)
-#### [영국, 미국의 반대로 차고스 제도 양도 계획 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551180)
-#### [독일 부채 브레이크 개혁은 현 정부 임기 동안 이루어지지 않을 것이라고 Bild가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551179)
