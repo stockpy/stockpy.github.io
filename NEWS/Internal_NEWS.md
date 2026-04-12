@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_2105 </title></head>
-<center>Vers : 20260412_2105 </center>
-<center>Vers : 20260413_0605 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_2235 </title></head>
+<center>Vers : 20260412_2235 </center>
+<center>Vers : 20260413_0735 </center>
 <br><br><br>
+#### [헝가리 총선 압승 후 축하하는 마자르 총리의 모습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551378)
+#### [GFL, 43 억 달러 이상에 보안 폐기물 구매 계약에 근접 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551377)
+#### [전쟁으로 촉발된 부채 소용돌이가 글로벌 권력을 형성할 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551376)
+#### [미국 FTC, 불매 운동 조사에서 광고 회사와 합의 협상 중, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551375)
+#### [헝가리의 오르반, 선거에서 획기적인 패배를 인정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551373)
+#### [미군은 월요일에이란을 오가는 모든 선박의 봉쇄를 시작할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551372)
+#### [헝가리 총선 승리자 Magyar, 압승 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551374)
+#### [우크라이나의 젤렌스키가 헝가리의 마자르에게 선거 승리를 축하합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551371)
+#### [이란 평화 회담 실패에 BUZZ-AUD/USD 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551369)
+#### [BUZZ-IMM-EUR이 순 사양 숏으로 스윙, 엔화 대비 베팅 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551368)
+#### [스타머 영국 총리가 헝가리에서 승리를 거둔 마자르에게 축하를 전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551370)
 #### [CME, 홍콩에서 알루미늄, 납 창고 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551367)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CME.O/total>
 #### [아이티 강진으로 인한 사망자 수가 25명으로 하향 조정됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551366)
@@ -53,15 +64,3 @@
 #### [로이터 스포츠 일정(GMT/xx ET 기준)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551322)
 #### [이란 전쟁으로 이스라엘은 115 억 달러의 예산 비용을 지출했다고 국방부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551320)
 #### [UKMTO, 예멘 호데이다에서 무장 한 남성을 태운 보트가 항해 선박에 접근했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551319)
-#### [남아공, 워싱턴에서 열리는 G20 재무 장관 회의에 참석하지 않을 것이라고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551318)
-#### [남아공은 워싱턴에서 열리는 G20 재무 장관 회의에 참석하지 않을 것이라고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551317)
-#### [트럼프, 미국, 호르무즈 해협 봉쇄 즉시 시작하라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551316)
-#### [트럼프, 미국, 호르무즈 해협 봉쇄 시작한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551314)
-#### [월스트리트 주간을 앞두고-전쟁에 흔들리는 주식을 테스트 할 미국 실적 시즌 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551315)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
-#### [러시아는 잉여가있을 경우 EU에 가스를 공급할 준비가되어 있다고 TASS는 보도합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551312)
-#### [이란 평화 회담 후 미국 부통령이 람 슈타인에서 급유를 중단했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551311)
-#### [호주와 미국이 35억 달러로 중요 광물에 대한 지원을 강화합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551313)
-#### [영국 금융 규제 당국, Anthropic의 최신 AI 모델 위험성 평가 서두르다, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551310)
-#### [러시아 푸틴, 이란의 페제쉬키안과 전화 통화, Ifax 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551309)
-#### [ADNOC CEO, 호르무즈 해협은 이란이 통제 할 수 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551308)
