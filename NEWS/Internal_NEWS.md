@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_0849 </title></head>
-<center>Vers : 20260412_0849 </center>
-<center>Vers : 20260412_1749 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_0934 </title></head>
+<center>Vers : 20260412_0934 </center>
+<center>Vers : 20260412_1834 </center>
 <br><br><br>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551295)
+#### [이란 의회 의장, 미국이 회담에서이란 대표단의 신뢰를 얻지 못했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551294)
+#### [이스라엘의 가자지구 봉쇄를 깨려는 가자지구 구호 선단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551293)
+#### [하이스코 파마슈티컬, 애브비 그룹과 라이선스 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551291)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002653.SZ/total>
+#### [인도의 상징적인 가수 아샤 보슬, 뭄바이에서 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551292)
 #### [우크라이나 군, 러시아가 토요일 이후 2,299 번 휴전을 위반했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551290)
 #### [인도의 상징적인 가수 아샤 보슬이 뭄바이에서 사망했다고 힌두교가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551287)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551289)
@@ -60,15 +66,15 @@
 #### [스웨덴의 아르테미스, 개막 첫날 호주를 제치고 리우에서 열린 세일GP 개막전에서 우승하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551238)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551236)
 #### [맨해튼 지방 검사, 스왈웰에 대한 성폭행 주장 조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551237)
+<head><meta charset="utf-8"><title>Vers : 20260412_0934 </title></head>
+<center>Vers : 20260412_0934 </center>
+<center>Vers : 20260412_1834 </center>
+<br><br><br>
 #### [시테 온타리오 195MW 고어웨이 11 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551235)
 #### [미국 회담의 새로운 라운드가 이슬라마바드에서 시작된다고이란 통신은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551234)
 #### [이스라엘, 네타냐후 동상 폭파에 대해 스페인 질책](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551233)
 #### [우크라이나 군, 러시아의 부활절 휴전 위반 469건 고발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551232)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551231)
-<head><meta charset="utf-8"><title>Vers : 20260412_0849 </title></head>
-<center>Vers : 20260412_0849 </center>
-<center>Vers : 20260412_1749 </center>
-<br><br><br>
 #### [OPG 온타리오 885MW 달링턴 4 원자력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551230)
 #### [노빌, 크로아티아에서 경쟁자들이 펑크를 겪으며 현대자동차를 정상에 올려놓다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551229)
 #### [에너지 트레이더 Vitol, 손실 후 파생상품 팀 재구성 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551228)
@@ -125,8 +131,3 @@
 #### [우크라이나는 175 명의 군인과 7 명의 민간인을 러시아에서 집으로 데려온다고 Zelenskiy는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551178)
 #### [러시아, 우크라이나, 포로 교환 실시, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551177)
 #### [미국은이란 자산 동결 해제에 동의하지 않았다고 백악관 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551176)
-#### [우크라이나는 호르무즈 해협에서 유용한 역할을 할 수 있다고 영국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551170)
-#### [미국과 이란이 파키스탄에서 평화 회담을 위해 의구심을 불러일으키고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551167)
-#### [밴스 미국 부통령, 샤리프 파키스탄 총리와 회담 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551175)
-#### [이스라엘 기업 블랙 큐브, '부패 폭로'를 위한 키프로스 스팅 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551169)
-#### [독일 부채 브레이크 개혁은 현 정부 임기 동안 일어나지 않을 것이라고 Bild는보고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551173)
