@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_1120 </title></head>
-<center>Vers : 20260412_1120 </center>
-<center>Vers : 20260412_2020 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_1302 </title></head>
+<center>Vers : 20260412_1302 </center>
+<center>Vers : 20260412_2202 </center>
 <br><br><br>
+#### [러시아는 잉여가있을 경우 EU에 가스를 공급할 준비가되어 있다고 TASS는 보도합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551312)
+#### [이란 평화 회담 후 미국 부통령이 람 슈타인에서 급유를 중단했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551311)
+#### [호주와 미국이 35억 달러로 중요 광물에 대한 지원을 강화합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551313)
+#### [영국 금융 규제 당국, Anthropic의 최신 AI 모델 위험성 평가 서두르다, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551310)
+#### [러시아 푸틴, 이란의 페제쉬키안과 전화 통화, Ifax 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551309)
+#### [ADNOC CEO, 호르무즈 해협은 이란이 통제 할 수 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551308)
+#### [영국 금융 규제 당국, 앤트로픽의 최신 AI 모델 위험성 평가 서두르다, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551306)
+#### [인도 가수 아샤 보슬, 92세 나이로 사망하며 '특별한' 여정 끝내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551307)
+#### [헝가리 총선에서 유권자의 절반 이상이 1100 GMT까지 투표를 마쳤습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551305)
+#### [필리핀, 중국과의 모든 에너지 거래는 주권을 존중해야한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551304)
 #### [중국 체리, 유럽에서 자동차 생산 확대 모색, 최고 경영진은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551303)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002594.SZ/total>
 #### [미국, 러시아, EU가 지켜보는 획기적인 선거에서 헝가리 국민 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551302)
@@ -57,6 +67,10 @@
 #### [맨해튼 지방 검사, 스왈웰에 대한 성폭행 혐의 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551257)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551255)
 #### [Atco Power Alberta 155MW 배틀 리버 4 석탄 발전소 온라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551254)
+<head><meta charset="utf-8"><title>Vers : 20260412_1302 </title></head>
+<center>Vers : 20260412_1302 </center>
+<center>Vers : 20260412_2202 </center>
+<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551253)
 #### [코스타리카, 미국과의 제3국 협정에 따라 첫 추방 이민자 그룹 수용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551252)
 #### [미-이란 회담, 당분간 중단, 이견 여전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551250)
@@ -67,10 +81,6 @@
 #### [런던 경찰, 팔레스타인 행동 금지에 항의하는 시위에서 523명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551247)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551245)
 #### [러시아의 새로운 우주 발사체가 최종 테스트를 받고 있다고 최고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551244)
-<head><meta charset="utf-8"><title>Vers : 20260412_1120 </title></head>
-<center>Vers : 20260412_1120 </center>
-<center>Vers : 20260412_2020 </center>
-<br><br><br>
 #### [더 큰 스크린, 더 큰 팬덤: 방탄소년단, '아리랑' 투어를 AMC 극장에서 선보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551243)
 #### [이란, 군함에 호르무즈 해협 통과 금지 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551242)
 #### [트럼프, 중국이이란에 무기를 선적하면 큰 문제가 될 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551240)
@@ -121,14 +131,3 @@
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551196)
 #### [트럼프, 미국이 호르무즈 해협을 '청소'하고 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551195)
 #### [그랜드 내셔널 대회에서 두 번째 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551194)
-#### [프랑스의 마크롱은이란에 대해 사우디 왕세자와 '긴밀히 접촉'하고 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551192)
-#### [이란 회담 장소가 될 가능성이 희박한 곳](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551193)
-#### [이슬라마바드에서이란 평화 회담이 시작되었다고 CBS 기자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551191)
-#### [영국 범죄 기관, 해협 보트 횡단에서 4 명이 사망 한 후 수단 남성 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551190)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551187)
-#### [이란, 휴전 약속 존중을 위해 레바논과 접촉, 외무부 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551188)
-#### [우크라이나, 러시아, 부활절 휴전을 앞두고 각각 175명의 군인 교환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551189)
-#### [인도 자동차 허브, 이란 전쟁으로 인한 비용 상승에 항의하는 시위로 최저임금 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551186)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7267.T/total>
-#### [프랑스 마크롱, 터키 에르도안과 이란 휴전, 우크라이나 논의 언급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551185)
-#### [트럼프, 빈 유조선들이 석유와 가스를 싣고 미국으로 향하고 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551184)
