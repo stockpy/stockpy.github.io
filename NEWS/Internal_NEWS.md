@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_0237 </title></head>
-<center>Vers : 20260412_0237 </center>
-<center>Vers : 20260412_1137 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_0512 </title></head>
+<center>Vers : 20260412_0512 </center>
+<center>Vers : 20260412_1412 </center>
 <br><br><br>
+#### [주목해야 할 요소 - 4월 12일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551270)
+#### [업데이트 1-아이티의 유서 깊은 라페리에르 성채에서 최소 30명의 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551269)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551268)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551271)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551267)
+#### [베트남, 6월 말까지 유류세 유예 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551265)
+#### [엔화 부양을위한 BOJ 정책은 인플레이션을 억제하기위한 옵션이 될 수 있다고 일본 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551266)
+#### [중국, 야당 지도자 방문 후 대만에 인센티브 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551264)
 #### [일본 소프트뱅크가 국내 AI 개발을 위해 일본에 회사를 설립했다고 닛케이가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551262)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
 #### [밴스, 미국 협상가들이 이란과 합의 없이 돌아올 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551263)
@@ -55,6 +63,10 @@
 #### [법원은 백악관 연회장 건설을 당분간 계속하도록 허용했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551214)
 #### [브라질 대선 2라운드에서도 룰라와 보우소나루, 다타폴랴 여론조사 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551212)
 #### [국경 지역 주지사는 우크라이나 드론 공격으로 2 명이 부상 당했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551213)
+<head><meta charset="utf-8"><title>Vers : 20260412_0512 </title></head>
+<center>Vers : 20260412_0512 </center>
+<center>Vers : 20260412_1412 </center>
+<br><br><br>
 #### [마크롱 프랑스 대통령은이란 대통령과 회담을 가졌다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551211)
 #### [경마-아이 엠 막시무스, 레드 럼 이후 최초로 그랜드 내셔널 스텝체이스 우승 탈환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551210)
 #### [조종사 노조가 4월 13일, 14일 루프트한자에서 파업을 선언합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551209)
@@ -63,10 +75,6 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551207)
 #### [이라크 의회, 이라크의 새 대통령으로 니자르 아메디 선출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551205)
 #### [IPO는 독일-프랑스 패리티를 보장해야한다고 IG Metall의 Kerner는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551203)
-<head><meta charset="utf-8"><title>Vers : 20260412_0237 </title></head>
-<center>Vers : 20260412_0237 </center>
-<center>Vers : 20260412_1137 </center>
-<br><br><br>
 #### [VC 조종사 노조가 4월 13일, 14일 루프트한자에서 파업을 선언합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551204)
 #### [인도, 디젤, 항공 터빈 연료에 대한 수출 관세 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551202)
 #### [레오파드 탱크 제조업체 KNDS의 IPO는 독일과 프랑스의 동등성을 보장해야한다고 IG Metall의 Kerner는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551201)
@@ -124,12 +132,3 @@
 #### [영국, 미국의 반대에 차고스 제도 양도 계획 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551154)
 #### [파키스탄에서 열린 미국-이란 협상의 주요 논점은 무엇인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551152)
 #### [인도네시아 프라보워 대통령, 러시아 방문, 푸틴 만나, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551153)
-#### [드론 파편이 러시아 크라 스노 다르 지역의 석유 저장소에 떨어지고 화재가 진압되었다고 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551151)
-#### [멕시코 중앙은행, 알도 헤프너 로드리게스를 새 수석 이코노미스트로 임명- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551150)
-#### [파키스탄 외무 장관, 미국과이란이 평화 회담에 건설적으로 참여하기를 희망한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551149)
-#### [이란과의 회담을 위해 파키스탄에 도착한 밴스, 파키스탄 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551147)
-#### [이란의 새로운 최고 지도자는 심각하고 흉한 상처를 입었다 고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551148)
-#### [일본, 칩 제조업체 Rapidus에 40 억 달러 추가 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551146)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6702.T/total>
-#### [이란과의 회담을 위해 미국 비행기를 태운 팀이 이슬라마바드에 착륙했다고 두 파키스탄 소식통이 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551145)
-#### [시테 온타리오 195MW 고어웨이 11 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551144)
