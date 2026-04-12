@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_1521 </title></head>
-<center>Vers : 20260412_1521 </center>
-<center>Vers : 20260413_0021 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_1640 </title></head>
+<center>Vers : 20260412_1640 </center>
+<center>Vers : 20260413_0140 </center>
 <br><br><br>
+#### [러시아와 우크라이나의 정교회 부활절 휴전 위반 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551333)
+#### [트럼프, 미-이란 평화 회담 실패 후 호르무즈 봉쇄 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551332)
+#### [결선 투표가 임박한 가운데 페루 국민들이 대통령 선거에 투표합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551330)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551331)
+#### [리들, 할인 전화 요금제로 모바일 시장에 활기를 불어넣다 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551329)
 #### [사이클링-반 에르트, 포가카를 앞두고 파리-루베 우승으로 징크스 깨기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551328)
 #### [가자지구 구호 선단, 이스라엘 봉쇄 돌파 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551327)
 #### [분석가, 미-이란 회담 실패 후 재개될 전투 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551326)
@@ -63,8 +68,3 @@
 #### ["나는 승리하기 위해 여기 있습니다." 헝가리 오르반 총리가 선거 투표 후 한 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551276)
 #### [사우디 아라비아, 동서 송유관의 최대 용량을 700만 배럴로 회복하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551275)
 #### [유럽 연합, 러시아, 미국이 주목하는 획기적인 선거에서 헝가리 국민 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551274)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551273)
-#### [뮤지컬 '패딩턴', 할리우드 스타들이 올리비에 어워즈에서 수상 경쟁을 벌인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551272)
-#### [주목해야 할 요소 - 4월 12일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551270)
-#### [업데이트 1-아이티의 유서 깊은 라페리에르 성채에서 최소 30명의 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551269)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551268)
