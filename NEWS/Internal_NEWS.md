@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_2037 </title></head>
-<center>Vers : 20260412_2037 </center>
-<center>Vers : 20260413_0537 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_2105 </title></head>
+<center>Vers : 20260412_2105 </center>
+<center>Vers : 20260413_0605 </center>
 <br><br><br>
+#### [CME, 홍콩에서 알루미늄, 납 창고 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551367)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CME.O/total>
+#### [아이티 강진으로 인한 사망자 수가 25명으로 하향 조정됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551366)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551364)
+#### [한 주 앞으로-미국-이란의 발전, 연준 지명 청문회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551365)
 #### [호주, 리우에서 압도적인 승리로 SailGP 선두를 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551362)
 #### [스왈웰의 동료 민주당 의원들 중 일부가 성폭행 혐의로 의회에서 사퇴할 것을 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551361)
 #### [미국 북서부 강 유량은 97 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551363)
@@ -60,7 +65,3 @@
 #### [영국 금융 규제 당국, Anthropic의 최신 AI 모델 위험성 평가 서두르다, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551310)
 #### [러시아 푸틴, 이란의 페제쉬키안과 전화 통화, Ifax 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551309)
 #### [ADNOC CEO, 호르무즈 해협은 이란이 통제 할 수 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551308)
-#### [영국 금융 규제 당국, 앤트로픽의 최신 AI 모델 위험성 평가 서두르다, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551306)
-#### [인도 가수 아샤 보슬, 92세 나이로 사망하며 '특별한' 여정 끝내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551307)
-#### [헝가리 총선에서 유권자의 절반 이상이 1100 GMT까지 투표를 마쳤습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551305)
-#### [필리핀, 중국과의 모든 에너지 거래는 주권을 존중해야한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551304)
