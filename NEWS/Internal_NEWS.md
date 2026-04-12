@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_1719 </title></head>
-<center>Vers : 20260412_1719 </center>
-<center>Vers : 20260413_0219 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_1851 </title></head>
+<center>Vers : 20260412_1851 </center>
+<center>Vers : 20260413_0351 </center>
 <br><br><br>
+#### [아일랜드 경찰, 더블린이 연료 가격 타격을 완화하기 위한 조치로 봉쇄 해제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551343)
+#### [스왈웰의 동료 민주당 의원들 중 일부는 성폭행 혐의로 의회를 그만두라고 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551342)
+#### [이란은 미국에 선의를 보여주기위한 좋은 이니셔티브를 가지고 있다고 최고 협상가 칼리 바프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551341)
+#### [헝가리 야당 지도자 Magyar, 선거 결과에 대해 낙관적이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551340)
+#### [헝가리의 높은 선거 투표율은 강력한 민주주의를 보여 주며 오르 반의 참모 총장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551338)
+#### [스테그라, 월렌버그가 나서면서 중요한 자금을 확보하다 - 블룸버그 통신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551339)
+#### [헝가리 야당 티자당이 선거 전 실시한 21리서치센터 여론조사에서 선두를 달리고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551337)
 #### [헝가리 야당 티자당이 일요일 선거 전 실시한 마지막 중앙 여론조사에서 선두를 달리고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551335)
 #### [랠리-카츠타, 크로아티아에서 우승하고 노빌이 마지막 스테이지에서 추락한 후 WRC 선두로 올라서다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551336)
 #### [이란의 경비대는 해협에 접근하는 군함을 휴전 위반으로 간주합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551334)
@@ -60,11 +67,3 @@
 #### [일본 이스즈, 2027 년 도입을 목표로 혼다와 개발 한 연료 전지 트럭 출시 연기, 교도는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551286)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7202.T/total>
 #### [창장제약, 선전 증권거래소 상장 폐지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551285)
-#### [하이스코 제약, 1분기 순이익 전년 동기 대비 923.3~1095.0% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551283)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002653.SZ/total>
-#### [러시아, 우크라이나가 부활절 휴전을 위반하고 있다고 러시아 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551282)
-#### [헝가리 인들은 티자가 승리 할 선거에서 '역사를 쓸 것'이라고 야당 지도자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551281)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551280)
-#### [러시아, 우크라이나가 부활절 휴전을 위반하고 있다고 러시아 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551278)
-#### [중국, 야당 지도자 방문 후 대만에 인센티브 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551277)
-#### [사우디아라비아, 공격 후 동서 송유관 최대 용량 700만 배럴로 복구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551279)

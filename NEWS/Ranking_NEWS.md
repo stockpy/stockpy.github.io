@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_1719 </title></head>
-<center>Vers : 20260412_1719 </center>
-<center>Vers : 20260413_0219 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_1851 </title></head>
+<center>Vers : 20260412_1851 </center>
+<center>Vers : 20260413_0351 </center>
 <br><br><br>
 #### ['월요일 두렵다' 협상 결렬에 코스피 '날벼락'?…전망 들어보니](https://m.stock.naver.com/news/ranknews/view/015/0005273969)
 #### [전쟁은 트럼프가 일으켰는데 고생은 우리가…LNG값, 美선 하락](https://m.stock.naver.com/news/ranknews/view/009/0005664819)
@@ -62,9 +62,9 @@
 #### [“기존 오피스 매력 커져…물류센터 투자도 주목” [시그널]](https://m.stock.naver.com/news/ranknews/view/011/0004609845)
 #### [반토막 삼천당제약에 개미 '피눈물'…금감원, 제약·바이오 공시 개선 TF 출범](https://m.stock.naver.com/news/ranknews/view/119/0003079617)
 #### [“치솟는 기름값, 아낄 방법 없나요”…주유비 할인받는 카드 전략 총정리](https://m.stock.naver.com/news/ranknews/view/009/0005664686)
-<head><meta charset="utf-8"><title>Vers : 20260412_1719 </title></head>
-<center>Vers : 20260412_1719 </center>
-<center>Vers : 20260413_0219 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_1851 </title></head>
+<center>Vers : 20260412_1851 </center>
+<center>Vers : 20260413_0351 </center>
 <br><br><br>
 #### [주식투자 열풍에 ‘중개형 ISA’ 쏠림…증권가, 신탁형 접는다](https://m.stock.naver.com/news/ranknews/view/011/0004609814)
 #### [K증시 반도체·전력설비·방산에 주목…대한광통신, 삼성전기 신고가 터치 [매경 자이앤트]](https://m.stock.naver.com/news/ranknews/view/009/0005664326)
