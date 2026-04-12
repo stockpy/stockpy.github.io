@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_0714 </title></head>
-<center>Vers : 20260412_0714 </center>
-<center>Vers : 20260412_1614 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_0849 </title></head>
+<center>Vers : 20260412_0849 </center>
+<center>Vers : 20260412_1749 </center>
 <br><br><br>
+#### [우크라이나 군, 러시아가 토요일 이후 2,299 번 휴전을 위반했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551290)
+#### [인도의 상징적인 가수 아샤 보슬이 뭄바이에서 사망했다고 힌두교가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551287)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551289)
+#### [아일랜드 경찰은 며칠간의 교통 체증 끝에 더블린 중심부에서 연료 시위대를 제거했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551288)
+#### [이란은 2 개월 이내에 대부분의 정제 능력을 회복하는 것을 목표로한다고 석유부 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551284)
+#### [일본 이스즈, 2027 년 도입을 목표로 혼다와 개발 한 연료 전지 트럭 출시 연기, 교도는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551286)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7202.T/total>
+#### [창장제약, 선전 증권거래소 상장 폐지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551285)
+#### [하이스코 제약, 1분기 순이익 전년 동기 대비 923.3~1095.0% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551283)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002653.SZ/total>
+#### [러시아, 우크라이나가 부활절 휴전을 위반하고 있다고 러시아 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551282)
+#### [헝가리 인들은 티자가 승리 할 선거에서 '역사를 쓸 것'이라고 야당 지도자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551281)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551280)
+#### [러시아, 우크라이나가 부활절 휴전을 위반하고 있다고 러시아 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551278)
+#### [중국, 야당 지도자 방문 후 대만에 인센티브 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551277)
+#### [사우디아라비아, 공격 후 동서 송유관 최대 용량 700만 배럴로 복구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551279)
 #### ["나는 승리하기 위해 여기 있습니다." 헝가리 오르반 총리가 선거 투표 후 한 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551276)
 #### [사우디 아라비아, 동서 송유관의 최대 용량을 700만 배럴로 회복하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551275)
 #### [유럽 연합, 러시아, 미국이 주목하는 획기적인 선거에서 헝가리 국민 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551274)
@@ -49,6 +65,10 @@
 #### [이스라엘, 네타냐후 동상 폭파에 대해 스페인 질책](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551233)
 #### [우크라이나 군, 러시아의 부활절 휴전 위반 469건 고발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551232)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551231)
+<head><meta charset="utf-8"><title>Vers : 20260412_0849 </title></head>
+<center>Vers : 20260412_0849 </center>
+<center>Vers : 20260412_1749 </center>
+<br><br><br>
 #### [OPG 온타리오 885MW 달링턴 4 원자력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551230)
 #### [노빌, 크로아티아에서 경쟁자들이 펑크를 겪으며 현대자동차를 정상에 올려놓다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551229)
 #### [에너지 트레이더 Vitol, 손실 후 파생상품 팀 재구성 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551228)
@@ -63,10 +83,6 @@
 #### [레오 교황, 미국과이란이 회담 시작하면서 '전쟁의 광기'에 종식 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551218)
 #### [메모리얼에 정치범으로 등재된 러시아인, 단식 투쟁에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551219)
 #### [미군, 두 척의 함정이 호르무즈 해협을 통과했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551217)
-<head><meta charset="utf-8"><title>Vers : 20260412_0714 </title></head>
-<center>Vers : 20260412_0714 </center>
-<center>Vers : 20260412_1614 </center>
-<br><br><br>
 #### [영국, 트럼프 반대 후 차고스 제도 양도 계획 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551216)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551215)
 #### [법원은 백악관 연회장 건설을 당분간 계속하도록 허용했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551214)
@@ -114,21 +130,3 @@
 #### [밴스 미국 부통령, 샤리프 파키스탄 총리와 회담 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551175)
 #### [이스라엘 기업 블랙 큐브, '부패 폭로'를 위한 키프로스 스팅 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551169)
 #### [독일 부채 브레이크 개혁은 현 정부 임기 동안 일어나지 않을 것이라고 Bild는보고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551173)
-#### [달 주위를 돌며 수백만 명에게 영감을 주는 흑인 우주비행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551174)
-#### [미국인들은 이란 전쟁, 유가, 그리고 그들의 두려움에 대해 무게를 둡니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551172)
-#### [네덜란드 장갑 제작자 Jeanne Hermans가 할리우드와 그 밖의 지역에서 그녀의 틈새 공예가 어떻게 팔로워를 확보했는지 이야기합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551171)
-#### [보스턴에서 덴버까지, 이란 전쟁으로 인한 연료비 상승으로 미국 운전자들이 연료 소비를 줄였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551168)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EZPW.O/total>
-#### [고령화되는 미국 대법관들에게 은퇴의 정치가 크게 다가옵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551166)
-#### [브라질에 대한 중국의 투자는 발전 댐에서 아이스크림으로 전환하여 소비자를 유혹합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551165)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [마이크로소프트 직원이 개발자에게 CO2 제거 거래를 일시 중지한다고 말하다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551163)
-#### [메르세데스-벤츠 미국, 드라이브 샤프트 유니버설 조인트 문제로 인해 미국 차량 24,092 대 리콜- NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551164)
-#### [독점-이란 소식통, 미국이 카타르와 다른 국가에 보유한이란 자금 동결 해제에 동의했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551162)
-#### [캐세이퍼시픽항공, 제트 연료 가격 급등으로 5월 중순부터 6월 말까지 항공편 감편 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551161)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
-#### [독점-이란 소식통, 미국이 카타르, 다른 은행에서 동결 된이란 자산을 해제하기로 합의했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551159)
-#### [캐세이퍼시픽, 제트 연료 가격 급등으로 5월 중순부터 6월 말까지 항공편 감편 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551160)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
-#### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551158)
-#### [아톰 은행, 최대 10억 파운드에 달하는 잠재적 매각 논의 중 - Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551157)
