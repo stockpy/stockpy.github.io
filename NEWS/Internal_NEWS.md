@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_0512 </title></head>
-<center>Vers : 20260412_0512 </center>
-<center>Vers : 20260412_1412 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_0714 </title></head>
+<center>Vers : 20260412_0714 </center>
+<center>Vers : 20260412_1614 </center>
 <br><br><br>
+#### ["나는 승리하기 위해 여기 있습니다." 헝가리 오르반 총리가 선거 투표 후 한 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551276)
+#### [사우디 아라비아, 동서 송유관의 최대 용량을 700만 배럴로 회복하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551275)
+#### [유럽 연합, 러시아, 미국이 주목하는 획기적인 선거에서 헝가리 국민 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551274)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551273)
+#### [뮤지컬 '패딩턴', 할리우드 스타들이 올리비에 어워즈에서 수상 경쟁을 벌인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551272)
 #### [주목해야 할 요소 - 4월 12일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551270)
 #### [업데이트 1-아이티의 유서 깊은 라페리에르 성채에서 최소 30명의 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551269)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551268)
@@ -58,15 +63,15 @@
 #### [레오 교황, 미국과이란이 회담 시작하면서 '전쟁의 광기'에 종식 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551218)
 #### [메모리얼에 정치범으로 등재된 러시아인, 단식 투쟁에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551219)
 #### [미군, 두 척의 함정이 호르무즈 해협을 통과했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551217)
+<head><meta charset="utf-8"><title>Vers : 20260412_0714 </title></head>
+<center>Vers : 20260412_0714 </center>
+<center>Vers : 20260412_1614 </center>
+<br><br><br>
 #### [영국, 트럼프 반대 후 차고스 제도 양도 계획 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551216)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551215)
 #### [법원은 백악관 연회장 건설을 당분간 계속하도록 허용했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551214)
 #### [브라질 대선 2라운드에서도 룰라와 보우소나루, 다타폴랴 여론조사 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551212)
 #### [국경 지역 주지사는 우크라이나 드론 공격으로 2 명이 부상 당했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551213)
-<head><meta charset="utf-8"><title>Vers : 20260412_0512 </title></head>
-<center>Vers : 20260412_0512 </center>
-<center>Vers : 20260412_1412 </center>
-<br><br><br>
 #### [마크롱 프랑스 대통령은이란 대통령과 회담을 가졌다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551211)
 #### [경마-아이 엠 막시무스, 레드 럼 이후 최초로 그랜드 내셔널 스텝체이스 우승 탈환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551210)
 #### [조종사 노조가 4월 13일, 14일 루프트한자에서 파업을 선언합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551209)
@@ -127,8 +132,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
 #### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551158)
 #### [아톰 은행, 최대 10억 파운드에 달하는 잠재적 매각 논의 중 - Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551157)
-#### [바비스 체코 총리, 투표 앞두고 헝가리 오르반 지지 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551156)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551155)
-#### [영국, 미국의 반대에 차고스 제도 양도 계획 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551154)
-#### [파키스탄에서 열린 미국-이란 협상의 주요 논점은 무엇인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551152)
-#### [인도네시아 프라보워 대통령, 러시아 방문, 푸틴 만나, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551153)
