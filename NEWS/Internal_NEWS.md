@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_2235 </title></head>
-<center>Vers : 20260412_2235 </center>
-<center>Vers : 20260413_0735 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_2306 </title></head>
+<center>Vers : 20260412_2306 </center>
+<center>Vers : 20260413_0806 </center>
 <br><br><br>
+#### [한 주간의 브레이킹뷰: 다시는 실패하기에는 너무 큰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551384)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SATS.O/total>
+#### [NZD/USD 폭락, 미국, 호르무즈 해협 봉쇄 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551381)
+#### [헝가리 오르반, 중도우파 야당에 획기적인 패배를 인정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551383)
+#### [중국 빅토리 자이언트 테크놀로지(후이저우)가 22억 달러 규모의 홍콩 상장을 추진합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551385)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300476.SZ/total>
+#### [호주 증시 상승, 뉴질랜드 증시 하락 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551382)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
+#### [미-이란 평화 회담 실패로 안전자산 선호로 달러 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551379)
+#### [트럼프, 회담 결렬 후이란에 대한 제한적 공격에 무게를 둔다, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551380)
 #### [헝가리 총선 압승 후 축하하는 마자르 총리의 모습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551378)
 #### [GFL, 43 억 달러 이상에 보안 폐기물 구매 계약에 근접 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551377)
 #### [전쟁으로 촉발된 부채 소용돌이가 글로벌 권력을 형성할 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551376)
@@ -56,11 +66,3 @@
 #### [사이클링-반 에르트, 포가카를 앞두고 파리-루베 우승으로 징크스 깨기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551328)
 #### [가자지구 구호 선단, 이스라엘 봉쇄 돌파 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551327)
 #### [분석가, 미-이란 회담 실패 후 재개될 전투 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551326)
-#### [반 에르트, 포가카를 제치고 파리-루베 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551325)
-#### [트럼프는 미국이 호르무즈 해협을 봉쇄하는 데 시간이 좀 걸릴 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551324)
-#### [유망한 초기 데이터를 통해 표적 암 치료의 블록버스터 가능성을 본 GSK](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551323)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3692.HK/total>
-#### [카츠타, 크로아티아에서 우승하고 노빌이 마지막 스테이지에서 추락한 후 WRC 선두로 올라서다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551321)
-#### [로이터 스포츠 일정(GMT/xx ET 기준)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551322)
-#### [이란 전쟁으로 이스라엘은 115 억 달러의 예산 비용을 지출했다고 국방부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551320)
-#### [UKMTO, 예멘 호데이다에서 무장 한 남성을 태운 보트가 항해 선박에 접근했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551319)

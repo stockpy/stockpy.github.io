@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_2235 </title></head>
-<center>Vers : 20260412_2235 </center>
-<center>Vers : 20260413_0735 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_2306 </title></head>
+<center>Vers : 20260412_2306 </center>
+<center>Vers : 20260413_0806 </center>
 <br><br><br>
 #### [“페이로 할게요” 한마디에 심장 철렁…회원수 쭉쭉 빠진다는 카드업계](https://m.stock.naver.com/news/ranknews/view/009/0005664818)
 #### [삼성전자만 있냐? 나도 있다!…올해 2배 올랐는데, 역대급 목표주가 나온 ‘이 회사’ [종목Pick]](https://m.stock.naver.com/news/ranknews/view/016/0002628387)
