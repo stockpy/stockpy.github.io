@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_1640 </title></head>
-<center>Vers : 20260412_1640 </center>
-<center>Vers : 20260413_0140 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_1719 </title></head>
+<center>Vers : 20260412_1719 </center>
+<center>Vers : 20260413_0219 </center>
 <br><br><br>
+#### [헝가리 야당 티자당이 일요일 선거 전 실시한 마지막 중앙 여론조사에서 선두를 달리고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551335)
+#### [랠리-카츠타, 크로아티아에서 우승하고 노빌이 마지막 스테이지에서 추락한 후 WRC 선두로 올라서다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551336)
+#### [이란의 경비대는 해협에 접근하는 군함을 휴전 위반으로 간주합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551334)
 #### [러시아와 우크라이나의 정교회 부활절 휴전 위반 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551333)
 #### [트럼프, 미-이란 평화 회담 실패 후 호르무즈 봉쇄 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551332)
 #### [결선 투표가 임박한 가운데 페루 국민들이 대통령 선거에 투표합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551330)
@@ -65,6 +68,3 @@
 #### [러시아, 우크라이나가 부활절 휴전을 위반하고 있다고 러시아 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551278)
 #### [중국, 야당 지도자 방문 후 대만에 인센티브 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551277)
 #### [사우디아라비아, 공격 후 동서 송유관 최대 용량 700만 배럴로 복구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551279)
-#### ["나는 승리하기 위해 여기 있습니다." 헝가리 오르반 총리가 선거 투표 후 한 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551276)
-#### [사우디 아라비아, 동서 송유관의 최대 용량을 700만 배럴로 회복하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551275)
-#### [유럽 연합, 러시아, 미국이 주목하는 획기적인 선거에서 헝가리 국민 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551274)
