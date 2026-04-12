@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20260411_2303 </title></head>
-<center>Vers : 20260411_2303 </center>
-<center>Vers : 20260412_0803 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_0237 </title></head>
+<center>Vers : 20260412_0237 </center>
+<center>Vers : 20260412_1137 </center>
 <br><br><br>
+#### [일본 소프트뱅크가 국내 AI 개발을 위해 일본에 회사를 설립했다고 닛케이가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551262)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
+#### [밴스, 미국 협상가들이 이란과 합의 없이 돌아올 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551263)
+#### [아이티의 유서 깊은 라페리에르 성채에서 최소 30명이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551261)
+#### [중국은 대만에 대한 위협을 포기해야한다고 미국 외교관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551260)
+#### [아이티의 유서 깊은 라페리에르 성채에서 최소 30명이 숨져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551259)
+#### [아이티의 유서 깊은 라페리에르 성채에서 최소 30명이 숨져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551258)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551256)
+#### [맨해튼 지방 검사, 스왈웰에 대한 성폭행 혐의 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551257)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551255)
+#### [Atco Power Alberta 155MW 배틀 리버 4 석탄 발전소 온라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551254)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551253)
+#### [코스타리카, 미국과의 제3국 협정에 따라 첫 추방 이민자 그룹 수용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551252)
+#### [미-이란 회담, 당분간 중단, 이견 여전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551250)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551251)
+#### [브라질의 룰라, 기마라에스를 기관 관계 장관으로 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551249)
+#### [유럽연합, 러시아, 미국이 주목하는 획기적인 선거에서 헝가리 국민 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551248)
 #### [퓨리가 마흐무도프에게 판정승으로 순항하며 조슈아와의 다음 대결을 원합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551246)
 #### [런던 경찰, 팔레스타인 행동 금지에 항의하는 시위에서 523명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551247)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551245)
@@ -46,6 +63,10 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551207)
 #### [이라크 의회, 이라크의 새 대통령으로 니자르 아메디 선출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551205)
 #### [IPO는 독일-프랑스 패리티를 보장해야한다고 IG Metall의 Kerner는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551203)
+<head><meta charset="utf-8"><title>Vers : 20260412_0237 </title></head>
+<center>Vers : 20260412_0237 </center>
+<center>Vers : 20260412_1137 </center>
+<br><br><br>
 #### [VC 조종사 노조가 4월 13일, 14일 루프트한자에서 파업을 선언합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551204)
 #### [인도, 디젤, 항공 터빈 연료에 대한 수출 관세 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551202)
 #### [레오파드 탱크 제조업체 KNDS의 IPO는 독일과 프랑스의 동등성을 보장해야한다고 IG Metall의 Kerner는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551201)
@@ -62,3 +83,53 @@
 #### [영국 범죄 기관, 해협 보트 횡단에서 4 명이 사망 한 후 수단 남성 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551190)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551187)
 #### [이란, 휴전 약속 존중을 위해 레바논과 접촉, 외무부 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551188)
+#### [우크라이나, 러시아, 부활절 휴전을 앞두고 각각 175명의 군인 교환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551189)
+#### [인도 자동차 허브, 이란 전쟁으로 인한 비용 상승에 항의하는 시위로 최저임금 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551186)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7267.T/total>
+#### [프랑스 마크롱, 터키 에르도안과 이란 휴전, 우크라이나 논의 언급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551185)
+#### [트럼프, 빈 유조선들이 석유와 가스를 싣고 미국으로 향하고 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551184)
+#### [트럼프 대통령은 미국으로 향하는 빈 유조선에 대해 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551183)
+#### [OPG 온타리오 123MW 벡 2 PGS 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551182)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551181)
+#### [영국, 미국의 반대로 차고스 제도 양도 계획 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551180)
+#### [독일 부채 브레이크 개혁은 현 정부 임기 동안 이루어지지 않을 것이라고 Bild가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551179)
+#### [우크라이나는 175 명의 군인과 7 명의 민간인을 러시아에서 집으로 데려온다고 Zelenskiy는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551178)
+#### [러시아, 우크라이나, 포로 교환 실시, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551177)
+#### [미국은이란 자산 동결 해제에 동의하지 않았다고 백악관 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551176)
+#### [우크라이나는 호르무즈 해협에서 유용한 역할을 할 수 있다고 영국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551170)
+#### [미국과 이란이 파키스탄에서 평화 회담을 위해 의구심을 불러일으키고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551167)
+#### [밴스 미국 부통령, 샤리프 파키스탄 총리와 회담 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551175)
+#### [이스라엘 기업 블랙 큐브, '부패 폭로'를 위한 키프로스 스팅 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551169)
+#### [독일 부채 브레이크 개혁은 현 정부 임기 동안 일어나지 않을 것이라고 Bild는보고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551173)
+#### [달 주위를 돌며 수백만 명에게 영감을 주는 흑인 우주비행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551174)
+#### [미국인들은 이란 전쟁, 유가, 그리고 그들의 두려움에 대해 무게를 둡니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551172)
+#### [네덜란드 장갑 제작자 Jeanne Hermans가 할리우드와 그 밖의 지역에서 그녀의 틈새 공예가 어떻게 팔로워를 확보했는지 이야기합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551171)
+#### [보스턴에서 덴버까지, 이란 전쟁으로 인한 연료비 상승으로 미국 운전자들이 연료 소비를 줄였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551168)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EZPW.O/total>
+#### [고령화되는 미국 대법관들에게 은퇴의 정치가 크게 다가옵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551166)
+#### [브라질에 대한 중국의 투자는 발전 댐에서 아이스크림으로 전환하여 소비자를 유혹합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551165)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [마이크로소프트 직원이 개발자에게 CO2 제거 거래를 일시 중지한다고 말하다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551163)
+#### [메르세데스-벤츠 미국, 드라이브 샤프트 유니버설 조인트 문제로 인해 미국 차량 24,092 대 리콜- NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551164)
+#### [독점-이란 소식통, 미국이 카타르와 다른 국가에 보유한이란 자금 동결 해제에 동의했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551162)
+#### [캐세이퍼시픽항공, 제트 연료 가격 급등으로 5월 중순부터 6월 말까지 항공편 감편 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551161)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
+#### [독점-이란 소식통, 미국이 카타르, 다른 은행에서 동결 된이란 자산을 해제하기로 합의했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551159)
+#### [캐세이퍼시픽, 제트 연료 가격 급등으로 5월 중순부터 6월 말까지 항공편 감편 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551160)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
+#### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551158)
+#### [아톰 은행, 최대 10억 파운드에 달하는 잠재적 매각 논의 중 - Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551157)
+#### [바비스 체코 총리, 투표 앞두고 헝가리 오르반 지지 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551156)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551155)
+#### [영국, 미국의 반대에 차고스 제도 양도 계획 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551154)
+#### [파키스탄에서 열린 미국-이란 협상의 주요 논점은 무엇인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551152)
+#### [인도네시아 프라보워 대통령, 러시아 방문, 푸틴 만나, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551153)
+#### [드론 파편이 러시아 크라 스노 다르 지역의 석유 저장소에 떨어지고 화재가 진압되었다고 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551151)
+#### [멕시코 중앙은행, 알도 헤프너 로드리게스를 새 수석 이코노미스트로 임명- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551150)
+#### [파키스탄 외무 장관, 미국과이란이 평화 회담에 건설적으로 참여하기를 희망한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551149)
+#### [이란과의 회담을 위해 파키스탄에 도착한 밴스, 파키스탄 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551147)
+#### [이란의 새로운 최고 지도자는 심각하고 흉한 상처를 입었다 고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551148)
+#### [일본, 칩 제조업체 Rapidus에 40 억 달러 추가 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551146)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6702.T/total>
+#### [이란과의 회담을 위해 미국 비행기를 태운 팀이 이슬라마바드에 착륙했다고 두 파키스탄 소식통이 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551145)
+#### [시테 온타리오 195MW 고어웨이 11 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551144)
