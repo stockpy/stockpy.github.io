@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_1851 </title></head>
-<center>Vers : 20260412_1851 </center>
-<center>Vers : 20260413_0351 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_1932 </title></head>
+<center>Vers : 20260412_1932 </center>
+<center>Vers : 20260413_0432 </center>
 <br><br><br>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551347)
+#### [미국과 이란의 평화 회담 실패 후 달러가 급등합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551346)
+#### [헝가리 야당 티자당이 199석 의회에서 29.2% 개표율로 132석을 확보한 것으로 나타났습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551345)
+#### [로이터 미국 스포츠 일정 4월 13일 일요일 오후 0235시(동부 표준시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551344)
 #### [아일랜드 경찰, 더블린이 연료 가격 타격을 완화하기 위한 조치로 봉쇄 해제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551343)
 #### [스왈웰의 동료 민주당 의원들 중 일부는 성폭행 혐의로 의회를 그만두라고 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551342)
 #### [이란은 미국에 선의를 보여주기위한 좋은 이니셔티브를 가지고 있다고 최고 협상가 칼리 바프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551341)
@@ -62,8 +66,3 @@
 #### [우크라이나 군, 러시아가 토요일 이후 2,299 번 휴전을 위반했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551290)
 #### [인도의 상징적인 가수 아샤 보슬이 뭄바이에서 사망했다고 힌두교가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551287)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551289)
-#### [아일랜드 경찰은 며칠간의 교통 체증 끝에 더블린 중심부에서 연료 시위대를 제거했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551288)
-#### [이란은 2 개월 이내에 대부분의 정제 능력을 회복하는 것을 목표로한다고 석유부 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551284)
-#### [일본 이스즈, 2027 년 도입을 목표로 혼다와 개발 한 연료 전지 트럭 출시 연기, 교도는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551286)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7202.T/total>
-#### [창장제약, 선전 증권거래소 상장 폐지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551285)
