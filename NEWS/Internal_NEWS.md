@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_1038 </title></head>
-<center>Vers : 20260412_1038 </center>
-<center>Vers : 20260412_1938 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_1120 </title></head>
+<center>Vers : 20260412_1120 </center>
+<center>Vers : 20260412_2020 </center>
 <br><br><br>
+#### [중국 체리, 유럽에서 자동차 생산 확대 모색, 최고 경영진은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551303)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002594.SZ/total>
 #### [미국, 러시아, EU가 지켜보는 획기적인 선거에서 헝가리 국민 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551302)
 #### [레너드 그린, 뉴 마운틴으로부터 30억 달러 규모의 건설 컨설팅 회사 인수 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551298)
 #### [영국 리브스, 기업 에너지 비용 지원 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551301)
@@ -65,11 +67,11 @@
 #### [런던 경찰, 팔레스타인 행동 금지에 항의하는 시위에서 523명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551247)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551245)
 #### [러시아의 새로운 우주 발사체가 최종 테스트를 받고 있다고 최고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551244)
-#### [더 큰 스크린, 더 큰 팬덤: 방탄소년단, '아리랑' 투어를 AMC 극장에서 선보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551243)
-<head><meta charset="utf-8"><title>Vers : 20260412_1038 </title></head>
-<center>Vers : 20260412_1038 </center>
-<center>Vers : 20260412_1938 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_1120 </title></head>
+<center>Vers : 20260412_1120 </center>
+<center>Vers : 20260412_2020 </center>
 <br><br><br>
+#### [더 큰 스크린, 더 큰 팬덤: 방탄소년단, '아리랑' 투어를 AMC 극장에서 선보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551243)
 #### [이란, 군함에 호르무즈 해협 통과 금지 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551242)
 #### [트럼프, 중국이이란에 무기를 선적하면 큰 문제가 될 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551240)
 #### [레오 교황, 미국과 이란이 회담 시작하면서 '전쟁의 광기' 종식 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551241)
@@ -130,4 +132,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7267.T/total>
 #### [프랑스 마크롱, 터키 에르도안과 이란 휴전, 우크라이나 논의 언급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551185)
 #### [트럼프, 빈 유조선들이 석유와 가스를 싣고 미국으로 향하고 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551184)
-#### [트럼프 대통령은 미국으로 향하는 빈 유조선에 대해 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551183)
