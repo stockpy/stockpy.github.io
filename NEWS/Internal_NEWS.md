@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_1932 </title></head>
-<center>Vers : 20260412_1932 </center>
-<center>Vers : 20260413_0432 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_2037 </title></head>
+<center>Vers : 20260412_2037 </center>
+<center>Vers : 20260413_0537 </center>
 <br><br><br>
+#### [호주, 리우에서 압도적인 승리로 SailGP 선두를 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551362)
+#### [스왈웰의 동료 민주당 의원들 중 일부가 성폭행 혐의로 의회에서 사퇴할 것을 촉구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551361)
+#### [미국 북서부 강 유량은 97 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551363)
+#### [헝가리 국민들이 친 EU 라이벌로 몰려들면서 16년 만에 축출된 오르반 정권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551360)
+#### [BUZZ-Replay-EUR / USD 1 월 최고치, 스털링의 최고 주, USD / JPY 궤도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551358)
+#### [독일 메르츠가 헝가리에서 승리를 거둔 마자르에게 축하를 전합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551359)
+#### [헝가리의 피터 마자르, 오르반에게 영감을 받아 획기적인 선거에서 오르반을 제압하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551355)
+#### [마크롱 프랑스 대통령이 헝가리 선거에서 승리한 마자르에게 축하의 말을 전했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551356)
+#### [헝가리는 유럽을 선택했습니다, 폰 데어 라이엔은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551357)
+#### [헝가리 총선에서 오르반 총리의 패배 가능성에 대한 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551354)
+#### [업데이트 미/이란 평화 회담 실패로 안전자산 선호 심리가 살아나면서 1달러가 급등했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551353)
+#### ['패딩턴' 뮤지컬, 런던 올리비에 어워즈에서 뮤지컬 부문 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551351)
+#### [2026 올리비에 어워드 수상작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551352)
+#### [헝가리의 중도 우파 도전자 Magyar, 오르반 총리가 선거 승리를 축하한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551348)
+#### [제프리, 주요 시장에서의 성장이 '스타급'에 미치지 못함에 따라 CSL의 PT를 줄입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551349)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551350)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551347)
 #### [미국과 이란의 평화 회담 실패 후 달러가 급등합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551346)
 #### [헝가리 야당 티자당이 199석 의회에서 29.2% 개표율로 132석을 확보한 것으로 나타났습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551345)
@@ -48,21 +64,3 @@
 #### [인도 가수 아샤 보슬, 92세 나이로 사망하며 '특별한' 여정 끝내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551307)
 #### [헝가리 총선에서 유권자의 절반 이상이 1100 GMT까지 투표를 마쳤습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551305)
 #### [필리핀, 중국과의 모든 에너지 거래는 주권을 존중해야한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551304)
-#### [중국 체리, 유럽에서 자동차 생산 확대 모색, 최고 경영진은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551303)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002594.SZ/total>
-#### [미국, 러시아, EU가 지켜보는 획기적인 선거에서 헝가리 국민 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551302)
-#### [레너드 그린, 뉴 마운틴으로부터 30억 달러 규모의 건설 컨설팅 회사 인수 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551298)
-#### [영국 리브스, 기업 에너지 비용 지원 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551301)
-#### [러시아, 잉여가있을 경우 EU에 가스 공급 준비, TASS 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551299)
-#### [크렘린, 러시아가 우크라이나 도네츠크 지역의 17?18 %를 통제 할 수 있다고 TASS가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551297)
-#### [결선 투표가 다가오면서 페루 국민들이 혼잡한 대선 레이스에서 투표합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551300)
-#### [중동 전쟁의 경제적 충격이 IMF, 세계은행 회의에 그림자를 드리우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551296)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551295)
-#### [이란 의회 의장, 미국이 회담에서이란 대표단의 신뢰를 얻지 못했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551294)
-#### [이스라엘의 가자지구 봉쇄를 깨려는 가자지구 구호 선단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551293)
-#### [하이스코 파마슈티컬, 애브비 그룹과 라이선스 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551291)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002653.SZ/total>
-#### [인도의 상징적인 가수 아샤 보슬, 뭄바이에서 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551292)
-#### [우크라이나 군, 러시아가 토요일 이후 2,299 번 휴전을 위반했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551290)
-#### [인도의 상징적인 가수 아샤 보슬이 뭄바이에서 사망했다고 힌두교가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551287)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551289)
