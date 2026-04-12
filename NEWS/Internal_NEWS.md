@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260412_0934 </title></head>
-<center>Vers : 20260412_0934 </center>
-<center>Vers : 20260412_1834 </center>
+<head><meta charset="utf-8"><title>Vers : 20260412_1038 </title></head>
+<center>Vers : 20260412_1038 </center>
+<center>Vers : 20260412_1938 </center>
 <br><br><br>
+#### [미국, 러시아, EU가 지켜보는 획기적인 선거에서 헝가리 국민 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551302)
+#### [레너드 그린, 뉴 마운틴으로부터 30억 달러 규모의 건설 컨설팅 회사 인수 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551298)
+#### [영국 리브스, 기업 에너지 비용 지원 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551301)
+#### [러시아, 잉여가있을 경우 EU에 가스 공급 준비, TASS 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551299)
+#### [크렘린, 러시아가 우크라이나 도네츠크 지역의 17?18 %를 통제 할 수 있다고 TASS가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551297)
+#### [결선 투표가 다가오면서 페루 국민들이 혼잡한 대선 레이스에서 투표합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551300)
+#### [중동 전쟁의 경제적 충격이 IMF, 세계은행 회의에 그림자를 드리우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551296)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551295)
 #### [이란 의회 의장, 미국이 회담에서이란 대표단의 신뢰를 얻지 못했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551294)
 #### [이스라엘의 가자지구 봉쇄를 깨려는 가자지구 구호 선단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551293)
@@ -59,6 +66,10 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551245)
 #### [러시아의 새로운 우주 발사체가 최종 테스트를 받고 있다고 최고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551244)
 #### [더 큰 스크린, 더 큰 팬덤: 방탄소년단, '아리랑' 투어를 AMC 극장에서 선보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551243)
+<head><meta charset="utf-8"><title>Vers : 20260412_1038 </title></head>
+<center>Vers : 20260412_1038 </center>
+<center>Vers : 20260412_1938 </center>
+<br><br><br>
 #### [이란, 군함에 호르무즈 해협 통과 금지 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551242)
 #### [트럼프, 중국이이란에 무기를 선적하면 큰 문제가 될 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551240)
 #### [레오 교황, 미국과 이란이 회담 시작하면서 '전쟁의 광기' 종식 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551241)
@@ -66,10 +77,6 @@
 #### [스웨덴의 아르테미스, 개막 첫날 호주를 제치고 리우에서 열린 세일GP 개막전에서 우승하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551238)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551236)
 #### [맨해튼 지방 검사, 스왈웰에 대한 성폭행 주장 조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551237)
-<head><meta charset="utf-8"><title>Vers : 20260412_0934 </title></head>
-<center>Vers : 20260412_0934 </center>
-<center>Vers : 20260412_1834 </center>
-<br><br><br>
 #### [시테 온타리오 195MW 고어웨이 11 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551235)
 #### [미국 회담의 새로운 라운드가 이슬라마바드에서 시작된다고이란 통신은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551234)
 #### [이스라엘, 네타냐후 동상 폭파에 대해 스페인 질책](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551233)
@@ -124,10 +131,3 @@
 #### [프랑스 마크롱, 터키 에르도안과 이란 휴전, 우크라이나 논의 언급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551185)
 #### [트럼프, 빈 유조선들이 석유와 가스를 싣고 미국으로 향하고 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551184)
 #### [트럼프 대통령은 미국으로 향하는 빈 유조선에 대해 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551183)
-#### [OPG 온타리오 123MW 벡 2 PGS 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551182)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551181)
-#### [영국, 미국의 반대로 차고스 제도 양도 계획 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551180)
-#### [독일 부채 브레이크 개혁은 현 정부 임기 동안 이루어지지 않을 것이라고 Bild가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551179)
-#### [우크라이나는 175 명의 군인과 7 명의 민간인을 러시아에서 집으로 데려온다고 Zelenskiy는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551178)
-#### [러시아, 우크라이나, 포로 교환 실시, 국방부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551177)
-#### [미국은이란 자산 동결 해제에 동의하지 않았다고 백악관 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2551176)
