@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260413_1703 </title></head>
-<center>Vers : 20260413_1703 </center>
-<center>Vers : 20260414_0203 </center>
+<head><meta charset="utf-8"><title>Vers : 20260413_1914 </title></head>
+<center>Vers : 20260413_1914 </center>
+<center>Vers : 20260414_0414 </center>
 <br><br><br>
 #### [“대신 빚 갚아주다가 우리가 망할 판”…‘밑 빠진 독’ 된 기업 보증](https://m.stock.naver.com/news/ranknews/view/009/0005665401)
 #### [“매출 2배 많은데 주가 왜 이래” 삼성전자 시총, TSMC 절반이라니…여전히 저평가, 왜? [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002629035)
