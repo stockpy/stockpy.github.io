@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260413_2242 </title></head>
-<center>Vers : 20260413_2242 </center>
-<center>Vers : 20260414_0742 </center>
+<head><meta charset="utf-8"><title>Vers : 20260413_2329 </title></head>
+<center>Vers : 20260413_2329 </center>
+<center>Vers : 20260414_0829 </center>
 <br><br><br>
+#### [원자재 슈퍼사이클이 시작되었습니다. 투자자들은 어떻게 참여할 수 있을까요? 타오샤 왕](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552838)
+#### [바이오메리카 3분기 순이익 USD -131만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552843)
+#### [ANZ, 중동 공급 손실로 유가 전망 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552840)
+#### [유나이티드 항공 CEO, 라이벌 아메리칸과의 합병 가능성 제시, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552837)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
+#### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552842)
+#### [US 겨울 밀 등급 하락, 옥수수 재배량의 5 %, USDA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552839)
+#### [유나이티드 CEO, 라이벌 아메리칸과의 결합 가능성 시사 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552844)
+#### [브라질 페트로브라스, SEAP I 프로젝트에 대한 최종 투자 결정 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552841)
+#### [라이젠의 채권자, 부채 스왑에서 90 % 지분 요구 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552835)
+#### [투자자들이 미국과 이란의 협상에 대한 희망을 품으면서 월가가 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552833)
+#### [독일 네메첵, 토마 브라보로부터 HCSS 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552836)
+#### [브라질 페트로브라스, 트레스 라고아스 비료 공장 건설 작업 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552834)
 #### [미국 FDA, 희귀 신장 질환 치료제 '트래버러 테라퓨틱스'의 승인 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552830)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TVTX.O/total>
 #### [트라베레 테라퓨틱스, 최초이자 유일한 Fsgs 치료제 필스파리®(스파센탄)의 FDA 최종 승인 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552828)
@@ -63,19 +76,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SHAZ.O/total>
 #### [샤로나이 홀딩스, 엔비디아 주주 현황에 관한 10-K 양식 수정 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552776)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [트럼프, 미셸 스틸 전 의원 주한 미국 대사 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552780)
-#### [샤로나이 홀딩스 - 이사회, 호주 증권거래소에 이중 상장 추진 승인 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552784)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SHAZ.O/total>
-#### [인셉션 그로스 어퀴지션 리미티드, 기업 결합 기간 연장을 위해 신탁 계좌에 추가 출자 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552775)
-#### [베네수엘라의 로드리게스, 농업부 수장에 전 국방부 장관 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552790)
-#### [시장별 1분기 청구액 미화 8,100만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552783)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MKTW.O/total>
-#### [염증성 장 질환 치료제 임상시험에 이어 주식 공모 출시로 버즈-스파이어 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552774)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SYRE.O/total>
-#### [EU, 철강 수입을 거의 절반으로 줄이기로 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552789)
-#### [미국 곡물 바지선 운임 값은? 4월 13일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552779)
-#### [MarketWise, 1분기 청구액 15% 증가로 잠정 발표, 연간 전망 확정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552773)
-#### [더스트포토닉스, 현금 7억 5천만 달러에 인수한 Credo](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552788)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRDO.O/total>
-#### [페트로브라스가 무바달라로부터 브라질 정유공장 매입을 위한 초기 협상을 진행 중이라고 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552778)
-#### [유가는 호르무즈를 통해 '의미있는'교통이 재개 될 때까지 상승 할 가능성이 있다고 미국 에너지 책임자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552787)
