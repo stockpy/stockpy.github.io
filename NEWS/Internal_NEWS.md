@@ -1,7 +1,43 @@
-<head><meta charset="utf-8"><title>Vers : 20260413_2153 </title></head>
-<center>Vers : 20260413_2153 </center>
-<center>Vers : 20260414_0653 </center>
+<head><meta charset="utf-8"><title>Vers : 20260413_2242 </title></head>
+<center>Vers : 20260413_2242 </center>
+<center>Vers : 20260414_0742 </center>
 <br><br><br>
+#### [미국 FDA, 희귀 신장 질환 치료제 '트래버러 테라퓨틱스'의 승인 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552830)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TVTX.O/total>
+#### [트라베레 테라퓨틱스, 최초이자 유일한 Fsgs 치료제 필스파리®(스파센탄)의 FDA 최종 승인 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552828)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TVTX.O/total>
+#### [밴스, 미국이 헝가리 차기 총리와 잘 협력할 것이라 확신한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552832)
+#### [미국 FDA, 희귀 신장 질환 치료제 '트래버러 테라퓨틱스'의 승인 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552829)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TVTX.O/total>
+#### [밴스, 미국이 이란과의 회담에서 많은 진전을 이뤘다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552827)
+#### [트럼프, 베테랑 노동 변호사 영입으로 공화당 NLRB 과반을 채우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552831)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552825)
+#### [농부들이 재배에 집중하면서 옥수수, 대두 기준 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552826)
+#### [트럼프 관리들이 안과 의사 헤 마티를 최고 백신 직책으로 고려하고 있다고 보고서에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552820)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRNA.O/total>
+#### [SQM 경영진은 2026년 탄산 리튬 가격이 약 $15-$18/kg으로 예상합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552824)
+#### [브라질 시렐라: 1분기 매출 48% 감소한 17억 5천만 헤알 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552822)
+#### [밴스, 미국은 이란과의 대화에서 많은 진전을 이뤘다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552819)
+#### [블랙록, 브라질 프리오 지분 7.52%까지 올리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552823)
+#### [수백만 건의 록스타 게임 비즈니스 기록이 도난당했다고 해킹 그룹이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552821)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TTWO.O/total>
+#### [오늘의 거래 - 인수 합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552818)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRDO.O/total>
+#### [러시아 라브로프와 이란의 대응: 싸움이 재개되어서는 안되며 모스크바는 도울 준비가되어 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552816)
+#### [에임 이뮤노텍, 연례 보고에 대한 정기 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552817)
+#### [이익 취하기 위해 집회 후 CME 생우를 끌어 내립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552815)
+#### [금 자원 공사, 백 40 타당성 조사 완료를 위해 SLR과 계약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552811)
+#### [블룸 에너지, 오라클과의 계약 확대로 최대 2.8GW의 연료 전지 공급 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552814)
+#### [알제리, 듀럼 밀을 찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552810)
+#### [미국산 오일 및 지방 - 4월 13일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552813)
+#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552809)
+#### [크루드-서부 캐나다 셀렉트 할인 폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552812)
+#### [일본 닛케이, 캄보디아를 대미 수출을 위한 '전략적 기지'로 주목하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552807)
+#### [미국 증시 상승, 이란 전쟁 협상 기대감에 달러 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552805)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTU.O/total>
+#### [작황이 악화되면서 미국 평야 HRW 밀 현물 기준 입찰가가 보합세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552808)
+#### [최고 유가가 '향후 몇 주 안에'올 가능성이 있다고 미국 에너지 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552806)
+#### [카투러스 에너지, 6억 달러 규모의 선순위 채권 발행 가격 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552804)
 #### [트럼프, 미셸 스틸 전 의원 주한 미국 대사 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552791)
 #### [미국 스왈웰 의원, 성추행 혐의로 의회 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552796)
 #### [브라질의 최고 노동 조사관이 중국 BYD를 '더티리스트'에 추가 한 혐의로 해고되었다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552794)
@@ -43,40 +79,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRDO.O/total>
 #### [페트로브라스가 무바달라로부터 브라질 정유공장 매입을 위한 초기 협상을 진행 중이라고 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552778)
 #### [유가는 호르무즈를 통해 '의미있는'교통이 재개 될 때까지 상승 할 가능성이 있다고 미국 에너지 책임자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552787)
-#### [채텀 숙박 신탁, 2026년 5월 7일 목요일에 개최될 2026년 1분기 수익 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552763)
-#### [민주당, 윤리 조사 시작에 따라 스왈웰에게 의회 사퇴 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552777)
-#### [카지아 테라퓨틱스, 139만 달러 선불로 Setdb1 플랫폼에 대한 글로벌 판권 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552762)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KZIA.O/total>
-#### [블룸 에너지와 오라클, 전략적 파트너십을 확대하여 최대 2.8GW까지 구축하여 인공지능 인프라 구축 가속화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552757)
-#### [에메리타, 데나리우스 메탈로부터 원치 않는 제안서 수신 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552750)
-#### [노바코어, 포버트가 주도하는 초과 배상책임 MGA 세도나 리스크 파트너 출범](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552761)
-#### [소트엑스, 벡투스 신장 항섬유화 자산 인수 완료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552756)
-#### [큐릭 닥터페퍼, 제이디피트 인수 제안 마감 후 접수 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552749)
-#### [오를라 마이닝 - 연간 금 생산 가이던스 340,000?360,000 온스 달성을 위한 순조로운 행보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552754)
-#### [쉐브론, 자산 스왑으로 베네수엘라 중질유 포지션 통합](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552755)
-#### [트럼프, 재무부 국제 업무 책임자로 핌코 임원 에린 브라운 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552748)
-#### [노스웨스트 구리, 최대 1,000만 달러 규모의 사모 투자 유치 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552753)
-#### [스파이어 테라퓨틱스, 자사 보통주 공모 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552767)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SYRE.O/total>
-#### [마라톤 석유 공사, 2026년 4월 7일 50억 달러 규모의 5년 회전 신용 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552747)
-#### [원 앤 원 그린 테크놀로지스. Inc, 1,300만 달러 규모의 후속 투자 모집 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552752)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/YDDL.O/total>
-#### [데이터센트렉스, 2025년 전체 실적 보고에서 전환의 해에 플러스 조정 EBITDA 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552766)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DTCX.O/total>
-#### [다이아몬드백 에너지 - 2026년 1분기 헤지되지 않은 실현 가격 $73.47/Bbl 유가, $0.18/Mcf 가스, $16.68/Bbl Ngls - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552771)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FANG.O/total>
-#### [토마 브라보, 네메첵 그룹의 건축 및 건설 부문과 차세대 글로벌 건설 기술 리더를 만들기 위해 Hcss와 계약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552751)
-#### [콜로라도 양자 산업 리더들이 모여 상용화를 가속화하고 생태계 협력을 촉진하기 위한 간략한 설명회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552765)
-#### [빅토리 캐피털 홀딩스, 2026년 3월 31일 기준 총 자산총액 3098억 달러, 총 고객 자산 3131억 달러 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552770)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VCTR.O/total>
-#### [T 플랫폼의 강점 강조하는 BRIEF-Cema-Cel 중추적 임상시험 중간 데이터 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552764)
-#### [스파이어 테라퓨틱스, 2026년 4월 13일부로 시판용 ATM 투자 설명서 일시 중단 및 종료 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552769)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SYRE.O/total>
-#### [푸르덴셜 파이낸셜, 주주들에게 포템킨 리미티드의 공개매수 제안 거부 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552746)
-#### [UL Solutions Inc. 유로핀스 사이언티픽의 전기 및 전자 사업 인수 계약으로 포트폴리오 확장1](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552759)
-#### [독점-칠레 구리 광산업체 코델코, 치명적인 광산 붕괴 후 계약자들에게 벌금 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552768)
-#### [웹툰엔터테인먼트, 글로벌 성장 전략 가속화를 위한 리더십 변화 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552745)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBTN.O/total>
-#### [Agf 인베스트먼트, 최고투자책임자로 존 포터 영입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552758)
-#### [코파 홀딩스, 2026년 3월 월간 트래픽 통계 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552760)
-#### [넷 파워, 새 최고재무책임자로 리 슈만 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2552744)
