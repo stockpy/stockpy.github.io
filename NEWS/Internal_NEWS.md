@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20260414_2245 </title></head>
-<center>Vers : 20260414_2245 </center>
-<center>Vers : 20260415_0745 </center>
+<head><meta charset="utf-8"><title>Vers : 20260414_2331 </title></head>
+<center>Vers : 20260414_2331 </center>
+<center>Vers : 20260415_0831 </center>
 <br><br><br>
+#### [미군, 동 태평양에서 파업으로 4 명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554493)
+#### [재무장관은이란 전쟁에도 불구하고 올해 미국 성장률이 3 % 또는 3.5 %를 초과 할 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554497)
+#### [중국 구리 소비, 2035 년까지 매년 3.7 % 증가 할 것이라고 Minmetals는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554492)
+#### [쿼드라 캐피탈이 방코 데 브라질리아로부터 30억 달러 규모의 자산을 인수하는 계약에 근접했다고 소식통이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554500)
+#### [독점-트럼프의 아들 에릭, 아버지의 중국 국빈 방문에 합류한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554496)
+#### [BUZZ-재생-호주 시선, 스털링 스탑, USD / JPY 반등, 에테르 네거티브](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554491)
+#### [오르반의 패배로 MAGA 링크에 대한 면밀한 조사 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554499)
+#### [Quasaredge 인수 회사, 주당 10.00 달러에 1억 대의 IPO 가격 책정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554495)
+#### [일본 제조업체의 신뢰도, 중동 우려로 3년 만에 가장 큰 폭 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554498)
+#### [일본 제조업체들의 신뢰도 3개월 만에 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554494)
+#### [미군은 동 태평양에서 파업으로 4 명이 사망했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554489)
+#### [에리카 커크, JD 밴스와의 행사에서 위협으로 철수, 부사장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554486)
+#### [밴스 부통령, 미국과 이란의 불신은 하루아침에 해결될 수 없다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554485)
+#### [알바니아의 아파트 건물에서 발생한 대형 화재와 싸우는 승무원들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554488)
+#### [미국 관세 환경의 변화로 인해 27 회계연도 가이던스 일시 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554484)
+#### [메인 주 입법부, 미국 최초의 빅 데이터 센터 유예 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554490)
+#### [환자 건강 데이터에 대한 무단 액세스 가능성을 경고하는 호주의 EBR 시스템](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554487)
+#### [주주, 페트로브라스 주주총회에 '복수 투표 절차' 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554481)
+#### [이란 여성 학생이 프랑스에서 석방 된 후이란에 도착했다고 국영 TV가 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554482)
+#### [JD 밴스, 미국과 이란의 불신은 하룻밤 사이에 해결될 수 없다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554483)
 #### [월스트리트, 미-이란 회담에 대한 새로운 희망으로 랠리, 수익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554479)
 #### [다이이치 생명, 리스크에 대한 개인 신용 관리자 선정 강화 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554477)
 #### [중국 화친, 홍콩 상장으로 약 5억 8,100만 달러 조달 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554480)
@@ -52,29 +72,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CIIT.O/total>
 #### [월스트리트 최고치 경신, 미-이란 회담 재개 기대감에 유가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554456)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
-#### [옥민 리소스 Inc-베브 포인트 캐피탈 Lp와의 합병 계약 종료-SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554453)
-#### [브로드컴, 메타의 멀티 기가 와트 맞춤형 실리콘, 엠티아를 지원하는 기술 배포를 위해 메타와의 파트너십 확대 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554442)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AVGO.O/total>
-#### [알리멘테이션 쿠쉐타드, 유로화 표시 선순위 무담보채권 사모 공모 가격 책정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554455)
-#### [해밀턴, 식스 스트리트 지원 사상자 재보험 사이드카 설립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554452)
-#### [구글, 독점 혐의로 경쟁 앱스토어 앱토이드에 고소당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554449)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [루프트한자 조종사, 목요일과 금요일 파업, 노조가 중재 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554454)
-#### [OpenAI, 라이벌의 AI 모델 발표 일주일 후 GPT-5.4-Cyber 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554451)
-#### [메타 잉크는 맞춤형 AI 칩을 위해 Broadcom과 협력합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554430)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554429)
-#### [브라질 TIM, 700Mhz 주파수 경매 참여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554433)
-#### [모닝스타, AI 위협에도 불구하고 호주 AUB의 공정가치 추정치 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554428)
-#### [미실현 주식 이익에 힘입어 FRMO Corp, 3분기 흑자 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554432)
-#### [폭스 바겐은 테네시에서 EV 생산을 중단 한 후 1 분기 요금에 직면 해 있다고 분석가들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554431)
-#### [Cematrix, 일반 코스 발행자 입찰 갱신 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554423)
-#### [메타 - 2026년 연례 회의에서 메타 이사회 재선 출마하지 않기로 한 Hock E. Tan 및 Tracey T. Travis - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554424)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [트랙션 우라늄, 최대 C$90,000의 라이프 오퍼링 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554419)
-#### [브룩필드 자산운용, 2031년 만기 채권 5억5천만 달러와 2036년 만기 채권 4억5천만 달러의 재발행 가격 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554422)
-#### [트라베어 테라퓨틱스, 나스닥 상장 규정 5635(C)(4)에 따른 유도 보조금 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554427)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TVTX.O/total>
-#### [2026년 1분기 예상 실현 가격 미국산 유가 $72.50/Bbl, 국제유 $85.70/Bbl](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554418)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/APA.O/total>
-#### [찰스 왕세자, 트럼프 구애와 '가장 가까운 우정' 회복을 위해 미국으로 향하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2554426)
