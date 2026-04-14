@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260414_1916 </title></head>
-<center>Vers : 20260414_1916 </center>
-<center>Vers : 20260415_0416 </center>
+<head><meta charset="utf-8"><title>Vers : 20260414_2054 </title></head>
+<center>Vers : 20260414_2054 </center>
+<center>Vers : 20260415_0554 </center>
 <br><br><br>
 #### [“트럼프가 ‘줍줍’ 기회 줄 때 살걸”…6%오른 하이닉스, 장중 6천피 견인](https://m.stock.naver.com/news/ranknews/view/009/0005665989)
 #### [1년 만에 '3517%' 폭등…젠슨 황 점찍은 '미래 기술' 정체](https://m.stock.naver.com/news/ranknews/view/015/0005274976)
