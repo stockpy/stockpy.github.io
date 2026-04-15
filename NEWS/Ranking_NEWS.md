@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260415_2050 </title></head>
-<center>Vers : 20260415_2050 </center>
-<center>Vers : 20260416_0550 </center>
+<head><meta charset="utf-8"><title>Vers : 20260415_2139 </title></head>
+<center>Vers : 20260415_2139 </center>
+<center>Vers : 20260416_0639 </center>
 <br><br><br>
 #### [“1세대가 훨씬 좋아 보이는데?”…5세대 실손, 갈아타기 유인책 ‘부족’](https://m.stock.naver.com/news/ranknews/view/009/0005666621)
 #### ["카드값 다 갚으니 잔고는 0원인데"...  새벽 2시 나스닥 대폭등에 남몰래 웃는 가장들 [어른의 오답노트]](https://m.stock.naver.com/news/ranknews/view/014/0005508428)
