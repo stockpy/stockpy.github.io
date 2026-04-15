@@ -1,7 +1,42 @@
-<head><meta charset="utf-8"><title>Vers : 20260415_2241 </title></head>
-<center>Vers : 20260415_2241 </center>
-<center>Vers : 20260416_0741 </center>
+<head><meta charset="utf-8"><title>Vers : 20260415_2328 </title></head>
+<center>Vers : 20260415_2328 </center>
+<center>Vers : 20260416_0828 </center>
 <br><br><br>
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556173)
+#### [브라질 브라데스코는 BRB의 Itau 대출 포트폴리오로 구매하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556180)
+#### [멕시코의 페멕스, 해외 바이어를 위한 5월 마야 가격 책정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556176)
+#### [5E 어드밴스드 머티리얼즈, ASX 상장 폐지 신청에 대한 발표가 있을 때까지 거래 중단 요청 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556172)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FEAM.O/total>
+#### [일부 사모 신용 펀드가 개인 투자자들에게 유동성을 잘못 전달했다고 골드만 월드론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556179)
+#### [물류 비용 절감을 위해 집에서 가까운 구리 광산을 찾는 폴란드의 KGHM](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556183)
+#### [펜타곤, 무기 생산 증대를 위해 자동차 제조업체, 제조업체에 접근 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556171)
+#### [에너지 연료, 로스 바푸가 CEO로 임명됐다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556178)
+#### [소프트뱅크 그룹, 미 달러화 및 유로화 표시 선순위 채권 약관 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556182)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
+#### [이란 전쟁 전망에 따라 금리 인상에 반대하는 일본 기업이 더 많아졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556175)
+#### [플라타가 자전거 캐피탈이 주도하는 펀딩에서 50억 달러 가치 평가 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556177)
+#### [일본 카타야마, 미국 베센트와 만나 외환 관련 소통에 합의했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556181)
+#### [수출업체의 요구에 따라 CIF/FOB 걸프만 곡물-옥수수 바지선 입찰가가 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556174)
+#### [엘리엇, 다이킨 지분 인수, 포트폴리오 검토 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556169)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6367.T/total>
+#### [전 브라질 스파이 책임자, ICE 구금 후 미국에서 석방, 볼 소나로 동맹은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556166)
+#### [맘다니, 호철, 50억 달러 이상의 뉴욕 세컨드 하우스에 대한 세금 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556170)
+#### [Gevo, 미국 에너지부 대출 신청 철회하고 SAF 플랜트에 대한 대체 자금 조달 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556168)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GEVO.O/total>
+#### [QVC 그룹, 제11장 - 제소 절차에 따라 자발적 소송 개시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556167)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/QVCGA.O/total>
+#### [시버스 반도체, 나스닥 뉴욕 이중 상장 가능성 공동 평가 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556164)
+#### [외국인이 2월 미국 국채 보유량을 사상 최고치로 늘렸습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556165)
+#### [디자이너 브루넬로 쿠치넬리, 자신의 삶을 기록한 영화 개봉](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556163)
+#### [비리디안, 아웃사이드 더 박스 캐피털과 마켓 서비스 계약 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556162)
+#### [윌던, 뉴욕시 액셀러레이터 프로그램 재설계 및 구현을 위한 2,700만 달러 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556157)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WLDN.O/total>
+#### [미국 에너지부 장관, 하원 청문회에 출석 1](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556159)
+#### [시버스반도체, 약 125마르크에 달하는 자사주 직접 발행 결의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556161)
+#### [우크라이나 투자 펀드가 여름에 두 번째 프로젝트를 승인 할 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556156)
+#### [브라질, 법원이 명령한 부채의 39%를 2027년 재정 목표에 포함시키기로 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556160)
+#### [생우 선물은 시장이 사상 최고치를 기록한 후 안정세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556155)
+#### [스웨덴 포스 마크 블록 1 G11 원자로, 예기치 않은 정전 발생 - 전력 거래소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556158)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556152)
 #### [캐나다, 대규모 인공지능 슈퍼컴퓨팅 역량 구축을 위한 국가 이니셔티브 출범](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556145)
 #### [채무 협상에서 목소리를 높이기 위한 국채권자 플랫폼 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556151)
@@ -39,41 +74,3 @@
 #### [베센트는 미국이이란 석유 구매자에게 2차 제재를 가할 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556106)
 #### [에메리타, 누에보 틴티요 부동산 허가 갱신 및 이사회 변경 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556118)
 #### [하이브 디지털 테크놀로지스, 2031년 만기 7500만 달러 규모의 교환 가능 선순위 채권 사모 발행 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556115)
-#### [마이세움은 새로운 이름인 Myseum.Ai, Inc로 운영됩니다. 4월 15일 발효](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556105)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MYSE.O/total>
-#### [Mainz Biomed NV, 2026년 4월 9일 차세대 IP 매각을 위한 자산 매입 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556117)
-#### [휴마나 - 2026 년 7 월 31 일 지급 가능한 주당 $ 0.885의 QTRLY 현금 배당금 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556114)
-#### [다이 킨 인더스트리, 주식 회사에 대한 간략한 엘리엇 경영 성명서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556112)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6367.T/total>
-#### [기가 메탈, 비중개 사모 발행 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556116)
-#### [얼라이언트와 선 컨트리, 도트 승인으로 주요 규제 이정표 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556113)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ALGT.O/total>
-#### [신용 회사, 2026년 3월 순자산 가치 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556111)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OCCI.O/total>
-#### [블루문, 누시르의 초기 심부 시추 단계 결과 발표, 인필 시추를 통한 자원 신뢰도 증가로 보완](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556139)
-#### [파 테크놀로지, 보스 캐피탈과 이사회 옵저버 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556110)
-#### [매디슨 에어, 기업공개 가격 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556138)
-#### [요크 워터 컴퍼니, 보통주 공모 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556133)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/YORW.O/total>
-#### [큐뮬러스 미디어, 법원으로부터 조직 개편 계획 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556109)
-#### [에퀴티 레지덴셜, 4월 13일 집단 소송에서 지명된 원고들과 합의 합의 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556137)
-#### [오웬스 코닝 - 약 1억 4천만 달러의 Gr 사업 매각으로 인한 추가 손실 인식 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556132)
-#### [프린세스 크루즈, 보이저 클래스 주문 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556121)
-#### [접이식 상자 공간 내에서 인수 기회를 적극적으로 평가하는 Dss Inc의 개요](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556136)
-#### [Ecolab Inc - 2026 년 4 월 10 일 47 억 5 천만 달러의 무담보 기간 대출 신용 시설에 진입 - SEC 파일링](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556131)
-#### [렌사, 2026년 5월 8일부로 토마스 R. 스타브, 최고재무책임자(CFO) 사임 - SEC 파일링](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556120)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LNSR.O/total>
-#### [케어덱스, 유로바이오사이언티픽에 1억7000만달러에 실험실 제품 사업 매각 계약 체결 및 1분기 잠정 재무 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556126)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CDNA.O/total>
-#### [인제비티, 오자크 머티리얼즈 도로 표식 사업부 Ppg에 매각하고 전략적 집중 강화 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556104)
-#### [Ppg, 포장 마킹 제조업체 오자크 머티리얼즈 인수, Llc](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556078)
-#### [BMO, 이사회 선출 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556099)
-#### [오웬스코닝, 프라나 그룹과 유리 보강재 사업 매각을 위한 수정 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556096)
-#### [듀폰, 보통주에 대한 정기 분기 배당 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556077)
-#### [시네버스, 션 맥케이브 CFO 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556098)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CNVS.O/total>
-#### [골드만 삭스 프라이빗 크레딧 코퍼레이션, 2031년 4월 14일 만기 6.150% 채권 7억5000만 달러 공모 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556095)
-#### [칼라일 시큐어드 렌딩, Inc. 2026년 3월 31일로 마감된 1분기 실적 발표 및 분기별 실적 발표 콘퍼런스콜 일정 잡기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556089)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CGBD.O/total>
-#### [임페리얼 스테이트 리얼티 운영 회사, 2032년 7월 15일 만기 1억 3천만 달러 규모의 5.99% 시리즈 M 선순위 채권 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556086)
-#### [프레디 맥 멀티패밀리, 천만 달러 미만 대출을 위한 통합형 일반 소액 상품 출시 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2556094)
