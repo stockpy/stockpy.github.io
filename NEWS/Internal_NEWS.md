@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260416_2240 </title></head>
-<center>Vers : 20260416_2240 </center>
-<center>Vers : 20260417_0740 </center>
+<head><meta charset="utf-8"><title>Vers : 20260416_2325 </title></head>
+<center>Vers : 20260416_2325 </center>
+<center>Vers : 20260417_0825 </center>
 <br><br><br>
+#### [중국이 다시 돌아오다? 이보다 더 좋은 타이밍은 없을 것입니다: Stephen Jen](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557901)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002594.SZ/total>
+#### [IMF, 베네수엘라와의 거래 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557899)
+#### [NZD/USD가 안정세를 보이고, USD는 마침내 지지선을 찾았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557902)
+#### [S&P 500, 나스닥, 중동 기대감에 신기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557900)
+#### [Vale의 1분기 철광석 생산량 3% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557898)
+#### [덴버 너게츠, 11월 멕시코시티 NBA 경기에서 인디애나 페이서스와 맞대결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557897)
+#### [호주 라 트로브 파이낸셜의 소수 지분을 브룩필드에서 22억 달러에 인수하기로 결정했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557896)
+#### [독점-미국, 이란 전쟁으로 일부 유럽 국가에 무기 인도 지연, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557893)
+#### [QVC 그룹, 대다수 대주단과 구조조정 지원 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557891)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/QVCGA.O/total>
+#### [미디어 배달 스타트업 원더, 프리 IPO 라운드 준비 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557895)
+#### [유럽, 아시아 가격 급등으로 인한 가격 충격으로부터 미국 화물의 충분한 공급 완충 효과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557892)
+#### [아르테미스 우주비행사, 승무원들의 불타는 지구 귀환 중 열차폐막에 탄 자국을 설명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557890)
+#### [의원들은 석탄 발전소를 계속 가동하도록 강요 한 미국 에너지 장관을 비판합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557894)
 #### [센터포인트 에너지, 마이클 A. "케이시" 허먼을 이사회에 임명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557887)
 #### [OpenAI, 생명과학 연구를 위한 AI 모델 GPT-Rosalind 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557884)
 #### [그레이 울프 동물 건강, 4분기 및 2025년 연말 재무 결과 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557889)
@@ -55,16 +70,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LFVN.O/total>
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557849)
 #### [WaFd 2분기 희석 주당순이익 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557837)
-#### [Kone, Tk 엘리베이터 인수를 위한 사전 협의 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557841)
-#### [멕시코 페멕스, 툴라 정유소의 수소 탈황 공장에서 '경미한 사고'가 발생하여 즉시 해결했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557848)
-#### [크루드-서부 캐나다 셀렉트 할인 폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557851)
-#### [노르웨이의 Gassco, 계획되지 않은 가스 공급 중단을 수정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557847)
-#### [독점-발레로, 폭발 후 텍사스 주 포트 아서 정유소 부분 재가동, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557850)
-#### [노르웨이 가스공사, 노르네 가스전에서 4월 17일 0400시부터 4월 18일 0400시까지 하루 -2.7밀리미터/일의 정전 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557846)
-#### [포트폴리오 매니저, '소프트웨어의 복수' 주가에 힘을 실어주는 실적 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557820)
-#### [노르웨이의 Gassco, 계획되지 않은 가스 공급 중단을 수정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557828)
-#### [차트웰, 팔레르모 빌리지 은퇴자 거주지 인수로 오크빌에서 입지 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557835)
-#### [아르헨티나 중앙은행, 준비금 규정 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557824)
-#### [노르웨이의 Gassco, 계획되지 않은 가스 공급 중단을 수정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557827)
-#### [미국 곡물 바지선 운임 값은? 4월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557834)
-#### [미국 설탕 생산업체들, 정부에 수입 제한 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2557823)
