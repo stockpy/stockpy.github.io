@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260416_1715 </title></head>
-<center>Vers : 20260416_1715 </center>
-<center>Vers : 20260417_0215 </center>
+<head><meta charset="utf-8"><title>Vers : 20260416_1915 </title></head>
+<center>Vers : 20260416_1915 </center>
+<center>Vers : 20260417_0415 </center>
 <br><br><br>
 #### ["이게 다 얼마야" 1년 굴렸더니 '수익률 188%'...연금개미 우르르](https://m.stock.naver.com/news/ranknews/view/008/0005345385)
 #### [“단 하루 만에 582% 폭등”…신발 팔다 말고 ‘AI’ 선언하더니 ‘불기둥’ 세운 이 회사](https://m.stock.naver.com/news/ranknews/view/011/0004611389)
