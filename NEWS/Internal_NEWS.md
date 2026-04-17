@@ -1,89 +1,77 @@
-<head><meta charset="utf-8"><title>Vers : 20260417_2128 </title></head>
-<center>Vers : 20260417_2128 </center>
-<center>Vers : 20260418_0628 </center>
+<head><meta charset="utf-8"><title>Vers : 20260417_2239 </title></head>
+<center>Vers : 20260417_2239 </center>
+<center>Vers : 20260418_0739 </center>
 <br><br><br>
-#### [연방준비은행 이벤트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559329)
-#### [패트릭 인더스트리, Inc. 잠재적 인수합병과 관련하여 Lci 인더스트리와 논의 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559320)
-#### [셀라니즈, 엔지니어링 소재 가격 인상 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559315)
-#### [Dws, 두 개의 엑스트랙커 ETF 청산 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559324)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CA.O/total>
-#### [밈 주식의 부흥은 '정의하는 거래'로서 AI를 반영합니다." 투자자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559319)
-#### [버투스 배당, 이자 및 프리미엄 전략 펀드, 공개매수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559314)
-#### [소우 굿, 15 대 1의 역 주식 분할 발표 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559323)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SOWG.O/total>
-#### [간략한 프리캐스트, 주주 매각을 통해 최대 575만 주의 클래스 A 보통주 재판매 등록- SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559328)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CAST.O/total>
-#### [Mobia Medical Inc - 보통주 기업 공개 발표 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559322)
-#### [Rpx Gold, 이전에 발표 한 "Best Efforts"라이프 오퍼링의 규모를 C $ 12,300,000로 상향 조정하고 사모 배치 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559327)
-#### [블루 아울 공동 CEO, 주식 폭락으로 담보로 제공한 주식 처분, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559332)
-#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559321)
-#### [블랙스톤이 지원하는 미국 IPO를 위한 Liftoff 파일 업데이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559326)
-#### [법무부의 계란 생산자에 대한 잠재적 인 소송에 대한 보도 이후 BUZZ-Cal-Maine Foods 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559331)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CALM.O/total>
-#### [유가 상승으로 정부 자금 지원을 모색하는 Spirit Airlines, Air Current 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559325)
-#### [법무부, 반독점 소송에서 미국 주요 계란 생산업체를 표적으로 삼았다고 WSJ이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559318)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CALM.O/total>
-#### [미국 곡물 바지선 운임 값은? 4월 17일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559316)
-#### [Fed의 월러는 전쟁이 빨리 끝나면 올해 금리 인하가 여전히 가능하다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559330)
-#### [호르무즈 해협 개방 선언으로 유가가 하락하면서 미국 증시-월스트리트 지수가 사상 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559317)
+#### [호르무즈 해협 개방으로 유가가 하락하면서 월스트리트 지수가 랠리를 펼칩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559389)
+#### [얼라이언스번스타인 전국 지자체 소득 펀드, Inc. 및 얼라이언스번스타인 글로벌 하이 인컴 펀드, Inc. 에퀴터블과 코어브리지의 합병 계획에 관한 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559383)
+#### [튀니지 선택적 원산지 옥수수 입찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559393)
+#### [아메리칸 항공의 간략한 성명서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559388)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
+#### [필립스 66, 분기 배당금 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559382)
+#### [아메리칸 항공, 유나이티드 항공과의 합병 협상 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559392)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
-#### [머스크의 SpaceX, 캘리포니아 기관의 보복 비난 소송 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559285)
-#### [일본 소규모 자본화 펀드, Inc. 이사회, 조건부 공개매수 진행 결정 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559307)
-#### [리페이, 포레이저 캐피털 매니지먼트로부터 요청하지 않은 구속력 없는 제안서 수령 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559308)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RPAY.O/total>
-#### [스마트켐, 키스톤 캐피탈 파트너스에 최대 1억4680만 보통주 발행 및 매각 가능 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559284)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMTK.O/total>
-#### [아제누스, Pd-1 불응성 위식도암에서 보텐실리맙, 발스틸리맙 및 에이전트-797을 통한 면역 재프로그래밍과 지속적 생존을 입증하는 임상 2상 데이터 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559306)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AGEN.O/total>
-#### [한국, 장관의 북핵 발언에 대한 미국 항의에 대해 알지 못한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559297)
-#### [Fermi Inc - 토비 노이그바우어, 2026년 4월 17일부로 CEO에서 퇴임 - SEC 파일링](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559283)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FRMI.O/total>
-#### [독점-미 연준은 대형 은행들에게 새로운 자본 규칙에 대해 공격적으로 반발하지 말라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559292)
-#### [무디스, 벨기에 신용등급을 A1으로 하향 조정하고 전망은 '안정적'으로 변경](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559296)
-#### [독시미티, 2026년 4월 13일부로 최고재무책임자 사임 - SEC 파일링](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559313)
-#### [CBOT와 K.C. 밀은 차익 실현으로 하락하고 날씨 걱정은 지속됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559291)
-#### [주주 매각을 통한 보통주 최대 1,000만 주 재판매 등록 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559295)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RIME.O/total>
-#### [Amc 엔터테인먼트 홀딩스, Inc. 자회사 오데온 핀코 PLC, 4억2500만 달러의 기간 대출 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559304)
-#### [트리 아일랜드 스틸, 연례 주주총회 관련 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559312)
-#### [퀄컴, 주주들에게 투타노타의 미니 공개매수 제안 거부 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559294)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/QCOM.O/total>
-#### [PTC 테라퓨틱스, 나스닥 상장 규정 5635(C)(4)에 따른 유도 보조금 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559303)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PTCT.O/total>
-#### [Liftoff Mobile Inc - 기업 공개 파일 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559311)
-#### [제트블루항공, 5억 달러 규모의 부채 금융 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559305)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/JBLU.O/total>
-#### [법무부, 계란 생산업체에 대한 반독점 소송 제기에 임박 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559302)
-#### [세레브라스 시스템 파일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559310)
-#### [보레알리스 식품 - 4월 13일, 2026년 4월 9일 마일스톤을 충족하지 못한 것에 대한 불이행 통지 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559287)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BRLS.O/total>
-#### [Defi Development Corp - 최대 10억 달러의 보통주, 우선주, 워런트, 채무 증권, 유닛에 대한 투자 설명서 제출 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559278)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DFDV.O/total>
-#### [퍼미안빌 로열티 트러스트, 월별 현금 분배 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559309)
-#### [제나스 바이오파마, 나스닥 상장 규정 5635(C)(4)에 따른 인센티브 보조금 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559286)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ZBIO.O/total>
-#### [스쿨락, 나스닥 상장 규정 5635(C)(4)에 따른 신규 직원 장려금 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559277)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SRRK.O/total>
-#### [은행 오브 아메리카, 2026년 5월과 6월에 우선주 배당금 지급 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559300)
-#### [펀드 청산을 위한 펀드 정량화 Stkd 100% Nvda & 100% AMD ETF (Lays)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559282)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LAYS.O/total>
-#### [이란이 호르무즈 해협을 개방하면서 캐나다 증시-TSX가 4주 연속 상승세를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559276)
-#### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
-#### [오디세이 테라퓨틱스, 보통주 기업공개 발표 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559299)
-#### [Evommune Inc - 주주 매각을 통해 최대 450 만주의 Evommune 보통주 재판매를위한 안내서 제출 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559281)
-#### [탈렌 에너지, 선순위 채권 가격 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559290)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TLN.O/total>
-#### [9월 기준 2,060만 명에게 제공된 미국 HIV 원조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559298)
-#### [시스코, 분기 배당금 인상 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559280)
-#### [K 양식 제출 지연에 관한 나스닥 통지서 접수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559289)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CELU.O/total>
-#### [무디스, 리투아니아의 A2 신용등급, 안정적 전망 유지 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559293)
-#### [신화는 심각한 위협이지만 더 많은 것이 뒤따를 것이라고 Barclays CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559279)
-#### [블랙스톤의 지원을 받는 Liftoff, 미국 기업공개 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559288)
-#### [Capsovision Inc - 주주 매각을 통한 보통주 2,867,089주 재판매 안내서 제출 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559269)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CV.O/total>
-#### [US 주식: 랠리가 계속됩니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559301)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOOD.O/total>
-#### [베라 브래들리, 기존 주주 권리 계획 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559256)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VRA.O/total>
-#### [테리바 바이오로직스, 전이성 췌장암 환자를 대상으로 한 Vcn-01의 비라지 2B상 임상시험 추가 데이터 발표 예정이라고 Aacr 2026 연례 회의에서 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559268)
+#### [트럼프, 이란과 큰 차이가 없다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559387)
+#### [OPG 온타리오 143MW 디큐폴스 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559391)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559386)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559381)
+#### [아메리칸 항공, 유나이티드 항공과 합병 협상 중임을 부인하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559390)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
+#### [세계은행, 소규모 국가들의 도전 과제 해결을 위한 새로운 전략 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559385)
+#### [트럼프, 이란 협상에서 돈이 바뀌지 않을 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559384)
+#### [암윈스 프로그램 언더라이터, 새로운 내륙 해양 계약자의 장비 보장을 위한 센트리 용량 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559376)
+#### [옥수수 바지선 기준 양호한 수요로 꾸준히 상승, 대두 입찰 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559379)
+#### [모닝스타 DBRS, 이탈리아 신용등급 A(낮음), 안정적 추세 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559377)
+#### [미국, 리쇼어링 가속화를 위해 자동차 수입 규정 강화 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559375)
+#### [독점-미 연준은 대형 은행들에게 새로운 자본 규칙에 대해 공격적으로 반발하지 말라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559378)
+#### [프랑스, 다른 세계은행 주주들이 기후 전략 보존을 위한 해법 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559380)
+#### [유타 판사, 타일러 로빈슨의 법정 내 TV 금지 요청에 무게 실어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559374)
+#### [골드만, 석유 수요 약화 전망, 2026년 가격 전망에 양면 위험 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559372)
+#### [브라질 법원, 일부 기업에 대한 석유 수출세 유예를 뒤집다, Valor 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559373)
+#### [라이브 네이션, 공연장에 묶인 7억 4,200만 달러의 민간 부채 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559371)
+#### [필립 모리스 인터내셔널, 미국 FDA, 아이코스의 변형 위험 담배 제품 재승인 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559365)
+#### [매나테크, 4분기 및 연간 재무 결과 발표?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559370)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MTEX.O/total>
+#### [무디스, 중동 분쟁으로 인한 신용 프로필 위험으로 이라크의 전망을 '부정적'으로 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559364)
+#### [노르웨이의 Gassco는 4월 17일 2141시부터 4월 18일 0400시까지 하루 -8.7밀리미터의 정전을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559369)
+#### [밀 선물은 미국 작황 부진으로 랠리 후 후퇴합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559367)
+#### [미국 정부, 2025년 9월 30일 기준 50개국 이상에서 2,060만 명에게 HIV 치료 지원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559363)
+#### [Wm Technology, Inc. 2026년 1분기 잠정 재무 실적 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559366)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MAPS.O/total>
+#### [아르베, 나스닥으로부터 최저 입찰가 미달에 관한 통지서 수령 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559362)
+#### [Lci 인더스트리즈, 패트릭 인더스트리즈와의 잠재적 합병에 관한 논의 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559368)
+#### [Amanat 인수, 750만 주 보통주에 대해 7,500만 달러의 IPO를 신청 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559353)
+#### [로켓 닥터, 45도 계약 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559355)
+#### [미 재무부 장관 베센트, 금요일 백악관 참모장 와일즈와 앤트로픽 CEO 아모데이 악시오스 간 회의에 참여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559361)
+#### [Cvb Financial Corp. 헤리티지 커머스 코퍼레이션과의 합병 완료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559358)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CVBF.O/total>
+#### [소노마 제약 - 총 수익금 5 백만 달러에 대한 공모에서 유닛 제공 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559354)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SNOA.O/total>
+#### [퓨즈머신, 로스 프린시펄 인베스트먼트와 주식 매입 및 등록권 계약 체결 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559360)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FUSE.O/total>
+#### [트럼프, 외상 후 스트레스 장애 치료에 사용되는 환각제에 대한 규제 완화 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559357)
+#### [모터스포츠 게임즈, 정족수 부족으로 2026년 4월 17일 연례 회의 휴회 - SEC 파일링](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559352)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSGM.O/total>
+#### [파워 인테그레이션스, 나스닥 상장 규정 5635(C)(4)에 따른 인센티브 보조금 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559359)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/POWI.O/total>
+#### [사바 캐피탈, 버투스 배당, 이자 및 프리미엄 전략 펀드와 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559356)
+#### [메사 로열티 트러스트, 2026년 4월 신탁 수익 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559351)
+#### [미국 IPO를 위한 글로벌 의료 대응 파일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559350)
+#### [Fervo Energy 미국 IPO 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559337)
+#### [농구-브라질의 거장 슈미트, 68세로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559335)
+#### [증시 사상 최고치 경신, 미-이란 평화 협상 기대감에 유가 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559343)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
+#### [클래스 A 보통주 IPO에 대한 간략한-GMR 솔루션 Inc 파일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559349)
+#### [인공지능에 대한 과도한 투자가 다른 산업을 외면할 위험이 있다고 투자자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559334)
+#### [미국 IPO를 위한 글로벌 의료 대응 파일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559342)
+#### [재귀적 슈퍼인텔리전스, 자가 학습 AI를 위해 5억 달러 모금 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559348)
+#### [트럼프, 국세청, 미국 대통령의 100 억 달러 소송 해결을 위해 협상 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559340)
+#### [이란, 호르무즈 해협 개방, 트럼프는 전쟁 종식을위한 '곧'협상을 본다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559341)
+#### [에디 특허 홀딩스가 제기한 소송은 운영, 전략적 파트너십 또는 진행 중인 프로젝트에 영향을 미치지 않습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559347)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CJMB.O/total>
+#### [소우 굿 Inc. 역 주식 분할 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559339)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SOWG.O/total>
+#### [블랙 아이언, 라이프 오퍼링 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559345)
+#### [Fervo Energy Co - 회사, 클래스 A 보통주 기업 공개 발표 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559346)
+#### [이란, 호르무즈 해협 개방, 트럼프는 전쟁 종식을위한 '곧'협상을 본다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559338)
+#### [독점 Vivere 파트너스, 뮌헨 리 및 스코르의 지원을 받아 암윈스 유통을 지원하는 캘리포니아 페어 플랜 랩 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559344)
+#### [트럼프는 이란과 큰 차이가 없다고 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559333)
