@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260417_1706 </title></head>
-<center>Vers : 20260417_1706 </center>
-<center>Vers : 20260418_0206 </center>
+<head><meta charset="utf-8"><title>Vers : 20260417_1901 </title></head>
+<center>Vers : 20260417_1901 </center>
+<center>Vers : 20260418_0401 </center>
 <br><br><br>
 #### [어쩐지 잘 나가더니…“SK하닉 제치고 쓸어 담았다” 상위 1% 고수들 몰린 ‘이 종목’](https://m.stock.naver.com/news/ranknews/view/011/0004611946)
 #### [뜻밖의 호재에 주가 7% 넘게 '급등'…연기금도 쓸어 담았다 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005276504)
