@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260417_2239 </title></head>
-<center>Vers : 20260417_2239 </center>
-<center>Vers : 20260418_0739 </center>
+<head><meta charset="utf-8"><title>Vers : 20260417_2324 </title></head>
+<center>Vers : 20260417_2324 </center>
+<center>Vers : 20260418_0824 </center>
 <br><br><br>
+#### [업데이트 1-농구-브라질의 위대한 슈미트, 68세로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559403)
+#### [미국 판사, 존슨 앤 존슨 전립선 암 약물 청구를 차단하려는 바이엘의 입찰 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559402)
+#### [법무부, 반독점 소송에서 미국 주요 계란 생산업체를 표적으로 삼았다고 WSJ이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559401)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CALM.O/total>
+#### [걸프만 연안 일반 휘발유 상승, 시카고 CBOB는 신중한 현물 시장 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559399)
+#### [감시 단체, 오하이오 열차 참사와 관련된 식품 안전 기록에 대해 USDA에 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559397)
+#### [트럼프는 UFO 검토에서 '흥미로운' 문서를 발견했다고 말했습니다,](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559395)
+#### [Gfm, 자회사 매각 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559398)
+#### [이베로, 비중개 사모 투자 모집 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559396)
+#### [엔에릭 바이오사이언스, 나스닥 규정에 따라 최대 1,390만 달러 규모의 사모 투자 유치 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559400)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ENVB.O/total>
+#### [인도 대서사시 '라마야나'를 영화화한 영화, 전 세계 관객을 겨냥하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559394)
 #### [호르무즈 해협 개방으로 유가가 하락하면서 월스트리트 지수가 랠리를 펼칩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559389)
 #### [얼라이언스번스타인 전국 지자체 소득 펀드, Inc. 및 얼라이언스번스타인 글로벌 하이 인컴 펀드, Inc. 에퀴터블과 코어브리지의 합병 계획에 관한 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559383)
 #### [튀니지 선택적 원산지 옥수수 입찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559393)
@@ -63,15 +75,3 @@
 #### [클래스 A 보통주 IPO에 대한 간략한-GMR 솔루션 Inc 파일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559349)
 #### [인공지능에 대한 과도한 투자가 다른 산업을 외면할 위험이 있다고 투자자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559334)
 #### [미국 IPO를 위한 글로벌 의료 대응 파일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559342)
-#### [재귀적 슈퍼인텔리전스, 자가 학습 AI를 위해 5억 달러 모금 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559348)
-#### [트럼프, 국세청, 미국 대통령의 100 억 달러 소송 해결을 위해 협상 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559340)
-#### [이란, 호르무즈 해협 개방, 트럼프는 전쟁 종식을위한 '곧'협상을 본다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559341)
-#### [에디 특허 홀딩스가 제기한 소송은 운영, 전략적 파트너십 또는 진행 중인 프로젝트에 영향을 미치지 않습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559347)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CJMB.O/total>
-#### [소우 굿 Inc. 역 주식 분할 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559339)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SOWG.O/total>
-#### [블랙 아이언, 라이프 오퍼링 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559345)
-#### [Fervo Energy Co - 회사, 클래스 A 보통주 기업 공개 발표 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559346)
-#### [이란, 호르무즈 해협 개방, 트럼프는 전쟁 종식을위한 '곧'협상을 본다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559338)
-#### [독점 Vivere 파트너스, 뮌헨 리 및 스코르의 지원을 받아 암윈스 유통을 지원하는 캘리포니아 페어 플랜 랩 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559344)
-#### [트럼프는 이란과 큰 차이가 없다고 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559333)
