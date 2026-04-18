@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260418_2235 </title></head>
-<center>Vers : 20260418_2235 </center>
-<center>Vers : 20260419_0735 </center>
+<head><meta charset="utf-8"><title>Vers : 20260418_2307 </title></head>
+<center>Vers : 20260418_2307 </center>
+<center>Vers : 20260419_0807 </center>
 <br><br><br>
 #### [하룻밤 새 11% 급락…투심 역시 "전면개방"](https://m.stock.naver.com/news/ranknews/view/215/0001249422)
 #### ["내 사망보험금 40억은…" 20대 딸 키우는 엄마의 결단](https://m.stock.naver.com/news/ranknews/view/015/0005276578)
