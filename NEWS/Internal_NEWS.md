@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260418_2106 </title></head>
-<center>Vers : 20260418_2106 </center>
-<center>Vers : 20260419_0606 </center>
+<head><meta charset="utf-8"><title>Vers : 20260418_2235 </title></head>
+<center>Vers : 20260418_2235 </center>
+<center>Vers : 20260419_0735 </center>
 <br><br><br>
+#### [북한, 탄도 미사일로 의심되는 발사, 일본 해안 경비대는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559571)
+#### [DRC 정부, 반군, 구호 호송을위한 여행 완화, 민간인 공격 자제에 동의, 미국 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559570)
 #### [테슬라, 휴스턴 달라스까지 로봇택시 서비스 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559569)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
 #### [모터 레이싱-베르슈타펜이 출전한 뉘르부르크링 레이스에서 사망자 1명, 부상자 6명 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559568)
@@ -64,5 +66,3 @@
 #### [UKMTO, 오만 인근 유조선 사고 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559514)
 #### [멕시코, 8년 만의 대통령 방문으로 스페인과의 관계 회복](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559513)
 #### [UNIFIL, 레바논 남부에서 평화 유지군 1 명 사망, 3 명 부상당한 '고의적 공격'을 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559512)
-#### [TA 어소시에이츠의 영국 첨단 의료 솔루션에 대한 6억 파운드 입찰, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559510)
-#### [맥쿼리 온타리오 184MW 카디널 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559508)
