@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260418_1722 </title></head>
-<center>Vers : 20260418_1722 </center>
-<center>Vers : 20260419_0222 </center>
+<head><meta charset="utf-8"><title>Vers : 20260418_1852 </title></head>
+<center>Vers : 20260418_1852 </center>
+<center>Vers : 20260419_0352 </center>
 <br><br><br>
+#### [미국 북서부 강 유량은 95 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559555)
+#### [최종 개표 후 헝가리에서 마자르의 의회 과반수 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559554)
+#### [우크라이나 보안국: 키예프 총격, 인질 납치는 '테러 행위'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559553)
+#### [80대 남성이 프랑스에서 처음으로 가족의 노예 연루에 대해 공식적으로 사과하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559551)
+#### [101095 대체로 내약성 양호, 가장 흔한 부작용은 발진, 3등급 부작용 1건 관찰돼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559552)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLRX.O/total>
+#### [프랑스 핀, 여성 최초로 메르세데스 F1 자동차를 운전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559550)
 #### [올해 미국 이민국 구금 시설에서 17 명이 사망했다고 ICE는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559549)
 #### [ADB 총재, 일본의 너무 느린 금리 인상으로 인한 엔화 압력 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559548)
 #### [이란, 호르무즈 통제 강화, 트럼프, '협박' 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559547)
@@ -56,9 +63,3 @@
 #### [인도 ICICI 은행의 이익이 대출 성장과 충당금 감소로 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559500)
 #### [독일 전투기에 대한 침묵에서 중재가 실패했다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559497)
 #### [이란 해군은 호르무즈 해협이 다시 폐쇄되었다고 라디오로 선박에 알렸다고 해운 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559494)
-#### [영국 대테러 경찰, 런던 방화 공격 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559495)
-#### [인도, 14억 달러 규모의 해상 보험 풀 승인, 인플레이션 연동 수당 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559496)
-#### [트위드 옷을 입은 사이클리스트들이 빈티지 스타일 퍼레이드에서 페달을 밟으며 런던을 질주합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559493)
-#### [멕시코 실종자 수색대가 1,000개 이상의 뼈 조각 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559490)
-#### [인도 ICICI 은행의 이익이 대출 증가와 충당금 감소로 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559491)
-#### [새로운 글로벌 리더 레오 교황, 아프리카 투어를 위해 앙골라로 향하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559492)
