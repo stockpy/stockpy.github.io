@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260418_2037 </title></head>
-<center>Vers : 20260418_2037 </center>
-<center>Vers : 20260419_0537 </center>
+<head><meta charset="utf-8"><title>Vers : 20260418_2106 </title></head>
+<center>Vers : 20260418_2106 </center>
+<center>Vers : 20260419_0606 </center>
 <br><br><br>
+#### [테슬라, 휴스턴 달라스까지 로봇택시 서비스 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559569)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
+#### [모터 레이싱-베르슈타펜이 출전한 뉘르부르크링 레이스에서 사망자 1명, 부상자 6명 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559568)
+#### [콤파스 패스웨이, 환각제 치료 연구 및 접근성 가속화를 위한 백악관 행정명령 찬사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559566)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CMPS.O/total>
+#### [트럼프 조직, 조지아 트빌리시의 새로운 마천루에 파트너로 참여, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559567)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559565)
 #### [미국 법무부, 전 CIA 국장 조사에 전 트럼프 변호사 추가, CNN 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559564)
 #### [경찰이 키예프에서 총격범을 사살하고 관리들은 여러 명이 사망했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559563)
 #### [영국의 라미, 최근 맨델슨 행보에 대해 스타머 총리에 대한 지지 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559562)
@@ -59,8 +66,3 @@
 #### [UNIFIL, 레바논 남부에서 평화 유지군 1 명 사망, 3 명 부상당한 '고의적 공격'을 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559512)
 #### [TA 어소시에이츠의 영국 첨단 의료 솔루션에 대한 6억 파운드 입찰, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559510)
 #### [맥쿼리 온타리오 184MW 카디널 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559508)
-#### [Macron: 레바논에서 프랑스 군인 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559511)
-#### [브라질 그루포 픽터, 파산 보호 절차에 대한 법원 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559509)
-#### [스페인의 산체스와 멕시코의 셰인 바움, 좌파 정상 회담에서 회담 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559507)
-#### [브라질의 룰라, 유엔 안보리 상임이사국에 행동 변화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559506)
-#### [이란 해군, 호르무즈 해협 다시 폐쇄, 두 척의 선박이 총격 신고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559504)
