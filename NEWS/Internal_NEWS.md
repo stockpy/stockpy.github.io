@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260418_1852 </title></head>
-<center>Vers : 20260418_1852 </center>
-<center>Vers : 20260419_0352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260418_1936 </title></head>
+<center>Vers : 20260418_1936 </center>
+<center>Vers : 20260419_0436 </center>
 <br><br><br>
+#### [뉘르부르크링 레이스 충돌 사고로 운전자 1명 사망, 6명 부상 - 관계자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559559)
+#### [노르웨이 가스코, 아스가르드 가스전에서 4월 18일 04시부터 4월 19일 04시까지 -5.4밀리미터/일 정전 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559560)
+#### [브라질, 멕시코, 스페인, 쿠바에 더 많은 원조 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559558)
+#### [테슬라, 댈러스와 휴스턴에 로보택시 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559557)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
+#### [영국 켄싱턴 가든, 경찰이 런던 이스라엘 대사관 근처에서 위험 물질을 발견하지 못한 후 재개장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559556)
 #### [미국 북서부 강 유량은 95 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559555)
 #### [최종 개표 후 헝가리에서 마자르의 의회 과반수 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559554)
 #### [우크라이나 보안국: 키예프 총격, 인질 납치는 '테러 행위'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559553)
@@ -58,8 +64,3 @@
 #### [이란, 미국과의 다음 협상 날짜는 정해진 바 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559503)
 #### [3월 31일로 마감된 분기 실적 보고 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559502)
 #### [독일은 유엔 안전 보장 이사회의 구조 개혁 준비가되어 있다고 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559501)
-#### [레바논 총리, 토요일 프랑스 UNIFIL 군대에 대한 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559499)
-#### [스위스 축구 클럽, 카니예 웨스트 콘서트 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559498)
-#### [인도 ICICI 은행의 이익이 대출 성장과 충당금 감소로 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559500)
-#### [독일 전투기에 대한 침묵에서 중재가 실패했다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559497)
-#### [이란 해군은 호르무즈 해협이 다시 폐쇄되었다고 라디오로 선박에 알렸다고 해운 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559494)
