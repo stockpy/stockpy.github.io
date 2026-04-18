@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260418_1641 </title></head>
-<center>Vers : 20260418_1641 </center>
-<center>Vers : 20260419_0141 </center>
+<head><meta charset="utf-8"><title>Vers : 20260418_1722 </title></head>
+<center>Vers : 20260418_1722 </center>
+<center>Vers : 20260419_0222 </center>
 <br><br><br>
 #### [1년 간 주가 1500% 폭등에 '3조' 돈방석 앉은 창업주…'가장 비싼 주식' 등극까지](https://m.stock.naver.com/news/ranknews/view/277/0005751352)
 #### [전쟁 끝?…증권업계 “삼성전자 36만원·하이닉스 180만원 간다” [증시레이더]](https://m.stock.naver.com/news/ranknews/view/138/0002224961)

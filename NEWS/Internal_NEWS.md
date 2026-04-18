@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260418_1640 </title></head>
-<center>Vers : 20260418_1640 </center>
-<center>Vers : 20260419_0140 </center>
+<head><meta charset="utf-8"><title>Vers : 20260418_1722 </title></head>
+<center>Vers : 20260418_1722 </center>
+<center>Vers : 20260419_0222 </center>
 <br><br><br>
+#### [올해 미국 이민국 구금 시설에서 17 명이 사망했다고 ICE는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559549)
+#### [ADB 총재, 일본의 너무 느린 금리 인상으로 인한 엔화 압력 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559548)
+#### [이란, 호르무즈 통제 강화, 트럼프, '협박' 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559547)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559546)
 #### [앙골라의 레오 교황, 착취하고 거짓 약속을하는 '독재자'를 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559545)
 #### [우크라이나 대통령 젤 렌 스키, 키예프 총격 사건으로 5 명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559544)
@@ -59,6 +62,3 @@
 #### [멕시코 실종자 수색대가 1,000개 이상의 뼈 조각 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559490)
 #### [인도 ICICI 은행의 이익이 대출 증가와 충당금 감소로 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559491)
 #### [새로운 글로벌 리더 레오 교황, 아프리카 투어를 위해 앙골라로 향하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559492)
-#### [페루 북부에서 산사태로 대피령이 내려졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559489)
-#### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559487)
-#### [UKMTO, 오만 인근 유조선 사고 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559488)
