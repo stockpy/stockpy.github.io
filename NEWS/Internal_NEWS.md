@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260418_1524 </title></head>
-<center>Vers : 20260418_1524 </center>
-<center>Vers : 20260419_0024 </center>
+<head><meta charset="utf-8"><title>Vers : 20260418_1640 </title></head>
+<center>Vers : 20260418_1640 </center>
+<center>Vers : 20260419_0140 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559546)
+#### [앙골라의 레오 교황, 착취하고 거짓 약속을하는 '독재자'를 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559545)
+#### [우크라이나 대통령 젤 렌 스키, 키예프 총격 사건으로 5 명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559544)
+#### [루비스, 트라피구라의 퓨마 연료 장치와의 결합을 검토한다고 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559543)
+#### [네덜란드, 에너지 위기 계획의 첫 번째 단계 활성화, ANP 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559542)
+#### [레오 교황, 트럼프와의 불화설 보도 경시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559541)
+#### [인도, 호르무즈 해협에서 인도 선박 2척 공격에 '깊은 우려' 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559540)
+#### [미군, 앞으로 며칠 안에이란과 연결된 선박에 탑승 할 준비, WSJ 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559537)
+#### [미 법무부, 머스크의 X에 대한 프랑스 수사 지원 거부, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559539)
+#### [키예프 지역에서 총격 사건 발생, 2 명 사망, 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559538)
 #### [인도 국적 선박 2 척이 호르무즈 해협을 건너다가 공격 당했다고 정부 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559536)
 #### [미국 소고기/돼지고기 포장업체 마진 - Hedgersedge](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559535)
 #### [총격범이 키예프 지역에서 총격을 가하고 여러 명이 사망했다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559534)
@@ -52,13 +62,3 @@
 #### [페루 북부에서 산사태로 대피령이 내려졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559489)
 #### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559487)
 #### [UKMTO, 오만 인근 유조선 사고 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559488)
-#### [사노피의 누박소비드 코로나19 백신, 일대일 연구에서 엠넥스스파이크보다 내약성이 우수함 입증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559485)
-#### [상선이 호르무즈를 건너려고 시도하면서 총격을보고했다고 해운 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559486)
-#### [러시아 라브로프, 미국과 미래 경제 관계에 대해 대화 할 때가 왔다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559484)
-#### [인도 HDFC 은행, 강력한 대출 성장으로 이익 예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559483)
-#### [베네수엘라의 마차도, 스페인 총리의 좌파 정상 회담이 그를 만나지 않은 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559481)
-#### [터키, 이란 가스관 계약 만료 임박, 아직 연장 논의는 없다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559479)
-#### [Atco Power Alberta 155MW 배틀 리버 4 석탄 발전소 오프라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559482)
-#### [호주와 일본, 70억 달러 규모의 군함 거래 시작을 위한 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559480)
-#### [프랑스 영화배우 나탈리 베이, 77세로 사망, AFP 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559478)
-#### [인도, 14억 달러 규모의 해상 보험 풀 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559477)
