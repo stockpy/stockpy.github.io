@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260418_1936 </title></head>
-<center>Vers : 20260418_1936 </center>
-<center>Vers : 20260419_0436 </center>
+<head><meta charset="utf-8"><title>Vers : 20260418_2037 </title></head>
+<center>Vers : 20260418_2037 </center>
+<center>Vers : 20260419_0537 </center>
 <br><br><br>
+#### [미국 법무부, 전 CIA 국장 조사에 전 트럼프 변호사 추가, CNN 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559564)
+#### [경찰이 키예프에서 총격범을 사살하고 관리들은 여러 명이 사망했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559563)
+#### [영국의 라미, 최근 맨델슨 행보에 대해 스타머 총리에 대한 지지 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559562)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559561)
 #### [뉘르부르크링 레이스 충돌 사고로 운전자 1명 사망, 6명 부상 - 관계자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559559)
 #### [노르웨이 가스코, 아스가르드 가스전에서 4월 18일 04시부터 4월 19일 04시까지 -5.4밀리미터/일 정전 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559560)
 #### [브라질, 멕시코, 스페인, 쿠바에 더 많은 원조 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559558)
@@ -60,7 +64,3 @@
 #### [스페인의 산체스와 멕시코의 셰인 바움, 좌파 정상 회담에서 회담 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559507)
 #### [브라질의 룰라, 유엔 안보리 상임이사국에 행동 변화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559506)
 #### [이란 해군, 호르무즈 해협 다시 폐쇄, 두 척의 선박이 총격 신고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559504)
-#### [미군, 23 척의 선박을이란으로 돌려 봉쇄를 시행한다고 군이 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559505)
-#### [이란, 미국과의 다음 협상 날짜는 정해진 바 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559503)
-#### [3월 31일로 마감된 분기 실적 보고 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559502)
-#### [독일은 유엔 안전 보장 이사회의 구조 개혁 준비가되어 있다고 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559501)
