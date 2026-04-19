@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260419_2236 </title></head>
-<center>Vers : 20260419_2236 </center>
-<center>Vers : 20260420_0736 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_2319 </title></head>
+<center>Vers : 20260419_2319 </center>
+<center>Vers : 20260420_0819 </center>
 <br><br><br>
+#### [중동의 불씨가 타오르면서 BUZZ-NZD/USD 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559708)
+#### [한 주간의 브레이킹뷰: 연기를 내뿜으며 달리기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559707)
+#### [중동 긴장이 재점화되고 호르무즈가 폐쇄되면서 외환-달러가 반등합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559705)
+#### [중동 분쟁이 고조되면서 아시아 초입에서 BUZZ-USD가 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559706)
+#### [릴리, 20 억 달러 이상에 켈로 니아 테라퓨틱스 인수를위한 사전 협상 중, WSJ은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559704)
 #### [페루, 오랫동안 지연된 남부 구리의 티아 마리아 프로젝트 착공 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559702)
 #### [이란 긴장이 시장을 불안하게 만들면서 유가가 급등하고 주식 선물이 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559703)
 #### [F1 규칙 회의를 앞두고 드라이버들의 '귀중한 의견'을 환영하는 모터 레이싱-FIA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559700)
@@ -57,8 +62,3 @@
 #### [이스라엘 항공사 엘 알, 아르헨티나 직항 노선 운항 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559653)
 #### [비톨 그룹은 은행에 1분기 약 20억 달러의 수익을 올렸다고 밝혔습니다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559651)
 #### [영국 경찰은 전국적으로 고급 상점에서 절도 계획을 세운 7 명을 체포했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559649)
-#### [라이젠 은행의 채권자, 구조 조정 제안 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559648)
-#### [브라질 라이젠의 은행 채권단이 구조조정 제안을 했다고 블룸버그 통신이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559647)
-#### [이스라엘 군, 통제하에있는 남부 레바논 영토지도 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559646)
-#### [미국 에너지 책임자는 유가가 내년까지 갤런당 3 달러 이상을 유지할 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559645)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559643)
