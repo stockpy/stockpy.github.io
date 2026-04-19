@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260419_1121 </title></head>
-<center>Vers : 20260419_1121 </center>
-<center>Vers : 20260419_2021 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_1302 </title></head>
+<center>Vers : 20260419_1302 </center>
+<center>Vers : 20260419_2202 </center>
 <br><br><br>
+#### [블루 오리진, 재사용된 뉴 글렌 로켓 부스터의 첫 착륙 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559632)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ASTS.O/total>
+#### [키예프 총격 사건 후 8 명이 병원에 남아 있다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559631)
+#### [트럼프, 미국 관리들이 협상을 위해 파키스탄에있을 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559628)
+#### [드론 공격 후 러시아 투 압세 항구에서 화재가 진화되었다고 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559629)
+#### [트럼프는이란이 휴전에 대해 '심각한 위반'을 저질렀다고 ABC 뉴스 기자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559630)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559626)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559625)
+#### [오스트리아의 HiPP 이유식 병에서 쥐독이 발견되었다고 경찰은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559627)
+#### [블루 오리진은 재사용 된 뉴 글렌 로켓 부스터를 착륙 시켰다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559624)
+#### [키예프 총격 사건 후 8 명이 병원에 남아 있다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559623)
+#### [폭력 캠페인에 직면 한 영국 유대인, 수석 랍비는 또 다른 공격 후 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559622)
+#### [교황 레오, 우크라이나 전쟁 격화 비난, '무기는 침묵하라' 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559621)
 #### [이란, 유조선 2척의 호르무즈 해협 통과를 막았다, 타스님 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559620)
 #### [미국, 원화의 과도한 변동성 바람직하지 않다는 데 의견 일치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559619)
 #### [우크라이나, 러시아의 파업으로 체르니 히프에서 집에서 십대 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559618)
@@ -54,6 +67,10 @@
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559575)
 #### ["Bild am Sonntag": 독일인의 72%는 높은 에너지 비용을 부담스러워합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559574)
 #### [북한, 탄도 미사일로 추정되는 발사, 일본 측 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559573)
+<head><meta charset="utf-8"><title>Vers : 20260419_1302 </title></head>
+<center>Vers : 20260419_1302 </center>
+<center>Vers : 20260419_2202 </center>
+<br><br><br>
 #### [워싱턴 주 왓컴 카운티 소방서는 BP 체리 포인트 정유소에서 발생한 사건에 대응했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559572)
 #### [북한, 탄도 미사일로 의심되는 발사, 일본 해안 경비대는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559571)
 #### [DRC 정부, 반군, 구호 호송을위한 여행 완화, 민간인 공격 자제에 동의, 미국 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559570)
@@ -68,10 +85,6 @@
 #### [경찰이 키예프에서 총격범을 사살하고 관리들은 여러 명이 사망했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559563)
 #### [영국의 라미, 최근 맨델슨 행보에 대해 스타머 총리에 대한 지지 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559562)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559561)
-<head><meta charset="utf-8"><title>Vers : 20260419_1121 </title></head>
-<center>Vers : 20260419_1121 </center>
-<center>Vers : 20260419_2021 </center>
-<br><br><br>
 #### [뉘르부르크링 레이스 충돌 사고로 운전자 1명 사망, 6명 부상 - 관계자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559559)
 #### [노르웨이 가스코, 아스가르드 가스전에서 4월 18일 04시부터 4월 19일 04시까지 -5.4밀리미터/일 정전 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559560)
 #### [브라질, 멕시코, 스페인, 쿠바에 더 많은 원조 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559558)
@@ -122,15 +135,3 @@
 #### [유엔 평화 유지군 사망, 레바논 남부 총격으로 3 명 부상, UNIFIL은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559516)
 #### [UKMTO, 오만 인근 유조선 사고 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559514)
 #### [멕시코, 8년 만의 대통령 방문으로 스페인과의 관계 회복](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559513)
-#### [UNIFIL, 레바논 남부에서 평화 유지군 1 명 사망, 3 명 부상당한 '고의적 공격'을 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559512)
-#### [TA 어소시에이츠의 영국 첨단 의료 솔루션에 대한 6억 파운드 입찰, 스카이 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559510)
-#### [맥쿼리 온타리오 184MW 카디널 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559508)
-#### [Macron: 레바논에서 프랑스 군인 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559511)
-#### [브라질 그루포 픽터, 파산 보호 절차에 대한 법원 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559509)
-#### [스페인의 산체스와 멕시코의 셰인 바움, 좌파 정상 회담에서 회담 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559507)
-#### [브라질의 룰라, 유엔 안보리 상임이사국에 행동 변화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559506)
-#### [이란 해군, 호르무즈 해협 다시 폐쇄, 두 척의 선박이 총격 신고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559504)
-#### [미군, 23 척의 선박을이란으로 돌려 봉쇄를 시행한다고 군이 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559505)
-#### [이란, 미국과의 다음 협상 날짜는 정해진 바 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559503)
-#### [3월 31일로 마감된 분기 실적 보고 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559502)
-#### [독일은 유엔 안전 보장 이사회의 구조 개혁 준비가되어 있다고 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559501)
