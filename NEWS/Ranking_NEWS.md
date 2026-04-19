@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260419_2038 </title></head>
-<center>Vers : 20260419_2038 </center>
-<center>Vers : 20260420_0538 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_2118 </title></head>
+<center>Vers : 20260419_2118 </center>
+<center>Vers : 20260420_0618 </center>
 <br><br><br>
 #### ['삼전닉스' 안 샀다는데…김 과장, 116% 수익 비결이](https://m.stock.naver.com/news/ranknews/view/215/0001249464)
 #### ["2월12일 전에 계약했어도 안 돼" 퇴로 막힌 다주택자 '세 낀' 매물](https://m.stock.naver.com/news/ranknews/view/057/0001945389)

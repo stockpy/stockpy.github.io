@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260419_2038 </title></head>
-<center>Vers : 20260419_2038 </center>
-<center>Vers : 20260420_0538 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_2118 </title></head>
+<center>Vers : 20260419_2118 </center>
+<center>Vers : 20260420_0618 </center>
 <br><br><br>
+#### [멕시코에서 현지 당국을 지원하는 미국 공무원 두 명이 교통사고로 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559687)
+#### [W/E 뉴스-호르무즈 봉쇄, 트럼프 위협, 이란, 회담 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559686)
+#### [UAE, 미국에 전시 금융 생명선 요청, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559685)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559684)
 #### [BUZZ-재생-EUR/USD 역풍, 스털링 저항, USD/JPY 하방 테스트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559683)
 #### [클라우드 개발 플랫폼 Vercel이 해킹당하다 - The Verge](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559682)
@@ -63,6 +66,3 @@
 #### [트럼프, 미국 관리들이 협상을 위해 파키스탄에있을 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559628)
 #### [드론 공격 후 러시아 투 압세 항구에서 화재가 진화되었다고 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559629)
 #### [트럼프는이란이 휴전에 대해 '심각한 위반'을 저질렀다고 ABC 뉴스 기자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559630)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559626)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559625)
-#### [오스트리아의 HiPP 이유식 병에서 쥐독이 발견되었다고 경찰은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559627)
