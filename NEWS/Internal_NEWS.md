@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260419_0854 </title></head>
-<center>Vers : 20260419_0854 </center>
-<center>Vers : 20260419_1754 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_0946 </title></head>
+<center>Vers : 20260419_0946 </center>
+<center>Vers : 20260419_1846 </center>
 <br><br><br>
+#### [교황 레오 미사를 위해 앙골라 수도 외곽에 모인 수만 명의 사람들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559608)
+#### [영국 재무 장관, 이란 전쟁의 여파가 심화되는 가운데 은행장들을 불러 회담 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559607)
+#### [청두 강홍: 미국 FDA, 비후성 심근증 치료제로 KHN921 임상시험 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559606)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002773.SZ/total>
+#### [오리엔트 증권, 4월 20일 인수 성명서 보류로 거래 중지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559604)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600958.SS/total>
+#### [분석-'티나'의 부활이 '티아라' 거래를 두드리면서 투자자들이 미국 주식에 몰려들고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559605)
+#### [IMF, 세계은행 회의에서 충격 완화에 한계, 해결책에 대한 미국 의존도 드러나](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559603)
 #### [노르웨이의 Gassco, 계획되지 않은 가스 공급 중단을 수정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559600)
 #### [노르웨이의 Gassco, 아스가르드 가스전에서 4월 19일 0400시부터 4월 20일 0359시까지 -5.4밀리미터/일 정전 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559602)
 #### [낙하산이 경기장 비디오 보드에 걸리면서 축구-스카이다이버가 매달려 있는 모습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559601)
@@ -61,16 +69,16 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLRX.O/total>
 #### [프랑스 핀, 여성 최초로 메르세데스 F1 자동차를 운전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559550)
 #### [올해 미국 이민국 구금 시설에서 17 명이 사망했다고 ICE는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559549)
+<head><meta charset="utf-8"><title>Vers : 20260419_0946 </title></head>
+<center>Vers : 20260419_0946 </center>
+<center>Vers : 20260419_1846 </center>
+<br><br><br>
 #### [ADB 총재, 일본의 너무 느린 금리 인상으로 인한 엔화 압력 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559548)
 #### [이란, 호르무즈 통제 강화, 트럼프, '협박' 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559547)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559546)
 #### [앙골라의 레오 교황, 착취하고 거짓 약속을하는 '독재자'를 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559545)
 #### [우크라이나 대통령 젤 렌 스키, 키예프 총격 사건으로 5 명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559544)
 #### [루비스, 트라피구라의 퓨마 연료 장치와의 결합을 검토한다고 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559543)
-<head><meta charset="utf-8"><title>Vers : 20260419_0854 </title></head>
-<center>Vers : 20260419_0854 </center>
-<center>Vers : 20260419_1754 </center>
-<br><br><br>
 #### [네덜란드, 에너지 위기 계획의 첫 번째 단계 활성화, ANP 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559542)
 #### [레오 교황, 트럼프와의 불화설 보도 경시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559541)
 #### [인도, 호르무즈 해협에서 인도 선박 2척 공격에 '깊은 우려' 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559540)
@@ -125,9 +133,3 @@
 #### [인도 ICICI 은행의 이익이 대출 증가와 충당금 감소로 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559491)
 #### [새로운 글로벌 리더 레오 교황, 아프리카 투어를 위해 앙골라로 향하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559492)
 #### [페루 북부에서 산사태로 대피령이 내려졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559489)
-#### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559487)
-#### [UKMTO, 오만 인근 유조선 사고 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559488)
-#### [사노피의 누박소비드 코로나19 백신, 일대일 연구에서 엠넥스스파이크보다 내약성이 우수함 입증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559485)
-#### [상선이 호르무즈를 건너려고 시도하면서 총격을보고했다고 해운 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559486)
-#### [러시아 라브로프, 미국과 미래 경제 관계에 대해 대화 할 때가 왔다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559484)
-#### [인도 HDFC 은행, 강력한 대출 성장으로 이익 예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559483)
