@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260419_0946 </title></head>
-<center>Vers : 20260419_0946 </center>
-<center>Vers : 20260419_1846 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_1039 </title></head>
+<center>Vers : 20260419_1039 </center>
+<center>Vers : 20260419_1939 </center>
 <br><br><br>
+#### [TCL 일렉트로닉스, 1분기 조정 이익 기여도가 전년 동기 대비 125%-150% 증가할 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559612)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1070.HK/total>
+#### [교황, 10만 명이 참석한 미사에서 앙골라에 분열 극복 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559613)
+#### [월마트, 매장을 창고로 활용해 당일 배송으로 아마존에 도전하다- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559611)
+#### [불가리아, 친러시아 전 대통령이 여론조사에서 선두를 달리는 가운데 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559610)
+#### [런던의 유대인 유적지에서 또 다른 방화 공격 시도, 자선 단체는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559609)
 #### [교황 레오 미사를 위해 앙골라 수도 외곽에 모인 수만 명의 사람들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559608)
 #### [영국 재무 장관, 이란 전쟁의 여파가 심화되는 가운데 은행장들을 불러 회담 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559607)
 #### [청두 강홍: 미국 FDA, 비후성 심근증 치료제로 KHN921 임상시험 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559606)
@@ -63,16 +69,16 @@
 #### [영국 켄싱턴 가든, 경찰이 런던 이스라엘 대사관 근처에서 위험 물질을 발견하지 못한 후 재개장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559556)
 #### [미국 북서부 강 유량은 95 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559555)
 #### [최종 개표 후 헝가리에서 마자르의 의회 과반수 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559554)
+<head><meta charset="utf-8"><title>Vers : 20260419_1039 </title></head>
+<center>Vers : 20260419_1039 </center>
+<center>Vers : 20260419_1939 </center>
+<br><br><br>
 #### [우크라이나 보안국: 키예프 총격, 인질 납치는 '테러 행위'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559553)
 #### [80대 남성이 프랑스에서 처음으로 가족의 노예 연루에 대해 공식적으로 사과하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559551)
 #### [101095 대체로 내약성 양호, 가장 흔한 부작용은 발진, 3등급 부작용 1건 관찰돼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559552)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLRX.O/total>
 #### [프랑스 핀, 여성 최초로 메르세데스 F1 자동차를 운전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559550)
 #### [올해 미국 이민국 구금 시설에서 17 명이 사망했다고 ICE는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559549)
-<head><meta charset="utf-8"><title>Vers : 20260419_0946 </title></head>
-<center>Vers : 20260419_0946 </center>
-<center>Vers : 20260419_1846 </center>
-<br><br><br>
 #### [ADB 총재, 일본의 너무 느린 금리 인상으로 인한 엔화 압력 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559548)
 #### [이란, 호르무즈 통제 강화, 트럼프, '협박' 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559547)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559546)
@@ -128,8 +134,3 @@
 #### [이란 해군은 호르무즈 해협이 다시 폐쇄되었다고 라디오로 선박에 알렸다고 해운 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559494)
 #### [영국 대테러 경찰, 런던 방화 공격 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559495)
 #### [인도, 14억 달러 규모의 해상 보험 풀 승인, 인플레이션 연동 수당 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559496)
-#### [트위드 옷을 입은 사이클리스트들이 빈티지 스타일 퍼레이드에서 페달을 밟으며 런던을 질주합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559493)
-#### [멕시코 실종자 수색대가 1,000개 이상의 뼈 조각 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559490)
-#### [인도 ICICI 은행의 이익이 대출 증가와 충당금 감소로 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559491)
-#### [새로운 글로벌 리더 레오 교황, 아프리카 투어를 위해 앙골라로 향하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559492)
-#### [페루 북부에서 산사태로 대피령이 내려졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559489)
