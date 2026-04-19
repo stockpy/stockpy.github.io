@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260419_1039 </title></head>
-<center>Vers : 20260419_1039 </center>
-<center>Vers : 20260419_1939 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_1121 </title></head>
+<center>Vers : 20260419_1121 </center>
+<center>Vers : 20260419_2021 </center>
 <br><br><br>
+#### [이란, 유조선 2척의 호르무즈 해협 통과를 막았다, 타스님 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559620)
+#### [미국, 원화의 과도한 변동성 바람직하지 않다는 데 의견 일치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559619)
+#### [우크라이나, 러시아의 파업으로 체르니 히프에서 집에서 십대 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559618)
+#### [터키, 미국과이란이 대화를 계속할 의지가 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559617)
+#### [프랑스와 그리스, 방위 조약을 5년 더 갱신한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559615)
+#### [분석-동맹국들은 서두른 미국?이란 프레임 워크 협상이 역효과를 낼 수 있다고 우려하여 기술적 교착 상태를 남길 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559616)
+#### [이란, 전쟁 전보다 더 빠른 속도로 발사대를 보충한다고 경비 사령관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559614)
 #### [TCL 일렉트로닉스, 1분기 조정 이익 기여도가 전년 동기 대비 125%-150% 증가할 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559612)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1070.HK/total>
 #### [교황, 10만 명이 참석한 미사에서 앙골라에 분열 극복 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559613)
@@ -61,6 +68,10 @@
 #### [경찰이 키예프에서 총격범을 사살하고 관리들은 여러 명이 사망했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559563)
 #### [영국의 라미, 최근 맨델슨 행보에 대해 스타머 총리에 대한 지지 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559562)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559561)
+<head><meta charset="utf-8"><title>Vers : 20260419_1121 </title></head>
+<center>Vers : 20260419_1121 </center>
+<center>Vers : 20260419_2021 </center>
+<br><br><br>
 #### [뉘르부르크링 레이스 충돌 사고로 운전자 1명 사망, 6명 부상 - 관계자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559559)
 #### [노르웨이 가스코, 아스가르드 가스전에서 4월 18일 04시부터 4월 19일 04시까지 -5.4밀리미터/일 정전 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559560)
 #### [브라질, 멕시코, 스페인, 쿠바에 더 많은 원조 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559558)
@@ -69,10 +80,6 @@
 #### [영국 켄싱턴 가든, 경찰이 런던 이스라엘 대사관 근처에서 위험 물질을 발견하지 못한 후 재개장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559556)
 #### [미국 북서부 강 유량은 95 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559555)
 #### [최종 개표 후 헝가리에서 마자르의 의회 과반수 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559554)
-<head><meta charset="utf-8"><title>Vers : 20260419_1039 </title></head>
-<center>Vers : 20260419_1039 </center>
-<center>Vers : 20260419_1939 </center>
-<br><br><br>
 #### [우크라이나 보안국: 키예프 총격, 인질 납치는 '테러 행위'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559553)
 #### [80대 남성이 프랑스에서 처음으로 가족의 노예 연루에 대해 공식적으로 사과하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559551)
 #### [101095 대체로 내약성 양호, 가장 흔한 부작용은 발진, 3등급 부작용 1건 관찰돼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559552)
@@ -127,10 +134,3 @@
 #### [이란, 미국과의 다음 협상 날짜는 정해진 바 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559503)
 #### [3월 31일로 마감된 분기 실적 보고 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559502)
 #### [독일은 유엔 안전 보장 이사회의 구조 개혁 준비가되어 있다고 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559501)
-#### [레바논 총리, 토요일 프랑스 UNIFIL 군대에 대한 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559499)
-#### [스위스 축구 클럽, 카니예 웨스트 콘서트 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559498)
-#### [인도 ICICI 은행의 이익이 대출 성장과 충당금 감소로 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559500)
-#### [독일 전투기에 대한 침묵에서 중재가 실패했다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559497)
-#### [이란 해군은 호르무즈 해협이 다시 폐쇄되었다고 라디오로 선박에 알렸다고 해운 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559494)
-#### [영국 대테러 경찰, 런던 방화 공격 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559495)
-#### [인도, 14억 달러 규모의 해상 보험 풀 승인, 인플레이션 연동 수당 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559496)
