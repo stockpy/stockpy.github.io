@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260419_1440 </title></head>
-<center>Vers : 20260419_1440 </center>
-<center>Vers : 20260419_2340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_1523 </title></head>
+<center>Vers : 20260419_1523 </center>
+<center>Vers : 20260420_0023 </center>
 <br><br><br>
+#### [미국 에너지 책임자는 유가가 내년까지 갤런당 3 달러 이상을 유지할 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559645)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559643)
 #### [쿠웨이트, 전쟁 게시물로 미국-쿠웨이트 언론인 구금, CPJ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559644)
 #### [극우 세력에 맞서 부활을 꿈꾸는 스페인 좌파들의 집회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559642)
@@ -68,11 +69,11 @@
 #### [블랙록, 에너지 위기로 인한 유럽 증시 타격 경고- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559588)
 #### [시테 온타리오 195MW 고어웨이 11 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559587)
 #### [시테 온타리오 195MW 고어웨이 12 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559586)
-#### [시테 온타리오 375MW 고어웨이 15 가스 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559585)
-<head><meta charset="utf-8"><title>Vers : 20260419_1440 </title></head>
-<center>Vers : 20260419_1440 </center>
-<center>Vers : 20260419_2340 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_1523 </title></head>
+<center>Vers : 20260419_1523 </center>
+<center>Vers : 20260420_0023 </center>
 <br><br><br>
+#### [시테 온타리오 375MW 고어웨이 15 가스 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559585)
 #### [시테 온타리오 195MW 고어웨이 13 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559584)
 #### [BP, 4 월 18 일 토요일 아침 BP 체리 포인트 정유소에서 발생한 사고로 3 명이 부상을 입었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559583)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559582)
@@ -137,4 +138,3 @@
 #### [교황 레오, 트럼프와의 불화 경시, 그를 토론하기 위해 '내 관심사 아니다'라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559529)
 #### [트럼프, 환각제 치료에 대한 접근성을 높이기 위한 개혁 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559526)
 #### [미국 법무부, 머스크의 X에 대한 프랑스 조사 지원 거부, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559524)
-#### [미국 법무부, 프랑스 법 집행 당국에 Elon Musk의 X- WSJ 수사 노력을 촉진하지 않을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559527)
