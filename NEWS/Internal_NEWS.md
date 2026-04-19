@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260419_2118 </title></head>
-<center>Vers : 20260419_2118 </center>
-<center>Vers : 20260420_0618 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_2236 </title></head>
+<center>Vers : 20260419_2236 </center>
+<center>Vers : 20260420_0736 </center>
 <br><br><br>
+#### [페루, 오랫동안 지연된 남부 구리의 티아 마리아 프로젝트 착공 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559702)
+#### [이란 긴장이 시장을 불안하게 만들면서 유가가 급등하고 주식 선물이 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559703)
+#### [F1 규칙 회의를 앞두고 드라이버들의 '귀중한 의견'을 환영하는 모터 레이싱-FIA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559700)
+#### [이란이 미국 평화 회담을 거부하면서 BUZZ-AUD / USD가 약세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559701)
+#### [미국 원유 선물 <CLc1>, $7 이상 상승한 $91.20/BBL로 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559699)
+#### [운전자들이 비싼 휘발유를 기피하면서 유럽 주요 시장에서 전기차 판매량 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559696)
+#### [미국, 평행 현실 속 IMF 회의 참석](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559697)
+#### [이란, 미국 정전 위반 비난하며 선박 공격에 대한 보복 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559698)
+#### [미국, 카르텔 사건에 배정된 멕시코 관리들이 교통사고로 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559695)
+#### [ANALYSIS-BOJ의 매파적 힌트로 금리 인상 카드 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559693)
+#### [댓글-한 주 앞으로-미-이란 관계 악화, 글로벌 플래시 PMI](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559691)
+#### [일라이 릴리, 20 억 달러 이상에 켈로 니아 테라퓨틱스 인수를위한 사전 협상 중, WSJ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559694)
+#### [이란, 트럼프의 새로운 평화 회담 발표 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559692)
+#### [엘리 릴리, 20억 달러 이상에 켈로니아 테라퓨틱스 인수를 위한 협상을 진행 중- WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559689)
+#### [불가리아의 친 러시아 전 대통령이 선거에서 강력한 선두를 차지, 예비 결과에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559690)
+#### [잔디 깎는 기계 경주가 F1의 공백을 플라잉 잔디로 채우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559688)
 #### [멕시코에서 현지 당국을 지원하는 미국 공무원 두 명이 교통사고로 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559687)
 #### [W/E 뉴스-호르무즈 봉쇄, 트럼프 위협, 이란, 회담 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559686)
 #### [UAE, 미국에 전시 금융 생명선 요청, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559685)
@@ -46,23 +62,3 @@
 #### [이스라엘 군, 통제하에있는 남부 레바논 영토지도 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559646)
 #### [미국 에너지 책임자는 유가가 내년까지 갤런당 3 달러 이상을 유지할 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559645)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559643)
-#### [쿠웨이트, 전쟁 게시물로 미국-쿠웨이트 언론인 구금, CPJ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559644)
-#### [극우 세력에 맞서 부활을 꿈꾸는 스페인 좌파들의 집회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559642)
-#### [투이 크루즈는 자사 선박 두 척이 호르무즈 해협을 통과했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559640)
-#### [이란은 현재 파키스탄에 협상 대표단을 파견하기로 결정하지 않았다고 타스님은 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559641)
-#### [투이 크루즈는 두 척의 선박이 호르무즈 해협을 통과했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559639)
-#### [Google, 마벨과 추론용 새 AI 칩 개발을 위해 협의 중 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559637)
-#### [Google, 마벨과 새로운 AI 칩 개발을 위해 협의 중, 더 인포메이션 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559638)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRVL.O/total>
-#### [구글, 마벨과 추론용 새 AI 칩 개발 논의 중, 더 인포메이션 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559635)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRVL.O/total>
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559636)
-#### [월스트리트 한 주를 앞두고-미국 증시가 사상 최고치를 기록하며 실적 시즌에 접어들었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559634)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [호르무즈 불확실성이 휴전 낙관론을 제한하면서 걸프 증시 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559633)
-#### [블루 오리진, 재사용된 뉴 글렌 로켓 부스터의 첫 착륙 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559632)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ASTS.O/total>
-#### [키예프 총격 사건 후 8 명이 병원에 남아 있다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559631)
-#### [트럼프, 미국 관리들이 협상을 위해 파키스탄에있을 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559628)
-#### [드론 공격 후 러시아 투 압세 항구에서 화재가 진화되었다고 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559629)
-#### [트럼프는이란이 휴전에 대해 '심각한 위반'을 저질렀다고 ABC 뉴스 기자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559630)
