@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260419_1936 </title></head>
-<center>Vers : 20260419_1936 </center>
-<center>Vers : 20260420_0436 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_2038 </title></head>
+<center>Vers : 20260419_2038 </center>
+<center>Vers : 20260420_0538 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559684)
+#### [BUZZ-재생-EUR/USD 역풍, 스털링 저항, USD/JPY 하방 테스트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559683)
+#### [클라우드 개발 플랫폼 Vercel이 해킹당하다 - The Verge](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559682)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559681)
+#### [우크라이나, 유럽에 탄도 무기 방어 시스템 구축 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559680)
+#### [호르무즈 해협에서 피격된 선박 중 하나는 프랑스 CMA CGM의 소유였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559679)
+#### [독일의 메르츠, 브라질의 룰라, 긴밀한 유럽-브라질 협력 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559677)
+#### [트럼프, 미국이 봉쇄를 뚫 으려고 한 선박을 구금했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559678)
 #### [우크라이나 총리, IMF가 자영업자에 대한 세금 인상이 '건설적이지 않다'고 합의했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559676)
 #### [영국 경찰, 방화 공격에 대한 이란과의 연관성 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559674)
 #### [파키스탄 총리, 이란 대통령과 회담](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559675)
@@ -58,11 +66,3 @@
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559626)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559625)
 #### [오스트리아의 HiPP 이유식 병에서 쥐독이 발견되었다고 경찰은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559627)
-#### [블루 오리진은 재사용 된 뉴 글렌 로켓 부스터를 착륙 시켰다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559624)
-#### [키예프 총격 사건 후 8 명이 병원에 남아 있다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559623)
-#### [폭력 캠페인에 직면 한 영국 유대인, 수석 랍비는 또 다른 공격 후 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559622)
-#### [교황 레오, 우크라이나 전쟁 격화 비난, '무기는 침묵하라' 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559621)
-#### [이란, 유조선 2척의 호르무즈 해협 통과를 막았다, 타스님 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559620)
-#### [미국, 원화의 과도한 변동성 바람직하지 않다는 데 의견 일치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559619)
-#### [우크라이나, 러시아의 파업으로 체르니 히프에서 집에서 십대 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559618)
-#### [터키, 미국과이란이 대화를 계속할 의지가 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559617)
