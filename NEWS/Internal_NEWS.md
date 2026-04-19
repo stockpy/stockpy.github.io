@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260419_1302 </title></head>
-<center>Vers : 20260419_1302 </center>
-<center>Vers : 20260419_2202 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_1440 </title></head>
+<center>Vers : 20260419_1440 </center>
+<center>Vers : 20260419_2340 </center>
 <br><br><br>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559643)
+#### [쿠웨이트, 전쟁 게시물로 미국-쿠웨이트 언론인 구금, CPJ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559644)
+#### [극우 세력에 맞서 부활을 꿈꾸는 스페인 좌파들의 집회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559642)
+#### [투이 크루즈는 자사 선박 두 척이 호르무즈 해협을 통과했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559640)
+#### [이란은 현재 파키스탄에 협상 대표단을 파견하기로 결정하지 않았다고 타스님은 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559641)
+#### [투이 크루즈는 두 척의 선박이 호르무즈 해협을 통과했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559639)
+#### [Google, 마벨과 추론용 새 AI 칩 개발을 위해 협의 중 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559637)
+#### [Google, 마벨과 새로운 AI 칩 개발을 위해 협의 중, 더 인포메이션 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559638)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRVL.O/total>
+#### [구글, 마벨과 추론용 새 AI 칩 개발 논의 중, 더 인포메이션 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559635)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRVL.O/total>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559636)
+#### [월스트리트 한 주를 앞두고-미국 증시가 사상 최고치를 기록하며 실적 시즌에 접어들었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559634)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
+#### [호르무즈 불확실성이 휴전 낙관론을 제한하면서 걸프 증시 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559633)
 #### [블루 오리진, 재사용된 뉴 글렌 로켓 부스터의 첫 착륙 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559632)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ASTS.O/total>
 #### [키예프 총격 사건 후 8 명이 병원에 남아 있다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559631)
@@ -54,6 +69,10 @@
 #### [시테 온타리오 195MW 고어웨이 11 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559587)
 #### [시테 온타리오 195MW 고어웨이 12 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559586)
 #### [시테 온타리오 375MW 고어웨이 15 가스 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559585)
+<head><meta charset="utf-8"><title>Vers : 20260419_1440 </title></head>
+<center>Vers : 20260419_1440 </center>
+<center>Vers : 20260419_2340 </center>
+<br><br><br>
 #### [시테 온타리오 195MW 고어웨이 13 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559584)
 #### [BP, 4 월 18 일 토요일 아침 BP 체리 포인트 정유소에서 발생한 사고로 3 명이 부상을 입었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559583)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559582)
@@ -67,10 +86,6 @@
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559575)
 #### ["Bild am Sonntag": 독일인의 72%는 높은 에너지 비용을 부담스러워합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559574)
 #### [북한, 탄도 미사일로 추정되는 발사, 일본 측 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559573)
-<head><meta charset="utf-8"><title>Vers : 20260419_1302 </title></head>
-<center>Vers : 20260419_1302 </center>
-<center>Vers : 20260419_2202 </center>
-<br><br><br>
 #### [워싱턴 주 왓컴 카운티 소방서는 BP 체리 포인트 정유소에서 발생한 사건에 대응했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559572)
 #### [북한, 탄도 미사일로 의심되는 발사, 일본 해안 경비대는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559571)
 #### [DRC 정부, 반군, 구호 호송을위한 여행 완화, 민간인 공격 자제에 동의, 미국 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559570)
@@ -123,15 +138,3 @@
 #### [트럼프, 환각제 치료에 대한 접근성을 높이기 위한 개혁 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559526)
 #### [미국 법무부, 머스크의 X에 대한 프랑스 조사 지원 거부, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559524)
 #### [미국 법무부, 프랑스 법 집행 당국에 Elon Musk의 X- WSJ 수사 노력을 촉진하지 않을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559527)
-#### [러시아 국영 원자력 회사, 이란에서 농축 우라늄 제거를 도울 준비가되어 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559525)
-#### [트럼프, 환각제 치료에 대한 접근성을 가속화하기 위한 개혁 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559523)
-#### [시테 온타리오 375MW 고어웨이 15 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559522)
-#### [시테 온타리오 195MW 고어웨이 11 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559520)
-#### [시테 온타리오 195MW 고어웨이 12 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559519)
-#### [프랑스-독일 전투기를 둘러싼 분쟁에서 중재 실패, Handelsblatt는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559521)
-#### [안전 문제로 오스트리아 슈퍼마켓에서 리콜 된 HiPP 이유식 용기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559517)
-#### [베네수엘라의 마차도는 스페인 총리의 좌파 정상 회담 불참 이유를 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559518)
-#### [터키, 유럽 안보 구조에서 미국의 철수는 '파괴적'일 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559515)
-#### [유엔 평화 유지군 사망, 레바논 남부 총격으로 3 명 부상, UNIFIL은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559516)
-#### [UKMTO, 오만 인근 유조선 사고 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559514)
-#### [멕시코, 8년 만의 대통령 방문으로 스페인과의 관계 회복](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559513)
