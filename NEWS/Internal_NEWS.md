@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260419_1640 </title></head>
-<center>Vers : 20260419_1640 </center>
-<center>Vers : 20260420_0140 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_1721 </title></head>
+<center>Vers : 20260419_1721 </center>
+<center>Vers : 20260420_0221 </center>
 <br><br><br>
+#### [QXO, 탑빌드 170억 달러에 인수하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559661)
+#### [불가리아의 친 러시아 전 대통령이 선거에서 강력한 선두를 차지, 출구 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559660)
+#### [트럼프, 회담 앞두고 이란의 휴전 '전면 위반' 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559659)
+#### [루이지애나 총격 사건으로 어린이 8명 사망, 언론 보도에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559658)
 #### [미국 에너지 책임자는 유가가 내년까지 갤런당 3 달러 이상을 유지할 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559656)
 #### [루이지애나 대량 총격 사건으로 8 명의 어린이 사망, 언론 보도에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559657)
 #### [카니 총재는 캐나다의 미국 관계가 약점이되었다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559652)
@@ -65,7 +69,3 @@
 #### [분석-'티나'의 부활이 '티아라' 거래를 두드리면서 투자자들이 미국 주식에 몰려들고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559605)
 #### [IMF, 세계은행 회의에서 충격 완화에 한계, 해결책에 대한 미국 의존도 드러나](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559603)
 #### [노르웨이의 Gassco, 계획되지 않은 가스 공급 중단을 수정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559600)
-#### [노르웨이의 Gassco, 아스가르드 가스전에서 4월 19일 0400시부터 4월 20일 0359시까지 -5.4밀리미터/일 정전 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559602)
-#### [낙하산이 경기장 비디오 보드에 걸리면서 축구-스카이다이버가 매달려 있는 모습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559601)
-#### [호르무즈 불확실성이 휴전 낙관론을 제한하면서 걸프 지역 증시 침체](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559597)
-#### [오스트리아 HiPP 이유식 항아리에서 쥐독 발견, 경찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559598)
