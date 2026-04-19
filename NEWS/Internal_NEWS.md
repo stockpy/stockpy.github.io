@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260419_0516 </title></head>
-<center>Vers : 20260419_0516 </center>
-<center>Vers : 20260419_1416 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_0720 </title></head>
+<center>Vers : 20260419_0720 </center>
+<center>Vers : 20260419_1620 </center>
 <br><br><br>
+#### [코미디 선구자 에디 머피, AFI 라이프 공로상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559594)
+#### [우크라이나 군이 러시아 타간 로크의 드론 공장을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559593)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559592)
+#### [GRAPHIC-이란 전쟁 50일 동안 500억 달러 상당의 석유 손실이 발생한 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559591)
+#### [불가리아, 친러시아 전 대통령이 여론조사에서 선두를 달리는 가운데 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559590)
 #### [주목해야 할 요소 - 4월 19일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559589)
 #### [블랙록, 에너지 위기로 인한 유럽 증시 타격 경고- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559588)
 #### [시테 온타리오 195MW 고어웨이 11 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559587)
@@ -62,8 +67,3 @@
 #### [키예프 지역에서 총격 사건 발생, 2 명 사망, 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559538)
 #### [인도 국적 선박 2 척이 호르무즈 해협을 건너다가 공격 당했다고 정부 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559536)
 #### [미국 소고기/돼지고기 포장업체 마진 - Hedgersedge](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559535)
-#### [총격범이 키예프 지역에서 총격을 가하고 여러 명이 사망했다고 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559534)
-#### [독일, 업계 대표들과 제트 연료 공급 논의 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559533)
-#### [미국, 인권 침해 혐의로 니카라과 차관 제재](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559532)
-#### [인도 HDFC 은행, 강력한 대출 성장으로 이익 추정치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559530)
-#### [인도 선박, 호르무즈 해협 횡단 중 공격 당했다고 인도 정부 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559528)
