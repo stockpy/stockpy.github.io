@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260419_1721 </title></head>
-<center>Vers : 20260419_1721 </center>
-<center>Vers : 20260420_0221 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_1852 </title></head>
+<center>Vers : 20260419_1852 </center>
+<center>Vers : 20260420_0352 </center>
 <br><br><br>
+#### [미국 보안 기관이 블랙리스트에도 불구하고 앤트로픽의 Mythos를 사용 중이라고 Axios가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559673)
+#### [독일 메르츠, 산업용 AI에 덜 엄격한 EU 규제가 필요하다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559672)
+#### [미국 보안 기관, 블랙리스트에도 불구하고 앤트로픽의 신화 사용, Axios 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559671)
+#### [미국 북서부 강 유량은 95 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559668)
+#### [블랙리스트에도 불구하고 앤트로픽의 신화를 사용하는 BRIEF-NSA - Axios](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559670)
+#### [로이터 미국 스포츠 일정 4월 19일 일요일 오후 1시 54분(동부 표준시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559669)
+#### [세계 경제는 더 이상의 호르무즈 불확실성을 감당할 수 없다고 석유 회사 ADNOC의 CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559667)
+#### [QXO, 170억 달러에 상업용 지붕 회사 TopBuild 인수 업데이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559666)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559664)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559662)
+#### [알제리, 생산량 증대를 위한 석유 및 가스 라이선싱 라운드 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559665)
+#### [QXO, 170억 달러에 상업용 지붕 회사 TopBuild 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559663)
 #### [QXO, 탑빌드 170억 달러에 인수하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559661)
 #### [불가리아의 친 러시아 전 대통령이 선거에서 강력한 선두를 차지, 출구 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559660)
 #### [트럼프, 회담 앞두고 이란의 휴전 '전면 위반' 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559659)
@@ -54,18 +66,3 @@
 #### [프랑스와 그리스, 방위 조약을 5년 더 갱신한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559615)
 #### [분석-동맹국들은 서두른 미국?이란 프레임 워크 협상이 역효과를 낼 수 있다고 우려하여 기술적 교착 상태를 남길 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559616)
 #### [이란, 전쟁 전보다 더 빠른 속도로 발사대를 보충한다고 경비 사령관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559614)
-#### [TCL 일렉트로닉스, 1분기 조정 이익 기여도가 전년 동기 대비 125%-150% 증가할 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559612)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1070.HK/total>
-#### [교황, 10만 명이 참석한 미사에서 앙골라에 분열 극복 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559613)
-#### [월마트, 매장을 창고로 활용해 당일 배송으로 아마존에 도전하다- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559611)
-#### [불가리아, 친러시아 전 대통령이 여론조사에서 선두를 달리는 가운데 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559610)
-#### [런던의 유대인 유적지에서 또 다른 방화 공격 시도, 자선 단체는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559609)
-#### [교황 레오 미사를 위해 앙골라 수도 외곽에 모인 수만 명의 사람들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559608)
-#### [영국 재무 장관, 이란 전쟁의 여파가 심화되는 가운데 은행장들을 불러 회담 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559607)
-#### [청두 강홍: 미국 FDA, 비후성 심근증 치료제로 KHN921 임상시험 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559606)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002773.SZ/total>
-#### [오리엔트 증권, 4월 20일 인수 성명서 보류로 거래 중지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559604)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600958.SS/total>
-#### [분석-'티나'의 부활이 '티아라' 거래를 두드리면서 투자자들이 미국 주식에 몰려들고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559605)
-#### [IMF, 세계은행 회의에서 충격 완화에 한계, 해결책에 대한 미국 의존도 드러나](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559603)
-#### [노르웨이의 Gassco, 계획되지 않은 가스 공급 중단을 수정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559600)
