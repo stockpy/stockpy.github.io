@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260419_1852 </title></head>
-<center>Vers : 20260419_1852 </center>
-<center>Vers : 20260420_0352 </center>
+<head><meta charset="utf-8"><title>Vers : 20260419_1936 </title></head>
+<center>Vers : 20260419_1936 </center>
+<center>Vers : 20260420_0436 </center>
 <br><br><br>
+#### [우크라이나 총리, IMF가 자영업자에 대한 세금 인상이 '건설적이지 않다'고 합의했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559676)
+#### [영국 경찰, 방화 공격에 대한 이란과의 연관성 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559674)
+#### [파키스탄 총리, 이란 대통령과 회담](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559675)
 #### [미국 보안 기관이 블랙리스트에도 불구하고 앤트로픽의 Mythos를 사용 중이라고 Axios가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559673)
 #### [독일 메르츠, 산업용 AI에 덜 엄격한 EU 규제가 필요하다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559672)
 #### [미국 보안 기관, 블랙리스트에도 불구하고 앤트로픽의 신화 사용, Axios 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559671)
@@ -63,6 +66,3 @@
 #### [미국, 원화의 과도한 변동성 바람직하지 않다는 데 의견 일치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559619)
 #### [우크라이나, 러시아의 파업으로 체르니 히프에서 집에서 십대 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559618)
 #### [터키, 미국과이란이 대화를 계속할 의지가 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559617)
-#### [프랑스와 그리스, 방위 조약을 5년 더 갱신한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559615)
-#### [분석-동맹국들은 서두른 미국?이란 프레임 워크 협상이 역효과를 낼 수 있다고 우려하여 기술적 교착 상태를 남길 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559616)
-#### [이란, 전쟁 전보다 더 빠른 속도로 발사대를 보충한다고 경비 사령관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2559614)
