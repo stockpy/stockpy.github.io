@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260420_1704 </title></head>
-<center>Vers : 20260420_1704 </center>
-<center>Vers : 20260421_0204 </center>
+<head><meta charset="utf-8"><title>Vers : 20260420_1906 </title></head>
+<center>Vers : 20260420_1906 </center>
+<center>Vers : 20260421_0406 </center>
 <br><br><br>
 #### [“환희에 팔았다”…상위 1%, SK하닉 신고가에 팔고 대한전선 담아 [주식 초고수는 지금]](https://m.stock.naver.com/news/ranknews/view/011/0004612511)
 #### [500억→ 9000억, 한달 만에 무려 ‘17배’나…서학개미들 국내로 ‘우르르’ 복귀](https://m.stock.naver.com/news/ranknews/view/016/0002632556)
