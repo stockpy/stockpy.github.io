@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260421_1702 </title></head>
-<center>Vers : 20260421_1702 </center>
-<center>Vers : 20260422_0202 </center>
+<head><meta charset="utf-8"><title>Vers : 20260421_1912 </title></head>
+<center>Vers : 20260421_1912 </center>
+<center>Vers : 20260422_0412 </center>
 <br><br><br>
 #### [고점 공포에 개미 삼전닉스 ’10조' 던질 때... 외인은 ‘3조’ 빈집 채웠다](https://m.stock.naver.com/news/ranknews/view/366/0001158599)
 #### [‘내 주식은 언제 올라?’ 이 와중에 목표가 떨어지는 종목 ‘수두룩’…4월에만 201건 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002633210)
@@ -54,7 +54,7 @@
 #### [[주식 매매 상위 종목 및 환율] 2026년 4월 21일자](https://m.stock.naver.com/news/ranknews/view/023/0003972223)
 #### [미래에셋운용 ‘반도체·커버드콜’ ETF, 상장 당일 개인 뭉칫돈 몰려](https://m.stock.naver.com/news/ranknews/view/648/0000046471)
 #### [미·이란 협상 타결에 베팅한 외환시장…“환율, 1450원대 진입 전망”(종합)](https://m.stock.naver.com/news/ranknews/view/018/0006262854)
-#### ['삼천스닥' 언제쯤…최고치 못 뚫는 코스닥](https://m.stock.naver.com/news/ranknews/view/015/0005277868)
+#### [형 못 따라가는 코스닥…전고점 언제 뚫을까](https://m.stock.naver.com/news/ranknews/view/015/0005277868)
 #### [외국계 IB들 "코스피, 8500까지 간다…현재 눌려있어"](https://m.stock.naver.com/news/ranknews/view/243/0000096746)
 #### [널뛰는 빅테크株… 서학개미 '안전판' ETF로 피신](https://m.stock.naver.com/news/ranknews/view/014/0005511228)
 #### [조선주 실적 청신호…HD현대重 8%·삼성重 5%↑[핫종목]](https://m.stock.naver.com/news/ranknews/view/421/0008902811)
