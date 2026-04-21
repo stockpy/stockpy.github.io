@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260421_1912 </title></head>
-<center>Vers : 20260421_1912 </center>
-<center>Vers : 20260422_0412 </center>
+<head><meta charset="utf-8"><title>Vers : 20260421_2053 </title></head>
+<center>Vers : 20260421_2053 </center>
+<center>Vers : 20260422_0553 </center>
 <br><br><br>
 #### [고점 공포에 개미 삼전닉스 ’10조' 던질 때... 외인은 ‘3조’ 빈집 채웠다](https://m.stock.naver.com/news/ranknews/view/366/0001158599)
 #### [‘내 주식은 언제 올라?’ 이 와중에 목표가 떨어지는 종목 ‘수두룩’…4월에만 201건 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002633210)
