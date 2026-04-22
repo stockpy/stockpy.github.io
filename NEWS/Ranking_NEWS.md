@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260422_1913 </title></head>
-<center>Vers : 20260422_1913 </center>
-<center>Vers : 20260423_0413 </center>
+<head><meta charset="utf-8"><title>Vers : 20260422_2055 </title></head>
+<center>Vers : 20260422_2055 </center>
+<center>Vers : 20260423_0555 </center>
 <br><br><br>
 #### [“올 초 1억 넣었으면, 8.7억 됐다”…19년 만에 ‘신고가’, 난리 난 ‘이 주식’](https://m.stock.naver.com/news/ranknews/view/016/0002633865)
 #### ["이제 슬슬 갈아타볼까"…개미들 삼전닉스 팔고 향한 곳](https://m.stock.naver.com/news/ranknews/view/015/0005278387)
