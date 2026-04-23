@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260423_1720 </title></head>
-<center>Vers : 20260423_1720 </center>
-<center>Vers : 20260424_0220 </center>
+<head><meta charset="utf-8"><title>Vers : 20260423_1909 </title></head>
+<center>Vers : 20260423_1909 </center>
+<center>Vers : 20260424_0409 </center>
 <br><br><br>
 #### ['이건 안들면 손해'…월 50만원씩 넣으면 "최대 12% 지원"](https://m.stock.naver.com/news/ranknews/view/215/0001249989)
 #### [“월급쟁이가 215억 주식 부자”…반도체 불장에 ‘돈방석’ 앉은 삼전닉스 임원들](https://m.stock.naver.com/news/ranknews/view/016/0002634530)
