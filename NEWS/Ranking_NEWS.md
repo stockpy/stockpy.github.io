@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260424_1657 </title></head>
-<center>Vers : 20260424_1657 </center>
-<center>Vers : 20260425_0157 </center>
+<head><meta charset="utf-8"><title>Vers : 20260424_1752 </title></head>
+<center>Vers : 20260424_1752 </center>
+<center>Vers : 20260425_0252 </center>
 <br><br><br>
 #### [“SK하이닉스 234만원 간다”...일본 증권사가 최고로 높은 목표주가 내놔](https://m.stock.naver.com/news/ranknews/view/009/0005671184)
 #### [“코인 다 팔고 당장 문 닫아라”…비트코인 몰빵했다 주가 99% 폭락한 ‘이 회사’](https://m.stock.naver.com/news/ranknews/view/011/0004614289)
