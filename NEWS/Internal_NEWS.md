@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260424_2238 </title></head>
-<center>Vers : 20260424_2238 </center>
-<center>Vers : 20260425_0738 </center>
+<head><meta charset="utf-8"><title>Vers : 20260424_2324 </title></head>
+<center>Vers : 20260424_2324 </center>
+<center>Vers : 20260425_0824 </center>
 <br><br><br>
+#### [도요타 공급 업체 덴소, 칩 제조업체 롬 인수 제안 철회, 닛케이는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568844)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6963.T/total>
+#### [CFTC, 예측 시장 감독을 차단하기 위해 뉴욕을 고소하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568843)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
+#### [베이스 입찰은 조용한 거래의 날에 보합세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568845)
+#### [브라질의 합비다: 지배주주, 지분을 52.47%로 줄인 합비다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568842)
+#### [도요타 공급 업체 덴소, 칩 제조업체 롬 인수 제안 철회, 닛케이는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568841)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6902.T/total>
+#### [오펜하이머 홀딩스 Inc. '현금 스윕' 소송 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568840)
+#### [미국, 스피릿 항공 구조 조정에 방위 생산법 사용 고려, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568838)
+#### [독점-미 국무부, 딥시크 등의 중국 AI 절도 혐의에 대한 글로벌 경고 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568839)
+#### [독점-미국 사법당국, 휴스턴 연료 거래업체 아이콘 미드스트림 사무실 압수수색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568834)
+#### [콜롬비아, 베네수엘라 정상, 카라카스 회담에서 정보 공유에 합의하고 전력 문제 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568837)
+#### [미 재무장관은이란과 러시아 석유에 대한 미국의 면제 갱신을 배제합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568835)
+#### [한국 사료업체, 옥수수 구매, 튀니지 보리 구매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568833)
+#### [소 선물, 공급 부족과 저가 매수세에 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568836)
 #### [라 로사 홀딩스, 2024 년 및 중간 기간의 수익 및 수익 비용 재 진술](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568832)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LRHC.O/total>
 #### [캐나다 국립 은행, 이사 선출 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568831)
@@ -67,22 +83,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/XE.O/total>
 #### [Q32 Bio Inc, 최대 7,500만 달러의 보통주 제공을 위한 추가 투자 설명서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568785)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/QTTB.O/total>
-#### [버진 갤럭틱 - 2026년 4월 24일 2028년 만기 9.80% 선취특권 채권에 대한 추가 약정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568781)
-#### [혼합 선반 크기에 대한 간략한 펜 엔터테인먼트 Inc 파일 공개되지 않음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568778)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PENN.O/total>
-#### [비용 증가와 프로젝트 지연으로 1분기 수익이 감소한 폴 뮬러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568793)
-#### [미국 판사, 레온 블랙 강간 고발자, 변호사 제재](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568780)
-#### [컴캐스트 코퍼레이션 CEO 브라이언 L. 로버츠 2025년 총 보수 3510만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568777)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CMCSA.O/total>
-#### [SHF 홀딩스, 최소 입찰 가격 1.00달러 요건 충족 실패로 나스닥 통지서 수령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568792)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SHFS.O/total>
-#### [나인 에너지 서비스, 2026년 5월 11일부로 수석부사장 겸 CFO직 사임하는 가이 서크스(Guy Sirkes)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568784)
-#### [아크베스트 주식회사의 주주들, 델라웨어에서 텍사스로의 아크베스트 재통합 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568776)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ARCB.O/total>
-#### [2026년 4월 23일에 즉시 효력이 종료된 스파이어 글로벌 유닛의 와일드파이어샛 계약 - SEC 파일링 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568791)
-#### ['로 하향 조정됨 예산 불균형 전망은 안정적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568790)
-#### [니콜라 마이닝 Inc <NICM.OQ>, 주당 2 센트의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568769)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NICM.O/total>
-#### [카툰 스튜디오, 계속 자본에 2,553,047 주 발행하여 $ 1,143,884 및 $ 315,000 부채 정산](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568759)
-#### [요크빌 인수, 케빈 맥거른, 즉시 효력이 발생하는 요크빌 인수 회사의 CEO 겸 이사직 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568775)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MCGA.O/total>
