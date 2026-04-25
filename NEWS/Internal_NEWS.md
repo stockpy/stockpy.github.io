@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260425_2039 </title></head>
-<center>Vers : 20260425_2039 </center>
-<center>Vers : 20260426_0539 </center>
+<head><meta charset="utf-8"><title>Vers : 20260425_2121 </title></head>
+<center>Vers : 20260425_2121 </center>
+<center>Vers : 20260426_0621 </center>
 <br><br><br>
+#### [일본, 수천 명이 집을 떠나면서 나흘째 산불과 사투를 벌이고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568976)
+#### [몰도바 거물 유죄 판결 후 도난당한 10 억 달러에 대한 조사는 계속되어야한다고 최고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568975)
+#### [클로즈 브라더스, FCA의 91 억 파운드 보상 계획에 대한 법적 도전을 추구하지 않기로 결정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568974)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568973)
+#### [오기에가 솔베르크를 이끌고 카나리아 제도 결전에 나선 도요타의 랠리-하이파이브](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568972)
 #### [트럼프, 마르라고에서 암호화폐 콘테스트 우승자 초청해 코인 시들해짐에 따라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568971)
 #### [베레센/하버트 온타리오 219MW 요크 1 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568970)
 #### [이란의 아라크치, 오만 방문 후 파키스탄을 다시 방문할 예정이라고 메흐가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568969)
@@ -58,8 +63,3 @@
 #### [우크라이나 드론이 러시아 예 카테 린 부르크의 아파트 건물에 충돌했다고 현지 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568919)
 #### [두카티의 마크 마르케즈, 베테랑 자르코에게 스페인 GP 폴을 빼앗기다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568916)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568918)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568917)
-#### [마케팅 집단 The Independents, 10억 달러 규모의 지분 매각 추진 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568915)
-#### [추방 방패에 대한 대법원 싸움에서 트럼프는 판사가 역할이 없다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568914)
-#### [언론 비판자 트럼프, 수년간의 보이콧 끝에 연례 행사에 참석하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568913)
-#### [공화당, 중간선거 전략 재정비: 트럼프의 정책은 유지하되 트럼프는 줄인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568912)
