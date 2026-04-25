@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260425_2237 </title></head>
-<center>Vers : 20260425_2237 </center>
-<center>Vers : 20260426_0737 </center>
+<head><meta charset="utf-8"><title>Vers : 20260425_2321 </title></head>
+<center>Vers : 20260425_2321 </center>
+<center>Vers : 20260426_0821 </center>
 <br><br><br>
+#### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568987)
+#### [콜롬비아 폭발물 공격으로 13 명 사망, 경찰 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568986)
+#### [브라질 정당, 법원에 희토류 광산업체 매각 중단 요청 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568985)
+#### [러시아 의회 의장, 평양 방문, KCNA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568984)
+#### [클로즈 브라더스, 산탄데르, 영국의 자동차 금융 구제 제도에 이의를 제기하지 않겠다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568983)
 #### [트럼프, 파키스탄 순방 취소로 이란 전쟁 외교에 차질 빚다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568982)
 #### [우크라이나, 전쟁의 먹구름 속에서 체르노빌 참사 40주년 기념식 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568980)
 #### [러시아가 점령 한 크림 반도의 세 바스 토폴 주지사는 43 대의 우크라이나 드론이 격추되었다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568981)
@@ -58,8 +63,3 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568929)
 #### [산탄데르, FCA의 91 억 파운드 자동차 금융 부당 판매 보상 계획에 도전하지 않기로 결정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568931)
 #### [레바논 남부에 대한 이스라엘 공습으로 4 명 사망, 국영 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568928)
-#### [프랑스 마크롱, EU 상호 지원 조항은 모호하지 않다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568927)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568925)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568924)
-#### [Atco Power Alberta 385MW 배틀 리버 5 석탄 발전소 온라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568926)
-#### [이란이 파키스탄에 미국의 입장에 대한 요구와 유보를 전달했다고 파키스탄 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568923)
