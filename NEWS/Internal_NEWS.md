@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260425_2121 </title></head>
-<center>Vers : 20260425_2121 </center>
-<center>Vers : 20260426_0621 </center>
+<head><meta charset="utf-8"><title>Vers : 20260425_2237 </title></head>
+<center>Vers : 20260425_2237 </center>
+<center>Vers : 20260426_0737 </center>
 <br><br><br>
+#### [트럼프, 파키스탄 순방 취소로 이란 전쟁 외교에 차질 빚다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568982)
+#### [우크라이나, 전쟁의 먹구름 속에서 체르노빌 참사 40주년 기념식 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568980)
+#### [러시아가 점령 한 크림 반도의 세 바스 토폴 주지사는 43 대의 우크라이나 드론이 격추되었다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568981)
+#### [클로즈 브라더스는 영국의 자동차 금융 구제 제도에 대해 법적 조치를 취하지 않을 것이라고 스카이 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568978)
+#### [러시아 의회 의장, 평양 방문, KCNA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568979)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568977)
 #### [일본, 수천 명이 집을 떠나면서 나흘째 산불과 사투를 벌이고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568976)
 #### [몰도바 거물 유죄 판결 후 도난당한 10 억 달러에 대한 조사는 계속되어야한다고 최고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568975)
 #### [클로즈 브라더스, FCA의 91 억 파운드 보상 계획에 대한 법적 도전을 추구하지 않기로 결정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568974)
@@ -57,9 +63,3 @@
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568924)
 #### [Atco Power Alberta 385MW 배틀 리버 5 석탄 발전소 온라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568926)
 #### [이란이 파키스탄에 미국의 입장에 대한 요구와 유보를 전달했다고 파키스탄 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568923)
-#### [EU 상호 지원 조항은 모호하지 않다고 프랑스의 Macron은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568922)
-#### [미국, 베네수엘라가 마약 밀매 사건에서 마두로의 변호사에게 돈을 지불하도록 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568921)
-#### [우크라이나의 젤렌스키, 아제르바이잔과 안보 및 에너지 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568920)
-#### [우크라이나 드론이 러시아 예 카테 린 부르크의 아파트 건물에 충돌했다고 현지 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568919)
-#### [두카티의 마크 마르케즈, 베테랑 자르코에게 스페인 GP 폴을 빼앗기다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568916)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568918)
