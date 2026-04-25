@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260425_1941 </title></head>
-<center>Vers : 20260425_1941 </center>
-<center>Vers : 20260426_0441 </center>
+<head><meta charset="utf-8"><title>Vers : 20260425_2039 </title></head>
+<center>Vers : 20260425_2039 </center>
+<center>Vers : 20260426_0539 </center>
 <br><br><br>
+#### [트럼프, 마르라고에서 암호화폐 콘테스트 우승자 초청해 코인 시들해짐에 따라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568971)
+#### [베레센/하버트 온타리오 219MW 요크 1 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568970)
+#### [이란의 아라크치, 오만 방문 후 파키스탄을 다시 방문할 예정이라고 메흐가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568969)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568968)
 #### [베레센/하버트 온타리오 219MW 요크 1 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568967)
 #### [미국 북서부 강 유량이 91%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568966)
@@ -60,6 +63,3 @@
 #### [추방 방패에 대한 대법원 싸움에서 트럼프는 판사가 역할이 없다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568914)
 #### [언론 비판자 트럼프, 수년간의 보이콧 끝에 연례 행사에 참석하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568913)
 #### [공화당, 중간선거 전략 재정비: 트럼프의 정책은 유지하되 트럼프는 줄인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568912)
-#### ['보는 것이 믿는 것'의 붕괴에 대한 문화의 흐름-얄다 하킴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568910)
-#### [CEO가 5월 초에 Eni 역할을 위해 떠납니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568911)
-#### [견고한 대출 성장에 힘입어 분기별 수익이 급증한 인도 RBL 은행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568909)
