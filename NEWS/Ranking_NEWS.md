@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260425_1854 </title></head>
-<center>Vers : 20260425_1854 </center>
-<center>Vers : 20260426_0354 </center>
+<head><meta charset="utf-8"><title>Vers : 20260425_1941 </title></head>
+<center>Vers : 20260425_1941 </center>
+<center>Vers : 20260426_0441 </center>
 <br><br><br>
 #### ["삼성전자 25만원 되면 냉큼 팔아도, 10만전자 가면 끝까지 버틸걸요" [개미의 세계]](https://m.stock.naver.com/news/ranknews/view/014/0005513053)
 #### [‘비트코인, 박수 칠 때 떠나라’…한국인은 왜 암호화폐에 푹 빠졌을까 [새책]](https://m.stock.naver.com/news/ranknews/view/009/0005671311)

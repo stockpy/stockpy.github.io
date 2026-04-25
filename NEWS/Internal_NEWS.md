@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260425_1854 </title></head>
-<center>Vers : 20260425_1854 </center>
-<center>Vers : 20260426_0354 </center>
+<head><meta charset="utf-8"><title>Vers : 20260425_1941 </title></head>
+<center>Vers : 20260425_1941 </center>
+<center>Vers : 20260426_0441 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568968)
+#### [베레센/하버트 온타리오 219MW 요크 1 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568967)
+#### [미국 북서부 강 유량이 91%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568966)
+#### [독일 극우 AfD가 28 %로 상승, INSA 여론 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568965)
 #### [파키스탄 총리는이란 대통령과 지역 상황에 대해 이야기했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568964)
 #### [트럼프는 3 월에 최소 5100 만 달러의 채권을 매입했다고 공개했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568963)
 #### [ISS, WEX 투자자들에게 이사회 싸움에서 두 명의 임팩티브 이사 후보 선출 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568962)
@@ -59,7 +63,3 @@
 #### ['보는 것이 믿는 것'의 붕괴에 대한 문화의 흐름-얄다 하킴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568910)
 #### [CEO가 5월 초에 Eni 역할을 위해 떠납니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568911)
 #### [견고한 대출 성장에 힘입어 분기별 수익이 급증한 인도 RBL 은행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568909)
-#### [테르나, CEO 주세피나 디 포지아가 2026년 5월 5일부로 이사직과 역할을 조기 종료하는 데 동의했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568908)
-#### [이탈리아 그리드 운영사 Terna, 디 포지아 CEO가 5월에 떠날 예정이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568907)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568905)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568904)
