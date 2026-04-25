@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260425_1641 </title></head>
-<center>Vers : 20260425_1641 </center>
-<center>Vers : 20260426_0141 </center>
+<head><meta charset="utf-8"><title>Vers : 20260425_1725 </title></head>
+<center>Vers : 20260425_1725 </center>
+<center>Vers : 20260426_0225 </center>
 <br><br><br>
+#### [펄스 바이오사이언스, 엔펄스 심장 카테터 시스템의 긍정적인 임상 데이터 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568959)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLSE.O/total>
+#### [세계 단체, 2027년 1월부터 3x15 채점 시스템으로 전환 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568958)
+#### [멕시코, 미국 요원들이 현지 보안 작전에 참여할 수있는 인증이 부족하다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568957)
+#### [메드트로닉, FDA가 VT용 Sphere-9 카테터에 대해 획기적 장치 지정을 승인했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568956)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568955)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568954)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568953)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568952)
@@ -57,9 +63,3 @@
 #### [이탈리아의 '아빠 인플루언서'가 일과 가정의 서사를 재구성하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568903)
 #### [트럼프, 마르라고에서 암호화폐 콘테스트 우승자 초청해 코인 시들해짐에 따라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568901)
 #### [이탈리아, 온라인에서 아빠의 역할을 재정의하는 아빠들의 평등 육아휴직 투표 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568900)
-#### [독일 에너지 공급업체 E.ON, 오보 에너지 인수를 위한 사전 협의 중 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568899)
-#### [중국 경제 둔화로 더욱 치열해진 경쟁에 직면한 독일 자동차 산업](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568898)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9866.HK/total>
-#### [OpenAI 책임자, 총격 용의자를 경찰에 신고하지 않은 것에 대해 사과하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568897)
-#### [미국 협상 이후 호르무즈 지뢰 제거에서 역할을 고려할 수 있다고 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568896)
-#### [알리 예프와 만나기 위해 아제르바이잔에있는 우크라이나의 젤 렌 스키, 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568895)
