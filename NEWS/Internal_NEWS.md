@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260425_1725 </title></head>
-<center>Vers : 20260425_1725 </center>
-<center>Vers : 20260426_0225 </center>
+<head><meta charset="utf-8"><title>Vers : 20260425_1854 </title></head>
+<center>Vers : 20260425_1854 </center>
+<center>Vers : 20260426_0354 </center>
 <br><br><br>
+#### [파키스탄 총리는이란 대통령과 지역 상황에 대해 이야기했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568964)
+#### [트럼프는 3 월에 최소 5100 만 달러의 채권을 매입했다고 공개했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568963)
+#### [ISS, WEX 투자자들에게 이사회 싸움에서 두 명의 임팩티브 이사 후보 선출 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568962)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568960)
+#### [루마니아, 러시아의 우크라이나 공격 후 두 번째 드론의 부품 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568961)
 #### [펄스 바이오사이언스, 엔펄스 심장 카테터 시스템의 긍정적인 임상 데이터 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568959)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLSE.O/total>
 #### [세계 단체, 2027년 1월부터 3x15 채점 시스템으로 전환 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568958)
@@ -58,8 +63,3 @@
 #### [이탈리아 그리드 운영사 Terna, 디 포지아 CEO가 5월에 떠날 예정이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568907)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568905)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568904)
-#### [인도 Axis Bank, 거래 수익 감소로 이익 전망치 하회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568906)
-#### [러시아 군, 우크라이나 북동부 마을 점령, 타스 통신 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568902)
-#### [이탈리아의 '아빠 인플루언서'가 일과 가정의 서사를 재구성하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568903)
-#### [트럼프, 마르라고에서 암호화폐 콘테스트 우승자 초청해 코인 시들해짐에 따라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568901)
-#### [이탈리아, 온라인에서 아빠의 역할을 재정의하는 아빠들의 평등 육아휴직 투표 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568900)
