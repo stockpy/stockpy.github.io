@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260425_1526 </title></head>
-<center>Vers : 20260425_1526 </center>
-<center>Vers : 20260426_0026 </center>
+<head><meta charset="utf-8"><title>Vers : 20260425_1641 </title></head>
+<center>Vers : 20260425_1641 </center>
+<center>Vers : 20260426_0141 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568954)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568953)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568952)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568951)
+#### [핀란드, 러시아에 대한 세계 아쿠아틱스 결정으로 개최 보이콧 동참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568950)
+#### [독일 정부, 러시아가 정치인을 표적으로 삼은 신호 공격 의심, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568948)
+#### [트럼프는이란 회담을 위해 미국 협상가들의 파키스탄 방문을 취소했다고 폭스 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568949)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568947)
 #### [모터사이클-마크 마르케즈, 빗길 충돌에도 불구하고 혼란스러운 스페인 GP 스프린트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568946)
 #### [루한스크에서 우크라이나 공격으로 3 명 사망, 러시아 설치 관리, 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568945)
@@ -56,10 +63,3 @@
 #### [OpenAI 책임자, 총격 용의자를 경찰에 신고하지 않은 것에 대해 사과하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568897)
 #### [미국 협상 이후 호르무즈 지뢰 제거에서 역할을 고려할 수 있다고 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568896)
 #### [알리 예프와 만나기 위해 아제르바이잔에있는 우크라이나의 젤 렌 스키, 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568895)
-#### [인도 재무 장관, 시장 규제 기관이 글로벌 규제 기관과의 협의를 강화해야한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568894)
-#### [인도 장관, 시장 규제 당국에 글로벌 협의 강화, 사이버 위험 해결 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568893)
-#### [우크라이나에 대한 러시아의 대규모 공격으로 4명이 사망하고 수십 명이 부상당했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568892)
-#### [이란, 시위 방해 혐의로 이스라엘을 위해 일하는 요원을 교수형에 처했다고 밝혔다 - Tasnim](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568891)
-#### [노스랜드 파워 온타리오 287MW 소롤드 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568890)
-#### [러시아, 660대 이상의 드론과 미사일로 하룻밤 사이에 우크라이나 공격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568889)
-#### [트랜스캐나다 온타리오 226MW 할튼힐스 2 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568888)
