@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260426_1726 </title></head>
-<center>Vers : 20260426_1726 </center>
-<center>Vers : 20260427_0226 </center>
+<head><meta charset="utf-8"><title>Vers : 20260426_1855 </title></head>
+<center>Vers : 20260426_1855 </center>
+<center>Vers : 20260427_0355 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프 라인 유지보수 - 유지보수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569131)
+#### [로이터 미국 스포츠 일정 4월 26일 일요일 오후 2시 5분(동부 표준시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569129)
+#### [미국 북서부 강 유량 최대 92% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569130)
+#### [버킹엄 궁전, 찰스 왕세자의 미국 여행이 진행될 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569128)
+#### [이탈리아, 미국 당국이 수배 한 중국 해커 용의자 인도, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569127)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569126)
 #### [랠리 드 왈로니에서 충돌 후 다치지 않은 랠리-조스 버스타펜](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569125)
 #### [우크라이나, 체르노빌 원전 사고 40주년 기념?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569124)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569123)
@@ -59,10 +65,3 @@
 #### [북 아일랜드 경찰, 자동차 폭발을 살인 미수로 수사하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569075)
 #### [솔베르그, 카나리아 제도에서 오지에의 선두 추격 중 충돌 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569074)
 #### [트랜살타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569072)
-#### [중국 헝리 석유화학, 미국 제재에 대응해 이란과의 무역 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569069)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600346.SS/total>
-#### [마라톤-케냐의 소웨, 런던에서 2시간 이내에 마라톤을 완주해 우승한 최초의 남자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569071)
-#### [호주 웡 장관, 에너지 안보 논의 위해 일본, 중국, 한국 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569070)
-#### [케냐의 소웨, 런던에서 2시간 이내에 마라톤을 완주해 우승한 최초의 남자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569068)
-#### [유엔이 공격 후 국제적 대응을 촉구하면서 말리 마을에서 총격전이 계속되고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569066)
-#### [헝가리, 이번 주 EU 기금 관련 회담을 위해 EU의 폰데어라이엔 집행위원장을 만나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569067)

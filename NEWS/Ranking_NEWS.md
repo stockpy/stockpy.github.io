@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260426_1726 </title></head>
-<center>Vers : 20260426_1726 </center>
-<center>Vers : 20260427_0226 </center>
+<head><meta charset="utf-8"><title>Vers : 20260426_1855 </title></head>
+<center>Vers : 20260426_1855 </center>
+<center>Vers : 20260427_0355 </center>
 <br><br><br>
 #### [자식이 손주 안겨주자…에어컨도 안켜던 ‘구두쇠 60대’ 지갑 열렸다](https://m.stock.naver.com/news/ranknews/view/009/0005671413)
 #### [코스피 6500인데도…"삼전닉스 팔아 현금 챙길래" 개미는 이번 달 14.7조 '팔자'](https://m.stock.naver.com/news/ranknews/view/277/0005754844)
