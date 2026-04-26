@@ -1,7 +1,29 @@
-<head><meta charset="utf-8"><title>Vers : 20260426_1127 </title></head>
-<center>Vers : 20260426_1127 </center>
-<center>Vers : 20260426_2027 </center>
+<head><meta charset="utf-8"><title>Vers : 20260426_1307 </title></head>
+<center>Vers : 20260426_1307 </center>
+<center>Vers : 20260426_2207 </center>
 <br><br><br>
+#### [알렉스 마르케즈, 스페인 그랑프리 우승, 동생 마크는 추락 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569093)
+#### [말리 국방부 장관, 주말 대규모 공격으로 사망 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569092)
+#### [버킹엄 궁전, 워싱턴 총격 사건 이후 찰스 왕세자의 미국 방문 논의 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569090)
+#### [미 법무부 장관 대행은 총격 사건이 트럼프 행정부 관리들을 겨냥한 것 같다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569091)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569086)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569084)
+#### [백악관 기자 만찬에서 총격이 발생하자 목격자들이 혼란에 대해 이야기합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569089)
+#### [말리 국방부 장관, 바마코 인근에서 알 카에다와 연계된 공격으로 사망, RFI 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569083)
+#### [차량 납치 후 북아일랜드 경찰서 밖에서 차량 폭탄이 폭발합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569088)
+#### [미국 법무부 장관 대행, WHCD 총격 사건 이후 찰스 왕세자의 안전에 대한 자신감 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569085)
+#### [독일, 유럽 대출기관들이 UniCredit의 인수 입찰에 맞서 코메르츠방크를 방어하기 위해 나섰다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569087)
+#### [미국 법무 장관 대행은 WHCD 용의자가 트럼프 행정부 관리들을 표적으로 삼았을 가능성이 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569080)
+#### [교황 레오, 전쟁을 일으키는 사람들은 우리의 평화로운 미래를 훔치는 도둑이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569081)
+#### [미국 구매자가 구할 수없는 중국 자동차를 외국인에게 안내하는 미국 유튜버](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569082)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9863.HK/total>
+#### [총격 사건 후 연대를 표명하기 위해 트럼프와 통화한 EU의 폰 데어 라이엔](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569079)
+#### [우크라이나, 전쟁의 먹구름 속에서 체르노빌 참사 40주년을 맞이하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569078)
+#### [이스라엘, '완충 지역' 너머 레바논 7개 마을에 대피 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569076)
+#### [이란의 아라크치, 오만과 전쟁 종식 및 호르무즈 보안 노력 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569077)
+#### [찰스 왕세자는 총격 후 트럼프와 영부인을 무사히 구출했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569073)
+#### [북 아일랜드 경찰, 자동차 폭발을 살인 미수로 수사하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569075)
+#### [솔베르그, 카나리아 제도에서 오지에의 선두 추격 중 충돌 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569074)
 #### [트랜살타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569072)
 #### [중국 헝리 석유화학, 미국 제재에 대응해 이란과의 무역 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569069)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600346.SS/total>
@@ -51,6 +73,10 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600119.SS/total>
 #### [화공테크 1분기 순이익, 전년 동기 대비 55.8% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569037)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000988.SZ/total>
+<head><meta charset="utf-8"><title>Vers : 20260426_1307 </title></head>
+<center>Vers : 20260426_1307 </center>
+<center>Vers : 20260426_2207 </center>
+<br><br><br>
 #### [베이징 헝위 데이터 통신 항공 장비의 주식 거래가 중단됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569040)
 #### [후난 골드 1분기 순이익, 전년 동기 대비 79.2% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569031)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002155.SZ/total>
@@ -75,10 +101,6 @@
 #### [백악관 특파원 만찬 총격 사건의 용의자 콜 앨런은 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569015)
 #### [백악관 특파원 만찬 총격 사건의 전개 과정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569014)
 #### [WHCD 만찬 용의자는 법 집행 기관에 트럼프 관리들을 표적으로 삼고 있다고 말했다고 CBS 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569012)
-<head><meta charset="utf-8"><title>Vers : 20260426_1127 </title></head>
-<center>Vers : 20260426_1127 </center>
-<center>Vers : 20260426_2027 </center>
-<br><br><br>
 #### [알라드나 알제리, 미국으로부터 젖소 공수 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569013)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569011)
 #### [주목해야 할 요소 - 4월 26일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569010)
@@ -118,6 +140,10 @@
 #### [일본, 수천 명이 집을 떠나면서 나흘째 산불과 사투를 벌이고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568976)
 #### [몰도바 거물 유죄 판결 후 도난당한 10 억 달러에 대한 조사는 계속되어야한다고 최고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568975)
 #### [클로즈 브라더스, FCA의 91 억 파운드 보상 계획에 대한 법적 도전을 추구하지 않기로 결정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568974)
+<head><meta charset="utf-8"><title>Vers : 20260426_1307 </title></head>
+<center>Vers : 20260426_1307 </center>
+<center>Vers : 20260426_2207 </center>
+<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568973)
 #### [오기에가 솔베르크를 이끌고 카나리아 제도 결전에 나선 도요타의 랠리-하이파이브](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568972)
 #### [트럼프, 마르라고에서 암호화폐 콘테스트 우승자 초청해 코인 시들해짐에 따라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568971)
@@ -140,10 +166,6 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568955)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568954)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568953)
-<head><meta charset="utf-8"><title>Vers : 20260426_1127 </title></head>
-<center>Vers : 20260426_1127 </center>
-<center>Vers : 20260426_2027 </center>
-<br><br><br>
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568952)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568951)
 #### [핀란드, 러시아에 대한 세계 아쿠아틱스 결정으로 개최 보이콧 동참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568950)
@@ -183,25 +205,3 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568917)
 #### [마케팅 집단 The Independents, 10억 달러 규모의 지분 매각 추진 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568915)
 #### [추방 방패에 대한 대법원 싸움에서 트럼프는 판사가 역할이 없다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568914)
-#### [언론 비판자 트럼프, 수년간의 보이콧 끝에 연례 행사에 참석하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568913)
-#### [공화당, 중간선거 전략 재정비: 트럼프의 정책은 유지하되 트럼프는 줄인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568912)
-#### ['보는 것이 믿는 것'의 붕괴에 대한 문화의 흐름-얄다 하킴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568910)
-#### [CEO가 5월 초에 Eni 역할을 위해 떠납니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568911)
-#### [견고한 대출 성장에 힘입어 분기별 수익이 급증한 인도 RBL 은행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568909)
-#### [테르나, CEO 주세피나 디 포지아가 2026년 5월 5일부로 이사직과 역할을 조기 종료하는 데 동의했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568908)
-#### [이탈리아 그리드 운영사 Terna, 디 포지아 CEO가 5월에 떠날 예정이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568907)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568905)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568904)
-#### [인도 Axis Bank, 거래 수익 감소로 이익 전망치 하회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568906)
-#### [러시아 군, 우크라이나 북동부 마을 점령, 타스 통신 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568902)
-#### [이탈리아의 '아빠 인플루언서'가 일과 가정의 서사를 재구성하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568903)
-#### [트럼프, 마르라고에서 암호화폐 콘테스트 우승자 초청해 코인 시들해짐에 따라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568901)
-#### [이탈리아, 온라인에서 아빠의 역할을 재정의하는 아빠들의 평등 육아휴직 투표 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568900)
-#### [독일 에너지 공급업체 E.ON, 오보 에너지 인수를 위한 사전 협의 중 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568899)
-#### [중국 경제 둔화로 더욱 치열해진 경쟁에 직면한 독일 자동차 산업](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568898)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9866.HK/total>
-#### [OpenAI 책임자, 총격 용의자를 경찰에 신고하지 않은 것에 대해 사과하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568897)
-#### [미국 협상 이후 호르무즈 지뢰 제거에서 역할을 고려할 수 있다고 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568896)
-#### [알리 예프와 만나기 위해 아제르바이잔에있는 우크라이나의 젤 렌 스키, 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568895)
-#### [인도 재무 장관, 시장 규제 기관이 글로벌 규제 기관과의 협의를 강화해야한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568894)
-#### [인도 장관, 시장 규제 당국에 글로벌 협의 강화, 사이버 위험 해결 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568893)
