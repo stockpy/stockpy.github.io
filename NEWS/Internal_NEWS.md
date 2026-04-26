@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260426_1642 </title></head>
-<center>Vers : 20260426_1642 </center>
-<center>Vers : 20260427_0142 </center>
+<head><meta charset="utf-8"><title>Vers : 20260426_1726 </title></head>
+<center>Vers : 20260426_1726 </center>
+<center>Vers : 20260427_0226 </center>
 <br><br><br>
+#### [랠리 드 왈로니에서 충돌 후 다치지 않은 랠리-조스 버스타펜](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569125)
+#### [우크라이나, 체르노빌 원전 사고 40주년 기념?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569124)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569123)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569121)
 #### [트럼프, 푸틴 및 젤렌스키와 통화했다고 밝혀 -Fox News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569119)
 #### [콜롬비아 고속도로 공격으로 사망자 19명으로 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569122)
@@ -63,6 +66,3 @@
 #### [케냐의 소웨, 런던에서 2시간 이내에 마라톤을 완주해 우승한 최초의 남자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569068)
 #### [유엔이 공격 후 국제적 대응을 촉구하면서 말리 마을에서 총격전이 계속되고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569066)
 #### [헝가리, 이번 주 EU 기금 관련 회담을 위해 EU의 폰데어라이엔 집행위원장을 만나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569067)
-#### [콜롬비아에서 폭발물 공격으로 12명 이상 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569065)
-#### [몬타나 화재 피해자 치료 비용 청구로 이탈리아 분노](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569064)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569063)

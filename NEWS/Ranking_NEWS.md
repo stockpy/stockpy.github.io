@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260426_1642 </title></head>
-<center>Vers : 20260426_1642 </center>
-<center>Vers : 20260427_0142 </center>
+<head><meta charset="utf-8"><title>Vers : 20260426_1726 </title></head>
+<center>Vers : 20260426_1726 </center>
+<center>Vers : 20260427_0226 </center>
 <br><br><br>
 #### [자식이 손주 안겨주자…에어컨도 안켜던 ‘구두쇠 60대’ 지갑 열렸다](https://m.stock.naver.com/news/ranknews/view/009/0005671413)
 #### [코스피 6500인데도…"삼전닉스 팔아 현금 챙길래" 개미는 이번 달 14.7조 '팔자'](https://m.stock.naver.com/news/ranknews/view/277/0005754844)
@@ -25,7 +25,7 @@
 #### [엄마가 사준 3천만원 SK하이닉스 주식 9억 됐다…세금은?](https://m.stock.naver.com/news/ranknews/view/374/0000506654)
 #### [“7천피 갈수 있겠지만, 이쯤 먹었으면 됐어요”…개미 역대 최대 순매도 ‘눈앞’](https://m.stock.naver.com/news/ranknews/view/009/0005671461)
 #### [“너희가 AI 투자한다고 되겠어?”...8천명 날려도 주가 힘 못쓰는 메타](https://m.stock.naver.com/news/ranknews/view/009/0005671597)
-#### ['로봇 대장주' 등극한 현대차, 시총 300조 고지 밟았다](https://m.stock.naver.com/news/ranknews/view/015/0005279678)
+#### [현대차그룹, 로봇·방산 앞세워 시총 300조 고지](https://m.stock.naver.com/news/ranknews/view/015/0005279678)
 #### [실적 이후 엇갈린 반도체 투톱…삼성전자 웃고 SK하이닉스 ‘셀온’](https://m.stock.naver.com/news/ranknews/view/029/0003023643)
 #### ['이젠 코인 오르겠네' 3조6000억 몰리더니…'파격 전망'](https://m.stock.naver.com/news/ranknews/view/015/0005279697)
 #### ['코너스톤' 법제화…공모가 거품 잡을까, 개미 몫 줄일까](https://m.stock.naver.com/news/ranknews/view/629/0000494743)
@@ -55,7 +55,7 @@
 #### [은행 순위 요동 … 1분기 1~5위 다 바뀌었다](https://m.stock.naver.com/news/ranknews/view/009/0005671523)
 #### [꿈의 기술에 몰린 돈, 3일 만에 증발…양자株 롤러코스터[춤추는 테마주②]](https://m.stock.naver.com/news/ranknews/view/003/0013909673)
 #### [우주로 향하는 투심 … 발사체 기업 뭉칫돈](https://m.stock.naver.com/news/ranknews/view/009/0005671538)
-#### [3조에 샀던 하이닉스, 14년 만에 878조로](https://m.stock.naver.com/news/ranknews/view/015/0005279676)
+#### [13조 하이닉스, 14년 만에 870조로](https://m.stock.naver.com/news/ranknews/view/015/0005279676)
 #### [5000 붕괴라더니 증권가는 “코스피 8000 간다”…삼성전자·하닉 역대급 실적에 개미들 ‘싱글벙글’](https://m.stock.naver.com/news/ranknews/view/011/0004614742)
 #### ["전례 없는 메모리 업사이클…반도체 소부장 고점 논하기 일러"](https://m.stock.naver.com/news/ranknews/view/008/0005349440)
 #### [돈 몰린 휴머노이드 ETF…성적은 韓 울고 美 웃었다](https://m.stock.naver.com/news/ranknews/view/011/0004614807)
