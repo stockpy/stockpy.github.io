@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260426_1307 </title></head>
-<center>Vers : 20260426_1307 </center>
-<center>Vers : 20260426_2207 </center>
+<head><meta charset="utf-8"><title>Vers : 20260426_1443 </title></head>
+<center>Vers : 20260426_1443 </center>
+<center>Vers : 20260426_2343 </center>
 <br><br><br>
+#### [포가카, 데뷔한 세이카스를 누르고 리에주 3연패를 달성했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569106)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569105)
+#### [미 상원의원 틸리스, 워시를 연준 의장으로 지명할 준비가 됐다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569104)
+#### [팔레스타인 지도자의 충성파, 가자지구 일부 의석 포함 지방선거 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569103)
+#### [팔레스타인 지도자의 충성파, 가자 지구 일부를 포함한 지방 선거 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569101)
+#### [아다지오 메디컬, vCLAS 심실 절제 시스템에 대한 긍정적인 중추적 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569102)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ADGM.O/total>
+#### [틸리스 미 상원 의원은 워시를 연준 의장으로 확정 할 준비가되어 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569100)
+#### [일본, 북부에서 산불이 발생하자 수백 명의 소방관 배치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569097)
+#### [트럼프는 백악관 특파원 만찬에서 총격 사건의 표적이었을 가능성이 있다고 미국 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569099)
+#### [모터사이클-알렉스 마르케즈, 형 마크의 추락으로 스페인 그랑프리 재우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569098)
+#### [영국 스타머와 트럼프, 호르무즈 해협에서 해운 복원을 위한 '긴급한 필요성' 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569096)
+#### [영국 스타머, 총격 후 트럼프에게 안도감을 전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569095)
+#### [월스트리트 한 주를 앞두고-급등하는 미국 증시는 기술 주도 실적, 연준 회의의 중요한 주를 맞이합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569094)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
 #### [알렉스 마르케즈, 스페인 그랑프리 우승, 동생 마크는 추락 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569093)
 #### [말리 국방부 장관, 주말 대규모 공격으로 사망 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569092)
 #### [버킹엄 궁전, 워싱턴 총격 사건 이후 찰스 왕세자의 미국 방문 논의 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569090)
@@ -52,6 +67,10 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301035.SZ/total>
 #### [안후이 오리비 테크놀로지, 유나이티드 파워 파마 테크의 경영권 인수 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569049)
 #### [영국, 찰스 왕세자 방문 앞두고 미국과 안보에 긴밀히 협력한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569047)
+<head><meta charset="utf-8"><title>Vers : 20260426_1443 </title></head>
+<center>Vers : 20260426_1443 </center>
+<center>Vers : 20260426_2343 </center>
+<br><br><br>
 #### [러시아 국방부 장관, 북한 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569046)
 #### [루이 필름 엔터테인먼트 1분기 순이익, 전년 동기 대비 89.5% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569045)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002739.SZ/total>
@@ -73,10 +92,6 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600119.SS/total>
 #### [화공테크 1분기 순이익, 전년 동기 대비 55.8% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569037)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000988.SZ/total>
-<head><meta charset="utf-8"><title>Vers : 20260426_1307 </title></head>
-<center>Vers : 20260426_1307 </center>
-<center>Vers : 20260426_2207 </center>
-<br><br><br>
 #### [베이징 헝위 데이터 통신 항공 장비의 주식 거래가 중단됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569040)
 #### [후난 골드 1분기 순이익, 전년 동기 대비 79.2% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569031)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002155.SZ/total>
@@ -127,6 +142,10 @@
 #### [대만 외무 장관, 대통령의 여행이 차단 된 후 에스와티니에 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568989)
 #### [콜롬비아 폭발물 공격으로 13 명 사망, 경찰 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568988)
 #### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568987)
+<head><meta charset="utf-8"><title>Vers : 20260426_1443 </title></head>
+<center>Vers : 20260426_1443 </center>
+<center>Vers : 20260426_2343 </center>
+<br><br><br>
 #### [콜롬비아 폭발물 공격으로 13 명 사망, 경찰 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568986)
 #### [브라질 정당, 법원에 희토류 광산업체 매각 중단 요청 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568985)
 #### [러시아 의회 의장, 평양 방문, KCNA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568984)
@@ -140,10 +159,6 @@
 #### [일본, 수천 명이 집을 떠나면서 나흘째 산불과 사투를 벌이고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568976)
 #### [몰도바 거물 유죄 판결 후 도난당한 10 억 달러에 대한 조사는 계속되어야한다고 최고 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568975)
 #### [클로즈 브라더스, FCA의 91 억 파운드 보상 계획에 대한 법적 도전을 추구하지 않기로 결정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568974)
-<head><meta charset="utf-8"><title>Vers : 20260426_1307 </title></head>
-<center>Vers : 20260426_1307 </center>
-<center>Vers : 20260426_2207 </center>
-<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568973)
 #### [오기에가 솔베르크를 이끌고 카나리아 제도 결전에 나선 도요타의 랠리-하이파이브](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568972)
 #### [트럼프, 마르라고에서 암호화폐 콘테스트 우승자 초청해 코인 시들해짐에 따라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568971)
@@ -192,16 +207,3 @@
 #### [산탄데르, FCA의 91 억 파운드 자동차 금융 부당 판매 보상 계획에 도전하지 않기로 결정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568931)
 #### [레바논 남부에 대한 이스라엘 공습으로 4 명 사망, 국영 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568928)
 #### [프랑스 마크롱, EU 상호 지원 조항은 모호하지 않다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568927)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568925)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568924)
-#### [Atco Power Alberta 385MW 배틀 리버 5 석탄 발전소 온라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568926)
-#### [이란이 파키스탄에 미국의 입장에 대한 요구와 유보를 전달했다고 파키스탄 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568923)
-#### [EU 상호 지원 조항은 모호하지 않다고 프랑스의 Macron은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568922)
-#### [미국, 베네수엘라가 마약 밀매 사건에서 마두로의 변호사에게 돈을 지불하도록 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568921)
-#### [우크라이나의 젤렌스키, 아제르바이잔과 안보 및 에너지 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568920)
-#### [우크라이나 드론이 러시아 예 카테 린 부르크의 아파트 건물에 충돌했다고 현지 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568919)
-#### [두카티의 마크 마르케즈, 베테랑 자르코에게 스페인 GP 폴을 빼앗기다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568916)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568918)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568917)
-#### [마케팅 집단 The Independents, 10억 달러 규모의 지분 매각 추진 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568915)
-#### [추방 방패에 대한 대법원 싸움에서 트럼프는 판사가 역할이 없다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568914)
