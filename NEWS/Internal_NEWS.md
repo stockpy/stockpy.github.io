@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260426_2121 </title></head>
-<center>Vers : 20260426_2121 </center>
-<center>Vers : 20260427_0621 </center>
+<head><meta charset="utf-8"><title>Vers : 20260426_2239 </title></head>
+<center>Vers : 20260426_2239 </center>
+<center>Vers : 20260427_0739 </center>
 <br><br><br>
+#### [이란 평화 협상이 교착 상태에 빠지면서 유가가 2% 이상 급등했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569145)
+#### [우크라이나 동결에 대한 미국의 감소에도 불구하고 전 세계 군사비 지출 2.9% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569144)
+#### [브로커리지, 새로운 재보험 커버에 대한 호주 선코프의 PT 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569143)
+#### [온타리오 269MW 로워 노치 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569142)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569141)
 #### [규모 6.1의 지진이 일본 홋카이도를 강타했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569140)
 #### [노블 1분기 조정 주당순이익 0.26달러 대 IBES 추정치 0.24달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569139)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569137)
@@ -59,8 +64,3 @@
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569084)
 #### [백악관 기자 만찬에서 총격이 발생하자 목격자들이 혼란에 대해 이야기합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569089)
 #### [말리 국방부 장관, 바마코 인근에서 알 카에다와 연계된 공격으로 사망, RFI 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569083)
-#### [차량 납치 후 북아일랜드 경찰서 밖에서 차량 폭탄이 폭발합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569088)
-#### [미국 법무부 장관 대행, WHCD 총격 사건 이후 찰스 왕세자의 안전에 대한 자신감 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569085)
-#### [독일, 유럽 대출기관들이 UniCredit의 인수 입찰에 맞서 코메르츠방크를 방어하기 위해 나섰다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569087)
-#### [미국 법무 장관 대행은 WHCD 용의자가 트럼프 행정부 관리들을 표적으로 삼았을 가능성이 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569080)
-#### [교황 레오, 전쟁을 일으키는 사람들은 우리의 평화로운 미래를 훔치는 도둑이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569081)
