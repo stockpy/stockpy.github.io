@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260426_1529 </title></head>
-<center>Vers : 20260426_1529 </center>
-<center>Vers : 20260427_0029 </center>
+<head><meta charset="utf-8"><title>Vers : 20260426_1642 </title></head>
+<center>Vers : 20260426_1642 </center>
+<center>Vers : 20260427_0142 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569121)
+#### [트럼프, 푸틴 및 젤렌스키와 통화했다고 밝혀 -Fox News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569119)
+#### [콜롬비아 고속도로 공격으로 사망자 19명으로 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569122)
+#### [라이젠, 채권단에 채무 재조정을 위한 대체 조건 제안, 블룸버그 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569120)
+#### [트럼프, 푸틴 및 젤렌스키와 대화한다고 말하다 -Fox News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569118)
+#### [트럼프, 폭스 뉴스에 이란이 협상을 원하면 미국에 전화할 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569117)
+#### [페루의 후지모리, 좌파 산체스, 대선 결선 투표에서 교착 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569116)
+#### [트럼프, 폭스 뉴스에 이란이 협상 원하면 미국에 전화 할 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569115)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569114)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569113)
 #### [트럼프, 총격 용의자가 무도회장에 가까이 오지 않았다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569111)
@@ -58,11 +66,3 @@
 #### [콜롬비아에서 폭발물 공격으로 12명 이상 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569065)
 #### [몬타나 화재 피해자 치료 비용 청구로 이탈리아 분노](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569064)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569063)
-#### [UAE, 산업 회복력을위한 10 억 디르함 국가 기금 설립, 총리, 총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569062)
-#### [이스라엘 군, 리타니 강 북쪽의 7 개 레바논 마을에 대피 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569061)
-#### [백악관 기자 만찬 총격 용의자 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569057)
-#### [올랜도 국제 공항의 장비 관련 지상 정류장, FAA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569059)
-#### [바이엘의 미국 대법원 판례는 수천 건의 라운드업 소송에 어떤 의미가 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569060)
-#### [민주당은 트럼프 제거가 유용한 중간선거 메시지인지에 대해 의견이 분분합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569058)
-#### [미국 고등 법원이 판결을 준비함에 따라 미국인들은 선천적 시민권 폐지에 반대한다고 로이터 / 입소스 여론 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569056)
-#### [영국 금융 및 리스 협회, 시티 워치독의 자동차 금융 부당 판매 보상 제도에 이의를 제기하지 않기로 결정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569055)
