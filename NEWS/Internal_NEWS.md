@@ -1,7 +1,39 @@
-<head><meta charset="utf-8"><title>Vers : 20260426_0740 </title></head>
-<center>Vers : 20260426_0740 </center>
-<center>Vers : 20260426_1640 </center>
+<head><meta charset="utf-8"><title>Vers : 20260426_0901 </title></head>
+<center>Vers : 20260426_0901 </center>
+<center>Vers : 20260426_1801 </center>
 <br><br><br>
+#### [영국, 찰스 왕세자 방문 앞두고 미국과 안보에 긴밀히 협력한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569047)
+#### [러시아 국방부 장관, 북한 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569046)
+#### [루이 필름 엔터테인먼트 1분기 순이익, 전년 동기 대비 89.5% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569045)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002739.SZ/total>
+#### [헝펑정보기술의 실제 관리자 구속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569044)
+#### [케화 데이터, 유닛 지분 80% 매각 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569043)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002335.SZ/total>
+#### [Cnpc 캐피탈 1분기 순이익, 전년 동기 대비 22.9% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569042)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000617.SZ/total>
+#### [하이스코 제약 1분기 순이익 전년 동기 대비 1,089.9% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569035)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002653.SZ/total>
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569039)
+#### [샨 시화양 그룹 신에너지 1분기 순이익, 전년 동기 대비 19.0% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569036)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600348.SS/total>
+#### [인도에서 비행기가 이륙을 중단 한 후 6 명의 스위스 국제 승객이 부상을 입었다 고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569034)
+#### [중국 텅스텐 및 하이테크 소재 1분기 순이익, 전년 동기 대비 264.4% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569038)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000657.SZ/total>
+#### [이스라엘의 공격으로 가자 지구에서 최소 4명의 팔레스타인인이 사망했다고 의료진이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569041)
+#### [4월 27일에 와이유디 양쯔강 투자 산업의 주식 거래가 중단됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569033)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600119.SS/total>
+#### [화공테크 1분기 순이익, 전년 동기 대비 55.8% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569037)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000988.SZ/total>
+#### [베이징 헝위 데이터 통신 항공 장비의 주식 거래가 중단됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569040)
+#### [후난 골드 1분기 순이익, 전년 동기 대비 79.2% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569031)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002155.SZ/total>
+#### [우크라이나 드론 공격으로 러시아 볼 로그 다 지역의 비료 공장이 피해를 입었다 고 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569032)
+#### [산시 루안 환경 에너지 개발 2025년 순이익 54.5% 감소 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569030)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601699.SS/total>
+#### [에너지 2025 순이익 1.8% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569028)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600642.SS/total>
+#### [무어 스레드 기술, 1분기 흑자 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569029)
+#### [이스라엘의 공격으로 가자 지구에서 최소 4 명의 팔레스타인 인이 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569027)
 #### [트럼프의 보안이 언론 만찬 총격 사건 이후 다시 조사에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569025)
 #### [오만의 술탄이이란의 아라크치를 만나 지역 상황을 논의했다고 국영 통신은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569026)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569023)
@@ -41,6 +73,10 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568990)
 #### [대만 외무 장관, 대통령의 여행이 차단 된 후 에스와티니에 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568989)
 #### [콜롬비아 폭발물 공격으로 13 명 사망, 경찰 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568988)
+<head><meta charset="utf-8"><title>Vers : 20260426_0901 </title></head>
+<center>Vers : 20260426_0901 </center>
+<center>Vers : 20260426_1801 </center>
+<br><br><br>
 #### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568987)
 #### [콜롬비아 폭발물 공격으로 13 명 사망, 경찰 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568986)
 #### [브라질 정당, 법원에 희토류 광산업체 매각 중단 요청 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568985)
@@ -62,10 +98,6 @@
 #### [이란의 아라크치, 오만 방문 후 파키스탄을 다시 방문할 예정이라고 메흐가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568969)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568968)
 #### [베레센/하버트 온타리오 219MW 요크 1 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568967)
-<head><meta charset="utf-8"><title>Vers : 20260426_0740 </title></head>
-<center>Vers : 20260426_0740 </center>
-<center>Vers : 20260426_1640 </center>
-<br><br><br>
 #### [미국 북서부 강 유량이 91%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568966)
 #### [독일 극우 AfD가 28 %로 상승, INSA 여론 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568965)
 #### [파키스탄 총리는이란 대통령과 지역 상황에 대해 이야기했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568964)
@@ -106,24 +138,3 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568929)
 #### [산탄데르, FCA의 91 억 파운드 자동차 금융 부당 판매 보상 계획에 도전하지 않기로 결정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568931)
 #### [레바논 남부에 대한 이스라엘 공습으로 4 명 사망, 국영 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568928)
-#### [프랑스 마크롱, EU 상호 지원 조항은 모호하지 않다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568927)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568925)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568924)
-#### [Atco Power Alberta 385MW 배틀 리버 5 석탄 발전소 온라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568926)
-#### [이란이 파키스탄에 미국의 입장에 대한 요구와 유보를 전달했다고 파키스탄 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568923)
-#### [EU 상호 지원 조항은 모호하지 않다고 프랑스의 Macron은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568922)
-#### [미국, 베네수엘라가 마약 밀매 사건에서 마두로의 변호사에게 돈을 지불하도록 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568921)
-#### [우크라이나의 젤렌스키, 아제르바이잔과 안보 및 에너지 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568920)
-#### [우크라이나 드론이 러시아 예 카테 린 부르크의 아파트 건물에 충돌했다고 현지 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568919)
-#### [두카티의 마크 마르케즈, 베테랑 자르코에게 스페인 GP 폴을 빼앗기다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568916)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568918)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568917)
-#### [마케팅 집단 The Independents, 10억 달러 규모의 지분 매각 추진 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568915)
-#### [추방 방패에 대한 대법원 싸움에서 트럼프는 판사가 역할이 없다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568914)
-#### [언론 비판자 트럼프, 수년간의 보이콧 끝에 연례 행사에 참석하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568913)
-#### [공화당, 중간선거 전략 재정비: 트럼프의 정책은 유지하되 트럼프는 줄인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568912)
-#### ['보는 것이 믿는 것'의 붕괴에 대한 문화의 흐름-얄다 하킴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568910)
-#### [CEO가 5월 초에 Eni 역할을 위해 떠납니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568911)
-#### [견고한 대출 성장에 힘입어 분기별 수익이 급증한 인도 RBL 은행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568909)
-#### [테르나, CEO 주세피나 디 포지아가 2026년 5월 5일부로 이사직과 역할을 조기 종료하는 데 동의했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568908)
-#### [이탈리아 그리드 운영사 Terna, 디 포지아 CEO가 5월에 떠날 예정이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568907)
