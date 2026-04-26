@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260426_0528 </title></head>
-<center>Vers : 20260426_0528 </center>
-<center>Vers : 20260426_1428 </center>
+<head><meta charset="utf-8"><title>Vers : 20260426_0740 </title></head>
+<center>Vers : 20260426_0740 </center>
+<center>Vers : 20260426_1640 </center>
 <br><br><br>
+#### [트럼프의 보안이 언론 만찬 총격 사건 이후 다시 조사에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569025)
+#### [오만의 술탄이이란의 아라크치를 만나 지역 상황을 논의했다고 국영 통신은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569026)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569023)
+#### [우크라이나 드론 공격으로 러시아 볼 로그 다 지역의 비료 공장이 피해를 입었다 고 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569024)
+#### [백악관 기자들과의 트럼프 만찬에서 쿵, 섬뜩한 침묵, 그리고 혼돈](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569022)
+#### [BUZZ-IMM: 스펙 매수 EUR 하락, 매수 CAD 강세로 USD 순 스펙 매도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569021)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569020)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569019)
+#### [ICE 구금 가족, 법원의 석방 명령 이틀 만에 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569017)
+#### [트럼프, 백악관 기자 만찬에서 총격 후 안전으로 달려가다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569018)
+#### [일본, 북부의 격렬한 산불 퇴치를 위해 1,400 명의 소방관 배치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569016)
+#### [백악관 특파원 만찬 총격 사건의 용의자 콜 앨런은 누구인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569015)
+#### [백악관 특파원 만찬 총격 사건의 전개 과정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569014)
+#### [WHCD 만찬 용의자는 법 집행 기관에 트럼프 관리들을 표적으로 삼고 있다고 말했다고 CBS 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569012)
+#### [알라드나 알제리, 미국으로부터 젖소 공수 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569013)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569011)
 #### [주목해야 할 요소 - 4월 26일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569010)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569009)
@@ -47,6 +62,10 @@
 #### [이란의 아라크치, 오만 방문 후 파키스탄을 다시 방문할 예정이라고 메흐가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568969)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568968)
 #### [베레센/하버트 온타리오 219MW 요크 1 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568967)
+<head><meta charset="utf-8"><title>Vers : 20260426_0740 </title></head>
+<center>Vers : 20260426_0740 </center>
+<center>Vers : 20260426_1640 </center>
+<br><br><br>
 #### [미국 북서부 강 유량이 91%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568966)
 #### [독일 극우 AfD가 28 %로 상승, INSA 여론 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568965)
 #### [파키스탄 총리는이란 대통령과 지역 상황에 대해 이야기했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568964)
@@ -63,10 +82,6 @@
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568954)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568953)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568952)
-<head><meta charset="utf-8"><title>Vers : 20260426_0528 </title></head>
-<center>Vers : 20260426_0528 </center>
-<center>Vers : 20260426_1428 </center>
-<br><br><br>
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568951)
 #### [핀란드, 러시아에 대한 세계 아쿠아틱스 결정으로 개최 보이콧 동참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568950)
 #### [독일 정부, 러시아가 정치인을 표적으로 삼은 신호 공격 의심, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568948)
@@ -112,19 +127,3 @@
 #### [견고한 대출 성장에 힘입어 분기별 수익이 급증한 인도 RBL 은행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568909)
 #### [테르나, CEO 주세피나 디 포지아가 2026년 5월 5일부로 이사직과 역할을 조기 종료하는 데 동의했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568908)
 #### [이탈리아 그리드 운영사 Terna, 디 포지아 CEO가 5월에 떠날 예정이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568907)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568905)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568904)
-#### [인도 Axis Bank, 거래 수익 감소로 이익 전망치 하회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568906)
-#### [러시아 군, 우크라이나 북동부 마을 점령, 타스 통신 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568902)
-#### [이탈리아의 '아빠 인플루언서'가 일과 가정의 서사를 재구성하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568903)
-#### [트럼프, 마르라고에서 암호화폐 콘테스트 우승자 초청해 코인 시들해짐에 따라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568901)
-#### [이탈리아, 온라인에서 아빠의 역할을 재정의하는 아빠들의 평등 육아휴직 투표 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568900)
-#### [독일 에너지 공급업체 E.ON, 오보 에너지 인수를 위한 사전 협의 중 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568899)
-#### [중국 경제 둔화로 더욱 치열해진 경쟁에 직면한 독일 자동차 산업](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568898)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9866.HK/total>
-#### [OpenAI 책임자, 총격 용의자를 경찰에 신고하지 않은 것에 대해 사과하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568897)
-#### [미국 협상 이후 호르무즈 지뢰 제거에서 역할을 고려할 수 있다고 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568896)
-#### [알리 예프와 만나기 위해 아제르바이잔에있는 우크라이나의 젤 렌 스키, 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568895)
-#### [인도 재무 장관, 시장 규제 기관이 글로벌 규제 기관과의 협의를 강화해야한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568894)
-#### [인도 장관, 시장 규제 당국에 글로벌 협의 강화, 사이버 위험 해결 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568893)
-#### [우크라이나에 대한 러시아의 대규모 공격으로 4명이 사망하고 수십 명이 부상당했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568892)
