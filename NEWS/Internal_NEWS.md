@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260426_1855 </title></head>
-<center>Vers : 20260426_1855 </center>
-<center>Vers : 20260427_0355 </center>
+<head><meta charset="utf-8"><title>Vers : 20260426_1947 </title></head>
+<center>Vers : 20260426_1947 </center>
+<center>Vers : 20260427_0447 </center>
 <br><br><br>
+#### [전 비밀경호국 요원, 트럼프 총격범 보안 계획이 효과가 있었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569132)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프 라인 유지보수 - 유지보수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569131)
 #### [로이터 미국 스포츠 일정 4월 26일 일요일 오후 2시 5분(동부 표준시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569129)
 #### [미국 북서부 강 유량 최대 92% - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569130)
@@ -64,4 +65,3 @@
 #### [찰스 왕세자는 총격 후 트럼프와 영부인을 무사히 구출했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569073)
 #### [북 아일랜드 경찰, 자동차 폭발을 살인 미수로 수사하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569075)
 #### [솔베르그, 카나리아 제도에서 오지에의 선두 추격 중 충돌 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569074)
-#### [트랜살타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569072)
