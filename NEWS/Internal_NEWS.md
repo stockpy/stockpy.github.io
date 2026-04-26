@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260426_1947 </title></head>
-<center>Vers : 20260426_1947 </center>
-<center>Vers : 20260427_0447 </center>
+<head><meta charset="utf-8"><title>Vers : 20260426_2038 </title></head>
+<center>Vers : 20260426_2038 </center>
+<center>Vers : 20260427_0538 </center>
 <br><br><br>
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569134)
+#### [말리 국방부 장관 사디오 카마라가 토요일 공격으로 사망했다고 국영 TV가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569135)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569136)
+#### [BUZZ-재생-취약한 EUR/USD, 제한된 스털링 상승, 엔화 선순환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569133)
 #### [전 비밀경호국 요원, 트럼프 총격범 보안 계획이 효과가 있었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569132)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프 라인 유지보수 - 유지보수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569131)
 #### [로이터 미국 스포츠 일정 4월 26일 일요일 오후 2시 5분(동부 표준시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569129)
@@ -61,7 +65,3 @@
 #### [총격 사건 후 연대를 표명하기 위해 트럼프와 통화한 EU의 폰 데어 라이엔](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569079)
 #### [우크라이나, 전쟁의 먹구름 속에서 체르노빌 참사 40주년을 맞이하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569078)
 #### [이스라엘, '완충 지역' 너머 레바논 7개 마을에 대피 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569076)
-#### [이란의 아라크치, 오만과 전쟁 종식 및 호르무즈 보안 노력 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569077)
-#### [찰스 왕세자는 총격 후 트럼프와 영부인을 무사히 구출했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569073)
-#### [북 아일랜드 경찰, 자동차 폭발을 살인 미수로 수사하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569075)
-#### [솔베르그, 카나리아 제도에서 오지에의 선두 추격 중 충돌 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569074)
