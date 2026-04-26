@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260425_2321 </title></head>
-<center>Vers : 20260425_2321 </center>
-<center>Vers : 20260426_0821 </center>
+<head><meta charset="utf-8"><title>Vers : 20260426_0245 </title></head>
+<center>Vers : 20260426_0245 </center>
+<center>Vers : 20260426_1145 </center>
 <br><br><br>
+#### [미국, 아라비아 해에서 제재 된 상선을 가로 채다, 중앙 사령부는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569000)
+#### [트럼프, 미국 과학 기금을 감독하는 그룹의 이사회 멤버 해고 - NYT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568999)
+#### [트럼프, 백악관 특파원 만찬에서 참석자들이 엄호하는 가운데 급히 퇴장하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568998)
+#### [참석자들이 엄호하는 가운데 백악관 특파원 만찬에서 트럼프 퇴장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568995)
+#### [ICE는 법원이 석방 명령을 내린 지 이틀도 채 안되어 가족을 구금한다고 변호사들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568996)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568997)
+#### [대만 외무 장관, 대통령의 여행이 차단 된 후 에스와티니에 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568994)
+#### [Chefin Palla, 안정적인 티켓 가격을 보장합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568993)
+#### [북 아일랜드 경찰서 밖에서 차량 폭발, 벨파스트 텔레그래프 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568992)
+#### [트럼프가 회담을 폐기하면서 사라지는 미-이란 평화 희망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568991)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568990)
+#### [대만 외무 장관, 대통령의 여행이 차단 된 후 에스와티니에 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568989)
+#### [콜롬비아 폭발물 공격으로 13 명 사망, 경찰 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568988)
 #### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568987)
 #### [콜롬비아 폭발물 공격으로 13 명 사망, 경찰 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568986)
 #### [브라질 정당, 법원에 희토류 광산업체 매각 중단 요청 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568985)
@@ -50,16 +63,3 @@
 #### [중국, EU의 대러시아 제재 패키지에 중국 기업 포함 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568943)
 #### [마크 마르케즈, 빗속 충돌에도 불구하고 혼란스러운 스페인 GP 스프린트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568942)
 #### [일본 북부 소방관들이 3,000명 이상의 주민들이 대피한 가운데 불길을 잡기 위해 고군분투하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568940)
-#### [인도 Axis Bank, 거래 수입 감소로 이익 전망치 미달, 20 억 달러 주식 기금 모금 승인?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568941)
-#### [미국 협상가들이 이슬라마바드로 향하고 있지만이란은 직접 회담은 없다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568939)
-#### [우크라이나 전쟁에서 북한의 병력 배치를 기념하기 위해 북한에서 러시아 의회 의장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568936)
-#### [레바논 남부에 대한 이스라엘의 공습으로 4명이 사망했다고 국영 통신이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568938)
-#### [말리 반군이 '복합 공격'으로 군사 기지를 공격하고 공항이 폐쇄되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568937)
-#### [인도, 2038년 아흐메다바드 아시안게임 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568934)
-#### [마크롱, 토탈 에너지가 에너지 부족을 경고하면서 호르무즈 해협 재개 노력 재확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568935)
-#### [우크라이나에 대한 러시아의 대규모 공격으로 드론이 격추된 순간](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568933)
-#### [러시아의 우크라이나 공격 이후 루마니아에서 두 번째 드론의 일부가 발견되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568932)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568930)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568929)
-#### [산탄데르, FCA의 91 억 파운드 자동차 금융 부당 판매 보상 계획에 도전하지 않기로 결정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568931)
-#### [레바논 남부에 대한 이스라엘 공습으로 4 명 사망, 국영 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568928)
