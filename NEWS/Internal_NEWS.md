@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260426_0901 </title></head>
-<center>Vers : 20260426_0901 </center>
-<center>Vers : 20260426_1801 </center>
+<head><meta charset="utf-8"><title>Vers : 20260426_1044 </title></head>
+<center>Vers : 20260426_1044 </center>
+<center>Vers : 20260426_1944 </center>
 <br><br><br>
+#### [몬타나 화재 피해자 치료 비용 청구로 이탈리아 분노](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569064)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569063)
+#### [UAE, 산업 회복력을위한 10 억 디르함 국가 기금 설립, 총리, 총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569062)
+#### [이스라엘 군, 리타니 강 북쪽의 7 개 레바논 마을에 대피 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569061)
+#### [백악관 기자 만찬 총격 용의자 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569057)
+#### [올랜도 국제 공항의 장비 관련 지상 정류장, FAA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569059)
+#### [바이엘의 미국 대법원 판례는 수천 건의 라운드업 소송에 어떤 의미가 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569060)
+#### [민주당은 트럼프 제거가 유용한 중간선거 메시지인지에 대해 의견이 분분합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569058)
+#### [미국 고등 법원이 판결을 준비함에 따라 미국인들은 선천적 시민권 폐지에 반대한다고 로이터 / 입소스 여론 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569056)
+#### [영국 금융 및 리스 협회, 시티 워치독의 자동차 금융 부당 판매 보상 제도에 이의를 제기하지 않기로 결정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569055)
+#### [루마니아 국방부, 우크라이나 국경 근처의 세 번째 위치에서 드론 파편 회수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569054)
+#### [헝가리의 Magyar, EU의 폰 데어 라이엔과 만나 EU 기금에 대한 비공식 회담 진행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569053)
+#### [우크라이나 군, 러시아 야로 슬라 블 정유 공장을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569052)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569051)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569050)
+#### [산동 웨이팡 레인보우 케미칼 2025 순이익 132.1% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569048)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301035.SZ/total>
+#### [안후이 오리비 테크놀로지, 유나이티드 파워 파마 테크의 경영권 인수 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569049)
 #### [영국, 찰스 왕세자 방문 앞두고 미국과 안보에 긴밀히 협력한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569047)
 #### [러시아 국방부 장관, 북한 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569046)
 #### [루이 필름 엔터테인먼트 1분기 순이익, 전년 동기 대비 89.5% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569045)
@@ -56,6 +74,10 @@
 #### [호주 피타르, 마가렛 리버 프로에서 첫 월드 투어 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569008)
 #### [구글, 클라우드 라이벌 아마존과 마이크로소프트 따라잡기 위해 AI 엣지 활용 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569006)
 #### [제프 베조스의 AI 연구소 프로젝트 프로메테우스, 킹스 크로스의 런던 사무실 공간 인수 논의 중- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569005)
+<head><meta charset="utf-8"><title>Vers : 20260426_1044 </title></head>
+<center>Vers : 20260426_1044 </center>
+<center>Vers : 20260426_1944 </center>
+<br><br><br>
 #### [인도에서 스위스 항공 비행기에서 대피하다 부상당한 승객 6 명, 이코노믹 타임즈에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569003)
 #### [트럼프, 백악관 기자 만찬에서 총격 용의자를 '아프다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569004)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569002)
@@ -73,10 +95,6 @@
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568990)
 #### [대만 외무 장관, 대통령의 여행이 차단 된 후 에스와티니에 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568989)
 #### [콜롬비아 폭발물 공격으로 13 명 사망, 경찰 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568988)
-<head><meta charset="utf-8"><title>Vers : 20260426_0901 </title></head>
-<center>Vers : 20260426_0901 </center>
-<center>Vers : 20260426_1801 </center>
-<br><br><br>
 #### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568987)
 #### [콜롬비아 폭발물 공격으로 13 명 사망, 경찰 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568986)
 #### [브라질 정당, 법원에 희토류 광산업체 매각 중단 요청 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568985)
@@ -121,20 +139,3 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568947)
 #### [모터사이클-마크 마르케즈, 빗길 충돌에도 불구하고 혼란스러운 스페인 GP 스프린트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568946)
 #### [루한스크에서 우크라이나 공격으로 3 명 사망, 러시아 설치 관리, 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568945)
-#### [슬로베니아 대통령, 의원들에게 연립 정부를 구성 할 수있는 총리를 지명하라고 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568944)
-#### [중국, EU의 대러시아 제재 패키지에 중국 기업 포함 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568943)
-#### [마크 마르케즈, 빗속 충돌에도 불구하고 혼란스러운 스페인 GP 스프린트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568942)
-#### [일본 북부 소방관들이 3,000명 이상의 주민들이 대피한 가운데 불길을 잡기 위해 고군분투하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568940)
-#### [인도 Axis Bank, 거래 수입 감소로 이익 전망치 미달, 20 억 달러 주식 기금 모금 승인?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568941)
-#### [미국 협상가들이 이슬라마바드로 향하고 있지만이란은 직접 회담은 없다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568939)
-#### [우크라이나 전쟁에서 북한의 병력 배치를 기념하기 위해 북한에서 러시아 의회 의장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568936)
-#### [레바논 남부에 대한 이스라엘의 공습으로 4명이 사망했다고 국영 통신이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568938)
-#### [말리 반군이 '복합 공격'으로 군사 기지를 공격하고 공항이 폐쇄되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568937)
-#### [인도, 2038년 아흐메다바드 아시안게임 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568934)
-#### [마크롱, 토탈 에너지가 에너지 부족을 경고하면서 호르무즈 해협 재개 노력 재확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568935)
-#### [우크라이나에 대한 러시아의 대규모 공격으로 드론이 격추된 순간](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568933)
-#### [러시아의 우크라이나 공격 이후 루마니아에서 두 번째 드론의 일부가 발견되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568932)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568930)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568929)
-#### [산탄데르, FCA의 91 억 파운드 자동차 금융 부당 판매 보상 계획에 도전하지 않기로 결정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568931)
-#### [레바논 남부에 대한 이스라엘 공습으로 4 명 사망, 국영 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2568928)
