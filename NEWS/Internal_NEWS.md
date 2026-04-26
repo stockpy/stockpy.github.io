@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260426_2239 </title></head>
-<center>Vers : 20260426_2239 </center>
-<center>Vers : 20260427_0739 </center>
+<head><meta charset="utf-8"><title>Vers : 20260426_2323 </title></head>
+<center>Vers : 20260426_2323 </center>
+<center>Vers : 20260427_0823 </center>
 <br><br><br>
+#### [골드만 삭스, 공급 부족으로 유가 전망 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569152)
+#### [오리진 에너지의 3분기 APLNG 매출, 생산량 감소와 가격 실현으로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569151)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600028.SS/total>
+#### [트럼프, 언론 만찬 총격 용의자가 반기독교 선언문을 썼다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569150)
+#### [한 주간의 브레이킹뷰: SpaceX의 여름](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569148)
+#### [골드만 삭스, 공급 부족으로 유가 전망 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569149)
+#### [호주 오리진 에너지, 3분기 APLNG 매출에서 전분기 대비 9% 감소 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569147)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600028.SS/total>
+#### [미국-이란 회담 교착으로 유가 급등, 주식 선물 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569146)
 #### [이란 평화 협상이 교착 상태에 빠지면서 유가가 2% 이상 급등했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569145)
 #### [우크라이나 동결에 대한 미국의 감소에도 불구하고 전 세계 군사비 지출 2.9% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569144)
 #### [브로커리지, 새로운 재보험 커버에 대한 호주 선코프의 PT 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569143)
@@ -57,10 +66,3 @@
 #### [월스트리트 한 주를 앞두고-급등하는 미국 증시는 기술 주도 실적, 연준 회의의 중요한 주를 맞이합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569094)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
 #### [알렉스 마르케즈, 스페인 그랑프리 우승, 동생 마크는 추락 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569093)
-#### [말리 국방부 장관, 주말 대규모 공격으로 사망 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569092)
-#### [버킹엄 궁전, 워싱턴 총격 사건 이후 찰스 왕세자의 미국 방문 논의 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569090)
-#### [미 법무부 장관 대행은 총격 사건이 트럼프 행정부 관리들을 겨냥한 것 같다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569091)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569086)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569084)
-#### [백악관 기자 만찬에서 총격이 발생하자 목격자들이 혼란에 대해 이야기합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569089)
-#### [말리 국방부 장관, 바마코 인근에서 알 카에다와 연계된 공격으로 사망, RFI 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2569083)
