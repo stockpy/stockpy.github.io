@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260427_1922 </title></head>
-<center>Vers : 20260427_1922 </center>
-<center>Vers : 20260428_0422 </center>
+<head><meta charset="utf-8"><title>Vers : 20260427_2102 </title></head>
+<center>Vers : 20260427_2102 </center>
+<center>Vers : 20260428_0602 </center>
 <br><br><br>
 #### [‘1주에 1000원도 안 돼?’ 과자보다 싼 주식이라니…‘우수수’ 상폐 예고 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002636093)
 #### [300만 원 찍었는데 "500만 원 간다" 파격 전망…'황제주' 질주](https://m.stock.naver.com/news/ranknews/view/215/0001250265)
