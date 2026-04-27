@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260427_2253 </title></head>
-<center>Vers : 20260427_2253 </center>
-<center>Vers : 20260428_0753 </center>
+<head><meta charset="utf-8"><title>Vers : 20260427_2345 </title></head>
+<center>Vers : 20260427_2345 </center>
+<center>Vers : 20260428_0845 </center>
 <br><br><br>
+#### [더블유게임즈, 더블다운 인터랙티브 인수 제안서 발표 더블유게임즈, 더블다운 인터랙티브의 남은 상장사 ADSS 인수 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570944)
+#### [ROI- '재정 규율'은 잊어라, 기록적인 정부 부채는 계속될 것이다: McGeever](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570943)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
+#### [BUZZ-COMMENT-BOJ, 4 월 개최, 6 월 움직임에 주목, 엔화 어디로?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570942)
+#### [미 의회 공화당, 트럼프의 4억 달러 연회장 건설 및 기금 마련을 위한 법안 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570941)
+#### [아지뱅크, 두 번째 FIDC 구조화 마무리하고 25억 루피 조달한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570940)
+#### [브라질 게르다우, 북미 호황으로 1분기 수익 34% 증가 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570939)
+#### [Box, AI로 고객의 비즈니스 속도를 높이기 위해 Box Automate 출시, CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570938)
+#### [미국 DEA 의료용 마리화나 등록 포털, 수요일 출시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570937)
+#### [로열 캐리비안 그룹, 마이어 투르쿠와 아이콘 6 및 7 주문 확정 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570936)
+#### [BUZZ-재생-호주의 새로운 동기 부여, 스털링주의, USD / JPY 압력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570935)
+#### [처칠 캐피털, 3억 6천만 달러 규모의 기업공개 가격 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570934)
+#### [부활절 할인으로 4 월 영국 상점 가격 인플레이션 감소, BRC 설문 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570933)
+#### [영국 예산 규칙은 부채를 낮추기 위해 노력해야한다고 의회위원회는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570932)
+#### [아일랜드의 4월 소비자 심리가 3년 만에 최저치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570931)
+#### [대출 및 예금 성장에 힘입어 파이브 스타 뱅코프 1분기 순이익 전년 동기 대비 42% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570930)
+#### [브라질 중앙은행, 6월 만기 스와프 롤오버 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570929)
+#### [옥수수, 대두 바지선 입찰은 수출 수요, 운임비 상승에 힘입어 견조한 상승세를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570928)
 #### [미 교통부 장관, 25억 달러 규모의 저가 항공사 지원 요청에 의회가 관여하기를 원합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570927)
 #### [페트로베트남 가스, 이란 전쟁으로 LPG 흐름이 재주문되면서 미국으로 눈을 돌리다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570926)
 #### [테일러 스위프트가 AI 딥페이크 방지를 위해 자신의 목소리와 닮은꼴을 상표로 출원합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570925)
@@ -47,22 +65,3 @@
 #### [킨로스 골드 코퍼레이션 <K.TO>는 주당 73센트의 수익을 올릴 것으로 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570887)
 #### [사우디아라비아, 막대한 밀 구매, 필리핀, 사료용 밀 구매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570886)
 #### [엔지 브라질, 은행에 20억 달러 규모의 주식 공모 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570885)
-#### [가입 구매, 수수료 및 수수료 증가로 브라운앤브라운의 수익이 급증했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570884)
-#### [알파벳 <GOOG.OQ>는 주당 2.62 달러의 수익을 올릴 것으로 예상됩니다 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570883)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOG.O/total>
-#### [브라운앤브라운, 1분기 매출 소폭 하락?예상치 하회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570882)
-#### [USDA, 밀 등급은 그대로 유지, 옥수수 25% 종자, 대두 23% 종자 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570881)
-#### [아발론베이, 수요 부진으로 2분기 FFO가 예상치를 하회할 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570880)
-#### [신시내티 파이낸셜의 1분기 합산 비율은 95.6%로 17.7%포인트 개선되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570879)
-#### [온타리오 269MW 로워 노치 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570878)
-#### [직접 대화 없이 중재자들이 미국과 이란의 간극을 좁히기 위해 노력 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570877)
-#### [Boxx 글로벌 CUO 베이커, 새로운 역할을 위해 물러나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570876)
-#### [누코어, 제철소 강도로 분기 매출 예상치를 상회하는 실적 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570875)
-#### [베네수엘라 카르돈 IV에서 가스 생산량 증대를 모색하는 Eni-렙솔 합작 투자사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570874)
-#### [매치 그룹, Grindr 라이벌인 Sniffies에 바이아웃 옵션으로 1억 달러 투자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570873)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MTCH.O/total>
-#### [소 선물이 기생충 우려로 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570872)
-#### [AI 도입이 확대되는 가운데 빅테크 수익 '영향력 감소'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570871)
-#### [캐나다, 앨버타, 탄소 가격 합의에 근접, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570870)
-#### [캐나다는 여전히 미국 전투기 구매 계획을 검토하고 있다고 국방부 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570869)
-#### [정밀 시추 공사 (캘거리) <PD.TO> 주당 2.58 캐나다 달러의 수익을 올릴 것으로 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2570868)
