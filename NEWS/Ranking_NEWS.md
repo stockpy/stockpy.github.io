@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260428_1954 </title></head>
-<center>Vers : 20260428_1954 </center>
-<center>Vers : 20260429_0454 </center>
+<head><meta charset="utf-8"><title>Vers : 20260428_2107 </title></head>
+<center>Vers : 20260428_2107 </center>
+<center>Vers : 20260429_0607 </center>
 <br><br><br>
 #### [“1억 넣었더니 10억 됐다”…올들어 주가 1000%↑, 호실적에 또 ‘신고가’ 기록한 ‘이 주식’](https://m.stock.naver.com/news/ranknews/view/016/0002636778)
 #### [유튜브로 주식 공부한다던 아버지...‘정보’ 듣고 퇴직금 4억원 날렸다](https://m.stock.naver.com/news/ranknews/view/009/0005672520)
