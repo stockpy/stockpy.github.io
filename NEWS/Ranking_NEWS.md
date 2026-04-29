@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260429_1752 </title></head>
-<center>Vers : 20260429_1752 </center>
-<center>Vers : 20260430_0252 </center>
+<head><meta charset="utf-8"><title>Vers : 20260429_1926 </title></head>
+<center>Vers : 20260429_1926 </center>
+<center>Vers : 20260430_0426 </center>
 <br><br><br>
 #### [“망했다, 평생 모은 노후자금 다 날렸다”…5060 뒤통수친 사기꾼 정체가](https://m.stock.naver.com/news/ranknews/view/011/0004616138)
 #### ['660조 잭팟' 터졌다…한달새 '40% 급증' 개미들 환호](https://m.stock.naver.com/news/ranknews/view/015/0005281490)
