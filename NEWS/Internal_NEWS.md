@@ -1,7 +1,28 @@
-<head><meta charset="utf-8"><title>Vers : 20260430_2253 </title></head>
-<center>Vers : 20260430_2253 </center>
-<center>Vers : 20260501_0753 </center>
+<head><meta charset="utf-8"><title>Vers : 20260430_2345 </title></head>
+<center>Vers : 20260430_2345 </center>
+<center>Vers : 20260501_0845 </center>
 <br><br><br>
+#### [스트롤은 F3 자동차 운전이 현재 F1보다 1,000배 더 재미있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577581)
+#### [도쿄 4월 핵심 CPI, 전년 동월 대비 1.5% 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577580)
+#### [ROI- 중앙은행 반대 의견 급증으로 변동성이 커질 수 있습니다: 맥기버](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577579)
+#### [미국 재무부, 어린이를위한 금융 이해력 향상 캠페인에서 마블 코믹스, '트럼프 계정'을 선보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577578)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577577)
+#### [인류 잠재적 9,000억 달러 이상의 가치 평가 라운드가 2주 내에 진행될 수 있습니다 - TechCrunch](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577576)
+#### [독점-우크라이나, 일본이 수출 규제를 완화 한 후 일본 무기로가는 길을 본다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577575)
+#### [미국 의회, 45일 감시법 연장안 통과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577574)
+#### [도요타, 인도 마하라슈트라에 조립 공장 3곳 건설, 닛케이 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577573)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7203.T/total>
+#### [채권, 유가 하락에 주가 상승, 일본 통화 개입 후 엔화 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577572)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [NZD/USD 상승; 에너지 위기 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577571)
+#### [BUZZ-재생-탄력적 EUR/USD, 지정학적 명확성, USD/JPY 개입 반동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577570)
+#### [닛산, 미시시피 공장에서 전기 SUV 생산 계획 취소 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577569)
+#### [웨이어하우저, 팀버랜드 수익화 호조로 분기 이익 전망치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577568)
+#### [AI 푸시에서 예상치를 상회하는 분기별 매출을 예상하는 GoDaddy](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577567)
+#### [영국 재량 소매 판매가 4월에 1.6% 감소했다고 BDO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577566)
+#### [월스트리트 상승 마감, S&P 500, 나스닥 월간 상승폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577565)
+#### [헤맙 테라퓨틱스, 주당 18.00달러에 16,750,000주 규모의 IPO 가격 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577564)
+#### [미국 의회 선거구 재획정을 둘러싼 전쟁이 주별로 어떻게 진행되고 있습니까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577563)
 #### [아그니코 이글 마인즈, 3월 31일 마감된 분기 실적 보고 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577562)
 #### [엘도라도 골드, 3월 31일로 마감된 분기 실적 보고 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577561)
 #### [판사, 72억 5천만 달러 규모의 라운드업 합의 제안 비판](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577560)
@@ -49,25 +70,3 @@
 #### [콰이어트 오크 뱅코프 1분기 흑자 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577524)
 #### [바나멕스, 씨티 지분 매각으로 첫 국제 채권 판매로 13억 달러 조달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577523)
 #### [갤러거의 수익은 AssuredPartners의 구매, 수수료 및 수수료 증가로 급증했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577522)
-#### [디즈니, 일부 기술 직원에 대한 주식 기반 보상 삭감 - Insider](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577521)
-#### [캐나다 배저 인프라스트럭처의 1분기 매출은 최종 시장 수요 강세와 차량 활용도 증가로 호조를 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577520)
-#### [퀸트 오크 뱅코프 1분기 순이익 166천 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577519)
-#### [시카고 생우 선물, 트레이더들이 수익 확보에 나서면서 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577518)
-#### [브라질의 룰라, 역사적 패배 후 대법원에 새로운 지명 계획, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577517)
-#### [페트로브라스의 1분기 석유 및 가스 생산량, 전년 동기 대비 16% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577516)
-#### [캐나다의 TWC 엔터프라이즈, 투자 이익으로 1분기 이익 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577515)
-#### [머큐리아, 발틱 거래소, 호르무즈 타격 해운 벤치 마크에 대해 고소 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577514)
-#### [태양광 패널 수요 증가로 분기별 매출 증가를 기록한 First Solar](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577512)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FSLR.O/total>
-#### [배저 인프라스트럭처 솔루션 1분기 매출 2억 3,244만 달러 대 IBES 추정치 1억 9,120만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577513)
-#### [커뮤니티 대출 기관 베이퍼스트, 8천만 달러 모금하고 새 CEO 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577511)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BAFN.O/total>
-#### [스트라이커, 의료 기기 수요 감소에 따른 분기별 예상치 미달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577510)
-#### [우크라이나 드론, 러시아 벨고로드 지역에서 10대 청소년 2명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577509)
-#### [모호크, 분기 이익 예상치 상회, 중동 분쟁으로 비용 상승 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577508)
-#### [멕시코, 최근 경기 둔화에도 불구하고 성장률 전망 유지, 인플레이션 전망 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577507)
-#### [트윌리오, AI 기반 수요로 연간 매출 성장률 전망 상향 조정, 주가 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577506)
-#### [업데이트 1-메타 CEO 주커버그, 해고를 자본 지출 탓으로 돌리며 추가 일자리 감축 배제하지 않을 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577505)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [TWC 기업 1분기 순이익 6154만 캐나다 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577504)
-#### [미들섹스 워터 1분기 운영 수익은 도매 수요 증가로 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2577503)
