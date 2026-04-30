@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260430_1739 </title></head>
-<center>Vers : 20260430_1739 </center>
-<center>Vers : 20260501_0239 </center>
+<head><meta charset="utf-8"><title>Vers : 20260430_1922 </title></head>
+<center>Vers : 20260430_1922 </center>
+<center>Vers : 20260501_0422 </center>
 <br><br><br>
 #### [“5월에 주식 팔아라” 징크스… 30% 폭등한 코스피에도 통할까](https://m.stock.naver.com/news/ranknews/view/023/0003973932)
 #### [현대차·한화에어로 제치더니…순식간에 '80% 폭등' 일냈다 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005282051)
