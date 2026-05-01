@@ -1,7 +1,33 @@
-<head><meta charset="utf-8"><title>Vers : 20260501_2147 </title></head>
-<center>Vers : 20260501_2147 </center>
-<center>Vers : 20260502_0647 </center>
+<head><meta charset="utf-8"><title>Vers : 20260501_2251 </title></head>
+<center>Vers : 20260501_2251 </center>
+<center>Vers : 20260502_0751 </center>
 <br><br><br>
+#### [Genworth Financial Inc <GNW.N>, 주당 20 센트의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578685)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GNW/total>
+#### [젯블루항공이 스피릿 항공의 운항이 중단되고 여행 계획이 중단된 경우 도움을 드립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578684)
+#### [CME 소 선물, 장중 최고치 경신 후 차익실현 매물로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578683)
+#### [미국, 중동 동맹국에 86 억 달러 이상의 군사 판매 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578682)
+#### [기초 꾸준히 견고; 날씨에 초점 맞추기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578681)
+#### [미 대법원 판결 이후 공화당 주지사들이 새로운 의회 지도를 추구합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578680)
+#### [플로텍 인더스트리즈 <FTK.N>, 주당 13센트의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578679)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FTK/total>
+#### [트럼프, 미국은 이란을 일찍 떠나지 않을 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578678)
+#### [BP, 일요일 짧은 정전 후 화이팅 정유 공장 가동 복구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578677)
+#### [액트블루, 텍사스 법무부 장관의 '보복' 소송을 막기 위해 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578676)
+#### [주당 8 센트의 수익을 올릴 것으로 예상되는 Greenfire Resources Ltd <GFR.TO> - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578675)
+#### [모터 레이싱-맥라렌의 노리스, 안토넬리를 꺾고 마이애미 스프린트 폴 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578674)
+#### [쿠바, 트럼프의 새로운 '강압적' 제재 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578673)
+#### [멕시코 서부에서 버스가 고속도로를 벗어나 최소 11 명이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578672)
+#### [넷플릭스, 그레타 거윅의 '나니아' 내년 극장 개봉 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578671)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
+#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578670)
+#### [독일에서 5,000 명의 병력을 철수하는 미국, 미국 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578669)
+#### [분석-미국 바이오연료 목표치 기록, 바이오디젤 산업이 부진한 한 해를 보냈습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578668)
+#### [미국, 영국과 폴란드 등 유럽 동맹국에 무기 선적 지연 경고, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578667)
+#### [S&P, 카타르 신용등급 긍정, 이란 전쟁 영향 완화를 위한 '상당한' 자산 기대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578666)
+#### [게임스탑, 이베이 인수 제안 준비 중, 보고서 발표; 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578665)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EBAY.O/total>
+#### [주당 54 센트의 수익을 올릴 것으로 예상되는 IAMGOLD Corp <IMG.TO> - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578664)
 #### [비즈니스 전망: 석유, 미국 일자리, 유럽 수익에 주목하기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578663)
 #### [GameStop, eBay를 위한 제안 준비 중, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578662)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EBAY.O/total>
@@ -48,30 +74,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNDA.O/total>
 #### [바클레이즈, 2026년 브렌트유 가격 전망치를 배럴당 100달러로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578627)
 #### [캐나다 피자 로열티 1분기 동일 매장 매출, 소비자 수요 약세로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578626)
-#### [스피릿은 현재 토요일 오전 3시경에 운영을 중단할 것으로 예상됩니다 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578625)
-#### [CBOT 밀 선물은 상승세로 마감하고 2 년 최고치에 근접합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578624)
-#### [제이피모건, 비자 교환 제안을 위해 비자 B?2 주식 1,860만 주 입찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578623)
-#### [리 오토모티브, 미국 증권거래위원회에 시기적절하지 않은 20-F 신고서 제출 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578622)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/REE.O/total>
-#### [북미, 5월 4일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578621)
-#### [디즈니의 새 CEO가 테마파크 티켓, 영화 등을 위한 슈퍼 앱을 모색 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578620)
-#### [가뭄이 작물 수확량에 미치는 영향에 대한 우려가 커지면서 곡물-CBOT 밀 선물이 확고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578619)
-#### [S&P 500, 나스닥은 상승세로 마감, 실적 호조 한 주 이후 주간 상승폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578618)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TEAM.O/total>
-#### [US 주식: Unfazed](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578617)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [로지텍 인터내셔널 SA <LOGN.S>는 주당 1.06달러의 수익을 올릴 것으로 예상 - 실적 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578616)
-#### [라이언 스페셜티의 주가는 투자자들이 가이던스 하향 조정에 반응하면서 11% 하락 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578615)
-#### [유니버설 로지스틱스 1분기 매출, 복합운송 부문 부진으로 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578614)
-#### [S&P, 암젠이 다우에 부담을 주면서 나스닥이 사상 최고치로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578613)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [CBOT 대두는 상승세로 마감하고, 원유 선물은 새로운 계약 최고치를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578612)
-#### [트럼프, 스피릿 항공이 '최종 제안'을 받았다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578611)
-#### [5월 기준 알버타 일일 카놀라 가격. 01](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578610)
-#### [트럼프, 공격 실패 이후 첫 공개 행사에서 플로리다 거점 연설](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578609)
-#### [부채 내부 - 5월 1일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578608)
-#### [RB Global Inc <RBA.TO>, 주당 97 센트의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578607)
-#### [유니버설 로지스틱스 1분기 EPS USD -0.13](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578606)
-#### [미국 증시 랠리는 유가 급등으로 인해 수익, 고용 데이터에서 연료를 찾을 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578605)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMD.O/total>
-#### [USDA, 알 수 없는 목적지로의 미국 옥수수 판매 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578604)
