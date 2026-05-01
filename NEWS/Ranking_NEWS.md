@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260501_1912 </title></head>
-<center>Vers : 20260501_1912 </center>
-<center>Vers : 20260502_0412 </center>
+<head><meta charset="utf-8"><title>Vers : 20260501_2053 </title></head>
+<center>Vers : 20260501_2053 </center>
+<center>Vers : 20260502_0553 </center>
 <br><br><br>
 #### [“애들아, 아빠처럼 주식하면 안돼”…‘6년간 0%’ 고백 최귀화, 자녀 수익률에 깜놀](https://m.stock.naver.com/news/ranknews/view/009/0005674226)
 #### [“올해 주가 100만원 간다”…‘신고가’ 기록하더니, ‘황제주’ 전망까지 나온 ‘이 주식’](https://m.stock.naver.com/news/ranknews/view/016/0002638275)
