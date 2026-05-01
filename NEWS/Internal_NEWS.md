@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260501_2251 </title></head>
-<center>Vers : 20260501_2251 </center>
-<center>Vers : 20260502_0751 </center>
+<head><meta charset="utf-8"><title>Vers : 20260501_2340 </title></head>
+<center>Vers : 20260501_2340 </center>
+<center>Vers : 20260502_0840 </center>
 <br><br><br>
+#### [베르스타펜은 레드불이 격차를 좁혔다고 생각하며 자동차를 더 신뢰합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578700)
+#### [LNG 캐나다 수출이 한 달 만에 처음으로 100만 톤을 돌파했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578699)
+#### [Suncor Energy Inc (캐나다) <SU.TO>, 주당 1.81 캐나다 달러의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578698)
+#### [Suncor Energy Inc (캐나다) <SU.TO>, 주당 1.79 캐나다 달러의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578697)
+#### [크로포드 앤 코 <CRDa.N>, 주당 22센트의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578696)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRDa/total>
+#### [트랜스캐나다 온타리오 197MW 포틀랜드 1 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578695)
+#### [트랜스캐나다 온타리오 245MW 포틀랜드 3 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578694)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578693)
+#### [트랜스캐나다 온타리오 197MW 포틀랜드 2 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578692)
+#### [크루드-서부 캐나다 셀렉트 할인 좁혀보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578691)
+#### [미국 국경 장벽 건설이 멸종 위기에 처한 늑대를 위협한다고 환경 보호론자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578690)
+#### [법무부, 성별 확인 진료에 대한 소환장 집행 첫 입찰에서 빠른 승소 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578689)
+#### [이란 전쟁의 끝이 보이지 않는 가운데 미국 원유-원유 등급 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578688)
+#### [미국 대법원 판결 이후 공화당 주지사들이 새로운 의회 지도를 추구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578687)
+#### [미국, 중동 동맹국에 86억 달러 이상의 군사 판매 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578686)
 #### [Genworth Financial Inc <GNW.N>, 주당 20 센트의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578685)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GNW/total>
 #### [젯블루항공이 스피릿 항공의 운항이 중단되고 여행 계획이 중단된 경우 도움을 드립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578684)
@@ -56,21 +72,3 @@
 #### [79 플랫폼, 예정보다 앞당겨 생산 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578643)
 #### [베네수엘라를 위해 비밀리에 로비한 혐의로 유죄 판결을 받은 전 미국 하원의원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578642)
 #### [미국 경차 4월 판매량 1592만대 - Omdia](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578641)
-#### [트럼프, 미국은이란을 일찍 떠나지 않을 것이라고 말하며 '문제'가 다시 나타나지 않기를 원합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578640)
-#### [인공지능 칩 제조업체 세레브라스, IPO에서 최대 40억 달러 목표 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578639)
-#### [엔화 움직임이 통화 거래를 지배하면서 글로벌 시장이 흔들리고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578638)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [미국 법원이 낙태 약품에 대한 우편 주문 접근을 차단합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578637)
-#### [범블, 주당 27센트의 수익을 올릴 것으로 예상 - 실적 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578636)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BMBL.O/total>
-#### [애플의 큐, F1 영화 속편 기대, 더 많은 글로벌 TV 확장 희망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578635)
-#### [트럼프, 미국은 메디 케어 환자에게 GLP-1 약물을 제공한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578634)
-#### [트럼프의 유럽 지도자 공격으로 대서양 횡단 서리 악화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578633)
-#### [ICE 카놀라 선물은 금요일 약세를 보였지만 일주일 동안 상승했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578632)
-#### [미국은 영국이 위협 수준을 높인 후 영국에있는 미국인들에게 경계하라고 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578631)
-#### [TSX, 에너지 및 금속 채굴 주가가 하락하면서 주간 상승세 지워져?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578630)
-#### [미국 법원은 현재 낙태 약에 대한 우편 주문 접근을 차단합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578629)
-#### [반다제약, 멀미 환자들을 위한 네레우스 미국 판매 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578628)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VNDA.O/total>
-#### [바클레이즈, 2026년 브렌트유 가격 전망치를 배럴당 100달러로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578627)
-#### [캐나다 피자 로열티 1분기 동일 매장 매출, 소비자 수요 약세로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578626)
