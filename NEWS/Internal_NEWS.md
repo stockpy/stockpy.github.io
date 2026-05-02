@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260502_1649 </title></head>
-<center>Vers : 20260502_1649 </center>
-<center>Vers : 20260503_0149 </center>
+<head><meta charset="utf-8"><title>Vers : 20260502_1734 </title></head>
+<center>Vers : 20260502_1734 </center>
+<center>Vers : 20260503_0234 </center>
 <br><br><br>
+#### [대만 대통령, 중국과의 긴장 속에 에스와티니 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578817)
+#### [모터 레이싱-노리스, 마이애미 스프린트에서 맥라렌 원투 우승, 안토넬리 강등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578816)
+#### [오스트리아 경찰, 독이 든 이유식 사건으로 남성 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578815)
 #### [노리스, 맥라렌으로 마이애미 스프린트 원투 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578814)
 #### [브라질 북동부를 강타한 폭우로 최소 6명 사망, 수천 명의 이재민 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578813)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578812)
@@ -63,7 +66,3 @@
 #### [모터 레이싱 - 전 F1 드라이버이자 패럴림픽 챔피언 자나르디, 59세 나이로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578760)
 #### [우크라이나의 거점 코스티안티니브카 외곽에서 전투가 벌어지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578759)
 #### [벌크 운반선이 예멘 해안에서 의심스러운 접근을보고했다고 UKMTO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578758)
-#### [제트블루, 99달러의 구조 요금으로 좌초된 영혼 고객 지원, 포트로더데일 출발 11개 목적지 추가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578757)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/JBLU.O/total>
-#### [트럼프, 미 해군의 석유 화물 압류를 '해적'에 비유하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578756)
-#### [버크셔 주주들이 버핏이 참석한 가운데 그렉 아벨의 첫 연례 주주총회에 참석합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578755)
