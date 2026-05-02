@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260502_2124 </title></head>
-<center>Vers : 20260502_2124 </center>
-<center>Vers : 20260503_0624 </center>
+<head><meta charset="utf-8"><title>Vers : 20260502_2241 </title></head>
+<center>Vers : 20260502_2241 </center>
+<center>Vers : 20260503_0741 </center>
 <br><br><br>
+#### [북한, 미국의 사이버 위협 주장 허위 정보라며 대응책 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578846)
+#### [멕시코 주지사가 카르텔 연루 의혹에 대한 미국의 고발로 물러나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578845)
+#### [트랜스캐나다 온타리오 197MW 포틀랜드 1 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578844)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578843)
+#### [모터 레이싱-F1 리더 안토넬리가 메르세데스를 위해 세 번째 연속 폴을 차지했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578842)
 #### [F1의 리더 안토넬리가 세 번째 연속 폴 포지션을 차지했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578841)
 #### [우크라이나 거점인 코스티안티니브카 외곽에서 전투가 벌어집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578840)
 #### [러시아, 우크라이나, 수미 지역 마을에 대한 상반된 설명 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578839)
@@ -62,9 +67,3 @@
 #### [버크셔 해서웨이, 평균 등가 클래스 A 주당 순이익이 7,027달러라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578789)
 #### [우시크, 헤비급 대결을 앞두고 퓨리를 꺾은 조슈아를 지원하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578788)
 #### [대만의 남은 외교 동맹국 12개국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578787)
-#### [대만 대통령, 사전 여행 취소에 대해 중국을 비난한 후 에스와티니 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578786)
-#### [스피릿 항공 CEO, 윈드 다운은 질서 정연해야하며이를위한 유일한 방법은 한꺼번에하는 것뿐이라고 말함 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578785)
-#### [버크셔 해서웨이의 영업 이익 증가, 현금은 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578784)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [중국 상무부, 5 개 정유소에 대한 미국 제재 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578783)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578782)
