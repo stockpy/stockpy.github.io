@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260502_1859 </title></head>
-<center>Vers : 20260502_1859 </center>
-<center>Vers : 20260503_0359 </center>
+<head><meta charset="utf-8"><title>Vers : 20260502_2041 </title></head>
+<center>Vers : 20260502_2041 </center>
+<center>Vers : 20260503_0541 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578838)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578837)
+#### [버크셔의 CEO 그렉 아벨은 보험의 경쟁이 점점 더 치열해지고 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578836)
+#### [버크셔 주주, 인력 감독에 관한 보고서 거부하고 성과급 지급 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578835)
+#### [바이오마린, 복스조고®(보소리티드)의 장기 치료가 연골형성부전증 소아 환자의 팔 길이, 뼈 건강 및 성장에 미치는 영향에 대한 새로운 데이터 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578834)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BMRN.O/total>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578833)
+#### [버크셔 주주, 인력 감독 제안 거부하고 성과급 지급 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578832)
+#### [트랜스캐나다 온타리오 245MW 포틀랜드 3 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578831)
+#### [최근 인플레이션 데이터는 '나쁜 소식'이라고 연준의 Goolsbee는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578830)
+#### [미국 북서부 강 유량은 90 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578829)
 #### [그렉 아벨이 버크셔의 첫 연례 회의에 참석하고 버핏이 참석합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578828)
 #### [저비용 항공사에 구제 금융이 필요하지 않다고 미국 교통 책임자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578827)
 #### [댄코, 대법원에 낙태약 우편 판매 중단 판결에 대한 집행정지 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578826)
@@ -57,13 +68,3 @@
 #### [예멘, 샤브와 해안에서 납치된 유조선이 소말리아 해역으로 향하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578781)
 #### [버크셔 주주들이 버핏이 참석할 것으로 예상되는 그렉 아벨의 첫 연례 회의로 향합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578780)
 #### [우크라이나, 벨로루시 국경에서 '비정상적인 활동'을 본다, 젤 렌 스키, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578779)
-#### [버크셔 해서웨이의 영업 이익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578778)
-#### [예멘, 샤브와 해안에서 납치 된 유조선, 소말리아 해역으로 향한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578777)
-#### [고래 '티미'가 방류 후 북해로 자유롭게 헤엄쳐 나갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578776)
-#### [카타르항공, 5월 10일부터 이라크행 항공편 운항 재개 - 성명서 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578775)
-#### [스타 머 영국 총리, 친 팔레스타인 행진을 금지 할 새로운 권한이있을 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578774)
-#### [UAE, 예방 조치 해제 후 항공 교통이 정상으로 돌아 왔다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578773)
-#### ['심장 위기'이후이란 병원에서 노벨상 수상자 모하마디, 재단은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578772)
-#### [젤렌스키, 피코가 우크라이나의 EU 가입에 대해 논의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578771)
-#### [멕시코 서부에서 투어 버스가 고속도로에서 전복되어 여러 명이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578770)
-#### [홍해-중동 익스프레스 신규 서비스 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578769)
