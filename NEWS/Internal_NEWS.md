@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260502_1734 </title></head>
-<center>Vers : 20260502_1734 </center>
-<center>Vers : 20260503_0234 </center>
+<head><meta charset="utf-8"><title>Vers : 20260502_1859 </title></head>
+<center>Vers : 20260502_1859 </center>
+<center>Vers : 20260503_0359 </center>
 <br><br><br>
+#### [그렉 아벨이 버크셔의 첫 연례 회의에 참석하고 버핏이 참석합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578828)
+#### [저비용 항공사에 구제 금융이 필요하지 않다고 미국 교통 책임자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578827)
+#### [댄코, 대법원에 낙태약 우편 판매 중단 판결에 대한 집행정지 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578826)
+#### [마샬 군도 깃발 유조선, 호르무즈 해협 통과, 해운부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578825)
+#### [Goolsbee: 최근 인플레이션 데이터는 '나쁜 소식'이었습니다 - Fox News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578824)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578823)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578822)
+#### [르클레르, 안토넬리의 운전에 대한 '가혹한' 비판에 반발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578821)
+#### [이란, 해협 협상 제안, 트럼프는 불만이지만 비군사적 경로 선호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578820)
+#### [저예산 미국인들이 저가 항공사인 스피릿 항공의 상실을 애도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578819)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ULCC.O/total>
+#### [댄코 래버러토리스, 낙태약 우편 주문 접근을 중단하는 대법원 판결 집행정지 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578818)
 #### [대만 대통령, 중국과의 긴장 속에 에스와티니 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578817)
 #### [모터 레이싱-노리스, 마이애미 스프린트에서 맥라렌 원투 우승, 안토넬리 강등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578816)
 #### [오스트리아 경찰, 독이 든 이유식 사건으로 남성 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578815)
@@ -55,14 +67,3 @@
 #### [젤렌스키, 피코가 우크라이나의 EU 가입에 대해 논의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578771)
 #### [멕시코 서부에서 투어 버스가 고속도로에서 전복되어 여러 명이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578770)
 #### [홍해-중동 익스프레스 신규 서비스 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578769)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578768)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578767)
-#### [대만 대통령, 사전 여행 취소에 대해 중국을 비난 한 후 에스와티니에 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578766)
-#### [워싱턴 힐튼 공격으로 호텔 업계의 고질적이고 비용이 많이 드는 보안 문제 집중 조명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578765)
-#### [OPEC +, UAE없는 소규모 산유량 할당량 인상에 원칙적으로 합의, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578764)
-#### [유럽에 주둔하는 미군 병력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578763)
-#### [인도 코탁 마힌드라 은행, 강력한 대출 성장으로 이익 예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578762)
-#### [OPEC +, UAE없는 소규모 석유 생산량 인상에 원칙적으로 동의, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578761)
-#### [모터 레이싱 - 전 F1 드라이버이자 패럴림픽 챔피언 자나르디, 59세 나이로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578760)
-#### [우크라이나의 거점 코스티안티니브카 외곽에서 전투가 벌어지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578759)
-#### [벌크 운반선이 예멘 해안에서 의심스러운 접근을보고했다고 UKMTO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578758)
