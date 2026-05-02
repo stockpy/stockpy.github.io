@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260502_2241 </title></head>
-<center>Vers : 20260502_2241 </center>
-<center>Vers : 20260503_0741 </center>
+<head><meta charset="utf-8"><title>Vers : 20260502_2328 </title></head>
+<center>Vers : 20260502_2328 </center>
+<center>Vers : 20260503_0828 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578853)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578852)
+#### [트럼프, 이란이 '잘못 행동하면' 미국이 이란 공격을 재개할 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578851)
+#### [트럼프는이란의 최신 계획을 검토 할 것이라고 말했지만 그것이 받아 들일 수 있는지 '상상할 수 없다'.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578850)
+#### [북한, 미국의 사이버 위협 주장을 조작이라며 대응 조치 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578849)
+#### [트럼프는 미국이 독일에서 5,000 명 이상의 병력을 '많이'감축한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578848)
+#### [트럼프, 미국이이란에 대한 공격을 재개 할 가능성이 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578847)
 #### [북한, 미국의 사이버 위협 주장 허위 정보라며 대응책 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578846)
 #### [멕시코 주지사가 카르텔 연루 의혹에 대한 미국의 고발로 물러나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578845)
 #### [트랜스캐나다 온타리오 197MW 포틀랜드 1 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578844)
@@ -60,10 +67,3 @@
 #### [미국, 항공 업계에 구제 금융 필요없고 현금 확보 가능](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578796)
 #### [티센크루프와 진달, 철강 사업부 매각 협상 중단에 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578795)
 #### [버크셔 해서웨이, 1분기 보험 인수 수익이 28% 증가한 17억 2,000만 달러 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578794)
-#### [티센크루프, 진달, 철강 사업부 매각 논의 중단 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578793)
-#### [멕시코 주지사가 미국이 카르텔 관계로 그를 고발한 지 며칠 만에 물러납니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578792)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578791)
-#### [버크셔 해서웨이, 퍼시픽코프가 3월 31일까지 산불로 인한 누적 예상 손실이 약 29억 달러에 달한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578790)
-#### [버크셔 해서웨이, 평균 등가 클래스 A 주당 순이익이 7,027달러라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578789)
-#### [우시크, 헤비급 대결을 앞두고 퓨리를 꺾은 조슈아를 지원하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578788)
-#### [대만의 남은 외교 동맹국 12개국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578787)
