@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260502_2041 </title></head>
-<center>Vers : 20260502_2041 </center>
-<center>Vers : 20260503_0541 </center>
+<head><meta charset="utf-8"><title>Vers : 20260502_2124 </title></head>
+<center>Vers : 20260502_2124 </center>
+<center>Vers : 20260503_0624 </center>
 <br><br><br>
+#### [F1의 리더 안토넬리가 세 번째 연속 폴 포지션을 차지했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578841)
+#### [우크라이나 거점인 코스티안티니브카 외곽에서 전투가 벌어집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578840)
+#### [러시아, 우크라이나, 수미 지역 마을에 대한 상반된 설명 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578839)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578838)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578837)
 #### [버크셔의 CEO 그렉 아벨은 보험의 경쟁이 점점 더 치열해지고 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578836)
@@ -65,6 +68,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
 #### [중국 상무부, 5 개 정유소에 대한 미국 제재 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578783)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578782)
-#### [예멘, 샤브와 해안에서 납치된 유조선이 소말리아 해역으로 향하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578781)
-#### [버크셔 주주들이 버핏이 참석할 것으로 예상되는 그렉 아벨의 첫 연례 회의로 향합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578780)
-#### [우크라이나, 벨로루시 국경에서 '비정상적인 활동'을 본다, 젤 렌 스키, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578779)
