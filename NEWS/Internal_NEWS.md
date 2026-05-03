@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260503_1738 </title></head>
-<center>Vers : 20260503_1738 </center>
-<center>Vers : 20260504_0238 </center>
+<head><meta charset="utf-8"><title>Vers : 20260503_1900 </title></head>
+<center>Vers : 20260503_1900 </center>
+<center>Vers : 20260504_0400 </center>
 <br><br><br>
+#### [안토넬리, 3연승으로 F1 선두를 질주하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578968)
+#### [프랑스 강경 좌파 정치인 멜랑숑, 2027년 대선 출마 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578967)
+#### [미국 북서부 강 유량이 89%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578966)
+#### [두바이 식품 대기업 IFFCO, 잠정 청산에 들어갈 예정 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578965)
+#### [헤즈볼라, 운명을 바꾸기 위해 전투에서 혹독한 대가를 치르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578964)
+#### [독일 총리, 병력 감축 발표 후 트럼프와의 행보 경시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578963)
+#### [로이터 미국 스포츠 일정 5월 3일 일요일 오후 1시 45분(동부 표준시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578962)
+#### [카슈카리, 이란 전쟁이 연준의 금리 지침 제공 능력을 제한한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578961)
+#### [사우디 AI 기업 휴메인, 아마존 웹 서비스와 함께 엔터프라이즈 AI 이니셔티브 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578960)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
 #### [벨기에 제약 그룹 UCB, 캔디드 테라퓨틱스 최대 22억 달러에 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578959)
 #### [온타리오 269MW 로워 노치 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578958)
 #### [은행, 데이터 센터 부채에 대한 '질식'을 피하기 위해 위험을 오프로드하려고 노력 -FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578957)
@@ -54,12 +64,3 @@
 #### [인도 축제에서 치명적인 난동을 부린 코끼리를 제압한 코끼리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578911)
 #### [폭스콘, SpaceX 팰컨 9을 통해 2세대 위성 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578910)
 #### [헤즈볼라, 운명을 바꾸기 위해 전투에서 혹독한 대가를 치르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578909)
-#### [슬로바키아 피코 총리, 모스크바 승리의 날 퍼레이드 참석, 러시아 TV는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578908)
-#### [폭스콘, 스페이스X 팰컨 9을 통해 2세대 위성 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578907)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578906)
-#### [크렘린, 우크라이나 시설에 대한 파업이 계속되면 유가 상승 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578905)
-#### [프랑스 파트너스, 결제 회사 모네리스 약 20억 달러에 인수 협상 중 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578904)
-#### [뉴델리 주거용 건물 화재로 다수의 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578903)
-#### [클라렌스 토마스가 이정표를 세우면서 미국 대법원에 남긴 그의 보수적인 족적은 지속됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578902)
-#### [버크셔 주주들은 그렉 아벨을 좋아하지만 워런 버핏을 따르기는 어렵습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578901)
-#### [선거구 재조정과 대법원이 미국 하원 선거에서 유권자를 배제하는 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578900)
