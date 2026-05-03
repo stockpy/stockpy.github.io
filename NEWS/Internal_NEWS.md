@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260503_2241 </title></head>
-<center>Vers : 20260503_2241 </center>
-<center>Vers : 20260504_0741 </center>
+<head><meta charset="utf-8"><title>Vers : 20260503_2328 </title></head>
+<center>Vers : 20260503_2328 </center>
+<center>Vers : 20260504_0828 </center>
 <br><br><br>
+#### [게임스탑, 이베이를 560억 달러에 인수하겠다고 제안한 라이언 코헨 CEO - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2579005)
+#### [게임스탑 CEO 라이언 코헨이 이베이를 약 560억 달러에 인수하겠다는 원치 않는 제안을 했다고 WSJ이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2579004)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EBAY.O/total>
+#### [미국 유아용 조제 분유가 리콜 된 후 BUZZ-NZ의 a2 우유가 떨어집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2579003)
+#### [분석-아시아 채권 시장, 기록적인 현지 발행으로 전쟁 불안을 떨쳐내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2579002)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0066.HK/total>
+#### [유나이티드항공 비행기가 뉴어크 공항 착륙 중 전봇대에 부딪힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2579001)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
+#### [볼프, 이탈리아의 월드컵 실패로 안토넬리에 대한 과대광고가 더해진다고 경계](https://m.stock.naver.com/news/worldnews/view/fnGuide/2579000)
+#### [멕시코 집권 모레나당, 새 지도자로 아리아드나 몬티엘 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578999)
+#### [한 주간의 브레이킹뷰: 기술 현황 파악하기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578998)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
+#### [유나이티드 항공 비행기가 뉴어크 공항 착륙 중 전봇대에 부딪혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578997)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
 #### [트럼프가 미국이 호르무즈 해협에 좌초 된 선박의 석방을 도울 것이라고 말한 후 유가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578996)
 #### [독점-우크라이나, 일본 수출 규제 완화 후 일본 무기 수입 경로 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578995)
 #### [호르무즈 생명선에 대한 희망이 사라진 가운데 버즈-오디/미국 기업들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578994)
@@ -55,12 +69,3 @@
 #### [미국 피로 변호사는 Fed IG의 발견이 파월 조사의 미래를 결정할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578948)
 #### [미국 피로 변호사, 백악관 특파원 만찬 중 경관이 용의자의 총에 맞았다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578947)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578946)
-#### [토요일 런던에서 총격 사건으로 4 명이 부상했다고 스카이 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578945)
-#### [연준의 카쉬 카리 : 중동 전쟁이 오래 해결되지 않을수록 인플레이션 위험이 높아집니다 - CBS](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578944)
-#### [페루의 페트로 페루, 4개월 만에 네 번째로 회장 교체](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578943)
-#### [개인 신용의 스트레스가 '심리적 전염'을 촉발할 수 있다고 연준의 Barr는 블룸버그 뉴스에 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578942)
-#### [스웨덴 해안 경비대, 발트해에서 허위 깃발 유조선 의심 선박 나포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578941)
-#### [재무부 베센트는이란 전쟁 후 유가가 하락할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578940)
-#### [개인 신용에 대한 스트레스는 '심리적 전염'을 촉발할 수 있다고 연준의 바는 블룸버그 뉴스에 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578939)
-#### [쿠웨이트, 6 월 석유 생산량 262 만 8 천만 배럴에이를 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578938)
-#### [하이 스트리트 체인 TG Jones, 생존 계획을위한 길을 닦기 위해 새로운 부채 계약을 확보 - Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578937)
