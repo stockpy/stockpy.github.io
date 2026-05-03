@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260503_2127 </title></head>
-<center>Vers : 20260503_2127 </center>
-<center>Vers : 20260504_0627 </center>
+<head><meta charset="utf-8"><title>Vers : 20260503_2241 </title></head>
+<center>Vers : 20260503_2241 </center>
+<center>Vers : 20260504_0741 </center>
 <br><br><br>
+#### [트럼프가 미국이 호르무즈 해협에 좌초 된 선박의 석방을 도울 것이라고 말한 후 유가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578996)
+#### [독점-우크라이나, 일본 수출 규제 완화 후 일본 무기 수입 경로 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578995)
+#### [호르무즈 생명선에 대한 희망이 사라진 가운데 버즈-오디/미국 기업들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578994)
+#### [대서양 유람선에서 승객 3 명 사망, 한타 바이러스 확진 사례 1 건, WHO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578993)
+#### [한 주 앞으로-이란 전쟁, 미국 일자리, RBA 결정 리드](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578992)
+#### [NZ의 a2 Milk, 세룰라이드 검출 후 미국 유아용 분유 배치 리콜](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578991)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [영국, 유럽 연합의 1,059 억 달러 우크라이나 대출에 참여하기위한 협상에 들어갈 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578990)
 #### [트럼프, 미국이 호르무즈 해협에 발이 묶인 선박의 석방을 도울 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578989)
 #### [스피릿은 대부분의 고객이 환불을 받았고, 종료 후 직원이 복귀했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578988)
 #### [뉴질랜드의 a2 Milk, 세룰라이드 존재로 미국 유아용 분유 배치 리콜](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578987)
@@ -56,10 +64,3 @@
 #### [개인 신용에 대한 스트레스는 '심리적 전염'을 촉발할 수 있다고 연준의 바는 블룸버그 뉴스에 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578939)
 #### [쿠웨이트, 6 월 석유 생산량 262 만 8 천만 배럴에이를 것으로 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578938)
 #### [하이 스트리트 체인 TG Jones, 생존 계획을위한 길을 닦기 위해 새로운 부채 계약을 확보 - Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578937)
-#### [아시아 금융 리더들은 변동성 리스크를 막기 위해 행동할 준비가 되어 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578936)
-#### [트럼프 행정부, 국가 안보를 이유로 미국 풍력 발전소 프로젝트 중단, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578935)
-#### [ECB 정책 입안자는 유로존 경기 침체 우려가 '현실적이고 정당하다'고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578934)
-#### [하드자르, 레드불 실수로 마이애미 그리드 뒤로 밀려나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578933)
-#### [노르웨이의 Gassco, 계획되지 않은 가스 공급 중단 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578932)
-#### [피로 미국 변호사, 백악관 특파원 만찬 중 경관이 총에 맞았다는 증거가 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578931)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578930)
