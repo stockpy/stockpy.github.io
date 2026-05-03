@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260503_0605 </title></head>
-<center>Vers : 20260503_0605 </center>
-<center>Vers : 20260503_1505 </center>
+<head><meta charset="utf-8"><title>Vers : 20260503_0814 </title></head>
+<center>Vers : 20260503_0814 </center>
+<center>Vers : 20260503_1714 </center>
 <br><br><br>
+#### [우크라이나의 드론 공격으로 러시아 프리모르스크 항구 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578891)
+#### [미 국무 장관, 바티칸과 이탈리아 방문, 신문 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578890)
+#### [OPEC +, 호르무즈 폐쇄 이후 세 번째 석유 생산량 할당량 인상에 합의 할 예정, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578889)
+#### [길과 휴잇이 호주를 세계 컬링 첫 우승으로 이끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578888)
+#### [35 및 F-15I 항공기 구매 계획 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578887)
+#### [보잉, 이집트항공, 첫 보잉 737 맥스 제트기 인도 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578886)
+#### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578885)
+#### [우크라이나, 러시아 노보로시 스크 항구 근처에서 그림자 함대 유조선 두 척 타격, 젤 렌 스키, 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578884)
+#### [트랜스캐나다 온타리오 245MW 포틀랜드 3 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578883)
+#### [우크라이나 드론 공격? 러시아 프리 모르 스크 항구, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578882)
+#### [ECB, 엘 파이스와의 미디어 인터뷰 게재](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578881)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578880)
 #### [트랜스캐나다 온타리오 197MW 포틀랜드 1 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578879)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578878)
@@ -52,6 +63,10 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BMRN.O/total>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578833)
 #### [버크셔 주주, 인력 감독 제안 거부하고 성과급 지급 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578832)
+<head><meta charset="utf-8"><title>Vers : 20260503_0815 </title></head>
+<center>Vers : 20260503_0815 </center>
+<center>Vers : 20260503_1715 </center>
+<br><br><br>
 #### [트랜스캐나다 온타리오 245MW 포틀랜드 3 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578831)
 #### [최근 인플레이션 데이터는 '나쁜 소식'이라고 연준의 Goolsbee는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578830)
 #### [미국 북서부 강 유량은 90 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578829)
@@ -63,10 +78,6 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578823)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578822)
 #### [르클레르, 안토넬리의 운전에 대한 '가혹한' 비판에 반발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578821)
-<head><meta charset="utf-8"><title>Vers : 20260503_0605 </title></head>
-<center>Vers : 20260503_0605 </center>
-<center>Vers : 20260503_1505 </center>
-<br><br><br>
 #### [이란, 해협 협상 제안, 트럼프는 불만이지만 비군사적 경로 선호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578820)
 #### [저예산 미국인들이 저가 항공사인 스피릿 항공의 상실을 애도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578819)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ULCC.O/total>
@@ -121,14 +132,3 @@
 #### [스타 머 영국 총리, 친 팔레스타인 행진을 금지 할 새로운 권한이있을 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578774)
 #### [UAE, 예방 조치 해제 후 항공 교통이 정상으로 돌아 왔다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578773)
 #### ['심장 위기'이후이란 병원에서 노벨상 수상자 모하마디, 재단은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578772)
-#### [젤렌스키, 피코가 우크라이나의 EU 가입에 대해 논의하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578771)
-#### [멕시코 서부에서 투어 버스가 고속도로에서 전복되어 여러 명이 사망했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578770)
-#### [홍해-중동 익스프레스 신규 서비스 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578769)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578768)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578767)
-#### [대만 대통령, 사전 여행 취소에 대해 중국을 비난 한 후 에스와티니에 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578766)
-#### [워싱턴 힐튼 공격으로 호텔 업계의 고질적이고 비용이 많이 드는 보안 문제 집중 조명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578765)
-#### [OPEC +, UAE없는 소규모 산유량 할당량 인상에 원칙적으로 합의, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578764)
-#### [유럽에 주둔하는 미군 병력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578763)
-#### [인도 코탁 마힌드라 은행, 강력한 대출 성장으로 이익 예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578762)
-#### [OPEC +, UAE없는 소규모 석유 생산량 인상에 원칙적으로 동의, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578761)
