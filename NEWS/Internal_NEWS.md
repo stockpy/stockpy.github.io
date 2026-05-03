@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260503_1900 </title></head>
-<center>Vers : 20260503_1900 </center>
-<center>Vers : 20260504_0400 </center>
+<head><meta charset="utf-8"><title>Vers : 20260503_2042 </title></head>
+<center>Vers : 20260503_2042 </center>
+<center>Vers : 20260504_0542 </center>
 <br><br><br>
+#### [싱클레어 밀크, 미국 A2 우유 회사의 리콜을 공동 지원한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578984)
+#### [A2 우유, 소량의 A2 플래티넘 미국 라벨 리콜](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578983)
+#### [승객 3 명 사망, 대서양 유람선에서 한타 바이러스 확진 자 1 건 확인, WHO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578982)
+#### [BUZZ-재생-EUR/USD 순풍, 스털링 랠리, USD/JPY 하락 매수자의 딜레마](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578981)
+#### [6.8밀리미터/일 정전을 예정하고 있습니다. 04 0400 ~ 5월. 05 at 0359](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578980)
+#### [영국 총리 스타머, 우크라이나의 젤렌스키와 EPC 정상 회담 앞두고 만남](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578979)
+#### [폴란드는 패트리어트 인도 지연을 시사하는 신호를받지 못했다고 국방부 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578978)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578977)
+#### [제프리, 씨티가 단기 위험으로 호주 ANZ의 PT를 낮추고 장기 성장을 봅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578976)
+#### [종료 후 고객 환불 처리가 거의 완료된 Spirit](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578975)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578974)
+#### [모터 레이싱-안토넬리가 마이애미에서 3연승을 거두며 메르세데스가 F1 선두로 올라섰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578973)
+#### [멕시코 집권 모레나당, 새 지도자로 아드리아나 몬티엘 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578972)
+#### [트럼프, 이란이 '아직 충분히 큰 대가를 치르지 않았다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578971)
+#### [온타리오 269MW 로워 노치 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578970)
+#### [프랑스 강경 좌파 정치인 멜랑숑, 2027년 대선 출마 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578969)
 #### [안토넬리, 3연승으로 F1 선두를 질주하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578968)
 #### [프랑스 강경 좌파 정치인 멜랑숑, 2027년 대선 출마 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578967)
 #### [미국 북서부 강 유량이 89%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578966)
@@ -48,19 +64,3 @@
 #### [월스트리트 주간을 앞두고-미국 증시 랠리는 유가 급등으로 인해 수익, 고용 데이터에서 연료를 찾을 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578926)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMD.O/total>
 #### [트럼프 행정부, 국가 안보를 이유로 풍력 발전소 프로젝트 중단, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578925)
-#### [미국 최고 외교관 루비오, 목요일 교황 레오와 만날 예정, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578924)
-#### [우크라이나의 젤렌스키, 아르메니아에 도착해 양자 회담을 계획하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578923)
-#### [모로코에서 아프리카 사자 훈련 중 미군 2 명 실종, AFRICOM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578922)
-#### [러시아, 우크라이나 드론이 자 포리 지아 원자력 발전소 실험실을 공격했다고 말했지만 심각한 피해는보고되지 않았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578921)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578920)
-#### [이스라엘 법원, 가자지구 소탕작전 활동가 구금 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578919)
-#### [이스라엘 법원, 가자지구 소탕작전 활동가 구금 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578918)
-#### [수영 미국인 월시, 1년 만에 세 번째로 100m 접영 세계 기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578917)
-#### [교황, 세계 언론 자유의 날 기념, 인권 침해 애도 및 살해된 기자들 추모](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578916)
-#### [오스트리아 모닥불 아래서 '전쟁 유물'이 폭발해 어린이 5명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578915)
-#### [우크라이나, 러시아 프리 모르 스크 항구 타격, 석유 인프라 손상, 젤 렌 스키, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578914)
-#### [ADB, 아시아 태평양 지역의 에너지, 디지털 인프라를 위한 700억 달러 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578913)
-#### [영국 남부에서 폭발 후 2 명이 사망했다고 경찰은 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578912)
-#### [인도 축제에서 치명적인 난동을 부린 코끼리를 제압한 코끼리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578911)
-#### [폭스콘, SpaceX 팰컨 9을 통해 2세대 위성 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578910)
-#### [헤즈볼라, 운명을 바꾸기 위해 전투에서 혹독한 대가를 치르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578909)
