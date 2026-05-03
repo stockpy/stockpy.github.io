@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260503_1054 </title></head>
-<center>Vers : 20260503_1054 </center>
-<center>Vers : 20260503_1954 </center>
+<head><meta charset="utf-8"><title>Vers : 20260503_1140 </title></head>
+<center>Vers : 20260503_1140 </center>
+<center>Vers : 20260503_2040 </center>
 <br><br><br>
+#### [교황, 세계 언론 자유의 날 기념, 인권 침해 애도 및 살해된 기자들 추모](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578916)
+#### [오스트리아 모닥불 아래서 '전쟁 유물'이 폭발해 어린이 5명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578915)
+#### [우크라이나, 러시아 프리 모르 스크 항구 타격, 석유 인프라 손상, 젤 렌 스키, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578914)
+#### [ADB, 아시아 태평양 지역의 에너지, 디지털 인프라를 위한 700억 달러 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578913)
+#### [영국 남부에서 폭발 후 2 명이 사망했다고 경찰은 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578912)
+#### [인도 축제에서 치명적인 난동을 부린 코끼리를 제압한 코끼리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578911)
+#### [폭스콘, SpaceX 팰컨 9을 통해 2세대 위성 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578910)
+#### [헤즈볼라, 운명을 바꾸기 위해 전투에서 혹독한 대가를 치르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578909)
 #### [슬로바키아 피코 총리, 모스크바 승리의 날 퍼레이드 참석, 러시아 TV는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578908)
 #### [폭스콘, 스페이스X 팰컨 9을 통해 2세대 위성 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578907)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578906)
@@ -54,6 +62,10 @@
 #### [마이애미 F1 그랑프리, 폭풍우 위협을 이겨내기 위해 3시간 앞당겨 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578859)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578858)
 #### [페루 선거관리위원회, 선거 결과에 대한 감사 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578857)
+<head><meta charset="utf-8"><title>Vers : 20260503_1140 </title></head>
+<center>Vers : 20260503_1140 </center>
+<center>Vers : 20260503_2040 </center>
+<br><br><br>
 #### [경마- 골든 템포가 켄터키 더비에서 우승하며 조련사 드보스가 새로운 역사를 썼습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578856)
 #### [페루 선거관리위원회, 선거 결과에 대한 감사 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578855)
 #### [골든 템포, 제152회 켄터키 더비 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578854)
@@ -62,10 +74,6 @@
 #### [트럼프, 이란이 '잘못 행동하면' 미국이 이란 공격을 재개할 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578851)
 #### [트럼프는이란의 최신 계획을 검토 할 것이라고 말했지만 그것이 받아 들일 수 있는지 '상상할 수 없다'.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578850)
 #### [북한, 미국의 사이버 위협 주장을 조작이라며 대응 조치 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578849)
-<head><meta charset="utf-8"><title>Vers : 20260503_1054 </title></head>
-<center>Vers : 20260503_1054 </center>
-<center>Vers : 20260503_1954 </center>
-<br><br><br>
 #### [트럼프는 미국이 독일에서 5,000 명 이상의 병력을 '많이'감축한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578848)
 #### [트럼프, 미국이이란에 대한 공격을 재개 할 가능성이 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578847)
 #### [북한, 미국의 사이버 위협 주장 허위 정보라며 대응책 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578846)
@@ -123,11 +131,3 @@
 #### [얼라이언트, 스피릿과 중복되는 노선에 대해 한시적 요금 동결 시행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578798)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ALGT.O/total>
 #### [인류학, 영국 스타트업 프랙타일과 AI 추론 칩 구매 협상 중 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578797)
-#### [미국, 항공 업계에 구제 금융 필요없고 현금 확보 가능](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578796)
-#### [티센크루프와 진달, 철강 사업부 매각 협상 중단에 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578795)
-#### [버크셔 해서웨이, 1분기 보험 인수 수익이 28% 증가한 17억 2,000만 달러 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578794)
-#### [티센크루프, 진달, 철강 사업부 매각 논의 중단 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578793)
-#### [멕시코 주지사가 미국이 카르텔 관계로 그를 고발한 지 며칠 만에 물러납니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578792)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578791)
-#### [버크셔 해서웨이, 퍼시픽코프가 3월 31일까지 산불로 인한 누적 예상 손실이 약 29억 달러에 달한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578790)
-#### [버크셔 해서웨이, 평균 등가 클래스 A 주당 순이익이 7,027달러라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578789)
