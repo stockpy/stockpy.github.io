@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260503_0940 </title></head>
-<center>Vers : 20260503_0940 </center>
-<center>Vers : 20260503_1840 </center>
+<head><meta charset="utf-8"><title>Vers : 20260503_1054 </title></head>
+<center>Vers : 20260503_1054 </center>
+<center>Vers : 20260503_1954 </center>
 <br><br><br>
+#### [슬로바키아 피코 총리, 모스크바 승리의 날 퍼레이드 참석, 러시아 TV는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578908)
+#### [폭스콘, 스페이스X 팰컨 9을 통해 2세대 위성 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578907)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578906)
+#### [크렘린, 우크라이나 시설에 대한 파업이 계속되면 유가 상승 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578905)
+#### [프랑스 파트너스, 결제 회사 모네리스 약 20억 달러에 인수 협상 중 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578904)
+#### [뉴델리 주거용 건물 화재로 다수의 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578903)
+#### [클라렌스 토마스가 이정표를 세우면서 미국 대법원에 남긴 그의 보수적인 족적은 지속됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578902)
+#### [버크셔 주주들은 그렉 아벨을 좋아하지만 워런 버핏을 따르기는 어렵습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578901)
+#### [선거구 재조정과 대법원이 미국 하원 선거에서 유권자를 배제하는 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578900)
+#### [프랑스에서 영국으로 해협 횡단 시도 중 여성 2명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578899)
 #### [OPEC +, 호르무즈 폐쇄 이후 세 번째 석유 생산량 할당량 인상에 합의 할 예정, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578898)
 #### [F1은 2031 년, 아마도 2030 년까지 V8 엔진을 보유 할 것이라고 FIA 회장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578897)
 #### [폴란드의 투스크는 독일에서 미군이 재배치 될 수 있다는 신호가 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578896)
@@ -52,6 +62,10 @@
 #### [트럼프, 이란이 '잘못 행동하면' 미국이 이란 공격을 재개할 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578851)
 #### [트럼프는이란의 최신 계획을 검토 할 것이라고 말했지만 그것이 받아 들일 수 있는지 '상상할 수 없다'.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578850)
 #### [북한, 미국의 사이버 위협 주장을 조작이라며 대응 조치 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578849)
+<head><meta charset="utf-8"><title>Vers : 20260503_1054 </title></head>
+<center>Vers : 20260503_1054 </center>
+<center>Vers : 20260503_1954 </center>
+<br><br><br>
 #### [트럼프는 미국이 독일에서 5,000 명 이상의 병력을 '많이'감축한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578848)
 #### [트럼프, 미국이이란에 대한 공격을 재개 할 가능성이 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578847)
 #### [북한, 미국의 사이버 위협 주장 허위 정보라며 대응책 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578846)
@@ -62,10 +76,6 @@
 #### [F1의 리더 안토넬리가 세 번째 연속 폴 포지션을 차지했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578841)
 #### [우크라이나 거점인 코스티안티니브카 외곽에서 전투가 벌어집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578840)
 #### [러시아, 우크라이나, 수미 지역 마을에 대한 상반된 설명 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578839)
-<head><meta charset="utf-8"><title>Vers : 20260503_0940 </title></head>
-<center>Vers : 20260503_0940 </center>
-<center>Vers : 20260503_1840 </center>
-<br><br><br>
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578838)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578837)
 #### [버크셔의 CEO 그렉 아벨은 보험의 경쟁이 점점 더 치열해지고 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578836)
@@ -121,14 +131,3 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578791)
 #### [버크셔 해서웨이, 퍼시픽코프가 3월 31일까지 산불로 인한 누적 예상 손실이 약 29억 달러에 달한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578790)
 #### [버크셔 해서웨이, 평균 등가 클래스 A 주당 순이익이 7,027달러라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578789)
-#### [우시크, 헤비급 대결을 앞두고 퓨리를 꺾은 조슈아를 지원하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578788)
-#### [대만의 남은 외교 동맹국 12개국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578787)
-#### [대만 대통령, 사전 여행 취소에 대해 중국을 비난한 후 에스와티니 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578786)
-#### [스피릿 항공 CEO, 윈드 다운은 질서 정연해야하며이를위한 유일한 방법은 한꺼번에하는 것뿐이라고 말함 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578785)
-#### [버크셔 해서웨이의 영업 이익 증가, 현금은 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578784)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [중국 상무부, 5 개 정유소에 대한 미국 제재 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578783)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578782)
-#### [예멘, 샤브와 해안에서 납치된 유조선이 소말리아 해역으로 향하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578781)
-#### [버크셔 주주들이 버핏이 참석할 것으로 예상되는 그렉 아벨의 첫 연례 회의로 향합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578780)
-#### [우크라이나, 벨로루시 국경에서 '비정상적인 활동'을 본다, 젤 렌 스키, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578779)
