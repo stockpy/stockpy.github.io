@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260503_0814 </title></head>
-<center>Vers : 20260503_0814 </center>
-<center>Vers : 20260503_1714 </center>
+<head><meta charset="utf-8"><title>Vers : 20260503_0940 </title></head>
+<center>Vers : 20260503_0940 </center>
+<center>Vers : 20260503_1840 </center>
 <br><br><br>
+#### [OPEC +, 호르무즈 폐쇄 이후 세 번째 석유 생산량 할당량 인상에 합의 할 예정, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578898)
+#### [F1은 2031 년, 아마도 2030 년까지 V8 엔진을 보유 할 것이라고 FIA 회장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578897)
+#### [폴란드의 투스크는 독일에서 미군이 재배치 될 수 있다는 신호가 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578896)
+#### [5.0mcm/일 정전을 예정하고 있습니다. 03 0839 ~ 5월. 04 at 0359](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578895)
+#### [남중국해를 둘러싼 중국, 필리핀의 무역 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578894)
+#### [이스라엘, 록히드, 보잉으로부터 F-35 및 F-15IA 전투기 구매 계획 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578893)
+#### [OPEC +, 호르무즈 폐쇄 이후 세 번째 석유 생산량 할당량 인상에 합의 할 예정, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578892)
 #### [우크라이나의 드론 공격으로 러시아 프리모르스크 항구 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578891)
 #### [미 국무 장관, 바티칸과 이탈리아 방문, 신문 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578890)
 #### [OPEC +, 호르무즈 폐쇄 이후 세 번째 석유 생산량 할당량 인상에 합의 할 예정, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578889)
@@ -55,6 +62,10 @@
 #### [F1의 리더 안토넬리가 세 번째 연속 폴 포지션을 차지했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578841)
 #### [우크라이나 거점인 코스티안티니브카 외곽에서 전투가 벌어집니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578840)
 #### [러시아, 우크라이나, 수미 지역 마을에 대한 상반된 설명 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578839)
+<head><meta charset="utf-8"><title>Vers : 20260503_0940 </title></head>
+<center>Vers : 20260503_0940 </center>
+<center>Vers : 20260503_1840 </center>
+<br><br><br>
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578838)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578837)
 #### [버크셔의 CEO 그렉 아벨은 보험의 경쟁이 점점 더 치열해지고 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578836)
@@ -63,10 +74,6 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BMRN.O/total>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578833)
 #### [버크셔 주주, 인력 감독 제안 거부하고 성과급 지급 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578832)
-<head><meta charset="utf-8"><title>Vers : 20260503_0815 </title></head>
-<center>Vers : 20260503_0815 </center>
-<center>Vers : 20260503_1715 </center>
-<br><br><br>
 #### [트랜스캐나다 온타리오 245MW 포틀랜드 3 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578831)
 #### [최근 인플레이션 데이터는 '나쁜 소식'이라고 연준의 Goolsbee는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578830)
 #### [미국 북서부 강 유량은 90 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578829)
@@ -125,10 +132,3 @@
 #### [예멘, 샤브와 해안에서 납치된 유조선이 소말리아 해역으로 향하고 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578781)
 #### [버크셔 주주들이 버핏이 참석할 것으로 예상되는 그렉 아벨의 첫 연례 회의로 향합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578780)
 #### [우크라이나, 벨로루시 국경에서 '비정상적인 활동'을 본다, 젤 렌 스키, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578779)
-#### [버크셔 해서웨이의 영업 이익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578778)
-#### [예멘, 샤브와 해안에서 납치 된 유조선, 소말리아 해역으로 향한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578777)
-#### [고래 '티미'가 방류 후 북해로 자유롭게 헤엄쳐 나갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578776)
-#### [카타르항공, 5월 10일부터 이라크행 항공편 운항 재개 - 성명서 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578775)
-#### [스타 머 영국 총리, 친 팔레스타인 행진을 금지 할 새로운 권한이있을 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578774)
-#### [UAE, 예방 조치 해제 후 항공 교통이 정상으로 돌아 왔다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578773)
-#### ['심장 위기'이후이란 병원에서 노벨상 수상자 모하마디, 재단은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578772)
