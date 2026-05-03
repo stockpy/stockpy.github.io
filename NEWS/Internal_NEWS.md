@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260503_2042 </title></head>
-<center>Vers : 20260503_2042 </center>
-<center>Vers : 20260504_0542 </center>
+<head><meta charset="utf-8"><title>Vers : 20260503_2127 </title></head>
+<center>Vers : 20260503_2127 </center>
+<center>Vers : 20260504_0627 </center>
 <br><br><br>
+#### [트럼프, 미국이 호르무즈 해협에 발이 묶인 선박의 석방을 도울 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578989)
+#### [스피릿은 대부분의 고객이 환불을 받았고, 종료 후 직원이 복귀했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578988)
+#### [뉴질랜드의 a2 Milk, 세룰라이드 존재로 미국 유아용 분유 배치 리콜](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578987)
+#### [W/E 뉴스-미국-이란 개발, 미국-독일 균열, 미국 인플레이션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578986)
+#### [트럼프, 미국은 월요일 아침부터 호르무즈 해협에서 선박을 해방시키는 데 도움을 줄 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578985)
 #### [싱클레어 밀크, 미국 A2 우유 회사의 리콜을 공동 지원한다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578984)
 #### [A2 우유, 소량의 A2 플래티넘 미국 라벨 리콜](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578983)
 #### [승객 3 명 사망, 대서양 유람선에서 한타 바이러스 확진 자 1 건 확인, WHO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578982)
@@ -58,9 +63,3 @@
 #### [노르웨이의 Gassco, 계획되지 않은 가스 공급 중단 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578932)
 #### [피로 미국 변호사, 백악관 특파원 만찬 중 경관이 총에 맞았다는 증거가 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578931)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578930)
-#### [IAEA, 드론이 자포리 지아 원자력 발전소의 외부 방사선 제어 실험실을 표적으로 삼았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578929)
-#### [히트곡은 거짓말을 하지 않는다: 샤키라 콘서트, 리우에서 2백만 팬을 끌어모으다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578928)
-#### [모로코에서 아프리카 사자 훈련 중 미군 2명이 실종되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578927)
-#### [월스트리트 주간을 앞두고-미국 증시 랠리는 유가 급등으로 인해 수익, 고용 데이터에서 연료를 찾을 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578926)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMD.O/total>
-#### [트럼프 행정부, 국가 안보를 이유로 풍력 발전소 프로젝트 중단, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578925)

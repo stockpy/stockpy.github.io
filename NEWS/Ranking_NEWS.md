@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260503_2042 </title></head>
-<center>Vers : 20260503_2042 </center>
-<center>Vers : 20260504_0542 </center>
+<head><meta charset="utf-8"><title>Vers : 20260503_2127 </title></head>
+<center>Vers : 20260503_2127 </center>
+<center>Vers : 20260504_0627 </center>
 <br><br><br>
 #### [“엔비디아 미리 팔아야 하나요?”…초대형 IPO, 초대형 악재 우려](https://m.stock.naver.com/news/ranknews/view/009/0005674806)
 #### [“한주에 400만원?” 눈을 의심했다…월급 털어 겨우 한 주 살 판 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002638577)
