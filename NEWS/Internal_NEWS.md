@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260503_1651 </title></head>
-<center>Vers : 20260503_1651 </center>
-<center>Vers : 20260504_0151 </center>
+<head><meta charset="utf-8"><title>Vers : 20260503_1738 </title></head>
+<center>Vers : 20260503_1738 </center>
+<center>Vers : 20260504_0238 </center>
 <br><br><br>
+#### [벨기에 제약 그룹 UCB, 캔디드 테라퓨틱스 최대 22억 달러에 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578959)
+#### [온타리오 269MW 로워 노치 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578958)
+#### [은행, 데이터 센터 부채에 대한 '질식'을 피하기 위해 위험을 오프로드하려고 노력 -FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578957)
+#### [독일 메르츠, 나토에 대한 미국의 중요성 강조, 트럼프와의 긴장 경시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578956)
+#### [이란, 14개 항 제안에 대한 미국의 대응을 검토 중이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578955)
 #### [대만 대통령, 에스와티니 순방에서 반항, 중국은 그를 '쥐새끼'라고 부르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578954)
 #### [우크라이나, 핀란드에 드론 거래 제안, 젤 렌 스키, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578953)
 #### [유출된 정보 속에서 고서치 판사는 미국 대법원에 '솔직한 대화'를 위한 공간이 필요하다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578952)
@@ -58,8 +63,3 @@
 #### [클라렌스 토마스가 이정표를 세우면서 미국 대법원에 남긴 그의 보수적인 족적은 지속됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578902)
 #### [버크셔 주주들은 그렉 아벨을 좋아하지만 워런 버핏을 따르기는 어렵습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578901)
 #### [선거구 재조정과 대법원이 미국 하원 선거에서 유권자를 배제하는 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578900)
-#### [프랑스에서 영국으로 해협 횡단 시도 중 여성 2명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578899)
-#### [OPEC +, 호르무즈 폐쇄 이후 세 번째 석유 생산량 할당량 인상에 합의 할 예정, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578898)
-#### [F1은 2031 년, 아마도 2030 년까지 V8 엔진을 보유 할 것이라고 FIA 회장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578897)
-#### [폴란드의 투스크는 독일에서 미군이 재배치 될 수 있다는 신호가 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578896)
-#### [5.0mcm/일 정전을 예정하고 있습니다. 03 0839 ~ 5월. 04 at 0359](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578895)
