@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260503_0255 </title></head>
-<center>Vers : 20260503_0255 </center>
-<center>Vers : 20260503_1155 </center>
+<head><meta charset="utf-8"><title>Vers : 20260503_0605 </title></head>
+<center>Vers : 20260503_0605 </center>
+<center>Vers : 20260503_1505 </center>
 <br><br><br>
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578880)
+#### [트랜스캐나다 온타리오 197MW 포틀랜드 1 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578879)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578878)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578877)
+#### [복싱 이노우에, 나카타니를 꺾고 슈퍼 밴텀급 타이틀 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578876)
+#### [이스라엘 군, 헤즈볼라 소탕 작전 중 레바논 남부 여러 마을 주민들에게 대피 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578875)
+#### [이스라엘 군, 헤즈볼라에 대한 작전으로 레바논 남부 주민들에게 대피 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578874)
+#### [스타트업, AI '바이브 코딩' 앱 규제에 대해 애플에 도전하다 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578873)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578872)
+#### [소프트웨어 그룹 IFS, 향후 2년 내 상장 준비 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578871)
+#### [스페인은 ECB 이사회에서 새로운 자리를 차지해야한다고 퇴임하는 부사장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578870)
+#### [베트남 4 월 쌀 수출량 1 백만 톤으로 전년 대비 10 % 감소, 통계청 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578869)
+#### [베트남의 인플레이션이 4 월에 가속화되고 무역 적자가 확대됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578868)
+#### [주목해야 할 요소 - 5월 3일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578867)
+#### [4월 커피 수출량, 전년 동기 대비 16% 증가한 81만 톤 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578866)
+#### [라탐항공 그룹, 스피릿항공의 운항 중단으로 영향을 받은 승객을 위한 보호 계획 가동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578865)
 #### [캐나다 거래소 그룹 TMX, Cboe- FT의 호주 및 캐나다 지사 인수로 호주 내 채굴 상장 붐 촉진 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578864)
 #### [대만 대통령, 에스와티니 순방 시작하면서 도전적 태도, 중국은 그를 '쥐새끼'라고 부르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578863)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578862)
@@ -47,6 +63,10 @@
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578823)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578822)
 #### [르클레르, 안토넬리의 운전에 대한 '가혹한' 비판에 반발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578821)
+<head><meta charset="utf-8"><title>Vers : 20260503_0605 </title></head>
+<center>Vers : 20260503_0605 </center>
+<center>Vers : 20260503_1505 </center>
+<br><br><br>
 #### [이란, 해협 협상 제안, 트럼프는 불만이지만 비군사적 경로 선호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578820)
 #### [저예산 미국인들이 저가 항공사인 스피릿 항공의 상실을 애도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578819)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ULCC.O/total>
@@ -64,10 +84,6 @@
 #### [스피릿 항공, 업계 최초의 이란 전쟁 사상자 발생으로 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578807)
 #### [미국, 필리핀, 대만 인근에서 대함 미사일 시스템 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578806)
 #### [공화당 최고 지도자들은 독일에서 군대를 철수하려는 트럼프 계획에 우려를 표명합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578805)
-<head><meta charset="utf-8"><title>Vers : 20260503_0255 </title></head>
-<center>Vers : 20260503_0255 </center>
-<center>Vers : 20260503_1155 </center>
-<br><br><br>
 #### [버크셔 CEO 아벨, 산불 소송에서 '우리는 1 루트로 돌아갔다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578804)
 #### [이라크, 호르무즈 위기가 끝나면 석유 생산량, 수출이 일주일 안에 회복 될 수 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578803)
 #### [저가 항공사 붕괴 후 발이 묶인 스피릿 승객을 돕기 위해 출동한 항공사들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578802)
@@ -116,21 +132,3 @@
 #### [유럽에 주둔하는 미군 병력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578763)
 #### [인도 코탁 마힌드라 은행, 강력한 대출 성장으로 이익 예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578762)
 #### [OPEC +, UAE없는 소규모 석유 생산량 인상에 원칙적으로 동의, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578761)
-#### [모터 레이싱 - 전 F1 드라이버이자 패럴림픽 챔피언 자나르디, 59세 나이로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578760)
-#### [우크라이나의 거점 코스티안티니브카 외곽에서 전투가 벌어지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578759)
-#### [벌크 운반선이 예멘 해안에서 의심스러운 접근을보고했다고 UKMTO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578758)
-#### [제트블루, 99달러의 구조 요금으로 좌초된 영혼 고객 지원, 포트로더데일 출발 11개 목적지 추가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578757)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/JBLU.O/total>
-#### [트럼프, 미 해군의 석유 화물 압류를 '해적'에 비유하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578756)
-#### [버크셔 주주들이 버핏이 참석한 가운데 그렉 아벨의 첫 연례 주주총회에 참석합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578755)
-#### [메타, 페이스북과 다른 플랫폼에 변화를 강요할 수 있는 뉴멕시코 재판에 직면하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578754)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [러시아 투 압세 항구에서 화재가 진화되었다고 현지 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578753)
-#### [일본 혼슈 남부 해안 근처에서 규모 5.83의 지진이 발생했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578752)
-#### [소식통에 따르면 에어 인디아 CEO 검색은 싱가포르 항공 임원 칸난과 내부자 아가르왈로 좁혀졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578751)
-#### [트럼프가 거부 한이란의 제안은 핵 회담 전에 해협을 열 것이라고이란 관리가 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578750)
-#### [러시아 군이 우크라이나 수미 지역의 마을을 점령했다고 국방부는 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578749)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578748)
-#### [인도, 로히트 자인을 RBI 대리인으로 임명, 정부 통지에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578747)
-#### [나토: 미국과 협력하여 독일 내 병력 감축에 대한 세부 사항 파악](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578746)
-#### [터키의 4월 무역적자, 29.8% 감소한 85억 달러로 좁혀져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578745)
