@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260503_1534 </title></head>
-<center>Vers : 20260503_1534 </center>
-<center>Vers : 20260504_0034 </center>
+<head><meta charset="utf-8"><title>Vers : 20260503_1651 </title></head>
+<center>Vers : 20260503_1651 </center>
+<center>Vers : 20260504_0151 </center>
 <br><br><br>
+#### [대만 대통령, 에스와티니 순방에서 반항, 중국은 그를 '쥐새끼'라고 부르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578954)
+#### [우크라이나, 핀란드에 드론 거래 제안, 젤 렌 스키, 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578953)
+#### [유출된 정보 속에서 고서치 판사는 미국 대법원에 '솔직한 대화'를 위한 공간이 필요하다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578952)
+#### [영국 남부에서 폭발 후 2 명 사망, 3 명 부상, 경찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578951)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578950)
+#### [독일, 트럼프 자동차 관세 대응에 대해 EU와 협력 할 것이라고 교육부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578949)
+#### [미국 피로 변호사는 Fed IG의 발견이 파월 조사의 미래를 결정할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578948)
 #### [미국 피로 변호사, 백악관 특파원 만찬 중 경관이 용의자의 총에 맞았다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578947)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578946)
 #### [토요일 런던에서 총격 사건으로 4 명이 부상했다고 스카이 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578945)
@@ -56,10 +63,3 @@
 #### [F1은 2031 년, 아마도 2030 년까지 V8 엔진을 보유 할 것이라고 FIA 회장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578897)
 #### [폴란드의 투스크는 독일에서 미군이 재배치 될 수 있다는 신호가 없다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578896)
 #### [5.0mcm/일 정전을 예정하고 있습니다. 03 0839 ~ 5월. 04 at 0359](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578895)
-#### [남중국해를 둘러싼 중국, 필리핀의 무역 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578894)
-#### [이스라엘, 록히드, 보잉으로부터 F-35 및 F-15IA 전투기 구매 계획 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578893)
-#### [OPEC +, 호르무즈 폐쇄 이후 세 번째 석유 생산량 할당량 인상에 합의 할 예정, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578892)
-#### [우크라이나의 드론 공격으로 러시아 프리모르스크 항구 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578891)
-#### [미 국무 장관, 바티칸과 이탈리아 방문, 신문 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578890)
-#### [OPEC +, 호르무즈 폐쇄 이후 세 번째 석유 생산량 할당량 인상에 합의 할 예정, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578889)
-#### [길과 휴잇이 호주를 세계 컬링 첫 우승으로 이끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2578888)
