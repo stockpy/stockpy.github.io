@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260507_1748 </title></head>
-<center>Vers : 20260507_1748 </center>
-<center>Vers : 20260508_0248 </center>
+<head><meta charset="utf-8"><title>Vers : 20260507_1943 </title></head>
+<center>Vers : 20260507_1943 </center>
+<center>Vers : 20260508_0443 </center>
 <br><br><br>
 #### [삼성전자 '최고의 순간' 아직 오지 않았다…"여전히 저평가" [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005284375)
 #### [“주식에 2.6억 몰빵, 6년 뒤 1050억 됐다”…투자자 사연 화제](https://m.stock.naver.com/news/ranknews/view/016/0002640001)
