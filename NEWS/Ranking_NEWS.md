@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260508_1717 </title></head>
-<center>Vers : 20260508_1717 </center>
-<center>Vers : 20260509_0217 </center>
+<head><meta charset="utf-8"><title>Vers : 20260508_1918 </title></head>
+<center>Vers : 20260508_1918 </center>
+<center>Vers : 20260509_0418 </center>
 <br><br><br>
 #### [“삼성전자 PER 역사적 최저 수준…지금 매도하는 건 실수”](https://m.stock.naver.com/news/ranknews/view/009/0005677431)
 #### [주식으로 돈 번 사람들, 백화점 가고 명품만 사나봐요](https://m.stock.naver.com/news/ranknews/view/005/0001847774)
