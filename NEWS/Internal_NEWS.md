@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260508_2255 </title></head>
-<center>Vers : 20260508_2255 </center>
-<center>Vers : 20260509_0755 </center>
+<head><meta charset="utf-8"><title>Vers : 20260508_2355 </title></head>
+<center>Vers : 20260508_2355 </center>
+<center>Vers : 20260509_0855 </center>
 <br><br><br>
+#### [옥수수, 대두 기준 입찰가 상승세 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588744)
+#### [Seabridge Gold Inc <SEA.TO>는 주당 6 센트의 손실을 기록 할 것으로 예상됩니다 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588743)
+#### [콜롬비아의 12개월 인플레이션이 4월에 상승세로 돌아섰습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588742)
+#### [Upexi, Inc <UPXI.OQ>는 주당 20 센트의 손실을 기록 할 것으로 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588741)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UPXI.O/total>
+#### [2026년 6월 10일부로 알렉스 통을 최고재무책임자로 임명하는 엔지엑스 미네랄즈](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588740)
+#### [콜롬비아 12개월 인플레이션 4월 5.68% - 로이터 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588739)
+#### [페이토 탐사 및 개발 회사 <PEY.TO>는 주당 74센트의 수익을 올릴 것으로 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588738)
+#### [WHO, 스페인행 크루즈와 관련된 6건의 한타바이러스 확진 사례 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588737)
+#### [한타 바이러스에 대한 트럼프 : 상황 '괜찮아 보인다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588736)
+#### [GM, 캘리포니아 운전자 개인정보 조사 합의금으로 1,275만 달러 지급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588735)
+#### [우크라이나 전쟁에서 더 긴 휴전을 원한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588734)
 #### [아르헨티나 관리, 한타 바이러스가 티에라 델 푸에고 주에서 유래했을 가능성은 낮다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588733)
 #### [베트남, 남중국해 섬 건설에 수백 에이커 추가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588732)
 #### [Ramaco Resources Inc <METCB.OQ>는 주당 21 센트의 손실을 기록 할 것으로 예상됩니다 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588731)
@@ -62,15 +74,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/REAL.O/total>
 #### [실바코 그룹, 2026년 5월 8일에 ATM 제공 프로그램을 3,500만 달러로 증액 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588685)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SVCO.O/total>
-#### [Lantronix Inc - 판매 대리인을 통해 최대 3 천만 달러의 보통주를 제공하고 판매 할 수 있음 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588684)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LTRX.O/total>
-#### [보석부터 사적인 편지까지, 마릴린 먼로의 숨겨진 세계가 경매로 향합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588683)
-#### [미국 판사, 엘론 머스크와 SEC와의 합의에 고무 도장 찍지 않을 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588682)
-#### [미국 곡물 바지선 운임 값은? 5월 8일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588681)
-#### [우크라이나, 2차 세계대전 종전 기념하며 '데자뷰' 감정 표출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588680)
-#### [이란 회담이 여전히 가시적이라면 유가가 더 상승 할 수 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588679)
-#### [공공 정책 지주 회사 <PPHC.L>, 주당 33 센트의 수익을 올릴 것으로 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588678)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588677)
-#### [크루드-캐나다 서부 지역 할인 변경 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588676)
-#### [제퍼슨 시큐리티 뱅크의 1분기 순이자 수익은 대출 이자 및 수수료 증가로 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588675)
-#### [해밀턴 비치 브랜드 지주 회사, 분기 배당금 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588674)
