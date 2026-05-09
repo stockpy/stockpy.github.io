@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260509_2243 </title></head>
-<center>Vers : 20260509_2243 </center>
-<center>Vers : 20260510_0743 </center>
+<head><meta charset="utf-8"><title>Vers : 20260509_2332 </title></head>
+<center>Vers : 20260509_2332 </center>
+<center>Vers : 20260510_0832 </center>
 <br><br><br>
+#### [두보아, 11라운드 만에 워들리를 제압하고 WBO 헤비급 타이틀 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588854)
+#### [루이지애나 공화당이 선거구 지도를 다시 그리려는 움직임에 분노와 혼란이 일고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588853)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588852)
 #### [마이애미 지역에서 '가능한'보트 폭발로 최소 11 명이 부상 당했다고 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588851)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588850)
@@ -60,5 +62,3 @@
 #### [투자자들이 방위 산업에 뛰어들면서 드론 스타트업 헬싱의 기업가치가 180억 달러에 달할 전망- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588797)
 #### [인도, 주류 대기업 페르노드의 소매업체 거래에 대한 반독점 조사 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588796)
 #### [러시아, 우크라이나 전쟁 공포로 2차 세계대전 승전 퍼레이드 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588795)
-#### [WHO 국장, 한타 바이러스 유람선 승객 하선을 앞두고 스페인에 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588794)
-#### [독일, 프랑스, 벨기에, 아일랜드, 네덜란드, 한타바이러스에 감염된 크루즈선 탑승객을 위해 비행기를 보내기로 함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588793)
