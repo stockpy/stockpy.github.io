@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260509_1752 </title></head>
-<center>Vers : 20260509_1752 </center>
-<center>Vers : 20260510_0252 </center>
+<head><meta charset="utf-8"><title>Vers : 20260509_1902 </title></head>
+<center>Vers : 20260509_1902 </center>
+<center>Vers : 20260510_0402 </center>
 <br><br><br>
+#### [푸틴, 우크라이나 분쟁이 끝날 것 같다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588836)
+#### [푸틴, 우크라이나 분쟁이 끝날 것 같다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588835)
+#### [푸틴, 이란 분쟁이 곧 끝나기를 희망한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588834)
+#### [푸틴은 젤 렌스키와의 만남은 지속적인 우크라이나 평화 협정이 합의되어야만 가능하다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588833)
+#### [온타리오 269MW 로워 노치 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588832)
+#### [온타리오주 190MW 오터 래피즈 수력 발전소 폐쇄 - 온타리오주 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588831)
+#### [온타리오 338MW 캐니언 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588830)
+#### [칠레 재무장관, 올해 개혁 추진으로 2% 성장 전망 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588829)
+#### [미국 북서부 강 유량은 90 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588828)
+#### [스페인 한타 바이러스 의심 사례에 대한 테스트는 음성이라고 보건부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588827)
 #### [미디어 나토와 일본, 위성 발사장 공동 사용 검토 - Nikkei Asia](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588826)
 #### [호르무즈 해협을 향해 항해하는 카타르 LNG 유조선, 해운 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588825)
 #### [비즈니스 룩어헤드 투어 중인 트럼프](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588824)
@@ -52,14 +62,3 @@
 #### [영국 총리 스타머, 리더십 재설정을 목표로 고든 브라운 전 총리가 고문으로 임명되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588779)
 #### [크렘린은 우크라이나와의 평화 협상에 매우 먼 길이 있다고 TASS가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588778)
 #### [바레인, '이란의 IRGC와 연계된' 41명을 체포했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588777)
-#### [영국 스타머 총리가 고든 브라운 전 총리를 글로벌 금융 특사로 임명합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588776)
-#### [영국 경찰, 반유대주의적 틱톡 동영상 촬영과 관련해 남성 2명 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588775)
-#### [바레인, '이란의 IRGC와 연계된' 41명을 체포했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588774)
-#### [프론티어 항공 비행기가 덴버에서 엔진 화재로 보행자를 치는 사고가 발생했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588773)
-#### [CBOT 밀 배송 - 09년 5월](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588772)
-#### [프론티어 항공 비행기가 덴버에서 이륙 중 보행자와 충돌한 것으로 알려졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588771)
-#### [바이트댄스, 2026년 설비투자 최소 25% 인상 - SCMP](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588770)
-#### [장관, 수잔 애쉬먼을 영국 소버린 AI 펀드의 첫 번째 사장으로 임명 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588769)
-#### [중국 4월 수출 강세 반등, 트럼프 방한 앞두고 무역수지 흑자폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588768)
-#### [프론티어 항공, 오늘 저녁 덴버 국제 공항에서 출발하는 4345편이 이륙 중 활주로에서 보행자를 쳤다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588767)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ULCC.O/total>
