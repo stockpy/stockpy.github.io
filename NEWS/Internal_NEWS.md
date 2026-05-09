@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260509_1655 </title></head>
-<center>Vers : 20260509_1655 </center>
-<center>Vers : 20260510_0155 </center>
+<head><meta charset="utf-8"><title>Vers : 20260509_1752 </title></head>
+<center>Vers : 20260509_1752 </center>
+<center>Vers : 20260510_0252 </center>
 <br><br><br>
+#### [미디어 나토와 일본, 위성 발사장 공동 사용 검토 - Nikkei Asia](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588826)
+#### [호르무즈 해협을 향해 항해하는 카타르 LNG 유조선, 해운 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588825)
+#### [비즈니스 룩어헤드 투어 중인 트럼프](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588824)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588823)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588822)
 #### [호르무즈 해협을 향해 항해하는 카타르 LNG 유조선, 해운 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588821)
@@ -60,7 +63,3 @@
 #### [중국 4월 수출 강세 반등, 트럼프 방한 앞두고 무역수지 흑자폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588768)
 #### [프론티어 항공, 오늘 저녁 덴버 국제 공항에서 출발하는 4345편이 이륙 중 활주로에서 보행자를 쳤다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588767)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ULCC.O/total>
-#### [미국, 걸프 충돌로 전쟁 종식에 가까워지지 않은 이란](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588766)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588765)
-#### [태국 시암AI, 미국 AI 서버의 중국 수출 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588764)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMCI.O/total>
