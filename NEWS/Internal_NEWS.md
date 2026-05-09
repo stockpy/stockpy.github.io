@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260509_2042 </title></head>
-<center>Vers : 20260509_2042 </center>
-<center>Vers : 20260510_0542 </center>
+<head><meta charset="utf-8"><title>Vers : 20260509_2129 </title></head>
+<center>Vers : 20260509_2129 </center>
+<center>Vers : 20260510_0629 </center>
 <br><br><br>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588850)
+#### [이스라엘, 이란 전쟁을 위해 이라크에 비밀 기지를 건설하고 방어했다고 WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588849)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588848)
+#### [헝가리에서 춤추는 정치인이 의회 밖에서 축하 행사를 주도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588847)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588846)
 #### [온타리오 269MW 로워 노치 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588845)
 #### [온타리오 190MW 오터 래피즈 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588844)
@@ -58,7 +62,3 @@
 #### [독일, 프랑스, 벨기에, 아일랜드, 네덜란드, 한타바이러스에 감염된 크루즈선 탑승객을 위해 비행기를 보내기로 함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588793)
 #### [러시아, 우크라이나가 5 월 8 일 휴전을 위반했다고 말했지만 3 일 휴전이 유지되고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588792)
 #### [푸틴이 피코에게 말한다: 러시아는 슬로바키아의 에너지 수요를 충족시킬 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588791)
-#### [독일, 프랑스, 벨기에, 아일랜드, 네덜란드, 한타 바이러스에 감염된 유람선 승객을 위해 비행기를 보내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588790)
-#### [호주 극우 정당, 하원 첫 의석 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588789)
-#### [크렘린, 우크라이나 전쟁 휴전은 3 일 동안이며 더 이상 지속되지 않을 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588788)
-#### [자카르타에서 온라인 도박 운영 혐의로 300명 이상의 외국인 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588787)
