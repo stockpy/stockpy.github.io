@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260509_1539 </title></head>
-<center>Vers : 20260509_1539 </center>
-<center>Vers : 20260510_0039 </center>
+<head><meta charset="utf-8"><title>Vers : 20260509_1655 </title></head>
+<center>Vers : 20260509_1655 </center>
+<center>Vers : 20260510_0155 </center>
 <br><br><br>
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588823)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588822)
+#### [호르무즈 해협을 향해 항해하는 카타르 LNG 유조선, 해운 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588821)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588820)
+#### [사이클링-토마스 실바, 지로 스테이지 2에서 20명 가까운 라이더가 충돌한 가운데 우승을 향해 질주합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588819)
+#### [한타바이러스에 감염된 크루즈선에 탑승한 영국 국민, 귀국 후 병원에서 격리 조치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588818)
 #### [헝가리 총리로 취임한 마자르, 변화를 약속하며 취임 선서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588817)
 #### [토마스 실바, 지로 스테이지 2에서 거의 20명의 라이더가 충돌한 가운데 우승을 향해 질주하다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588816)
 #### [러시아, 라오스에 첫 연료화물 운송 고려, 부총리는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588815)
@@ -58,9 +64,3 @@
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588765)
 #### [태국 시암AI, 미국 AI 서버의 중국 수출 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588764)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMCI.O/total>
-#### [중국 철강 수출 4월 감소, 연간 출하량 2023년 이후 최저치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588763)
-#### [분석-트럼프의 불화, 동맹국과의 긴장은이란 전쟁보다 오래 지속될 가능성이 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588762)
-#### [중국 석탄 수입이 4 월에 14 % 감소했다고 세관 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588761)
-#### [중국 대두 수입이 4월에 급증, 2025년을 앞두고 연간 선적량 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588760)
-#### [중국 4월 수출이 3월 부진 이후 강한 반등, 무역수지 흑자폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588759)
-#### [미군은 동 태평양에서 선박에 대한 공격으로 2 명 사망, 1 명 생존자 남았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588758)
