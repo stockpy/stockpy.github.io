@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260509_1902 </title></head>
-<center>Vers : 20260509_1902 </center>
-<center>Vers : 20260510_0402 </center>
+<head><meta charset="utf-8"><title>Vers : 20260509_2042 </title></head>
+<center>Vers : 20260509_2042 </center>
+<center>Vers : 20260510_0542 </center>
 <br><br><br>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588846)
+#### [온타리오 269MW 로워 노치 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588845)
+#### [온타리오 190MW 오터 래피즈 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588844)
+#### [온타리오 338MW 캐니언 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588843)
+#### [오지에, 포르투갈에서 경쟁자들이 폭우에 고전하는 가운데 선두로 치고 나갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588842)
+#### [영국, 홍콩과 관련된 국가 안보 유죄 판결 후 중국 대사 소환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588841)
+#### [호주, 스페인이 버뮤다 세일GP 개막일 이후 공동 선두를 달리고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588840)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588839)
+#### [브라질 대법원 판사, 보우소나루 전 대통령 조기 석방 명령 법안 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588838)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588837)
 #### [푸틴, 우크라이나 분쟁이 끝날 것 같다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588836)
 #### [푸틴, 우크라이나 분쟁이 끝날 것 같다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588835)
 #### [푸틴, 이란 분쟁이 곧 끝나기를 희망한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588834)
@@ -52,13 +62,3 @@
 #### [호주 극우 정당, 하원 첫 의석 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588789)
 #### [크렘린, 우크라이나 전쟁 휴전은 3 일 동안이며 더 이상 지속되지 않을 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588788)
 #### [자카르타에서 온라인 도박 운영 혐의로 300명 이상의 외국인 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588787)
-#### [크렘린, 우크라이나의 평화는 아직 멀었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588786)
-#### [뉴욕증권거래소, 월스트리트에 프라이빗 멤버스 클럽 오픈 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588785)
-#### [코파사 1분기 순이익 3억 6,800만 헤알](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588784)
-#### [두카티의 바냐이아, 마르케즈가 프랑스 MotoGP에서 랩 신기록을 세운 후 폴을 탈환했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588783)
-#### [루이지애나 공화당의 움직임으로 분노, 혼란? 다수 흑인 미 하원 지역구 지우기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588782)
-#### [미완성된 전기 프로젝트에 수백만 명의 미국인이 비용을 지불하는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588781)
-#### [중국의 진화하는 소비 습관이 아마존 열대우림을 보호하는 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588780)
-#### [영국 총리 스타머, 리더십 재설정을 목표로 고든 브라운 전 총리가 고문으로 임명되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588779)
-#### [크렘린은 우크라이나와의 평화 협상에 매우 먼 길이 있다고 TASS가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588778)
-#### [바레인, '이란의 IRGC와 연계된' 41명을 체포했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588777)
