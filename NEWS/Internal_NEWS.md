@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260509_2129 </title></head>
-<center>Vers : 20260509_2129 </center>
-<center>Vers : 20260510_0629 </center>
+<head><meta charset="utf-8"><title>Vers : 20260509_2243 </title></head>
+<center>Vers : 20260509_2243 </center>
+<center>Vers : 20260510_0743 </center>
 <br><br><br>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588852)
+#### [마이애미 지역에서 '가능한'보트 폭발로 최소 11 명이 부상 당했다고 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588851)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588850)
 #### [이스라엘, 이란 전쟁을 위해 이라크에 비밀 기지를 건설하고 방어했다고 WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588849)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588848)
@@ -60,5 +62,3 @@
 #### [러시아, 우크라이나 전쟁 공포로 2차 세계대전 승전 퍼레이드 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588795)
 #### [WHO 국장, 한타 바이러스 유람선 승객 하선을 앞두고 스페인에 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588794)
 #### [독일, 프랑스, 벨기에, 아일랜드, 네덜란드, 한타바이러스에 감염된 크루즈선 탑승객을 위해 비행기를 보내기로 함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588793)
-#### [러시아, 우크라이나가 5 월 8 일 휴전을 위반했다고 말했지만 3 일 휴전이 유지되고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588792)
-#### [푸틴이 피코에게 말한다: 러시아는 슬로바키아의 에너지 수요를 충족시킬 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588791)
