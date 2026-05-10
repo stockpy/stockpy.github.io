@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260510_0822 </title></head>
-<center>Vers : 20260510_0822 </center>
-<center>Vers : 20260510_1722 </center>
+<head><meta charset="utf-8"><title>Vers : 20260510_0951 </title></head>
+<center>Vers : 20260510_0951 </center>
+<center>Vers : 20260510_1851 </center>
 <br><br><br>
+#### [러시아, 우크라이나가 드론과 포격 공격으로 휴전을 위반했다고 Ifax가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588920)
+#### [이라크, 아시아 6월 바스라산 중질유 가격을 배럴당 4.30달러로 인상했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588919)
+#### [쿠웨이트 군, 영공에서 적대적인 드론이 탐지되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588918)
+#### [러시아, 우크라이나가 드론과 포격 공격으로 휴전을 위반했다고 Ifax가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588917)
+#### [온타리오 269MW 로워 노치 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588916)
+#### [미디어 탱크 제조업체 KNDS, 베를린에 IPO 전 지분 인수 결정 촉구 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588915)
+#### [하이난 마이닝, 펑루이 불소 지분 69.9 % 인수, 자금 조달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588914)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601969.SS/total>
+#### [PTSB 주주, 바왁 거래에 대한 법정 소송 제기, 비즈니스 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588913)
+#### [GFH, 퍼싱 스퀘어 주식회사의 이중 IPO에 앵커 투자자로 투자. 와 퍼싱 스퀘어 USA의 이중 IPO에 앵커 투자자로 참여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588912)
+#### [가자 지구에서 이스라엘의 공격으로 3 명이 사망, 의료진은 취약한 휴전을 시험한다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588911)
+#### [한타바이러스에 감염된 크루즈선에서 하선하는 첫 번째 스페인 승객 그룹](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588910)
+#### [북경한방기술, GPU 장비, 소프트웨어 및 관련 서비스 공급 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588909)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588908)
 #### [CBOT 쌀 배송 - 5월 10일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588907)
 #### [우크라이나, 휴전에도 불구하고 전장 충돌, 드론 공격 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588906)
@@ -53,6 +66,10 @@
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588863)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588862)
 #### [규모 5.8의 지진이 칠레의 바이오 바이오 지역을 강타했다고 EMSC는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588861)
+<head><meta charset="utf-8"><title>Vers : 20260510_0951 </title></head>
+<center>Vers : 20260510_0951 </center>
+<center>Vers : 20260510_1851 </center>
+<br><br><br>
 #### [호주의 트럼프 동맹 포퓰리스트들은 첫 하원 의석을 차지한 후 대량 이주에 맞서 싸우겠다고 맹세합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588860)
 #### [한타 바이러스에 감염된 선박의 모든 승객을 고위험 접촉자로 간주한다고 EU 보건 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588859)
 #### [알리바바, Qwen AI와 타오바오 통합, 에이전트 쇼핑 시작, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588858)
@@ -66,10 +83,6 @@
 #### [마이애미 지역에서 '가능한'보트 폭발로 최소 11 명이 부상 당했다고 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588851)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588850)
 #### [이스라엘, 이란 전쟁을 위해 이라크에 비밀 기지를 건설하고 방어했다고 WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588849)
-<head><meta charset="utf-8"><title>Vers : 20260510_0822 </title></head>
-<center>Vers : 20260510_0822 </center>
-<center>Vers : 20260510_1722 </center>
-<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588848)
 #### [헝가리에서 춤추는 정치인이 의회 밖에서 축하 행사를 주도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588847)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588846)
@@ -118,15 +131,3 @@
 #### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588803)
 #### [호주 극우 정당, 하원 첫 의석 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588802)
 #### [푸틴이 피코에게 말한다: 러시아는 슬로바키아의 에너지 수요를 충족시킬 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588801)
-#### [메르츠, 유럽은 강력한 나토를 원하고 이란 전쟁 종식이라는 미국의 목표를 공유한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588800)
-#### [독일 방위 스타트업 헬싱이 12억 달러 라운드에서 180억 달러 가치에 근접했다고 FT가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588799)
-#### [우크라이나 인들은 러시아의 공격으로부터의 휴식을 환영하며 모스크바는 평화가 아직 멀다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588798)
-#### [투자자들이 방위 산업에 뛰어들면서 드론 스타트업 헬싱의 기업가치가 180억 달러에 달할 전망- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588797)
-#### [인도, 주류 대기업 페르노드의 소매업체 거래에 대한 반독점 조사 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588796)
-#### [러시아, 우크라이나 전쟁 공포로 2차 세계대전 승전 퍼레이드 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588795)
-#### [WHO 국장, 한타 바이러스 유람선 승객 하선을 앞두고 스페인에 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588794)
-#### [독일, 프랑스, 벨기에, 아일랜드, 네덜란드, 한타바이러스에 감염된 크루즈선 탑승객을 위해 비행기를 보내기로 함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588793)
-#### [러시아, 우크라이나가 5 월 8 일 휴전을 위반했다고 말했지만 3 일 휴전이 유지되고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588792)
-#### [푸틴이 피코에게 말한다: 러시아는 슬로바키아의 에너지 수요를 충족시킬 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588791)
-#### [독일, 프랑스, 벨기에, 아일랜드, 네덜란드, 한타 바이러스에 감염된 유람선 승객을 위해 비행기를 보내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588790)
-#### [호주 극우 정당, 하원 첫 의석 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588789)
