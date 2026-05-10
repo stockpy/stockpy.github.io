@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260510_1546 </title></head>
-<center>Vers : 20260510_1546 </center>
-<center>Vers : 20260511_0046 </center>
+<head><meta charset="utf-8"><title>Vers : 20260510_1656 </title></head>
+<center>Vers : 20260510_1656 </center>
+<center>Vers : 20260511_0156 </center>
 <br><br><br>
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588975)
+#### [모디 총리, 인도에 국제 유가 급등에 따른 연료 절약 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588974)
+#### [라트비아 국방부 장관, 우크라이나 드론이 유류 탱크에 충돌 한 후 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588973)
+#### [한타 바이러스에 걸린 배에서 송환 된 프랑스 승객 중 한 명이 증상이 있다고 PM은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588972)
+#### [Atco Power Alberta 385MW 배틀 리버 5 석탄 발전소 오프라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588971)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588970)
+#### [젤렌스키, 러시아는 전선을 따라 휴전을 준수하지 않았다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588969)
+#### [파키스탄, 이란 전쟁에 대한 미국의 평화 제안에 대한이란의 응답을 보냅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588968)
+#### [중국 허 부총리가 한국에서 미국 대표단과 무역 회담을 개최한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588967)
 #### [이란 전쟁으로 연방준비제도이사회가 금리를 인상할 수 있다고 핌코는 말한다- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588966)
 #### [인도 중앙은행, ECB와 협력 강화를 위한 업데이트 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588965)
 #### [사이클링-마그니에, 지로 스테이지 3 소피아에서 다시 한 번 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588964)
@@ -57,13 +66,3 @@
 #### [쿠웨이트 군, 영공에서 적대적인 드론이 탐지되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588918)
 #### [러시아, 우크라이나가 드론과 포격 공격으로 휴전을 위반했다고 Ifax가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588917)
 #### [온타리오 269MW 로워 노치 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588916)
-#### [미디어 탱크 제조업체 KNDS, 베를린에 IPO 전 지분 인수 결정 촉구 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588915)
-#### [하이난 마이닝, 펑루이 불소 지분 69.9 % 인수, 자금 조달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588914)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601969.SS/total>
-#### [PTSB 주주, 바왁 거래에 대한 법정 소송 제기, 비즈니스 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588913)
-#### [GFH, 퍼싱 스퀘어 주식회사의 이중 IPO에 앵커 투자자로 투자. 와 퍼싱 스퀘어 USA의 이중 IPO에 앵커 투자자로 참여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588912)
-#### [가자 지구에서 이스라엘의 공격으로 3 명이 사망, 의료진은 취약한 휴전을 시험한다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588911)
-#### [한타바이러스에 감염된 크루즈선에서 하선하는 첫 번째 스페인 승객 그룹](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588910)
-#### [북경한방기술, GPU 장비, 소프트웨어 및 관련 서비스 공급 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588909)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588908)
-#### [CBOT 쌀 배송 - 5월 10일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588907)
