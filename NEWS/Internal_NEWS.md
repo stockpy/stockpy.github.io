@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260510_2049 </title></head>
-<center>Vers : 20260510_2049 </center>
-<center>Vers : 20260511_0549 </center>
+<head><meta charset="utf-8"><title>Vers : 20260510_2135 </title></head>
+<center>Vers : 20260510_2135 </center>
+<center>Vers : 20260511_0635 </center>
 <br><br><br>
+#### [트럼프, 이란 평화 제안 거부 후 버즈-오디/달러 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589007)
+#### [분석-일본, 엔화 전쟁에서 추가 펀치를 위해 워싱턴, BOJ에 베팅](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589006)
+#### [BUZZ-재생-호주 리프레시, 스털링 상승, USD/JPY 브레이크](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589005)
+#### [래드넷, 1분기 매출 575,631만 달러 기록했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589004)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RDNT.O/total>
 #### [트럼프, 폴란드, 몰도바 수감자들이 벨라루스, 러시아 구금에서 풀려났다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589003)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589002)
 #### [이란, 전쟁 종식과 제재 해제를 요구하는 제안, 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589001)
@@ -63,7 +68,3 @@
 #### [이란, 전쟁 종식을 목표로 한 미국 제안에 대한 응답을 보냈다고 IRNA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588949)
 #### [월스트리트 한 주 전-데이터, 이란, 미중 회담으로 미국 증시 폭락에 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588948)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMAT.O/total>
-#### [마틴, 아프릴리아가 포디엄을 지키며 프랑스 그랑프리 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588947)
-#### [UK의 스타머는 정부를 그만두라는 요구에도 불구하고 10년 프로젝트라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588946)
-#### [로마의 어린이들이 헝가리의 마자르가 지킨 약속으로 역사를 만듭니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588945)
-#### [이란, 전쟁 종식을 목표로 한 미국 제안에 대한 응답을 보냈다고 IRNA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588944)
