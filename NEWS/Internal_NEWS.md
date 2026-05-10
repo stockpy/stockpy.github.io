@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260510_1656 </title></head>
-<center>Vers : 20260510_1656 </center>
-<center>Vers : 20260511_0156 </center>
+<head><meta charset="utf-8"><title>Vers : 20260510_1753 </title></head>
+<center>Vers : 20260510_1753 </center>
+<center>Vers : 20260511_0253 </center>
 <br><br><br>
+#### [미국 북서부 강 유량은 90 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588978)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588977)
+#### [라트비아 국방부 장관, 우크라이나 드론의 유류 탱크 공격 후 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588976)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588975)
 #### [모디 총리, 인도에 국제 유가 급등에 따른 연료 절약 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588974)
 #### [라트비아 국방부 장관, 우크라이나 드론이 유류 탱크에 충돌 한 후 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588973)
@@ -63,6 +66,3 @@
 #### [쿠웨이트 군, 영공에서 적대적 드론이 탐지됐다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588921)
 #### [러시아, 우크라이나가 드론과 포격 공격으로 휴전을 위반했다고 Ifax가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588920)
 #### [이라크, 아시아 6월 바스라산 중질유 가격을 배럴당 4.30달러로 인상했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588919)
-#### [쿠웨이트 군, 영공에서 적대적인 드론이 탐지되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588918)
-#### [러시아, 우크라이나가 드론과 포격 공격으로 휴전을 위반했다고 Ifax가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588917)
-#### [온타리오 269MW 로워 노치 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588916)
