@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260510_1904 </title></head>
-<center>Vers : 20260510_1904 </center>
-<center>Vers : 20260511_0404 </center>
+<head><meta charset="utf-8"><title>Vers : 20260510_2049 </title></head>
+<center>Vers : 20260510_2049 </center>
+<center>Vers : 20260511_0549 </center>
 <br><br><br>
 #### ["200조 벌었는데" 걱정 한가득...국민연금발 '매도 폭탄' 쏟아질까](https://m.stock.naver.com/news/ranknews/view/008/0005355278)
 #### ["아직 싸다"…마이크론 15% 폭등, 월요일 '30만전자' 촉매제 되나](https://m.stock.naver.com/news/ranknews/view/421/0008935542)

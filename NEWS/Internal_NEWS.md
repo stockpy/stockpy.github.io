@@ -1,7 +1,26 @@
-<head><meta charset="utf-8"><title>Vers : 20260510_1904 </title></head>
-<center>Vers : 20260510_1904 </center>
-<center>Vers : 20260511_0404 </center>
+<head><meta charset="utf-8"><title>Vers : 20260510_2049 </title></head>
+<center>Vers : 20260510_2049 </center>
+<center>Vers : 20260511_0549 </center>
 <br><br><br>
+#### [트럼프, 폴란드, 몰도바 수감자들이 벨라루스, 러시아 구금에서 풀려났다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589003)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589002)
+#### [이란, 전쟁 종식과 제재 해제를 요구하는 제안, 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589001)
+#### [미국은 대만의 적은 국방 예산에 실망했다고 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589000)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588999)
+#### [제프리, 분기 실적 호조로 호주 REA 그룹 PT 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588998)
+#### [이란 제안, 전쟁 종식과 제재 해제 요구, 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588997)
+#### [트럼프, 폴란드, 몰도바 수감자들이 벨로루시, 러시아 구금에서 석방되었다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588996)
+#### [RadNet 1분기 EPS USD -0.43](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588995)
+#### [버즈-댓글-한 주 앞으로-트럼프-시진핑 정상회담, 이란 전쟁, 미국 인플레이션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588994)
+#### [모로코에서 실종된 미군 병사의 시신 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588993)
+#### [한타바이러스에 감염된 선박에서 월요일 오후에 출발하는 마지막 두 대피 항공편](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588992)
+#### [아스트리카왕, 라이트 앤 원더, 제프리스 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588991)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588990)
+#### [호주, 버뮤다 세일GP 우승으로 챔피언십 선두 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588989)
+#### [멕시코 실종자 유족들, 월드컵 앞두고 어머니날 시위 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588988)
+#### [제프리, 실적 전망치 상회 후 맥쿼리 그룹의 PT 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588987)
+#### [패러데이 퓨처, YT 지아를 단독 글로벌 CEO로 선임 및 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588986)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FFAI.O/total>
 #### [모닝스타, 조사 후 호주 탭코프에 벌금 부과 예상, 밸류에이션 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588985)
 #### [Citi, 맥도날드 상승세에 따른 호주 퀵서비스 체인의 하방 리스크 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588984)
 #### [미국과 중국 간의 희토류 거래는 여전히 유효하다고 미국 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588983)
@@ -48,21 +67,3 @@
 #### [UK의 스타머는 정부를 그만두라는 요구에도 불구하고 10년 프로젝트라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588946)
 #### [로마의 어린이들이 헝가리의 마자르가 지킨 약속으로 역사를 만듭니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588945)
 #### [이란, 전쟁 종식을 목표로 한 미국 제안에 대한 응답을 보냈다고 IRNA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588944)
-#### [영국 낙하산 병사들이 한타 바이러스 의심 사례로 트리스탄 다 쿠냐에 공습을 주도합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588943)
-#### [브라질행 벌크선, 호르무즈 해협 통과, 이란의 타스님 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588942)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588941)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588940)
-#### [UAE, 방공망이 이란에서 날아온 드론 두 대를 처리했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588939)
-#### [이란, 카르그 섬 수출 허브 근처에서 석유 누출 보도 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588938)
-#### [DRW 지원 디지털 자산, 20억 달러 가치로 자금 조달 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588937)
-#### [크렘린, 아르메니아가 우크라이나의 젤렌스키에게 플랫폼을 제공했다고 비난, 기관 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588936)
-#### [호르무즈 해협을 '압력 도구'로 사용하면 위기가 심화 될 것이라고 카타르 총리,이란에 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588935)
-#### [온타리오 269MW 로워 노치 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588934)
-#### [테네리페에서 한타바이러스에 감염된 크루즈선 도착으로 대피 시작?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588933)
-#### [독일, 푸틴의 우크라이나 평화 회담에서 슈뢰더 역할 제안에 회의적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588932)
-#### [호르무즈 해협에서 한국 선박이 5월 4일 미확인 물체에 피격됐다고 국방부가 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588931)
-#### [아르마니가 로레알, LVMH, 에실로룩소티카에 지분 15%를 분할할 수 있다는 보고서가 나왔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588930)
-#### [UAE 국방부, 방공망이이란에서 오는 두 대의 드론을 처리했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588929)
-#### [크렘린, 아르메니아가 우크라이나의 젤렌스키에게 플랫폼을 제공했다고 비난, 기관 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588928)
-#### [영국의 스타머는 그의 정부가 그만두라는 요구에도 불구하고 10 년 프로젝트라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588927)
-#### [이란 최고 지도자, 군 수뇌부에게 '새로운 지침 조치'에 대해 브리핑, 파스 통신은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588926)
