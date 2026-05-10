@@ -1,7 +1,31 @@
-<head><meta charset="utf-8"><title>Vers : 20260510_0616 </title></head>
-<center>Vers : 20260510_0616 </center>
-<center>Vers : 20260510_1516 </center>
+<head><meta charset="utf-8"><title>Vers : 20260510_0822 </title></head>
+<center>Vers : 20260510_0822 </center>
+<center>Vers : 20260510_1722 </center>
 <br><br><br>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588908)
+#### [CBOT 쌀 배송 - 5월 10일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588907)
+#### [우크라이나, 휴전에도 불구하고 전장 충돌, 드론 공격 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588906)
+#### [베이하이 고파 추안샨 생물학, 회장 선출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588905)
+#### [제강 윤중마, 사모로 자금 조달에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588904)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603130.SS/total>
+#### [Aramco CEO, 10억 배럴 손실이 석유 시장 회복을 늦출 것이라고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588903)
+#### [모던 애비뉴의 주주, 주식 처분 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588902)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002656.SZ/total>
+#### [유시스 테크놀로지스, 주주가 지분을 처분할 계획이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588901)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300674.SZ/total>
+#### [스페인 보건 당국, 한타바이러스에 감염된 선박에 탑승해 승객 대피 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588900)
+#### [러시아는 남부 공항의 비행이 재개되었다고 TASS가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588899)
+#### [스페인 보건부 장관, 한타 바이러스에 휩싸인 선박에서 월요일 오후까지 대피한다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588898)
+#### [BUZZ-IMM: EUR, JPY, GBP 매도로 USD 매수 소폭 상승, CAD는 대규모 매수세 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588897)
+#### [온타리오 190MW 오터 래피즈 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588896)
+#### [온타리오 269MW 로워 노치 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588895)
+#### [온타리오 338MW 캐니언 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588894)
+#### [스위스 항공 CEO는 즉각적인 연료 부족은 없다고 말하며 비상 계획을 주시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588893)
+#### [지난 두 달 동안 세계는 10 억 배럴의 석유를 빼앗겼다고 아람코 CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588892)
+#### [스페인 보건 당국이 한타 바이러스에 감염된 유람선에 탑승하여 승객 대피 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588891)
+#### [멜코야 가스전에서 5월 -18.4mcm/일 정전 예정. 08 2110에서 5월. 13 at 1800](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588890)
+#### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588889)
+#### [BUZZ-IMM: 엔화 개입으로 달러 롱, 캐나다 달러 숏이 완화되는 스펙](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588888)
 #### [미국의 제재를 준수하는 국가는 걸프만 통과 어려움에 직면 할 것이라고이란 군대는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588887)
 #### [10 일 팜유 수출 8.5 % 증가 -ITS](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588886)
 #### [사우디 아람코 1분기 영업활동 현금흐름 307억 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588885)
@@ -42,6 +66,10 @@
 #### [마이애미 지역에서 '가능한'보트 폭발로 최소 11 명이 부상 당했다고 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588851)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588850)
 #### [이스라엘, 이란 전쟁을 위해 이라크에 비밀 기지를 건설하고 방어했다고 WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588849)
+<head><meta charset="utf-8"><title>Vers : 20260510_0822 </title></head>
+<center>Vers : 20260510_0822 </center>
+<center>Vers : 20260510_1722 </center>
+<br><br><br>
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588848)
 #### [헝가리에서 춤추는 정치인이 의회 밖에서 축하 행사를 주도하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588847)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588846)
@@ -63,10 +91,6 @@
 #### [온타리오 338MW 캐니언 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588830)
 #### [칠레 재무장관, 올해 개혁 추진으로 2% 성장 전망 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588829)
 #### [미국 북서부 강 유량은 90 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588828)
-<head><meta charset="utf-8"><title>Vers : 20260510_0616 </title></head>
-<center>Vers : 20260510_0616 </center>
-<center>Vers : 20260510_1516 </center>
-<br><br><br>
 #### [스페인 한타 바이러스 의심 사례에 대한 테스트는 음성이라고 보건부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588827)
 #### [미디어 나토와 일본, 위성 발사장 공동 사용 검토 - Nikkei Asia](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588826)
 #### [호르무즈 해협을 향해 항해하는 카타르 LNG 유조선, 해운 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588825)
@@ -106,24 +130,3 @@
 #### [푸틴이 피코에게 말한다: 러시아는 슬로바키아의 에너지 수요를 충족시킬 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588791)
 #### [독일, 프랑스, 벨기에, 아일랜드, 네덜란드, 한타 바이러스에 감염된 유람선 승객을 위해 비행기를 보내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588790)
 #### [호주 극우 정당, 하원 첫 의석 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588789)
-#### [크렘린, 우크라이나 전쟁 휴전은 3 일 동안이며 더 이상 지속되지 않을 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588788)
-#### [자카르타에서 온라인 도박 운영 혐의로 300명 이상의 외국인 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588787)
-#### [크렘린, 우크라이나의 평화는 아직 멀었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588786)
-#### [뉴욕증권거래소, 월스트리트에 프라이빗 멤버스 클럽 오픈 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588785)
-#### [코파사 1분기 순이익 3억 6,800만 헤알](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588784)
-#### [두카티의 바냐이아, 마르케즈가 프랑스 MotoGP에서 랩 신기록을 세운 후 폴을 탈환했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588783)
-#### [루이지애나 공화당의 움직임으로 분노, 혼란? 다수 흑인 미 하원 지역구 지우기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588782)
-#### [미완성된 전기 프로젝트에 수백만 명의 미국인이 비용을 지불하는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588781)
-#### [중국의 진화하는 소비 습관이 아마존 열대우림을 보호하는 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588780)
-#### [영국 총리 스타머, 리더십 재설정을 목표로 고든 브라운 전 총리가 고문으로 임명되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588779)
-#### [크렘린은 우크라이나와의 평화 협상에 매우 먼 길이 있다고 TASS가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588778)
-#### [바레인, '이란의 IRGC와 연계된' 41명을 체포했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588777)
-#### [영국 스타머 총리가 고든 브라운 전 총리를 글로벌 금융 특사로 임명합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588776)
-#### [영국 경찰, 반유대주의적 틱톡 동영상 촬영과 관련해 남성 2명 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588775)
-#### [바레인, '이란의 IRGC와 연계된' 41명을 체포했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588774)
-#### [프론티어 항공 비행기가 덴버에서 엔진 화재로 보행자를 치는 사고가 발생했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588773)
-#### [CBOT 밀 배송 - 09년 5월](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588772)
-#### [프론티어 항공 비행기가 덴버에서 이륙 중 보행자와 충돌한 것으로 알려졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588771)
-#### [바이트댄스, 2026년 설비투자 최소 25% 인상 - SCMP](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588770)
-#### [장관, 수잔 애쉬먼을 영국 소버린 AI 펀드의 첫 번째 사장으로 임명 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588769)
-#### [중국 4월 수출 강세 반등, 트럼프 방한 앞두고 무역수지 흑자폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588768)
