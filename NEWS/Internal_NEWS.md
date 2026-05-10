@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260510_1319 </title></head>
-<center>Vers : 20260510_1319 </center>
-<center>Vers : 20260510_2219 </center>
+<head><meta charset="utf-8"><title>Vers : 20260510_1453 </title></head>
+<center>Vers : 20260510_1453 </center>
+<center>Vers : 20260510_2353 </center>
 <br><br><br>
+#### [마이크로소프트의 아프리카 데이터 센터가 지불 요구에 흔들리고 있다고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588961)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
+#### [애플, 타호의 단점을 해결하기 위해 MacOS 27에서 디자인 변경 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588960)
+#### [오지에가 펑크로 속도를 늦춘 랠리-노빌, 포르투갈에서 우승하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588959)
+#### [마이크로소프트의 아프리카 데이터 센터가 지불 요구에 흔들리고 있다고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588958)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
+#### [두카티의 마르케즈, 프랑스 GP 충돌 후 성공적인 이중 수술을 받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588957)
+#### [모터사이클-마틴, 588일 만에 첫 우승을 차지하며 아프릴리아가 프랑스 GP 포디엄을 휩쓸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588956)
+#### [동 아프리카의 Microsoft 데이터 센터 사이트, 회사의 지불 보장 요청에 대한 케냐 정부와의 의견 불일치로 지연 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588955)
+#### [베네수엘라 임시 대통령, 에세시보 지역 청문회를 위해 네덜란드 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588954)
+#### [시 정상 회담 앞두고 일본, 한국에서 회담 가질 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588953)
+#### [이스라엘의 공격으로 가자 지구에서 3명이 사망, 의료진은 취약한 휴전을 시험하고 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588952)
+#### [베네수엘라 임시 대통령, 에세시보 지역 청문회 위해 네덜란드 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588951)
 #### [문레이크 이뮤노테라퓨틱스, 미국 FDA, 소넬키맙 BLA 제출을 위한 MIRA 및 VELA-TEN 임상시험 데이터 승인했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588950)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MLTX.O/total>
 #### [이란, 전쟁 종식을 목표로 한 미국 제안에 대한 응답을 보냈다고 IRNA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588949)
@@ -56,6 +69,10 @@
 #### [Aramco CEO, 10억 배럴 손실이 석유 시장 회복을 늦출 것이라고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588903)
 #### [모던 애비뉴의 주주, 주식 처분 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588902)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002656.SZ/total>
+<head><meta charset="utf-8"><title>Vers : 20260510_1453 </title></head>
+<center>Vers : 20260510_1453 </center>
+<center>Vers : 20260510_2353 </center>
+<br><br><br>
 #### [유시스 테크놀로지스, 주주가 지분을 처분할 계획이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588901)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300674.SZ/total>
 #### [스페인 보건 당국, 한타바이러스에 감염된 선박에 탑승해 승객 대피 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588900)
@@ -68,10 +85,6 @@
 #### [스위스 항공 CEO는 즉각적인 연료 부족은 없다고 말하며 비상 계획을 주시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588893)
 #### [지난 두 달 동안 세계는 10 억 배럴의 석유를 빼앗겼다고 아람코 CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588892)
 #### [스페인 보건 당국이 한타 바이러스에 감염된 유람선에 탑승하여 승객 대피 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588891)
-<head><meta charset="utf-8"><title>Vers : 20260510_1319 </title></head>
-<center>Vers : 20260510_1319 </center>
-<center>Vers : 20260510_2219 </center>
-<br><br><br>
 #### [멜코야 가스전에서 5월 -18.4mcm/일 정전 예정. 08 2110에서 5월. 13 at 1800](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588890)
 #### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588889)
 #### [BUZZ-IMM: 엔화 개입으로 달러 롱, 캐나다 달러 숏이 완화되는 스펙](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588888)
@@ -122,6 +135,10 @@
 #### [온타리오 190MW 오터 래피즈 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588844)
 #### [온타리오 338MW 캐니언 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588843)
 #### [오지에, 포르투갈에서 경쟁자들이 폭우에 고전하는 가운데 선두로 치고 나갑니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588842)
+<head><meta charset="utf-8"><title>Vers : 20260510_1453 </title></head>
+<center>Vers : 20260510_1453 </center>
+<center>Vers : 20260510_2353 </center>
+<br><br><br>
 #### [영국, 홍콩과 관련된 국가 안보 유죄 판결 후 중국 대사 소환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588841)
 #### [호주, 스페인이 버뮤다 세일GP 개막일 이후 공동 선두를 달리고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588840)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588839)
@@ -133,10 +150,6 @@
 #### [푸틴은 젤 렌스키와의 만남은 지속적인 우크라이나 평화 협정이 합의되어야만 가능하다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588833)
 #### [온타리오 269MW 로워 노치 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588832)
 #### [온타리오주 190MW 오터 래피즈 수력 발전소 폐쇄 - 온타리오주 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588831)
-<head><meta charset="utf-8"><title>Vers : 20260510_1319 </title></head>
-<center>Vers : 20260510_1319 </center>
-<center>Vers : 20260510_2219 </center>
-<br><br><br>
 #### [온타리오 338MW 캐니언 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588830)
 #### [칠레 재무장관, 올해 개혁 추진으로 2% 성장 전망 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588829)
 #### [미국 북서부 강 유량은 90 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588828)
@@ -186,14 +199,3 @@
 #### [코파사 1분기 순이익 3억 6,800만 헤알](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588784)
 #### [두카티의 바냐이아, 마르케즈가 프랑스 MotoGP에서 랩 신기록을 세운 후 폴을 탈환했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588783)
 #### [루이지애나 공화당의 움직임으로 분노, 혼란? 다수 흑인 미 하원 지역구 지우기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588782)
-#### [미완성된 전기 프로젝트에 수백만 명의 미국인이 비용을 지불하는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588781)
-#### [중국의 진화하는 소비 습관이 아마존 열대우림을 보호하는 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588780)
-#### [영국 총리 스타머, 리더십 재설정을 목표로 고든 브라운 전 총리가 고문으로 임명되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588779)
-#### [크렘린은 우크라이나와의 평화 협상에 매우 먼 길이 있다고 TASS가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588778)
-#### [바레인, '이란의 IRGC와 연계된' 41명을 체포했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588777)
-#### [영국 스타머 총리가 고든 브라운 전 총리를 글로벌 금융 특사로 임명합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588776)
-#### [영국 경찰, 반유대주의적 틱톡 동영상 촬영과 관련해 남성 2명 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588775)
-#### [바레인, '이란의 IRGC와 연계된' 41명을 체포했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588774)
-#### [프론티어 항공 비행기가 덴버에서 엔진 화재로 보행자를 치는 사고가 발생했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588773)
-#### [CBOT 밀 배송 - 09년 5월](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588772)
-#### [프론티어 항공 비행기가 덴버에서 이륙 중 보행자와 충돌한 것으로 알려졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588771)
