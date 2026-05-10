@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260510_2135 </title></head>
-<center>Vers : 20260510_2135 </center>
-<center>Vers : 20260511_0635 </center>
+<head><meta charset="utf-8"><title>Vers : 20260510_2249 </title></head>
+<center>Vers : 20260510_2249 </center>
+<center>Vers : 20260511_0749 </center>
 <br><br><br>
+#### [호주 주가는 개장시 하락, 뉴질랜드는 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589019)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
+#### [트랜스캐나다 온타리오 197MW 포틀랜드 1 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589018)
+#### [트랜스캐나다 온타리오 197MW 포틀랜드 2 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589017)
+#### [트랜스캐나다 온타리오 245MW 포틀랜드 3 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589016)
+#### [Atco Power Alberta 385MW 배틀 리버 5 석탄 발전소 온라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589015)
+#### [미국과 이란이 평화 제안에 합의하지 못하면서 유가가 급등합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589014)
+#### [보스니아 평화 특사 사임, 보스니아 일간지 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589013)
+#### [IG 금속 노조, 티센크루프의 MX 사업부 분사 계획 비판](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589012)
+#### [미국과 이란의 평화 협상이 교착 상태에 빠지면서 BUZZ-EUR/USD 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589011)
+#### [W/E 뉴스-중국 수출 급증, 이란의 제안, 트럼프의 대응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589010)
+#### [독점-세레브라, 수요 급증에 따라 IPO 가격대를 150~160달러로 인상할 예정이라고 소식통이 밝혔습니다????????????????](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589009)
+#### [영국 스타머, 정치적 반격에 나서며 유럽 관계 재설정의 중심에 서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589008)
 #### [트럼프, 이란 평화 제안 거부 후 버즈-오디/달러 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589007)
 #### [분석-일본, 엔화 전쟁에서 추가 펀치를 위해 워싱턴, BOJ에 베팅](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589006)
 #### [BUZZ-재생-호주 리프레시, 스털링 상승, USD/JPY 브레이크](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589005)
@@ -53,18 +66,3 @@
 #### [마이크로소프트의 아프리카 데이터 센터가 지불 요구에 흔들리고 있다고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588961)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
 #### [애플, 타호의 단점을 해결하기 위해 MacOS 27에서 디자인 변경 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588960)
-#### [오지에가 펑크로 속도를 늦춘 랠리-노빌, 포르투갈에서 우승하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588959)
-#### [마이크로소프트의 아프리카 데이터 센터가 지불 요구에 흔들리고 있다고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588958)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [두카티의 마르케즈, 프랑스 GP 충돌 후 성공적인 이중 수술을 받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588957)
-#### [모터사이클-마틴, 588일 만에 첫 우승을 차지하며 아프릴리아가 프랑스 GP 포디엄을 휩쓸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588956)
-#### [동 아프리카의 Microsoft 데이터 센터 사이트, 회사의 지불 보장 요청에 대한 케냐 정부와의 의견 불일치로 지연 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588955)
-#### [베네수엘라 임시 대통령, 에세시보 지역 청문회를 위해 네덜란드 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588954)
-#### [시 정상 회담 앞두고 일본, 한국에서 회담 가질 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588953)
-#### [이스라엘의 공격으로 가자 지구에서 3명이 사망, 의료진은 취약한 휴전을 시험하고 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588952)
-#### [베네수엘라 임시 대통령, 에세시보 지역 청문회 위해 네덜란드 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588951)
-#### [문레이크 이뮤노테라퓨틱스, 미국 FDA, 소넬키맙 BLA 제출을 위한 MIRA 및 VELA-TEN 임상시험 데이터 승인했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588950)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MLTX.O/total>
-#### [이란, 전쟁 종식을 목표로 한 미국 제안에 대한 응답을 보냈다고 IRNA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588949)
-#### [월스트리트 한 주 전-데이터, 이란, 미중 회담으로 미국 증시 폭락에 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588948)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMAT.O/total>
