@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260510_1753 </title></head>
-<center>Vers : 20260510_1753 </center>
-<center>Vers : 20260511_0253 </center>
+<head><meta charset="utf-8"><title>Vers : 20260510_1904 </title></head>
+<center>Vers : 20260510_1904 </center>
+<center>Vers : 20260511_0404 </center>
 <br><br><br>
+#### [모닝스타, 조사 후 호주 탭코프에 벌금 부과 예상, 밸류에이션 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588985)
+#### [Citi, 맥도날드 상승세에 따른 호주 퀵서비스 체인의 하방 리스크 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588984)
+#### [미국과 중국 간의 희토류 거래는 여전히 유효하다고 미국 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588983)
+#### [미국과 중국 간의 희토류 거래는 여전히 유효하다고 미국 관리가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588982)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588981)
+#### [로이터 미국 스포츠 일정 5월 10일 일요일 오후 2시 10분(동부 표준시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588980)
+#### [모디, 외환 절약을 위해 연료 사용, 여행 및 수입 제한 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588979)
 #### [미국 북서부 강 유량은 90 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588978)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588977)
 #### [라트비아 국방부 장관, 우크라이나 드론의 유류 탱크 공격 후 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588976)
@@ -59,10 +66,3 @@
 #### [크렘린, 아르메니아가 우크라이나의 젤렌스키에게 플랫폼을 제공했다고 비난, 기관 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588928)
 #### [영국의 스타머는 그의 정부가 그만두라는 요구에도 불구하고 10 년 프로젝트라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588927)
 #### [이란 최고 지도자, 군 수뇌부에게 '새로운 지침 조치'에 대해 브리핑, 파스 통신은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588926)
-#### [크렘린은 위트 코프와 쿠슈너가 대화를 계속하기 위해 '조만간'모스크바를 방문 할 것이라고 Ifax는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588925)
-#### [카타르, 아부다비발 화물선이 자국 해역에서 공격받았다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588924)
-#### [휴전에도 불구하고 러시아 공습으로 3 명이 사망했다고 우크라이나 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588923)
-#### [아르마니, 로레알, LVMH, 에실로룩소티카 지분 15% 분할 가능, 보고서 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588922)
-#### [쿠웨이트 군, 영공에서 적대적 드론이 탐지됐다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588921)
-#### [러시아, 우크라이나가 드론과 포격 공격으로 휴전을 위반했다고 Ifax가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588920)
-#### [이라크, 아시아 6월 바스라산 중질유 가격을 배럴당 4.30달러로 인상했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588919)
