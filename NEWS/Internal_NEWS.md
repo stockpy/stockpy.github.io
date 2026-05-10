@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260510_2249 </title></head>
-<center>Vers : 20260510_2249 </center>
-<center>Vers : 20260511_0749 </center>
+<head><meta charset="utf-8"><title>Vers : 20260510_2337 </title></head>
+<center>Vers : 20260510_2337 </center>
+<center>Vers : 20260511_0837 </center>
 <br><br><br>
+#### [호주 CSL, 2026년 수익 및 매출 전망 하향 조정, 손상 반영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589026)
+#### [이란 전쟁이 전망을 강타하면서 영국 고용 시장이 냉각, REC 설문 조사에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589025)
+#### [WRAPUP 1-중국 4월 수출 강세 반등, 트럼프 방한 앞두고 무역수지 흑자폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589024)
+#### [걸프 회담 타결로 주식 선물은 약세, 달러는 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589023)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMAT.O/total>
+#### [불변 통화로 26 회계연도 매출 152억 달러, NPATA 31억 달러 예상하는 CSL 개요](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589022)
+#### [한 주간의 브레이킹뷰 중앙은행 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589021)
+#### [에너지 위기 공포가 재부상하면서 BUZZ-NZD/USD가 흔들립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589020)
 #### [호주 주가는 개장시 하락, 뉴질랜드는 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589019)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
 #### [트랜스캐나다 온타리오 197MW 포틀랜드 1 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2589018)
@@ -58,11 +66,3 @@
 #### [젤렌스키, 러시아는 전선을 따라 휴전을 준수하지 않았다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588969)
 #### [파키스탄, 이란 전쟁에 대한 미국의 평화 제안에 대한이란의 응답을 보냅니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588968)
 #### [중국 허 부총리가 한국에서 미국 대표단과 무역 회담을 개최한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588967)
-#### [이란 전쟁으로 연방준비제도이사회가 금리를 인상할 수 있다고 핌코는 말한다- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588966)
-#### [인도 중앙은행, ECB와 협력 강화를 위한 업데이트 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588965)
-#### [사이클링-마그니에, 지로 스테이지 3 소피아에서 다시 한 번 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588964)
-#### [시네마 시안 뷰, 10억 파운드 이상의 매각 계획으로 로스차일드를 선택 - Sky News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588963)
-#### [마그니에, 지로 스테이지 3 소피아에서 또다시 승리하며 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588962)
-#### [마이크로소프트의 아프리카 데이터 센터가 지불 요구에 흔들리고 있다고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588961)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [애플, 타호의 단점을 해결하기 위해 MacOS 27에서 디자인 변경 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588960)
