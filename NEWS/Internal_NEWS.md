@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260510_0951 </title></head>
-<center>Vers : 20260510_0951 </center>
-<center>Vers : 20260510_1851 </center>
+<head><meta charset="utf-8"><title>Vers : 20260510_1100 </title></head>
+<center>Vers : 20260510_1100 </center>
+<center>Vers : 20260510_2000 </center>
 <br><br><br>
+#### [크렘린, 아르메니아가 우크라이나의 젤렌스키에게 플랫폼을 제공했다고 비난, 기관 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588928)
+#### [영국의 스타머는 그의 정부가 그만두라는 요구에도 불구하고 10 년 프로젝트라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588927)
+#### [이란 최고 지도자, 군 수뇌부에게 '새로운 지침 조치'에 대해 브리핑, 파스 통신은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588926)
+#### [크렘린은 위트 코프와 쿠슈너가 대화를 계속하기 위해 '조만간'모스크바를 방문 할 것이라고 Ifax는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588925)
+#### [카타르, 아부다비발 화물선이 자국 해역에서 공격받았다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588924)
+#### [휴전에도 불구하고 러시아 공습으로 3 명이 사망했다고 우크라이나 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588923)
+#### [아르마니, 로레알, LVMH, 에실로룩소티카 지분 15% 분할 가능, 보고서 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588922)
+#### [쿠웨이트 군, 영공에서 적대적 드론이 탐지됐다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588921)
 #### [러시아, 우크라이나가 드론과 포격 공격으로 휴전을 위반했다고 Ifax가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588920)
 #### [이라크, 아시아 6월 바스라산 중질유 가격을 배럴당 4.30달러로 인상했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588919)
 #### [쿠웨이트 군, 영공에서 적대적인 드론이 탐지되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588918)
@@ -58,6 +66,10 @@
 #### [골드만 지원 렌더블, 대출에서 은행을 앞지른 후 미국 확장 계획- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588871)
 #### [아프리카 최고 부호 단고테, 케냐에 새 정유공장 건설 눈독, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588870)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588869)
+<head><meta charset="utf-8"><title>Vers : 20260510_1100 </title></head>
+<center>Vers : 20260510_1100 </center>
+<center>Vers : 20260510_2000 </center>
+<br><br><br>
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588868)
 #### [아프리카에서 가장 부유 한 산업가 인 알리코 단고 테, 케냐를 하루 650,000 배럴의 거대한 정유 공장 부지로 주목하고있다- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588867)
 #### [독일, 미국 토마호크 구매 노력 재개, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588866)
@@ -66,10 +78,6 @@
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588863)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588862)
 #### [규모 5.8의 지진이 칠레의 바이오 바이오 지역을 강타했다고 EMSC는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588861)
-<head><meta charset="utf-8"><title>Vers : 20260510_0951 </title></head>
-<center>Vers : 20260510_0951 </center>
-<center>Vers : 20260510_1851 </center>
-<br><br><br>
 #### [호주의 트럼프 동맹 포퓰리스트들은 첫 하원 의석을 차지한 후 대량 이주에 맞서 싸우겠다고 맹세합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588860)
 #### [한타 바이러스에 감염된 선박의 모든 승객을 고위험 접촉자로 간주한다고 EU 보건 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588859)
 #### [알리바바, Qwen AI와 타오바오 통합, 에이전트 쇼핑 시작, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588858)
@@ -123,11 +131,3 @@
 #### [영국, 잠재적 인 호르무즈 임무를 주시하면서 중동에 군함 배치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588811)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588810)
 #### [모터사이클-아필리아의 마틴, 그리드 8위에서 프랑스 그랑프리 스프린트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588809)
-#### [모터사이클 아필리아의 마틴, 그리드 8위에서 프랑스 그랑프리 스프린트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588808)
-#### [마그야르, 헝가리 총리로 취임하며 변화를 약속하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588807)
-#### [이스라엘 구금에서 풀려나 추방될 가자지구 소탕작전 활동가들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588806)
-#### [헝가리 총리로 취임한 마자르, 헝가리 총리 선서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588805)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588804)
-#### [ATCO/트랜스알타 앨버타 390MW 시어니스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588803)
-#### [호주 극우 정당, 하원 첫 의석 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588802)
-#### [푸틴이 피코에게 말한다: 러시아는 슬로바키아의 에너지 수요를 충족시킬 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2588801)
