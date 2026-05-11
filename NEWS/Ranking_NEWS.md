@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260511_1720 </title></head>
-<center>Vers : 20260511_1720 </center>
-<center>Vers : 20260512_0220 </center>
+<head><meta charset="utf-8"><title>Vers : 20260511_1947 </title></head>
+<center>Vers : 20260511_1947 </center>
+<center>Vers : 20260512_0447 </center>
 <br><br><br>
 #### [이러다 삼성전자 '43조' 날아간다…초조한 개미들 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005285629)
 #### ["아들아, 내 걱정마" 매달 97만원 꼬박꼬박...1.3억 집도 주택연금 쑥](https://m.stock.naver.com/news/ranknews/view/008/0005355954)
