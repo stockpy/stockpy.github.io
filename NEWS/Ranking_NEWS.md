@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260513_2006 </title></head>
-<center>Vers : 20260513_2006 </center>
-<center>Vers : 20260514_0506 </center>
+<head><meta charset="utf-8"><title>Vers : 20260513_2142 </title></head>
+<center>Vers : 20260513_2142 </center>
+<center>Vers : 20260514_0642 </center>
 <br><br><br>
 #### [6만원일 땐 거들떠도 안보더니…30만전자 앞두고 10조원 쓸어담은 개미](https://m.stock.naver.com/news/ranknews/view/009/0005679653)
 #### ["엄빠말 들을 걸"…'역대급 불장' 개미 수익률, 5060이 2030 이겼다](https://m.stock.naver.com/news/ranknews/view/008/0005357173)
