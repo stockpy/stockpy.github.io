@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260514_2002 </title></head>
-<center>Vers : 20260514_2002 </center>
-<center>Vers : 20260515_0502 </center>
+<head><meta charset="utf-8"><title>Vers : 20260514_2120 </title></head>
+<center>Vers : 20260514_2120 </center>
+<center>Vers : 20260515_0620 </center>
 <br><br><br>
 #### [“자고 일어나면 돈버는 증시 놔두고 왜”…상호금융서도 15조 빠졌다](https://m.stock.naver.com/news/ranknews/view/009/0005680316)
 #### [국민주 맞아?…'7만원→5만원' 추락에 또 '눈물'](https://m.stock.naver.com/news/ranknews/view/215/0001252064)
