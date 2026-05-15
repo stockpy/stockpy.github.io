@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260515_2254 </title></head>
-<center>Vers : 20260515_2254 </center>
-<center>Vers : 20260516_0754 </center>
+<head><meta charset="utf-8"><title>Vers : 20260515_2353 </title></head>
+<center>Vers : 20260515_2353 </center>
+<center>Vers : 20260516_0853 </center>
 <br><br><br>
+#### [1분기 기관 투자자들이 반도체 기업에 대한 새로운 지분을 확보하기 위해 몰려들었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600407)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600406)
+#### [베이스 선물이 상승함에 따라 보합세 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600405)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600404)
+#### [피치, 골드만삭스 BDC의 등급 전망을 '부정적'으로 변경하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600403)
+#### [미국, 수백 명의 보건부 직원에 대한 일자리 보호 조치 종료 움직임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600402)
+#### [Atco Power Alberta 155MW 배틀 리버 4 석탄 발전소 온라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600401)
+#### [선물 하락으로 미국 평야 HRW 밀-기초 보합세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600400)
+#### [메르세데스-벤츠 CEO, WSJ 자동차 제조업체에 방위 산업에 진출할 의향 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600399)
+#### [Arm 홀딩스, 칩 기술에 대한 미국 반독점 조사에 직면, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600398)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
+#### [쿠바, 휘발유와 경유 가격 인상했지만 주유소는 여전히 문을 닫았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600397)
 #### [미국 대법원, 버지니아 민주당의 새 투표 지도 요구 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600396)
 #### [북미 이커머스 라스트마일 배송 플랫폼 유니유니, Mak 인수로 상장 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600395)
 #### [라이프락 테크놀로지스 1분기 순손실, 매출 총이익 개선으로 감소폭 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600394)
@@ -55,14 +68,3 @@
 #### [미국의 낮은 공급으로 현물 가격이 상승하면서 가축-CME 소 선물이 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600350)
 #### [스타보드 밸류 LP, 세일즈포스 지분 매각, 트립어드바이저 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600349)
 #### [써드포인트, 스포티파이 지분 매각, TSMC와 캐피털원 감원 단행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600348)
-#### [레바논 남부 민방위 센터에 대한 이스라엘의 공격으로 구급대 원 포함 최소 6 명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600347)
-#### [골든 미네랄 1분기 순손실, 비용 감소로 감소폭 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600346)
-#### [코아투 경영진, AMD 지분 매각, 아마존과 알파벳의 지분 감축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600345)
-#### [에너지 기업 ERock, 미국 기업공개 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600344)
-#### [밸류액트 홀딩스, KKR 지분 보고, 메타, 아마존 지분은 줄이고 비자 지분은 늘립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600343)
-#### [소로스 펀드 매니지먼트, 오라클, 넷플릭스, 메타 지분 인수 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600342)
-#### [써드포인트, 메타 지분 매각, 알리바바, 마이크로소프트에 매각 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600341)
-#### [버크셔 해서웨이, 유나이티드헬스 아마존 지분 처분](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600340)
-#### [소로스 펀드 매니지먼트, 마스터카드, 버크셔 해서웨이 및 J&J 지분 매각 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600339)
-#### [미국 은행 Forbright, 미국 IPO 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600338)
-#### [코튜어 경영진, 메타, 엔비디아, 마이크로소프트 지분 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600337)
