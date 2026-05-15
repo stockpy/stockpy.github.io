@@ -1,5 +1,5 @@
-<center>Vers : 20260515_0146 </center>
-<center>Vers : 20260515_1046 </center>
+<center>Vers : 20260515_0412 </center>
+<center>Vers : 20260515_1312 </center>
 <br>
 <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -29,7 +29,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>0</th>
       <td>TIGER 코스닥150</td>
       <td>0%</td>
-      <td>20015</td>
+      <td>19690</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -38,7 +38,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>1</th>
       <td>TIGER 반도체TOP10</td>
       <td>0%</td>
-      <td>49280</td>
+      <td>47765</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -47,7 +47,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>2</th>
       <td>TIGER 미국필라델피아반도체나스닥</td>
       <td>0%</td>
-      <td>47170</td>
+      <td>46830</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -56,7 +56,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>3</th>
       <td>TIGER 골드선물(H)</td>
       <td>0%</td>
-      <td>27595</td>
+      <td>27580</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -74,16 +74,16 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>5</th>
       <td>KODEX 미국배당다우존스</td>
       <td>15%</td>
-      <td>12965</td>
+      <td>12955</td>
       <td>6</td>
-      <td>11.0%</td>
-      <td>74</td>
+      <td>12.0%</td>
+      <td>56</td>
     </tr>
     <tr>
       <th>6</th>
       <td>KODEX 미국S&amp;P500</td>
       <td>50%</td>
-      <td>25360</td>
+      <td>25305</td>
       <td>11</td>
       <td>57.0%</td>
       <td>-66</td>
@@ -92,7 +92,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>7</th>
       <td>KODEX 미국30년국채액티브(H)</td>
       <td>10%</td>
-      <td>8490</td>
+      <td>8485</td>
       <td>7</td>
       <td>7.0%</td>
       <td>85</td>
@@ -101,7 +101,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>8</th>
       <td>KODEX 미국10년국채선물</td>
       <td>10%</td>
-      <td>12575</td>
+      <td>12555</td>
       <td>4</td>
       <td>14.0%</td>
       <td>-77</td>
@@ -110,7 +110,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>9</th>
       <td>KODEX iShares미국투자등급회사채액티브</td>
       <td>15%</td>
-      <td>12025</td>
+      <td>12005</td>
       <td>7</td>
       <td>11.0%</td>
       <td>80</td>
@@ -119,7 +119,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>10</th>
       <td>KODEX 200TR</td>
       <td>0%</td>
-      <td>44650</td>
+      <td>43320</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -128,7 +128,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>11</th>
       <td>ACE 테슬라밸류체인액티브</td>
       <td>0%</td>
-      <td>25215</td>
+      <td>24930</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -143,7 +143,7 @@ columns: [
 ['KODEX iShares미국투자등급회사채액티브', '11.0'],
 ['KODEX 미국10년국채선물', '14.0'],
 ['KODEX 미국30년국채액티브(H)', '7.0'],
-['KODEX 미국배당다우존스', '11.0']
+['KODEX 미국배당다우존스', '12.0']
 ],
 type: "pie", // for ESM specify as: pie()
 },
