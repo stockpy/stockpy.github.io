@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260515_1626 </title></head>
-<center>Vers : 20260515_1626 </center>
-<center>Vers : 20260516_0126 </center>
+<head><meta charset="utf-8"><title>Vers : 20260515_1806 </title></head>
+<center>Vers : 20260515_1806 </center>
+<center>Vers : 20260516_0306 </center>
 <br><br><br>
 #### [“LG전자 주주입니다. 이런 날이 있네요”…시퍼런 장에 홀로 불탔다](https://m.stock.naver.com/news/ranknews/view/009/0005680835)
 #### ["내 주식 1000원도 안 돼?"…속타는 개미들 '나 떨고 있니'](https://m.stock.naver.com/news/ranknews/view/015/0005287665)
