@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260516_2135 </title></head>
-<center>Vers : 20260516_2135 </center>
-<center>Vers : 20260517_0635 </center>
+<head><meta charset="utf-8"><title>Vers : 20260516_2244 </title></head>
+<center>Vers : 20260516_2244 </center>
+<center>Vers : 20260517_0744 </center>
 <br><br><br>
+#### [온타리오 269MW 로워 노치 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600561)
+#### [이탈리아 모데나에서 차량이 보행자를 들이받는 사고 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600560)
 #### [온타리오 269MW 로워 노치 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600559)
 #### [영국 정부, 유류세 인상 계획 폐기, Sun 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600558)
 #### [미국 북서부 강 유량은 89 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600557)
@@ -63,5 +65,3 @@
 #### [루이지애나 상원 예비선거에서 공화당 캐시디, 트럼프 보복에 맞서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600504)
 #### [라트비아 대통령, 차기 정부 수반으로 야당 의원 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600503)
 #### [EY UK, NMC Health 법적 소송 해결을 위해 1억 3,300만 달러 이상 지불- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600502)
-#### [온타리오 269MW 로워 노치 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600501)
-#### [Vvc 탐사 공사, 관리 거래 중지 명령 신청 발표 및 자금 조달 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600500)
