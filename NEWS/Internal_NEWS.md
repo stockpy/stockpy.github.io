@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260516_1710 </title></head>
-<center>Vers : 20260516_1710 </center>
-<center>Vers : 20260517_0210 </center>
+<head><meta charset="utf-8"><title>Vers : 20260516_1904 </title></head>
+<center>Vers : 20260516_1904 </center>
+<center>Vers : 20260517_0404 </center>
 <br><br><br>
+#### [캐나다인 한 명이 한타 바이러스 양성 반응을 보였다고 BC 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600554)
+#### [유로비전 송 콘테스트 결승전, 가자 보이콧으로 무대에 오르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600553)
+#### [멕시코 페멕스, 올메카 정유소 화재 통제, 운영 정상화 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600552)
+#### [코모로, 치명적인 시위 이후 연료 가격 인상 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600551)
+#### [르완다 대량 학살 용의자 카부가, 93세 구금 중 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600550)
+#### [타타 일렉트로닉스와 ASML, 인도 최초의 반도체 팹에서 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600549)
+#### [리스본에서 수천 명의 교사들이 임금과 경력을 놓고 행진하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600548)
+#### [중국, 트럼프-시진핑 정상회담 이후 관세 인하와 농산물 시장 접근성 진전을 예고하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600547)
+#### [멕시코 올메카 정유 공장에서 화재 발생, 현지 언론에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600546)
+#### [미군과 나이지리아군에 의해 사살된 ISIS 2인자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600545)
+#### [블랙록, 스페이스X IPO에 수십억 달러 투자, 더 인포메이션이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600544)
+#### [FDA 약물 센터장 청장 퇴임 후 해고, 데이비스 대체](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600543)
+#### [튀니지 국민, 체포와 경제적 압박에 항의하는 사이드 반대 시위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600542)
+#### [런던에서 수만 명이 분리이민, 친? 팔레스타인 시위로 행진하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600541)
+#### [브라질 룰라, 다타폴랴 여론조사에서 플라비우 볼소나루 상원의원과 동률?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600540)
+#### [블랙록, 다음 달 스페이스엑스 IPO에 50억~100억 달러 투자 논의 - 더 인포메이션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600539)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600538)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600537)
 #### [루마니아, 우크라이나 국경 인근 마을에서 불발탄 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600536)
 #### [인도 최초의 반도체 팹을 위해 협력하는 타타 일렉트로닉스와 ASML](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600535)
 #### [인도 외무부, 인도와 네덜란드 총리가 참석한 가운데 ASML과 타타 전자 간의 계약이 체결되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600534)
@@ -47,22 +65,3 @@
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600497)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600496)
 #### [OPG 온타리오 164MW 오브리 폴스 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600495)
-#### [교황, 9월 프랑스 방문 중 트럼프 예산 삭감으로 타격을 입은 유네스코 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600494)
-#### [우크라이나 드론이 자 포리 지아 원자력 발전소 영토에 떨어졌다, 러시아는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600493)
-#### [분석-트럼프가 중국에서 안정과 교착 상태를 안고 돌아옵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600492)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [프랑스 판사, 카쇼기 살해에 대한 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600491)
-#### [OpenAI와 몰타, 모든 시민에게 Chatgpt Plus 제공을 위한 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600490)
-#### [멕시코 교사들, 임금 문제로 월드컵 기간 중 파업 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600489)
-#### [이란은 호르무즈 해협 메커니즘을 발표하고 수수료를 징수 할 것이라고이란 하원 의원은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600488)
-#### [몰타에서 모든 몰타인에게 ChatGPT Plus에 대한 액세스 권한을 부여하기 위해 OpenAI가 몰타와 계약을 체결했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600487)
-#### [모터사이클 아코스타, 카탈루냐 그랑프리에서 588일간의 폴 가뭄 끝내고 두 아프릴리아스 충돌](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600486)
-#### [교황 레오, 9월 프랑스 방문, 유럽연합 국가 두 번째 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600485)
-#### [공화당 캐시디, 루이지애나 상원 예비 선거에서 트럼프 보복에 맞서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600484)
-#### [이란 전쟁으로 인한 디젤 비용 상승으로 미국 학교 예산이 압박을 받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600483)
-#### [트럼프 위협 이후 캐나다, 북유럽과 북극 방위 관계 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600482)
-#### [민주당, 트럼프 연회장을 유권자들의 경제 문제와 공화당과의 단절의 상징으로 몰아세우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600481)
-#### [트럼프는 이란 전쟁은 경제적 고통을 감수할 가치가 있다고 말합니다. 시골 유권자들도 이에 동의합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600480)
-#### [48초 만에 유로비전 송 콘테스트 세트를 교체하는 '닌자'들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600479)
-#### [5.3밀리미터/일 정전 예정. 16 09:25 ~ 5월. 17 0400](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600478)
-#### [UAE, OPEC, OPEC+ 탈퇴는 정치적 움직임이 아닌 주권적 전략적 결정이었다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600477)
