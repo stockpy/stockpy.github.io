@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260516_1559 </title></head>
-<center>Vers : 20260516_1559 </center>
-<center>Vers : 20260517_0059 </center>
+<head><meta charset="utf-8"><title>Vers : 20260516_1710 </title></head>
+<center>Vers : 20260516_1710 </center>
+<center>Vers : 20260517_0210 </center>
 <br><br><br>
+#### [루마니아, 우크라이나 국경 인근 마을에서 불발탄 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600536)
+#### [인도 최초의 반도체 팹을 위해 협력하는 타타 일렉트로닉스와 ASML](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600535)
+#### [인도 외무부, 인도와 네덜란드 총리가 참석한 가운데 ASML과 타타 전자 간의 계약이 체결되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600534)
+#### [사이클링-나르바에즈, 혹독한 지로 스테이지 8에서 독주 우승으로 다시 한 번 강타!](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600533)
+#### [이탈리아 모데나에서 차량이 보행자를 들이받아 7명이 부상당했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600532)
+#### [인도 보다폰 아이디어, 비를라 그룹 투자 후 4분기 깜짝 수익 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600531)
+#### [온타리오 269MW 로워 노치 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600530)
+#### [규모 6.0의 강진이 앤티가 바부다를 강타했다고 USGS는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600529)
+#### [블랙록, 스페이스X IPO에 수십억 달러 투자 검토, 더 인포메이션 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600528)
+#### [이탈리아 모데나에서 자동차가 사람들을 들이받는 사고가 발생했다고 언론이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600527)
+#### [규모 6.0의 지진이 앤티가 바부 다를 강타했다고 USGS는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600526)
 #### [나르바에즈, 혹독한 지로 스테이지 8에서 독주 우승으로 다시 한 번 강타!](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600525)
 #### [스트리팅 전 장관, 영국 스타머의 후임으로 어떤 경선에도 나설 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600524)
 #### [테슬라, 미국 내 모델 Y 퍼포먼스 AWD 가격을 57,490 달러에서 57,990 달러로 인상 - 웹 사이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600523)
@@ -55,14 +66,3 @@
 #### [48초 만에 유로비전 송 콘테스트 세트를 교체하는 '닌자'들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600479)
 #### [5.3밀리미터/일 정전 예정. 16 09:25 ~ 5월. 17 0400](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600478)
 #### [UAE, OPEC, OPEC+ 탈퇴는 정치적 움직임이 아닌 주권적 전략적 결정이었다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600477)
-#### [OPG 온타리오 164MW 오브리 폴스 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600476)
-#### [온타리오 269MW 로워 노치 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600475)
-#### [러시아가 우크라이나 하르 키우 지역의 두 마을을 장악했다고 RIA가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600474)
-#### [시에라 리온, 미국에 의해 추방 된 수백 명의 서 아프리카 인 수용, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600473)
-#### [시에라 리온, 미국에 의해 추방 된 수백 명의 서 아프리카 인 수용, 장관에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600472)
-#### [UAE, OPEC, OPEC + 탈퇴는 정치적 움직임이 아닌 주권 적 전략적 결정이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600471)
-#### [러시아와 미국은 긴밀한 고위급 접촉을 유지하고 있다고 러시아 차관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600470)
-#### [빌 애크먼, 퍼싱 스퀘어의 구글 매각은 회사에 대한 베팅이 아니었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600469)
-#### [BOJ의 히미노, 글로벌 통화 시스템에 대한 '총체적 접근' 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600468)
-#### [러시아는 '전략적 안정성'을 훼손 할 수있는 조치를 취할 의도가 없다고 기관들은보고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600467)
-#### [CBOT 밀 배송 - 5월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600466)
