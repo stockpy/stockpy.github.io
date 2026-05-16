@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260516_1904 </title></head>
-<center>Vers : 20260516_1904 </center>
-<center>Vers : 20260517_0404 </center>
+<head><meta charset="utf-8"><title>Vers : 20260516_2048 </title></head>
+<center>Vers : 20260516_2048 </center>
+<center>Vers : 20260517_0548 </center>
 <br><br><br>
+#### [온타리오 269MW 로워 노치 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600559)
+#### [영국 정부, 유류세 인상 계획 폐기, Sun 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600558)
+#### [미국 북서부 강 유량은 89 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600557)
+#### [캐나다인 1 명이 한타 바이러스 양성 반응을 보였다고 BC 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600556)
+#### [미국 재무부, 러시아 해상 원유에 대한 제재 면제를 허용합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600555)
 #### [캐나다인 한 명이 한타 바이러스 양성 반응을 보였다고 BC 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600554)
 #### [유로비전 송 콘테스트 결승전, 가자 보이콧으로 무대에 오르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600553)
 #### [멕시코 페멕스, 올메카 정유소 화재 통제, 운영 정상화 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600552)
@@ -60,8 +65,3 @@
 #### [EY UK, NMC Health 법적 소송 해결을 위해 1억 3,300만 달러 이상 지불- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600502)
 #### [온타리오 269MW 로워 노치 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600501)
 #### [Vvc 탐사 공사, 관리 거래 중지 명령 신청 발표 및 자금 조달 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600500)
-#### [인도 최고의 태양광 주 규제 당국이 또다시 3.2GW 석탄 발전 프로젝트 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600499)
-#### [트럼프의 불확실성 신호에 대만, 미국산 무기에 대한 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600498)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600497)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600496)
-#### [OPG 온타리오 164MW 오브리 폴스 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600495)
