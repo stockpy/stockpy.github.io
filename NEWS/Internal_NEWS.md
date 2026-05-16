@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260516_2048 </title></head>
-<center>Vers : 20260516_2048 </center>
-<center>Vers : 20260517_0548 </center>
+<head><meta charset="utf-8"><title>Vers : 20260516_2135 </title></head>
+<center>Vers : 20260516_2135 </center>
+<center>Vers : 20260517_0635 </center>
 <br><br><br>
 #### [온타리오 269MW 로워 노치 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600559)
 #### [영국 정부, 유류세 인상 계획 폐기, Sun 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600558)
