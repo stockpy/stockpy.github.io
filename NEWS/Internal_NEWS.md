@@ -1,7 +1,36 @@
-<head><meta charset="utf-8"><title>Vers : 20260517_2253 </title></head>
-<center>Vers : 20260517_2253 </center>
-<center>Vers : 20260518_0753 </center>
+<head><meta charset="utf-8"><title>Vers : 20260517_2354 </title></head>
+<center>Vers : 20260517_2354 </center>
+<center>Vers : 20260518_0854 </center>
 <br><br><br>
+#### [새라마 리소스, 자본 조달 발표 대기 중 거래 중단 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600739)
+#### [미즈호 파이낸셜 그룹 Inc: 현재 라쿠텐 은행에 대한 투자 가능성을 포함한 다양한 검토를 진행 중이지만 현재로서는 결정된 바 없다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600738)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/4755.T/total>
+#### [호주 산토스, 알래스카 피카에서 첫 원유 생산 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600737)
+#### [줄리안 무어, 칸 행사에서 성 평등은 아직 멀었다고 경고하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600736)
+#### [아시아 하루 전-위험 회피, 채권 폭락, 중국 데이터 리드](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600735)
+#### [중국 몰리 <603993.SS> 마진 롱 금액 : 50,537 (x10000) 위안, 공매도 거래대금 : 14 (x10000) 주식](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600734)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603993.SS/total>
+#### [피닉스미디어 <601928.SS> 증거금 롱 금액 : 209 (x10000) 위안, 공매도 거래대금 : 2 (x10000) 주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600733)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601928.SS/total>
+#### [상하이 일렉트릭 <601727.SS> 마진 롱 금액 : 29,278 (x10000) 위안, 공매도 거래대금 : 13 (x10000) 주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600732)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601727.SS/total>
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600731)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600730)
+#### [러시아가 지난주 우크라이나 드론 3,000 대 이상을 파괴했다고 RIA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600729)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600728)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600727)
+#### [스탠다드차타드, 마누스 코스텔로 상임 CFO 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600726)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2888.HK/total>
+#### [영국 고용주들은 사상 최저치에 가까운 자신감을 가지고 비용 관리에 집중하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600725)
+#### [영국의 요청 가격은 5 월에 평소보다 더 큰 상승세를 보이고 있다고 Rightmove는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600724)
+#### [아스트로스케일 홀딩스 <186A.T>-2025/26 그룹 전망(IFRS)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600723)
+#### ['중국이 돌아왔다'라는 랠리에 뛰어들고 싶으신가요? 조심스럽게 밟으세요: 레이차우두리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600722)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1347.HK/total>
+#### [독점-삼성, 글로벌 AI 붐으로 인한 파업과 깊은 분열을 촉발하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600721)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
+#### [우크라이나 오데사의 주거용 건물이 드론 공격으로 타격을 입었다 고 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600720)
+#### [한 주간의 브레이킹뷰: 다시 한 번 특별함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600719)
+#### [이라크 석유를 실은 슈퍼탱커가 미국의 봉쇄에 발이 묶인 후 베트남으로 향합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600718)
 #### [스탠다드차타드가 마누스 코스텔로를 상임 CFO로 임명했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600717)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2888.HK/total>
 #### [스탠다드차타드, 그룹 최고재무책임자로 마누스 코스텔로 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600716)
@@ -44,25 +73,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UTHR.O/total>
 #### [트럼프의 그린란드 특사 랜드리가 누크에 도착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600681)
 #### [중국, 연간 최소 170 억 달러의 미국 농산물 구매, 백악관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600680)
-#### [리투아니아에서 추락 한 것으로 의심되는 우크라이나 군용 드론이 발견되었다고 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600679)
-#### [하파그로이드, 미국 행정명령 이후 쿠바 예약 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600678)
-#### [리투아니아에서 추락한 우크라이나 군용 드론으로 의심되는 드론이 발견되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600677)
-#### [트럼프, 화요일 미국 안보 보좌관을 만나다, Axios 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600676)
-#### [프랑스 CMA CGM, 미국 행정명령 이후 쿠바 항공편 예약 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600675)
-#### [중국, 매년 최소 170 억 달러의 미국 농산물 구매, 백악관 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600674)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600673)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600672)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600671)
-#### [트럼프, 이란에 대해 '시계가 똑딱 거린다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600670)
-#### [프랑스 퍼블리시스, 미국 데이터 기업 라이브램프 22억 달러에 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600669)
-#### [멕시코 푸에블라 주에서 무장 공격으로 10명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600668)
-#### [멕시코 푸에블라 주에서 발견된 사망자 수 1-10명 활성화: 당국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600667)
-#### [멕시코 푸에블라 주에서 발견된 10명의 사망자: 당국의 입장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600666)
-#### [멕시코 푸에블라 주에서 무장 공격으로 10명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600665)
-#### [퍼블리시스, 기업 가치 22억 달러에 라이브램프 인수?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600664)
-#### [자포리 지아 원자력 발전소의 러시아 관리, 우크라이나 포격보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600663)
-#### [퍼블리시스, 더 스마트한 에이전트를 위한 데이터 공동 생성 가속화를 위해 라이브램프를 인수하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600662)
-#### [LiveRamp 4분기 조정 매출 총이익 72%](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600661)
-#### [페루 선관위, 6월 대선 결선투표 앞두고 투표 '결함' 수정 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600660)
-#### [트럼프 비판자 매시 공화당 의원, 예비 선거 앞두고 대통령의 공격을 '필사적'이라고 부름](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600659)
-#### [일본 코레에다, 칸 경쟁작에서 슬픔에 대한 AI의 역할을 탐구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600658)
