@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20260517_0328 </title></head>
-<center>Vers : 20260517_0328 </center>
-<center>Vers : 20260517_1228 </center>
+<head><meta charset="utf-8"><title>Vers : 20260517_0644 </title></head>
+<center>Vers : 20260517_0644 </center>
+<center>Vers : 20260517_1544 </center>
 <br><br><br>
+#### [에미레이트 NBD, RBL 거래 완료를 위한 모든 규제 및 정부 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600594)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600593)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600592)
+#### [온타리오 269MW 로워 노치 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600591)
+#### [우크라이나 드론 공격으로 모스크바 지역에서 최소 3 명 사망, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600590)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600589)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600588)
+#### [맥그리거, 7월 11일 UFC 복귀전 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600587)
+#### [모스크바 지역에서 우크라이나 드론 공격으로 최소 3 명이 사망했다고 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600586)
+#### [루시, 17초 만에 카라노를 서브미션으로 제압하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600585)
+#### [DayOne, 싱가포르와 미국에서 이중 IPO 계획, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600584)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9698.HK/total>
+#### [데이원, 싱가포르와 미국에서 이중 IPO 계획, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600583)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9698.HK/total>
+#### [주목해야 할 요소 - 5월 17일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600582)
+#### [중국 데이터 센터 스핀오프 데이원, 싱가포르와 미국에서 이중 IPO 계획 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600581)
+#### [베인캐피탈, 105억 달러 모금 후 최대 규모의 아시아 펀드 마감 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600580)
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600579)
 #### [구찌, 케링 아이즈 부활로 타임스퀘어에서 크루즈 쇼 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600578)
 #### [상원 판결 이후 트럼프 무도회에 대한 연방 자금 지원 위태로워짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600577)
@@ -47,6 +64,10 @@
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600537)
 #### [루마니아, 우크라이나 국경 인근 마을에서 불발탄 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600536)
 #### [인도 최초의 반도체 팹을 위해 협력하는 타타 일렉트로닉스와 ASML](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600535)
+<head><meta charset="utf-8"><title>Vers : 20260517_0644 </title></head>
+<center>Vers : 20260517_0644 </center>
+<center>Vers : 20260517_1544 </center>
+<br><br><br>
 #### [인도 외무부, 인도와 네덜란드 총리가 참석한 가운데 ASML과 타타 전자 간의 계약이 체결되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600534)
 #### [사이클링-나르바에즈, 혹독한 지로 스테이지 8에서 독주 우승으로 다시 한 번 강타!](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600533)
 #### [이탈리아 모데나에서 차량이 보행자를 들이받아 7명이 부상당했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600532)
@@ -63,10 +84,6 @@
 #### [인도의 보다폰 아이디어, 4분기 깜짝 수익 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600522)
 #### [시 정상 회담 이후 관세 인하, 농산물 시장 접근성 향상 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600521)
 #### [인도, 특정 은 수입을 즉각적으로 억제합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600520)
-<head><meta charset="utf-8"><title>Vers : 20260517_0328 </title></head>
-<center>Vers : 20260517_0328 </center>
-<center>Vers : 20260517_1228 </center>
-<br><br><br>
 #### [보다폰 아이디어, 4분기 영업 수익 1,133억 2,000만 루피 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600519)
 #### [칸 출품작 '젠틀 몬스터'는 쉬운 답이 없는 금기를 다루고 있다고 감독은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600518)
 #### [스트리 팅 전 장관은 영국의 스타 머를 대체하기 위해 모든 경선에 나설 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600517)
@@ -115,19 +132,3 @@
 #### [UAE, OPEC, OPEC+ 탈퇴는 정치적 움직임이 아닌 주권적 전략적 결정이었다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600477)
 #### [OPG 온타리오 164MW 오브리 폴스 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600476)
 #### [온타리오 269MW 로워 노치 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600475)
-#### [러시아가 우크라이나 하르 키우 지역의 두 마을을 장악했다고 RIA가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600474)
-#### [시에라 리온, 미국에 의해 추방 된 수백 명의 서 아프리카 인 수용, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600473)
-#### [시에라 리온, 미국에 의해 추방 된 수백 명의 서 아프리카 인 수용, 장관에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600472)
-#### [UAE, OPEC, OPEC + 탈퇴는 정치적 움직임이 아닌 주권 적 전략적 결정이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600471)
-#### [러시아와 미국은 긴밀한 고위급 접촉을 유지하고 있다고 러시아 차관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600470)
-#### [빌 애크먼, 퍼싱 스퀘어의 구글 매각은 회사에 대한 베팅이 아니었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600469)
-#### [BOJ의 히미노, 글로벌 통화 시스템에 대한 '총체적 접근' 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600468)
-#### [러시아는 '전략적 안정성'을 훼손 할 수있는 조치를 취할 의도가 없다고 기관들은보고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600467)
-#### [CBOT 밀 배송 - 5월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600466)
-#### [570억 달러 규모의 하버드 기부금 책임자, 은퇴 계획, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600465)
-#### [이라크, 4월 호르무즈 해협을 통해 1,000만 배럴의 원유 수출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600464)
-#### [영국, 다음 주에 더 느슨한 은행 링 펜싱 규칙을 설정한다고 Sky News는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600463)
-#### [빌 애크먼, 알파벳 지분 매각은 회사에 대한 내기가 아니라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600462)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [이라크, 4월 호르무즈 해협을 통해 1천만 배럴의 원유 수출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600461)
-#### [온타리오 269MW 로워 노치 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600460)
