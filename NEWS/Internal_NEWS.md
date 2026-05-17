@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260517_1709 </title></head>
-<center>Vers : 20260517_1709 </center>
-<center>Vers : 20260518_0209 </center>
+<head><meta charset="utf-8"><title>Vers : 20260517_1910 </title></head>
+<center>Vers : 20260517_1910 </center>
+<center>Vers : 20260518_0410 </center>
 <br><br><br>
+#### ['방가랑가'와 불가리아의 첫 유로비전 우승에 환호하는 불가리아 국민들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600685)
+#### [미국 행정명령 이후 하파그로이드, CMA CGM 화주, 쿠바 노선 예약 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600684)
+#### [로이터 미국 스포츠 일정 5월 17일(일) 오후 2시 18분(동부 표준시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600683)
+#### [유나이티드 테라퓨틱스, 랄리네파그의 사전 결과 연구 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600682)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UTHR.O/total>
+#### [트럼프의 그린란드 특사 랜드리가 누크에 도착하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600681)
+#### [중국, 연간 최소 170 억 달러의 미국 농산물 구매, 백악관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600680)
+#### [리투아니아에서 추락 한 것으로 의심되는 우크라이나 군용 드론이 발견되었다고 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600679)
+#### [하파그로이드, 미국 행정명령 이후 쿠바 예약 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600678)
+#### [리투아니아에서 추락한 우크라이나 군용 드론으로 의심되는 드론이 발견되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600677)
+#### [트럼프, 화요일 미국 안보 보좌관을 만나다, Axios 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600676)
+#### [프랑스 CMA CGM, 미국 행정명령 이후 쿠바 항공편 예약 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600675)
+#### [중국, 매년 최소 170 억 달러의 미국 농산물 구매, 백악관 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600674)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600673)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600672)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600671)
 #### [트럼프, 이란에 대해 '시계가 똑딱 거린다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600670)
 #### [프랑스 퍼블리시스, 미국 데이터 기업 라이브램프 22억 달러에 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600669)
 #### [멕시코 푸에블라 주에서 무장 공격으로 10명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600668)
@@ -48,18 +64,3 @@
 #### [탐킨 팔레스타인 보험 1분기 이익 $252,891](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600628)
 #### [ICC, 이스라엘 관리들에 대한 새로운 영장 발부 부인, 부정확 한 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600627)
 #### [우크라이나, 모스크바에 1년 만에 최대 규모의 치명적인 공격 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600626)
-#### [이스라엘의 공격으로 가자 지구에서 4 명이 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600625)
-#### [우크라이나, 모스크바 지역의 정유소, 석유 펌핑 스테이션 타격, 키예프에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600624)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600623)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600622)
-#### [트럼프 주니어의 1789 캐피탈, 투자 추진에서 정치적 우위 과시 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600621)
-#### [이스라엘의 네타냐후는 일요일에 트럼프와 대화 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600620)
-#### ['방가랑가'와 불가리아의 첫 유로비전 우승을 환호하는 불가리아 국민들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600619)
-#### [중국 항공 규제 당국이 트럼프 방문 후 GE, 보잉 경영진을 만났습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600618)
-#### [아부다비, 드론 공격으로 바라카 원자력 발전소에 화재 발생, 부상자나 안전 영향은 없다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600617)
-#### [브라질의 룰라, 트럼프와의 관계 발전을 목표로, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600616)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600615)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600614)
-#### [아부 다비, 드론 공격으로 바라카 원자력 발전소에 화재 발생, 부상이나 안전 영향 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600613)
-#### ['믿을 수 없는': 불가리아, 유로비전 우승, 이스라엘은 준우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600612)
-#### [트럼프가 후원하는 신앙 행사에서 보수 기독교인들이 교회와 국가의 경계가 모호해졌다고 비난하는 비평가들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600611)
