@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260517_1022 </title></head>
-<center>Vers : 20260517_1022 </center>
-<center>Vers : 20260517_1922 </center>
+<head><meta charset="utf-8"><title>Vers : 20260517_1136 </title></head>
+<center>Vers : 20260517_1136 </center>
+<center>Vers : 20260517_2036 </center>
 <br><br><br>
+#### [우크라이나, 모스크바에 1년 만에 최대 규모의 치명적인 공격 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600626)
+#### [이스라엘의 공격으로 가자 지구에서 4 명이 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600625)
+#### [우크라이나, 모스크바 지역의 정유소, 석유 펌핑 스테이션 타격, 키예프에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600624)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600623)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600622)
+#### [트럼프 주니어의 1789 캐피탈, 투자 추진에서 정치적 우위 과시 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600621)
+#### [이스라엘의 네타냐후는 일요일에 트럼프와 대화 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600620)
+#### ['방가랑가'와 불가리아의 첫 유로비전 우승을 환호하는 불가리아 국민들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600619)
+#### [중국 항공 규제 당국이 트럼프 방문 후 GE, 보잉 경영진을 만났습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600618)
+#### [아부다비, 드론 공격으로 바라카 원자력 발전소에 화재 발생, 부상자나 안전 영향은 없다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600617)
+#### [브라질의 룰라, 트럼프와의 관계 발전을 목표로, 워싱턴 포스트 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600616)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600615)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600614)
 #### [아부 다비, 드론 공격으로 바라카 원자력 발전소에 화재 발생, 부상이나 안전 영향 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600613)
@@ -56,6 +67,10 @@
 #### [트럼프, 매시 선거운동 후 로렌 보에버트 미 하원의원 지지 철회 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600569)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600568)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600567)
+<head><meta charset="utf-8"><title>Vers : 20260517_1136 </title></head>
+<center>Vers : 20260517_1136 </center>
+<center>Vers : 20260517_2036 </center>
+<br><br><br>
 #### [불가리아, 이스라엘을 제치고 유로비전 송 콘테스트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600566)
 #### [판사가 캔자스 주에서 미성년자 성전환 치료 금지를 막다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600565)
 #### [마두로 동맹인 베네수엘라 관리 알렉스 사브, 미국으로 추방됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600564)
@@ -67,10 +82,6 @@
 #### [영국 정부, 유류세 인상 계획 폐기, Sun 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600558)
 #### [미국 북서부 강 유량은 89 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600557)
 #### [캐나다인 1 명이 한타 바이러스 양성 반응을 보였다고 BC 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600556)
-<head><meta charset="utf-8"><title>Vers : 20260517_1022 </title></head>
-<center>Vers : 20260517_1022 </center>
-<center>Vers : 20260517_1922 </center>
-<br><br><br>
 #### [미국 재무부, 러시아 해상 원유에 대한 제재 면제를 허용합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600555)
 #### [캐나다인 한 명이 한타 바이러스 양성 반응을 보였다고 BC 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600554)
 #### [유로비전 송 콘테스트 결승전, 가자 보이콧으로 무대에 오르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600553)
@@ -122,15 +133,3 @@
 #### [모터사이클-알렉스 마르케즈, 카탈루냐 그랑프리 스프린트에서 역대 가장 근접한 MotoGP 피니시로 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600510)
 #### [FDA 약물 센터장, 청장 퇴임 후 해고됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600508)
 #### [알렉스 마르케즈, 아코스타를 제치고 카탈루냐 그랑프리 스프린트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600507)
-#### [수만 명이 런던에서 분리 이민, 친? 팔레스타인 시위를 벌이며 행진하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600506)
-#### [테슬라, 미국 내 모델 Y 차량 가격 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600505)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [루이지애나 상원 예비선거에서 공화당 캐시디, 트럼프 보복에 맞서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600504)
-#### [라트비아 대통령, 차기 정부 수반으로 야당 의원 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600503)
-#### [EY UK, NMC Health 법적 소송 해결을 위해 1억 3,300만 달러 이상 지불- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600502)
-#### [온타리오 269MW 로워 노치 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600501)
-#### [Vvc 탐사 공사, 관리 거래 중지 명령 신청 발표 및 자금 조달 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600500)
-#### [인도 최고의 태양광 주 규제 당국이 또다시 3.2GW 석탄 발전 프로젝트 차단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600499)
-#### [트럼프의 불확실성 신호에 대만, 미국산 무기에 대한 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600498)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600497)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600496)
