@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260517_1321 </title></head>
-<center>Vers : 20260517_1321 </center>
-<center>Vers : 20260517_2221 </center>
+<head><meta charset="utf-8"><title>Vers : 20260517_1456 </title></head>
+<center>Vers : 20260517_1456 </center>
+<center>Vers : 20260517_2356 </center>
 <br><br><br>
+#### [이스라엘의 공격으로 가자 지구에서 4 명이 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600651)
+#### [베르스타펜의 뉘르부르크링 24시간의 희망이 구동축 고장으로 좌절되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600650)
+#### [모터사이클-디 지아난토니오, 두 번의 레드 플래그 드라마 끝에 충돌 사고로 파손된 카탈루냐 GP에서 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600649)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600648)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600647)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600646)
+#### [원자력 발전소 근처 드론 공격의 원인을 파악하기위한 조사가 진행 중이라고 UAE 국방부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600645)
+#### [이탈리아 지도자들, 차량 돌진 공격 후 모데나 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600644)
+#### [대만은 희생되지 않을 것이며, 미국 무기 판매는 약속, 대통령은 트럼프에 응답합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600643)
+#### [이란 불확실성 가중으로 걸프 증시 하락, 이집트 손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600642)
+#### [UAE, 이란의 교착 상태가 지속되는 가운데 원자력 발전소에서 드론 공격 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600641)
+#### [상원 판결 이후 트럼프 무도회에 대한 연방 자금 지원 위태로워짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600640)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600639)
 #### [종합격투기 선구자 루시, 카라노와의 은퇴전 승리로 구원을 얻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600638)
 #### [월스트리트 주간을 앞두고 엔비디아, 소매업체 보고서에서 AI 붐과 소비자 지출에 대해 조명하다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600637)
@@ -54,6 +66,10 @@
 #### [에미레이트 NBD, RBL 거래 완료를 위한 모든 규제 및 정부 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600594)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600593)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600592)
+<head><meta charset="utf-8"><title>Vers : 20260517_1456 </title></head>
+<center>Vers : 20260517_1456 </center>
+<center>Vers : 20260517_2356 </center>
+<br><br><br>
 #### [온타리오 269MW 로워 노치 수력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600591)
 #### [우크라이나 드론 공격으로 모스크바 지역에서 최소 3 명 사망, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600590)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600589)
@@ -68,10 +84,6 @@
 #### [주목해야 할 요소 - 5월 17일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600582)
 #### [중국 데이터 센터 스핀오프 데이원, 싱가포르와 미국에서 이중 IPO 계획 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600581)
 #### [베인캐피탈, 105억 달러 모금 후 최대 규모의 아시아 펀드 마감 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600580)
-<head><meta charset="utf-8"><title>Vers : 20260517_1321 </title></head>
-<center>Vers : 20260517_1321 </center>
-<center>Vers : 20260517_2221 </center>
-<br><br><br>
 #### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600579)
 #### [구찌, 케링 아이즈 부활로 타임스퀘어에서 크루즈 쇼 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600578)
 #### [상원 판결 이후 트럼프 무도회에 대한 연방 자금 지원 위태로워짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600577)
@@ -120,6 +132,10 @@
 #### [인도 외무부, 인도와 네덜란드 총리가 참석한 가운데 ASML과 타타 전자 간의 계약이 체결되었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600534)
 #### [사이클링-나르바에즈, 혹독한 지로 스테이지 8에서 독주 우승으로 다시 한 번 강타!](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600533)
 #### [이탈리아 모데나에서 차량이 보행자를 들이받아 7명이 부상당했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600532)
+<head><meta charset="utf-8"><title>Vers : 20260517_1456 </title></head>
+<center>Vers : 20260517_1456 </center>
+<center>Vers : 20260517_2356 </center>
+<br><br><br>
 #### [인도 보다폰 아이디어, 비를라 그룹 투자 후 4분기 깜짝 수익 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600531)
 #### [온타리오 269MW 로워 노치 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600530)
 #### [규모 6.0의 강진이 앤티가 바부다를 강타했다고 USGS는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600529)
@@ -133,10 +149,6 @@
 #### [인도의 보다폰 아이디어, 4분기 깜짝 수익 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600522)
 #### [시 정상 회담 이후 관세 인하, 농산물 시장 접근성 향상 신호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600521)
 #### [인도, 특정 은 수입을 즉각적으로 억제합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600520)
-<head><meta charset="utf-8"><title>Vers : 20260517_1321 </title></head>
-<center>Vers : 20260517_1321 </center>
-<center>Vers : 20260517_2221 </center>
-<br><br><br>
 #### [보다폰 아이디어, 4분기 영업 수익 1,133억 2,000만 루피 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600519)
 #### [칸 출품작 '젠틀 몬스터'는 쉬운 답이 없는 금기를 다루고 있다고 감독은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600518)
 #### [스트리 팅 전 장관은 영국의 스타 머를 대체하기 위해 모든 경선에 나설 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600517)
@@ -188,16 +200,3 @@
 #### [러시아가 우크라이나 하르 키우 지역의 두 마을을 장악했다고 RIA가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600474)
 #### [시에라 리온, 미국에 의해 추방 된 수백 명의 서 아프리카 인 수용, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600473)
 #### [시에라 리온, 미국에 의해 추방 된 수백 명의 서 아프리카 인 수용, 장관에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600472)
-#### [UAE, OPEC, OPEC + 탈퇴는 정치적 움직임이 아닌 주권 적 전략적 결정이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600471)
-#### [러시아와 미국은 긴밀한 고위급 접촉을 유지하고 있다고 러시아 차관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600470)
-#### [빌 애크먼, 퍼싱 스퀘어의 구글 매각은 회사에 대한 베팅이 아니었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600469)
-#### [BOJ의 히미노, 글로벌 통화 시스템에 대한 '총체적 접근' 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600468)
-#### [러시아는 '전략적 안정성'을 훼손 할 수있는 조치를 취할 의도가 없다고 기관들은보고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600467)
-#### [CBOT 밀 배송 - 5월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600466)
-#### [570억 달러 규모의 하버드 기부금 책임자, 은퇴 계획, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600465)
-#### [이라크, 4월 호르무즈 해협을 통해 1,000만 배럴의 원유 수출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600464)
-#### [영국, 다음 주에 더 느슨한 은행 링 펜싱 규칙을 설정한다고 Sky News는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600463)
-#### [빌 애크먼, 알파벳 지분 매각은 회사에 대한 내기가 아니라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600462)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [이라크, 4월 호르무즈 해협을 통해 1천만 배럴의 원유 수출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600461)
-#### [온타리오 269MW 로워 노치 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600460)
