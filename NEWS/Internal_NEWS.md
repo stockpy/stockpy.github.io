@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260517_0855 </title></head>
-<center>Vers : 20260517_0855 </center>
-<center>Vers : 20260517_1755 </center>
+<head><meta charset="utf-8"><title>Vers : 20260517_1022 </title></head>
+<center>Vers : 20260517_1022 </center>
+<center>Vers : 20260517_1922 </center>
 <br><br><br>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600615)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600614)
+#### [아부 다비, 드론 공격으로 바라카 원자력 발전소에 화재 발생, 부상이나 안전 영향 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600613)
+#### ['믿을 수 없는': 불가리아, 유로비전 우승, 이스라엘은 준우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600612)
+#### [트럼프가 후원하는 신앙 행사에서 보수 기독교인들이 교회와 국가의 경계가 모호해졌다고 비난하는 비평가들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600611)
+#### [분석-채권 수익률 급등은 준비되지 않은 주식 시장에 위험, 투자자들은 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600610)
+#### [미국 남부에서는 항소 법원이 대법원보다 더 오른쪽으로 기울어져 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600609)
+#### [젤렌스키, 우크라이나 드론이 러시아 모스크바 지역을 공격했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600608)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600607)
+#### [중국, 미국, UAE 경찰, 두바이에서 통신 사기 용의자 276명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600606)
 #### [이탈리아 총리 멜로니, 차량 돌진 후 모데나로 향하다 키프로스 회의 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600605)
 #### ['대만 독립'은 우리가 베이징에 속하지 않는다는 것을 의미한다고 대통령은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600604)
 #### [키웰 테크놀로지 주주, 지분 처분 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600603)
@@ -57,6 +67,10 @@
 #### [영국 정부, 유류세 인상 계획 폐기, Sun 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600558)
 #### [미국 북서부 강 유량은 89 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600557)
 #### [캐나다인 1 명이 한타 바이러스 양성 반응을 보였다고 BC 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600556)
+<head><meta charset="utf-8"><title>Vers : 20260517_1022 </title></head>
+<center>Vers : 20260517_1022 </center>
+<center>Vers : 20260517_1922 </center>
+<br><br><br>
 #### [미국 재무부, 러시아 해상 원유에 대한 제재 면제를 허용합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600555)
 #### [캐나다인 한 명이 한타 바이러스 양성 반응을 보였다고 BC 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600554)
 #### [유로비전 송 콘테스트 결승전, 가자 보이콧으로 무대에 오르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600553)
@@ -67,10 +81,6 @@
 #### [리스본에서 수천 명의 교사들이 임금과 경력을 놓고 행진하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600548)
 #### [중국, 트럼프-시진핑 정상회담 이후 관세 인하와 농산물 시장 접근성 진전을 예고하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600547)
 #### [멕시코 올메카 정유 공장에서 화재 발생, 현지 언론에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600546)
-<head><meta charset="utf-8"><title>Vers : 20260517_0855 </title></head>
-<center>Vers : 20260517_0855 </center>
-<center>Vers : 20260517_1755 </center>
-<br><br><br>
 #### [미군과 나이지리아군에 의해 사살된 ISIS 2인자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600545)
 #### [블랙록, 스페이스X IPO에 수십억 달러 투자, 더 인포메이션이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600544)
 #### [FDA 약물 센터장 청장 퇴임 후 해고, 데이비스 대체](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600543)
@@ -124,14 +134,3 @@
 #### [트럼프의 불확실성 신호에 대만, 미국산 무기에 대한 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600498)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600497)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600496)
-#### [OPG 온타리오 164MW 오브리 폴스 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600495)
-#### [교황, 9월 프랑스 방문 중 트럼프 예산 삭감으로 타격을 입은 유네스코 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600494)
-#### [우크라이나 드론이 자 포리 지아 원자력 발전소 영토에 떨어졌다, 러시아는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600493)
-#### [분석-트럼프가 중국에서 안정과 교착 상태를 안고 돌아옵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600492)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [프랑스 판사, 카쇼기 살해에 대한 조사 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600491)
-#### [OpenAI와 몰타, 모든 시민에게 Chatgpt Plus 제공을 위한 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600490)
-#### [멕시코 교사들, 임금 문제로 월드컵 기간 중 파업 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600489)
-#### [이란은 호르무즈 해협 메커니즘을 발표하고 수수료를 징수 할 것이라고이란 하원 의원은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600488)
-#### [몰타에서 모든 몰타인에게 ChatGPT Plus에 대한 액세스 권한을 부여하기 위해 OpenAI가 몰타와 계약을 체결했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600487)
-#### [모터사이클 아코스타, 카탈루냐 그랑프리에서 588일간의 폴 가뭄 끝내고 두 아프릴리아스 충돌](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600486)
