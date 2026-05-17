@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260517_2052 </title></head>
-<center>Vers : 20260517_2052 </center>
-<center>Vers : 20260518_0552 </center>
+<head><meta charset="utf-8"><title>Vers : 20260517_2145 </title></head>
+<center>Vers : 20260517_2145 </center>
+<center>Vers : 20260518_0645 </center>
 <br><br><br>
+#### [중동 리스크 고조로 주춤하는 BUZZ-AUD/USD](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600707)
+#### [블룸버그 뉴스, NextEra, 도미니언에 주당 약 76달러 지불 논의, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600706)
+#### [아이다 호 에어쇼 충돌 후 군용기 승무원들이 안전하게 탈출했다고 해군은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600705)
+#### [넥스테라, 도미니언에 주당 약 76달러 지불 논의하기로- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600704)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600703)
+#### [우크라이나 표류민들이 전쟁으로 인해 재편되는 현장에서도 경주를 계속합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600702)
+#### [Atco Power 앨버타 155MW 배틀 리버 4 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600701)
+#### [W/E 뉴스-중국 정상회담 신호, 트럼프는 이란에 대한 시계가 똑딱 거리고 있다고 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600700)
+#### [쿠바, 드론 위협을 주장하는 Axios 보도 이후 미국을 조작으로 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600699)
 #### [사우디, 이라크 영공에서 들어온 드론 3대를 요격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600698)
 #### [트럼프 행정부, 미국 보건 기관에서 수백 명의 일자리 보호를 박탈할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600697)
 #### [Atco Power 앨버타 385MW 배틀 리버 5 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600696)
@@ -54,12 +63,3 @@
 #### [베르스타펜의 뉘르부르크링 24시간의 희망이 구동축 고장으로 좌절되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600650)
 #### [모터사이클-디 지아난토니오, 두 번의 레드 플래그 드라마 끝에 충돌 사고로 파손된 카탈루냐 GP에서 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600649)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600648)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600647)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600646)
-#### [원자력 발전소 근처 드론 공격의 원인을 파악하기위한 조사가 진행 중이라고 UAE 국방부는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600645)
-#### [이탈리아 지도자들, 차량 돌진 공격 후 모데나 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600644)
-#### [대만은 희생되지 않을 것이며, 미국 무기 판매는 약속, 대통령은 트럼프에 응답합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600643)
-#### [이란 불확실성 가중으로 걸프 증시 하락, 이집트 손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600642)
-#### [UAE, 이란의 교착 상태가 지속되는 가운데 원자력 발전소에서 드론 공격 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600641)
-#### [상원 판결 이후 트럼프 무도회에 대한 연방 자금 지원 위태로워짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600640)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600639)
