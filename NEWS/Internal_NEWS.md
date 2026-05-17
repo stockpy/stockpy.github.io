@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260517_2145 </title></head>
-<center>Vers : 20260517_2145 </center>
-<center>Vers : 20260518_0645 </center>
+<head><meta charset="utf-8"><title>Vers : 20260517_2253 </title></head>
+<center>Vers : 20260517_2253 </center>
+<center>Vers : 20260518_0753 </center>
 <br><br><br>
+#### [스탠다드차타드가 마누스 코스텔로를 상임 CFO로 임명했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600717)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2888.HK/total>
+#### [스탠다드차타드, 그룹 최고재무책임자로 마누스 코스텔로 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600716)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2888.HK/total>
+#### [NextEra, 도미니언에 주당 약 76달러 지불 논의, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600715)
+#### [미국 금리 인상 유령이 떠오르면서 BUZZ-NZD / USD 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600714)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600713)
+#### [스탠다드차타드, 마누스 코스텔로 상임 CFO 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600712)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2888.HK/total>
+#### [UAE 원자력 발전소 드론 공격 후 유가 1% 이상 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600711)
+#### [콩고의 미국인들이 에볼라에 노출되었을 수 있다고 STAT 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600710)
+#### [G7은이란 분쟁 종식을 논의하기에 적합한 포럼이라고 독일 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600709)
+#### [모닝스타, 공정가치 추정치 낮추고 에어 뉴질랜드의 손실 확대 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600708)
 #### [중동 리스크 고조로 주춤하는 BUZZ-AUD/USD](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600707)
 #### [블룸버그 뉴스, NextEra, 도미니언에 주당 약 76달러 지불 논의, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600706)
 #### [아이다 호 에어쇼 충돌 후 군용기 승무원들이 안전하게 탈출했다고 해군은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600705)
@@ -53,13 +66,3 @@
 #### [페루 선관위, 6월 대선 결선투표 앞두고 투표 '결함' 수정 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600660)
 #### [트럼프 비판자 매시 공화당 의원, 예비 선거 앞두고 대통령의 공격을 '필사적'이라고 부름](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600659)
 #### [일본 코레에다, 칸 경쟁작에서 슬픔에 대한 AI의 역할을 탐구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600658)
-#### [사이클링-빙게가드, 지로 스테이지 9 우승으로 두 배로 성장하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600657)
-#### [알제리는 2 개의 항구로만 선적하기 위해 부드러운 밀을 구매하는 경향이 있다고 상인들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600656)
-#### [빙게가드, 지로 스테이지 9 우승으로 두 배로 성장하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600655)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600654)
-#### [푸르덴셜, 바르티 생명보험 지분 75% 인수 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600653)
-#### [미국은 중국이 농산물 구매를 확대 할 것으로 기대한다고 무역 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600652)
-#### [이스라엘의 공격으로 가자 지구에서 4 명이 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600651)
-#### [베르스타펜의 뉘르부르크링 24시간의 희망이 구동축 고장으로 좌절되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600650)
-#### [모터사이클-디 지아난토니오, 두 번의 레드 플래그 드라마 끝에 충돌 사고로 파손된 카탈루냐 GP에서 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600649)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600648)
