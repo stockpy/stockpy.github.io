@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260517_1600 </title></head>
-<center>Vers : 20260517_1600 </center>
-<center>Vers : 20260518_0100 </center>
+<head><meta charset="utf-8"><title>Vers : 20260517_1709 </title></head>
+<center>Vers : 20260517_1709 </center>
+<center>Vers : 20260518_0209 </center>
 <br><br><br>
+#### [트럼프, 이란에 대해 '시계가 똑딱 거린다'고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600670)
+#### [프랑스 퍼블리시스, 미국 데이터 기업 라이브램프 22억 달러에 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600669)
+#### [멕시코 푸에블라 주에서 무장 공격으로 10명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600668)
+#### [멕시코 푸에블라 주에서 발견된 사망자 수 1-10명 활성화: 당국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600667)
+#### [멕시코 푸에블라 주에서 발견된 10명의 사망자: 당국의 입장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600666)
+#### [멕시코 푸에블라 주에서 무장 공격으로 10명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600665)
+#### [퍼블리시스, 기업 가치 22억 달러에 라이브램프 인수?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600664)
+#### [자포리 지아 원자력 발전소의 러시아 관리, 우크라이나 포격보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600663)
+#### [퍼블리시스, 더 스마트한 에이전트를 위한 데이터 공동 생성 가속화를 위해 라이브램프를 인수하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600662)
+#### [LiveRamp 4분기 조정 매출 총이익 72%](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600661)
+#### [페루 선관위, 6월 대선 결선투표 앞두고 투표 '결함' 수정 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600660)
+#### [트럼프 비판자 매시 공화당 의원, 예비 선거 앞두고 대통령의 공격을 '필사적'이라고 부름](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600659)
+#### [일본 코레에다, 칸 경쟁작에서 슬픔에 대한 AI의 역할을 탐구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600658)
+#### [사이클링-빙게가드, 지로 스테이지 9 우승으로 두 배로 성장하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600657)
 #### [알제리는 2 개의 항구로만 선적하기 위해 부드러운 밀을 구매하는 경향이 있다고 상인들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600656)
 #### [빙게가드, 지로 스테이지 9 우승으로 두 배로 성장하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600655)
 #### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600654)
@@ -49,20 +63,3 @@
 #### [아부 다비, 드론 공격으로 바라카 원자력 발전소에 화재 발생, 부상이나 안전 영향 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600613)
 #### ['믿을 수 없는': 불가리아, 유로비전 우승, 이스라엘은 준우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600612)
 #### [트럼프가 후원하는 신앙 행사에서 보수 기독교인들이 교회와 국가의 경계가 모호해졌다고 비난하는 비평가들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600611)
-#### [분석-채권 수익률 급등은 준비되지 않은 주식 시장에 위험, 투자자들은 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600610)
-#### [미국 남부에서는 항소 법원이 대법원보다 더 오른쪽으로 기울어져 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600609)
-#### [젤렌스키, 우크라이나 드론이 러시아 모스크바 지역을 공격했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600608)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600607)
-#### [중국, 미국, UAE 경찰, 두바이에서 통신 사기 용의자 276명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600606)
-#### [이탈리아 총리 멜로니, 차량 돌진 후 모데나로 향하다 키프로스 회의 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600605)
-#### ['대만 독립'은 우리가 베이징에 속하지 않는다는 것을 의미한다고 대통령은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600604)
-#### [키웰 테크놀로지 주주, 지분 처분 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600603)
-#### [시자좡 상타이 테크놀로지 주주, 지분 처분 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600602)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/001301.SZ/total>
-#### [그레이스 패브릭 테크놀로지, 홍콩 상장 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600601)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603256.SS/total>
-#### [쿠저우 신안 개발, 자산 인수 계획 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600600)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600208.SS/total>
-#### [CBOT 쌀 배송 - 5월 17일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600599)
-#### [BUZZ-IMM: GBP, EUR 매수세 속 USD 순매수, 매도세는 일시적일 듯](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600598)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600597)
