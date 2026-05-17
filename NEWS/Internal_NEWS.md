@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260517_1910 </title></head>
-<center>Vers : 20260517_1910 </center>
-<center>Vers : 20260518_0410 </center>
+<head><meta charset="utf-8"><title>Vers : 20260517_2052 </title></head>
+<center>Vers : 20260517_2052 </center>
+<center>Vers : 20260518_0552 </center>
 <br><br><br>
+#### [사우디, 이라크 영공에서 들어온 드론 3대를 요격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600698)
+#### [트럼프 행정부, 미국 보건 기관에서 수백 명의 일자리 보호를 박탈할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600697)
+#### [Atco Power 앨버타 385MW 배틀 리버 5 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600696)
+#### [마운틴 홈 공군기지, 아이다호에서 항공기 충돌 사고 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600695)
+#### [사우디, 이라크 영공에서 들어온 드론 3대를 요격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600694)
+#### [재생-EUR/USD 문제, 스털링 혼란, USD/JPY 160](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600693)
+#### [몰도바 지도자, 분리주의 지역 시민권에 대한 러시아의 움직임 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600692)
+#### [버즈-댓글-한 주 앞으로-엔비디아 실적, 이란 전쟁, 플래시 PMI](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600691)
+#### [아이다호에서 항공기 충돌을 조사하는 마운틴 홈 공군 기지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600690)
+#### [알렉스 마르케즈와 자르코, 카탈루냐 그랑프리에서 공포의 충돌 후 병원에 입원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600689)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600688)
+#### [맥심 파워 앨버타 144MW H.R. 밀너 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600687)
+#### [미국 북서부 강 유량은 89 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600686)
 #### ['방가랑가'와 불가리아의 첫 유로비전 우승에 환호하는 불가리아 국민들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600685)
 #### [미국 행정명령 이후 하파그로이드, CMA CGM 화주, 쿠바 노선 예약 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600684)
 #### [로이터 미국 스포츠 일정 5월 17일(일) 오후 2시 18분(동부 표준시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600683)
@@ -50,17 +63,3 @@
 #### [UAE, 이란의 교착 상태가 지속되는 가운데 원자력 발전소에서 드론 공격 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600641)
 #### [상원 판결 이후 트럼프 무도회에 대한 연방 자금 지원 위태로워짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600640)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600639)
-#### [종합격투기 선구자 루시, 카라노와의 은퇴전 승리로 구원을 얻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600638)
-#### [월스트리트 주간을 앞두고 엔비디아, 소매업체 보고서에서 AI 붐과 소비자 지출에 대해 조명하다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600637)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [아코스타와 알렉스 마르케즈의 충돌로 모터사이클 카탈루냐 그랑프리에 적신호가 켜졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600636)
-#### [미국, 쿠바의 드론 위협 평가, Axios 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600635)
-#### [푸르덴셜 PLC, 바르티 생명보험의 지배 지분을 통해 인도 사업 재편](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600634)
-#### [대만은 압박 속에서도 삶의 방식을 포기하지 않을 것이라고 대통령은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600633)
-#### [푸르덴셜 PLC, 바르티 생명보험 지분 75% 인수 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600632)
-#### [크리스틴 스튜어트는 음식이 많은 칸 영화 '풀 필'이 육체적으로 힘들었다고 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600631)
-#### [모스크바 드론 공격으로 사망 한 사람들 중 인도 노동자, 대사관은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600630)
-#### [나이지리아 군사 학교에 대한 이슬람주의자 공격으로 경찰 훈련생 17 명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600629)
-#### [탐킨 팔레스타인 보험 1분기 이익 $252,891](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600628)
-#### [ICC, 이스라엘 관리들에 대한 새로운 영장 발부 부인, 부정확 한 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600627)
-#### [우크라이나, 모스크바에 1년 만에 최대 규모의 치명적인 공격 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2600626)
