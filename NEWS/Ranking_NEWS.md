@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260519_1805 </title></head>
-<center>Vers : 20260519_1805 </center>
-<center>Vers : 20260520_0305 </center>
+<head><meta charset="utf-8"><title>Vers : 20260519_2002 </title></head>
+<center>Vers : 20260519_2002 </center>
+<center>Vers : 20260520_0502 </center>
 <br><br><br>
 #### [“주식 볼까봐 휴대폰 꺼놨습니다”…하루 300P씩 움직인 불지옥 증시](https://m.stock.naver.com/news/ranknews/view/009/0005682409)
 #### [“10억으로 삼전닉스 샀으면”…32억 대출 40억 건물주 이해인의 상상, 현실은](https://m.stock.naver.com/news/ranknews/view/009/0005682176)
