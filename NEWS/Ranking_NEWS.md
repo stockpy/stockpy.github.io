@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260521_1758 </title></head>
-<center>Vers : 20260521_1758 </center>
-<center>Vers : 20260522_0258 </center>
+<head><meta charset="utf-8"><title>Vers : 20260521_2004 </title></head>
+<center>Vers : 20260521_2004 </center>
+<center>Vers : 20260522_0504 </center>
 <br><br><br>
 #### [“빚투, 이렇게 무서운 거구나”…‘공포 휩싸인’ 개미, 급락장에 3000억 강제 청산](https://m.stock.naver.com/news/ranknews/view/009/0005683565)
 #### [8000피 올라탄 '빚투' 개미들 비명…사흘 만에 3000억 강제청산](https://m.stock.naver.com/news/ranknews/view/008/0005361420)
