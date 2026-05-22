@@ -1,7 +1,36 @@
-<head><meta charset="utf-8"><title>Vers : 20260522_2137 </title></head>
-<center>Vers : 20260522_2137 </center>
-<center>Vers : 20260523_0637 </center>
+<head><meta charset="utf-8"><title>Vers : 20260522_2258 </title></head>
+<center>Vers : 20260522_2258 </center>
+<center>Vers : 20260523_0758 </center>
 <br><br><br>
+#### [드론 파편 낙하로 러시아 노보로시스크의 석유 터미널에서 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609121)
+#### [볼리비아, 토요일에 '인도주의 통로'를 열어 봉쇄를 뚫고 물자를 이동합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609120)
+#### [독점-미 하원 외교위원회 위원장, 아르헨티나 계약 입찰에서 중국의 역할 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609119)
+#### [블루 오리진, 6억 달러 규모의 새로운 시설로 플로리다 캠퍼스 확장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609117)
+#### [아르헨티나, 향후 몇 년간 콩, 옥수수 세금 점진적 인하 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609118)
+#### [적도, 코파사 민영화 입찰에 반대 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609116)
+#### [스페이스X의 업그레이드된 스타십 V3가 텍사스에서 첫 시험 비행에 성공했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609115)
+#### [란테우스, 70억 달러 규모 매각 검토 보도 후 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609114)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LNTH.O/total>
+#### [펀드, CBOT 옥수수, 대두 순매수자, 트레이더들은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609113)
+#### [모터 레이싱-러셀, 안토넬리를 꺾고 몬트리올 원투에서 메르세데스 스프린트 폴 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609112)
+#### [트럼프, 경쟁이 치열한 뉴욕 선거구에서 재정 유세를 위해 로러와 합류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609111)
+#### [Exclusive: 알리안츠 X 북미 CIO 드 케겔, 새로 출범한 성장 펀드를 이끌기 위해 인테크로 이동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609110)
+#### [스텔라, 피아스트리에 대한 '어리석은 시즌' 추측 일축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609109)
+#### [독점-민주당, 루비오에게 수배중인 전 폴란드 관리의 비자 해명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609108)
+#### [감사 결과, 트럼프 정부 하에서 뉴욕시에서 연방 이민 체포가 70% 이상 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609107)
+#### [중동 기대감으로 월가 상승, 투자심리 회복](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609106)
+#### [피치, 벨기에 신용등급 'A+', 전망 '안정적' 평가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609105)
+#### [플로리다 주지사: 6억 달러 규모의 블루 오리진 제조 확장, 500개의 고임금 일자리 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609104)
+#### [레드불의 메키스, 캐나다 그랑프리에서 요스 베르스타펜-울프 대화 경시 논란](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609103)
+#### [피치, 아랍에미리트 신용등급 'Aa-', 전망 '안정적'으로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609102)
+#### [아르헨티나, 2027 년과 2028 년에 대두, 옥수수에 대한 세금을 점진적으로 줄입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609101)
+#### [몬트리올 스프린트에서 메르세데스 원투 폴에 오른 러셀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609100)
+#### [BP의 화이팅 정유소가 진행 중인 협상에서 노조에 수정된 제안을 제공합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609099)
+#### [워시, 인플레이션 상승, 소비자 심리 급락으로 연준 의장에 취임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609098)
+#### [변동성 높은 현금 롤 거래 기간 3일째에 미국 현금 원유 등급 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609097)
+#### [볼리비아, 토요일에 '인도주의 통로'를 열어 봉쇄를 통한 물자 이동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609096)
+#### [S&P, 보스니아 연방 신용등급 'B+/B', 전망 '부정적' 평가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609095)
+#### [미국의 긴 주말을 앞두고 CIF/FOB 걸프 곡물-옥수수, 대두 바지선 입찰이 견고하게 유지됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609094)
 #### [워시 신임 연준 의장은 곧 금리를 인하 할 가능성이 낮다고 시장 전문가는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609093)
 #### [브라질 개발 은행 BNDES, 페트로브라스, 악시아 에네르기아 지분 감축, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609092)
 #### [학부모는 학교 내 스크린을 싫어할 수 있습니다. 하지만 소송을 제기할 수 있을까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609091)
@@ -40,36 +69,3 @@
 #### [IMM: EUR 롱 약세, GBP 숏 점프](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609063)
 #### [주당 17센트의 수익을 올릴 것으로 예상되는 방코 BBVA 아르헨티나 SA <BBAR.N> - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609062)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BBAR.K/total>
-#### [란테우스, 큐리움의 제안에 따라 70억 달러 매각 가능성 검토 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609061)
-#### [Bayer의 72억 5천만 달러 라운드업 합의가 새로운 이의 제기에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609060)
-#### [급등하는 주식은 수익이 감소하고 수익률이 상승함에 따라 바위 같은 패치에 직면 할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609059)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COST.O/total>
-#### [워시, 미국 연준 금리 결정 위원회 의장으로 선출됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609058)
-#### [Abivax, 2026년 1분기 재무 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609057)
-#### [주말 증시, 다우지수와 다우지수가 사상 최고치를 경신하며 상승 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609056)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0992.HK/total>
-#### [시카고 옥수수, 대두는 수출 호조로 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609055)
-#### [미국 곡물 바지선 운임 값은? 5월 22일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609054)
-#### [헝가리 최대 석유 회사 MOL, 세르비아 국정원 인수 협상을 위한 미국과의 협상 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609053)
-#### [월가 상승, 중동 기대감으로 다우지수 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609052)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0992.HK/total>
-#### [미국 규제 당국이 대형 은행의 '생전 유언장'을 승인했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609051)
-#### [ICE 카놀라 선물은 날씨 우려 속에 상승세로 한 주를 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609050)
-#### [터키의 BOTAS, 이탈리아 에디슨과 천연가스 및 LNG 협력을 위한 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609049)
-#### [월마트의 고위 임원들이 새 CEO 체제 하에서 조직 개편을 단행하며 떠납니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609048)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
-#### [투기꾼들이 원당 숏 포지션을 줄이고 아라비카 커피의 롱 포지션을 줄입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609047)
-#### [5월 기준 앨버타 일일 카놀라 가격. 22](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609046)
-#### [폴리마켓, 일본 시장 승인 준비 중, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609045)
-#### [트럼프, 대만 라이와 통화 아직 계획되지 않았다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609044)
-#### [월마트 고위 임원들이 새 CEO 체제 하에서 조직 개편으로 떠난다, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609043)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
-#### [칸에서 긴 박수갈채가 시선을 사로잡는다는데, 과연 그 의미는 무엇일까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609042)
-#### [투기꾼들이 미국 원유 순매수를 늘리다-CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609041)
-#### [투기꾼들이 옥수수 순매수 포지션 매도 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609040)
-#### [펀드 매니저들은 최근 한 주 동안 S&P 500 선물 순매수 포지션을 줄였습니다 - CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609039)
-#### [이주 농장 노동자들이 스페인의 사면 프로그램에 희망을 걸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609038)
-#### [코멘트-미국 요약: 수익률 상승이 원자재 통화에 압력을 가하면서 달러 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609037)
-#### [CBOT 콩은 포지션 제곱에 따라 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609036)
-#### [월마트 고위 임원들이 새 CEO 체제 하에서 조직 개편으로 떠나다 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609035)
-#### [노스다코타의 미국 석유 사업자들은 유가 상승에도 불구하고 시추에 신중을 기하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609034)
