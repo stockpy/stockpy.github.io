@@ -1,7 +1,55 @@
-<head><meta charset="utf-8"><title>Vers : 20260522_2013 </title></head>
-<center>Vers : 20260522_2013 </center>
-<center>Vers : 20260523_0513 </center>
+<head><meta charset="utf-8"><title>Vers : 20260522_2137 </title></head>
+<center>Vers : 20260522_2137 </center>
+<center>Vers : 20260523_0637 </center>
 <br><br><br>
+#### [워시 신임 연준 의장은 곧 금리를 인하 할 가능성이 낮다고 시장 전문가는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609093)
+#### [브라질 개발 은행 BNDES, 페트로브라스, 악시아 에네르기아 지분 감축, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609092)
+#### [학부모는 학교 내 스크린을 싫어할 수 있습니다. 하지만 소송을 제기할 수 있을까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609091)
+#### [인공지능의 주식 시장 지배가 우려스럽다고 시장 전문가가 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609090)
+#### [브라질 퀄리코프, CEO 역할 승계 절차 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609089)
+#### [세계은행, 에볼라 발생에 대응하며 자금 지원 확대 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609088)
+#### [미국 현금 원유 보고서는 5월 25일에 발행되지 않습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609087)
+#### [슬픔 드라마 '에브리타임', 칸영화제 '언 컨티뉴어스' 경쟁 부문 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609086)
+#### [비즈니스 룩어헤드: 언제 끝날까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609085)
+#### [멕시코, EU, 미국으로부터 다변화 목표로 교착 상태인 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609084)
+#### [독점-미국 세무 공무원이 세금 양식에 시민권 질문을 추가하는 방안 고려 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609083)
+#### [TSX, 기술주 상승에 힘입어 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609082)
+#### [IAEA, 군사 활동으로 인한 변전소 화재 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609081)
+#### [알본, 캐나다 스프린트 예선에서 그라운드 호그를 치고 예선 탈락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609080)
+#### [US 주식: 행진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609079)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTU.O/total>
+#### [브라질, 올해 계획된 사전 소금 경매 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609078)
+#### [란테우스, 큐리움의 제안 이후 70억 달러 매각 가능성 검토, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609077)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LNTH.O/total>
+#### [다나허, 기록적인 사모 채권 판매로 30억 달러 조달 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609076)
+#### [사상 최저 소비 심리로 단기물 수익률 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609075)
+#### [USTR Greer는 즉각적인 칩 관세는 없지만 업계에 보호가 중요하다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609074)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
+#### [재생-호주 경기 하방 리스크, 매파적 월러, USD/JPY 리스크](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609073)
+#### [더 깊은 무역 관계를 추구하기 위해 EU와 상품 단일 시장을 제안한 MEDIA-UK - The Guardian](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609072)
+#### [독점-민주당, 루비오에게 수배중인 전 폴란드 관리의 비자 해명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609071)
+#### [수단에서 맨해튼까지: 은행 책임의 한도를 테스트하는 BNP파리바 항소심](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609070)
+#### [월가 상승, 중동 기대감으로 다우지수 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609069)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0992.HK/total>
+#### [5월 22일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609068)
+#### [북미, 5월 26일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609067)
+#### [포지션 제곱에 대한 CBOT 밀 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609066)
+#### [랜테우스, 70억 달러 매각 가능성 검토, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609065)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LNTH.O/total>
+#### [메키스는 여전히 람비아세가 맥라렌에 합류해 수장이 될 것이라고 확신합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609064)
+#### [IMM: EUR 롱 약세, GBP 숏 점프](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609063)
+#### [주당 17센트의 수익을 올릴 것으로 예상되는 방코 BBVA 아르헨티나 SA <BBAR.N> - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609062)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BBAR.K/total>
+#### [란테우스, 큐리움의 제안에 따라 70억 달러 매각 가능성 검토 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609061)
+#### [Bayer의 72억 5천만 달러 라운드업 합의가 새로운 이의 제기에 직면했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609060)
+#### [급등하는 주식은 수익이 감소하고 수익률이 상승함에 따라 바위 같은 패치에 직면 할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609059)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COST.O/total>
+#### [워시, 미국 연준 금리 결정 위원회 의장으로 선출됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609058)
+#### [Abivax, 2026년 1분기 재무 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609057)
+#### [주말 증시, 다우지수와 다우지수가 사상 최고치를 경신하며 상승 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609056)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0992.HK/total>
+#### [시카고 옥수수, 대두는 수출 호조로 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609055)
+#### [미국 곡물 바지선 운임 값은? 5월 22일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609054)
 #### [헝가리 최대 석유 회사 MOL, 세르비아 국정원 인수 협상을 위한 미국과의 협상 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609053)
 #### [월가 상승, 중동 기대감으로 다우지수 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609052)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0992.HK/total>
@@ -25,49 +73,3 @@
 #### [CBOT 콩은 포지션 제곱에 따라 상승합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609036)
 #### [월마트 고위 임원들이 새 CEO 체제 하에서 조직 개편으로 떠나다 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609035)
 #### [노스다코타의 미국 석유 사업자들은 유가 상승에도 불구하고 시추에 신중을 기하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609034)
-#### [프로텍디브, 폼로직 출시 및 시리즈 B 공략, 콜먼은 지방 자치 단체의 목표가 점점 더 커지고 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609033)
-#### [브라질은 더 많은 지출을 막고 2026년 재정 적자 전망 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609032)
-#### [브라질 개발 은행 BNDES, 페트로 브라스, 악시아 에네르기 아 지분 감축, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609031)
-#### [USDA, 옥수수, 대두 밀 판매 확인, 한국인의 옥수수 구매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609030)
-#### [MOL, 미국으로부터 6월 6일까지 국정원 인수 논의 계속 승인 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609029)
-#### [앨버타 작황 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609028)
-#### [중남미 자산, 중동 불확실성으로 하락, 터키 정치에 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609027)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
-#### [월가 상승, 중동 기대감으로 다우지수 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609026)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0992.HK/total>
-#### [ECB, 유로 스테이블 코인 활성화 제안에 너무 위험하다며 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609025)
-#### [룰라가 방코 마스터 스캔들 이후 브라질 대선 여론조사에서 라비우 볼소나루를 앞서고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609024)
-#### [미국산 오일 및 지방 - 5월 22일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609023)
-#### [테이블 포브 미국 현금 밀피드 가격표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609022)
-#### [로스 앤젤레스 동부에서 파열 된 후 3- 평원 송유관이 부분적으로 폐쇄되었다고 회사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609021)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PAA.O/total>
-#### [미국 판사, 살바도르 이민자 킬마르 아브레고에 대한 기소 기각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609020)
-#### [방코 매크로 SA <BMA.N>, 주당 1.15달러의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609019)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BMA/total>
-#### [CBOT 옥수수, 수출 강세, 포지션 제곱으로 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609018)
-#### [미국 판사, 살바도르 이민자 킬마르 아브레고에 대한 기소 기각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609017)
-#### [에볼라 발병으로 콩고에서 인도 주의적 우려가 증가한다고 서방 국가들은 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609016)
-#### [증권거래위원회, 미국 주식의 암호화폐 버전 허용 계획 연기 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609015)
-#### [기초 입찰은 대부분 농민 판매 부진, 선물 하락으로 안정적입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609014)
-#### [미국 천연가스 가격 하락?온화한 날씨로 수요 억제에 따라 1주일 만에 4% 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609013)
-#### [캐나다 달러는 유가 상승으로 소비자들에게 3 주 연속 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609012)
-#### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
-#### [트럼프, 루비오가 동맹국에 경고하면서 폴란드에 추가 병력 파견 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609011)
-#### [룰라, 방코 마스터 스캔들 이후 브라질 대선 여론조사에서 플라비우 볼소나루를 앞서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609010)
-#### [라이브 네이션 엔터테인먼트 및 스포티파이 런칭 예약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609009)
-#### [브라질, 올해 계획된 사전 소금 경매 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609008)
-#### [트럼프, 아들 도널드 트럼프 주니어의 결혼식에 참석하지 않겠다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609007)
-#### [세계 은행, 에볼라 발생 대응, 자금 지원 확대 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609006)
-#### [법원, 친팔레스타인 활동가 마흐무드 칼릴의 재심 판결 재검토하지 않기로 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609005)
-#### [다음 주 및 5월 26일 화요일에 주목해야 할 사항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609004)
-#### [수익률과 주가 상승으로 강세 편향성을 유지하는 BUZZ-USD/JPY](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609003)
-#### [수단에서 맨해튼까지: 은행 책임의 한계를 시험하는 BNP 항소심](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609002)
-#### [BP 아메리카, BP 화이팅 정유소에서 회담 진전을 위한 새로운 선의의 제안을 하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609001)
-#### [구글, 검색 독점에 대한 미국 법원 판결에 항소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609000)
-#### [콘텐츠 규칙과 경제 안보에 초점을 맞춘 첫 번째 USMCA 협상, Greer는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2608999)
-#### [안토넬리, 사고로 타격을 입은 캐나다 그랑프리 연습에서 가장 빠른 기록 세우기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2608998)
-#### [러시아, 아에로플로트 지분 23.76% 매각을 위한 입찰 시작, RBC 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2608997)
-#### [헝가리 MOL, 국정원 관련 협상 완료 기한 2주 연장 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2608996)
-#### [USTR Greer는 즉각적인 칩 관세는 없지만 부문에 대한 보호가 중요하다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2608995)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
-#### [브라질, 더 많은 지출 차단, 2026년 적자 전망 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2608994)
