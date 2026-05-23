@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260523_1934 </title></head>
-<center>Vers : 20260523_1934 </center>
-<center>Vers : 20260524_0434 </center>
+<head><meta charset="utf-8"><title>Vers : 20260523_2052 </title></head>
+<center>Vers : 20260523_2052 </center>
+<center>Vers : 20260524_0552 </center>
 <br><br><br>
+#### [트럼프, 이란 평화 협상은 '대체로 타결'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609252)
+#### [루마니아 문기우 감독의 '피오르드', 칸 영화제 최고상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609251)
+#### [루마니아 뭉기우 감독의 '피오르드', 칸 영화제 최고상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609250)
 #### [세르비아에서 군중이 대통령의 퇴진을 요구하면서 경찰과 시위대가 충돌했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609249)
 #### [러셀, 안토넬리 스프린트 배틀에서 잘못한 게 없다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609248)
 #### [이란, 파키스탄, 미국에 수정 된 전쟁 종식 제안서 보내, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609247)
@@ -61,6 +64,3 @@
 #### [터키 경찰, 축출된 지도자를 선출한 야당 의회에 대한 조사에서 13명 구금](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609195)
 #### [적십자, 콩고에서 에볼라로 인한 자원봉사자 3명의 사망을 애도하며](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609194)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609193)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609192)
-#### [학생 기숙사 파업으로 사망자 수가 12 명으로 증가했다고 비상 사역은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609191)
-#### [이란의 최고 협상가, 파키스탄의 군 최고 사령관 테헤란은 권리를 타협하지 않을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609190)

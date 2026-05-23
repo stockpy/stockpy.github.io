@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260523_1934 </title></head>
-<center>Vers : 20260523_1934 </center>
-<center>Vers : 20260524_0434 </center>
+<head><meta charset="utf-8"><title>Vers : 20260523_2052 </title></head>
+<center>Vers : 20260523_2052 </center>
+<center>Vers : 20260524_0552 </center>
 <br><br><br>
 #### [[단독] 삼성전자, 주주명부 열람 수용…소액주주 임시주총 청구 본격화](https://m.stock.naver.com/news/ranknews/view/009/0005684142)
 #### [“출발은 좋았는데”…삼전, ‘30만전자’ 찍고 반락 후 숨고르기 [이런국장 저런주식]](https://m.stock.naver.com/news/ranknews/view/011/0004623852)
