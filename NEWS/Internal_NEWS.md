@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260523_1804 </title></head>
-<center>Vers : 20260523_1804 </center>
-<center>Vers : 20260524_0304 </center>
+<head><meta charset="utf-8"><title>Vers : 20260523_1934 </title></head>
+<center>Vers : 20260523_1934 </center>
+<center>Vers : 20260524_0434 </center>
 <br><br><br>
+#### [세르비아에서 군중이 대통령의 퇴진을 요구하면서 경찰과 시위대가 충돌했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609249)
+#### [러셀, 안토넬리 스프린트 배틀에서 잘못한 게 없다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609248)
+#### [이란, 파키스탄, 미국에 수정 된 전쟁 종식 제안서 보내, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609247)
+#### [미국 북서부 강 유량은 89 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609246)
+#### [파키스탄 관리, 이란 전쟁 잠정 협상이 최종 단계에 있으며 상당히 포괄적이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609245)
+#### [헝가리 총리 마자르, 다음 주 EU 기금 방출에 대한 협상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609244)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609243)
 #### [레오 교황, 환경오염 기업의 '어지러운' 이윤을 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609242)
 #### [콜롬비아 우파 대선 후보가 결선 투표 여론조사에서 선두를 달리고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609241)
 #### [미국 컨소시엄, 드 로렌티스 가문에 20억 유로에 나폴리 인수 제안 - The Athletic](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609240)
@@ -57,11 +64,3 @@
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609192)
 #### [학생 기숙사 파업으로 사망자 수가 12 명으로 증가했다고 비상 사역은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609191)
 #### [이란의 최고 협상가, 파키스탄의 군 최고 사령관 테헤란은 권리를 타협하지 않을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609190)
-#### [이란의 최고 협상가 칼리 바프, 파키스탄 육군 총장을 만나다, 이란 국영 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609189)
-#### [인도 고얄, 무역 관계 강화를 위해 150명의 비즈니스 리더와 함께 캐나다 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609188)
-#### [독점-우크라이나의 젤렌스키, EU 준회원국 제안 '불공평하다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609187)
-#### [Nvidia, 2,000억 달러 규모의 CPU 시장 전망에 중국도 포함된다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609186)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [러시아 드론이 우크라이나 수미 근처 장례식에서 1 명 사망, 9 명 부상, 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609185)
-#### [트럼프의 압력에도 불구하고 쿠바는 베네수엘라처럼 되지 않을 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609184)
-#### [기후 변화로 서식지가 줄어들면서 전 세계 식물 종을 위협하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609183)
