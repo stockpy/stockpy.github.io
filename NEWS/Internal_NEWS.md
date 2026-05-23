@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260523_2052 </title></head>
-<center>Vers : 20260523_2052 </center>
-<center>Vers : 20260524_0552 </center>
+<head><meta charset="utf-8"><title>Vers : 20260523_2253 </title></head>
+<center>Vers : 20260523_2253 </center>
+<center>Vers : 20260524_0753 </center>
 <br><br><br>
+#### [이란, 애리조나에서 멕시코로 월드컵 베이스캠프를 옮기다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609260)
+#### [세르비아에서 반정부 시위대가 경찰과 충돌하다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609259)
+#### [캘리포니아 화학 탱크가 LA 교외에서 대피 후 가열, 소방 관리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609258)
+#### [모터 레이싱-러셀, 메르세데스 팀 동료 안토넬리로부터 캐나다 GP 폴을 빼앗다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609257)
+#### [호르무즈 해협은이란의 관리하에 남아있을 것이라고이란의 파스는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609256)
+#### [모터 레이싱-러셀, 안토넬리에게서 캐나다 GP 폴을 빼앗다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609255)
+#### [미국, 베네수엘라 수도 카라카스 상공에서 군사 훈련 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609254)
+#### [세르비아에서 군중이 대통령의 퇴진을 요구하며 경찰과 시위대가 충돌합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609253)
 #### [트럼프, 이란 평화 협상은 '대체로 타결'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609252)
 #### [루마니아 문기우 감독의 '피오르드', 칸 영화제 최고상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609251)
 #### [루마니아 뭉기우 감독의 '피오르드', 칸 영화제 최고상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609250)
@@ -56,11 +64,3 @@
 #### [멕시코와 EU, 미국으로부터 다변화하려는 움직임으로 교착 상태에 빠진 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609203)
 #### [G41 원자로가 예기치 않은 정전을 겪었습니다 - 전력 거래소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609202)
 #### [멕시코와 EU, 미국으로부터 다변화하려는 움직임으로 교착 상태에 빠진 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609201)
-#### [이란의 최고 협상가, 이란은 미국과의 협상에서 타협하지 않을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609200)
-#### [우크라이나, 흑해에서 러시아의 셰 카리스 석유 터미널을 공격했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609199)
-#### [덴마크의 프레데릭센, 중도 우파 회담 실패 후 새로운 정부 구성 기회 얻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609198)
-#### [그 비르 장관, 프랑스 영토 접근 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609197)
-#### [이스라엘의 공격으로 가자 지구 경찰관 5 명 사망, 경찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609196)
-#### [터키 경찰, 축출된 지도자를 선출한 야당 의회에 대한 조사에서 13명 구금](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609195)
-#### [적십자, 콩고에서 에볼라로 인한 자원봉사자 3명의 사망을 애도하며](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609194)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609193)
