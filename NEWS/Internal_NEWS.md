@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260523_1658 </title></head>
-<center>Vers : 20260523_1658 </center>
-<center>Vers : 20260524_0158 </center>
+<head><meta charset="utf-8"><title>Vers : 20260523_1804 </title></head>
+<center>Vers : 20260523_1804 </center>
+<center>Vers : 20260524_0304 </center>
 <br><br><br>
+#### [레오 교황, 환경오염 기업의 '어지러운' 이윤을 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609242)
+#### [콜롬비아 우파 대선 후보가 결선 투표 여론조사에서 선두를 달리고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609241)
+#### [미국 컨소시엄, 드 로렌티스 가문에 20억 유로에 나폴리 인수 제안 - The Athletic](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609240)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609239)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609238)
+#### [이란 전쟁 종식을 위해 양해 각서가 미세 조정되고 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609237)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609236)
+#### [스콧, 아메리카컵 도전에 미국 코스를 계획하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609235)
+#### [엔비디아, 2,000억 달러 규모의 CPU 시장 전망에 중국 포함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609234)
+#### [모터 레이싱-러셀, 안토넬리의 몬트리올 스프린트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609233)
+#### [엔비디아, 2,000억 달러 규모의 CPU 시장 전망에 중국 포함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609232)
 #### [온두라스 목장 학살 희생자 장례식 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609231)
 #### [러셀, 몬트리올 스프린트에서 안토넬리가 우승하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609230)
 #### [트럼프, 토요일 걸프, 지역 지도자들과 회담 할 예정, 아랍 관리, 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609229)
@@ -54,15 +65,3 @@
 #### [러시아 드론이 우크라이나 수미 근처 장례식에서 1 명 사망, 9 명 부상, 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609185)
 #### [트럼프의 압력에도 불구하고 쿠바는 베네수엘라처럼 되지 않을 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609184)
 #### [기후 변화로 서식지가 줄어들면서 전 세계 식물 종을 위협하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609183)
-#### [윌리엄 보이드, 거짓말로 시작된 소설 속 삶에 대하여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609182)
-#### ['무기화 반대' 기금에 대한 공화당의 반항, 트럼프와 대립 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609181)
-#### [노르웨이의 Gassco, 계획된 가스 공급 중단을 수정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609180)
-#### [노르웨이의 Gassco는 5월 23일 0955시~5월 24일 0400시에 하루 -25.4밀리미터의 정전을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609179)
-#### [터키, 시리아에서 이슬람 국가 무장 세력 10 명 체포, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609178)
-#### [UKMTO는 아덴만 내에서 의심스러운 활동에 대한 다양한 출처로부터 보고를 받았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609177)
-#### [우크라이나 군대가 러시아 페름 지역의 대형 화학 공장을 공격했다고 Zelenskiy는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609176)
-#### [우크라이나 수미 인근 장례식에서 러시아 드론 공격으로 애도객 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609175)
-#### [H200 칩으로 중국 시장에 서비스를 제공하는 것이 '대단할 것'이라고 Nvidia CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609174)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [레오 교황, 환경 오염 기업의 '어지러운' 이윤을 비난하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609173)
-#### [러시아, '물류 문제'로 크림 반도의 세 바스 토폴에 연료 배급, 주지사는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609172)
