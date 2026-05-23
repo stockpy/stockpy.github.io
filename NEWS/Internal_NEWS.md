@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260523_2253 </title></head>
-<center>Vers : 20260523_2253 </center>
-<center>Vers : 20260524_0753 </center>
+<head><meta charset="utf-8"><title>Vers : 20260523_2353 </title></head>
+<center>Vers : 20260523_2353 </center>
+<center>Vers : 20260524_0853 </center>
 <br><br><br>
+#### [우크라이나 수도 키예프, 대규모 미사일-드론 공격으로 피격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609266)
+#### [백악관 근처에서 경찰관에게 총격을 가한 용의자 '다운', 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609265)
+#### [우시크, 베르호벤의 11라운드 중단으로 충격 피하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609264)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609263)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609262)
+#### [미국 비밀 경호국, 백악관 근처에서 총격 신고 조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609261)
 #### [이란, 애리조나에서 멕시코로 월드컵 베이스캠프를 옮기다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609260)
 #### [세르비아에서 반정부 시위대가 경찰과 충돌하다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609259)
 #### [캘리포니아 화학 탱크가 LA 교외에서 대피 후 가열, 소방 관리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609258)
@@ -58,9 +64,3 @@
 #### [우크라이나, 러시아 흑해의 셰카리스 석유 터미널 타격했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609208)
 #### [우버와 도어대시, 딜리버리 히어로 입찰을 위한 투자자 모집, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609207)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DASH.O/total>
-#### [우버와 도어대시가 딜리버리 히어로 입찰을 위해 투자자를 모집합니다- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609206)
-#### [스페인 총리 사임을 요구하며 마드리드에서 수만 명이 행진하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609205)
-#### [이스라엘 벤-그비르 장관, 프랑스 영토 출입 금지됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609204)
-#### [멕시코와 EU, 미국으로부터 다변화하려는 움직임으로 교착 상태에 빠진 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609203)
-#### [G41 원자로가 예기치 않은 정전을 겪었습니다 - 전력 거래소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609202)
-#### [멕시코와 EU, 미국으로부터 다변화하려는 움직임으로 교착 상태에 빠진 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609201)
