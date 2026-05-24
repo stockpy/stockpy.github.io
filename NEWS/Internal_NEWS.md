@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260524_1701 </title></head>
-<center>Vers : 20260524_1701 </center>
-<center>Vers : 20260525_0201 </center>
+<head><meta charset="utf-8"><title>Vers : 20260524_1917 </title></head>
+<center>Vers : 20260524_1917 </center>
+<center>Vers : 20260525_0417 </center>
 <br><br><br>
+#### [법의학 전문가들이 러시아가 점령한 루한스크 지역의 폐허가 된 기숙사를 수색하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609358)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609357)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [이슬람 국가들, 가자 소 함대 구금에 대해 이스라엘 벤-그 비르 장관 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609356)
+#### [미국 북서부 강 유량은 89 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609355)
+#### [로이터 미국 스포츠 일정 5월 24일 일요일 오후 2시 5분(동부 표준시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609354)
+#### [대만이 운영하는 섬 근처에서 긴장된 대치 끝에 중국 선박이 떠납니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609353)
+#### [분석-미 재무부 패배는 차입 비용 증가에 대한 워싱턴의 내성을 테스트합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609352)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609351)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609350)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609349)
+#### [러시아, 키예프 대규모 공격에서 극초음속 미사일로 우크라이나 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609348)
+#### [이란에 대한 협상 가능성으로 미국 의원들이 당파에 따라 크게 나뉘다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609347)
+#### [사이클링-드버스네스가 스프린터를 막고 지로 스테이지 15 우승, 빈게가르드는 핑크색 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609346)
 #### [드베르네스, 지로 스테이지 15에서 스프린터들을 제치고 우승한 빈게가르드, 핑크 컬러를 유지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609345)
 #### [이탈리아, 레가타 예선 우승으로 아메리카즈컵 출전 의사를 밝힙니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609344)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609343)
@@ -54,17 +68,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301096.SZ/total>
 #### [장쑤 HSC 신에너지 재료의 주주, 지분 매각 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609299)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688353.SS/total>
-#### [젤렌스키, 러시아가 우크라이나 키예프 지역을 오레시닉 미사일로 타격했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609298)
-#### [남중국해 정상에서 대치 중인 대만, 중국 해안 경비대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609297)
-#### [ECB는 인상 압력에 직면 해 있다고 Kocher는 말합니다- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609296)
-#### [러시아, 우크라이나 키예프 지역에 오레시닉 미사일 타격 - 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609295)
-#### [타스님, 호르무즈 해협 통과 선박 수가 잠재적 인 협상에 따라 30 일 내에 전쟁 이전 수준으로 돌아갈 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609294)
-#### [폴란드 대통령 가족에 대한 사기 화재 전화가 평평 해졌다고 Tusk는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609293)
-#### [이란과 미국 간의 잠재적 양해각서에는 종전 및 이란 석유 제재 면제가 포함됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609292)
-#### [러시아의 공격으로 키예프와 주변 지역에서 4 명 사망, 관리들은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609291)
-#### [터키, 잠재적 인이란 협상을 지원할 준비가되어 있다고 에르도안은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609290)
-#### [닛산 유닛 스크랩, 영국에서 EV 파워 트레인 생산 계획, 닛케이는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609289)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7201.T/total>
-#### [이란 협상에서 '의미있는 진전'을 이뤘다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609288)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609287)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609286)
