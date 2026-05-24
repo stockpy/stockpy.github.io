@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260524_1117 </title></head>
-<center>Vers : 20260524_1117 </center>
-<center>Vers : 20260524_2017 </center>
+<head><meta charset="utf-8"><title>Vers : 20260524_1326 </title></head>
+<center>Vers : 20260524_1326 </center>
+<center>Vers : 20260524_2226 </center>
 <br><br><br>
+#### [미국-이란 평화 협상 기대감에 대부분의 걸프 지역 증시 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609330)
+#### [우크라이나의 수도가 밤새 대규모 미사일, 드론 공격으로 타격을 입었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609329)
+#### [분석-미 재무부 패배는 차입 비용 증가에 대한 워싱턴의 내성을 테스트합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609328)
+#### [월스트리트 주간을 앞두고- 급등하는 주식은 수익이 감소하고 수익률이 상승함에 따라 바위 같은 패치에 직면 할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609327)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COST.O/total>
+#### [벨로루시의 루카셴코가 프랑스의 마크롱과 전화로 대화한다고 민스크는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609326)
+#### [방글라데시는 에너지 위기를 해결하기 위해 역외 입찰에서 달콤한 조건을 제시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609325)
+#### [터키 진압 경찰, 축출된 지도부 퇴거를 위해 야당 본부 진입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609324)
+#### [터키 진압 경찰이 축출 된 지도자들을 퇴거시키기 위해 야당 본부에 진입했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609323)
+#### [이스라엘의 화재로 가자 지구에서 부모와 아기가 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609322)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609321)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609320)
 #### [이란, 이스라엘 감시 드론 격추, 통신사는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609319)
 #### [네이처 에너지, 카자흐스탄 광산업체 ERG의 지분 39% 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609318)
 #### [독일 외무 장관, 러시아의 우크라이나 공격이 확대되고 있다고 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609317)
@@ -56,6 +68,10 @@
 #### [트럼프, 이란 협상 '대체로 타결', 해협 재개 둘러싼 분쟁](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609273)
 #### [러시아 미사일이 키예프에서 주거용 건물을 강타하여 한 명 사망, 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609272)
 #### [러시아의 우크라이나 공격 이후 폴란드 군용 항공 활동, 육군 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609271)
+<head><meta charset="utf-8"><title>Vers : 20260524_1326 </title></head>
+<center>Vers : 20260524_1326 </center>
+<center>Vers : 20260524_2226 </center>
+<br><br><br>
 #### [노르웨이, 15년 만에 스웨덴을 꺾고 세계 선수권에서 플레이오프 희망 키우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609270)
 #### [노리스, 메르세데스의 선두권 잠식에도 맥라렌 페이스에 고무](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609269)
 #### [복싱-우시크, 베르호벤의 11라운드 중단으로 충격적인 패배를 피하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609268)
@@ -67,10 +83,6 @@
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609262)
 #### [미국 비밀 경호국, 백악관 근처에서 총격 신고 조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609261)
 #### [이란, 애리조나에서 멕시코로 월드컵 베이스캠프를 옮기다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609260)
-<head><meta charset="utf-8"><title>Vers : 20260524_1117 </title></head>
-<center>Vers : 20260524_1117 </center>
-<center>Vers : 20260524_2017 </center>
-<br><br><br>
 #### [세르비아에서 반정부 시위대가 경찰과 충돌하다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609259)
 #### [캘리포니아 화학 탱크가 LA 교외에서 대피 후 가열, 소방 관리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609258)
 #### [모터 레이싱-러셀, 메르세데스 팀 동료 안토넬리로부터 캐나다 GP 폴을 빼앗다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609257)
@@ -121,15 +133,3 @@
 #### [수만 명이 마드리드에서 총리 사퇴를 요구하며 행진하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609212)
 #### [Uber와 DoorDash가 딜리버리 히어로 입찰을 위해 투자자를 모집한다고 FT가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609211)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DASH.O/total>
-#### [레바논의 헤즈볼라, 이란이 지원을 계속하겠다고 약속했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609210)
-#### [러시아, 우크라이나의 하르 키우와 폴 타바 지역의 석유 및 가스 시설 공격, Naftogaz는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609209)
-#### [우크라이나, 러시아 흑해의 셰카리스 석유 터미널 타격했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609208)
-#### [우버와 도어대시, 딜리버리 히어로 입찰을 위한 투자자 모집, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609207)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DASH.O/total>
-#### [우버와 도어대시가 딜리버리 히어로 입찰을 위해 투자자를 모집합니다- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609206)
-#### [스페인 총리 사임을 요구하며 마드리드에서 수만 명이 행진하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609205)
-#### [이스라엘 벤-그비르 장관, 프랑스 영토 출입 금지됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609204)
-#### [멕시코와 EU, 미국으로부터 다변화하려는 움직임으로 교착 상태에 빠진 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609203)
-#### [G41 원자로가 예기치 않은 정전을 겪었습니다 - 전력 거래소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609202)
-#### [멕시코와 EU, 미국으로부터 다변화하려는 움직임으로 교착 상태에 빠진 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609201)
-#### [이란의 최고 협상가, 이란은 미국과의 협상에서 타협하지 않을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609200)
