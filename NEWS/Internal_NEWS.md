@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260523_2353 </title></head>
-<center>Vers : 20260523_2353 </center>
-<center>Vers : 20260524_0853 </center>
+<head><meta charset="utf-8"><title>Vers : 20260524_0337 </title></head>
+<center>Vers : 20260524_0337 </center>
+<center>Vers : 20260524_1237 </center>
 <br><br><br>
+#### [트럼프, 이란 협상 '대체로 협상', 해협 재개에 대한 논쟁](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609277)
+#### [트럼프, 시 주석과의 만남에서 일본의 타카이치 뒤에 무게를 던진다, 요미우리는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609276)
+#### [화학 탱크가 가열되어 재앙의 위험에 처한 캘리포니아, 새로운 해결책을 모색하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609275)
+#### [러시아, 키예프에 대규모 미사일 및 드론 공격으로 사망자 1명 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609274)
+#### [트럼프, 이란 협상 '대체로 타결', 해협 재개 둘러싼 분쟁](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609273)
+#### [러시아 미사일이 키예프에서 주거용 건물을 강타하여 한 명 사망, 시장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609272)
+#### [러시아의 우크라이나 공격 이후 폴란드 군용 항공 활동, 육군 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609271)
+#### [노르웨이, 15년 만에 스웨덴을 꺾고 세계 선수권에서 플레이오프 희망 키우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609270)
+#### [노리스, 메르세데스의 선두권 잠식에도 맥라렌 페이스에 고무](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609269)
+#### [복싱-우시크, 베르호벤의 11라운드 중단으로 충격적인 패배를 피하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609268)
+#### [미국, 베네수엘라 수도 카라카스 상공에서 군사 훈련 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609267)
 #### [우크라이나 수도 키예프, 대규모 미사일-드론 공격으로 피격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609266)
 #### [백악관 근처에서 경찰관에게 총격을 가한 용의자 '다운', 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609265)
 #### [우시크, 베르호벤의 11라운드 중단으로 충격 피하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609264)
@@ -51,16 +62,3 @@
 #### [파키스탄 육군 총사령관 무 니르의이란 회담은 매우 생산적이었다고 군대 성명은 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609220)
 #### [미국과 이란, 전쟁 종식을 위한 회담 진전 보고, 향후 며칠을 내다보며](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609219)
 #### [딜리버리 히어로, Uber로부터 인수 제안 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609218)
-#### [방글라데시에서 홍역 의심 및 확진 사망자 500명 돌파](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609217)
-#### [배달의민족, 우버로부터 인수 제안 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609216)
-#### [딜리버리 히어로, 잠재적 인수 제안에 대한 우버 테크놀로지스의 접근 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609215)
-#### [중국 딥시큐어, 플래그십 V4?Pro AI 모델 75% 가격 영구 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609214)
-#### [루비오, 이란에서 진전이 있었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609213)
-#### [수만 명이 마드리드에서 총리 사퇴를 요구하며 행진하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609212)
-#### [Uber와 DoorDash가 딜리버리 히어로 입찰을 위해 투자자를 모집한다고 FT가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609211)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DASH.O/total>
-#### [레바논의 헤즈볼라, 이란이 지원을 계속하겠다고 약속했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609210)
-#### [러시아, 우크라이나의 하르 키우와 폴 타바 지역의 석유 및 가스 시설 공격, Naftogaz는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609209)
-#### [우크라이나, 러시아 흑해의 셰카리스 석유 터미널 타격했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609208)
-#### [우버와 도어대시, 딜리버리 히어로 입찰을 위한 투자자 모집, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609207)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DASH.O/total>
