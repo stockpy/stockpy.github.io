@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260524_2055 </title></head>
-<center>Vers : 20260524_2055 </center>
-<center>Vers : 20260525_0555 </center>
+<head><meta charset="utf-8"><title>Vers : 20260524_2157 </title></head>
+<center>Vers : 20260524_2157 </center>
+<center>Vers : 20260525_0657 </center>
 <br><br><br>
 #### ["부자될 마지막 기회?"…'59만전자·400만닉스'의 유혹 [월급쟁이 희노애락]](https://m.stock.naver.com/news/ranknews/view/014/0005525691)
 #### [“연휴 끝나면 날아가는 거 아냐?”…증권가, 이번주 ‘팔천피 안착’ 전망 내놨다](https://m.stock.naver.com/news/ranknews/view/011/0004624081)

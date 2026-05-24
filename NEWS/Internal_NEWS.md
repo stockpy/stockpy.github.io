@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260524_2055 </title></head>
-<center>Vers : 20260524_2055 </center>
-<center>Vers : 20260525_0555 </center>
+<head><meta charset="utf-8"><title>Vers : 20260524_2157 </title></head>
+<center>Vers : 20260524_2157 </center>
+<center>Vers : 20260525_0657 </center>
 <br><br><br>
+#### [안토넬리, 캐나다에서 러셀 은퇴 후 4연승 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609375)
+#### [캘리포니아 화학 탱크의 '잠재적 균열 '이 폭발을 막을 수 있다고 소방 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609374)
+#### [우크라이나, 러시아 블라디미르 지역의 석유 펌프장을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609373)
+#### [러셀, 엔진 고장으로 캐나다 그랑프리 불참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609372)
+#### [Citi, 라이프스타일 커뮤니티의 목표 주가를 높입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609371)
 #### [BUZZ-IMM: EUR 롱 약세, GBP 숏 점프](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609370)
 #### [BUZZ-재생-호주 하방 리스크, 매파적 월러, USD/JPY 리스크](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609369)
 #### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609368)
@@ -60,8 +65,3 @@
 #### [네이처 에너지, 카자흐스탄 광산업체 ERG의 지분 39% 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609318)
 #### [독일 외무 장관, 러시아의 우크라이나 공격이 확대되고 있다고 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609317)
 #### [프랑스, 러시아의 밤새 탄도 미사일로 우크라이나 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609316)
-#### [트럼프는 자신의 공약을 수십 번 말하지만 미국인의 경제적 고통을 축소합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609315)
-#### [EU의 폰 데어 라이엔, 미국과이란 간 평화 회담의 진전 조짐 환영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609314)
-#### [인도, 미국, 루비오가 이란 분쟁 진전을 언급하면서 중동, 무역 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609313)
-#### [EU의 칼라스: 러시아, 최근 우크라이나 공격에서 '무모한 핵 벼랑 끝 전술'을 보여주는 러시아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609312)
-#### [이스라엘의 화재로 가자 지구에서 부모와 아기가 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609311)
