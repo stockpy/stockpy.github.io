@@ -1,7 +1,26 @@
-<head><meta charset="utf-8"><title>Vers : 20260524_0337 </title></head>
-<center>Vers : 20260524_0337 </center>
-<center>Vers : 20260524_1237 </center>
+<head><meta charset="utf-8"><title>Vers : 20260524_0720 </title></head>
+<center>Vers : 20260524_0720 </center>
+<center>Vers : 20260524_1620 </center>
 <br><br><br>
+#### [러시아, 우크라이나 키예프 지역에 오레시닉 미사일 타격 - 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609295)
+#### [타스님, 호르무즈 해협 통과 선박 수가 잠재적 인 협상에 따라 30 일 내에 전쟁 이전 수준으로 돌아갈 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609294)
+#### [폴란드 대통령 가족에 대한 사기 화재 전화가 평평 해졌다고 Tusk는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609293)
+#### [이란과 미국 간의 잠재적 양해각서에는 종전 및 이란 석유 제재 면제가 포함됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609292)
+#### [러시아의 공격으로 키예프와 주변 지역에서 4 명 사망, 관리들은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609291)
+#### [터키, 잠재적 인이란 협상을 지원할 준비가되어 있다고 에르도안은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609290)
+#### [닛산 유닛 스크랩, 영국에서 EV 파워 트레인 생산 계획, 닛케이는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609289)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7201.T/total>
+#### [이란 협상에서 '의미있는 진전'을 이뤘다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609288)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609287)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609286)
+#### [이란, 전쟁 중 미국, 이스라엘에 정보를 보낸 사람을 처형, 사법부는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609285)
+#### [주목해야 할 요소 - 5월 24일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609284)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609283)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609282)
+#### [터키항공, 걸프 경쟁사로부터 트래픽을 확보한 후 1위 목표 달성- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609281)
+#### [폴란드는 러시아의 우크라이나 공습 중 영공 침범이 없었다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609280)
+#### [악시오스, 미-이란 협상 제안에 60일 휴전 연장 기간 동안 해협 개방 포함 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609279)
+#### [이란 거래는 60 일 휴전 연장 기간 동안 해협을 개방하는 것을 포함한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609278)
 #### [트럼프, 이란 협상 '대체로 협상', 해협 재개에 대한 논쟁](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609277)
 #### [트럼프, 시 주석과의 만남에서 일본의 타카이치 뒤에 무게를 던진다, 요미우리는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609276)
 #### [화학 탱크가 가열되어 재앙의 위험에 처한 캘리포니아, 새로운 해결책을 모색하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609275)
@@ -44,6 +63,10 @@
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609238)
 #### [이란 전쟁 종식을 위해 양해 각서가 미세 조정되고 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609237)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609236)
+<head><meta charset="utf-8"><title>Vers : 20260524_0720 </title></head>
+<center>Vers : 20260524_0720 </center>
+<center>Vers : 20260524_1620 </center>
+<br><br><br>
 #### [스콧, 아메리카컵 도전에 미국 코스를 계획하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609235)
 #### [엔비디아, 2,000억 달러 규모의 CPU 시장 전망에 중국 포함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609234)
 #### [모터 레이싱-러셀, 안토넬리의 몬트리올 스프린트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609233)
@@ -62,3 +85,48 @@
 #### [파키스탄 육군 총사령관 무 니르의이란 회담은 매우 생산적이었다고 군대 성명은 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609220)
 #### [미국과 이란, 전쟁 종식을 위한 회담 진전 보고, 향후 며칠을 내다보며](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609219)
 #### [딜리버리 히어로, Uber로부터 인수 제안 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609218)
+#### [방글라데시에서 홍역 의심 및 확진 사망자 500명 돌파](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609217)
+#### [배달의민족, 우버로부터 인수 제안 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609216)
+#### [딜리버리 히어로, 잠재적 인수 제안에 대한 우버 테크놀로지스의 접근 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609215)
+#### [중국 딥시큐어, 플래그십 V4?Pro AI 모델 75% 가격 영구 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609214)
+#### [루비오, 이란에서 진전이 있었다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609213)
+#### [수만 명이 마드리드에서 총리 사퇴를 요구하며 행진하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609212)
+#### [Uber와 DoorDash가 딜리버리 히어로 입찰을 위해 투자자를 모집한다고 FT가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609211)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DASH.O/total>
+#### [레바논의 헤즈볼라, 이란이 지원을 계속하겠다고 약속했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609210)
+#### [러시아, 우크라이나의 하르 키우와 폴 타바 지역의 석유 및 가스 시설 공격, Naftogaz는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609209)
+#### [우크라이나, 러시아 흑해의 셰카리스 석유 터미널 타격했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609208)
+#### [우버와 도어대시, 딜리버리 히어로 입찰을 위한 투자자 모집, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609207)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DASH.O/total>
+#### [우버와 도어대시가 딜리버리 히어로 입찰을 위해 투자자를 모집합니다- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609206)
+#### [스페인 총리 사임을 요구하며 마드리드에서 수만 명이 행진하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609205)
+#### [이스라엘 벤-그비르 장관, 프랑스 영토 출입 금지됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609204)
+#### [멕시코와 EU, 미국으로부터 다변화하려는 움직임으로 교착 상태에 빠진 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609203)
+#### [G41 원자로가 예기치 않은 정전을 겪었습니다 - 전력 거래소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609202)
+#### [멕시코와 EU, 미국으로부터 다변화하려는 움직임으로 교착 상태에 빠진 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609201)
+#### [이란의 최고 협상가, 이란은 미국과의 협상에서 타협하지 않을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609200)
+#### [우크라이나, 흑해에서 러시아의 셰 카리스 석유 터미널을 공격했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609199)
+#### [덴마크의 프레데릭센, 중도 우파 회담 실패 후 새로운 정부 구성 기회 얻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609198)
+#### [그 비르 장관, 프랑스 영토 접근 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609197)
+#### [이스라엘의 공격으로 가자 지구 경찰관 5 명 사망, 경찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609196)
+#### [터키 경찰, 축출된 지도자를 선출한 야당 의회에 대한 조사에서 13명 구금](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609195)
+#### [적십자, 콩고에서 에볼라로 인한 자원봉사자 3명의 사망을 애도하며](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609194)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609193)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609192)
+#### [학생 기숙사 파업으로 사망자 수가 12 명으로 증가했다고 비상 사역은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609191)
+#### [이란의 최고 협상가, 파키스탄의 군 최고 사령관 테헤란은 권리를 타협하지 않을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609190)
+#### [이란의 최고 협상가 칼리 바프, 파키스탄 육군 총장을 만나다, 이란 국영 언론은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609189)
+#### [인도 고얄, 무역 관계 강화를 위해 150명의 비즈니스 리더와 함께 캐나다 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609188)
+#### [독점-우크라이나의 젤렌스키, EU 준회원국 제안 '불공평하다'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609187)
+#### [Nvidia, 2,000억 달러 규모의 CPU 시장 전망에 중국도 포함된다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609186)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [러시아 드론이 우크라이나 수미 근처 장례식에서 1 명 사망, 9 명 부상, 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609185)
+#### [트럼프의 압력에도 불구하고 쿠바는 베네수엘라처럼 되지 않을 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609184)
+#### [기후 변화로 서식지가 줄어들면서 전 세계 식물 종을 위협하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609183)
+#### [윌리엄 보이드, 거짓말로 시작된 소설 속 삶에 대하여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609182)
+#### ['무기화 반대' 기금에 대한 공화당의 반항, 트럼프와 대립 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609181)
+#### [노르웨이의 Gassco, 계획된 가스 공급 중단을 수정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609180)
+#### [노르웨이의 Gassco는 5월 23일 0955시~5월 24일 0400시에 하루 -25.4밀리미터의 정전을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609179)
+#### [터키, 시리아에서 이슬람 국가 무장 세력 10 명 체포, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609178)
+#### [UKMTO는 아덴만 내에서 의심스러운 활동에 대한 다양한 출처로부터 보고를 받았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609177)
+#### [우크라이나 군대가 러시아 페름 지역의 대형 화학 공장을 공격했다고 Zelenskiy는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609176)
