@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260524_2157 </title></head>
-<center>Vers : 20260524_2157 </center>
-<center>Vers : 20260525_0657 </center>
+<head><meta charset="utf-8"><title>Vers : 20260524_2301 </title></head>
+<center>Vers : 20260524_2301 </center>
+<center>Vers : 20260525_0801 </center>
 <br><br><br>
+#### [미국과이란이 평화 협정에 가까워지면서 유가가 2 주 최저치로 떨어졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609385)
+#### [한 주간의 브레이킹뷰: 거버넌스 포기하기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609384)
+#### [모호한 이란 평화 협상의 진전으로 BUZZ-NZD/USD가 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609383)
+#### [호주 증시 하락 개장, 뉴질랜드 증시 상승 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609382)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
+#### [호주 증시 하락 개장, 뉴질랜드 증시 상승 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609381)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
+#### [모터 레이싱-안토넬리, 캐나다에서 러셀 은퇴 후 4연승 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609380)
+#### [미국과이란이 평화 협정에 대해 여전히 갈등을 겪으면서 유가는 4 달러 이상 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609379)
+#### [자딘, 24억 달러 규모의 I-MED 인수에 근접 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609378)
+#### [W/E 뉴스-이란-미국 협상 '대체로 타결, 미국 봉쇄는 유지'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609377)
+#### [호르무즈 해협 개통 희망에 BUZZ-AUD/USD 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609376)
 #### [안토넬리, 캐나다에서 러셀 은퇴 후 4연승 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609375)
 #### [캘리포니아 화학 탱크의 '잠재적 균열 '이 폭발을 막을 수 있다고 소방 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609374)
 #### [우크라이나, 러시아 블라디미르 지역의 석유 펌프장을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609373)
@@ -55,13 +67,3 @@
 #### [월스트리트 주간을 앞두고- 급등하는 주식은 수익이 감소하고 수익률이 상승함에 따라 바위 같은 패치에 직면 할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609327)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COST.O/total>
 #### [벨로루시의 루카셴코가 프랑스의 마크롱과 전화로 대화한다고 민스크는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609326)
-#### [방글라데시는 에너지 위기를 해결하기 위해 역외 입찰에서 달콤한 조건을 제시합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609325)
-#### [터키 진압 경찰, 축출된 지도부 퇴거를 위해 야당 본부 진입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609324)
-#### [터키 진압 경찰이 축출 된 지도자들을 퇴거시키기 위해 야당 본부에 진입했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609323)
-#### [이스라엘의 화재로 가자 지구에서 부모와 아기가 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609322)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609321)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609320)
-#### [이란, 이스라엘 감시 드론 격추, 통신사는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609319)
-#### [네이처 에너지, 카자흐스탄 광산업체 ERG의 지분 39% 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609318)
-#### [독일 외무 장관, 러시아의 우크라이나 공격이 확대되고 있다고 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609317)
-#### [프랑스, 러시아의 밤새 탄도 미사일로 우크라이나 공격 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609316)
