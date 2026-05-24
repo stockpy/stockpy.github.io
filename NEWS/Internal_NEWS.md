@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260524_1917 </title></head>
-<center>Vers : 20260524_1917 </center>
-<center>Vers : 20260525_0417 </center>
+<head><meta charset="utf-8"><title>Vers : 20260524_2055 </title></head>
+<center>Vers : 20260524_2055 </center>
+<center>Vers : 20260525_0555 </center>
 <br><br><br>
+#### [BUZZ-IMM: EUR 롱 약세, GBP 숏 점프](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609370)
+#### [BUZZ-재생-호주 하방 리스크, 매파적 월러, USD/JPY 리스크](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609369)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609368)
+#### [터키 진압 경찰이 본부에서 야당 지도부를 축출했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609367)
+#### [모닝스타, 미국 탈퇴 후 호주가 구즈만 이 고메즈에 집중할 것이라 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609366)
+#### [Uber, 딜리버리 히어로 인수를 위해 더 높은 입찰에 무게를 두다, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609365)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DASH.O/total>
+#### [캘리포니아 화학 탱크의 균열 가능성이 폭발을 예방하는 데 도움이 될 수 있다고 소방 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609364)
+#### [Uber, 115억 유로 제안 거절 후 배달 영웅 인수에 더 높은 입찰에 무게를 두다 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609363)
+#### [아일랜드 집권 파인 게일, 야당 사회민주당, 보궐선거 전리품 공유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609362)
+#### [우버, 딜리버리 히어로 인수를 위해 더 높은 입찰에 무게를 두다, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609361)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609360)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609359)
 #### [법의학 전문가들이 러시아가 점령한 루한스크 지역의 폐허가 된 기숙사를 수색하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609358)
 #### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609357)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
@@ -52,19 +65,3 @@
 #### [인도, 미국, 루비오가 이란 분쟁 진전을 언급하면서 중동, 무역 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609313)
 #### [EU의 칼라스: 러시아, 최근 우크라이나 공격에서 '무모한 핵 벼랑 끝 전술'을 보여주는 러시아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609312)
 #### [이스라엘의 화재로 가자 지구에서 부모와 아기가 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609311)
-#### [G41 원자로가 5월에 재가동될 예정입니다. 26](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609310)
-#### [터키, 경찰에 축출된 야당 지도부를 본부에서 퇴거 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609309)
-#### [대만, 중국 해안 경비대가 남중국해 정상에서 대치 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609308)
-#### [러시아는 극 초음속 및 탄도 미사일로 우크라이나를 공격했다고 국영 통신이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609307)
-#### [우크라이나 군, 러시아 크라 스노 다르 크라이의 석유 하역 부두 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609306)
-#### [키프로스는 부패와 생활비에 초점을 맞춘 새 의회에 투표합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609305)
-#### [대진중공업, 네덜란드 기업과 선박 건조 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609304)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002487.SZ/total>
-#### [인도, 미국, 미국이이란 분쟁 진전을 언급하면서 중동, 무역 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609303)
-#### [이란은 고농축 우라늄 비축량을 넘기는 데 동의하지 않았다고이란 고위 소식통이 로이터에 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609302)
-#### [저장 EV-Tech의 주주, 지분 처분 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609301)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301607.SZ/total>
-#### [성실성 파마텍, 소유권 변경 보류 중인 거래 중단하기로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609300)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301096.SZ/total>
-#### [장쑤 HSC 신에너지 재료의 주주, 지분 매각 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2609299)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688353.SS/total>
