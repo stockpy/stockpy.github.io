@@ -1,7 +1,32 @@
-<head><meta charset="utf-8"><title>Vers : 20260525_1743 </title></head>
-<center>Vers : 20260525_1743 </center>
-<center>Vers : 20260526_0243 </center>
+<head><meta charset="utf-8"><title>Vers : 20260525_1940 </title></head>
+<center>Vers : 20260525_1940 </center>
+<center>Vers : 20260526_0440 </center>
 <br><br><br>
+#### [멕시코의 피브라 프롤로지스, 피브라 맥쿼리에 대한 제안이 오늘 밤 만료되며 연장되지 않을 것이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610101)
+#### [방코 매크로 SA <BMA.N>, 주당 1.15달러의 수익 예상 - 수익 미리보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610100)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BMA/total>
+#### [브라질의 플라비우 볼 소나로, 트럼프와의 만남을 위해 워싱턴에 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610099)
+#### [아시아 텔레비전 네트워크 인터내셔널, 반기 보고서 채택 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610098)
+#### [미국 북서부 강 유량은 89 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610097)
+#### [이란, 전투 종료 협상 후 30 일 후 호르무즈 개방, 소식통을 인용 한 닛케이 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610096)
+#### [라브로프, 루비오에게 러시아가 군과 연결된 키예프 시설을 공격하기로 결정했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610095)
+#### [이란의 최고 특사, 카타르 총리와 잠재적 인 평화 협상을 논의하고 있다고 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610094)
+#### [EU, 구글에 세 자릿수 백만 유로의 벌금을 부과할 계획이라고 Handelsblatt가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610093)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [멜로니 연합, 여론 조사 무시하고 베니스 시장 투표에서 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610092)
+#### [트럼프, 아브라함 협정과 이란 핵 합의 연계](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610091)
+#### [OpenAI, Grupo Folha 및 Grupo UOL, 전략적 콘텐츠 파트너십 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610090)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610089)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610088)
+#### [네타냐후, 이스라엘이 헤즈볼라에 대한 공격을 강화할 것이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610087)
+#### [투자자들이 평화 협상 전망을 저울질하면서 캐나다 달러가 강세를 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610086)
+#### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
+#### [슈퍼그로크, 모든 슈퍼그로크 및 X 프리미엄+ 사용자에게 Grok 빌드를 베타 버전으로 제공한다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610085)
+#### [한타바이러스 크루즈선에서 대피한 스페인 국민 양성 판정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610084)
+#### [젤렌스키: 미사일 방어에 관한 미국과의 대화에 거의 진전이 없습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610083)
+#### [EU, 구글에 세 자릿수 백만 유로의 벌금을 부과할 계획, Handelsblatt 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610082)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [크루즈선에서 대피 한 스페인 국민, 한타 바이러스 양성 판정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610081)
 #### [젤렌스키: 미사일 방어에 관한 미국과의 대화에 거의 진전이 없습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610080)
 #### [이란, 평화 협상 후 30 일 후 호르무즈 해협 개방, 소식통을 인용 한 닛케이 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610079)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610078)
@@ -47,25 +72,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2257.HK/total>
 #### [멕시코, 미국 거부 후이란 월드컵 팀 개최, 대통령 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610043)
 #### [Eni와 파트너, 코트디부아르 프로젝트의 새로운 개발 단계 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610042)
-#### [카프리한스 인도 3월 분기 순이익 7040만 루피 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610041)
-#### [테크노 전기 엔지니어링 회사 3/4분기 순이익 11.5억 루피 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610040)
-#### [Comp 1분기 순이익 1,760만 즐로티](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610039)
-#### [JSW 에너지, 2026년 5월 25일 적격 기관 모집 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610038)
-#### [브라질 중앙은행, 은행 회계 규정을 투자 펀드에 확대 적용하려다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610037)
-#### [유니파츠 인도 3월 분기 순이익 5억 1150만 루피 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610036)
-#### [미국-이란 평화 협상 전망에 따른 시장 환호로 중남미 자산 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610035)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BVSP>
-#### [레몬 트리 호텔, 타밀 나두 쿰바코남에 66객실 규모의 호텔 라이선스 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610034)
-#### [스파이로소프트 1분기 순이익 1,010만 즐로티](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610033)
-#### [텐 스퀘어 게임즈, '메달 헌터' 글로벌 출시를 2026년 이후로 연기하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610032)
-#### [브리게이드 그룹, 하이데라바드에서 85억5000만 루피 규모의 프리미엄 주거 프로젝트에 JDA 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610031)
-#### [스타 제지 공장, 주당 2.5 루피의 배당금 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610030)
-#### [NLC 인도, 엔피실과 원자력 발전 JV를 위한 양해각서 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610029)
-#### [발루 포지 인더스트리, 아밋 아쇼크 토드카리 CFO 사임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610028)
-#### [로즈 머크, Zclus 인도에 1억 8천만 루피 투자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610027)
-#### [법원 판결로 터키의 제1야당인 정의개발당에 대한 단속 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610026)
-#### [캘리포니아의 과열 화학 물질 탱크가 더 이상 폭발 위험이 없다고 소방 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610025)
-#### [우크라이나, 브라이언 스크 지역의 러시아 석유 저장소를 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610024)
-#### [멕시코, 미국 거부 후이란 월드컵 팀 개최, 대통령은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610023)
-#### [레오, AI 선언문을 통해 전 세계에 변화를 촉구한 교황의 반열에 합류하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610022)
-#### [맨 인더스트리(인도) 3월 분기 순이익 508.5백만 루피](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610021)
