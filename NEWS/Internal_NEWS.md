@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260525_2106 </title></head>
-<center>Vers : 20260525_2106 </center>
-<center>Vers : 20260526_0606 </center>
+<head><meta charset="utf-8"><title>Vers : 20260525_2302 </title></head>
+<center>Vers : 20260525_2302 </center>
+<center>Vers : 20260526_0802 </center>
 <br><br><br>
+#### [몰도바 중앙은행 총재, 2026년 인플레이션이 8.0%를 넘어설 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610132)
+#### [칠레 안토파가스타 지역의 지진 피해에 대한 코델코의 보고서 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610131)
+#### [브라질 중앙은행, 7월 만기 스와프 롤오버 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610130)
+#### [안토파가스타 광물, 칠레 안토파가스타 지역 지진 이후 정상적으로 운영되고 있다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610129)
+#### [브라질의 이콰토리얼, 코파사의 주요 투자자가 되기 위해 입찰서를 제출했다고 Valor가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610128)
+#### [GFZ, 규모 6.9의 지진이 칠레 북부를 강타했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610127)
+#### [브라질 에게아, 주주들이 코파사 민영화에 주도적 투자자가 되기 위해 입찰서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610126)
+#### [규모 6.5의 지진이 칠레 북부를 강타했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610125)
+#### [이란 평화 협상에 무게를 두면서 미국 원유 선물 <CLc1>이 $5.57 또는 5.7% 하락한 $91.15/BBL로 마감했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610124)
+#### [캐나다, 이스라엘에 소 함대 대원에 대한 '끔찍한'대우 조사 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610123)
+#### [이란 진전에 대한 BUZZ-AUD / USD 기업, 이익은 일시적 일 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610122)
+#### [에단 앨런 인테리어, 운영 간소화 및 비용 절감을 위해 전국적으로 쇼룸과 인력을 축소 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610121)
+#### [쿠바, 4월 사면으로 석방된 수감자 명단 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610120)
+#### [레오 교황, 첫 주요 선언문에서 전 세계에 AI에 대한 '속도 늦추기' 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610119)
+#### [코펠의 엘레조르, 'UBP' 할부금 재협상 후 4억2천60만 헤알 지불 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610118)
+#### [아랍에미리트에서 추방된 파키스탄 시아파가 동결된 예금과 함께 돌아옵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610117)
 #### [이란에서 폭발음 들려, 원인 불명, 이란 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610116)
 #### [쿠바, 4월 사면 이후 석방된 수감자 명단 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610115)
 #### [이란 반다르 압바스시에서 폭발음 들려, 원인 미상, Mehr 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610114)
@@ -52,20 +68,3 @@
 #### [이란, 미국과 전투 종식 협상 후 30 일 후 호르무즈 해협 개방, 소식통을 인용 한 닛케이 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610075)
 #### [키예프가 확전을 경고하는 가운데 벨라루스 야당 지도자, 우크라이나 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610074)
 #### [Target은 더 심층적인 AI 채택을 추진하고 사용량 기반 가격 책정을 검토한다고 인도 책임자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610073)
-#### [영국은 5월 기록상 가장 더운 날에 빵을 굽습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610072)
-#### [카타르에너지, 불가항력적 상황을 8월 중순까지 연장한다고 이탈리아의 에디슨이 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610071)
-#### [러시아 정교회 성직자, 체코 경찰이 차량에서 발견한 흰색 물질과의 연관성 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610070)
-#### [바르샤바 증권거래소 1분기 순이익 6960만 즐로티 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610069)
-#### [모타 엔길, 2억 730만 유로에 새로운 사인스 기가팩토리 1단계 건설 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610068)
-#### [벨기에 마을 주민들이 건물 화재로 인한 폭발 위험으로 대피했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610067)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610066)
-#### [이탈리아 재무부, 5 월 28 일 경매에서 최대 105 억 유로의 채권 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610065)
-#### [이탈리아 재무부, 5 월 28 일 경매에서 최대 105 억 5 천만 유로의 채권 매각 - Reuters News](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610064)
-#### [카니, 앨버타 분리독립 투표가 '위험한 허풍'이 될 수 있다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610063)
-#### [EU 밀은 유로화 강세로 하락하고 시카고 마감으로 거래가 얇아졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610062)
-#### [EDPR, 미국 100MWac 태양광 프로젝트 구축 및 이전 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610061)
-#### [안토넬리는 페라리를 연승 행진에 큰 위협으로 여깁니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610060)
-#### [러시아 중앙은행, 동결 자산에 대해 EU 법원에 두 번째 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610059)
-#### [이란 평화 기대감에 유가와 달러가 약세를 보이는 가운데 증시 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610058)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.TWII>
-#### [브라질 중앙은행, 은행 회계 규정을 투자 펀드까지 확대하려 합니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2610057)
