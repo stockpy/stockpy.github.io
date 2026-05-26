@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260526_1825 </title></head>
-<center>Vers : 20260526_1825 </center>
-<center>Vers : 20260527_0325 </center>
+<head><meta charset="utf-8"><title>Vers : 20260526_2030 </title></head>
+<center>Vers : 20260526_2030 </center>
+<center>Vers : 20260527_0530 </center>
 <br><br><br>
 #### ["하이닉스 비켜"…27만원→157만원 개미 '환호'](https://m.stock.naver.com/news/ranknews/view/215/0001253393)
 #### [SK하이닉스 40억 올인했던 개미…'3주 만에' 51억된 계좌 인증](https://m.stock.naver.com/news/ranknews/view/421/0008966039)
