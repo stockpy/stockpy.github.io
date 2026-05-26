@@ -1,7 +1,42 @@
-<head><meta charset="utf-8"><title>Vers : 20260526_2207 </title></head>
-<center>Vers : 20260526_2207 </center>
-<center>Vers : 20260527_0707 </center>
+<head><meta charset="utf-8"><title>Vers : 20260526_2321 </title></head>
+<center>Vers : 20260526_2321 </center>
+<center>Vers : 20260527_0821 </center>
 <br><br><br>
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611628)
+#### [미국 판사, 트럼프 시대 정책에 따라 웨스트 포인트 교수진 발언 제한 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611627)
+#### [미국, USMCA 국가에 대한 관세 유지, 캐나다와의 문제 '중요', Greer는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611626)
+#### [일본 닛케이, 2027년 6만 9,000명 기록 경신으로 경쟁사 앞지르며 상승세 이어갈 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611625)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [멕시코의 파마시아스 베나비데스, 공식 증권 등록소에서 상장 폐지 절차 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611624)
+#### [BUZZ-재생-EUR / USD 우려, 스털링 안정성, USD / JPY 옵션 눈 160](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611623)
+#### [영국은 적의 위협이 증가함에 따라 '결과의 순간'에 직면 해 있다고 스파이 책임자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611622)
+#### [S&P 500, 나스닥, AI 낙관론에 사상 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611621)
+#### [NTSB, FAA에 폭우 시 활주로 안전 평가 수정 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611620)
+#### [글로벌파운드리 하락, 무바달라 19억1천만 달러 주식 매각 눈독, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611619)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GFS.O/total>
+#### [기본은 평평하거나 더 높습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611618)
+#### [델라웨어 법원은 소도시의 선거에서 기업의 투표를 지지합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611617)
+#### [NASA, 달 탐사 임무에 블루 오리진, 다른 우주 기업 선정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611616)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FLY.O/total>
+#### [NZD/USD가 RBNZ 금리 콜을 앞두고 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611615)
+#### [IREN, Dell으로부터 약 16억 달러에 블랙웰 시스템 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611614)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IREN.O/total>
+#### [앨라배마 주, 의료 서비스 제공자에게 FDA 승인되지 않은 펩타이드 사용 금지 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611613)
+#### [선물 하락으로 미국 평야 HRW 밀-기초 입찰은 보합세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611612)
+#### [엘리먼트, 선순위 채권 사모 공모 가격 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611611)
+#### [AI 플랫폼 사용자 증가에 따른 아고라 1분기 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611610)
+#### [Ai 추론 제공 업체 Baseten, 110 억 달러 가치로 10 억 달러의 자금 조달을위한 회담에서 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611609)
+#### [스텔란티스, 대형 알파 로메오를 위한 플랫폼 옵션 연구, 유럽 최고운영책임자(COO) 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611608)
+#### [Mubadala, 19 억 1 천만 달러 규모의 GlobalFoundries 주식 블록, 각각 86.30 ~ 86.80 달러에 판매 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611607)
+#### [미국 시민권자인 미국 기반, 연중무휴 기술 지원을 제공하는 AWS Govcloud(미국) 고객 - 블로그](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611606)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [알라바마주 건강검진위원회 의사는 앨라바마주 약국위원회에서 허가한 기관에서 처방약, 성분을 구매해야 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611605)
+#### [등급 혼조세, WTI/브렌트 스프레드 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611604)
+#### [웹코 인더스트리 3분기 매출, 매출 총이익률 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611603)
+#### [블랙록, 브라질 우시미나스 우선주 지분 5.07%로 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611602)
+#### [아고라 1분기 매출 미화 377.45백만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611601)
+#### [브라질 아줄: 보통주 및 주식예탁증서, 뉴욕증권거래소 아메리칸 상장 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611600)
+#### [대학 스포츠 단체, 벨라루스 선수 복권, 러시아인에 대한 제한 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611599)
 #### [브라질의 BRB 위기는 보증 기금 대출을 통해 해결 될 수 있다고 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611598)
 #### [웹코 인더스트리 3분기 순이익 미화 800만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611597)
 #### [3월 31일로 마감된 분기 실적 보고 - 수익 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611596)
@@ -37,36 +72,3 @@
 #### [뉴트리언, 최대 10억 달러 규모의 2부 채권 발행을 위한 최종 조건서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611571)
 #### [미국, 관세 인하 대상 중국산 제품에 대한 대중 의견 구하기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611570)
 #### [매니토바 작황 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611569)
-#### [미국산 오일 및 지방 - 5월 26일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611568)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611567)
-#### [머스크는 동료들과 테슬라-스페이스X를 함께 접을 가능성에 대해 논의했습니다 - CNBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611566)
-#### [CME 소 선물은 4월 사육두수 증가로 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611565)
-#### [일본, 남미 메르코수르 블록, 무역 협상에 대한 논의 시작, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611564)
-#### [걸프 분쟁으로 ICE 카놀라 선물 반등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611563)
-#### [BUZZ-COMMENT-RBNZ는 보류될 가능성이 높습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611562)
-#### [제프리스, 학생 비자 보조금 감소로 호주 IDP 교육이 타격을 입다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611561)
-#### [멕시코 억만장자 슬림, 라카흐 유전 프로젝트는 '비합리적'이라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611560)
-#### [마스터브랜드 - FTC, 마스터브랜드와 아메리칸 우드마크의 합병 제안에 대한 조사 종결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611559)
-#### [포젠트 파워 솔루션즈, 클래스 A 보통주 공모 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611558)
-#### [크레스톤 스트래티직 캐피털 인수, 보통주 750만주로 7,500만 달러 규모의 기업공개(IPO)를 시작합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611557)
-#### [볼소나루 브라질 상원의원, 백악관에서 트럼프와 만나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611556)
-#### [선 라이프, 일반 코스 발행자 입찰 갱신에 대한 규제 당국의 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611555)
-#### [DELPHX, 전환사채 사모 발행 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611554)
-#### [브룩필드 코퍼레이션과 브룩필드 웰스 솔루션, 기업 간소화를 위한 이사회 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611553)
-#### [Vestand, 10-Q 및 10-K 후기 제출 및 계속 상장 요건에 관한 나스닥 직원 결정 통지서 수신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611552)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VSTD.O/total>
-#### [오시스코 개발, 총 원금 2억2500만 달러 규모의 4.125% 전환사채 공모 마감 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611551)
-#### [아르텔로 바이오사이언스, HC 웨인라이트 통해 최대 653만 달러의 보통주 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611550)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ARTL.O/total>
-#### [미국 우주군, 스페이스X와 군용 우주 데이터 네트워크 22억 9천만 달러 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611549)
-#### [트릴리엄 인수, 적격 거래 완료를 위해 Snflwr 인베스트먼트 코퍼레이션과 의향서 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611548)
-#### [Atco Power Alberta 385MW 배틀 리버 5 석탄 발전소 온라인 - Alberta ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611547)
-#### [지스케일러, 치열한 경쟁 속에서 4분기 매출 부진 전망 후 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611546)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ZS.O/total>
-#### [캐나다, 에볼라 발생으로 일부 이민 서류 중단, 격리 조치 시행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611545)
-#### [미국, 에볼라에 노출된 미국인을 위해 케냐에 격리 시설 설치, WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611544)
-#### [마이크론이 급등함에 따라 메모리 칩 가격이 높게 유지 될 것이라고 전문가는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611543)
-#### [인공지능 열차가 달립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611542)
-#### [영국 블레어 전 총리, 노동당에 인격이 아닌 정책에 집중할 것 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611541)
-#### [퍼스트에너지의 오하이오 전기 회사, 안정적인 서비스 지원 및 고객 지원 확대를 위한 3개년 요금제 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611540)
-#### [미국산 밀 등급 사상 최저치 기록, 옥수수 86% 파종, 대두 79% 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2611539)
