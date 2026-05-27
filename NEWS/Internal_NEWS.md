@@ -1,7 +1,31 @@
-<head><meta charset="utf-8"><title>Vers : 20260527_2220 </title></head>
-<center>Vers : 20260527_2220 </center>
-<center>Vers : 20260528_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20260527_2340 </title></head>
+<center>Vers : 20260527_2340 </center>
+<center>Vers : 20260528_0840 </center>
 <br><br><br>
+#### [독점-미국,이란에서 군사 사이트에 대한 새로운 파업 실시, 관계자는 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613351)
+#### [일본, 투자 계획에 자금을 지원하기 위해 '브릿징 채권'을 발행한다고 Nikkei는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613350)
+#### [LG에너지솔루션, 미국 DTE에너지와 16억 달러 규모의 ESS 배터리 공급 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613349)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613348)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613347)
+#### [BUZZ-재생-호주 워시아웃, IMM 미리보기, 엔 역풍](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613346)
+#### [캐나다의 제안 된 Ksi Lisims LNG 시설, '여러'유럽 유틸리티 공급을위한 협상 중, Western LNG CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613345)
+#### [영국 소비자 서비스 부문 심리가 1년 만에 최저치로 떨어졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613344)
+#### [런던, 파리에서 유럽 최고의 기술 자리를 되찾다, 딜룸은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613343)
+#### [글로벌 시장 긴장으로 4월 영국 자동차 생산량 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613342)
+#### [영국 식품 제조업체의 신뢰도, 2022년 에너지 위기 이후 최저치로 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613341)
+#### [미국, 유엔 전문가 알바니즈를 제재 대상자 명단에 다시 올렸다고 재무부 웹 사이트에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613340)
+#### [기본 제공은 꾸준히 유지됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613339)
+#### [매파적 RBNZ 편향에 BUZZ-NZD/USD 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613338)
+#### [러시아가 우크라이나 마을 두 곳을 추가로 점령했다고 말하자 우크라이나는 보고서에 의문을 제기합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613337)
+#### [닌자 워리어 장애물, 2028 LA 올림픽 근대 5종에 등장할까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613336)
+#### [이란 언론, 반다르 압바스 동쪽에서 세 차례 폭발음이 들렸다고 전함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613335)
+#### [브라질 대선 후보 보우소나루, 워싱턴 트레일에서 루비오, 밴스 연설 추가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613334)
+#### [코슬라 벤처스 파트너 에단 최, 새 회사 아토머스 설립 위해 떠나며 5억 달러 자금 조달 모색 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613333)
+#### [블랙록, 브라질 클라빈의 우선주 지분을 10%로 낮추다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613332)
+#### [오션호크 인수, 초과배정 옵션의 전체 행사 종결 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613331)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OHACU.O/total>
+#### [법무부 반독점 금지 조치로 민간 기업의 꾸준한 고용이 이어지고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613330)
+#### [애질런트, 실험실 도구에 대한 수요 증가로 2026년 수익 전망 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613329)
 #### [웰스파고 CEO, 투자 은행, 트레이딩 부문에서 10% 중반 성장 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613328)
 #### [캐리지 서비스, 맥카몬 아몬스 클릭 장례식장 인수로 테네시주 녹스빌 광역 시장 진출 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613327)
 #### [나이트 테라퓨틱스, 멕시코에서 타발리스® 출시 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613326)
@@ -45,32 +69,3 @@
 #### [아메리콜드, 연간 2,500만 달러 이상의 간접비 절감을 목표로 전략적 우선순위를 추진하는 '목적에 부합하는' 이니셔티브 출범](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613294)
 #### [트리플 플래그 귀금속, 최대 1억 3,325만 주 주주 매각을 통한 재매각을 위한 투자 설명서 보완서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613293)
 #### [플린트 힐스 코퍼스 크리스티 웨스트, 텍사스 정유 공장, 1단계 및 2단계 플레어에서 플레어 발생 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613292)
-#### [Marvell CEO: 2027 회계연도 전체 매출이 전년 대비 약 40% 성장하여 거의 115억 달러에 육박할 것으로 예상 - 컨퍼런스 콜](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613291)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRVL.O/total>
-#### [페렐라 와인버그 파트너스 대변인 - 12명의 파트너를 포함하여 회사 직원의 거의 10%가 감원될 예정입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613290)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PWP.O/total>
-#### [인디애나 주 프랭크포트의 리치몬드 상호 은행과 파머스 뱅코프 간의 합병, 주주 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613289)
-#### [LM 펀딩 아메리카, 새로운 1,100만 달러 대출로 대출 만기 2026년 8월 28일까지 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613288)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LMFA.O/total>
-#### [페리니 관리 서비스, 알래스카 코디악에서 8,180만 달러 규모의 미국 해안경비대 가족 주택 프로젝트 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613287)
-#### [타겟 호스피탈리티, 세컨더리 오퍼링 출시 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613286)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TH.O/total>
-#### [미국, 유엔 전문가 알바니즈를 제재 대상자 목록에 다시 추가, 재무부 웹 사이트에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613285)
-#### [2032년 만기 7억2500만 달러 4.850% 선순위 채권 발행을 위한 개요-발레르토 코퍼레이션, 2032년 발행 계획 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613284)
-#### [크라켄, 은행권을 통한 GBP 자금 조달에 영향을 미치는 문제 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613283)
-#### [Bbb Foods Inc. 후속 오퍼링 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613282)
-#### [트루이스트, 2027년 6월 만기 선순위 채권 상환 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613281)
-#### [미국 비상 비축유가 처음으로 캘리포니아로 향한다고 Kpler는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613280)
-#### [아마존, 암웰 공동 창업자에게 헬스케어 사업부 책임 맡기고 오랜 임원 퇴임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613279)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [태평양 오크 전략적 기회 리츠 - 화이트호크 캐피탈 파트너스로부터 신용 계약에 따른 즉시 지불 요구를 받았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613278)
-#### [미국 원유 재고, 제품 재고는 지난주 감소했을 가능성이 높습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613277)
-#### [유니버설 헬스 서비스, 배당금 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613276)
-#### [북한은 결코 핵무기를 포기하지 않을 것이라고 KCNA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613275)
-#### [2분기에 5,450만 달러의 예비비 이익이 조정된 지표를 벗어남에 따라 Accelerant는 1분기에 CFO 이탈로 840만 달러의 비용을 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613274)
-#### [화강암, 플로리다 오렌지 카운티에서 4,100만 달러 규모의 프로젝트 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613273)
-#### [칼튼 아리아 인수, 10-Q 양식의 분기별 보고서 제출 연체에 관한 나스닥 통지서 접수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613272)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CHAR.O/total>
-#### [도이츠 AG, 약 4천만 유로의 추가 수익이 예상된다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613271)
-#### [캐나다의 Ksi Lisims LNG, '여러'유럽 유틸리티 공급 협상 중, 제안자 CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613270)
-#### [영국 젊은이 6명 중 1명은 취업 시장이나 교육에서 벗어날 위험이 있다고 보고서가 경고합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2613269)
