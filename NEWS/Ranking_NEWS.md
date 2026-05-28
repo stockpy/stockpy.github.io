@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260528_1837 </title></head>
-<center>Vers : 20260528_1837 </center>
-<center>Vers : 20260529_0337 </center>
+<head><meta charset="utf-8"><title>Vers : 20260528_2058 </title></head>
+<center>Vers : 20260528_2058 </center>
+<center>Vers : 20260529_0558 </center>
 <br><br><br>
 #### [“이러다 시총 1위 뒤바뀌는 거 아냐”…삼전 ‘뛸때’ 하이닉스 977% 날았다](https://m.stock.naver.com/news/ranknews/view/009/0005686535)
 #### [“주가 120만원, 두배로 오른다” 파격 전망에…‘삼전’ 던진 초고수 투자자, ‘이것’ 샀다](https://m.stock.naver.com/news/ranknews/view/016/0002649489)
