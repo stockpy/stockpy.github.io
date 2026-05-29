@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260529_1833 </title></head>
-<center>Vers : 20260529_1833 </center>
-<center>Vers : 20260530_0333 </center>
+<head><meta charset="utf-8"><title>Vers : 20260529_2059 </title></head>
+<center>Vers : 20260529_2059 </center>
+<center>Vers : 20260530_0559 </center>
 <br><br><br>
 #### [“주식하면서 이런 날은 처음 보네요”…‘LG’ 들어간 주식, 전부 타올랐다](https://m.stock.naver.com/news/ranknews/view/009/0005687095)
 #### ['1억→67억원' 소유 "10년 전 산 하닉·삼전 덕에 내집 마련"](https://m.stock.naver.com/news/ranknews/view/018/0006293690)
