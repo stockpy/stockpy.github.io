@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260529_2240 </title></head>
-<center>Vers : 20260529_2240 </center>
-<center>Vers : 20260530_0740 </center>
+<head><meta charset="utf-8"><title>Vers : 20260529_2352 </title></head>
+<center>Vers : 20260529_2352 </center>
+<center>Vers : 20260530_0852 </center>
 <br><br><br>
+#### [멕시코, 120억 달러의 부채를 재융자하고 5억 달러의 신규 채권 발행 추가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616703)
+#### [블루 오리진 로켓이 폭발한 이유는 무엇이며, 해당 섹터에 타격이 될까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616702)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616701)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616700)
+#### [미국 국경에서 31마일 이내에서 살을 먹는 나사벌레가 발견되었다고 USDA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616699)
+#### [미국 국경에서 31 마일 이내에서 살을 먹는 나사 벌레가 발견되었다고 USDA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616698)
+#### [월스트리트, 기술 강세, 이란 협상 희망으로 종가 최고치 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616697)
+#### [노르게스 은행, C&A 모다스 지분 5.05%로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616696)
+#### [축출 된 BP의 매니 폴드 회장이 거래 협상을 놓고 이사들과 충돌했다고 WSJ은 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616695)
+#### [기본은 안정에서 혼합까지 제공합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616694)
 #### [버지니아 고속도로에서 연쇄 버스 충돌로 5 명 사망, 40 명 이상 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616693)
 #### [브라질 장관, 미국의 지역 갱단 테러 지정이 경제에 영향을 미칠 수 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616692)
 #### [트럼프, HHS 백신 평가를 연방 지침으로 사용하라는 명령 서명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616691)
@@ -58,17 +68,3 @@
 #### [미국 원자력 발전 용량이 금요일에 6,032MW로 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616645)
 #### [과학 - 2026년 5월 26일부로 에릭 셔브, CFO직 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616644)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SCNX.O/total>
-#### [중국, 브라질 JBS 부대에서 쇠고기 수입 중단, 글로보 농촌 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616643)
-#### [미국 원자력 발전 용량이 금요일에 6,032MW로 증가했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616642)
-#### [엑스포 월드 - 법원, 엑스포 월드 참가를 포함한 투코리 합의에 대한 예비 승인 부여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616641)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AGNT.O/total>
-#### [IMA 실사 서비스-데이터 이벤트 통지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616640)
-#### [룬딘 골드 주식 자본 및 의결권 업데이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616639)
-#### [CID Holdco - 2026년 5월 25일부터 직원 임시 휴직 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616638)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DAIC.O/total>
-#### [아미고 LNG, 아미고 LNG 프로젝트의 발전을 위한 중요 인허가 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616637)
-#### [Diginex Ltd - 제안 된 결과 틱 인수를위한 장기 정지 날짜 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616636)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DGNX.O/total>
-#### [리사 타 테라퓨틱스, 합병 제안 가격을 주당 4 달러와 CVR로 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616635)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LSTA.O/total>
-#### [미국 관세국경보호청, 팍스랩의 재설계된 카트리지가 팍스랩의 특허를 침해하지 않는다고 판결하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616634)
