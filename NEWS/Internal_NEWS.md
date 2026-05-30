@@ -1,7 +1,26 @@
-<head><meta charset="utf-8"><title>Vers : 20260530_1704 </title></head>
-<center>Vers : 20260530_1704 </center>
-<center>Vers : 20260531_0204 </center>
+<head><meta charset="utf-8"><title>Vers : 20260530_1915 </title></head>
+<center>Vers : 20260530_1915 </center>
+<center>Vers : 20260531_0415 </center>
 <br><br><br>
+#### [중동 분쟁이 지속됨에 따라 브라질, 연료 보조금 갱신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616819)
+#### [천연가스 파이프라인 중요 공지: 2026년 5월 31일 기준 남부 천연가스 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616818)
+#### [클라이언트, 타오 디지털 인수 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616817)
+#### [소프트뱅크, 프랑스에 대규모 투자로 AI 데이터 센터 구축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616816)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
+#### [UK의 번햄, 그가 총리가 될 경우 스냅 선거를 고려한다고 The Sun이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616815)
+#### [독일 시위대, 천연가스 생산에 반대하는 풍차 결성?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616814)
+#### [인권 단체, 미국 최대 이민 구치소 조건에 대해 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616813)
+#### [미국 북서부 강 유량이 89%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616812)
+#### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616811)
+#### [영국의 번햄, 그가 총리가되면 스냅 선거를 고려한다고 The Sun은 보도합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616810)
+#### [미국 판사, 트럼프의 국세청 소송 합의 검토 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616809)
+#### [WHO 수장, 에볼라 발병 중심지 방문에서 안전한 매장 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616808)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616807)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616806)
+#### [트럼프, 아티스트 철수 후 워싱턴 DC에서 프리덤 250 콘서트 취소 고려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616805)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616804)
+#### [IAM 회원, 새로운 계약 승인으로 록아웃 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616803)
+#### [브라질, 상파울루에서 에볼라 의심 사례 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616802)
 #### [트럼프, 아티스트 탈퇴 후 미국 수도에서 콘서트 중단 고려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616801)
 #### [BW LPG, 현대중공업과 90'Cbm 파나막스 신조 8척 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616800)
 #### [스위스, 노르웨이를 6-0으로 꺾고 세계선수권 결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616799)
@@ -56,21 +75,3 @@
 #### [인도, 면화 수입에 대한 모든 관세 면제, 통지에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616762)
 #### [BP의 축출된 매니폴드 회장이 거래 협상을 놓고 이사들과 충돌했다고 WSJ이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616761)
 #### [블루 오리진, 로켓 폭발로 발사대 손상 후 수개월 지연에 직면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616760)
-#### [아다니 에너지 솔루션, 2026년 5월 30일부로 쿤잘 메타가 CFO직 사임한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616759)
-#### [독점-더 나은 중국 관계는 지역 평화와 안보에 도움이 될 수 있다고 베트남 최고 지도자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616758)
-#### [베제키, 이탈리아 GP 폴로 랩 기록 경신, 마틴 최고 속도 기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616757)
-#### [에반스가 일본에서 오지에를 이끌고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616756)
-#### [캐나다의 광범위한 시민권 규정이 미국의 큰 관심을 끌고 있다는 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616755)
-#### [작은 가이아나, 큰 이란 석유 이익과 성장 긴장을 맞이할 준비](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616754)
-#### [상원 공화당 원들은 트럼프의 '무기화 방지'기금을 놓고 정치적 칼날을 마주하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616753)
-#### [우크라이나 드론이 러시아 남부의 항구, 석유 저장소를 공격했다고 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616752)
-#### [드론 목격 가능성으로 뮌헨 공항에서 비행이 잠시 중단되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616751)
-#### [AUKUS, 무인 해저 차량 개발, 국방부 장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616750)
-#### [카메네이 고문, 트럼프가 봉쇄와 과도한 요구로 '배신 외교'라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616749)
-#### [러시아, 투표를 앞두고 EU 관계에 대해 아르메니아 특사 소환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616748)
-#### [AUKUS, 무인 해저 차량 개발, 국방부 장은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616747)
-#### [이탈리아, 보안 우려로 카니예 웨스트, 트래비스 스콧 콘서트 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616746)
-#### [드론 목격 가능성으로 뮌헨 공항에서 항공편 운항 중단, 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616745)
-#### [인도 정부, 아르셀로미탈 니폰스틸 인디아, 전략적 투자 계획 승인 획득 안드라프라데시주, ITI 혁신 선도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616744)
-#### [독점-더 나은 중국 관계는 지역 평화와 안보에 도움이 될 수 있다고 베트남 최고 지도자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616743)
-#### [우크라이나 드론이 러시아 타간 로크의 정유소를 공격했다고 우크라이나 사령관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616742)
