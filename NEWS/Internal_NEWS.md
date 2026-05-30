@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260530_1915 </title></head>
-<center>Vers : 20260530_1915 </center>
-<center>Vers : 20260531_0415 </center>
+<head><meta charset="utf-8"><title>Vers : 20260530_2057 </title></head>
+<center>Vers : 20260530_2057 </center>
+<center>Vers : 20260531_0557 </center>
 <br><br><br>
+#### [강호 핀란드, 캐나다를 꺾고 세계선수권 결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616827)
+#### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616826)
+#### [트랜살타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616825)
+#### [온타리오 123MW 벡 2 PGS 수력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616824)
+#### [인도, 휘발유, 디젤 및 항공 터빈 연료에 대한 수출 관세 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616823)
+#### [국방부 장관, 미국은이란에 대한 합의가 없을 경우 파업을 재개 할 준비가되어 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616822)
+#### [소프트뱅크, 프랑스에 대규모 투자로 AI 데이터 센터 구축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616821)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
+#### [비톨, 7월부터 9월까지 나미비아 연료 공급 계약 체결- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616820)
 #### [중동 분쟁이 지속됨에 따라 브라질, 연료 보조금 갱신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616819)
 #### [천연가스 파이프라인 중요 공지: 2026년 5월 31일 기준 남부 천연가스 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616818)
 #### [클라이언트, 타오 디지털 인수 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616817)
@@ -67,11 +76,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COGT.O/total>
 #### [세포성 혈액암 약물 조합, 질병 진행 위험은 낮추지만 부작용 발생률은 높습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616768)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INCY.O/total>
-#### [오만 해양 안보 센터, 호르무즈 해협에서 의심되는 해저 지뢰 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616767)
-#### [인도, 섬유 부문을 돕기 위해 면화 수입 관세 면제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616766)
-#### [인플레이션 싸움이 다시 중앙 은행 독립성을 압박하고 있다고 정책 입안자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616765)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616764)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616763)
-#### [인도, 면화 수입에 대한 모든 관세 면제, 통지에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616762)
-#### [BP의 축출된 매니폴드 회장이 거래 협상을 놓고 이사들과 충돌했다고 WSJ이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616761)
-#### [블루 오리진, 로켓 폭발로 발사대 손상 후 수개월 지연에 직면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616760)

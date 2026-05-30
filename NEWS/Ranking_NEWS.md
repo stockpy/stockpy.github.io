@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260530_1915 </title></head>
-<center>Vers : 20260530_1915 </center>
-<center>Vers : 20260531_0415 </center>
+<head><meta charset="utf-8"><title>Vers : 20260530_2057 </title></head>
+<center>Vers : 20260530_2057 </center>
+<center>Vers : 20260531_0557 </center>
 <br><br><br>
 #### [“올 초 27만원→212만원 폭등”…또 사상 최고가, 현대차 제치고 ‘시총 4위’ 등극](https://m.stock.naver.com/news/ranknews/view/016/0002650131)
 #### [“메모리 반도체 천하”…삼전닉스에 이어 마이크론도 1조 달러 클럽 입성](https://m.stock.naver.com/news/ranknews/view/009/0005687231)
