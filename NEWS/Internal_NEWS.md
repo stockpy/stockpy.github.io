@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260530_2204 </title></head>
-<center>Vers : 20260530_2204 </center>
-<center>Vers : 20260531_0704 </center>
+<head><meta charset="utf-8"><title>Vers : 20260530_2312 </title></head>
+<center>Vers : 20260530_2312 </center>
+<center>Vers : 20260531_0812 </center>
 <br><br><br>
+#### [영국 외무장관, 글로벌 이슈 논의 위해 중국과 인도 방문 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616836)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616835)
+#### [스페인의 강풍으로 개막전부터 차질을 빚은 뉴욕 SailGP](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616834)
+#### [ECB는 조만간 인플레이션에 대해 조치를 취해야한다고 정책 입안자 Pereira는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616833)
 #### [소프트뱅크, 프랑스에 AI 시설 건설에 750억 유로 투자 약속 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616832)
 #### [바이엘, 2상 Aracog 일대일 임상시험이 1차 평가지표를 충족했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616831)
 #### [환호하는 PSG 지지자들, 파리 거리로 쏟아져 나와 일부 경찰과 충돌](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616830)
@@ -65,11 +69,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
 #### [다음 주에 출시될 최초의 엔비디아 칩 기반 Windows PC - Axios](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616778)
 #### [이매틱스, 치료가 어려운 부인암에서 Ima203cd8 프라임 세포 치료제의 임상 활동 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616777)
-#### [베라시테, 엔자멧 시험에서 전이성 전립선암에서 디사이퍼 전립선 검사로 화학요법 혜택을 확인했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616776)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VCYT.O/total>
-#### [Grail, 4기 암 진단의 상당한 감소를 입증하는 Nhs-Galleri 임상시험의 전체 결과 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616775)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GRAL.O/total>
-#### [Incyte, 프론트마인드 임상시험에서 고위험 만성골수성백혈병 환자의 질병 진행 또는 사망을 25% 감소시켰다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616774)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INCY.O/total>
-#### [이뮤놈, 바레가세스타트 치료로 1차 및 모든 주요 2차 유효성 평가변수에서 통계적으로 유의미한 개선이 나타났다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616773)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IMNM.O/total>
