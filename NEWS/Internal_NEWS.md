@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260530_2057 </title></head>
-<center>Vers : 20260530_2057 </center>
-<center>Vers : 20260531_0557 </center>
+<head><meta charset="utf-8"><title>Vers : 20260530_2204 </title></head>
+<center>Vers : 20260530_2204 </center>
+<center>Vers : 20260531_0704 </center>
 <br><br><br>
+#### [소프트뱅크, 프랑스에 AI 시설 건설에 750억 유로 투자 약속 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616832)
+#### [바이엘, 2상 Aracog 일대일 임상시험이 1차 평가지표를 충족했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616831)
+#### [환호하는 PSG 지지자들, 파리 거리로 쏟아져 나와 일부 경찰과 충돌](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616830)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616829)
+#### [드론 공격이 우크라이나 자 포리 지아 원자력 발전소의 터빈 건물을 강타했다고 IAEA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616828)
 #### [강호 핀란드, 캐나다를 꺾고 세계선수권 결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616827)
 #### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616826)
 #### [트랜살타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616825)
@@ -68,11 +73,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INCY.O/total>
 #### [이뮤놈, 바레가세스타트 치료로 1차 및 모든 주요 2차 유효성 평가변수에서 통계적으로 유의미한 개선이 나타났다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616773)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IMNM.O/total>
-#### [1 실패 흑색종에서 전체 생존기간 중앙값 32.9개월 달성했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616772)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/REPL.O/total>
-#### [화이자, 탈제나 플러스 엑스탄디, 전이성 전립선암에서 방사선 무진행 생존기간 50% 이상 개선했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616771)
-#### [시 정상 회담에도 불구하고 필리핀은 여전히 중국의 위협을 받고 있다고 장관은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616770)
-#### [코젠트 바이오사이언스, 베주클라스티닙과 수니티닙 병용 임상 3상 시험의 상세 임상 데이터 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616769)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COGT.O/total>
-#### [세포성 혈액암 약물 조합, 질병 진행 위험은 낮추지만 부작용 발생률은 높습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616768)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INCY.O/total>
