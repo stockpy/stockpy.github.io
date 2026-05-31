@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260531_2100 </title></head>
-<center>Vers : 20260531_2100 </center>
-<center>Vers : 20260601_0600 </center>
+<head><meta charset="utf-8"><title>Vers : 20260531_2259 </title></head>
+<center>Vers : 20260531_2259 </center>
+<center>Vers : 20260601_0759 </center>
 <br><br><br>
+#### [한 주간의 브레이킹뷰: 인공지능의 역습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616986)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616985)
+#### [아이스하키- 핀란드가 세계 결승에서 스위스를 꺾은 헬레니우스가 영웅이 되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616984)
+#### [내년 채권 테이퍼 중단 요청에 귀를 기울일 수 있는 RPT-ANALYSIS-BOJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616983)
+#### [캉고, 2026년 1분기 총 매출 1억 2,000만 달러 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616982)
+#### [콜롬비아 우파 후보 데 라 에스프리엘라, 좌파 세페다 결선 진출 준비](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616981)
+#### [대부분의 EU 국가는 회사 전기 자동차에 대한 강력한 세금 인센티브가 부족하다고 T&E는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616980)
+#### [Citi, 호주 복권 공사 2H26 수익이 예상치를 놓칠 것으로 예상, 복권 수요 약화 표시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616979)
+#### [6.0 칠레 발파라이소 인근 강진 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616978)
+#### [영국 외무 장관, 레바논에서 이스라엘 군사 행동 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616977)
+#### [콜롬비아 우익 윙어 데 라 에스프리엘라가 대선 투표에서 좌파 세페다와 거의 동률을 이뤘습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616976)
+#### [중국과 중동 우려로 BUZZ-AUD/USD 하락 개장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616975)
+#### [칠레 산티아고에서 느껴진 지진 - 로이터 목격자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616974)
+#### [호주, 긴장감 넘치는 뉴욕 결승전 끝에 SailGP 3연패 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616973)
+#### [주말 뉴스-중국 PMI 정체, 미국, 이란 공격 재개 준비 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616972)
+#### [브라질 페트로브라스, 캐시백 제도 시행으로 유통업체의 디젤 가격 인하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616971)
+#### [핀란드가 세계 결승에서 스위스를 꺾은 헬레니우스가 영웅이 되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616970)
+#### [버크셔 해서웨이, 미국 주택 건설업체 테일러 모리슨 85억 달러에 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616969)
 #### [독일 인프라 펀드가 지출 목표를 놓쳤다고 Handelsblatt는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616968)
 #### [버크셔 해서웨이, 미국 주택 건설업체 테일러 모리슨 85억 달러에 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616967)
 #### [인도 석유 공사, 19kg 상업용 LPG 실린더 가격 42 루피에서 3,113.5 루피로 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616966)
@@ -47,25 +65,3 @@
 #### [스테이블 코인 수요는 곧 사라질 수 있다고 BoE의 Greene은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616928)
 #### [종지 이노라이트, 온라인 소문에 대한 해명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616927)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300308.SZ/total>
-#### [캐나디안 퍼시픽, IBEW 파업 기간 동안 캐나다 전역 철도 운영 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616926)
-#### [페루 대선 결선 투표 일주일 전 우익 후지 모리가 근소한 선두를 유지, 여론 조사 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616925)
-#### [캐나다 퍼시픽 캔자스 시티, IBEW 파업 기간 동안 캐나다 전역의 철도 운영을 유지한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616924)
-#### [파리가 챔피언스리그 두 번째 우승을 축하하는 가운데 경기 후 폭력 사태로 200명이 부상당했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616923)
-#### [ECB, 확장에 대한 미디어 인터뷰 게재](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616922)
-#### [모터사이클-베제키, 이탈리아 그랑프리 우승으로 두카티의 100주년 기념 파티를 망쳤습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616921)
-#### [니카라과 원주민 지도자 브루클린 리베라, 주정부 구금 중 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616920)
-#### [드론 공격으로 우크라이나 자 포리 지아 원자력 발전소의 터빈 건물에 손상을 입혔다 고 IAEA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616919)
-#### [사우디 주가 상승, 이란-미국 협상 불확실성에 카타르 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616918)
-#### [월스트리트 주간 전망 보고서, 금리 경로로 미국 증시 급등, 리스크로 채권 수익률 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616917)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AVGO.O/total>
-#### [베제키, 이탈리아 그랑프리 우승으로 두카티의 100주년 기념 파티를 망쳤습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616916)
-#### [IMI와 Sky UK, 스카이 뉴스 아라비아 파트너십의 다음 단계 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616915)
-#### [니카라과 원주민 지도자 브루클린 리베라, 3년 수감 후 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616914)
-#### [J&J 전립선 암 치료제, 후기 연구에서 암 확산 및 사망 위험 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616913)
-#### [레볼루션의 췌장암 치료제가 생존율을 두 배로 높이고 삶의 질을 높입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616912)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RVMD.O/total>
-#### [아케소 폐암 치료제, 중국 임상시험에서 면역요법보다 환자 15% 더 오래 살게 해준다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616911)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9926.HK/total>
-#### [대만, 뉴욕 타임즈 기자가 대통령 인터뷰 후 추방 된 후 중국 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616910)
-#### [중국 AI 스타트업 미니막스, 상하이 스타 마켓 상장 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616909)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0100.HK/total>
