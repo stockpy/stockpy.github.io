@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20260531_1705 </title></head>
-<center>Vers : 20260531_1705 </center>
-<center>Vers : 20260601_0205 </center>
+<head><meta charset="utf-8"><title>Vers : 20260531_1917 </title></head>
+<center>Vers : 20260531_1917 </center>
+<center>Vers : 20260601_0417 </center>
 <br><br><br>
+#### [시리아의 샤라, 트럼프와 전화 통화, 시리아 대통령직은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616950)
+#### [다이애나 해운, Genco 이사회에 6명의 독립 후보 선출 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616949)
+#### [6월 1일 일요일 오후 2시 30분(미국 동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616948)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616947)
+#### [우크라이나의 젤렌스키, 겨울 전에 평화 회담 진전 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616945)
+#### [인권 단체, 미국 최대 이민 구치소 조건에 대해 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616946)
+#### [스웨덴의 EQT, 인프라 펀드에 245억 달러 목표 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616944)
+#### [이스라엘의 공격으로 가자 지구 항구 카페에서 최소 2 명이 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616943)
+#### [미국 북서부 강 유량은 89 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616942)
+#### [사이클링-빙게가드, 지로 디탈리아 우승으로 그랜드 투어 네 번째 타이틀을 거머쥐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616941)
+#### [EQT, EQT 인프라 VII의 목표 펀드 규모 210억 유로로 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616940)
+#### [캐나다의 오일샌드에 산불 시즌이 돌아옵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616939)
+#### [이란 외무 장관은 미국과의 대화와 메시지 교환이 진행 중이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616938)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616937)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616936)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616935)
+#### [빙게가드, 지로 디탈리아 우승으로 그랜드 투어 네 번째 타이틀 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616934)
 #### [노르웨이, 세계선수권에서 캐나다를 제압하고 깜짝 동메달 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616933)
 #### [브라질, 에볼라 의심 환자 2명이 다른 질병 양성 판정을 받음에 따라 에볼라 의심 사례 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616932)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616931)
@@ -53,25 +70,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002552.SZ/total>
 #### [지아메이 식품 포장의 주식 거래 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616891)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002969.SZ/total>
-#### [스마트 자이언트 테크놀로지의 주주, 지분 6% 감축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616890)
-#### [대진중공업, 선박 건조 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616889)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002487.SZ/total>
-#### [우크라이나 군이 러시아의 사라 토프 정유 공장을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616888)
-#### [나이푸 광산 기계, 지진 마이닝과 전략적 협력 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616887)
-#### [카니예 웨스트, 다른 곳에서의 공연 금지에도 불구하고 터키에서 118,000명 관객 동원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616886)
-#### [성실성 파마테크 주식 거래 재개 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616885)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301096.SZ/total>
-#### [펑화 어드밴스드 테크놀로지, 엔비디아 MLCC 인증에 대한 보도 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616884)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000636.SZ/total>
-#### [한국, 일본, 군사-물류 지원 협정 논의, 서울은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616883)
-#### [아모이 진단의 주식 거래가 중단됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616882)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300685.SZ/total>
-#### [PICC 딩 샹췬 회장, 직무 변경으로 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616881)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601319.SS/total>
-#### [뉴저지 주지사, 뉴어크 ICE 구금 시위를 선동한 타주 선동가들 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616880)
-#### [EU, 이란 전쟁으로 러시아 유가 상한선 일시 동결, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616879)
-#### [말레이시아의 5 월 팜유 수출 8.8 % 감소 -ITS](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616878)
-#### [분석-인도-태평양의 위대한 헤지 - 미국의 의구심이 커지고 중국이 부상함에 따라 더욱 깊어진 방위 관계](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616877)
-#### [에반스, 일본에서 우승하며 챔피언쉽 선두 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616876)
-#### [퍼레이드 리허설에서 경찰이 불꽃을 밝힌 후 로마를 질주하는 말들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616875)
-#### [젤렌스키, 우크라이나가 독일로부터 새로운 IRIS-T 발사기를 받았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616874)
