@@ -1,7 +1,39 @@
-<head><meta charset="utf-8"><title>Vers : 20260531_0745 </title></head>
-<center>Vers : 20260531_0745 </center>
-<center>Vers : 20260531_1645 </center>
+<head><meta charset="utf-8"><title>Vers : 20260531_1016 </title></head>
+<center>Vers : 20260531_1016 </center>
+<center>Vers : 20260531_1916 </center>
 <br><br><br>
+#### [매글 케모스위드 1분기 EBIT SEK -17.8백만](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616897)
+#### [대법원이 미국 중간선거를 재편하는 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616896)
+#### [이란의 최고 협상가 칼리 바프, 가시적 인 결과 없이는 미국과의 협상은 없다고 말했다, 국영 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616895)
+#### [일본, '신군국주의' 주장 반박하며 중국에 반격하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616894)
+#### [나토가 아시아를 안심시키는 가운데 미국은 국방 지출을 놓고 유럽을 거세합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616893)
+#### [바오딩 테크놀로지, 현재까지 엔비디아와의 접촉이나 사업 협력은 없다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616892)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002552.SZ/total>
+#### [지아메이 식품 포장의 주식 거래 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616891)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002969.SZ/total>
+#### [스마트 자이언트 테크놀로지의 주주, 지분 6% 감축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616890)
+#### [대진중공업, 선박 건조 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616889)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002487.SZ/total>
+#### [우크라이나 군이 러시아의 사라 토프 정유 공장을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616888)
+#### [나이푸 광산 기계, 지진 마이닝과 전략적 협력 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616887)
+#### [카니예 웨스트, 다른 곳에서의 공연 금지에도 불구하고 터키에서 118,000명 관객 동원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616886)
+#### [성실성 파마테크 주식 거래 재개 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616885)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301096.SZ/total>
+#### [펑화 어드밴스드 테크놀로지, 엔비디아 MLCC 인증에 대한 보도 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616884)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000636.SZ/total>
+#### [한국, 일본, 군사-물류 지원 협정 논의, 서울은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616883)
+#### [아모이 진단의 주식 거래가 중단됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616882)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300685.SZ/total>
+#### [PICC 딩 샹췬 회장, 직무 변경으로 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616881)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601319.SS/total>
+#### [뉴저지 주지사, 뉴어크 ICE 구금 시위를 선동한 타주 선동가들 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616880)
+#### [EU, 이란 전쟁으로 러시아 유가 상한선 일시 동결, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616879)
+#### [말레이시아의 5 월 팜유 수출 8.8 % 감소 -ITS](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616878)
+#### [분석-인도-태평양의 위대한 헤지 - 미국의 의구심이 커지고 중국이 부상함에 따라 더욱 깊어진 방위 관계](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616877)
+#### [에반스, 일본에서 우승하며 챔피언쉽 선두 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616876)
+#### [퍼레이드 리허설에서 경찰이 불꽃을 밝힌 후 로마를 질주하는 말들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616875)
+#### [젤렌스키, 우크라이나가 독일로부터 새로운 IRIS-T 발사기를 받았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616874)
+#### [노르웨이의 Gassco, 계획된 가스 공급 중단을 수정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616873)
 #### [분석-인도-태평양의 위대한 헤지 - 미국의 의구심이 커지고 중국이 부상함에 따라 더욱 깊어진 방위 관계](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616872)
 #### [BUZZ-IMM: 지정학적 불안감으로 CAD와 EUR가 강세를 보이면서 USD 매수세가 모멘텀을 되찾았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616871)
 #### [우크라이나 드론, 러시아 여러 지역의 목표물 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616870)
@@ -38,6 +70,10 @@
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616840)
 #### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616839)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616838)
+<head><meta charset="utf-8"><title>Vers : 20260531_1016 </title></head>
+<center>Vers : 20260531_1016 </center>
+<center>Vers : 20260531_1916 </center>
+<br><br><br>
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616837)
 #### [영국 외무장관, 글로벌 이슈 논의 위해 중국과 인도 방문 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616836)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616835)
@@ -65,10 +101,6 @@
 #### [UK의 번햄, 그가 총리가 될 경우 스냅 선거를 고려한다고 The Sun이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616815)
 #### [독일 시위대, 천연가스 생산에 반대하는 풍차 결성?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616814)
 #### [인권 단체, 미국 최대 이민 구치소 조건에 대해 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616813)
-<head><meta charset="utf-8"><title>Vers : 20260531_0745 </title></head>
-<center>Vers : 20260531_0745 </center>
-<center>Vers : 20260531_1645 </center>
-<br><br><br>
 #### [미국 북서부 강 유량이 89%까지 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616812)
 #### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616811)
 #### [영국의 번햄, 그가 총리가되면 스냅 선거를 고려한다고 The Sun은 보도합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616810)
@@ -109,35 +141,3 @@
 #### [다음 주에 출시될 최초의 엔비디아 칩 기반 Windows PC, Axios 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616779)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
 #### [다음 주에 출시될 최초의 엔비디아 칩 기반 Windows PC - Axios](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616778)
-#### [이매틱스, 치료가 어려운 부인암에서 Ima203cd8 프라임 세포 치료제의 임상 활동 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616777)
-#### [베라시테, 엔자멧 시험에서 전이성 전립선암에서 디사이퍼 전립선 검사로 화학요법 혜택을 확인했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616776)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VCYT.O/total>
-#### [Grail, 4기 암 진단의 상당한 감소를 입증하는 Nhs-Galleri 임상시험의 전체 결과 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616775)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GRAL.O/total>
-#### [Incyte, 프론트마인드 임상시험에서 고위험 만성골수성백혈병 환자의 질병 진행 또는 사망을 25% 감소시켰다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616774)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INCY.O/total>
-#### [이뮤놈, 바레가세스타트 치료로 1차 및 모든 주요 2차 유효성 평가변수에서 통계적으로 유의미한 개선이 나타났다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616773)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IMNM.O/total>
-#### [1 실패 흑색종에서 전체 생존기간 중앙값 32.9개월 달성했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616772)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/REPL.O/total>
-#### [화이자, 탈제나 플러스 엑스탄디, 전이성 전립선암에서 방사선 무진행 생존기간 50% 이상 개선했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616771)
-#### [시 정상 회담에도 불구하고 필리핀은 여전히 중국의 위협을 받고 있다고 장관은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616770)
-#### [코젠트 바이오사이언스, 베주클라스티닙과 수니티닙 병용 임상 3상 시험의 상세 임상 데이터 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616769)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COGT.O/total>
-#### [세포성 혈액암 약물 조합, 질병 진행 위험은 낮추지만 부작용 발생률은 높습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616768)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INCY.O/total>
-#### [오만 해양 안보 센터, 호르무즈 해협에서 의심되는 해저 지뢰 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616767)
-#### [인도, 섬유 부문을 돕기 위해 면화 수입 관세 면제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616766)
-#### [인플레이션 싸움이 다시 중앙 은행 독립성을 압박하고 있다고 정책 입안자들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616765)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616764)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616763)
-#### [인도, 면화 수입에 대한 모든 관세 면제, 통지에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616762)
-#### [BP의 축출된 매니폴드 회장이 거래 협상을 놓고 이사들과 충돌했다고 WSJ이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616761)
-#### [블루 오리진, 로켓 폭발로 발사대 손상 후 수개월 지연에 직면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616760)
-#### [아다니 에너지 솔루션, 2026년 5월 30일부로 쿤잘 메타가 CFO직 사임한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616759)
-#### [독점-더 나은 중국 관계는 지역 평화와 안보에 도움이 될 수 있다고 베트남 최고 지도자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616758)
-#### [베제키, 이탈리아 GP 폴로 랩 기록 경신, 마틴 최고 속도 기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616757)
-#### [에반스가 일본에서 오지에를 이끌고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616756)
-#### [캐나다의 광범위한 시민권 규정이 미국의 큰 관심을 끌고 있다는 데이터에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616755)
-#### [작은 가이아나, 큰 이란 석유 이익과 성장 긴장을 맞이할 준비](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616754)
-#### [상원 공화당 원들은 트럼프의 '무기화 방지'기금을 놓고 정치적 칼날을 마주하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616753)
