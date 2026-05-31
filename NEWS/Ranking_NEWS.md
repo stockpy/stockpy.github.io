@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260531_1917 </title></head>
-<center>Vers : 20260531_1917 </center>
-<center>Vers : 20260601_0417 </center>
+<head><meta charset="utf-8"><title>Vers : 20260531_2100 </title></head>
+<center>Vers : 20260531_2100 </center>
+<center>Vers : 20260601_0600 </center>
 <br><br><br>
 #### [“9년 동안 주식 잊고 살았는데”...단 1년만에 4000% 폭등한 ‘샌디’](https://m.stock.naver.com/news/ranknews/view/009/0005687481)
 #### ["100만원이 8000만원 됐다"…19세 아이돌, 주식 대박난 비결](https://m.stock.naver.com/news/ranknews/view/015/0005293248)

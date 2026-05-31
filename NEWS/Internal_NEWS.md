@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20260531_1917 </title></head>
-<center>Vers : 20260531_1917 </center>
-<center>Vers : 20260601_0417 </center>
+<head><meta charset="utf-8"><title>Vers : 20260531_2100 </title></head>
+<center>Vers : 20260531_2100 </center>
+<center>Vers : 20260601_0600 </center>
 <br><br><br>
+#### [독일 인프라 펀드가 지출 목표를 놓쳤다고 Handelsblatt는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616968)
+#### [버크셔 해서웨이, 미국 주택 건설업체 테일러 모리슨 85억 달러에 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616967)
+#### [인도 석유 공사, 19kg 상업용 LPG 실린더 가격 42 루피에서 3,113.5 루피로 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616966)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616965)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [버크셔 해서웨이, 테일러 모리슨 홈 코퍼레이션 85억 달러에 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616964)
+#### [인도 오일, 산업용 고객을위한 19kg LPG 실린더 가격 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616963)
+#### [시리아의 샤라, 트럼프와 전화 통화, 시리아 대통령단은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616962)
+#### [미국, 중국 외 중국 기업에 대한 엔비디아 AI 칩 출하 중단 조치 취해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616961)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [이스라엘의 레바논 남부 공세가 심각한 우려를 불러 일으킨다, 독일은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616960)
+#### [BUZZ-재생-호주 재개, 엔화 편차, 스털링 보유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616959)
+#### [러시아 임명 관리, 러시아 점령 헤르손 지역에서 드론 공격으로 어린이 사망, 11 명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616958)
+#### [부즈-댓글-한 주 앞으로-미국 일자리, 글로벌 PMI, 이란 동향](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616957)
+#### [BUZZ- 한 주 앞으로- 미국 일자리, 글로벌 PMI, 이란 동향](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616956)
+#### [중국, 체코 상원 의장의 대만 방문 비판](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616955)
+#### [트랜스 마운틴 파이프라인이 6월에 최대 용량으로 가동될 것이라고 CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616954)
+#### [몰도바의 두 경쟁 교회 중 한 곳의 총대주교가 사임합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616953)
+#### [경찰이 제한 구역을 확대함에 따라 뉴저지 이민자 구치소 방문 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616952)
+#### [대만 팬들이 방탄소년단 콘서트 좌석을 위해 신의 도움을 구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616951)
 #### [시리아의 샤라, 트럼프와 전화 통화, 시리아 대통령직은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616950)
 #### [다이애나 해운, Genco 이사회에 6명의 독립 후보 선출 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616949)
 #### [6월 1일 일요일 오후 2시 30분(미국 동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616948)
@@ -49,24 +69,3 @@
 #### [대만, 뉴욕 타임즈 기자가 대통령 인터뷰 후 추방 된 후 중국 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616910)
 #### [중국 AI 스타트업 미니막스, 상하이 스타 마켓 상장 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616909)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0100.HK/total>
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616908)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616907)
-#### [노바티스 실험용 방사성 의약품, 초기 연구에서 가능성 보여줘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616906)
-#### [콜롬비아 국민, 대선 투표에서 우파 탄압에 맞서 좌파 개혁에 무게를 두다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616905)
-#### [미국 투자 대기업 TPG, 이보크 인수에 베팅 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616904)
-#### [페루 대선 결선 투표를 앞두고 수천 명이 후지모리에 반대하는 집회를 열다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616903)
-#### [4월에 69개 프로젝트 추가하며 예상 매출 성장세 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616902)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2269.HK/total>
-#### [이란의 사우스 파스 가스전에서 3 개의 해양 플랫폼이 생산을 재개한다고 IRNA가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616901)
-#### [우크라이나의 전쟁 범죄 수사관들은 시간이 부족하고 자금이 부족합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616900)
-#### [우크라이나 드론이 하룻밤 사이에 파이프라인과 정유공장을 공격했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616899)
-#### [몰타 노동당, 의회 선거에서 기록적인 네 번째 임기 승리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616898)
-#### [매글 케모스위드 1분기 EBIT SEK -17.8백만](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616897)
-#### [대법원이 미국 중간선거를 재편하는 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616896)
-#### [이란의 최고 협상가 칼리 바프, 가시적 인 결과 없이는 미국과의 협상은 없다고 말했다, 국영 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616895)
-#### [일본, '신군국주의' 주장 반박하며 중국에 반격하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616894)
-#### [나토가 아시아를 안심시키는 가운데 미국은 국방 지출을 놓고 유럽을 거세합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616893)
-#### [바오딩 테크놀로지, 현재까지 엔비디아와의 접촉이나 사업 협력은 없다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616892)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002552.SZ/total>
-#### [지아메이 식품 포장의 주식 거래 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616891)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002969.SZ/total>
