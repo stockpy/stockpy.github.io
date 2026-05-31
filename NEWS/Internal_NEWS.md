@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260531_1345 </title></head>
-<center>Vers : 20260531_1345 </center>
-<center>Vers : 20260531_2245 </center>
+<head><meta charset="utf-8"><title>Vers : 20260531_1517 </title></head>
+<center>Vers : 20260531_1517 </center>
+<center>Vers : 20260601_0017 </center>
 <br><br><br>
+#### [종지 이노라이트, 온라인 소문에 대한 해명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616927)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300308.SZ/total>
+#### [캐나디안 퍼시픽, IBEW 파업 기간 동안 캐나다 전역 철도 운영 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616926)
+#### [페루 대선 결선 투표 일주일 전 우익 후지 모리가 근소한 선두를 유지, 여론 조사 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616925)
+#### [캐나다 퍼시픽 캔자스 시티, IBEW 파업 기간 동안 캐나다 전역의 철도 운영을 유지한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616924)
+#### [파리가 챔피언스리그 두 번째 우승을 축하하는 가운데 경기 후 폭력 사태로 200명이 부상당했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616923)
+#### [ECB, 확장에 대한 미디어 인터뷰 게재](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616922)
+#### [모터사이클-베제키, 이탈리아 그랑프리 우승으로 두카티의 100주년 기념 파티를 망쳤습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616921)
+#### [니카라과 원주민 지도자 브루클린 리베라, 주정부 구금 중 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616920)
 #### [드론 공격으로 우크라이나 자 포리 지아 원자력 발전소의 터빈 건물에 손상을 입혔다 고 IAEA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616919)
 #### [사우디 주가 상승, 이란-미국 협상 불확실성에 카타르 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616918)
 #### [월스트리트 주간 전망 보고서, 금리 경로로 미국 증시 급등, 리스크로 채권 수익률 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616917)
@@ -66,6 +75,10 @@
 #### [우크라이나 드론, 러시아 여러 지역의 목표물 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616870)
 #### [필리핀의 위협 경고 후 중국, 스카보로 숄 순찰 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616869)
 #### [한국, 일본, 군사-물류 지원 협상 논의, 서울은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616868)
+<head><meta charset="utf-8"><title>Vers : 20260531_1517 </title></head>
+<center>Vers : 20260531_1517 </center>
+<center>Vers : 20260601_0017 </center>
+<br><br><br>
 #### [체코 공화국, 나토 방위비 지출 목표 미달 가능성, 총리, FT에 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616867)
 #### [물류 지원 협상 논의, 연합뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616866)
 #### [유성 불 덩어리가 뉴 잉글랜드 전역에서 큰 붐을 일으켰다, NASA 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616865)
@@ -74,10 +87,6 @@
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616862)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616861)
 #### [중국 군, 스카보로 숄 인근에서 순찰 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616860)
-<head><meta charset="utf-8"><title>Vers : 20260531_1345 </title></head>
-<center>Vers : 20260531_1345 </center>
-<center>Vers : 20260531_2245 </center>
-<br><br><br>
 #### [워싱턴 주 화학 사고로 11 명 사망 확인, 모든 시신 수습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616859)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3863.T/total>
 #### [주목해야 할 요소 - 5월 31일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616858)
@@ -133,6 +142,10 @@
 #### [영국의 번햄, 그가 총리가되면 스냅 선거를 고려한다고 The Sun은 보도합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616810)
 #### [미국 판사, 트럼프의 국세청 소송 합의 검토 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616809)
 #### [WHO 수장, 에볼라 발병 중심지 방문에서 안전한 매장 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616808)
+<head><meta charset="utf-8"><title>Vers : 20260531_1517 </title></head>
+<center>Vers : 20260531_1517 </center>
+<center>Vers : 20260601_0017 </center>
+<br><br><br>
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616807)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616806)
 #### [트럼프, 아티스트 철수 후 워싱턴 DC에서 프리덤 250 콘서트 취소 고려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616805)
@@ -141,10 +154,6 @@
 #### [브라질, 상파울루에서 에볼라 의심 사례 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616802)
 #### [트럼프, 아티스트 탈퇴 후 미국 수도에서 콘서트 중단 고려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616801)
 #### [BW LPG, 현대중공업과 90'Cbm 파나막스 신조 8척 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616800)
-<head><meta charset="utf-8"><title>Vers : 20260531_1345 </title></head>
-<center>Vers : 20260531_1345 </center>
-<center>Vers : 20260531_2245 </center>
-<br><br><br>
 #### [스위스, 노르웨이를 6-0으로 꺾고 세계선수권 결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616799)
 #### [오스트리아 정부, 인플레이션에 맞서 싸우는 휘발유 가격 '브레이크' 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616798)
 #### [미국, 유럽에서 더 빠른 병력 철수 계획, 신문은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616797)
@@ -209,11 +218,3 @@
 #### [AUKUS, 무인 해저 차량 개발, 국방부 장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616750)
 #### [카메네이 고문, 트럼프가 봉쇄와 과도한 요구로 '배신 외교'라고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616749)
 #### [러시아, 투표를 앞두고 EU 관계에 대해 아르메니아 특사 소환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616748)
-#### [AUKUS, 무인 해저 차량 개발, 국방부 장은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616747)
-#### [이탈리아, 보안 우려로 카니예 웨스트, 트래비스 스콧 콘서트 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616746)
-#### [드론 목격 가능성으로 뮌헨 공항에서 항공편 운항 중단, 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616745)
-#### [인도 정부, 아르셀로미탈 니폰스틸 인디아, 전략적 투자 계획 승인 획득 안드라프라데시주, ITI 혁신 선도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616744)
-#### [독점-더 나은 중국 관계는 지역 평화와 안보에 도움이 될 수 있다고 베트남 최고 지도자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616743)
-#### [우크라이나 드론이 러시아 타간 로크의 정유소를 공격했다고 우크라이나 사령관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616742)
-#### [우크라이나 드론이 러시아 남부의 항구, 석유 저장고를 공격했다고 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616741)
-#### [닛산은 빈 화면 표시 오류로 인해 미국 차량 51,598 대를 리콜합니다 - NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616740)
