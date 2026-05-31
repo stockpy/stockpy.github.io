@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260530_2312 </title></head>
-<center>Vers : 20260530_2312 </center>
-<center>Vers : 20260531_0812 </center>
+<head><meta charset="utf-8"><title>Vers : 20260531_0353 </title></head>
+<center>Vers : 20260531_0353 </center>
+<center>Vers : 20260531_1253 </center>
 <br><br><br>
+#### [트랜스알타 앨버타 387MW 키필스 2 석탄 발전소 오프라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616850)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616849)
+#### [일본, '신 군국주의' 반박하며 중국의 급속한 무장화 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616848)
+#### [마이클 델, 최초의 델테크 플러스 엔비디아 베라 루빈 NVL72를 출시하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616847)
+#### [미국은 동 태평양에서 또 다른 선박을 공격하여 3 명을 죽였다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616846)
+#### [수요 약세로 5월 중국 공장 활동 정체](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616845)
+#### [일본, '신 군국주의' 비난에 반발하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616844)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616843)
+#### [뉴저지 주지사는 이민자 구치소 주변의 긴장 고조를 타주 문제 야기 자와 연결시킵니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616842)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616841)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616840)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616839)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616838)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616837)
 #### [영국 외무장관, 글로벌 이슈 논의 위해 중국과 인도 방문 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616836)
 #### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616835)
 #### [스페인의 강풍으로 개막전부터 차질을 빚은 뉴욕 SailGP](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616834)
@@ -52,20 +66,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MLYS.O/total>
 #### [러시아 로사 톰, 우크라이나 드론이 자 포리 지아 원자력 발전소를 공격했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616792)
 #### [축출된 터키 야당 지도자 오젤, 앙카라 시위에 수천 명 운집](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616791)
-#### [오스트리아 시위대가 독일과 이탈리아를 잇는 주요 고속도로를 폐쇄했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616790)
-#### [천연가스 파이프라인 중요 공지: 남부 천연가스 언스케치 유지보수 SEG 430 기업](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616789)
-#### [빙게가드, 지로 스테이지 20에서 솔로 우승을 차지하며 종합 선두 굳히기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616788)
-#### [콜롬비아, 관세 공방 속 에콰도르의 대통령 선거 '고의적 간섭' 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616787)
-#### [다음 주에 출시될 최초의 엔비디아 칩 기반 Windows PC, Axios 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616786)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [모터사이클 - 무결점 페르난데스, 이탈리아 그랑프리에서 MotoGP 스프린트 첫 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616785)
-#### [엑셀릭시스, 카보메틱스, 비기능성 망에서 74%, 기능성 망에서 60% 진행 또는 사망 위험 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616784)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EXEL.O/total>
-#### [콜롬비아, 관세 철폐 발표 후 에콰도르의 대통령 선거 '고의적 간섭' 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616783)
-#### [무결점 페르난데스, 트랙하우스 이탈리아 GP 스프린트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616782)
-#### [인도, 베트남과 브라 모스 미사일 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616781)
-#### [아이버솔 1분기 EBITDA 2630만 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616780)
-#### [다음 주에 출시될 최초의 엔비디아 칩 기반 Windows PC, Axios 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616779)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [다음 주에 출시될 최초의 엔비디아 칩 기반 Windows PC - Axios](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616778)
-#### [이매틱스, 치료가 어려운 부인암에서 Ima203cd8 프라임 세포 치료제의 임상 활동 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2616777)
