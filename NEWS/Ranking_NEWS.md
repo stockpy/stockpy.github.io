@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260602_1710 </title></head>
-<center>Vers : 20260602_1710 </center>
-<center>Vers : 20260603_0210 </center>
+<head><meta charset="utf-8"><title>Vers : 20260602_2049 </title></head>
+<center>Vers : 20260602_2049 </center>
+<center>Vers : 20260603_0549 </center>
 <br><br><br>
 #### [“300만원 간다더니 이게 맞나요?”…고점에 올라탄 개미들 비명 터졌다](https://m.stock.naver.com/news/ranknews/view/011/0004627115)
 #### ["투자금 20배 대박, 4조 됐다"…앤트로픽 상장 준비, 국내 수혜주는?](https://m.stock.naver.com/news/ranknews/view/008/0005366384)
