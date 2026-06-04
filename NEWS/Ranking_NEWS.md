@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260604_2034 </title></head>
-<center>Vers : 20260604_2034 </center>
-<center>Vers : 20260605_0534 </center>
+<head><meta charset="utf-8"><title>Vers : 20260604_2209 </title></head>
+<center>Vers : 20260604_2209 </center>
+<center>Vers : 20260605_0709 </center>
 <br><br><br>
 #### [이틀 만에 17% 급락에도...증권가는 "목표가 210만원"](https://m.stock.naver.com/news/ranknews/view/014/0005530381)
 #### [“젠슨 황 깐부들도 파랗게 질렸는데”…상한가 찍은 종목 뭐길래](https://m.stock.naver.com/news/ranknews/view/009/0005689541)
