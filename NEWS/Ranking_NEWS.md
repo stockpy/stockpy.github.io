@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260605_1955 </title></head>
-<center>Vers : 20260605_1955 </center>
-<center>Vers : 20260606_0455 </center>
+<head><meta charset="utf-8"><title>Vers : 20260605_2125 </title></head>
+<center>Vers : 20260605_2125 </center>
+<center>Vers : 20260606_0625 </center>
 <br><br><br>
 #### [이해진의 한 수…젠슨 황 앞 ‘얼굴 결제’로 네이버페이 존재감 부각](https://m.stock.naver.com/news/ranknews/view/009/0005690037)
 #### [삼전·닉스 레버리지, 주가 내릴 때 ‘사자’…급락에 개미들 ‘줍줍’](https://m.stock.naver.com/news/ranknews/view/009/0005689940)
