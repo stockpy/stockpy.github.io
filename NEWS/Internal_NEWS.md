@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260606_2104 </title></head>
-<center>Vers : 20260606_2104 </center>
-<center>Vers : 20260607_0604 </center>
+<head><meta charset="utf-8"><title>Vers : 20260606_2304 </title></head>
+<center>Vers : 20260606_2304 </center>
+<center>Vers : 20260607_0804 </center>
 <br><br><br>
+#### [부이그가 주도하는 컨소시엄, 알티스 프랑스로부터 234억 4천만 달러 규모의 SFR 인수 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624997)
+#### [트럼프의 NBA 결승전 참석으로 농구장 거리 폐쇄, 비밀경호국 수준의 경호 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624996)
+#### [미국, 헝가리 MOL에 세르비아 석유회사 국정원 인수 협상 시간 더 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624995)
+#### [시위대가 알바니아 습지 근처에서 쿠슈너와 연계된 리조트 계획을 비난합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624994)
+#### [미국은 걸프 동맹국의 재건을 위해이란 자산을 주시하고 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624993)
+#### [부이그 등 2곳, 알티스 프랑스로부터 234억 4천만 달러 규모의 SFR 인수 양해각서 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624992)
+#### [알래스카 항공, 연료 충격에도 불구하고 수요와 요금이 하반기 현금 흐름을 뒷받침할 수 있다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624991)
+#### [알래스카 항공, 요금 인상으로 연료 타격 상쇄로 안내 회복 희망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624990)
+#### [북한은 핵 지위에서 후퇴하지 않을 것이라고 김정은의 여동생은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624989)
+#### [보잉은 중국에 200 제트기 주문에 대한 애프터 마켓 지원을 제공 할 수 있다고 경영진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624988)
+#### [MAX 7 지연으로 서비스가 2027년으로 미뤄지면서 사우스웨스트항공, 보잉과 협력 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624987)
+#### [북한은 핵 지위에서 후퇴하지 않을 것이라고 김정은의 여동생은 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624986)
+#### [델리의 가정용 취사용 가스 요금이 실린더당 29루피 인상되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624985)
+#### [인도 석유 공사, 델리에서 LPG 가격을 14.2kg 실린더 당 29 루피에서 942 루피로 14.2 % 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624984)
+#### [미국,이란으로 인한 피해를 복구하기 위해 걸프 동맹국에이란 자산을 제공 할 것이라고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624983)
 #### [남서부 눈, 2027년 MAX 7 서비스 개시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624982)
 #### [높은 연료 비용으로 인한 항공사 고장 및 통합 촉발, 업계 책임자 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624981)
 #### [실종 된 미국 학생, 일본 교토 근처에서 사망 한 채 발견, 어머니는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624980)
@@ -49,18 +64,3 @@
 #### [중동 항공사가 전쟁으로 인해 배송을 연기하는 것은 현명하지 않다고 항공사 부사장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624940)
 #### [레바논 육군 참모총장, 카운터파트 초청으로 파키스탄으로 출국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624939)
 #### [핀에어, 기내 Wi-Fi를 위해 SpaceX 스타링크, 아마존과 협의 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624938)
-#### [에어뉴질랜드는 2027년까지 연료비 상승을 계획하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624937)
-#### [레오 교황, 이주와 평화에 초점을 맞춘 스페인 순방 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624936)
-#### [니카라과에서 유해가 발견된 브루클린 리베라, 추방된 딸의 애도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624935)
-#### [미국, 교황 레오가 홈팀을 응원하며 월드컵 기도회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624934)
-#### [리우 정상 회담에서 연료 쇼크, 요금 테스트와 씨름하는 항공사 수장들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624933)
-#### [모터사이클-두카티의 마르케즈, 헝가리 그랑프리 스프린트 우승으로 최고의 컨디션을 되찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624932)
-#### [에어 뉴질랜드 CEO는 항공사가 대부분의 연료 충격을 흡수한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624931)
-#### [브라질의 라이젠, 125억 달러 규모의 부채 거래에 대한 채권자 지원 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624930)
-#### [러시아가 운영하는 자 포리 지아 원자력 발전소는 전력 공급이 복구되었다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624929)
-#### [에어버스, 스칸디나비아 항공사의 와이드바디 주문에 근접하다, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624928)
-#### [두카티의 마르케즈, 헝가리 그랑프리 스프린트 우승으로 최고의 컨디션을 되찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624927)
-#### [리테일 재벌 애슐리의 프레이저스 그룹, 5억 달러 규모의 메트로센터 입찰에 무게를 두다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624926)
-#### [에어버스, 스칸디나비아 항공사의 와이드바디 주문에 근접하다, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624925)
-#### [에어버스는 약 15~20대의 항공기를 고려 중인 Sas AB로부터 와이드바디 주문을 마무리 짓고 있습니다- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624924)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624923)
