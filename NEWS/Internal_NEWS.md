@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260606_1515 </title></head>
-<center>Vers : 20260606_1515 </center>
-<center>Vers : 20260607_0015 </center>
+<head><meta charset="utf-8"><title>Vers : 20260606_1714 </title></head>
+<center>Vers : 20260606_1714 </center>
+<center>Vers : 20260607_0214 </center>
 <br><br><br>
+#### [헤그세스는 유럽이 위험한 이데올로기의 '침략'에 직면해 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624949)
+#### [백악관 AI 정책 고문 크리슈난이 자리를 떠난다고 더 인포메이션이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624948)
+#### [이란 전쟁으로 인한 제트기 주문 연기는 중동 항공사에 비용이 많이들 것이라고 IATA 부사장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624947)
+#### [경마-크리스마스 데이, 엡섬 더비 우승으로 오브라이언의 12번째 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624946)
+#### [모터 레이싱-안토넬리, 메르세데스의 '매직 랩'으로 모나코 폴을 빼앗다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624945)
+#### [크리스마스 데이, 엡섬 더비에서 우승하며 오브라이언의 12번째 승리를 이끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624944)
+#### [가자 지구에서 이스라엘의 공격으로 여성 2 명을 포함한 7 명이 사망했다고 의료진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624943)
+#### [ASML, 테라 팹은 '진지한 노력', 머스크, 회사 행사에서 연설 할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624942)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
+#### [안토넬리, 메르세데스를 위해 모나코 폴을 빼앗다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624941)
+#### [중동 항공사가 전쟁으로 인해 배송을 연기하는 것은 현명하지 않다고 항공사 부사장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624940)
+#### [레바논 육군 참모총장, 카운터파트 초청으로 파키스탄으로 출국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624939)
+#### [핀에어, 기내 Wi-Fi를 위해 SpaceX 스타링크, 아마존과 협의 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624938)
 #### [에어뉴질랜드는 2027년까지 연료비 상승을 계획하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624937)
 #### [레오 교황, 이주와 평화에 초점을 맞춘 스페인 순방 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624936)
 #### [니카라과에서 유해가 발견된 브루클린 리베라, 추방된 딸의 애도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624935)
@@ -51,15 +64,3 @@
 #### [러시아 군대가 우크라이나 하르 키우 지역에서 셰브첸코를 점령했다고 RIA가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624892)
 #### [Atco Power 앨버타 385MW 배틀 리버 5 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624891)
 #### [리우 정상 회담에서 연료 충격, 요금 테스트와 씨름하는 항공사 수장들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624890)
-#### [이란, IAEA가 테헤란의 핵 프로그램에 대한 감독을 정치화하고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624889)
-#### [우크라이나가 러시아 상트 페테르부르크의 군사 기지 인 크라 스노 다르의 석유 저장소를 공격했다고 젤 렌 스키가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624888)
-#### [러시아의 세친, 호르무즈 해협 폐쇄로 미국 기업들이 혜택을 본다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624887)
-#### [교황 레오, 전 세계에 '모든 인간에 대한 존중'을 보여줄 것을 촉구하기 위해 스페인 카나리아를 방문한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624886)
-#### [러시아 세친, 위기가 해결되면 2027 년 하반기에 석유 시장이 펀더멘털로 돌아갈 수 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624885)
-#### [브뤼셀 교외에서 화재 발생, 주민 50명 대피 ? VRT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624884)
-#### [러시아 튜멘 지역의 안티 핀 스키 정유 공장에서 화재가 발생했다고 현지 당국은 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624883)
-#### [대만, 중국 해안 경비대, 남중국해 주요 섬 근처에서 조사?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624882)
-#### [러시아의 세친: 호르무즈 해협 폐쇄는 미국의 이익을 위해 에너지 시장 규제를 바꾸려는 시도입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624881)
-#### [러시아 세친, 중국이 호르무즈 해협 폐쇄에 가장 잘 준비되어 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624880)
-#### [프랑스 통신 3사는 라이벌 SFR에 대한 거래 '최종화'가 48 시간 지연되었다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624879)
-#### [러시아 세친, 호르무즈 해협 폐쇄 후 전 세계 항로가 위협받을 수 있다고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624878)
