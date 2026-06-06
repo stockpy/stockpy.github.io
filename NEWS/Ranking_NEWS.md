@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260606_1714 </title></head>
-<center>Vers : 20260606_1714 </center>
-<center>Vers : 20260607_0214 </center>
+<head><meta charset="utf-8"><title>Vers : 20260606_1923 </title></head>
+<center>Vers : 20260606_1923 </center>
+<center>Vers : 20260607_0423 </center>
 <br><br><br>
 #### [“잘 있어라 개미들아” 삼전서 ‘30조’ 팔아치운 외인…그 돈 다 어디로 흘러갔나 보니](https://m.stock.naver.com/news/ranknews/view/011/0004628259)
 #### [“떨어질 때 사라” 골드만삭스의 조언…“S&P500 연내 8000 간다”](https://m.stock.naver.com/news/ranknews/view/016/0002652883)
