@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260606_1923 </title></head>
-<center>Vers : 20260606_1923 </center>
-<center>Vers : 20260607_0423 </center>
+<head><meta charset="utf-8"><title>Vers : 20260606_2104 </title></head>
+<center>Vers : 20260606_2104 </center>
+<center>Vers : 20260607_0604 </center>
 <br><br><br>
+#### [남서부 눈, 2027년 MAX 7 서비스 개시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624982)
+#### [높은 연료 비용으로 인한 항공사 고장 및 통합 촉발, 업계 책임자 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624981)
+#### [실종 된 미국 학생, 일본 교토 근처에서 사망 한 채 발견, 어머니는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624980)
+#### [러시아 국방부: 대공 부대가 13시간 동안 339대의 우크라이나 드론을 요격했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624979)
+#### [엠브라에르, 이란 전쟁으로 인해 항공사들의 항공기 구매 옵션 결정이 지연되고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624978)
+#### [높은 연료 비용으로 항공사 고장 및 통합을 유발하는 업계 최고 책임자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624977)
+#### [모나코의 해밀턴, 불가능한 것은 없다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624976)
+#### [러시아 국방부 : 대공 부대가 13 시간 동안 339 대의 우크라이나 드론을 요격했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624975)
 #### [07-2026년 기준 남부 천연가스 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624974)
 #### [엠브라에르, 이란 전쟁으로 산업에 구름이 끼면서 항공사들이 옵션 결정을 미루고 있다고 보고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624973)
 #### [러시아 군이 우크라이나 해역에서 구조선을 공격하여 부상을 입혔다 고 부총리는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624972)
@@ -56,11 +64,3 @@
 #### [에어버스, 스칸디나비아 항공사의 와이드바디 주문에 근접하다, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624925)
 #### [에어버스는 약 15~20대의 항공기를 고려 중인 Sas AB로부터 와이드바디 주문을 마무리 짓고 있습니다- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624924)
 #### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624923)
-#### [러시아 튜멘 지역 정유 공장 화재 진압, RIA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624922)
-#### [아르메니아, 투표 하루 전 친러 야당 후보 6명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624921)
-#### [노보 노디스크, 세마글루타이드 2mg으로 증량한 제2형 당뇨병 환자가 티르제파타이드로 전환한 환자보다 5% 이상의 체중 감소를 달성할 가능성이 더 높았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624920)
-#### [화이자, 베스페르-1, 주 2.4mg 베로베나타이드 투여 32주 만에 거의 16% 체중 감소 효과 보였다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624919)
-#### [새로운 애보트 데이터에 따르면 많은 당뇨병 환자가 당뇨병성 케톤산증의 증상을 인지하지 못할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624918)
-#### [트럼프, 중간선거 압력이 커지면서 의회에서 새로운 공화당 저항에 직면하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624917)
-#### [화이자의 월간 비만 주사, 중간 단계 시험에서 웨고비와 유사한 부작용 프로필을 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624916)
-#### [러시아 튜멘 지역 정유 공장 화재 진압, RIA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624915)
