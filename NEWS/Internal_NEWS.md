@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260606_2304 </title></head>
-<center>Vers : 20260606_2304 </center>
-<center>Vers : 20260607_0804 </center>
+<head><meta charset="utf-8"><title>Vers : 20260607_0357 </title></head>
+<center>Vers : 20260607_0357 </center>
+<center>Vers : 20260607_1257 </center>
 <br><br><br>
+#### [에티오피아 항공, 향후 3개월 내 지역 제트기 주문 결정 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625013)
+#### [오하이오 축제 근처에서 총격전으로 최소 12 명 부상, 경찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625012)
+#### [미국, 걸프 동맹국 재건을 위해이란 자산에 주목, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625011)
+#### [멕시코시티, 월드컵을 앞두고 멕시코 최대 파도 세계 신기록을 쫓다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625010)
+#### [할리우드 노동자, 파라마운트-스카이댄스 계약 반대 집회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625009)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
+#### [덱스컴, 인슐린을 사용하지 않는 제2형 당뇨병 환자의 혈당 조절이 일상적인 치료 대조군에 비해 개선되었다고 발표했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625008)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DXCM.O/total>
+#### [천연가스 파이프라인 중요 공지: 남부 천연가스 업데이트된 파이프라인 조건 06-07-2026](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625007)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625006)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625005)
+#### [코소보, 정치적 위기가 지속되는 가운데 또다시 보궐선거 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625004)
+#### [부이그 텔레콤, 알티스 프랑스와 SFR 인수를 위한 양해각서 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625003)
+#### [농구-거리 폐쇄, 트럼프의 NBA 결승전 참석으로 비밀경호국 수준의 보안이 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625002)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625001)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625000)
+#### [오렌지, SFR 인수를 위한 공동 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624999)
+#### [부이그 부이그 텔레콤, 프리?일리아드 그룹, 오렌지와 알티스 프랑스, SFR 인수를 위한 양해각서 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624998)
 #### [부이그가 주도하는 컨소시엄, 알티스 프랑스로부터 234억 4천만 달러 규모의 SFR 인수 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624997)
 #### [트럼프의 NBA 결승전 참석으로 농구장 거리 폐쇄, 비밀경호국 수준의 경호 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624996)
 #### [미국, 헝가리 MOL에 세르비아 석유회사 국정원 인수 협상 시간 더 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624995)
@@ -47,6 +65,10 @@
 #### [맥라렌의 고군분투 끝에 예선 8위로 모나코에 복귀한 노리스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624956)
 #### [2027년 IPO를 준비하는 브리즈 항공 - CEO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624955)
 #### [백악관 AI 정책 고문 크리슈난, 직위 해제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624954)
+<head><meta charset="utf-8"><title>Vers : 20260607_0357 </title></head>
+<center>Vers : 20260607_0357 </center>
+<center>Vers : 20260607_1257 </center>
+<br><br><br>
 #### [모나코 프런트 로열에 만족하는 젊어진 베르스타펜](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624953)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624952)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624951)
@@ -64,3 +86,48 @@
 #### [중동 항공사가 전쟁으로 인해 배송을 연기하는 것은 현명하지 않다고 항공사 부사장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624940)
 #### [레바논 육군 참모총장, 카운터파트 초청으로 파키스탄으로 출국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624939)
 #### [핀에어, 기내 Wi-Fi를 위해 SpaceX 스타링크, 아마존과 협의 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624938)
+#### [에어뉴질랜드는 2027년까지 연료비 상승을 계획하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624937)
+#### [레오 교황, 이주와 평화에 초점을 맞춘 스페인 순방 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624936)
+#### [니카라과에서 유해가 발견된 브루클린 리베라, 추방된 딸의 애도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624935)
+#### [미국, 교황 레오가 홈팀을 응원하며 월드컵 기도회 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624934)
+#### [리우 정상 회담에서 연료 쇼크, 요금 테스트와 씨름하는 항공사 수장들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624933)
+#### [모터사이클-두카티의 마르케즈, 헝가리 그랑프리 스프린트 우승으로 최고의 컨디션을 되찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624932)
+#### [에어 뉴질랜드 CEO는 항공사가 대부분의 연료 충격을 흡수한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624931)
+#### [브라질의 라이젠, 125억 달러 규모의 부채 거래에 대한 채권자 지원 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624930)
+#### [러시아가 운영하는 자 포리 지아 원자력 발전소는 전력 공급이 복구되었다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624929)
+#### [에어버스, 스칸디나비아 항공사의 와이드바디 주문에 근접하다, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624928)
+#### [두카티의 마르케즈, 헝가리 그랑프리 스프린트 우승으로 최고의 컨디션을 되찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624927)
+#### [리테일 재벌 애슐리의 프레이저스 그룹, 5억 달러 규모의 메트로센터 입찰에 무게를 두다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624926)
+#### [에어버스, 스칸디나비아 항공사의 와이드바디 주문에 근접하다, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624925)
+#### [에어버스는 약 15~20대의 항공기를 고려 중인 Sas AB로부터 와이드바디 주문을 마무리 짓고 있습니다- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624924)
+#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624923)
+#### [러시아 튜멘 지역 정유 공장 화재 진압, RIA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624922)
+#### [아르메니아, 투표 하루 전 친러 야당 후보 6명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624921)
+#### [노보 노디스크, 세마글루타이드 2mg으로 증량한 제2형 당뇨병 환자가 티르제파타이드로 전환한 환자보다 5% 이상의 체중 감소를 달성할 가능성이 더 높았다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624920)
+#### [화이자, 베스페르-1, 주 2.4mg 베로베나타이드 투여 32주 만에 거의 16% 체중 감소 효과 보였다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624919)
+#### [새로운 애보트 데이터에 따르면 많은 당뇨병 환자가 당뇨병성 케톤산증의 증상을 인지하지 못할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624918)
+#### [트럼프, 중간선거 압력이 커지면서 의회에서 새로운 공화당 저항에 직면하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624917)
+#### [화이자의 월간 비만 주사, 중간 단계 시험에서 웨고비와 유사한 부작용 프로필을 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624916)
+#### [러시아 튜멘 지역 정유 공장 화재 진압, RIA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624915)
+#### [앤 공주 아들의 결혼식을 위해 영국 왕족이 모입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624914)
+#### [헤그세스, 디데이 행사에서 유럽이 위험한 이데올로기의 '침략'에 직면했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624913)
+#### [인도는 식용유 표준 팩 크기를 설정하여 쇼핑객이 가격을 비교할 수 있도록 지원합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624912)
+#### ['바퀴벌레' 청년 단체 설립자, 인도 도착 후 첫 거리 시위 주도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624911)
+#### [안토넬리, 모나코 최종 연습에서 가장 빠른 기록 세우기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624910)
+#### [브라질 항공사 Azul, 연료 충격으로 추가 주파수 인하 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624909)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
+#### [프랑스 국민, 말리에서 국가 불안정화 음모 혐의로 20년 형을 선고받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624908)
+#### [리투아니아의 사회 민주당, 연립 정부에서 후배 정당을 제거하고 새로운 파트너를 찾습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624907)
+#### [우크라이나 군이 러시아 레닌 그라드 지역의 석유 저장고와 석유 터미널을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624906)
+#### [페라리 수석 바세르, 건강상의 이유로 모나코 예선 불참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624905)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624904)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624903)
+#### [교황 레오, 스페인에서 순진하지 않은 평화의 메시지, 이데올로기에 의해 '차단'되지 않은 사람들로부터 환영 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624902)
+#### [브뤼셀 교외의 창고에서 발생한 화재가 통제되었습니다 - VRT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624901)
+#### [두카티의 마르케즈, 헝가리 그랑프리에서 전 스페인 선수 선두](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624900)
+#### [인도의 바이러스성 '바퀴벌레' 청년 단체가 첫 대규모 시위를 벌입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624899)
+#### [국경 폐쇄로 인한 멕시코의 소고기 붐, 텍사스의 암울함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624898)
+#### [파트너스 그룹은 전략을 고수할 것이라고 회장, 신문과의 인터뷰에서 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624897)
+#### [레바논 남부 이스라엘 공습으로 레바논 장교 2명, 병사 1명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624896)
+#### [볼리비아의 파즈, 군대가 도로 봉쇄를 풀면서 대화가 필요하다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624895)
+#### [이란이 드론을 발사한 후 미국이 이란 사이트를 공격하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624894)
