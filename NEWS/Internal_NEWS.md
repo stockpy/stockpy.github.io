@@ -1,7 +1,32 @@
-<head><meta charset="utf-8"><title>Vers : 20260607_0758 </title></head>
-<center>Vers : 20260607_0758 </center>
-<center>Vers : 20260607_1658 </center>
+<head><meta charset="utf-8"><title>Vers : 20260607_1033 </title></head>
+<center>Vers : 20260607_1033 </center>
+<center>Vers : 20260607_1933 </center>
 <br><br><br>
+#### [아테네 인근 그리스 섬에서 지진 발생, 부상자 보고 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625059)
+#### [코소보, 정치적 위기가 지속되는 가운데 총선거에서 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625058)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625057)
+#### [인사이트, 혈액 질환 생명 공학 스타에 최대 20억 달러 거래에 근접, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625056)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INCY.O/total>
+#### [Incyte, 혈액 장애 생명 공학 스타를 위해 최대 20 억 달러 거래에 근접 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625055)
+#### [개인 투자자는 어떻게 SpaceX의 IPO 주식을 구매할 수 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625054)
+#### [라틴 아메리카의 우경화를 시험하는 페루 대선 결선 투표에서 박빙의 승부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625053)
+#### [미국 대법원, 총기 법과 트랜스젠더 운동 선수에 대한 판결을 내릴 태세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625052)
+#### [미군, 가족들은이란 전쟁의 새로운 정상에 적응?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625051)
+#### [브로드웨이의 2026 토니상 주요 후보작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625050)
+#### [토니상 기록적인 브로드웨이 시즌, 주요 레이스에서 뚜렷한 우승 후보가 없는 가운데](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625049)
+#### [평화 노력과 러시아에 초점을 맞춘 아르메니아 국민 투표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625048)
+#### [스위스 기업들, 관세 협상 후 미국에 270억 달러 투자, NZZ am Sonntag 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625047)
+#### [EU 보수당 대표, 중국 무역에 대한 강경한 입장 촉구, 빌트 암 손탁 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625046)
+#### [새 오페라에 묘사 된 러시아인으로부터 아이들을 해방시키기위한 우크라이나 어머니의 투쟁](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625045)
+#### [러시아가 지난 24시간 동안 우크라이나 드론 500대를 격추했다고 밝혔다고 IFX?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625044)
+#### [젤 렌 스키, 러시아가 '극도로 사악한'공격으로 핵연료 저장 시설을 고의적으로 공격했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625043)
+#### [레오 교황을 보기 위해 마드리드 거리에는 백만 명이 넘는 인파가 몰립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625042)
+#### [교황 레오를 보기 위해 수십만 명이 마드리드 거리를 가득 메운 사람들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625041)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625040)
+#### [러시아 드론이 우크라이나 체르노빌 인근 핵연료 저장 시설을 공격했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625039)
+#### [유럽 공동 부채에 대한 사례가 설득력이 있다고 ECB의 Patsalides는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625038)
+#### [우크라이나, 러시아 드론이 핵연료 저장 시설 타격, 방사능 수준 안정적이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625037)
+#### [코소보, 정치적 위기가 지속되는 가운데 또다시 보궐선거 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625036)
 #### [BUZZ-IMM: 치열한 EUR, GBP 매수, CAD, AUD 매도 속 USD 강세 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625035)
 #### [트랜살타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625034)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625033)
@@ -40,6 +65,10 @@
 #### [농구-거리 폐쇄, 트럼프의 NBA 결승전 참석으로 비밀경호국 수준의 보안이 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625002)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625001)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625000)
+<head><meta charset="utf-8"><title>Vers : 20260607_1033 </title></head>
+<center>Vers : 20260607_1033 </center>
+<center>Vers : 20260607_1933 </center>
+<br><br><br>
 #### [오렌지, SFR 인수를 위한 공동 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624999)
 #### [부이그 부이그 텔레콤, 프리?일리아드 그룹, 오렌지와 알티스 프랑스, SFR 인수를 위한 양해각서 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624998)
 #### [부이그가 주도하는 컨소시엄, 알티스 프랑스로부터 234억 4천만 달러 규모의 SFR 인수 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624997)
@@ -64,10 +93,6 @@
 #### [엠브라에르, 이란 전쟁으로 인해 항공사들의 항공기 구매 옵션 결정이 지연되고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624978)
 #### [높은 연료 비용으로 항공사 고장 및 통합을 유발하는 업계 최고 책임자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624977)
 #### [모나코의 해밀턴, 불가능한 것은 없다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624976)
-<head><meta charset="utf-8"><title>Vers : 20260607_0758 </title></head>
-<center>Vers : 20260607_0758 </center>
-<center>Vers : 20260607_1658 </center>
-<br><br><br>
 #### [러시아 국방부 : 대공 부대가 13 시간 동안 339 대의 우크라이나 드론을 요격했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624975)
 #### [07-2026년 기준 남부 천연가스 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624974)
 #### [엠브라에르, 이란 전쟁으로 산업에 구름이 끼면서 항공사들이 옵션 결정을 미루고 있다고 보고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624973)
@@ -106,6 +131,10 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
 #### [안토넬리, 메르세데스를 위해 모나코 폴을 빼앗다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624941)
 #### [중동 항공사가 전쟁으로 인해 배송을 연기하는 것은 현명하지 않다고 항공사 부사장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624940)
+<head><meta charset="utf-8"><title>Vers : 20260607_1033 </title></head>
+<center>Vers : 20260607_1033 </center>
+<center>Vers : 20260607_1933 </center>
+<br><br><br>
 #### [레바논 육군 참모총장, 카운터파트 초청으로 파키스탄으로 출국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624939)
 #### [핀에어, 기내 Wi-Fi를 위해 SpaceX 스타링크, 아마존과 협의 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624938)
 #### [에어뉴질랜드는 2027년까지 연료비 상승을 계획하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624937)
@@ -130,3 +159,40 @@
 #### [새로운 애보트 데이터에 따르면 많은 당뇨병 환자가 당뇨병성 케톤산증의 증상을 인지하지 못할 수 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624918)
 #### [트럼프, 중간선거 압력이 커지면서 의회에서 새로운 공화당 저항에 직면하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624917)
 #### [화이자의 월간 비만 주사, 중간 단계 시험에서 웨고비와 유사한 부작용 프로필을 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624916)
+#### [러시아 튜멘 지역 정유 공장 화재 진압, RIA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624915)
+#### [앤 공주 아들의 결혼식을 위해 영국 왕족이 모입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624914)
+#### [헤그세스, 디데이 행사에서 유럽이 위험한 이데올로기의 '침략'에 직면했다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624913)
+#### [인도는 식용유 표준 팩 크기를 설정하여 쇼핑객이 가격을 비교할 수 있도록 지원합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624912)
+#### ['바퀴벌레' 청년 단체 설립자, 인도 도착 후 첫 거리 시위 주도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624911)
+#### [안토넬리, 모나코 최종 연습에서 가장 빠른 기록 세우기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624910)
+#### [브라질 항공사 Azul, 연료 충격으로 추가 주파수 인하 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624909)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
+#### [프랑스 국민, 말리에서 국가 불안정화 음모 혐의로 20년 형을 선고받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624908)
+#### [리투아니아의 사회 민주당, 연립 정부에서 후배 정당을 제거하고 새로운 파트너를 찾습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624907)
+#### [우크라이나 군이 러시아 레닌 그라드 지역의 석유 저장고와 석유 터미널을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624906)
+#### [페라리 수석 바세르, 건강상의 이유로 모나코 예선 불참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624905)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624904)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624903)
+#### [교황 레오, 스페인에서 순진하지 않은 평화의 메시지, 이데올로기에 의해 '차단'되지 않은 사람들로부터 환영 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624902)
+#### [브뤼셀 교외의 창고에서 발생한 화재가 통제되었습니다 - VRT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624901)
+#### [두카티의 마르케즈, 헝가리 그랑프리에서 전 스페인 선수 선두](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624900)
+#### [인도의 바이러스성 '바퀴벌레' 청년 단체가 첫 대규모 시위를 벌입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624899)
+#### [국경 폐쇄로 인한 멕시코의 소고기 붐, 텍사스의 암울함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624898)
+#### [파트너스 그룹은 전략을 고수할 것이라고 회장, 신문과의 인터뷰에서 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624897)
+#### [레바논 남부 이스라엘 공습으로 레바논 장교 2명, 병사 1명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624896)
+#### [볼리비아의 파즈, 군대가 도로 봉쇄를 풀면서 대화가 필요하다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624895)
+#### [이란이 드론을 발사한 후 미국이 이란 사이트를 공격하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624894)
+#### [울토미리스, 3상 임상시험에서 34주째 면역글로불린 A 신장병 성인 환자에서 위약 대비 단백뇨 43.4% 감소 효과 입증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624893)
+#### [러시아 군대가 우크라이나 하르 키우 지역에서 셰브첸코를 점령했다고 RIA가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624892)
+#### [Atco Power 앨버타 385MW 배틀 리버 5 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624891)
+#### [리우 정상 회담에서 연료 충격, 요금 테스트와 씨름하는 항공사 수장들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624890)
+#### [이란, IAEA가 테헤란의 핵 프로그램에 대한 감독을 정치화하고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624889)
+#### [우크라이나가 러시아 상트 페테르부르크의 군사 기지 인 크라 스노 다르의 석유 저장소를 공격했다고 젤 렌 스키가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624888)
+#### [러시아의 세친, 호르무즈 해협 폐쇄로 미국 기업들이 혜택을 본다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624887)
+#### [교황 레오, 전 세계에 '모든 인간에 대한 존중'을 보여줄 것을 촉구하기 위해 스페인 카나리아를 방문한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624886)
+#### [러시아 세친, 위기가 해결되면 2027 년 하반기에 석유 시장이 펀더멘털로 돌아갈 수 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624885)
+#### [브뤼셀 교외에서 화재 발생, 주민 50명 대피 ? VRT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624884)
+#### [러시아 튜멘 지역의 안티 핀 스키 정유 공장에서 화재가 발생했다고 현지 당국은 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624883)
+#### [대만, 중국 해안 경비대, 남중국해 주요 섬 근처에서 조사?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624882)
+#### [러시아의 세친: 호르무즈 해협 폐쇄는 미국의 이익을 위해 에너지 시장 규제를 바꾸려는 시도입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624881)
+#### [러시아 세친, 중국이 호르무즈 해협 폐쇄에 가장 잘 준비되어 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624880)
