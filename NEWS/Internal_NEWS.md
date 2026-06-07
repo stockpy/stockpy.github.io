@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260607_1033 </title></head>
-<center>Vers : 20260607_1033 </center>
-<center>Vers : 20260607_1933 </center>
+<head><meta charset="utf-8"><title>Vers : 20260607_1210 </title></head>
+<center>Vers : 20260607_1210 </center>
+<center>Vers : 20260607_2110 </center>
 <br><br><br>
+#### [엔비디아, 황 회장 칩 공급 부족 장기화에 따른 협력 방안 구체화한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625069)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [이집트, 새로운 휴전 회담 개최로 이스라엘, 가자 지구에서 5명 살해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625068)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625067)
+#### [프랑스는 '앞으로 며칠'안에 이스라엘 정착민들에게 더 많은 제재가 부과 될 수 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625066)
+#### [중앙 아프리카 공화국, 미국으로부터 제 3 국 추방자 수용, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625065)
+#### [엔비디아 CEO, SK 회장, 월요일에 협력 계획 발표 - 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625064)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625063)
+#### [OPEC +, 호르무즈 폐쇄 이후 네 번째 석유 할당량 인상 예정, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625062)
+#### [HC 그룹, 유닛 팬패스 정보로 NEEQ에서 견적 종료한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625061)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2280.HK/total>
+#### [제미니 인베스트먼트, 자본 지출을 위해 1720만 홍콩달러 주식 매각 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625060)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0174.HK/total>
 #### [아테네 인근 그리스 섬에서 지진 발생, 부상자 보고 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625059)
 #### [코소보, 정치적 위기가 지속되는 가운데 총선거에서 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625058)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625057)
@@ -53,6 +66,10 @@
 #### [오하이오 축제 근처에서 총격전으로 최소 12 명 부상, 경찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625012)
 #### [미국, 걸프 동맹국 재건을 위해이란 자산에 주목, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625011)
 #### [멕시코시티, 월드컵을 앞두고 멕시코 최대 파도 세계 신기록을 쫓다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625010)
+<head><meta charset="utf-8"><title>Vers : 20260607_1210 </title></head>
+<center>Vers : 20260607_1210 </center>
+<center>Vers : 20260607_2110 </center>
+<br><br><br>
 #### [할리우드 노동자, 파라마운트-스카이댄스 계약 반대 집회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625009)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
 #### [덱스컴, 인슐린을 사용하지 않는 제2형 당뇨병 환자의 혈당 조절이 일상적인 치료 대조군에 비해 개선되었다고 발표했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625008)
@@ -65,10 +82,6 @@
 #### [농구-거리 폐쇄, 트럼프의 NBA 결승전 참석으로 비밀경호국 수준의 보안이 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625002)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625001)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625000)
-<head><meta charset="utf-8"><title>Vers : 20260607_1033 </title></head>
-<center>Vers : 20260607_1033 </center>
-<center>Vers : 20260607_1933 </center>
-<br><br><br>
 #### [오렌지, SFR 인수를 위한 공동 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624999)
 #### [부이그 부이그 텔레콤, 프리?일리아드 그룹, 오렌지와 알티스 프랑스, SFR 인수를 위한 양해각서 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624998)
 #### [부이그가 주도하는 컨소시엄, 알티스 프랑스로부터 234억 4천만 달러 규모의 SFR 인수 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624997)
@@ -120,6 +133,10 @@
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624952)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624951)
 #### [UCI, 벨라루스 금지 해제, 러시아 주니어 라이더에 대한 제한 완화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624950)
+<head><meta charset="utf-8"><title>Vers : 20260607_1210 </title></head>
+<center>Vers : 20260607_1210 </center>
+<center>Vers : 20260607_2110 </center>
+<br><br><br>
 #### [헤그세스는 유럽이 위험한 이데올로기의 '침략'에 직면해 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624949)
 #### [백악관 AI 정책 고문 크리슈난이 자리를 떠난다고 더 인포메이션이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624948)
 #### [이란 전쟁으로 인한 제트기 주문 연기는 중동 항공사에 비용이 많이들 것이라고 IATA 부사장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624947)
@@ -131,10 +148,6 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
 #### [안토넬리, 메르세데스를 위해 모나코 폴을 빼앗다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624941)
 #### [중동 항공사가 전쟁으로 인해 배송을 연기하는 것은 현명하지 않다고 항공사 부사장은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624940)
-<head><meta charset="utf-8"><title>Vers : 20260607_1033 </title></head>
-<center>Vers : 20260607_1033 </center>
-<center>Vers : 20260607_1933 </center>
-<br><br><br>
 #### [레바논 육군 참모총장, 카운터파트 초청으로 파키스탄으로 출국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624939)
 #### [핀에어, 기내 Wi-Fi를 위해 SpaceX 스타링크, 아마존과 협의 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624938)
 #### [에어뉴질랜드는 2027년까지 연료비 상승을 계획하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624937)
@@ -186,13 +199,3 @@
 #### [러시아 군대가 우크라이나 하르 키우 지역에서 셰브첸코를 점령했다고 RIA가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624892)
 #### [Atco Power 앨버타 385MW 배틀 리버 5 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624891)
 #### [리우 정상 회담에서 연료 충격, 요금 테스트와 씨름하는 항공사 수장들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624890)
-#### [이란, IAEA가 테헤란의 핵 프로그램에 대한 감독을 정치화하고 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624889)
-#### [우크라이나가 러시아 상트 페테르부르크의 군사 기지 인 크라 스노 다르의 석유 저장소를 공격했다고 젤 렌 스키가 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624888)
-#### [러시아의 세친, 호르무즈 해협 폐쇄로 미국 기업들이 혜택을 본다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624887)
-#### [교황 레오, 전 세계에 '모든 인간에 대한 존중'을 보여줄 것을 촉구하기 위해 스페인 카나리아를 방문한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624886)
-#### [러시아 세친, 위기가 해결되면 2027 년 하반기에 석유 시장이 펀더멘털로 돌아갈 수 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624885)
-#### [브뤼셀 교외에서 화재 발생, 주민 50명 대피 ? VRT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624884)
-#### [러시아 튜멘 지역의 안티 핀 스키 정유 공장에서 화재가 발생했다고 현지 당국은 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624883)
-#### [대만, 중국 해안 경비대, 남중국해 주요 섬 근처에서 조사?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624882)
-#### [러시아의 세친: 호르무즈 해협 폐쇄는 미국의 이익을 위해 에너지 시장 규제를 바꾸려는 시도입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624881)
-#### [러시아 세친, 중국이 호르무즈 해협 폐쇄에 가장 잘 준비되어 있다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2624880)
