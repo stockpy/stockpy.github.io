@@ -1,7 +1,43 @@
-<head><meta charset="utf-8"><title>Vers : 20260607_1716 </title></head>
-<center>Vers : 20260607_1716 </center>
-<center>Vers : 20260608_0216 </center>
+<head><meta charset="utf-8"><title>Vers : 20260607_1922 </title></head>
+<center>Vers : 20260607_1922 </center>
+<center>Vers : 20260608_0422 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625145)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625144)
+#### [연료 쇼크가 지속되면 더 많은 항공사의 공급 능력 감축을 예상하는 LATAM CEO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625143)
+#### [이스라엘 군, 이란에서 발사된 미사일 식별](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625142)
+#### [오만항공, 제트기 주문으로 수익 전환 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625141)
+#### [명품 그룹이 우주 산업에 진출하면서 프라다를 입는 NASA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625140)
+#### [페루 대선 결선투표에서 라틴 아메리카의 우경화 시험대로 여겨지는 투표율](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625139)
+#### [스텔렌스키, 스타머, 마크롱, 메르츠와의 회담을 위해 런던을 방문하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625138)
+#### [로이터 미국 스포츠 일정 6월 7일 일요일 오후 2시 35분(동부 표준시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625137)
+#### [코소보의 집권 베테 벤도 제당이 의회 투표를 주도하고 공식 결과에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625136)
+#### [아시아 모닝 콜-글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625135)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
+#### [캐세이퍼시픽, 전 기종에 걸쳐 항공기 추가 발주 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625134)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
+#### [질랜드의 비만 치료제, 내장 및 간 지방 감소에 대한 가능성을 보여주다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625133)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ALT.O/total>
+#### [브라질 엠브라에르, E2 제트기의 최종 중국 돌파구를 찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625132)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625131)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625130)
+#### [브라질의 엠브라에르, E2 제트기의 최종 중국 돌파구를 찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625129)
+#### [코소보의 베테 벤도 제 당이 의회 투표에서 선두를 달리고 있으며, 초기 공식 결과에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625128)
+#### [유나이티드 항공 CEO, 미국 거부 후 대규모 합병 가능성 낮고 자산 매입 가능](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625127)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
+#### [이란, 자국 자산이 미국 동맹국에 대한 손해 배상금에 사용된다는 생각 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625126)
+#### [캐세이퍼시픽, 전 기종에 걸쳐 항공기 추가 주문 계획, CEO 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625125)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
+#### [미국 북서부 강 유량은 88 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625124)
+#### [IAEA, 코르노빌 현장 근처에서 드론 공격으로 방사능 오염이 발생하지 않았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625123)
+#### [이집트, 새로운 휴전 회담 개최로 이스라엘, 가자 지구에서 최소 9명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625122)
+#### [미국, 차고스 제도 매입 고려, 텔레그래프 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625121)
+#### [안타그 테라퓨틱스 AT7687 임상 2A상 시험, 2026년 중반 시작 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625120)
+#### [이탈리아, 몰타 앞바다에서 이주 보트 전복 후 시신 10 구 회수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625119)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625118)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625117)
+#### [헤그셋, 국방부는이란 회담 실패시 행동 할 준비가되어 있다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625116)
+#### [미국, 차고스 제도 매입 고려, 텔레그래프 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625115)
 #### [코소보의 베테벤도제 당이 의회 투표에서 선두를 달리고 있습니다 - 출구 조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625114)
 #### [인그리디언, 영국 테이트 앤 라일을 36억 달러에 인수하는 협상 중이라고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625113)
 #### [포인트 없는 모나코 이후 모터 레이싱-러셀의 타이틀 희망 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625112)
@@ -31,39 +67,3 @@
 #### [미국-이란 간 긴장 고조로 대부분의 걸프 지역 증시가 하락 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625088)
 #### [모나코 그랑프리 한 바퀴 후 베르스타펜 탈락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625087)
 #### [모터사이클- 복귀한 왕 마르케즈, 헝가리 그랑프리 우승으로 통산 100승 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625086)
-#### [이탈리아의 ITA 항공, 프랫 앤 휘트니 엔진 결함에 대한 소송 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625085)
-#### [OPEC+, 7월 소폭 산유량 쿼터 인상 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625084)
-#### [IAEA의 미국 결의안 초안, 이란에 핵 시설과 우라늄 재고 개방 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625083)
-#### [트럼프는 거래가 완료되기 전에이란의 자산 동결을 해제하지 않을 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625082)
-#### [글로벌 항공사, 이란 전쟁으로 인한 연료 충격으로 2026년 수익 전망 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625081)
-#### [월스트리트 주간을 앞두고 블록버스터 스페이스X IPO가 미국 증시 랠리를 테스트 할 예정입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625080)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [OPEC+, 7월 산유량 쿼터 인상 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625079)
-#### [모터사이클 마르케즈, 헝가리 그랑프리 우승으로 통산 100승 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625078)
-#### [백만 명이 넘는 인파가 마드리드 거리를 가득 메운 레오 교황을 응원하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625077)
-#### [미국, 이란에 핵시설과 우라늄 재고 개방 요구한 IAEA 결의안 문안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625076)
-#### [방코 BPM, 이탈리아에서 두 번째로 큰 은행을 만들기 위한 합병 협상에 MPS를 초대합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625075)
-#### [대만 해안 경비대가 제한 해역에서 중국 선박을 '추방'합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625074)
-#### [지진이 아테네 인근 그리스 섬을 흔들고, 부상자는 보고되지 않았습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625073)
-#### [이스라엘 군이 베이루트에서 '테러리스트'본부를 공격했다고 정부는 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625072)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625071)
-#### [방코 BPM, 이탈리아 2위 은행을 만들기 위해 MPS에 합병 논의 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625070)
-#### [엔비디아, 황 회장 칩 공급 부족 장기화에 따른 협력 방안 구체화한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625069)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [이집트, 새로운 휴전 회담 개최로 이스라엘, 가자 지구에서 5명 살해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625068)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625067)
-#### [프랑스는 '앞으로 며칠'안에 이스라엘 정착민들에게 더 많은 제재가 부과 될 수 있다고 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625066)
-#### [중앙 아프리카 공화국, 미국으로부터 제 3 국 추방자 수용, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625065)
-#### [엔비디아 CEO, SK 회장, 월요일에 협력 계획 발표 - 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625064)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625063)
-#### [OPEC +, 호르무즈 폐쇄 이후 네 번째 석유 할당량 인상 예정, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625062)
-#### [HC 그룹, 유닛 팬패스 정보로 NEEQ에서 견적 종료한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625061)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2280.HK/total>
-#### [제미니 인베스트먼트, 자본 지출을 위해 1720만 홍콩달러 주식 매각 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625060)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0174.HK/total>
-#### [아테네 인근 그리스 섬에서 지진 발생, 부상자 보고 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625059)
-#### [코소보, 정치적 위기가 지속되는 가운데 총선거에서 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625058)
-#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625057)
-#### [인사이트, 혈액 질환 생명 공학 스타에 최대 20억 달러 거래에 근접, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625056)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INCY.O/total>
-#### [Incyte, 혈액 장애 생명 공학 스타를 위해 최대 20 억 달러 거래에 근접 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625055)
