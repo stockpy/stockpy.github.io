@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260607_1922 </title></head>
-<center>Vers : 20260607_1922 </center>
-<center>Vers : 20260608_0422 </center>
+<head><meta charset="utf-8"><title>Vers : 20260607_2112 </title></head>
+<center>Vers : 20260607_2112 </center>
+<center>Vers : 20260608_0612 </center>
 <br><br><br>
 #### [20대 사회초년생 "월급 270만원 중 200만원을 투자하는 데 괜찮을까요" [재테크 Q&A]](https://m.stock.naver.com/news/ranknews/view/014/0005531321)
 #### ['가입 못 했는데 어떡해'…6,000억 '오픈런' 9월께 또 기회온다](https://m.stock.naver.com/news/ranknews/view/215/0001254512)
