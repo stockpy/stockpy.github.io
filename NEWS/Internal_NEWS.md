@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260607_1548 </title></head>
-<center>Vers : 20260607_1548 </center>
-<center>Vers : 20260608_0048 </center>
+<head><meta charset="utf-8"><title>Vers : 20260607_1716 </title></head>
+<center>Vers : 20260607_1716 </center>
+<center>Vers : 20260608_0216 </center>
 <br><br><br>
+#### [코소보의 베테벤도제 당이 의회 투표에서 선두를 달리고 있습니다 - 출구 조사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625114)
+#### [인그리디언, 영국 테이트 앤 라일을 36억 달러에 인수하는 협상 중이라고 블룸버그 뉴스가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625113)
+#### [포인트 없는 모나코 이후 모터 레이싱-러셀의 타이틀 희망 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625112)
+#### [이스라엘, 베이루트 교외의 헤즈볼라 거점 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625111)
+#### [이탈리아 ITA항공, RTX 엔진 결함 관련 소송에 대한 결정이 임박했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625110)
+#### [말리 스푼 그룹 SE CEO 사임, 임시 CEO 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625109)
+#### [미국 의원들, 펄트 임명이 감시법 갱신을 방해할 수 있다고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625108)
+#### [인그리디언, 영국 테이트 앤 라일을 36억 달러에 인수하기 위해 사전 협상 중, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625107)
+#### [인그리디언, 27억 파운드에 테이트 라일 인수를 위한 사전 협의 중- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625106)
+#### [이란의 최고 협상가, 레바논 확전으로 미국 목표물 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625105)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625104)
+#### [이집트, 새로운 휴전 회담 개최로 이스라엘, 가자 지구에서 5명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625103)
+#### [BPM은 Intesa로 MPS로 이동했으며 BPER도 이동에 무게를두고 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625102)
+#### [모터 레이싱-안토넬리가 혼란스러운 모나코 그랑프리에서 침착함을 유지하며 우승하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625101)
 #### [안토넬리가 혼란스러운 모나코 그랑프리에서 침착함을 유지하며 우승하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625100)
 #### [스타머, 마크롱, 메르츠와 회담을 위해 영국을 방문한 젤렌스키](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625099)
 #### [이스라엘, 이집트에서 새로운 휴전 회담 개최로 가자지구에서 9명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625098)
@@ -53,17 +67,3 @@
 #### [인사이트, 혈액 질환 생명 공학 스타에 최대 20억 달러 거래에 근접, FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625056)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INCY.O/total>
 #### [Incyte, 혈액 장애 생명 공학 스타를 위해 최대 20 억 달러 거래에 근접 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625055)
-#### [개인 투자자는 어떻게 SpaceX의 IPO 주식을 구매할 수 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625054)
-#### [라틴 아메리카의 우경화를 시험하는 페루 대선 결선 투표에서 박빙의 승부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625053)
-#### [미국 대법원, 총기 법과 트랜스젠더 운동 선수에 대한 판결을 내릴 태세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625052)
-#### [미군, 가족들은이란 전쟁의 새로운 정상에 적응?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625051)
-#### [브로드웨이의 2026 토니상 주요 후보작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625050)
-#### [토니상 기록적인 브로드웨이 시즌, 주요 레이스에서 뚜렷한 우승 후보가 없는 가운데](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625049)
-#### [평화 노력과 러시아에 초점을 맞춘 아르메니아 국민 투표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625048)
-#### [스위스 기업들, 관세 협상 후 미국에 270억 달러 투자, NZZ am Sonntag 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625047)
-#### [EU 보수당 대표, 중국 무역에 대한 강경한 입장 촉구, 빌트 암 손탁 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625046)
-#### [새 오페라에 묘사 된 러시아인으로부터 아이들을 해방시키기위한 우크라이나 어머니의 투쟁](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625045)
-#### [러시아가 지난 24시간 동안 우크라이나 드론 500대를 격추했다고 밝혔다고 IFX?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625044)
-#### [젤 렌 스키, 러시아가 '극도로 사악한'공격으로 핵연료 저장 시설을 고의적으로 공격했다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625043)
-#### [레오 교황을 보기 위해 마드리드 거리에는 백만 명이 넘는 인파가 몰립니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625042)
-#### [교황 레오를 보기 위해 수십만 명이 마드리드 거리를 가득 메운 사람들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625041)
