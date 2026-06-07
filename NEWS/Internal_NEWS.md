@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260607_2112 </title></head>
-<center>Vers : 20260607_2112 </center>
-<center>Vers : 20260608_0612 </center>
+<head><meta charset="utf-8"><title>Vers : 20260607_2304 </title></head>
+<center>Vers : 20260607_2304 </center>
+<center>Vers : 20260608_0804 </center>
 <br><br><br>
+#### [한 주간의 브레이킹뷰: 빅테크의 거센 경쟁](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625186)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AVGO.O/total>
+#### [트럼프, 네타냐후는이란 협상을 받아 들일 수밖에 '선택의 여지가 없다', FT 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625185)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625184)
+#### [노스랜드 파워 온타리오 287MW 소롤드 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625183)
+#### [페루 대통령 선거 출구조사에서 후지모리가 근소한 차이로 앞서고 있는 것으로 나타남](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625182)
+#### [고헬스, 5억 달러~10억 달러 범위의 추정 자산 목록 - 법원 서류 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625181)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOCO.O/total>
+#### [북한에서 중국 시진핑과 함께 김 위원장, 자신감-도전 의지 표명할 듯](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625180)
+#### [우크라이나의 젤렌스키, 러시아 거물 아브라모비치가 키예프에 와서 도움을 제안했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625179)
+#### [에어버스, A320neo 시리즈 고객에게 2027년과 2028년 예정된 제트기 지연에 대해 통보, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625178)
+#### [AUD/USD- 위험 회피로 손실 확대, 이란 전쟁 격화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625177)
 #### [에어버스, A321 고객에게 2028년 예정된 제트기 지연 알림 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625176)
 #### [E3 지도자들은 우크라이나, 러시아 간의 직접 휴전 회담을지지한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625175)
 #### [독일 뮌헨 공항, 항공편 운항 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625174)
@@ -60,14 +72,3 @@
 #### [코소보의 베테 벤도 제 당이 의회 투표에서 선두를 달리고 있으며, 초기 공식 결과에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625128)
 #### [유나이티드 항공 CEO, 미국 거부 후 대규모 합병 가능성 낮고 자산 매입 가능](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625127)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAL.O/total>
-#### [이란, 자국 자산이 미국 동맹국에 대한 손해 배상금에 사용된다는 생각 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625126)
-#### [캐세이퍼시픽, 전 기종에 걸쳐 항공기 추가 주문 계획, CEO 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625125)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0293.HK/total>
-#### [미국 북서부 강 유량은 88 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625124)
-#### [IAEA, 코르노빌 현장 근처에서 드론 공격으로 방사능 오염이 발생하지 않았다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625123)
-#### [이집트, 새로운 휴전 회담 개최로 이스라엘, 가자 지구에서 최소 9명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625122)
-#### [미국, 차고스 제도 매입 고려, 텔레그래프 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625121)
-#### [안타그 테라퓨틱스 AT7687 임상 2A상 시험, 2026년 중반 시작 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625120)
-#### [이탈리아, 몰타 앞바다에서 이주 보트 전복 후 시신 10 구 회수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625119)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625118)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2625117)
