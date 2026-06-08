@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260608_1727 </title></head>
-<center>Vers : 20260608_1727 </center>
-<center>Vers : 20260609_0227 </center>
+<head><meta charset="utf-8"><title>Vers : 20260608_2016 </title></head>
+<center>Vers : 20260608_2016 </center>
+<center>Vers : 20260609_0516 </center>
 <br><br><br>
 #### [“코스피 급락 겁나는 일이지만”…골드만삭스가 전망한 한국 증시](https://m.stock.naver.com/news/ranknews/view/009/0005690890)
 #### [국민연금 딜레마...국내 주식 하루에 43조 증발, 팔자니 환율 압박](https://m.stock.naver.com/news/ranknews/view/008/0005368734)
