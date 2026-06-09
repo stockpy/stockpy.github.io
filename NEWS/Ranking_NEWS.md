@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260609_1716 </title></head>
-<center>Vers : 20260609_1716 </center>
-<center>Vers : 20260610_0216 </center>
+<head><meta charset="utf-8"><title>Vers : 20260609_2006 </title></head>
+<center>Vers : 20260609_2006 </center>
+<center>Vers : 20260610_0506 </center>
 <br><br><br>
 #### ["하루만 더 버텼으면…" 코스피 이틀 급락에 3000억원 '강제 처분'](https://m.stock.naver.com/news/ranknews/view/018/0006301739)
 #### [“반도체에 밀려 잊혔지만, 곧 큰거 온다”…‘실적 탄탄’ K방산 저점매수 기대감](https://m.stock.naver.com/news/ranknews/view/009/0005691265)
