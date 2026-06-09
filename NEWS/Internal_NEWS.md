@@ -1,7 +1,32 @@
-<head><meta charset="utf-8"><title>Vers : 20260609_2158 </title></head>
-<center>Vers : 20260609_2158 </center>
-<center>Vers : 20260610_0658 </center>
+<head><meta charset="utf-8"><title>Vers : 20260609_2322 </title></head>
+<center>Vers : 20260609_2322 </center>
+<center>Vers : 20260610_0822 </center>
 <br><br><br>
+#### [빠르게 성장하는 SailGP, '수백 년' 동안 함께하고 싶다는 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628153)
+#### [BUZZ-재생-EUR/USD 설정, 스털링 핸들, 엔 리스크](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628152)
+#### [영국 여름 일자리, 2025년 대비 31% 감소, 인디드에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628151)
+#### [ROI-China의 역할은 예전과 다릅니다: 카렌 브라운](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628150)
+#### [벨파스트에서 반이민 시위대가 칼 공격 후 불을 질렀습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628149)
+#### [이란의 월드컵 티켓 배정이 대회 며칠 전에 취소되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628148)
+#### [레오나르도의 새 CEO, 내년 우주 벤처에 청신호 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628147)
+#### [NASA, 미국 우주 비행사, 이탈리아와 함께 아르테미스 임무에 스페이스X, 블루 오리진 달 탐사선 활용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628146)
+#### [나사의 아르테미스 3호 승무원: 테스트 파일럿, 이탈리아인, 기록 보유자, 첫 비행자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628145)
+#### [미국 기업가 W.R. 버클리 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628144)
+#### [브라질 이과테미, 최대 6030만 헤알 규모의 주식 환매 프로그램 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628143)
+#### [헤지스, 쿠바 관타나모 만으로 여행 할 것이라고 국방부는 말한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628142)
+#### [SpaceX는 내년 말까지 궤도 AI 컴퓨팅 테스트를 시작하는 것을 목표로하고 있다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628141)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [미국 기업가 W.R. 버클리, 세상을 떠나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628140)
+#### [Uber, 페덱스가 상해 전문 로펌에 대한 공갈 소송에서 반소를 당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628139)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628138)
+#### [캐나다 스팅레이의 4분기 매출이 예상치를 하회하고 손상차손으로 순손실로 전환했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628137)
+#### [Icl 그룹, 2036년 만기 8억 달러 선순위 채권 사모 발행 가격 책정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628136)
+#### [브라질 규제 당국 Aneel, 3월 전력 경매 결과 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628135)
+#### [스팅레이 그룹 4분기 조정 EBITDA 42.5백만 캐나다 달러 대 IBES 추정치 44.8백만 캐나다 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628134)
+#### [콴타스항공, 저비용 항공사 젯스타, 시드니 신공항에서 서비스 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628133)
+#### [중동 평화 진전에 따른 BUZZ-AUD/USD 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628132)
+#### [미국, 호르무즈 해협 주변 방공 및 레이더 시스템 공격, Axios 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628131)
+#### [미국 원유 재고, 지난주 제품 재고가 감소한 것으로 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628130)
 #### [GM, 전기차 소유자에게 미국 전력망에 전력을 판매할 수 있는 기능 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628129)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
 #### [우크라이나 드론의 파편이 민간인 현장에서 화재를 일으켰다 고 로스토프 지역 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628128)
@@ -50,32 +75,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMMT.O/total>
 #### [미국 곡물 바지선 운임 가치 ? 6월 9일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628095)
 #### [브라질 규제 당국, 올해 MAX 10 인증 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628094)
-#### [D2l Inc. 상당한 규모의 발행자 입찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628093)
-#### [Niq 세트 출시 및 Amazon 3P 측정 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628092)
-#### [데본 에너지, 2026년 전망 업데이트 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628091)
-#### [Axe Compute - GPU 인프라 확장에 대한 업데이트된 위험 요소 공개 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628090)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AGPU.O/total>
-#### [데본 에너지, 코테라 에너지와의 합병 후 연간 전망 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628089)
-#### [엔지하우스 2분기 EPS CAD 0.3](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628088)
-#### [외환 국제 2분기 조정 주당순이익 USD 0.4](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628087)
-#### [BYD 헝가리 공장, 2026 년 말 생산 시작, 경영진은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628086)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002594.SZ/total>
-#### [칩이 다운되었을 때](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628085)
-#### [헨드릭 밴티지는 하워드 휴즈 소유의 영구 자본으로부터 혜택을 받을 것입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628084)
-#### [API에 따르면 미국 원유 재고가 2 개월 연속 감소했다고 소식통은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628083)
-#### [미국 헬기 승무원을 구조한 해상 드론은 무엇인가요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628082)
-#### [주식 공모 발표 후 버즈-섀턱 랩스 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628081)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/STTK.O/total>
-#### [미들랜드의 1분기 매출은 특수 장벽 프로젝트 감소로 감소했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628080)
-#### [서밋 테라퓨틱스, 보통주 공모 제안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628074)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SMMT.O/total>
-#### [CBOT 밀은 대부분 상승세로 마감하며 수개월래 최저치를 기록한 후 통합됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628079)
-#### [케이시 제너럴 스토어의 4분기 매출이 내부 판매 호조에 힘입어 예상치를 상회했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628078)
-#### [금요일의 SpaceX IPO가 현재 시장 변동성을 부추기고 있다고 투자자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628073)
-#### [머스크의 xAI, 스페이스X가 데이터 센터 '성가신' 문제로 집단 소송 당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628077)
-#### [미국 연준, 6월 24일 2026년 은행 스트레스 테스트 결과 발표 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628076)
-#### [불확실한 중동 전망으로 유가는 하락하고 증시는 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628075)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
-#### [로펌 폭스 로칠드가 데이터 유출로 집단 소송에 휘말렸습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628072)
-#### [1911 Gold, 오버나이트 마켓 오퍼링의 자발적 철수 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628071)
-#### [계열 관리자 그룹, 2031년 6월 9일 만기 12억 5,000만 달러 규모의 회전 신용 시설에 진입 - SEC 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2628070)
