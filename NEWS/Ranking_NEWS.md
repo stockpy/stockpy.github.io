@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260610_1830 </title></head>
-<center>Vers : 20260610_1830 </center>
-<center>Vers : 20260611_0330 </center>
+<head><meta charset="utf-8"><title>Vers : 20260610_2109 </title></head>
+<center>Vers : 20260610_2109 </center>
+<center>Vers : 20260611_0609 </center>
 <br><br><br>
 #### [[단독] 집팔아 ‘삼전닉스’ 들어간 야수들…생각보다 훨씬 더 많았다](https://m.stock.naver.com/news/ranknews/view/009/0005692146)
 #### ["어제 3억 벌고 오늘 2억 잃었네요"…'롤코'에 레버리지 개미들 '멘붕'](https://m.stock.naver.com/news/ranknews/view/031/0001034251)
