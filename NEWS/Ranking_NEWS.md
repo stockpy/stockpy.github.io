@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260611_1639 </title></head>
-<center>Vers : 20260611_1639 </center>
-<center>Vers : 20260612_0139 </center>
+<head><meta charset="utf-8"><title>Vers : 20260611_1922 </title></head>
+<center>Vers : 20260611_1922 </center>
+<center>Vers : 20260612_0422 </center>
 <br><br><br>
 #### [[속보] '30만전자·200만닉스' 또 깨져…프리마켓서 6%대 급락](https://m.stock.naver.com/news/ranknews/view/014/0005533467)
 #### [치솟던 금값, 고점서 20% 넘게 급락…“팔아야 하나” 투자자 울상](https://m.stock.naver.com/news/ranknews/view/020/0003726181)
