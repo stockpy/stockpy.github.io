@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260612_1807 </title></head>
-<center>Vers : 20260612_1807 </center>
-<center>Vers : 20260613_0307 </center>
+<head><meta charset="utf-8"><title>Vers : 20260612_2023 </title></head>
+<center>Vers : 20260612_2023 </center>
+<center>Vers : 20260613_0523 </center>
 <br><br><br>
 #### [[단독] TIGER 미국우주테크, 스페이스X 상장 당일 편입 철회](https://m.stock.naver.com/news/ranknews/view/011/0004630477)
 #### [한주도 안 팔고 15년…30조 거머쥔 '존버 끝판왕'](https://m.stock.naver.com/news/ranknews/view/215/0001255172)
