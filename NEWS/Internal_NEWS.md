@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20260613_1557 </title></head>
-<center>Vers : 20260613_1557 </center>
-<center>Vers : 20260614_0057 </center>
+<head><meta charset="utf-8"><title>Vers : 20260613_1726 </title></head>
+<center>Vers : 20260613_1726 </center>
+<center>Vers : 20260614_0226 </center>
 <br><br><br>
+#### [시테 온타리오 195MW 고어웨이 12 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632966)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632965)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632964)
+#### [영국 스타머와 트럼프, 이란 분쟁 종식을 위한 노력 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632963)
+#### [레클레르, 또다시 충돌 후 '부끄러움'](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632962)
+#### [트럼프, 이란 협상 일요일 서명 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632961)
+#### [젠맙, 엡코리타맙 단독요법 및 엡코리타맙 기반 병용요법이 새로 진단된 미만성 거대 B세포 림프종 노인 환자에서 높은 반응률을 보였다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632960)
+#### [아마존 CEO가 트럼프 단속 전에 인공 지능 모델에 대한 우려를 제기했다고 더 인포메이션이 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632959)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [아마존의 자시, 트럼프 단속 전 인위적 모델에 대한 우려 제기 - 더 인포메이션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632958)
+#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632957)
+#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632956)
+#### [프랑스, 독일과의 탱크 프로젝트에서 탈퇴 가능성 배제할 수 없다고 라인메탈 CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632955)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632954)
+#### [찰스 왕세자 생일 축하 행사에서 반군주주의자들의 시위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632953)
+#### [찰스 왕세자 생일 축하 행사에서 반군주주의자들의 시위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632952)
+#### [모터 레이싱-러셀, 바르셀로나 폴 차지?해밀턴, 르클레르 충돌 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632951)
 #### [미국, 인도, G7에서 무역 문제 해결하지만 거래가 임박하지는 않았다고 미국 관리들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632950)
 #### [러셀, 바르셀로나에서 폴 포지션, 해밀턴 2위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632949)
 #### [마크롱, G7 정상 회담 후 베르사유에서 트럼프 주최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632948)
@@ -49,20 +66,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
 #### [영국 주택 건설업체 비스트리, 직원에게 자발적 정리해고 제안- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632908)
 #### [폴란드, 여름에 연료 가격 상한선 폐지, 투스크 총리는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632907)
-#### [이라크는 이번 시즌 지금까지 319 만 톤의 현지 밀을 구입했다고 국영 통신사는 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632906)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632905)
-#### [두 대의 휴대폰과 하나의 앱: 러시아인들이 푸틴의 디지털 철의 장막을 피하는 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632904)
-#### [영국 식품 소매 업체 J 세인즈 버리가 새 회장 찾기에 나선다 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632903)
-#### [독점-타타의 아이폰 부품 공장이 농지 물을 오염 시켰다고 인도 오염 기관은 주장합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632902)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [노스랜드 파워 온타리오 287MW 소롤드 가스 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632901)
-#### [리투아니아, 영공 침범 사고는 드론이 아닌 기상 풍선 때문이라고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632900)
-#### [레디 박사, 보수티닙 정제 400mg의 미국 최초 출시 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632899)
-#### [쿠슈너 프로젝트, 알바니아 마을 주민들은 이렇게 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632898)
-#### [골드 열풍, 빈티지 명품 시계를 용광로로 보내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632897)
-#### [Anthropic, 미국의 해외 액세스 명령 이후 최고의 AI 모델 비활성화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632896)
-#### ['키미로부터 키미에게': F1 리더 안토넬리, 수건을 되찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632895)
-#### [리투아니아, 군용 드론 경고, 나토 항공기 소환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632894)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632893)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632892)
-#### [노스랜드 파워 온타리오 287MW 소롤드 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632891)
