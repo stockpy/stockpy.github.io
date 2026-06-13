@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260613_1726 </title></head>
-<center>Vers : 20260613_1726 </center>
-<center>Vers : 20260614_0226 </center>
+<head><meta charset="utf-8"><title>Vers : 20260613_1925 </title></head>
+<center>Vers : 20260613_1925 </center>
+<center>Vers : 20260614_0425 </center>
 <br><br><br>
+#### [트럼프가 제임스 맥도날드를 맨해튼의 미국 변호사로 임명했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632971)
+#### [규모 5.2의 지진이 멕시코 게레로 지역을 강타했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632970)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632969)
+#### [아마존, 미국보다 먼저 인공 지능 모델에 대한 우려 표명? 정부 단속, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632968)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632967)
 #### [시테 온타리오 195MW 고어웨이 12 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632966)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632965)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632964)
@@ -60,9 +66,3 @@
 #### [북한, 한국에 대한 미국 미사일 판매 승인 비난, KCNA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632914)
 #### [모텔, 습지 및 럭셔리 요금: 뉴저지 월드컵에 오신 것을 환영합니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632913)
 #### [트럼프가 텍사스에서 승리하기 위해 3억 5천만 달러의 전쟁 자금을 사용할까요? 공화당원들은 걱정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632912)
-#### [순조로운 SpaceX 데뷔로 월스트리트, 메가 IPO의 새로운 모범을 제시하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632911)
-#### [미쉐린 가이드의 그웬달 풀레넥이 새로운 요리 영역으로 확장하는 방법](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632910)
-#### [Mag 7? 망고? SpaceX, 월스트리트의 기술주 명칭에 대한 재고 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632909)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
-#### [영국 주택 건설업체 비스트리, 직원에게 자발적 정리해고 제안- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632908)
-#### [폴란드, 여름에 연료 가격 상한선 폐지, 투스크 총리는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632907)
