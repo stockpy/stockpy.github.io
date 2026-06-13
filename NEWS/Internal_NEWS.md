@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260613_1925 </title></head>
-<center>Vers : 20260613_1925 </center>
-<center>Vers : 20260614_0425 </center>
+<head><meta charset="utf-8"><title>Vers : 20260613_2115 </title></head>
+<center>Vers : 20260613_2115 </center>
+<center>Vers : 20260614_0615 </center>
 <br><br><br>
+#### [멕시코, 오악사카 주 시장 살해 사건 수사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632978)
+#### [트럼프, 이란이 타이밍에 의문을 제기하면서 일요일에 전쟁 협정에 서명 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632977)
+#### [영국 의사 노조, 계획된 파업 중단, 새로운 제안에 대한 투표 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632976)
+#### [Atco Power 앨버타 385MW 배틀 리버 5 석탄 발전소 온라인 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632975)
+#### [NATGAS 파이프라인 중요 공지: 테네시 가스 파이프라인 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632974)
+#### [미국 북서부 강 유량은 85 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632973)
+#### [영국 의사 노조, 계획된 파업 취소, 국민 투표 개최 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632972)
 #### [트럼프가 제임스 맥도날드를 맨해튼의 미국 변호사로 임명했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632971)
 #### [규모 5.2의 지진이 멕시코 게레로 지역을 강타했다고 GFZ는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632970)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632969)
@@ -59,10 +66,3 @@
 #### [미국과 잠재적 인 협상이 다가옴에 따라이란 인들은 평화를 의심합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632921)
 #### [독일과의 탱크 프로젝트에서 프랑스 출구를 배제 할 수 없다고 라인 메탈 CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632920)
 #### [이란 평화 협정 서명 24시간 이내 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632919)
-#### [이란, 고 하메네이 최고지도자 장례식 7월 4일 시작, 장례식 7월 9일로 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632918)
-#### [새로운 탈베이와 다잘렉스 파스프로 데이터, 초기 재발성 또는 불응성 다발성 골수종에서 이중특이적 병용요법의 효과 입증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632917)
-#### [투자 회사들이 도널드 트럼프의 베네수엘라 석유를 위한 1000억 달러 경쟁에 합류하다- FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632916)
-#### [우크라이나 군이 볼고그라드 지역에서 러시아의 석유 인프라를 공격했다고 키예프는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632915)
-#### [북한, 한국에 대한 미국 미사일 판매 승인 비난, KCNA는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632914)
-#### [모텔, 습지 및 럭셔리 요금: 뉴저지 월드컵에 오신 것을 환영합니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632913)
-#### [트럼프가 텍사스에서 승리하기 위해 3억 5천만 달러의 전쟁 자금을 사용할까요? 공화당원들은 걱정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632912)

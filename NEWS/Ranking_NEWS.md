@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260613_1925 </title></head>
-<center>Vers : 20260613_1925 </center>
-<center>Vers : 20260614_0425 </center>
+<head><meta charset="utf-8"><title>Vers : 20260613_2115 </title></head>
+<center>Vers : 20260613_2115 </center>
+<center>Vers : 20260614_0615 </center>
 <br><br><br>
 #### ['그때 팔았어야 했나' 오른만큼 떨어졌다…"더 담을까 팔까" 개미 '고심'](https://m.stock.naver.com/news/ranknews/view/215/0001255288)
 #### [삼성전자·삼성전기, 그 다음은?…“65만 원 간다” 목표가 50% 급등한 ‘이 종목’](https://m.stock.naver.com/news/ranknews/view/243/0000099094)
