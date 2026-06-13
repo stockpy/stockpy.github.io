@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260613_2115 </title></head>
-<center>Vers : 20260613_2115 </center>
-<center>Vers : 20260614_0615 </center>
+<head><meta charset="utf-8"><title>Vers : 20260613_2304 </title></head>
+<center>Vers : 20260613_2304 </center>
+<center>Vers : 20260614_0804 </center>
 <br><br><br>
+#### [트럼프, 제임스 맥도날드 미국 뉴욕주 검사장 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632982)
+#### [아이티와 스코틀랜드의 월드컵 경기를 앞둔 보스턴의 열기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632981)
+#### [백악관, 중국 접근에 대한 우려와 관련된 인류에 대한 수출 제한-세마포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632980)
+#### [영국과 일본, 240억 달러 투자 및 기술 파트너십에 합의할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632979)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/4523.T/total>
 #### [멕시코, 오악사카 주 시장 살해 사건 수사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632978)
 #### [트럼프, 이란이 타이밍에 의문을 제기하면서 일요일에 전쟁 협정에 서명 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632977)
 #### [영국 의사 노조, 계획된 파업 중단, 새로운 제안에 대한 투표 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632976)
@@ -61,8 +66,3 @@
 #### [러셀, 바르셀로나 최종 예선에서 가장 빠른 기록 세우기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632925)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632924)
 #### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632923)
-#### [인텔리아 테라퓨틱스, 론보구란 지클루메란(론보-Z)에 대한 추가 긍정적 3상 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632922)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NTLA.O/total>
-#### [미국과 잠재적 인 협상이 다가옴에 따라이란 인들은 평화를 의심합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632921)
-#### [독일과의 탱크 프로젝트에서 프랑스 출구를 배제 할 수 없다고 라인 메탈 CEO는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632920)
-#### [이란 평화 협정 서명 24시간 이내 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632919)
