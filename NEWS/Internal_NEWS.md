@@ -1,7 +1,30 @@
-<head><meta charset="utf-8"><title>Vers : 20260614_1720 </title></head>
-<center>Vers : 20260614_1720 </center>
-<center>Vers : 20260615_0220 </center>
+<head><meta charset="utf-8"><title>Vers : 20260614_1926 </title></head>
+<center>Vers : 20260614_1926 </center>
+<center>Vers : 20260615_0426 </center>
 <br><br><br>
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633118)
+#### [미국 상원 의원 미치 맥코넬이 일요일 아침 입원했다고 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633117)
+#### [미국 북서부 강 유량은 85 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633116)
+#### [로이터 미국 스포츠 일정 6월 14일 일요일 오후 2시 55분(동부 표준시)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633115)
+#### [안토넬리 우승 후 '공허한' 레이스가 끝났습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633114)
+#### [러시아 푸틴, '밝고 놀라운' 트럼프에게 생일 축하 인사 보내](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633113)
+#### [인류학자들이 다음 주에 백악관 관리들을 만날 예정이라고 Axios가 보도했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633112)
+#### [인류학, 백악관 싸움을 정리하기 위해 직원들을 워싱턴으로 날려 보내다 - Axios](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633111)
+#### [트럼프는 투표 법안이 첨부되지 않으면 FISA 연장에 반대한다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633110)
+#### [다음 주에 백악관 관리들을 만날 인류학 직원들, Axios 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633109)
+#### [이라크는 터키에 키르쿠크-케이한 송유관 계약을 최소 1년 연장해달라고 요청했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633108)
+#### [해밀턴, 페라리 첫 우승으로 꿈을 이루다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633107)
+#### [미주리 주 비행기 추락 사고로 12 명 사망, 주 고속도로 순찰대는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633106)
+#### [포트워스 록히드마틴 노조원들, 강력한 합의안 수용을 위한 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633105)
+#### [케이한 송유관 계약을 최소 1 년 연장 해달라고 요청했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633104)
+#### [G7 시위에서 테슬라에 불이 붙고 유리창이 깨졌습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633103)
+#### [미주리 주 비행기 추락으로 12 명 사망, 주 고속도로 순찰대는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633102)
+#### [미치 맥코넬 상원 의원이 일요일 아침에 입원했다고 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633101)
+#### [터키와 사우디 아라비아, 요르단 및 시리아와 철도 연결 건설 목표, 장관 말](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633100)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633099)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633098)
+#### [트럼프는 푸틴에게 우크라이나 분쟁 종식을 도울 준비가되어 있다고 크렘린 고문은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633097)
+#### [우크라이나의 젤렌스키가 트럼프와 통화에서 평화 회담에 대해 논의했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633096)
 #### [시위대가 제네바 반G7 행진에서 테슬라에 불을 지르고 유엔 사무소의 창문을 부수고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633095)
 #### [트럼프는 푸틴에게 전화 통화에서 우크라이나 분쟁을 끝내는 것이 중요하며 그가 도울 수 있다고 크렘린 고문은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633094)
 #### [스위스 경찰, 반 G7 시위대가 유엔 사이트를 목표로 최루탄 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633093)
@@ -43,31 +66,3 @@
 #### [월스트리트 한 주 앞으로-새롭게 이끄는 연준이 미국 지수 급락의 와일드카드를 제시하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633060)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
 #### [영국 반이슬람 운동가 로빈슨, 테러법에 따라 잠시 구금됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633059)
-#### [영국군, 영국 해안에서 러시아 그림자 함대 유조선을 가로채다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633058)
-#### [우크라이나? 드론 공격 후 러시아 석유 시설에서 연기가 피어오르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633057)
-#### [서호주, 엑손의 우드사이드 에너지 인수 가능성 반대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633056)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601857.SS/total>
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633055)
-#### [러시아 아파트 건물에 대한 우크라이나 드론 공격으로 한 명 사망, 주지사는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633054)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633053)
-#### [이스라엘, 군이 베이루트 남부 교외의 헤즈볼라 목표물을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633052)
-#### [상하이 최고 수치 제어 기술, 980 만 H- 주식에 대해 초과 할당 옵션이 완전히 행사되었다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633051)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7688.HK/total>
-#### [티후아나에서 이란의 작은 디아스포라, 팀 멜리를 제외하고는 거의 동의하지 않습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633050)
-#### [향후 스페이스X 옵션 출시 시 RPT-대량 거래 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633049)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
-#### [스코틀랜드가 36년간의 월드컵 우승 가뭄을 끝내고 기뻐하는 타탄 군대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633048)
-#### [이란, 미국 협상 초안에 석유 제재 면제, 핵 제한 및 자산 해제 포함된다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633047)
-#### [이스라엘 군, 베이루트 남부 교외에서 헤즈볼라 공격, 성명서 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633046)
-#### [젤렌스키, 우크라이나가 러시아 석유 시설과 화학 공장을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633045)
-#### [스위스 유권자, 국민 투표에서 인구 상한선 거부 할 가능성, 전망에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633044)
-#### [이란, 미국 협상 초안에는 석유 제재 면제, 핵 제한 및 자산 방출이 포함된다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633043)
-#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633042)
-#### [이라크, 부패 우려로 7억 6,400만 달러 규모의 바그다드 공항 프로젝트 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633041)
-#### [폭스, 독일 카누 슬라럼 월드컵에서 금메달을 목에 걸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633040)
-#### [이스라엘 군, 헤즈볼라가 이스라엘 북부를 향해 세 개의 발사체를 발사했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633039)
-#### [트럼프, 전쟁과 정치적 조사 속에서 백악관 케이지 싸움 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633038)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DJT.O/total>
-#### [로이터 / 입소스 여론 조사에 따르면 연료 및 식량 가격이 상승함에 따라 미국 농촌에서 트럼프의 지지가 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633037)
-#### [장쑤 비드 과학기술의 실질적 지배자, 회사 지분 6.6% 처분 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633036)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/605298.SS/total>

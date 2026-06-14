@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260614_1720 </title></head>
-<center>Vers : 20260614_1720 </center>
-<center>Vers : 20260615_0220 </center>
+<head><meta charset="utf-8"><title>Vers : 20260614_1926 </title></head>
+<center>Vers : 20260614_1926 </center>
+<center>Vers : 20260615_0426 </center>
 <br><br><br>
 #### [[이슈]삼전닉스 주가, 내일 대폭등? 3가지 이유](https://m.stock.naver.com/news/ranknews/view/021/0002797597)
 #### ["삼성전자 사자" 외국인 돌변한 이유가…'파격 전망' 나왔다 [강경주의 테크X]](https://m.stock.naver.com/news/ranknews/view/015/0005298478)
