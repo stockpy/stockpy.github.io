@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260614_1926 </title></head>
-<center>Vers : 20260614_1926 </center>
-<center>Vers : 20260615_0426 </center>
+<head><meta charset="utf-8"><title>Vers : 20260614_2112 </title></head>
+<center>Vers : 20260614_2112 </center>
+<center>Vers : 20260615_0612 </center>
 <br><br><br>
+#### [W/E 뉴스-미국, 이란이 협상에 가까워지고 이스라엘이 레바논을 공격합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633126)
+#### [버즈-댓글-한 주 앞으로-주요 중앙은행 결정, 미국-이란 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633125)
+#### [BUZZ-재생-호주의 생명 징후, 스털링 중단, 강세 USD / JPY 편향](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633124)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633123)
+#### [이마바리 조선, 가와사키 중공업, 나무라 조선, LNG 운반선 생산 재개, 닛케이 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633122)
+#### [룬드벡의 신약 후보가 쿠싱병 임상시험에서 가능성을 보였습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633121)
+#### [트럼프, FISA 연장에 투표 법안 포함해야 한다고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633120)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633119)
 #### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633118)
 #### [미국 상원 의원 미치 맥코넬이 일요일 아침 입원했다고 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633117)
 #### [미국 북서부 강 유량은 85 %로 변함없이 유지되었습니다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633116)
@@ -56,13 +64,3 @@
 #### [인베너지 온타리오 616MW 세인트 클레어 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633069)
 #### [스위스 유권자, 인구 상한선 거부로 EU 충돌 피할 듯](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633068)
 #### [EU 집행위원회는 인류 결정의 실질적인 결과를 검토하고 있다고 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633067)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633066)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633065)
-#### [로드리게스, 바르가스를 제압하고 세 번째 체급 세계 챔피언 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633064)
-#### [이란의 최고 협상가, 이스라엘의 베이루트 교외 공격은 미국이 약속을 이행 할 의지 나 능력이 부족하다는 것을 보여준다고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633063)
-#### [이스라엘의 레바논 공격은 답이 없을 것이라고이란 군 관계자는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633062)
-#### [스페이스X IPO로 세계 최초의 1조 달러 부자가 된 엘론 머스크](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633061)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [월스트리트 한 주 앞으로-새롭게 이끄는 연준이 미국 지수 급락의 와일드카드를 제시하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633060)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.IXIC>
-#### [영국 반이슬람 운동가 로빈슨, 테러법에 따라 잠시 구금됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633059)
