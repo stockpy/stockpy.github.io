@@ -1,7 +1,26 @@
-<head><meta charset="utf-8"><title>Vers : 20260613_2304 </title></head>
-<center>Vers : 20260613_2304 </center>
-<center>Vers : 20260614_0804 </center>
+<head><meta charset="utf-8"><title>Vers : 20260614_0406 </title></head>
+<center>Vers : 20260614_0406 </center>
+<center>Vers : 20260614_1306 </center>
 <br><br><br>
+#### [NBA-닉스, 스퍼스 꺾고 53년 NBA 우승 가뭄 끊다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632999)
+#### [대만, 중국인 정보 보고를 위한 웹사이트 개설](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632998)
+#### [닉스, 스퍼스 꺾고 53년 NBA 우승 가뭄 끊다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632997)
+#### [아이티 국방부 고위 관리, 포르토프랭스에서 납치된 것으로 알려짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632996)
+#### [호주 재판소, 일본 인펙스의 LNG 파업 중단 요청 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632995)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1605.T/total>
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632994)
+#### [호주 재판소, 일본 인펙스의 LNG 파업 중단 움직임 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632993)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1605.T/total>
+#### [미국, 이란이 협상에 가까워졌지만 시기는 여전히 불분명합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632992)
+#### [일본, 희토류 추출을 평가하기 위해 그린란드에 대표단 파견, 닛케이는 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632991)
+#### [이탈리아의 피오라반티, 엘살바도르에서 첫 월드투어 우승을 차지하며 무어가 2연패를 달성했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632990)
+#### [에어 캐나다와 IAMAW, 신규 계약에 대한 잠정 합의 도달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632989)
+#### [스위스, 인구 천만 명으로 제한하는 제안에 투표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632988)
+#### [설명자 - 스위스 인구 상한제란 무엇이며 유럽에 어떤 의미가 있나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632987)
+#### [FDA, 3 개 주에서 3 건의 확인되거나 의심되는 유아 보툴리누스 중독 질병의 다주 발병을 조사 중이라고 발표-웹 사이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632986)
+#### [미국 연방항공청, AI 기반 항공 교통 관리 시스템으로 탈레스, 팔란티르 대신 ASI 선택에 근접 - Air Current](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632985)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632984)
+#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632983)
 #### [트럼프, 제임스 맥도날드 미국 뉴욕주 검사장 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632982)
 #### [아이티와 스코틀랜드의 월드컵 경기를 앞둔 보스턴의 열기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632981)
 #### [백악관, 중국 접근에 대한 우려와 관련된 인류에 대한 수출 제한-세마포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632980)
@@ -48,21 +67,3 @@
 #### [스타머, 나토의 루테 영국이 정상 회담 전에 국방 계획을 발표 할 것이라고 말했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632942)
 #### [분쟁 지역에 계획된 쿠슈너 프로젝트, 알바니아 마을 주민들은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632941)
 #### [오르반, 선거 패배에도 불구하고 헝가리 피데즈 당수로 재선되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632940)
-#### [크루거 에너지 온타리오 101MW 포트 알마 1 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632939)
-#### [크루거 에너지 온타리오 101MW 포트 알마 2 풍력 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632938)
-#### [우크라이나의 자포리자 원전, IAEA 중개 휴전 후 전력망 재연결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632937)
-#### [가슬리 포디움 복귀가 '벌레의 통'을 열었다고 빌뇌브는 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632936)
-#### [해안 프로젝트에 대한 분노로 시위대가 알바니아 개발 현장 울타리를 허물다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632935)
-#### [우크라이나의 자포리자 원전, IAEA 중개 휴전 후 전력망 재연결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632934)
-#### [이란, 이슬라마바드 각서 서명은 일요일에 열리지 않을 것이라고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632933)
-#### [베네수엘라, IMPSA, 대규모 수력 발전 프로젝트 계약 체결, 정부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632932)
-#### [모터 레이싱-안토넬리, 바르셀로나 최종 연습에서 러셀이 가장 빨라 질책받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632931)
-#### [이란 최고지도자 고 하메네이 장례식 7월 4일 시작, 장례식은 7월 9일로 예정되어 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632930)
-#### [엘 캐터튼, 익스트림 피트니스 대회 하이록스의 대규모 지분 매입을 위한 독점 협상 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632929)
-#### [베네수엘라, IMPSA, 대규모 수력 발전 프로젝트 계약 체결, 정부 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632928)
-#### [리듬 파마슈티컬스, 6개월 데이터에 따르면 세트멜라노타이드가 다발성 경화증 환자에서 여러 평가지표를 개선했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632927)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RYTM.O/total>
-#### [인도 공군 비행기 추락 사고로 탑승자 5명 전원 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632926)
-#### [러셀, 바르셀로나 최종 예선에서 가장 빠른 기록 세우기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632925)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632924)
-#### [NHC 열대 날씨 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2632923)
