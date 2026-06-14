@@ -1,7 +1,29 @@
-<head><meta charset="utf-8"><title>Vers : 20260614_2112 </title></head>
-<center>Vers : 20260614_2112 </center>
-<center>Vers : 20260615_0612 </center>
+<head><meta charset="utf-8"><title>Vers : 20260614_2309 </title></head>
+<center>Vers : 20260614_2309 </center>
+<center>Vers : 20260615_0809 </center>
 <br><br><br>
+#### [이란 협상 후 이란 제재 해제 준비 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633145)
+#### [걸프 협상 소식에 아시아 증시 급등, 유가 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633144)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [미국과 이란이 예비 협상 합의 후 BUZZ-NZD/USD 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633143)
+#### [취약한 이란 협상, 석유 구호는 제공하지만 호르무즈 리스크는 여전히 남아 있습니다: Bousso](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633142)
+#### [한 주간의 브레이킹뷰: 이탈리아의 은행 드라마](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633141)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [우크라이나가 키예프 상공에서 공습을 격퇴하면서 부상자 1 명, 현지 당국은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633140)
+#### [스타머 영국 총리, 미-이란 평화 협상 환영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633139)
+#### [이란, 오늘 밤부터 다양한 전선에서 즉각적이고 영구적 인 전쟁 종식 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633138)
+#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633137)
+#### [우크라이나, 키예프 상공 공습 격퇴, 시장은 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633136)
+#### [미국과 이란의 평화 협상 타결, 호르무즈 해협 재개 이후 유가가 4% 넘게 하락했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633135)
+#### [호르무즈 해협 재개장 발표로 BUZZ-AUD/USD가 급등했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633134)
+#### [미국,이란, 평화 협정 체결, 금요일 서명 예정, 파키스탄은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633133)
+#### [영국, 16세 미만 소셜 미디어 제한 시행 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633132)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [파키스탄 총리, 미국과이란이 회담 후 평화 협정에 도달했다고 말함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633131)
+#### [BUZZ-COMMENT-RBA는 유지하되 매파적 어조를 완화할까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633130)
+#### [트럼프, 이란 핵 협상이 임박했다고 WSJ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633129)
+#### [엔브릿지 온타리오 182MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633128)
+#### [트랜스알타 온타리오 200MW 멜랑톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633127)
 #### [W/E 뉴스-미국, 이란이 협상에 가까워지고 이스라엘이 레바논을 공격합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633126)
 #### [버즈-댓글-한 주 앞으로-주요 중앙은행 결정, 미국-이란 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633125)
 #### [BUZZ-재생-호주의 생명 징후, 스털링 중단, 강세 USD / JPY 편향](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633124)
@@ -43,24 +65,3 @@
 #### [이스라엘은 베이루트 남부 교외의 헤즈볼라 목표물을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633088)
 #### [카니 캐나다 총리, G7 전날 조부모의 아일랜드 마을 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633087)
 #### [제네바에서 열린 G7 반대 행진에서 시위대가 창문을 부수고 테슬라에 불을 질렀습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633086)
-#### [레이자드, 베네수엘라 금융 자문사로 센터뷰를 대체하기 위해 입찰, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633085)
-#### [뉴욕시가 닉스 축하 행사를 준비하면서 농구-혼란과 색종이 조각이 가라앉습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633084)
-#### [경기 전 우산과 맥주를 찾는 독일과 큐라소 팬들, 비를 만나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633083)
-#### [모터 레이싱-해밀턴이 페라리의 첫 우승을 차지하며 안토넬리의 질주를 끝내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633082)
-#### [우크라이나의 젤 렌 스키, 트럼프와의 통화에서 전쟁과 외교에 대해 논의했다고 고문은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633081)
-#### [한국, 5월 이란산 원유 수입 전무 - 세관](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633080)
-#### [라자드, 베네수엘라 금융 자문사로 센터뷰 대체 입찰, 블룸버그 뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633079)
-#### [해밀턴이 41세에 페라리에서 첫 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633078)
-#### [휴전을 구하기위한 새로운 노력에도 불구하고 이스라엘의 총격으로 가자 지구에서 6 명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633077)
-#### [투자 은행 Lazard Inc. 는 베네수엘라의 금융 자문사로서 라이벌 센터뷰 파트너를 쫓아내기 위해 늦은 입찰을 하고 있습니다- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633076)
-#### [셀덱스 테라퓨틱스, 바르졸볼리맙, 2상 CSU 임상시험에서 1차 유효성 평가지표 충족했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633075)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CLDX.O/total>
-#### [이탈리아 장군, 극우 정당 출범, 멜로니의 선거 희망 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633074)
-#### [영국, 일본이 기술 파트너십에 합의하고 전투기 개발을 다짐하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633073)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7011.T/total>
-#### [모터 레이싱-토요타 르망 24시간 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633072)
-#### [브룩필드 온타리오 189MW 프린스 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633071)
-#### [트랜알타 온타리오 198MW 울프 아일랜드 풍력 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633070)
-#### [인베너지 온타리오 616MW 세인트 클레어 가스 발전소 폐쇄 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633069)
-#### [스위스 유권자, 인구 상한선 거부로 EU 충돌 피할 듯](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633068)
-#### [EU 집행위원회는 인류 결정의 실질적인 결과를 검토하고 있다고 대변인은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633067)
