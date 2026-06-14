@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260614_1555 </title></head>
-<center>Vers : 20260614_1555 </center>
-<center>Vers : 20260615_0055 </center>
+<head><meta charset="utf-8"><title>Vers : 20260614_1720 </title></head>
+<center>Vers : 20260614_1720 </center>
+<center>Vers : 20260615_0220 </center>
 <br><br><br>
+#### [시위대가 제네바 반G7 행진에서 테슬라에 불을 지르고 유엔 사무소의 창문을 부수고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633095)
+#### [트럼프는 푸틴에게 전화 통화에서 우크라이나 분쟁을 끝내는 것이 중요하며 그가 도울 수 있다고 크렘린 고문은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633094)
+#### [스위스 경찰, 반 G7 시위대가 유엔 사이트를 목표로 최루탄 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633093)
+#### [인베너지 온타리오 616MW 세인트 클레어 가스 발전소 재가동 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633092)
+#### [로미오와 줄리엣: 터키에서 발레 공연 중 고양이가 공연을 훔치다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633091)
+#### [농구-뉴욕시가 닉스 축하 행사를 준비하면서 혼란과 색종이 조각이 가라앉습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633090)
+#### [연안 프로젝트에 대한 분노로 시위대가 알바니아 개발 현장의 울타리를 허물고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633089)
 #### [이스라엘은 베이루트 남부 교외의 헤즈볼라 목표물을 공격했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633088)
 #### [카니 캐나다 총리, G7 전날 조부모의 아일랜드 마을 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633087)
 #### [제네바에서 열린 G7 반대 행진에서 시위대가 창문을 부수고 테슬라에 불을 질렀습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633086)
@@ -64,13 +71,3 @@
 #### [로이터 / 입소스 여론 조사에 따르면 연료 및 식량 가격이 상승함에 따라 미국 농촌에서 트럼프의 지지가 하락합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633037)
 #### [장쑤 비드 과학기술의 실질적 지배자, 회사 지분 6.6% 처분 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633036)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/605298.SS/total>
-#### [애스턴 마틴의 계속되는 부진에 '지친' 알론소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633035)
-#### [닝보 산싱 메디컬 일렉트릭, 홍콩증권거래소에 홍콩 상장 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633034)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601567.SS/total>
-#### [한국, 미국과 원화 약세에 협력하기로 합의, 연합뉴스 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633033)
-#### [영국은 여전히 국방에 얼마를 지출할지 논의 중이라고 장관은 말합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633032)
-#### [산동 양구 화타이 화학의 양구 공장, 창고 화재로 생산이 중단되었습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633031)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300121.SZ/total>
-#### [르망에서 6시간 남은 모터 레이싱-캐딜락과 BMW의 팽팽한 접전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633030)
-#### [상하이 국제공항, 푸동 공항의 5월 여객 처리량이 전년 대비 1.0% 감소했다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2633029)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600009.SS/total>
