@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260616_1652 </title></head>
-<center>Vers : 20260616_1652 </center>
-<center>Vers : 20260617_0152 </center>
+<head><meta charset="utf-8"><title>Vers : 20260616_2010 </title></head>
+<center>Vers : 20260616_2010 </center>
+<center>Vers : 20260617_0510 </center>
 <br><br><br>
 #### [“월급으로 주식 1주 살 판” 200만원도 우습다…황제주 넘어 ‘명품주’ 속출 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002657451)
 #### ["샀다 팔았다 지긋지긋해"…삼전닉스 투자자들 눈 돌리는 곳[클릭 e종목]](https://m.stock.naver.com/news/ranknews/view/277/0005776696)
