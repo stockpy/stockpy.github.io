@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260617_1923 </title></head>
-<center>Vers : 20260617_1923 </center>
-<center>Vers : 20260618_0423 </center>
+<head><meta charset="utf-8"><title>Vers : 20260617_2200 </title></head>
+<center>Vers : 20260617_2200 </center>
+<center>Vers : 20260618_0700 </center>
 <br><br><br>
 #### [“그때 안 사길 잘했다”…고점서 미끄러진 金값, 골드바도 인기 급감](https://m.stock.naver.com/news/ranknews/view/009/0005695338)
 #### [“올들어 700% 폭등, 목표주가 300만원” 파격 전망…외국인들이 쓸어 담는 ‘이 주식’](https://m.stock.naver.com/news/ranknews/view/016/0002658023)
