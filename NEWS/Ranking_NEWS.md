@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260618_1826 </title></head>
-<center>Vers : 20260618_1826 </center>
-<center>Vers : 20260619_0326 </center>
+<head><meta charset="utf-8"><title>Vers : 20260618_2102 </title></head>
+<center>Vers : 20260618_2102 </center>
+<center>Vers : 20260619_0602 </center>
 <br><br><br>
 #### [9천피 뚫고 "1만2000피 간다" 축제인데..."우린 파란불" 비반도체 울상](https://m.stock.naver.com/news/ranknews/view/008/0005373972)
 #### [“젠슨 황이 61조 들고도 못 산 회사”…‘AI 월드컵 4강’ 뚫고 우승할 승자 [플러스 관심종목]](https://m.stock.naver.com/news/ranknews/view/009/0005695897)
