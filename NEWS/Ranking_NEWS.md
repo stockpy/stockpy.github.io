@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260619_1631 </title></head>
-<center>Vers : 20260619_1631 </center>
-<center>Vers : 20260620_0131 </center>
+<head><meta charset="utf-8"><title>Vers : 20260619_1819 </title></head>
+<center>Vers : 20260619_1819 </center>
+<center>Vers : 20260620_0319 </center>
 <br><br><br>
 #### ["20배 이상 폭등한다, 지금 절대 팔지마"…월가 큰손이 내놓은 비트코인 파격 전망](https://m.stock.naver.com/news/ranknews/view/277/0005778683)
 #### [“혹시 실손 있나요?”…30만원 도수치료 내달부터 4만원대로 통일한다](https://m.stock.naver.com/news/ranknews/view/009/0005696353)
