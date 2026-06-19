@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260619_2121 </title></head>
-<center>Vers : 20260619_2121 </center>
-<center>Vers : 20260620_0621 </center>
+<head><meta charset="utf-8"><title>Vers : 20260619_2257 </title></head>
+<center>Vers : 20260619_2257 </center>
+<center>Vers : 20260620_0757 </center>
 <br><br><br>
+#### [노르웨이의 Gassco는 6월 20일 04:00부터 6월 21일 03:59까지 아스가르드 가스전에서 하루 9.9 mcm 규모의 생산 중단을 예정하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640494)
+#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas, 예정에 없던 계량소 유지보수? Sabine 605200](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640493)
+#### [Clas Ohlson AB에 잘못 태그된 경보가 철회되었습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640492)
+#### [미국 과학자 존 점퍼, 구글 딥마인드를 떠나 앤트로픽으로 이적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640491)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [브라질 페트로브라스, 재생 가능 연료 공장 건설을 위해 12억 달러 투자 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640490)
+#### [[속보 1] 액시오스 보도에 따르면 루비오, 다음 주 중동 방문 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640489)
+#### [분쟁 속의 아동 문제를 다룬 청문회에서 이스라엘 특사와 유엔 관계자가 설전을 벌였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640488)
+#### [전투가 격화된 가운데 이스라엘과 헤즈볼라, 휴전 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640487)
+#### [브라질 중앙은행, 월요일 10억 달러 규모의 현물 경매 및 역환율 스왑 거래 실시 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640486)
+#### [브라질의 페트로브라스, 재생 가능 연료 공장 건설을 위해 12억 달러 투자 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640485)
+#### [단독-캐나다 금융사 TD, 일부 직원들에게 소프트웨어를 통해 업무 상황을 모니터링할 것이라고 통보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640484)
+#### [감독, “《Cactus Pears》는 인도 영화계에서 보기 드문 남성 간의 친밀감을 보여준다”고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640483)
+#### [캐나다의 억만장자 프랭크 스트로나흐, 성폭행 및 성추행 혐의 유죄 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640482)
 #### [OPG 온타리오 171 MW 마운틴 슈트 수력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640481)
 #### [‘보지냐’의 어머니, 월드컵에서 아들의 경기를 보기 위해 미국에 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640480)
 #### [폴란드의 투스크 총리, 폴란드와 우크라이나 간 감정 진정 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640479)
@@ -51,17 +65,3 @@
 #### [통신사 보도에 따르면, 이스탄불 사비하 고크첸 공항 노선에서 지하철 열차가 탈선했으며 승객들이 대피했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640437)
 #### [레오나르도 마리아 델 베키오는 은행과의 협상이 교착 상태에 빠진 것에 대해 델핀 이사회를 비난했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640436)
 #### [천연가스 파이프라인 긴급 공지: Southern Natural Gas, 정기 유지보수 작업 완료 (구간 460, 오번)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640435)
-#### [잉글랜드 중부에서 열차 두 대가 충돌했으며, 구조대가 현장에 출동했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640434)
-#### [미국, “다음 주 워싱턴에서 이스라엘-레바논 회담 열릴 예정”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640433)
-#### [월스트리트저널(WSJ) 보도에 따르면, 찰스 슈왑이 Cboe와 협력해 예측 시장에 진출할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640432)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOOD.O/total>
-#### [엑슨, 헝고에 다시 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640431)
-#### [뉴몬트의 레드 크리스 광산, 블록 케이브 채굴 방식으로의 전환에 필요한 핵심 승인을 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640430)
-#### [북해산 원유? 엑슨모빌, WTI 미들랜드 공급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640429)
-#### [칠레, 가족 재결합 명목으로 입국한 아이티 어린이들에 대한 조사 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640428)
-#### [젤렌스키 대통령은 벨라루스가 우크라이나 공격에 사용된 장비를 일주일 이내에 철수해야 한다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640427)
-#### [이란 협상이 난항을 겪는 가운데 트럼프, 캠프 데이비드로 향하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640426)
-#### [파나마, 운영 중단된 퍼스트 퀀텀 구리 광산에 대한 감사 결과 환경 관련 책임 문제 지적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640425)
-#### [브라질의 대두박 수출 확대가 아르헨티나의 지배적 지위에 도전장을 내밀고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640424)
-#### [브룩필드가 드라히의 XpFibre 사업 인수 경쟁에서 선두를 달리고 있는 것으로 알려졌다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640423)
-#### [IFX 보도에 따르면, 러시아가 9월 1일부터 원석 다이아몬드에 8%의 수출 관세를 부과할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640422)
