@@ -1,7 +1,29 @@
-<head><meta charset="utf-8"><title>Vers : 20260619_1819 </title></head>
-<center>Vers : 20260619_1819 </center>
-<center>Vers : 20260620_0319 </center>
+<head><meta charset="utf-8"><title>Vers : 20260619_2008 </title></head>
+<center>Vers : 20260619_2008 </center>
+<center>Vers : 20260620_0508 </center>
 <br><br><br>
+#### [트럼프, 액시오스와의 인터뷰에서 더 이상 앤트로픽을 국가 안보 위협으로 보지 않는다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640458)
+#### [쿠바 국민들은 대대적인 시장 개혁을 희망과 회의, 그리고 피로감을 안고 맞이하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640457)
+#### [노르웨이의 가스코(Gassco)는 6월 19일 19시 05분부터 6월 20일 03시 59분까지 아스가르드 가스전에서 일일 6.9 mcm 규모의 생산 중단을 예정하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640456)
+#### [중동 평화 협정 불확실성으로 라틴아메리카 자산, 주간 손실 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640455)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BVSP>
+#### [6월 19일 기준 앨버타주 카놀라 일일 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640454)
+#### [가나 회의에서 아프리카·카리브해 국가들, 노예제 배상 계획 지지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640453)
+#### [천연가스 파이프라인 긴급 공지: 2026년 6월 20일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640452)
+#### [[속보] 스타벅스, 구조조정 일환으로 영국·홍콩 사무직 인력 감축 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640451)
+#### [페루 중앙은행, 엘니뇨 위협에도 불구하고 2026년 성장 전망치를 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640450)
+#### [브라질, 다음 주 중국 주재 세무 담당관 임명 발표 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640449)
+#### [구글의 존 점퍼, 구글 딥마인드를 떠나 앤트로픽에 합류하기로 결정했다고 밝혀 - X 게시물](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640448)
+#### [폴란드 대통령, 제2차 세계대전 논란으로 우크라이나 젤렌스키 대통령에게 수여된 최고 영예 박탈 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640447)
+#### [선코어, 사니아 사업장에서 발생한 화재가 진압되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640446)
+#### [미국 북서부 강 유수량 84%로 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640445)
+#### [알파폴드(AlphaFold)의 선구자 존 점퍼, 구글 딥마인드를 떠나 앤트로픽으로 이적 - 비즈니스 인사이더](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640444)
+#### [우크라이나 외무장관은 폴란드가 젤렌스키 대통령의 훈장을 박탈한 것이 “전략적 실수”라고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640443)
+#### [[속보 1] 통신사 보도에 따르면, 이스탄불 사비하 고크첸 공항 노선에서 지하철 열차가 탈선해 3명이 부상했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640442)
+#### [선코어(Suncor)는 자사 사니아 사업장에서 발생한 화재가 진압되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640441)
+#### [폴란드 대통령, 제2차 세계대전 논란으로 우크라이나 젤렌스키 대통령에게 수여된 최고 영예 박탈 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640440)
+#### [볼리비아 위기가 트럼프가 지지하는 정부를 시험대에 올리자, 모랄레스가 배후에서 기회를 노리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640439)
+#### [런던 북부에서 열차 2대가 충돌, 다수의 부상자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640438)
 #### [통신사 보도에 따르면, 이스탄불 사비하 고크첸 공항 노선에서 지하철 열차가 탈선했으며 승객들이 대피했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640437)
 #### [레오나르도 마리아 델 베키오는 은행과의 협상이 교착 상태에 빠진 것에 대해 델핀 이사회를 비난했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640436)
 #### [천연가스 파이프라인 긴급 공지: Southern Natural Gas, 정기 유지보수 작업 완료 (구간 460, 오번)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640435)
@@ -42,25 +64,3 @@
 #### [[속보] 캡터 테라퓨틱스, 인센티브 프로그램 목적으로 8934주의 Z 시리즈 주식 발행 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640401)
 #### [유럽 증류유·디젤 제품 마진 회복세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640400)
 #### [골든 의원의 사퇴 이후, 메인주 민주당은 주요 하원 선거에서 진보 성향의 던랩을 후보로 선정했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640399)
-#### [브라질, 항공사를 대상으로 16억 달러 규모의 특별 신용 한도 개설](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640398)
-#### [[속보] 임페리얼 메탈스, 레드 크리스 광산에서 블록 케이브 프로젝트 승인 획득했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640397)
-#### [휘발유 정제 마진, 추가 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640396)
-#### [모리셔스 총리, “2026/27 회계연도 공공지출 9% 증가할 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640395)
-#### [FTSE 100 지수, 미·이란 회담과 정치적 불확실성 속에 6주 만에 가장 부진한 한 주 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640394)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
-#### [핵심 소매 판매 감소로 캐나다 달러, 14개월 만에 최저치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640393)
-#### [아제르바이잔, 국채형 수쿠크 발행 가능성 검토 중… 장관 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640392)
-#### [국제 금융 범죄 감시 기구인 FATF, 이라크와 보스니아를 ‘회색 목록’에 추가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640391)
-#### [[속보] 소게피, 유나이티드 스프링스 사업부를 어소시에이티드 메탈 포밍 테크놀로지스에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640390)
-#### [캐나다, 통조림 채소에 10% 관세 부과…미국 등 일부 국가는 제외](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640389)
-#### [우크라이나 크라마토르스크에서 러시아의 공격으로 3명 사망… 주지사 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640388)
-#### [금융 범죄 감시 기관, 나미비아와 알제리를 ‘회색 목록’에서 제외](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640387)
-#### [캐나다 기업 실적 발표 주간 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640386)
-#### [월드컵 개막, 사진으로 보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640385)
-#### [멜로니, 트럼프가 자신이 사진 찍어달라고 “간청했다”는 주장은 “완전히 지어낸 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640384)
-#### [[속보] 토파스, 연간 자동차 생산 능력을 5만 대 늘려 50만 대로 확대한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640383)
-#### [브라질, 소규모 자영업자 간소화된 세제 적용 한도를 60.5% 점진적으로 인상할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640382)
-#### [[속보] 엘리스, OCL 인수와 관련해 아일랜드 CCPC에 제출한 신고서 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640381)
-#### [영국 교통부 장관, 스타머 총리에게 사퇴 촉구 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640380)
-#### [[속보] 뷰티 테크 그룹, 정기주주총회 안건 전부가 가결되었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640379)
-#### [‘트럼프의 측근’에서 ‘트럼프 비판자’로: 멜로니, 미국 대통령에 맞서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640378)
