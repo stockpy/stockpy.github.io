@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260620_2118 </title></head>
-<center>Vers : 20260620_2118 </center>
-<center>Vers : 20260621_0618 </center>
+<head><meta charset="utf-8"><title>Vers : 20260620_2308 </title></head>
+<center>Vers : 20260620_2308 </center>
+<center>Vers : 20260621_0808 </center>
 <br><br><br>
+#### [젤렌스키, 벨라루스에 중계소 철거를 재차 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640637)
+#### [월드컵을 향한 따뜻한 환영이 어떻게 미국을 팬들에게 호감 있게 만들고 있는지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640636)
+#### [젤렌스키, 우크라이나에 대한 러시아의 대규모 공격 임박 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640635)
+#### [[속보 1] 영국 스타머 총리, 월요일 사임하고 질서 있는 퇴진 방안 제시할 전망… ‘옵저버’ 신문 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640634)
 #### [영국 스타머 총리가 월요일에 사임하고 질서 있는 퇴진 절차를 밟을 것으로 보인다고 ‘옵저버’ 신문이 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640633)
 #### [[속보 1] 타임스 보도에 따르면, 앤디 번햄이 총리가 될 경우 리브스 영국 재무장관은 해임될 전망이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640632)
 #### [소식통에 따르면 독일 위원회가 정년 연장과 국가 연금 기금 도입을 제안했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640631)
@@ -58,7 +62,3 @@
 #### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640580)
 #### [선 파마, 이노브케어 라이프사이언스를 2,870만 달러에 인수할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640579)
 #### [영국에서 발생한 치명적인 열차 사고로 9명이 여전히 위중한 상태다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640578)
-#### [[속보] 선 파마, 이노브케어 라이프사이언스 지분 100% 인수 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640577)
-#### [르노, 닛산 이사회 임원 선임 안건에 기권 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640576)
-#### [유럽이 폭염으로 찜통더위를 겪고 있는 가운데, 프랑스에서는 긴급 회의가 소집됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640575)
-#### [스위스는 부르겐슈톡에서 미국과 이란 간의 회담이 계속되고 있다고 밝혔으나, 참가자 명단은 공개하지 않았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640574)
