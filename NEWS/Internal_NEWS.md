@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260620_1604 </title></head>
-<center>Vers : 20260620_1604 </center>
-<center>Vers : 20260621_0104 </center>
+<head><meta charset="utf-8"><title>Vers : 20260620_1742 </title></head>
+<center>Vers : 20260620_1742 </center>
+<center>Vers : 20260621_0242 </center>
 <br><br><br>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640614)
+#### [젤렌스키, 우크라이나에 대한 러시아의 대규모 공격이 임박했다고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640613)
+#### [유럽, 폭염에 시달리는 가운데 프랑스, 주류 소비 제한 조치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640612)
+#### [시카고 경찰, 12명이 부상당한 총격 사건 수사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640611)
+#### [우크라이나의 젤렌스키 대통령이 러시아 튜멘 지역의 정유 시설에 대한 드론 공격을 확인했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640610)
+#### [CTV 뉴스 보도에 따르면, USMCA 무역 협정 검토를 위한 3자 회담이 7월 1일로 예정되어 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640609)
+#### [미군은 호르무즈 해협이 계속 개방되도록 감시하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640608)
+#### [역사 문제를 둘러싼 갈등이 계속되는 가운데 젤렌스키, 폴란드 훈장 반납](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640607)
+#### [이탈리아의 멜로니, 갈등이 계속되는 가운데 트럼프에게 자신의 지지율에 집중하라고 일침](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640606)
+#### [브라질의 루라 대통령은 우파 성향의 볼소나로 상원의원에 대해 여론조사에서 선두를 유지하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640605)
+#### [인도 국적 유조선 3척이 호르무즈 해협을 통과했다고 장관이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640604)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640603)
+#### [프랑스, 폭염 경보 발령에 따라 음악 축제 내 음주 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640602)
+#### [우크라이나 젤렌스키 대통령, 폴란드 대통령에게 국가 훈장을 반납했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640601)
+#### [러시아가 우크라이나 자포리자 지역에 활공폭탄을 투하해 4명이 사망했다고 주지사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640600)
+#### [[속보 1] 의료진에 따르면 이스라엘의 포격으로 가자지구에서 어린이를 포함해 6명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640599)
 #### [우크라이나의 젤렌스키 대통령은 폴란드 대통령에게 국가 훈장을 반납했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640598)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640597)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640596)
@@ -46,19 +62,3 @@
 #### [미국 중서부 지역 일일 생돼지 직거래량 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640557)
 #### [미국 중서부 동부 지역 일일 생돼지 직거래 현황 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640556)
 #### [미국 포장 쇠고기 부위별 가격 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640555)
-#### [미국 박스 포장 쇠고기 부위별 가격 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640554)
-#### [중국, 제한 조치 속에서도 5월 정유 제품 수출량이 4월보다 증가…호주는 합의된 물량을 수령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640553)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640552)
-#### [모로코 팬들, 스코틀랜드와의 월드컵 경기 승리 축하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640551)
-#### [[속보] 비즈니스 포스트 보도에 따르면, 라이언에어 CEO 오리어리는 여름철 항공 요금이 여전히 “비교적 정체된 수준”을 유지할 것으로 전망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640550)
-#### [트랜스알타(TransAlta)의 앨버타주 387 MW 키힐스 2호 석탄 화력발전소 가동 중단 - 앨버타주 전력운영청(ESO)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640549)
-#### [ISNA에 따르면, 파키스탄 내무장관이 테헤란 방문 기간 중 이란의 아라크치와 회담할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640548)
-#### [우간다, 이슬람개발은행이 6억 5천만 유로 대출 승인했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640547)
-#### [제2차 세계대전 논란 속 젤렌스키 대통령 비서실장, 폴란드 훈장 반납](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640546)
-#### [미국 회담과 관련해 회의를 위해 테헤란을 방문한다고 전했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640545)
-#### [볼리비아, 수주간의 시위 끝에 노동조합과 합의 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640544)
-#### [앳코 파워(Atco Power)의 앨버타주 385 MW 배틀 리버 5호 석탄 화력발전소 가동 중단 - 앨버타주 전력운영기구(ESO)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640543)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640534)
-#### [볼리비아의 파스 대통령, 봉쇄 사태로 비상사태 선포…군 투입의 길 열어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640542)
-#### [미국 중부 지역 도매장 돼지고기 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640541)
-#### [미국 중부 지역 도매장 돼지고기 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640540)
