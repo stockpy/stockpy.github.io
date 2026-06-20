@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260620_1926 </title></head>
-<center>Vers : 20260620_1926 </center>
-<center>Vers : 20260621_0426 </center>
+<head><meta charset="utf-8"><title>Vers : 20260620_2118 </title></head>
+<center>Vers : 20260620_2118 </center>
+<center>Vers : 20260621_0618 </center>
 <br><br><br>
+#### [영국 스타머 총리가 월요일에 사임하고 질서 있는 퇴진 절차를 밟을 것으로 보인다고 ‘옵저버’ 신문이 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640633)
+#### [[속보 1] 타임스 보도에 따르면, 앤디 번햄이 총리가 될 경우 리브스 영국 재무장관은 해임될 전망이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640632)
+#### [소식통에 따르면 독일 위원회가 정년 연장과 국가 연금 기금 도입을 제안했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640631)
+#### [세르비아에서 조기 총선을 요구하며 수천 명이 집회 열려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640630)
+#### [밴스, 이란 회담을 위해 스위스로 향하며 레바논 문제에서 진전이 있기를 기대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640629)
+#### [타임스 보도에 따르면, 앤디 번햄 의원이 총리가 될 경우 영국의 리브스 재무장관은 직위를 잃게 될 전망이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640628)
+#### [레바논에서 공습이 이어지는 가운데 이란 협상단이 스위스로 향했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640627)
+#### [파키스탄 총리와 육군 참모총장이 6월 21일 스위스에서 열리는 실무급 회담에 참석할 예정이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640626)
+#### [미국 북서부 강 유량, 최대 85% 증가 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640625)
+#### [트럼프, “미국이 통행료를 부과하지 않는 한 호르무즈 해협에 통행료를 부과하지 않을 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640624)
 #### [천연가스 파이프라인 긴급 공지: 2026년 6월 21일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640623)
 #### [우크라이나 젤렌스키 대통령, 러시아 튜멘 주 정유 시설에 대한 드론 공격 사실 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640622)
 #### [5명이 부상당한 에든버러 테러 사건과 관련해 스코틀랜드 대테러 경찰이 수사에 나섰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640621)
@@ -52,13 +62,3 @@
 #### [르노, 닛산 이사회 임원 선임 안건에 기권 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640576)
 #### [유럽이 폭염으로 찜통더위를 겪고 있는 가운데, 프랑스에서는 긴급 회의가 소집됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640575)
 #### [스위스는 부르겐슈톡에서 미국과 이란 간의 회담이 계속되고 있다고 밝혔으나, 참가자 명단은 공개하지 않았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640574)
-#### [해커로 추정되는 인물이 브라질 전역에 무단 경보를 발령했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640573)
-#### [러시아는 튜멘 주에 있는 정유소를 겨냥한 드론 공격을 격퇴했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640572)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640571)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640570)
-#### [헤즈볼라는 레바논 나바티예 인근에서 이스라엘 군을 공격 대상으로 삼았다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640569)
-#### [의료진에 따르면 이스라엘의 포격으로 가자지구에서 어린이를 포함해 5명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640568)
-#### [트럼프, 권력에 ‘제한 없다’고 밝혀… 네타냐후는 ‘제정신’을 유지해야 한다고 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640567)
-#### [오구라 아이가 브르노 서킷 신기록을 세우며 체코 그랑프리 폴 포지션을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640566)
-#### [크레타 섬 남서부 그리스에서 규모 5.8의 지진이 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640565)
-#### [뮌헨에서 화물열차 충돌 사고로 1명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640564)

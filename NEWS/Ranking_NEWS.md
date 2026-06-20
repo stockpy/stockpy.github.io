@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260620_1926 </title></head>
-<center>Vers : 20260620_1926 </center>
-<center>Vers : 20260621_0426 </center>
+<head><meta charset="utf-8"><title>Vers : 20260620_2118 </title></head>
+<center>Vers : 20260620_2118 </center>
+<center>Vers : 20260621_0618 </center>
 <br><br><br>
 #### [삼성전자 '특별배당' 효과, 63만원까지 오른다…삼성물산 목표주가 줄상향[주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005779074)
 #### [코스피 9000 돌파했는데 “닷컴버블 후반부와 닮았다”…증권가 분석은](https://m.stock.naver.com/news/ranknews/view/011/0004633226)
