@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260620_0814 </title></head>
-<center>Vers : 20260620_0814 </center>
-<center>Vers : 20260620_1714 </center>
+<head><meta charset="utf-8"><title>Vers : 20260620_1041 </title></head>
+<center>Vers : 20260620_1041 </center>
+<center>Vers : 20260620_1941 </center>
 <br><br><br>
+#### [크레타 섬 남서부 그리스에서 규모 5.8의 지진이 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640565)
+#### [뮌헨에서 화물열차 충돌 사고로 1명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640564)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640563)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640562)
+#### [아이오와/미네소타 일일 생돼지 직송량 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640561)
+#### [아이오와/미네소타 일일 생돼지 직송 현황 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640560)
+#### [미국 중서부 지역 일일 생돼지 출하량 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640559)
+#### [미국 중서부 동부 지역 일일 생돼지 출하량 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640558)
+#### [미국 중서부 지역 일일 생돼지 직거래량 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640557)
+#### [미국 중서부 동부 지역 일일 생돼지 직거래 현황 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640556)
+#### [미국 포장 쇠고기 부위별 가격 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640555)
+#### [미국 박스 포장 쇠고기 부위별 가격 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640554)
+#### [중국, 제한 조치 속에서도 5월 정유 제품 수출량이 4월보다 증가…호주는 합의된 물량을 수령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640553)
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640552)
+#### [모로코 팬들, 스코틀랜드와의 월드컵 경기 승리 축하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640551)
+#### [[속보] 비즈니스 포스트 보도에 따르면, 라이언에어 CEO 오리어리는 여름철 항공 요금이 여전히 “비교적 정체된 수준”을 유지할 것으로 전망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640550)
 #### [트랜스알타(TransAlta)의 앨버타주 387 MW 키힐스 2호 석탄 화력발전소 가동 중단 - 앨버타주 전력운영청(ESO)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640549)
 #### [ISNA에 따르면, 파키스탄 내무장관이 테헤란 방문 기간 중 이란의 아라크치와 회담할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640548)
 #### [우간다, 이슬람개발은행이 6억 5천만 유로 대출 승인했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640547)
@@ -47,6 +63,10 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRMT.O/total>
 #### [도미니카 공화국 해변 호텔 화재로 여성 1명 사망, 1,700명 대피](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640507)
 #### [볼리비아, 50일간의 반정부 시위 끝에 노동조합과 합의 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640506)
+<head><meta charset="utf-8"><title>Vers : 20260620_1041 </title></head>
+<center>Vers : 20260620_1041 </center>
+<center>Vers : 20260620_1941 </center>
+<br><br><br>
 #### [미 연방준비제도(Fed) 감독 담당 부의장 미셸 보우먼, 뱅크 오브 아메리카가 주최한 비공개 행사에서 연설 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640505)
 #### [8월 31일까지의 신흥시장 경제 행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640504)
 #### [8월 28일까지의 주요 경제 행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640503)
@@ -64,10 +84,6 @@
 #### [미국 과학자 존 점퍼, 구글 딥마인드를 떠나 앤트로픽으로 이적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640491)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
 #### [브라질 페트로브라스, 재생 가능 연료 공장 건설을 위해 12억 달러 투자 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640490)
-<head><meta charset="utf-8"><title>Vers : 20260620_0814 </title></head>
-<center>Vers : 20260620_0814 </center>
-<center>Vers : 20260620_1714 </center>
-<br><br><br>
 #### [[속보 1] 액시오스 보도에 따르면 루비오, 다음 주 중동 방문 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640489)
 #### [분쟁 속의 아동 문제를 다룬 청문회에서 이스라엘 특사와 유엔 관계자가 설전을 벌였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640488)
 #### [전투가 격화된 가운데 이스라엘과 헤즈볼라, 휴전 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640487)
@@ -114,6 +130,10 @@
 #### [구글의 존 점퍼, 구글 딥마인드를 떠나 앤트로픽에 합류하기로 결정했다고 밝혀 - X 게시물](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640448)
 #### [폴란드 대통령, 제2차 세계대전 논란으로 우크라이나 젤렌스키 대통령에게 수여된 최고 영예 박탈 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640447)
 #### [선코어, 사니아 사업장에서 발생한 화재가 진압되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640446)
+<head><meta charset="utf-8"><title>Vers : 20260620_1041 </title></head>
+<center>Vers : 20260620_1041 </center>
+<center>Vers : 20260620_1941 </center>
+<br><br><br>
 #### [미국 북서부 강 유수량 84%로 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640445)
 #### [알파폴드(AlphaFold)의 선구자 존 점퍼, 구글 딥마인드를 떠나 앤트로픽으로 이적 - 비즈니스 인사이더](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640444)
 #### [우크라이나 외무장관은 폴란드가 젤렌스키 대통령의 훈장을 박탈한 것이 “전략적 실수”라고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640443)
@@ -131,10 +151,6 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOOD.O/total>
 #### [엑슨, 헝고에 다시 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640431)
 #### [뉴몬트의 레드 크리스 광산, 블록 케이브 채굴 방식으로의 전환에 필요한 핵심 승인을 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640430)
-<head><meta charset="utf-8"><title>Vers : 20260620_0814 </title></head>
-<center>Vers : 20260620_0814 </center>
-<center>Vers : 20260620_1714 </center>
-<br><br><br>
 #### [북해산 원유? 엑슨모빌, WTI 미들랜드 공급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640429)
 #### [칠레, 가족 재결합 명목으로 입국한 아이티 어린이들에 대한 조사 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640428)
 #### [젤렌스키 대통령은 벨라루스가 우크라이나 공격에 사용된 장비를 일주일 이내에 철수해야 한다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640427)
@@ -180,6 +196,10 @@
 #### [우크라이나 크라마토르스크에서 러시아의 공격으로 3명 사망… 주지사 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640388)
 #### [금융 범죄 감시 기관, 나미비아와 알제리를 ‘회색 목록’에서 제외](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640387)
 #### [캐나다 기업 실적 발표 주간 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640386)
+<head><meta charset="utf-8"><title>Vers : 20260620_1041 </title></head>
+<center>Vers : 20260620_1041 </center>
+<center>Vers : 20260620_1941 </center>
+<br><br><br>
 #### [월드컵 개막, 사진으로 보기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640385)
 #### [멜로니, 트럼프가 자신이 사진 찍어달라고 “간청했다”는 주장은 “완전히 지어낸 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640384)
 #### [[속보] 토파스, 연간 자동차 생산 능력을 5만 대 늘려 50만 대로 확대한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640383)
@@ -196,10 +216,6 @@
 #### [영란은행은 3분기에 채권 입찰을 5차례 실시할 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640372)
 #### [[속보] 카페인 야질림, 사우디아라비아에 자회사 설립 결정 재검토 중… 대신 미국에 자회사 설립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640371)
 #### [[속보] 켄드릭 리소스, 2026년 정기주주총회 안건 모두 적법하게 가결되었다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640370)
-<head><meta charset="utf-8"><title>Vers : 20260620_0814 </title></head>
-<center>Vers : 20260620_0814 </center>
-<center>Vers : 20260620_1714 </center>
-<br><br><br>
 #### [[속보] EDF 파워 솔루션즈, BC 하이드로와 30년짜리 전력구매계약(EPA) 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640369)
 #### [러시아의 개입 의혹이 제기된 가운데, 미국은 실종된 벨라루스인 사건에 대한 수사를 촉구받았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640368)
 #### [캠핀(Camfin), CAA 및 롱마치(Longmarch)의 주주총회에 2040년 6월 30일로 회사 최종 해산 시점을 변경할 것을 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640367)
@@ -249,20 +265,3 @@
 #### [260 제1/IIA상 임상시험 첫 코호트 예비 데이터 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640328)
 #### [[속보] 슈로더, 6월 17일 기준 타겟 헬스케어 리츠 지분 5.32% 보유 사실 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640327)
 #### [27 회계연도 보팔 공장 주세 면허 신청이 기각되었다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640326)
-#### [마크롱: 우크라이나 평화 회담이 열릴 때 유럽인들이 협상 테이블에 함께해야 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640325)
-#### [마크롱: 프랑스는 제3국에 이민자 송환 거점을 설치하는 것에 반대한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640324)
-#### [[속보] CMA, 항소법원이 페니토인 조사와 관련해 “심판부가 [CMA의] 결정을 파기하는 것은 잘못되었다”고 판결했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640323)
-#### [[속보] 라이언에어, 마이클 오리어리가 2032년 4월까지 그룹 CEO직 유지한다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640322)
-#### [[속보] 워너 브라더스 디스커버리, 2026년 말까지 일부 해외 시장에서 HBO Max의 새로운 광고 형식 ‘모먼츠(Moments)’ 출시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640321)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBD.O/total>
-#### [독일의 메르츠, 현재 EU 예산안이 재정적으로 감당할 수 없다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640320)
-#### [[속보] 암리즈 AG, 몬트리올 지역 시멘트 공장 현대화 공사 착공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640319)
-#### [[속보] 영국 국방부, 레오나르도(영국)에 군용 항공기 소모성 예비 부품 공급 계약 2,700만 파운드 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640318)
-#### [독일 규제 당국, 지배구조상 문제 가능성 제기되며 베렌베르크 임원진 해임을 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640317)
-#### [[속보] TRF, 세금 부과액이 2,830만 루피에서 220만 루피로 감액되었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640316)
-#### [우크라이나 군, 러시아가 장악한 크림반도의 철도 교량을 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640315)
-#### [[속보] 카루르 비샤 은행, 1년 만기 MCLR을 9.15%에서 9.25%로 조정했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640314)
-#### [러시아 기업가 바이사로프, 경매를 통해 금광 기업 UGC 지분 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640313)
-#### [[속보] 캘리스타 인더스트리스, 주당 10루피에 2,120만 주의 전환형 신주인수권 발행 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640312)
-#### [서스테이너블 에너지 인프라, 대량 매도를 통해 라르센 앤 투브로 주식 약 210만 주를 주당 123루피에 매각 - NSE 자료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640311)
-#### [[속보] 인도 중앙은행(RBI), 2026년 6월 22일 Laf(유동성 지원 시설)에 따라 1.25조 루피 규모의 일일 변동금리 레포(VRR) 입찰 실시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640310)
