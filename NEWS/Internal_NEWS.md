@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260620_1742 </title></head>
-<center>Vers : 20260620_1742 </center>
-<center>Vers : 20260621_0242 </center>
+<head><meta charset="utf-8"><title>Vers : 20260620_1926 </title></head>
+<center>Vers : 20260620_1926 </center>
+<center>Vers : 20260621_0426 </center>
 <br><br><br>
+#### [천연가스 파이프라인 긴급 공지: 2026년 6월 21일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640623)
+#### [우크라이나 젤렌스키 대통령, 러시아 튜멘 주 정유 시설에 대한 드론 공격 사실 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640622)
+#### [5명이 부상당한 에든버러 테러 사건과 관련해 스코틀랜드 대테러 경찰이 수사에 나섰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640621)
+#### [그리스, 에비아 섬 산불 진압을 위해 소방대원, 항공기 및 헬리콥터를 투입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640620)
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640619)
+#### [유럽, 폭염에 시달리는 가운데 로마 관광객들은 더위를 식히기 위해 분주하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640618)
+#### [세르비아 북부에서 수천 명이 조기 총선을 요구하며 집회를 열었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640617)
+#### [러시아가 장악한 자포리자 원전, 외부 전력 공급이 복구되었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640616)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640615)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640614)
 #### [젤렌스키, 우크라이나에 대한 러시아의 대규모 공격이 임박했다고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640613)
 #### [유럽, 폭염에 시달리는 가운데 프랑스, 주류 소비 제한 조치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640612)
@@ -53,12 +62,3 @@
 #### [오구라 아이가 브르노 서킷 신기록을 세우며 체코 그랑프리 폴 포지션을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640566)
 #### [크레타 섬 남서부 그리스에서 규모 5.8의 지진이 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640565)
 #### [뮌헨에서 화물열차 충돌 사고로 1명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640564)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640563)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640562)
-#### [아이오와/미네소타 일일 생돼지 직송량 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640561)
-#### [아이오와/미네소타 일일 생돼지 직송 현황 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640560)
-#### [미국 중서부 지역 일일 생돼지 출하량 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640559)
-#### [미국 중서부 동부 지역 일일 생돼지 출하량 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640558)
-#### [미국 중서부 지역 일일 생돼지 직거래량 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640557)
-#### [미국 중서부 동부 지역 일일 생돼지 직거래 현황 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640556)
-#### [미국 포장 쇠고기 부위별 가격 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640555)
