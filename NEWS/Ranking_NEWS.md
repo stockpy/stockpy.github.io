@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260621_1752 </title></head>
-<center>Vers : 20260621_1752 </center>
-<center>Vers : 20260622_0252 </center>
+<head><meta charset="utf-8"><title>Vers : 20260621_1941 </title></head>
+<center>Vers : 20260621_1941 </center>
+<center>Vers : 20260622_0441 </center>
 <br><br><br>
 #### ["8조 주식 휴지조각 될 판"…벼랑 끝 몰린 개미들 '공포'](https://m.stock.naver.com/news/ranknews/view/015/0005300975)
 #### [“반도체, 더 갑니까?”…개미들 피 말릴 운명의 16시간 [불앤베어 위클리]](https://m.stock.naver.com/news/ranknews/view/009/0005696702)

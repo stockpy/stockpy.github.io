@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260621_1752 </title></head>
-<center>Vers : 20260621_1752 </center>
-<center>Vers : 20260622_0252 </center>
+<head><meta charset="utf-8"><title>Vers : 20260621_1941 </title></head>
+<center>Vers : 20260621_1941 </center>
+<center>Vers : 20260622_0441 </center>
 <br><br><br>
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640744)
+#### [천연가스 파이프라인 긴급 공지: 2026년 6월 22일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640743)
+#### [키예프 프라이드 행사에서 LGBTQ 군인들이 평등한 권리를 촉구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640742)
+#### [[속보] 탱크 제조사 KNDS 지분의 절반을 보유한 가족들이 독일 정부에 지분 40%를 매각하기로 합의했다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640741)
+#### [피로 미국 연방검사는 워싱턴 리플렉팅 풀을 훼손한 혐의로 적발된 사람들에 대해 엄중히 기소할 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640740)
+#### [쿠바 혁명의 영웅으로 칭송받던 라미로 발데스, 향년 94세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640739)
+#### [블룸버그 뉴스 보도에 따르면, KNDS의 가족 소유주들이 지분 40%를 독일 정부에 매각할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640738)
+#### [쿠바 혁명의 영웅으로 칭송받던 라미로 발데스가 94세를 일기로 별세했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640737)
+#### [ECFR 여론조사에 따르면, 대다수의 영국인들이 브렉시트에 실망하고 있는 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640736)
+#### [이스라엘의 네타냐후 총리: “우리 국민을 보호하기 위해 필요한 한 레바논 내 ‘안전지대’를 유지할 것”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640735)
+#### [6월 21일 일요일 오후 2시 25분(EDT) 기준 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640734)
+#### [미국 북서부 강 유량, 84%로 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640733)
+#### [볼리비아 위기 완화 조짐, 구호 임무 중이던 공군 전투기 추락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640732)
+#### [헝가리, OTP의 타르도스를 비용 절감 담당 부채 관리 책임자로 임명- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640731)
+#### [[속보 1] 스카이 뉴스 보도에 따르면, 오카도 그룹이 슈타이너 CEO의 후임자를 물색 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640730)
 #### [소식통에 따르면 텍사스주 갤버스턴 베이 마라톤 정유소에서 발생한 화재가 진압되었다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640729)
 #### [탈당설이 제기되는 가운데, 영국의 스타머, ‘정치적 현실’을 고민 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640728)
 #### [반려동물 없이 피난을 떠나야만 했던 우크라이나인, 눈물을 흘리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640727)
@@ -47,22 +62,3 @@
 #### [프랑스 철도 사장, 폭염 기간 동안 취약 계층 승객들에게 기차 이용을 자제할 것을 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640687)
 #### [알바니아에서 수천 명이 재러드 쿠슈너가 지지하는 리조트 건설 계획에 반대하며 시위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640686)
 #### [이스라엘의 카츠 장관은 “레바논에 주둔 중인 이스라엘 군인들은 위협에 직면했을 때 어떠한 제약도 받지 않는다”고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640685)
-#### [국제구호위원회(IRC), “우크라이나 전황의 변화로 인도적 위기가 해결되지는 않았다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640684)
-#### [이란의 아라크치, 미국과의 회담을 앞두고 스위스 측 상대와 회동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640683)
-#### [왕실 측, “찰스 국왕이 처음으로 세금 내역을 공개할 예정”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640682)
-#### [콜롬비아, 좌파 개혁파와 법과 질서를 내세우는 신진 정치인이 맞붙은 결선 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640681)
-#### [월가 주간 전망-투자자들, 마이크론 실적 발표를 AI 랠리 모멘텀을 가늠하는 지표로 보고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640680)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
-#### [모스키노, 로리스 메시나와 시모네 리조를 크리에이티브 디렉터로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640679)
-#### [대만, 5일간 전투 준비 훈련 실시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640678)
-#### [[속보] Aeffe SpA, 모스키노가 로리스 메시나와 시모네 리조를 크리에이티브 디렉터로 임명했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640677)
-#### [[속보] 칭룽 파이프, 5억 5,650만 위안 규모 입찰 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640676)
-#### [[속보] 중국국유화학공정그룹, 1~5월 수주액 총 1,531억 위안 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640675)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601117.SS/total>
-#### [대만, 5일간 전투 준비 훈련 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640674)
-#### [이란 외무부 대변인은 일요일에 이란, 미국 및 중재자들이 참여하는 4자 회담이 열릴 예정이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640673)
-#### [군 소식통, 이란 파르스 통신에 “호르무즈 해협은 여전히 봉쇄된 상태”라고 전함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640672)
-#### [[속보] 중국 CAMC 엔지니어링 산하 자회사, 에너지 프로젝트 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640671)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002051.SZ/total>
-#### [[속보] JWIPC 테크놀로지, 서버 및 관련 장비 구매 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640670)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/001339.SZ/total>
