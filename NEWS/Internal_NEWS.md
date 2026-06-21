@@ -1,7 +1,33 @@
-<head><meta charset="utf-8"><title>Vers : 20260621_0414 </title></head>
-<center>Vers : 20260621_0414 </center>
-<center>Vers : 20260621_1314 </center>
+<head><meta charset="utf-8"><title>Vers : 20260621_0841 </title></head>
+<center>Vers : 20260621_0841 </center>
+<center>Vers : 20260621_1741 </center>
 <br><br><br>
+#### [이란 외무부 대변인은 일요일에 이란, 미국 및 중재자들이 참여하는 4자 회담이 열릴 예정이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640673)
+#### [군 소식통, 이란 파르스 통신에 “호르무즈 해협은 여전히 봉쇄된 상태”라고 전함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640672)
+#### [[속보] 중국 CAMC 엔지니어링 산하 자회사, 에너지 프로젝트 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640671)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002051.SZ/total>
+#### [[속보] JWIPC 테크놀로지, 서버 및 관련 장비 구매 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640670)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/001339.SZ/total>
+#### [[속보] 징콴화 일렉트로닉스 주주, 지분 최대 3% 매각 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640669)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002885.SZ/total>
+#### [우크라이나 공격으로 5명 사망, 크림반도는 일반인 대상 연료 판매 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640668)
+#### [영국 기업부 장관은 스타머 총리가 월요일에 사임할 것이라고 생각할 이유가 없다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640667)
+#### [탈퇴 이후: 영국의 금융 산업이 브렉시트에서 어떻게 회복했는가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640666)
+#### [젤렌스키 대통령은 우크라이나가 크림 반도와 러시아 크라스노다르 지역의 석유 시설을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640665)
+#### [영국 기업부 장관은 스타머 총리가 월요일에 사임할 것이라고 생각할 이유가 없다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640664)
+#### [6월 19일 기준 우크라이나 곡물 수출량](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640663)
+#### [크림 반도, 일반인 대상 연료 판매 중단…러시아가 임명한 주지사가 밝히다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640662)
+#### [러시아 당국에 따르면, 우크라이나의 드론 공격으로 크림 반도와 크라스노다르 주에서 5명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640661)
+#### [이스라엘은 주요 자금 조달 네트워크와 연루된 하마스 및 이슬람 지하드 요원 2명을 “제거”했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640660)
+#### [이란 간 최종 합의의 시험대가 될 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640659)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640658)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640657)
+#### [밴스 미국 부통령, 이란과의 평화 회담을 위해 스위스에 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640656)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640655)
+#### [[속보] 스페이스X, MSCI로부터 ESG 등급 중 최저 등급 부여받아 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640654)
+#### [항암제 제조사 레볼루션 메디신스, 매각은 우선순위가 아니라고 밝혀 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640653)
+#### [주목할 요인 - 6월 21일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640652)
+#### [분석-요거트 전쟁: 다논과 초바니의 대립, 더 광범위한 단백질 시장 경쟁을 여실히 보여준다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640651)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640650)
 #### [[종합 2] 협상단이 스위스로 향하는 가운데, 미국, 호르무즈 해협 봉쇄에 대한 이란의 주장에 반박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640649)
 #### [로스앤젤레스 시장, 창고 화재로 비상사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640648)
@@ -39,6 +65,10 @@
 #### [러시아가 장악한 자포리자 원전, 외부 전력 공급이 복구되었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640616)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640615)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640614)
+<head><meta charset="utf-8"><title>Vers : 20260621_0841 </title></head>
+<center>Vers : 20260621_0841 </center>
+<center>Vers : 20260621_1741 </center>
+<br><br><br>
 #### [젤렌스키, 우크라이나에 대한 러시아의 대규모 공격이 임박했다고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640613)
 #### [유럽, 폭염에 시달리는 가운데 프랑스, 주류 소비 제한 조치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640612)
 #### [시카고 경찰, 12명이 부상당한 총격 사건 수사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640611)
@@ -62,3 +92,40 @@
 #### [오토바이 경주 - 베제키가 추락하며 탈락한 가운데 바그나이아가 체코 그랑프리 스프린트에서 압도적인 승리를 거뒀다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640593)
 #### [유비소프트 공동 창업자 클로드 기예모, 비행기 추락 사고로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640592)
 #### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640591)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640590)
+#### [돌체 앤 가바나, 2027년 여름 남성복 컬렉션에 시칠리아의 휴가 분위기를 담아내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640589)
+#### [시위대가 이란 반정부 집회 금지 조치를 무시하자 파리 경찰이 20명을 체포했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640588)
+#### [스페인 총리 부인, 부패 혐의로 재판에 회부되어야 한다고 판사가 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640587)
+#### [바그나이아, 체코 그랑프리 스프린트에서 압도적인 우승… 베제키, 추락으로 탈락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640586)
+#### [스페인 정부는 자신이 저지르지 않은 강간 혐의로 15년 동안 수감 생활을 한 남성에게 250만 유로를 배상해야 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640585)
+#### [이란, 휴전 위반을 이유로 호르무즈 해협 봉쇄 - MEHR](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640584)
+#### [밴스는 며칠 내로 이란 협상을 위해 스위스를 방문할 예정이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640583)
+#### [IAEA, 우크라이나 자포리자 원전 외부 전력 공급이 20번째로 중단됐다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640582)
+#### [판사, “스페인 총리의 부인은 부패 혐의로 재판을 받아야 한다”고 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640581)
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640580)
+#### [선 파마, 이노브케어 라이프사이언스를 2,870만 달러에 인수할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640579)
+#### [영국에서 발생한 치명적인 열차 사고로 9명이 여전히 위중한 상태다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640578)
+#### [[속보] 선 파마, 이노브케어 라이프사이언스 지분 100% 인수 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640577)
+#### [르노, 닛산 이사회 임원 선임 안건에 기권 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640576)
+#### [유럽이 폭염으로 찜통더위를 겪고 있는 가운데, 프랑스에서는 긴급 회의가 소집됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640575)
+#### [스위스는 부르겐슈톡에서 미국과 이란 간의 회담이 계속되고 있다고 밝혔으나, 참가자 명단은 공개하지 않았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640574)
+#### [해커로 추정되는 인물이 브라질 전역에 무단 경보를 발령했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640573)
+#### [러시아는 튜멘 주에 있는 정유소를 겨냥한 드론 공격을 격퇴했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640572)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640571)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640570)
+#### [헤즈볼라는 레바논 나바티예 인근에서 이스라엘 군을 공격 대상으로 삼았다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640569)
+#### [의료진에 따르면 이스라엘의 포격으로 가자지구에서 어린이를 포함해 5명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640568)
+#### [트럼프, 권력에 ‘제한 없다’고 밝혀… 네타냐후는 ‘제정신’을 유지해야 한다고 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640567)
+#### [오구라 아이가 브르노 서킷 신기록을 세우며 체코 그랑프리 폴 포지션을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640566)
+#### [크레타 섬 남서부 그리스에서 규모 5.8의 지진이 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640565)
+#### [뮌헨에서 화물열차 충돌 사고로 1명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640564)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640563)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640562)
+#### [아이오와/미네소타 일일 생돼지 직송량 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640561)
+#### [아이오와/미네소타 일일 생돼지 직송 현황 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640560)
+#### [미국 중서부 지역 일일 생돼지 출하량 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640559)
+#### [미국 중서부 동부 지역 일일 생돼지 출하량 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640558)
+#### [미국 중서부 지역 일일 생돼지 직거래량 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640557)
+#### [미국 중서부 동부 지역 일일 생돼지 직거래 현황 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640556)
+#### [미국 포장 쇠고기 부위별 가격 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640555)
+#### [미국 박스 포장 쇠고기 부위별 가격 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640554)
