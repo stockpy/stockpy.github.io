@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260621_1611 </title></head>
-<center>Vers : 20260621_1611 </center>
-<center>Vers : 20260622_0111 </center>
+<head><meta charset="utf-8"><title>Vers : 20260621_1752 </title></head>
+<center>Vers : 20260621_1752 </center>
+<center>Vers : 20260622_0252 </center>
 <br><br><br>
+#### [소식통에 따르면 텍사스주 갤버스턴 베이 마라톤 정유소에서 발생한 화재가 진압되었다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640729)
+#### [탈당설이 제기되는 가운데, 영국의 스타머, ‘정치적 현실’을 고민 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640728)
+#### [반려동물 없이 피난을 떠나야만 했던 우크라이나인, 눈물을 흘리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640727)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640726)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640725)
+#### [베제키, 체코 그랑프리에서 말다툼으로 출전 정지 처분을 받은 뒤 사과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640724)
+#### [이란 협상 대표, “이란산 원유에 대한 제재 면제 조치가 곧 발표될 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640723)
+#### [프랑스 외무장관, 월요일 스위스에서 카타르 총리와 회동 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640722)
+#### [양극화된 콜롬비아 대통령 선거에서 투표 진행 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640721)
+#### [스카이 뉴스 보도에 따르면, 오카도 그룹이 슈타이너 CEO의 후임자를 물색 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640720)
+#### [[속보] 오카도 그룹, 공동 창업자 겸 최고경영자 슈타이너의 후임자 내정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640719)
+#### [이란 국영 석유회사에 따르면, 월요일 이후 2,500만 배럴의 이란산 원유가 봉쇄선을 통과했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640718)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640717)
+#### [헤즈볼라 지도자, 이스라엘의 어떠한 위반 행위에도 대응하겠다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640716)
+#### [밴스, 트럼프가 이란 측과 “새로운 장을 열자”고 요청했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640715)
 #### [프라다, 밀라노 남성복 쇼에서 핵심 요소로 돌아갔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640714)
 #### [[속보 1] 콜롬비아, 좌파 개혁파와 법과 질서를 내세우는 신진 정치인이 맞붙은 결선 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640713)
 #### [프라하에서 시위대가 정부의 공영 미디어 지원 정책 변경에 항의하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640712)
@@ -51,19 +66,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002051.SZ/total>
 #### [[속보] JWIPC 테크놀로지, 서버 및 관련 장비 구매 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640670)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/001339.SZ/total>
-#### [[속보] 징콴화 일렉트로닉스 주주, 지분 최대 3% 매각 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640669)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002885.SZ/total>
-#### [우크라이나 공격으로 5명 사망, 크림반도는 일반인 대상 연료 판매 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640668)
-#### [영국 기업부 장관은 스타머 총리가 월요일에 사임할 것이라고 생각할 이유가 없다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640667)
-#### [탈퇴 이후: 영국의 금융 산업이 브렉시트에서 어떻게 회복했는가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640666)
-#### [젤렌스키 대통령은 우크라이나가 크림 반도와 러시아 크라스노다르 지역의 석유 시설을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640665)
-#### [영국 기업부 장관은 스타머 총리가 월요일에 사임할 것이라고 생각할 이유가 없다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640664)
-#### [6월 19일 기준 우크라이나 곡물 수출량](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640663)
-#### [크림 반도, 일반인 대상 연료 판매 중단…러시아가 임명한 주지사가 밝히다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640662)
-#### [러시아 당국에 따르면, 우크라이나의 드론 공격으로 크림 반도와 크라스노다르 주에서 5명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640661)
-#### [이스라엘은 주요 자금 조달 네트워크와 연루된 하마스 및 이슬람 지하드 요원 2명을 “제거”했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640660)
-#### [이란 간 최종 합의의 시험대가 될 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640659)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640658)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640657)
-#### [밴스 미국 부통령, 이란과의 평화 회담을 위해 스위스에 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640656)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640655)
