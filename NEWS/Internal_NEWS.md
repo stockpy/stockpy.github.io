@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260621_1135 </title></head>
-<center>Vers : 20260621_1135 </center>
-<center>Vers : 20260621_2035 </center>
+<head><meta charset="utf-8"><title>Vers : 20260621_1410 </title></head>
+<center>Vers : 20260621_1410 </center>
+<center>Vers : 20260621_2310 </center>
 <br><br><br>
+#### [트럼프, “이란이 헤즈볼라 동맹 세력을 제재하지 않으면 미국이 공격을 재개할 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640702)
+#### [스페인, 2026년 첫 공식 폭염으로 무더위에 시달리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640701)
+#### [국회의원들이 비상사태 선포를 지지함에 따라 볼리비아 위기가 완화되기 시작했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640700)
+#### [오토바이 경주 - 마르케스, 바그나이아를 막판에 제치고 체코 MotoGP 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640699)
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640698)
+#### [밴스: 트럼프는 우리에게 이란 국민과의 관계에서 “새로운 장을 열자”고 요청했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640697)
+#### [미국과 이란의 협상단은 스위스에서 진행 중인 회담의 일환으로 카타르 중재자들과 3자 회담을 가졌다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640696)
+#### [마르케스, 바그나이아를 막판에 제치고 체코 MotoGP 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640695)
+#### [당국에 따르면, 이란 핵 협상과 관련된 비행 금지 구역 지정으로 취리히 공항의 항공편 운항에 차질이 빚어졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640694)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640693)
+#### [에르도안, 트럼프가 주목하는 터키 내 정교회 신학교 재개교를 위한 협상 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640692)
+#### [이스라엘의 카츠, “레바논에 주둔 중인 이스라엘 군인들은 위협을 받을 경우 자유롭게 대응할 수 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640691)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640690)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640689)
 #### [이란의 타스님 통신은 레바논의 휴전이 유지되고 원유 수입 면제 조치가 내려질 때까지 호르무즈 해협이 재개방되지 않을 것이라고 보도했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640688)
 #### [프랑스 철도 사장, 폭염 기간 동안 취약 계층 승객들에게 기차 이용을 자제할 것을 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640687)
 #### [알바니아에서 수천 명이 재러드 쿠슈너가 지지하는 리조트 건설 계획에 반대하며 시위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640686)
@@ -53,6 +67,10 @@
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640645)
 #### [트럼프는 소위 ‘파손범’들을 비난하며 워싱턴 리플렉팅 풀에 수리가 필요하다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640644)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640643)
+<head><meta charset="utf-8"><title>Vers : 20260621_1410 </title></head>
+<center>Vers : 20260621_1410 </center>
+<center>Vers : 20260621_2310 </center>
+<br><br><br>
 #### [천연가스 파이프라인 긴급 공지: Southern Natural Gas, 400 구간의 예정 외 유지보수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640642)
 #### [[종합 1] 협상단이 스위스로 향하는 가운데, 미국, 호르무즈 해협 봉쇄에 대한 이란의 주장에 반박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640641)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640640)
@@ -67,10 +85,6 @@
 #### [소식통에 따르면 독일 위원회가 정년 연장과 국가 연금 기금 도입을 제안했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640631)
 #### [세르비아에서 조기 총선을 요구하며 수천 명이 집회 열려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640630)
 #### [밴스, 이란 회담을 위해 스위스로 향하며 레바논 문제에서 진전이 있기를 기대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640629)
-<head><meta charset="utf-8"><title>Vers : 20260621_1135 </title></head>
-<center>Vers : 20260621_1135 </center>
-<center>Vers : 20260621_2035 </center>
-<br><br><br>
 #### [타임스 보도에 따르면, 앤디 번햄 의원이 총리가 될 경우 영국의 리브스 재무장관은 직위를 잃게 될 전망이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640628)
 #### [레바논에서 공습이 이어지는 가운데 이란 협상단이 스위스로 향했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640627)
 #### [파키스탄 총리와 육군 참모총장이 6월 21일 스위스에서 열리는 실무급 회담에 참석할 예정이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640626)
@@ -117,17 +131,3 @@
 #### [스페인 정부는 자신이 저지르지 않은 강간 혐의로 15년 동안 수감 생활을 한 남성에게 250만 유로를 배상해야 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640585)
 #### [이란, 휴전 위반을 이유로 호르무즈 해협 봉쇄 - MEHR](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640584)
 #### [밴스는 며칠 내로 이란 협상을 위해 스위스를 방문할 예정이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640583)
-#### [IAEA, 우크라이나 자포리자 원전 외부 전력 공급이 20번째로 중단됐다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640582)
-#### [판사, “스페인 총리의 부인은 부패 혐의로 재판을 받아야 한다”고 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640581)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640580)
-#### [선 파마, 이노브케어 라이프사이언스를 2,870만 달러에 인수할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640579)
-#### [영국에서 발생한 치명적인 열차 사고로 9명이 여전히 위중한 상태다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640578)
-#### [[속보] 선 파마, 이노브케어 라이프사이언스 지분 100% 인수 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640577)
-#### [르노, 닛산 이사회 임원 선임 안건에 기권 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640576)
-#### [유럽이 폭염으로 찜통더위를 겪고 있는 가운데, 프랑스에서는 긴급 회의가 소집됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640575)
-#### [스위스는 부르겐슈톡에서 미국과 이란 간의 회담이 계속되고 있다고 밝혔으나, 참가자 명단은 공개하지 않았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640574)
-#### [해커로 추정되는 인물이 브라질 전역에 무단 경보를 발령했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640573)
-#### [러시아는 튜멘 주에 있는 정유소를 겨냥한 드론 공격을 격퇴했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640572)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640571)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640570)
-#### [헤즈볼라는 레바논 나바티예 인근에서 이스라엘 군을 공격 대상으로 삼았다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640569)
