@@ -1,7 +1,26 @@
-<head><meta charset="utf-8"><title>Vers : 20260621_2113 </title></head>
-<center>Vers : 20260621_2113 </center>
-<center>Vers : 20260622_0613 </center>
+<head><meta charset="utf-8"><title>Vers : 20260621_2313 </title></head>
+<center>Vers : 20260621_2313 </center>
+<center>Vers : 20260622_0813 </center>
 <br><br><br>
+#### [NZD/USD, 주초 소극적인 출발 속에 소폭 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640774)
+#### [기술·암호화폐 기업들, 불법 야생동물 거래 근절에 동참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640773)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [영국, 수입 의존도 줄이기 위해 핵심 광물에 6,600만 달러 투자할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640772)
+#### [FOCUS-중국이 자국산 푸아그라를 푹 빠져들면서, 프랑스는 새로운 경쟁자에 직면했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640771)
+#### [금속-중국의 희토류 수출 제한 조치로 일본에 대한 공급 압박 가중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640770)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/4063.T/total>
+#### [이번 주 브레이킹뷰스: 이란 관련 폭로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640769)
+#### [러시아가 오데사 주에 이스칸데르 미사일을 발사해 1명이 사망하고 3명이 부상했다고 주지사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640768)
+#### [투스크 폴란드 총리, 우크라이나와의 정치적 갈등은 “전략적 실수”라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640767)
+#### [밴스가 평화 회담을 주도하는 가운데 트럼프, 이란에 추가 공습으로 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640766)
+#### [트럼프의 이란 정책 실책이 더 안전한 세상을 향한 희미한 길을 열어주다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640765)
+#### [콜롬비아 우파 후보 데 라 에스프리엘라, 대선 승리를 눈앞에 두고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640764)
+#### [소식통에 따르면 토탈에너지스는 7일 이내에 텍사스 정유소를 재가동할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640763)
+#### [로스 갈로스, 핼리팩스에서 2026 세일GP 첫 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640762)
+#### [콜롬비아의 우익 성향 후보 데 라 에스프리엘라가 좌파 성향의 세페다를 제치고 초기 개표 결과 선두를 달리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640761)
+#### [모건 스탠리, 고객들에게 데이터센터 대출의 새로운 시장을 제안- 더 인포메이션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640760)
+#### [[속보 1] 소식통에 따르면 텍사스주 마라톤사의 갤버스턴 베이 정유소에서 발생한 화재가 진압되었다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640759)
+#### [AUD/USD는 안정세를 보이고 있으나, 미·이란 협상 상황이 악화되면서 우려를 낳고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640758)
 #### [맥심 파워 앨버타의 144 MW H.R. 밀너 석탄 화력발전소 가동 개시 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640757)
 #### [워싱턴 리플렉팅 풀을 훼손한 사람들은 엄중히 처벌될 것이라고 피로 미국 연방검사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640756)
 #### [이란 대 벨기에 월드컵 경기를 앞두고 로스앤젤레스에서 보안이 강화됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640755)
@@ -45,20 +64,3 @@
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640717)
 #### [헤즈볼라 지도자, 이스라엘의 어떠한 위반 행위에도 대응하겠다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640716)
 #### [밴스, 트럼프가 이란 측과 “새로운 장을 열자”고 요청했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640715)
-#### [프라다, 밀라노 남성복 쇼에서 핵심 요소로 돌아갔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640714)
-#### [[속보 1] 콜롬비아, 좌파 개혁파와 법과 질서를 내세우는 신진 정치인이 맞붙은 결선 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640713)
-#### [프라하에서 시위대가 정부의 공영 미디어 지원 정책 변경에 항의하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640712)
-#### [폴란드의 투스크 총리, 우크라이나와의 정치적 갈등은 “전략적 실수”라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640711)
-#### [이라크는 원유 생산량을 위기 이전 수준으로 회복할 계획이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640710)
-#### [프랑스 철도 사장, 폭염 기간 동안 취약 계층 승객들에게 기차 이용 자제를 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640709)
-#### [기온이 40C에 육박하면서 유럽은 장기화된 폭염에 대비하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640708)
-#### [스코틀랜드 경찰, 반무슬림으로 보이는 공격 사건과 관련해 한 남성을 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640707)
-#### [“우리는 우라늄 농축 권리를 포기하지 않을 것”: 이란의 페제슈키안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640706)
-#### [트럼프, 스타머가 영국 총리직에서 사임할 것이라고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640705)
-#### [이스라엘 군 총사령관은 레바논 휴전 상황이 불안정하다며 군은 전투 태세를 유지해야 한다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640704)
-#### [시르 남동쪽 해상에서 유조선 사고 발생 보고 접수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640703)
-#### [트럼프, “이란이 헤즈볼라 동맹 세력을 제재하지 않으면 미국이 공격을 재개할 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640702)
-#### [스페인, 2026년 첫 공식 폭염으로 무더위에 시달리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640701)
-#### [국회의원들이 비상사태 선포를 지지함에 따라 볼리비아 위기가 완화되기 시작했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640700)
-#### [오토바이 경주 - 마르케스, 바그나이아를 막판에 제치고 체코 MotoGP 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640699)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640698)
