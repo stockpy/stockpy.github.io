@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20260621_0841 </title></head>
-<center>Vers : 20260621_0841 </center>
-<center>Vers : 20260621_1741 </center>
+<head><meta charset="utf-8"><title>Vers : 20260621_1135 </title></head>
+<center>Vers : 20260621_1135 </center>
+<center>Vers : 20260621_2035 </center>
 <br><br><br>
+#### [이란의 타스님 통신은 레바논의 휴전이 유지되고 원유 수입 면제 조치가 내려질 때까지 호르무즈 해협이 재개방되지 않을 것이라고 보도했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640688)
+#### [프랑스 철도 사장, 폭염 기간 동안 취약 계층 승객들에게 기차 이용을 자제할 것을 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640687)
+#### [알바니아에서 수천 명이 재러드 쿠슈너가 지지하는 리조트 건설 계획에 반대하며 시위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640686)
+#### [이스라엘의 카츠 장관은 “레바논에 주둔 중인 이스라엘 군인들은 위협에 직면했을 때 어떠한 제약도 받지 않는다”고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640685)
+#### [국제구호위원회(IRC), “우크라이나 전황의 변화로 인도적 위기가 해결되지는 않았다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640684)
+#### [이란의 아라크치, 미국과의 회담을 앞두고 스위스 측 상대와 회동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640683)
+#### [왕실 측, “찰스 국왕이 처음으로 세금 내역을 공개할 예정”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640682)
+#### [콜롬비아, 좌파 개혁파와 법과 질서를 내세우는 신진 정치인이 맞붙은 결선 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640681)
+#### [월가 주간 전망-투자자들, 마이크론 실적 발표를 AI 랠리 모멘텀을 가늠하는 지표로 보고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640680)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
+#### [모스키노, 로리스 메시나와 시모네 리조를 크리에이티브 디렉터로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640679)
+#### [대만, 5일간 전투 준비 훈련 실시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640678)
+#### [[속보] Aeffe SpA, 모스키노가 로리스 메시나와 시모네 리조를 크리에이티브 디렉터로 임명했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640677)
+#### [[속보] 칭룽 파이프, 5억 5,650만 위안 규모 입찰 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640676)
+#### [[속보] 중국국유화학공정그룹, 1~5월 수주액 총 1,531억 위안 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640675)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601117.SS/total>
+#### [대만, 5일간 전투 준비 훈련 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640674)
 #### [이란 외무부 대변인은 일요일에 이란, 미국 및 중재자들이 참여하는 4자 회담이 열릴 예정이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640673)
 #### [군 소식통, 이란 파르스 통신에 “호르무즈 해협은 여전히 봉쇄된 상태”라고 전함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640672)
 #### [[속보] 중국 CAMC 엔지니어링 산하 자회사, 에너지 프로젝트 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640671)
@@ -50,6 +67,10 @@
 #### [소식통에 따르면 독일 위원회가 정년 연장과 국가 연금 기금 도입을 제안했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640631)
 #### [세르비아에서 조기 총선을 요구하며 수천 명이 집회 열려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640630)
 #### [밴스, 이란 회담을 위해 스위스로 향하며 레바논 문제에서 진전이 있기를 기대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640629)
+<head><meta charset="utf-8"><title>Vers : 20260621_1135 </title></head>
+<center>Vers : 20260621_1135 </center>
+<center>Vers : 20260621_2035 </center>
+<br><br><br>
 #### [타임스 보도에 따르면, 앤디 번햄 의원이 총리가 될 경우 영국의 리브스 재무장관은 직위를 잃게 될 전망이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640628)
 #### [레바논에서 공습이 이어지는 가운데 이란 협상단이 스위스로 향했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640627)
 #### [파키스탄 총리와 육군 참모총장이 6월 21일 스위스에서 열리는 실무급 회담에 참석할 예정이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640626)
@@ -65,10 +86,6 @@
 #### [러시아가 장악한 자포리자 원전, 외부 전력 공급이 복구되었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640616)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640615)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640614)
-<head><meta charset="utf-8"><title>Vers : 20260621_0841 </title></head>
-<center>Vers : 20260621_0841 </center>
-<center>Vers : 20260621_1741 </center>
-<br><br><br>
 #### [젤렌스키, 우크라이나에 대한 러시아의 대규모 공격이 임박했다고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640613)
 #### [유럽, 폭염에 시달리는 가운데 프랑스, 주류 소비 제한 조치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640612)
 #### [시카고 경찰, 12명이 부상당한 총격 사건 수사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640611)
@@ -114,18 +131,3 @@
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640571)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640570)
 #### [헤즈볼라는 레바논 나바티예 인근에서 이스라엘 군을 공격 대상으로 삼았다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640569)
-#### [의료진에 따르면 이스라엘의 포격으로 가자지구에서 어린이를 포함해 5명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640568)
-#### [트럼프, 권력에 ‘제한 없다’고 밝혀… 네타냐후는 ‘제정신’을 유지해야 한다고 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640567)
-#### [오구라 아이가 브르노 서킷 신기록을 세우며 체코 그랑프리 폴 포지션을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640566)
-#### [크레타 섬 남서부 그리스에서 규모 5.8의 지진이 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640565)
-#### [뮌헨에서 화물열차 충돌 사고로 1명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640564)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640563)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640562)
-#### [아이오와/미네소타 일일 생돼지 직송량 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640561)
-#### [아이오와/미네소타 일일 생돼지 직송 현황 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640560)
-#### [미국 중서부 지역 일일 생돼지 출하량 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640559)
-#### [미국 중서부 동부 지역 일일 생돼지 출하량 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640558)
-#### [미국 중서부 지역 일일 생돼지 직거래량 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640557)
-#### [미국 중서부 동부 지역 일일 생돼지 직거래 현황 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640556)
-#### [미국 포장 쇠고기 부위별 가격 - 오후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640555)
-#### [미국 박스 포장 쇠고기 부위별 가격 - 오전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640554)
