@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260620_2308 </title></head>
-<center>Vers : 20260620_2308 </center>
-<center>Vers : 20260621_0808 </center>
+<head><meta charset="utf-8"><title>Vers : 20260621_0414 </title></head>
+<center>Vers : 20260621_0414 </center>
+<center>Vers : 20260621_1314 </center>
 <br><br><br>
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640650)
+#### [[종합 2] 협상단이 스위스로 향하는 가운데, 미국, 호르무즈 해협 봉쇄에 대한 이란의 주장에 반박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640649)
+#### [로스앤젤레스 시장, 창고 화재로 비상사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640648)
+#### [트럼프, 소위 ‘파손범’을 비난하며 워싱턴 리플렉팅 풀에 수리가 필요하다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640647)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640646)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640645)
+#### [트럼프는 소위 ‘파손범’들을 비난하며 워싱턴 리플렉팅 풀에 수리가 필요하다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640644)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640643)
+#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas, 400 구간의 예정 외 유지보수 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640642)
+#### [[종합 1] 협상단이 스위스로 향하는 가운데, 미국, 호르무즈 해협 봉쇄에 대한 이란의 주장에 반박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640641)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640640)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640639)
+#### [스코틀랜드 대테러 경찰, 에든버러에서 발생한 것으로 보이는 반무슬림 공격 사건 수사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640638)
 #### [젤렌스키, 벨라루스에 중계소 철거를 재차 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640637)
 #### [월드컵을 향한 따뜻한 환영이 어떻게 미국을 팬들에게 호감 있게 만들고 있는지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640636)
 #### [젤렌스키, 우크라이나에 대한 러시아의 대규모 공격 임박 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640635)
@@ -49,16 +62,3 @@
 #### [오토바이 경주 - 베제키가 추락하며 탈락한 가운데 바그나이아가 체코 그랑프리 스프린트에서 압도적인 승리를 거뒀다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640593)
 #### [유비소프트 공동 창업자 클로드 기예모, 비행기 추락 사고로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640592)
 #### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640591)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640590)
-#### [돌체 앤 가바나, 2027년 여름 남성복 컬렉션에 시칠리아의 휴가 분위기를 담아내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640589)
-#### [시위대가 이란 반정부 집회 금지 조치를 무시하자 파리 경찰이 20명을 체포했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640588)
-#### [스페인 총리 부인, 부패 혐의로 재판에 회부되어야 한다고 판사가 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640587)
-#### [바그나이아, 체코 그랑프리 스프린트에서 압도적인 우승… 베제키, 추락으로 탈락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640586)
-#### [스페인 정부는 자신이 저지르지 않은 강간 혐의로 15년 동안 수감 생활을 한 남성에게 250만 유로를 배상해야 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640585)
-#### [이란, 휴전 위반을 이유로 호르무즈 해협 봉쇄 - MEHR](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640584)
-#### [밴스는 며칠 내로 이란 협상을 위해 스위스를 방문할 예정이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640583)
-#### [IAEA, 우크라이나 자포리자 원전 외부 전력 공급이 20번째로 중단됐다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640582)
-#### [판사, “스페인 총리의 부인은 부패 혐의로 재판을 받아야 한다”고 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640581)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640580)
-#### [선 파마, 이노브케어 라이프사이언스를 2,870만 달러에 인수할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640579)
-#### [영국에서 발생한 치명적인 열차 사고로 9명이 여전히 위중한 상태다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640578)
