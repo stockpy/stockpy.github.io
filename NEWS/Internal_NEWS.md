@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260621_1941 </title></head>
-<center>Vers : 20260621_1941 </center>
-<center>Vers : 20260622_0441 </center>
+<head><meta charset="utf-8"><title>Vers : 20260621_2113 </title></head>
+<center>Vers : 20260621_2113 </center>
+<center>Vers : 20260622_0613 </center>
 <br><br><br>
+#### [맥심 파워 앨버타의 144 MW H.R. 밀너 석탄 화력발전소 가동 개시 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640757)
+#### [워싱턴 리플렉팅 풀을 훼손한 사람들은 엄중히 처벌될 것이라고 피로 미국 연방검사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640756)
+#### [이란 대 벨기에 월드컵 경기를 앞두고 로스앤젤레스에서 보안이 강화됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640755)
+#### [[업데이트 1] FT 보도에 따르면, 건축자재 그룹 CRH가 아코사(Arcosa) 인수 계약을 마무리 단계에 접어들었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640754)
+#### [BUZZ-COMMENT-이번 주 전망-신중한 시장 분위기 속 미국 PCE, 글로벌 PMI가 주목받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640753)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640752)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640751)
+#### [[속보] 캡스톤 코퍼, 만토스 블랑코스 광산에서 노사 합의 체결 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640750)
+#### [카타르, 라스 라판 공장서 폭발 발생…부상자나 유출은 보고되지 않아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640749)
+#### [도하에서 큰 폭발음이 들렸으나, 원인은 밝혀지지 않았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640748)
+#### [[업데이트 1] 소식통에 따르면, KNDS 소유주 일가가 지분 40%를 독일 정부에 매각할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640747)
+#### [[속보] 건축자재 그룹 CRH, 아코사(Arcosa) 인수 위해 사상 최대 규모 거래 성사 임박  - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640746)
+#### [파이낸셜타임스(FT) 보도에 따르면, 건축자재 그룹 CRH가 아코사(Arcosa) 인수 계약을 마무리 단계에 접어들었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640745)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640744)
 #### [천연가스 파이프라인 긴급 공지: 2026년 6월 22일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640743)
 #### [키예프 프라이드 행사에서 LGBTQ 군인들이 평등한 권리를 촉구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640742)
@@ -49,16 +62,3 @@
 #### [국회의원들이 비상사태 선포를 지지함에 따라 볼리비아 위기가 완화되기 시작했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640700)
 #### [오토바이 경주 - 마르케스, 바그나이아를 막판에 제치고 체코 MotoGP 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640699)
 #### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640698)
-#### [밴스: 트럼프는 우리에게 이란 국민과의 관계에서 “새로운 장을 열자”고 요청했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640697)
-#### [미국과 이란의 협상단은 스위스에서 진행 중인 회담의 일환으로 카타르 중재자들과 3자 회담을 가졌다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640696)
-#### [마르케스, 바그나이아를 막판에 제치고 체코 MotoGP 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640695)
-#### [당국에 따르면, 이란 핵 협상과 관련된 비행 금지 구역 지정으로 취리히 공항의 항공편 운항에 차질이 빚어졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640694)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640693)
-#### [에르도안, 트럼프가 주목하는 터키 내 정교회 신학교 재개교를 위한 협상 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640692)
-#### [이스라엘의 카츠, “레바논에 주둔 중인 이스라엘 군인들은 위협을 받을 경우 자유롭게 대응할 수 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640691)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640690)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640689)
-#### [이란의 타스님 통신은 레바논의 휴전이 유지되고 원유 수입 면제 조치가 내려질 때까지 호르무즈 해협이 재개방되지 않을 것이라고 보도했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640688)
-#### [프랑스 철도 사장, 폭염 기간 동안 취약 계층 승객들에게 기차 이용을 자제할 것을 권고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640687)
-#### [알바니아에서 수천 명이 재러드 쿠슈너가 지지하는 리조트 건설 계획에 반대하며 시위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640686)
-#### [이스라엘의 카츠 장관은 “레바논에 주둔 중인 이스라엘 군인들은 위협에 직면했을 때 어떠한 제약도 받지 않는다”고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2640685)
