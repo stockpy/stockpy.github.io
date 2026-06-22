@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260622_1927 </title></head>
-<center>Vers : 20260622_1927 </center>
-<center>Vers : 20260623_0427 </center>
+<head><meta charset="utf-8"><title>Vers : 20260622_2202 </title></head>
+<center>Vers : 20260622_2202 </center>
+<center>Vers : 20260623_0702 </center>
 <br><br><br>
 #### ["망해가던 하이닉스 138배 키워"…'경영인 최태원' 재평가 [강경주의 테크X]](https://m.stock.naver.com/news/ranknews/view/015/0005301578)
 #### ["5년 장투 '삼성전자우 1만3000주' 부부교사…20억 벌었지만 충분하다"](https://m.stock.naver.com/news/ranknews/view/014/0005537940)
