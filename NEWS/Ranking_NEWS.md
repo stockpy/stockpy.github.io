@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260623_2005 </title></head>
-<center>Vers : 20260623_2005 </center>
-<center>Vers : 20260624_0505 </center>
+<head><meta charset="utf-8"><title>Vers : 20260623_2149 </title></head>
+<center>Vers : 20260623_2149 </center>
+<center>Vers : 20260624_0649 </center>
 <br><br><br>
 #### [한국만 '10%' 역대급 폭락…개미 비명에 "통과의례" 분석 까닭](https://m.stock.naver.com/news/ranknews/view/215/0001256366)
 #### [“하이닉스 시총, 삼전 넘으면 증시 추락”…증권사 보고서 ‘성지순례’ 왔습니다](https://m.stock.naver.com/news/ranknews/view/009/0005697590)
