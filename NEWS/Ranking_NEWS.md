@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260624_1622 </title></head>
-<center>Vers : 20260624_1622 </center>
-<center>Vers : 20260625_0122 </center>
+<head><meta charset="utf-8"><title>Vers : 20260624_1815 </title></head>
+<center>Vers : 20260624_1815 </center>
+<center>Vers : 20260625_0315 </center>
 <br><br><br>
 #### ['153만원→96만원' 폭락…외국인 바닥서 1300억 쓸어 담았다 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005302313)
 #### ["57만→93만원"…증권가 줄줄이 '엄지척' 올린 이유](https://m.stock.naver.com/news/ranknews/view/215/0001256500)
