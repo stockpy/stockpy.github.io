@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260625_1624 </title></head>
-<center>Vers : 20260625_1624 </center>
-<center>Vers : 20260626_0124 </center>
+<head><meta charset="utf-8"><title>Vers : 20260625_1831 </title></head>
+<center>Vers : 20260625_1831 </center>
+<center>Vers : 20260626_0331 </center>
 <br><br><br>
 #### ["코스피 1만5000 간다, 단 '이 종목' 사지마라"… JP모건이 '비수' 꽂은 주식은](https://m.stock.naver.com/news/ranknews/view/014/0005539681)
 #### [“어젠 10% 급등, 오늘은 10% 폭락” 이러니 ‘단타’할 수밖에…‘빚투 개미’ 역대급 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002661742)
