@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260626_2005 </title></head>
-<center>Vers : 20260626_2005 </center>
-<center>Vers : 20260627_0505 </center>
+<head><meta charset="utf-8"><title>Vers : 20260626_2138 </title></head>
+<center>Vers : 20260626_2138 </center>
+<center>Vers : 20260627_0638 </center>
 <br><br><br>
 #### [주요 외신 “삼성전자·SK하이닉스, 글로벌 반도체주 핵심 변수됐다”](https://m.stock.naver.com/news/ranknews/view/009/0005699467)
 #### ['5000억 호재' 떴는데…주가 급락에 개미들 난리 난 회사 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005303381)
