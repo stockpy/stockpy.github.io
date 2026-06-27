@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260627_2103 </title></head>
-<center>Vers : 20260627_2103 </center>
-<center>Vers : 20260628_0603 </center>
+<head><meta charset="utf-8"><title>Vers : 20260627_2302 </title></head>
+<center>Vers : 20260627_2302 </center>
+<center>Vers : 20260628_0802 </center>
 <br><br><br>
+#### [[속보] 브리지포인트, 케인 앤더슨 리얼 에스테이트 인수 가능성과 관련해 심도 있는 협상 진행 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648119)
+#### [[종합 1] 호르무즈 해협에서 유조선이 공격당한 후 미국이 이란을 상대로 새로운 공습을 감행하며 대립이 격화되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648118)
+#### [베네수엘라 지진 사망자 수 1,400명 넘어…구조 작업 본격화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648117)
+#### [부패 의혹에 휩싸인 아르헨티나 내각 수석이 사임했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648116)
+#### [미국, 이란에 추가 공습 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648115)
+#### [부패 의혹에 휩싸인 아르헨티나 내각 수석이 사임했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648114)
+#### [시위 사태 이후, 세르비아 대통령이 몇 주 내로 사임하겠다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648113)
+#### [러시아-우크라이나 국경 양측에서 드론 및 포격으로 민간인 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648112)
+#### [액시오스 보도에 따르면, 미국이 호르무즈 해협에서 공습을 단행했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648111)
+#### [이란 남부에서 폭발음이 들렸다고 국영 방송이 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648110)
+#### [레바논의 아운, 미국이 이스라엘에 남부 지역 철수를 압박해 주기를 희망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648109)
 #### [UK 산하 브리지포인트, 약 10억 달러 규모 부동산 사업부 인수 계약 체결 임박 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648108)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648107)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648106)
@@ -54,14 +65,3 @@
 #### [안보 합의 체결 다음 날, 이스라엘의 드론 공격이 레바논 남부를 강타했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648061)
 #### [호주, 아동의 소셜 미디어 사용 금지 조치를 강화하고 기술 기업에 대한 잠재적 벌금을 두 배로 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648060)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [오스트리아 그랑프리 연습 주행에서 러셀, 팀 동료 안토넬리를 간발의 차로 제치다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648059)
-#### [대법원 판결과 유럽중앙은행(ECB) 회의가 워시 연방준비제도(Fed) 의장의 취임 초기 행보를 더욱 좌우할 것으로 보인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648058)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648057)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648056)
-#### [베스파 라이더들이 창립 80주년을 기념하며 로마의 거리로 나섰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648055)
-#### [FAZ 보도에 따르면, 포르쉐는 카이엔 SUV의 생산을 슬로바키아에서 라이프치히로 이전할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648054)
-#### [인도 코탁 은행의 바스와니 CEO, 개인적인 사유로 사임 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648053)
-#### [인도 코탁 은행의 바스와니 CEO, 개인적인 사유로 사임 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648052)
-#### [안보 합의 체결 다음 날, 이스라엘의 드론 공격이 레바논 남부를 강타했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648051)
-#### [아프릴리아의 마틴, 네덜란드 MotoGP 폴 포지션 차지… 마르케스는 7번 그리드 배정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648050)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648049)
