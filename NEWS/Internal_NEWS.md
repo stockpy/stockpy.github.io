@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260627_1710 </title></head>
-<center>Vers : 20260627_1710 </center>
-<center>Vers : 20260628_0210 </center>
+<head><meta charset="utf-8"><title>Vers : 20260627_1920 </title></head>
+<center>Vers : 20260627_1920 </center>
+<center>Vers : 20260628_0420 </center>
 <br><br><br>
+#### [우크라이나 국경 양측에서 민간인 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648098)
+#### [미국 북서부 강 유수량 84%로 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648097)
+#### [아프가니스탄 힌두쿠시 지역에서 강진 발생…현재까지 부상자 보고는 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648096)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648095)
+#### [아마존 프라임 데이는 지갑 사정이 빡빡해진 소비자들이 쇼핑을 하는 모습을 통해 미국 소비자의 실태를 엿볼 수 있게 해준다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648094)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [알래스카 판사, 다른 댄 설리번을 미국 상원 선거 후보 명단에 다시 포함시키다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648093)
+#### [세르비아의 부치치 대통령, 몇 주 내로 사임하겠다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648092)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648091)
+#### [베네수엘라 지진 사망자 수 1,400명 넘어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648090)
+#### [세르비아의 부치치 대통령은 임기 만료 1년 전인 몇 주 안에 사임하겠다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648089)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648088)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648087)
+#### [알래스카 판사, 다른 댄 설리번을 미국 상원 선거 후보 명단에 다시 포함시키다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648086)
 #### [단독-중국 지리, 카니-시 합의에 따라 7월 캐나다로 첫 로터스 전기차 수출 예정…대사 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648085)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9973.HK/total>
 #### [모터 레이싱 - 혼란스러운 오스트리아 그랑프리 예선에서 러셀, 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648084)
@@ -51,17 +65,3 @@
 #### [젤렌스키 대통령, 우크라이나가 러시아 볼고그라드 지역의 방위 산업 시설을 공격했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648041)
 #### [바레인에서 드론 공격 발생 보고된 가운데, 이란은 미국과 연계된 표적을 타격했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648040)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648039)
-#### [멕시코 국경에서 열린 미사 중 이민자들에 대한 인도적 대우 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648038)
-#### [RIA 통신에 따르면, 러시아는 우크라이나 드니프로페트로우스크 주에 있는 한 마을을 장악했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648037)
-#### [바레인은 자국 영토를 겨냥한 이란의 드론 공격을 규탄했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648036)
-#### [프랑스의 도시 거주자들은 답답한 아파트를 시원한 호텔 객실로 바꾸고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648035)
-#### [미국 안전 당국, 테슬라 전기차 37만 6천 대에 대한 파워 스티어링 조사 종결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648034)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [[속보 1] 보안 당국 소식통에 따르면, 이라크 아르빌 북부의 이란 쿠르드 반군 캠프를 겨냥한 폭발물 탑재 드론이 발견되었다고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648033)
-#### [보안 당국 소식통에 따르면, 폭발물을 실은 드론이 이라크 아르빌 북쪽에 위치한 이란 쿠르드 반군 캠프를 공격했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648032)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648031)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648030)
-#### [우크라이나 나프토가즈, “러시아가 자사 생산 시설을 파괴했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648029)
-#### [폭염이 동쪽으로 이동하며 독일, 사상 최고 기온 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648028)
-#### [젤렌스키 대통령, “우크라이나가 러시아 볼고그라드 지역의 방위 산업 시설을 타격했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648027)
-#### [세계은행, 방글라데시에 11억 달러 규모의 긴급 자금 지원 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648026)
