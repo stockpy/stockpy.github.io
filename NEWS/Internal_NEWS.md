@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260627_1920 </title></head>
-<center>Vers : 20260627_1920 </center>
-<center>Vers : 20260628_0420 </center>
+<head><meta charset="utf-8"><title>Vers : 20260627_2103 </title></head>
+<center>Vers : 20260627_2103 </center>
+<center>Vers : 20260628_0603 </center>
 <br><br><br>
+#### [UK 산하 브리지포인트, 약 10억 달러 규모 부동산 사업부 인수 계약 체결 임박 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648108)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648107)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648106)
+#### [블룸버그 보도에 따르면, 전 미국 식품의약국(FDA) 항암제 담당 국장 파즈두르의 복귀가 검토되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648105)
+#### [트럼프, 랜스 슈로이어를 ICE 국장으로 지명하겠다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648104)
+#### [트럼프, 랜스 슈로이어를 ICE 국장으로 지명하겠다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648103)
+#### [천연가스 파이프라인 긴급 공지: 2026년 6월 28일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648102)
+#### [이란과 미국이 공방을 벌이는 가운데 호르무즈 해협에서 유조선이 충돌 사고를 당했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648101)
+#### [미국과 멕시코, 국경을 넘어선 나방파리 퇴치를 위해 치아파스에 무균 파리 사육 시설 개소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648100)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648099)
 #### [우크라이나 국경 양측에서 민간인 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648098)
 #### [미국 북서부 강 유수량 84%로 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648097)
 #### [아프가니스탄 힌두쿠시 지역에서 강진 발생…현재까지 부상자 보고는 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648096)
@@ -55,13 +65,3 @@
 #### [안보 합의 체결 다음 날, 이스라엘의 드론 공격이 레바논 남부를 강타했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648051)
 #### [아프릴리아의 마틴, 네덜란드 MotoGP 폴 포지션 차지… 마르케스는 7번 그리드 배정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648050)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648049)
-#### [지난 20년간 베이징에서 발생한 소형 항공기 추락 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648048)
-#### [사모펀드들이 헬스케어 기업들에 주목하는 가운데, 퀴델오르토(QuidelOrtho)가 검사 사업부 매각을 검토 중 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648047)
-#### [이 유권자들에게는 트럼프의 이란 핵합의가 기대에 미치지 못한다… 일부는 이로 인해 공화당이 중간선거에서 패배할 수도 있다고 우려한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648046)
-#### [이샤 요한슨이 말하는 축구의 가능성과 정치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648045)
-#### [일본에서 연이은 폭풍으로 산사태 발생, 대피 명령 내려져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648044)
-#### [UKMTO에 따르면, 한 유조선이 호르무즈 해협에서 신원 미상의 발사체에 피격당했다고 보고했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648043)
-#### [부르키나파소가 외교 관계를 단절한 데 따라 프랑스가 대응책을 검토하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648042)
-#### [젤렌스키 대통령, 우크라이나가 러시아 볼고그라드 지역의 방위 산업 시설을 공격했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648041)
-#### [바레인에서 드론 공격 발생 보고된 가운데, 이란은 미국과 연계된 표적을 타격했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648040)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648039)

@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260627_1920 </title></head>
-<center>Vers : 20260627_1920 </center>
-<center>Vers : 20260628_0420 </center>
+<head><meta charset="utf-8"><title>Vers : 20260627_2103 </title></head>
+<center>Vers : 20260627_2103 </center>
+<center>Vers : 20260628_0603 </center>
 <br><br><br>
 #### ["다음주 코스피 9500 찍는다" 증권가에서 기대감 커진 이유[주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005782124)
 #### ["삼전 10% 내렸는데, 내 계좌는 왜 19% 녹았나"…'음의 복리' 늪에 빠진 레버리지 개미들](https://m.stock.naver.com/news/ranknews/view/014/0005540376)
