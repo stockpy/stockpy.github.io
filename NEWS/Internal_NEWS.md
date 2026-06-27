@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260627_1515 </title></head>
-<center>Vers : 20260627_1515 </center>
-<center>Vers : 20260628_0015 </center>
+<head><meta charset="utf-8"><title>Vers : 20260627_1710 </title></head>
+<center>Vers : 20260627_1710 </center>
+<center>Vers : 20260628_0210 </center>
 <br><br><br>
+#### [단독-중국 지리, 카니-시 합의에 따라 7월 캐나다로 첫 로터스 전기차 수출 예정…대사 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648085)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9973.HK/total>
+#### [모터 레이싱 - 혼란스러운 오스트리아 그랑프리 예선에서 러셀, 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648084)
+#### [베네수엘라, 지진 생존자 긴급 수색을 위해 1,600명의 외국 구조대원 맞이](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648083)
+#### [유럽 폭염이 동쪽으로 확산되면서 독일과 덴마크에서 사상 최고 기온 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648082)
+#### [폭염으로 유량 감소에 따라 이탈리아 포강에 의존하는 농장들이 위협받고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648081)
+#### [부르키나파소가 외교 관계를 단절하자, 프랑스 측이 대응 조치를 검토 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648080)
+#### [중국어권 팝의 슈퍼스타 차이쥔린, 대만 연례 음악 시상식에서 최우수 앨범상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648079)
+#### [백악관 관계자에 따르면, 지진 발생 후 베네수엘라로 돌아가려는 마차도의 시도에 미국 고위 관리들이 불만을 표출했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648078)
+#### [버스타펜이 사고를 당한 가운데 러셀이 오스트리아 그랑프리 폴 포지션을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648077)
+#### [헝가리 팍스 원전, 강물 수온 상승으로 발전량 감축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648076)
+#### [헝가리의 팍스 원자력 발전소, 강물 수온 상승으로 발전량 감축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648075)
 #### [오르반 총리의 패배 이후 처음으로 열린 부다페스트 프라이드 행진에 수천 명의 헝가리인들이 참여했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648074)
 #### [우크라이나 측, 러시아의 수미 공격으로 어린이들도 부상자 명단에 포함됐다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648073)
 #### [[업데이트 1] FAZ 보도에 따르면, 포르쉐는 카이엔 SUV 생산을 슬로바키아에서 라이프치히로 이전할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648072)
@@ -53,15 +65,3 @@
 #### [폭염이 동쪽으로 이동하며 독일, 사상 최고 기온 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648028)
 #### [젤렌스키 대통령, “우크라이나가 러시아 볼고그라드 지역의 방위 산업 시설을 타격했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648027)
 #### [세계은행, 방글라데시에 11억 달러 규모의 긴급 자금 지원 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648026)
-#### [미국 자동차 안전 규제 당국, 리콜 조치에 따라 441,002대의 혼다 오디세이 차량에 대한 평가를 종료했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648025)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7267.T/total>
-#### [제너럴 모터스, 미국 내 차량 26,541대 리콜 - NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648024)
-#### [위성 사진으로 본 베네수엘라 치명적 지진 발생 전후 모습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648023)
-#### [베네수엘라 지진 생존자들, 라과이라에서 약탈에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648022)
-#### [이란은 미국의 공격에 대응해 미국과 연계된 목표물을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648021)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648020)
-#### [측면 에어백의 의도치 않은 전개 문제로 인해 미국 내 미국 혼다 모터 차량 441,002대에 대한 예비 평가 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648019)
-#### [NHTSA, 조향 제어 상실 문제와 관련해 미국 내 테슬라 모델 3 및 Y 차량 약 376,241대에 대한 공학적 분석 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648018)
-#### [루비오, 인도 IANS 통신에 “트럼프, 내년 초 인도 방문할 전망”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648017)
-#### [LVMH와 아코르(Accor)가 공동 운영하는 오리엔트 익스프레스(Orient Express), 신흥 기술 억만장자 계층을 공략한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648016)
-#### [폭염이 동쪽으로 이동하며 독일, 사상 최고 기온 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648015)
