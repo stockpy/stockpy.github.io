@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20260628_2101 </title></head>
-<center>Vers : 20260628_2101 </center>
-<center>Vers : 20260629_0601 </center>
+<head><meta charset="utf-8"><title>Vers : 20260628_2301 </title></head>
+<center>Vers : 20260628_2301 </center>
+<center>Vers : 20260629_0801 </center>
 <br><br><br>
+#### [이번 주 브레이킹뷰스: 권력의 지표들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648268)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [우크라이나에서 러시아의 공격으로 5명 사망…현지 당국 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648267)
+#### [NZD/USD는 보합세, 매수 세력은 중동 긴장 고조에 경계 태세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648266)
+#### [저비용 아시아 거대 기업, 현지 항공사와 손잡고 콴타스에 도전할까 - AFR](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648265)
+#### [중국의 모멘타, 홍콩 기업공개(IPO)를 통해 최대 7억 5,100만 달러 조달 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648264)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648263)
+#### [중동에서 미국과 이란 간의 공방이 재개되면서 유가가 상승했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648262)
+#### [에너지 기업들, 호주 내 탐사 활동 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648261)
+#### [베네수엘라 지진 사망자 수 1,450명 기록…구조 작업 계속돼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648260)
+#### [부치치 대통령이 사임하겠다고 밝혔음에도 세르비아 국민들은 시위를 계속하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648259)
+#### [영국, 구축함 교체 계획 철회하고 무인 전투함 개발에 주력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648258)
+#### [노르웨이의 가스코(Gassco)는 6월 29일 04:00부터 6월 30일 04:00까지 아스가르드 가스전에서 하루 6.0 mcm 규모의 생산 중단을 예정하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648257)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648256)
+#### [반전 - 누빌의 막판 위기를 딛고 오지에, 그리스에서 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648255)
+#### [호주의 펌머스 테크놀로지스, 엔비디아와 AI 접근권 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648254)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [영국의 차기 지도자로 유력한 번햄, 런던에서 권력을 이양하는 방안 발표 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648253)
+#### [케이트 공주, 암 자선 기금 모금을 위해 영국 최고봉 등정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648252)
+#### [AUD/USD, 이란 정세 불안 고조 속에 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648251)
 #### [AP 통신에 따르면, 파키스탄 군이 국경 작전에서 무장세력 29명을 사살했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648250)
 #### [액시오스 보도에 따르면, 미국과 이란은 공격을 중단하고 이번 주 도하에서 회담을 갖기로 합의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648249)
 #### [이스라엘, 레바논 남부의 헤즈볼라 지하 시설 파괴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648248)
@@ -46,22 +66,3 @@
 #### [이란, 미국 걸프 지역 공격… 트럼프, “이란은 더 이상 존재하지 않을 것”이라고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648211)
 #### [BUZZ-IMM: 6월 17일부터 23일까지 기간 동안 달러 투기적 매수세가 증가했으며, 파운드 매도세가 주를 이뤘다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648210)
 #### [부치치 대통령이 사임하겠다고 밝힌 가운데, 세르비아 국민들은 시위를 계속할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648209)
-#### [[속보 1] 예비 개표 결과, 뉴칼레도니아 지연된 선거에서 프랑스 잔류파가 선두를 달릴 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648208)
-#### [[속보 1] 미국 하원 의장, “주택 관련 법안이 월요일에 트럼프 대통령에게 송부될 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648207)
-#### [러시아 여당, 9월 선거 주요 후보 명단에 우크라이나 전쟁 참전 용사 포함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648206)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648205)
-#### [베네수엘라 지진으로 33명 구조됐으나 수천 명은 여전히 실종 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648204)
-#### [모터 레이싱 - ‘목마른’ 러셀, 오스트리아에서 우승하며 안토넬리의 선두 격차 좁혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648203)
-#### [러셀, 오스트리아에서 우승하며 안토넬리의 선두 격차 좁혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648202)
-#### [스타링크, 라과이라 지역의 모비스타 베네수엘라 고객들에게 ‘스타링크 모바일’을 통해 무료 인터넷 서비스를 제공하고 있다고 밝혀 - X 게시물](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648201)
-#### [미국 하원의장은 월요일에 주택 관련 법안을 트럼프 대통령에게 제출하겠다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648200)
-#### [호주의 펌머스 테크놀로지스, 엔비디아와 AI 접근권 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648199)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [국토안보부 장관, “미국에 임시 체류 자격으로 머무르는 이민자들은 영주권을 신청하거나 출국해야 한다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648198)
-#### [노르웨이의 가스스코, 예기치 못한 가스 공급 중단 기간 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648197)
-#### [미국이 AI 접근을 제한함에 따라 오스트리아, 유럽에 앤트로픽 유치 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648196)
-#### [오토바이 경주 - 오구라, 네덜란드 그랑프리에서 역사적인 우승 차지, 베제키 추락으로 탈락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648195)
-#### [타스 통신에 따르면 푸틴 대통령은 러시아가 많은 교훈을 얻은 어려운 시기를 겪고 있다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648194)
-#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas, 예정에 없던 유지보수 작업 완료 (SEG 400, 피킨스)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648193)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648192)
-#### [국토안보부 장관은 미국에 임시 체류 자격으로 머무르는 이민자들은 영주권을 신청하거나 출국해야 한다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648191)
