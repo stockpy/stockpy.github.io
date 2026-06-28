@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260628_1919 </title></head>
-<center>Vers : 20260628_1919 </center>
-<center>Vers : 20260629_0419 </center>
+<head><meta charset="utf-8"><title>Vers : 20260628_2101 </title></head>
+<center>Vers : 20260628_2101 </center>
+<center>Vers : 20260629_0601 </center>
 <br><br><br>
 #### [“1500원대 환율 너무 오래간다”…SK하이닉스 ADR 상장·24시간 거래 변수도](https://m.stock.naver.com/news/ranknews/view/009/0005699718)
 #### [개미, 놀라운 '태세 전환'…폭풍 매수하더니 결국 찾아간 곳이](https://m.stock.naver.com/news/ranknews/view/215/0001256800)

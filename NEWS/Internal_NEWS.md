@@ -1,7 +1,26 @@
-<head><meta charset="utf-8"><title>Vers : 20260628_1919 </title></head>
-<center>Vers : 20260628_1919 </center>
-<center>Vers : 20260629_0419 </center>
+<head><meta charset="utf-8"><title>Vers : 20260628_2101 </title></head>
+<center>Vers : 20260628_2101 </center>
+<center>Vers : 20260629_0601 </center>
 <br><br><br>
+#### [AP 통신에 따르면, 파키스탄 군이 국경 작전에서 무장세력 29명을 사살했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648250)
+#### [액시오스 보도에 따르면, 미국과 이란은 공격을 중단하고 이번 주 도하에서 회담을 갖기로 합의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648249)
+#### [이스라엘, 레바논 남부의 헤즈볼라 지하 시설 파괴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648248)
+#### [BUZZ-재방송-호주 달러의 압박 위험, 소폭 약세인 파운드, 엔화 강세 논거](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648247)
+#### [베네수엘라 대지진 발생 4일 만에 아버지와 아들이 살아있는 채로 발견됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648246)
+#### [BUZZ-COMMENT-이번 주 전망-미국 고용 지표, ECB 신트라 회의가 주목받을 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648245)
+#### [맥라렌 팀 대표, 베르스타펜 관련 소문에 바나나 껍질 농담으로 일침](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648244)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648243)
+#### [이스라엘, 레바논 남부의 헤즈볼라 지하 시설 파괴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648242)
+#### [푸틴, 우크라이나의 제안과 상관없이 러시아는 전선 작전을 계속할 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648241)
+#### [[속보] 아스트라제네카, 3상 HPP 임상시험에서 에프짐포타제 알파의 양호한 안전성 프로파일 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648240)
+#### [이란 당국자, 국영 TV에 “이란이 최근 공격과 관련해 기술 회담 참가를 취소했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648239)
+#### [부치치 대통령이 사임하겠다고 밝힌 후에도 세르비아 국민들은 시위를 이어가고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648238)
+#### [[속보 1] 빌트지 보도에 따르면, 폭스바겐이 보쉬와의 자율주행 협력 관계를 종료할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648237)
+#### [푸틴, 러시아에 더 많은 방공 능력 필요하며 연료 문제 해결해야 한다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648236)
+#### [[업데이트 1] 블룸버그 보도에 따르면, 윌리엄스가 모멘텀 미드스트림 인수와 관련해 55억 달러 규모의 거래를 협의 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648235)
+#### [미국 북서부 강 유량, 최대 85% 증가 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648234)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648233)
+#### [빌트지 보도에 따르면, 폭스바겐은 보쉬와의 자율주행 분야 제휴를 종료할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648232)
 #### [천연가스 파이프라인 긴급 공지: 2026년 6월 29일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648231)
 #### [우크라이나 현지 당국에 따르면, 러시아의 공격으로 4명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648230)
 #### [케이트 공주, 암 자선 기금 모금을 위해 영국 최고봉 등반](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648229)
@@ -46,23 +65,3 @@
 #### [천연가스 파이프라인 긴급 공지: Southern Natural Gas, 예정에 없던 유지보수 작업 완료 (SEG 400, 피킨스)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648193)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648192)
 #### [국토안보부 장관은 미국에 임시 체류 자격으로 머무르는 이민자들은 영주권을 신청하거나 출국해야 한다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648191)
-#### [오구라, 네덜란드 그랑프리에서 역사적인 우승을 차지, 베제키 추락으로 탈락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648190)
-#### [뉴빌이 막판 위기를 겪은 가운데 오지에가 그리스에서 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648189)
-#### [블룸버그 뉴스 보도에 따르면, 오스트리아는 미국의 규제 조치에 따라 앤트로픽 AI를 유치하기 위해 EU에 로비를 벌이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648188)
-#### [이팩스(Ifax) 보도에 따르면, 러시아의 노박 장관은 디젤 수출 금지 조치가 필요하지 않다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648187)
-#### [월가 주간 전망-미국 증시, 상반기 호조 속에 고용 지표와 금리 전망이 주목받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648186)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
-#### [베네수엘라 지진 사망자 수 1,400명 넘어…구조 작업 본격화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648185)
-#### [교황 레오가 베네수엘라 지진 피해자들을 위해 기도하는 가운데, EU는 긴급 구호 물자를 보냈다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648184)
-#### [포르투갈 남부에서 규모 4.1의 지진이 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648183)
-#### [노르웨이의 가스코(Gassco)는 6월 28일 12시 20분부터 6월 29일 03시 59분까지 아스가르드 가스전에서 일일 6.2 mcm 규모의 생산 중단을 예정하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648182)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648181)
-#### [사우디 국영 통신사, 사우디 아람코 헬기 추락 사고로 자국민 14명 사망했다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648180)
-#### [프랑스 북동부에서 발생한 비행기 추락 사고로 11명이 사망했다고 현지 당국이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648179)
-#### [사우디 아람코 헬기 추락 사고로 14명 사망…국영 통신사 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648178)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648177)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648176)
-#### [유럽을 강타한 사상 최악의 폭염, 프랑스 당국은 사망자 수가 더 늘어날 것으로 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648175)
-#### [머스크, “Grok 4.5는 당사의 1.5T V9 파운데이션 모델을 기반으로 하며, 보충 훈련 과정에서 커서 데이터가 추가된 모델로, 현재 스페이스X와 테슬라에서 비공개 베타 테스트 중” - X 게시물](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648174)
-#### [민간 항공기 관련 사고에 대응 중인 프랑스 당국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648173)
-#### [콜로라도 주 경계의 스나이더 산불로 소방관 3명 사망, 2명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648172)
