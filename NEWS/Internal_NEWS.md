@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260627_2302 </title></head>
-<center>Vers : 20260627_2302 </center>
-<center>Vers : 20260628_0802 </center>
+<head><meta charset="utf-8"><title>Vers : 20260628_0351 </title></head>
+<center>Vers : 20260628_0351 </center>
+<center>Vers : 20260628_1251 </center>
 <br><br><br>
+#### [미국 당국자, “이란이 바레인과 쿠웨이트를 향해 미사일과 드론을 발사했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648129)
+#### [연기되었던 뉴칼레도니아 주 선거 투표 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648128)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648127)
+#### [이란 혁명수비대(IRGC), 쿠웨이트와 바레인의 미군 기지에 미사일 및 드론 공격 감행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648126)
+#### [호주, 아동의 소셜 미디어 이용 금지 조치 강화…기술 기업에 대한 잠재적 벌금 상한선 두 배로 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648125)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [[재송] 트럼프, 이란 미사일 기지 공격 후 “군사적으로 임무를 완수해야 할 수도 있다”고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648124)
+#### [[종합 2] 호르무즈 해협에서 유조선이 공격당한 후 미국이 이란을 상대로 새로운 공습을 감행하며 대립이 격화되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648123)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648122)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648121)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648120)
 #### [[속보] 브리지포인트, 케인 앤더슨 리얼 에스테이트 인수 가능성과 관련해 심도 있는 협상 진행 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648119)
 #### [[종합 1] 호르무즈 해협에서 유조선이 공격당한 후 미국이 이란을 상대로 새로운 공습을 감행하며 대립이 격화되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648118)
 #### [베네수엘라 지진 사망자 수 1,400명 넘어…구조 작업 본격화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648117)
@@ -54,14 +65,3 @@
 #### [[업데이트 1] FAZ 보도에 따르면, 포르쉐는 카이엔 SUV 생산을 슬로바키아에서 라이프치히로 이전할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648072)
 #### [오토바이 경주 - 트랙하우스 팀의 압도적인 활약 속에 페르난데스, 네덜란드 그랑프리 스프린트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648071)
 #### [“긍정적인 에너지로 가득 차 있다”: 알바니아 활동가들, 시위에서 새로운 희망을 찾다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648070)
-#### [트랙하우스 팀의 압도적인 활약 속에 페르난데스가 네덜란드 그랑프리 스프린트에서 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648069)
-#### [베네수엘라, 지진 생존자 긴급 수색을 위해 1,600명의 외국 구조대원 맞이하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648068)
-#### [‘그레이트 아메리칸 스테이트 페어’, 미국 건국 250주년 기념 행사 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648067)
-#### [액시오스 보도에 따르면, 미국 당국이 앤트로픽의 ‘Fable 5’ 모델 복원 허용을 검토 중인 것으로 알려졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648066)
-#### [레바논 기본 합의안을 거부하며 이를 ‘굴욕’이라고 규정했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648065)
-#### [액시오스 보도에 따르면, 미국 당국이 앤트로픽의 ‘Fable 5’ 모델 복원 허용을 검토 중인 것으로 알려졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648064)
-#### [위성 사진에 포착된 베네수엘라 지진 발생 전후의 모습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648063)
-#### [[속보] 인테사 산파올로, 반카 MPS의 전 주식에 대한 자발적 공개 매수 및 교환 제안과 관련하여 콘소브에 제안서 제출했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648062)
-#### [안보 합의 체결 다음 날, 이스라엘의 드론 공격이 레바논 남부를 강타했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648061)
-#### [호주, 아동의 소셜 미디어 사용 금지 조치를 강화하고 기술 기업에 대한 잠재적 벌금을 두 배로 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648060)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
