@@ -1,7 +1,28 @@
-<head><meta charset="utf-8"><title>Vers : 20260628_1711 </title></head>
-<center>Vers : 20260628_1711 </center>
-<center>Vers : 20260629_0211 </center>
+<head><meta charset="utf-8"><title>Vers : 20260628_1919 </title></head>
+<center>Vers : 20260628_1919 </center>
+<center>Vers : 20260629_0419 </center>
 <br><br><br>
+#### [천연가스 파이프라인 긴급 공지: 2026년 6월 29일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648231)
+#### [우크라이나 현지 당국에 따르면, 러시아의 공격으로 4명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648230)
+#### [케이트 공주, 암 자선 기금 모금을 위해 영국 최고봉 등반](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648229)
+#### [트럼프가 지지한 상원의원 후보가 루이지애나주 공화당 예비선거에서 승리했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648228)
+#### [‘더 인포메이션’ 보도에 따르면, 바이두의 AI 칩 자회사 쿤룬신은 500억 달러 규모의 홍콩 기업공개(IPO)를 목표로 하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648227)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9888.HK/total>
+#### [블룸버그 뉴스에 따르면, 윌리엄스가 모멘텀 미드스트림 인수와 관련해 55억 달러 규모의 거래를 협의 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648226)
+#### [6월 28일 일요일 오후 2시 32분(미국 동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648225)
+#### [[속보] 윌리엄스, 모멘텀 미드스트림과 55억 달러 규모 거래 임박 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648224)
+#### [프랑스 북동부에서 발생한 비행기 추락 사고로 11명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648223)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648222)
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648221)
+#### [‘더 인포메이션’ 보도에 따르면, 바이두의 AI 칩 사업부인 쿤룬신은 500억 달러 규모의 홍콩 기업공개(IPO)를 목표로 하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648220)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9888.HK/total>
+#### [[속보] 바이두의 AI 칩 사업부 ‘쿤룬신’, 500억 달러 규모의 홍콩 기업공개(IPO) 추진 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648219)
+#### [러시아 푸틴 대통령, 연료 부족 인정…공급 확보를 위한 태스크포스 구성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648218)
+#### [베르스타펜은 이번 시즌 처음으로 우승을 다툴 수 있을 것이라고 느꼈다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648217)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648216)
+#### [러셀, ‘냉철한’ 승리로 오랜 기다림 끝내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648215)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648214)
+#### [러시아의 푸틴, 연료 부족 인정… 공급 확보를 위한 태스크포스 구성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648213)
 #### [카타르, “군사 작전”으로 인한 파편에 시민 1명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648212)
 #### [이란, 미국 걸프 지역 공격… 트럼프, “이란은 더 이상 존재하지 않을 것”이라고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648211)
 #### [BUZZ-IMM: 6월 17일부터 23일까지 기간 동안 달러 투기적 매수세가 증가했으며, 파운드 매도세가 주를 이뤘다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648210)
@@ -45,25 +66,3 @@
 #### [머스크, “Grok 4.5는 당사의 1.5T V9 파운데이션 모델을 기반으로 하며, 보충 훈련 과정에서 커서 데이터가 추가된 모델로, 현재 스페이스X와 테슬라에서 비공개 베타 테스트 중” - X 게시물](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648174)
 #### [민간 항공기 관련 사고에 대응 중인 프랑스 당국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648173)
 #### [콜로라도 주 경계의 스나이더 산불로 소방관 3명 사망, 2명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648172)
-#### [보통주 및 전환사채 발행 검토 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648171)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648170)
-#### [대법원 회기가 막바지에 접어들면서, 트럼프 관련 주요 판결 3건이 나올 예정이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648169)
-#### [헝가리 팍스 원전, 폭염으로 인해 발전량 추가 감축할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648168)
-#### [폭스바겐의 주요 주주가 중국용 차종을 독일에서 생산할 것을 제안했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648167)
-#### [프랑스, 사상 최악의 폭염 속 초과 사망자 1,000명 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648166)
-#### [타스 통신에 따르면, 러시아는 우크라이나 남동부의 마을 두 곳을 추가로 점령했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648165)
-#### [폭염 속에서 헝가리의 팍스 원자력 발전소가 발전량을 추가로 줄일 것으로 보인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648164)
-#### [BIS, 부채·AI 붐·취약성이 글로벌 리스크를 높인다고 지적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648163)
-#### [이라크 외무장관, 이란 외무장관에게 호르무즈 해협 재개방해야 한다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648162)
-#### [투자 대기업 EQT, 20억 파운드 규모의 영국 소재 과학 분야 선도 기업 CuspAI 지분 인수 검토 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648161)
-#### [CMA CGM, 자사 갈라파고스호 컨테이너선이 호르무즈 해협을 빠져나갔다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648160)
-#### [우크라이나, 밤사이 러시아 정유소 2곳을 공격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648159)
-#### [[속보] 파이론 테크 주주, 지분 매각 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648158)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688063.SS/total>
-#### [[속보] 베이징 킹소프트 오피스 소프트웨어, A주 자사주 매입 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648157)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688111.SS/total>
-#### [CMA CGM은 자사의 ‘갈라파고스’호 컨테이너선이 호르무즈 해협을 빠져나갔다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648156)
-#### [[속보] 홀리랜드 차이나 일렉트로닉스 테크, 소유권 변경 절차 진행 중으로 거래 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648155)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002729.SZ/total>
-#### [[속보] 창저우 갤럭시 센추리 마이크로일렉트로닉스, 거래 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648154)
-#### [젤렌스키 대통령은 우크라이나가 지난밤 러시아의 정유소 두 곳을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648153)
