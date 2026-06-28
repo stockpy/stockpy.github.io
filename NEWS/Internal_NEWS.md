@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260628_1540 </title></head>
-<center>Vers : 20260628_1540 </center>
-<center>Vers : 20260629_0040 </center>
+<head><meta charset="utf-8"><title>Vers : 20260628_1711 </title></head>
+<center>Vers : 20260628_1711 </center>
+<center>Vers : 20260629_0211 </center>
 <br><br><br>
+#### [카타르, “군사 작전”으로 인한 파편에 시민 1명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648212)
+#### [이란, 미국 걸프 지역 공격… 트럼프, “이란은 더 이상 존재하지 않을 것”이라고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648211)
+#### [BUZZ-IMM: 6월 17일부터 23일까지 기간 동안 달러 투기적 매수세가 증가했으며, 파운드 매도세가 주를 이뤘다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648210)
+#### [부치치 대통령이 사임하겠다고 밝힌 가운데, 세르비아 국민들은 시위를 계속할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648209)
+#### [[속보 1] 예비 개표 결과, 뉴칼레도니아 지연된 선거에서 프랑스 잔류파가 선두를 달릴 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648208)
+#### [[속보 1] 미국 하원 의장, “주택 관련 법안이 월요일에 트럼프 대통령에게 송부될 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648207)
 #### [러시아 여당, 9월 선거 주요 후보 명단에 우크라이나 전쟁 참전 용사 포함](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648206)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648205)
 #### [베네수엘라 지진으로 33명 구조됐으나 수천 명은 여전히 실종 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648204)
@@ -61,9 +67,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002729.SZ/total>
 #### [[속보] 창저우 갤럭시 센추리 마이크로일렉트로닉스, 거래 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648154)
 #### [젤렌스키 대통령은 우크라이나가 지난밤 러시아의 정유소 두 곳을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648153)
-#### [아디다스, 월드컵 공식 경기공 디자인 권리 유지 위해 분투 중 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648152)
-#### [폭염 주의보: 스마트 기술로 로마 노인들의 안전을 지키다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648151)
-#### [우크라이나, 밤사이 러시아 크라스노다르 지역의 정유소를 공격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648150)
-#### [ATCO/TransAlta 앨버타 390 MW Sheerness 2 석탄 화력발전소 가동 중단 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648149)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648148)
-#### [맥심 파워 앨버타의 144 MW H.R. 밀너 석탄 화력발전소 가동 중단 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648147)
