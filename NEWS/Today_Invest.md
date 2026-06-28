@@ -1,5 +1,5 @@
-<center>Vers : 20260628_2302 </center>
-<center>Vers : 20260629_0802 </center>
+<center>Vers : 20260628_2346 </center>
+<center>Vers : 20260629_0846 </center>
 <br>
 <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -92,7 +92,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>7</th>
       <td>KODEX 미국30년국채액티브(H)</td>
       <td>10%</td>
-      <td>8765</td>
+      <td>8730</td>
       <td>6</td>
       <td>7.0%</td>
       <td>84</td>
@@ -110,7 +110,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>9</th>
       <td>KODEX iShares미국투자등급회사채액티브</td>
       <td>15%</td>
-      <td>12465</td>
+      <td>12425</td>
       <td>7</td>
       <td>11.0%</td>
       <td>79</td>
