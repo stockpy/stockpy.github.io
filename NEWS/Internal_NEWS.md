@@ -1,7 +1,26 @@
-<head><meta charset="utf-8"><title>Vers : 20260628_0751 </title></head>
-<center>Vers : 20260628_0751 </center>
-<center>Vers : 20260628_1651 </center>
+<head><meta charset="utf-8"><title>Vers : 20260628_1027 </title></head>
+<center>Vers : 20260628_1027 </center>
+<center>Vers : 20260628_1927 </center>
 <br><br><br>
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648170)
+#### [대법원 회기가 막바지에 접어들면서, 트럼프 관련 주요 판결 3건이 나올 예정이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648169)
+#### [헝가리 팍스 원전, 폭염으로 인해 발전량 추가 감축할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648168)
+#### [폭스바겐의 주요 주주가 중국용 차종을 독일에서 생산할 것을 제안했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648167)
+#### [프랑스, 사상 최악의 폭염 속 초과 사망자 1,000명 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648166)
+#### [타스 통신에 따르면, 러시아는 우크라이나 남동부의 마을 두 곳을 추가로 점령했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648165)
+#### [폭염 속에서 헝가리의 팍스 원자력 발전소가 발전량을 추가로 줄일 것으로 보인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648164)
+#### [BIS, 부채·AI 붐·취약성이 글로벌 리스크를 높인다고 지적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648163)
+#### [이라크 외무장관, 이란 외무장관에게 호르무즈 해협 재개방해야 한다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648162)
+#### [투자 대기업 EQT, 20억 파운드 규모의 영국 소재 과학 분야 선도 기업 CuspAI 지분 인수 검토 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648161)
+#### [CMA CGM, 자사 갈라파고스호 컨테이너선이 호르무즈 해협을 빠져나갔다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648160)
+#### [우크라이나, 밤사이 러시아 정유소 2곳을 공격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648159)
+#### [[속보] 파이론 테크 주주, 지분 매각 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648158)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688063.SS/total>
+#### [[속보] 베이징 킹소프트 오피스 소프트웨어, A주 자사주 매입 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648157)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688111.SS/total>
+#### [CMA CGM은 자사의 ‘갈라파고스’호 컨테이너선이 호르무즈 해협을 빠져나갔다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648156)
+#### [[속보] 홀리랜드 차이나 일렉트로닉스 테크, 소유권 변경 절차 진행 중으로 거래 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648155)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002729.SZ/total>
 #### [[속보] 창저우 갤럭시 센추리 마이크로일렉트로닉스, 거래 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648154)
 #### [젤렌스키 대통령은 우크라이나가 지난밤 러시아의 정유소 두 곳을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648153)
 #### [아디다스, 월드컵 공식 경기공 디자인 권리 유지 위해 분투 중 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648152)
@@ -49,6 +68,10 @@
 #### [시위 사태 이후, 세르비아 대통령이 몇 주 내로 사임하겠다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648113)
 #### [러시아-우크라이나 국경 양측에서 드론 및 포격으로 민간인 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648112)
 #### [액시오스 보도에 따르면, 미국이 호르무즈 해협에서 공습을 단행했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648111)
+<head><meta charset="utf-8"><title>Vers : 20260628_1027 </title></head>
+<center>Vers : 20260628_1027 </center>
+<center>Vers : 20260628_1927 </center>
+<br><br><br>
 #### [이란 남부에서 폭발음이 들렸다고 국영 방송이 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648110)
 #### [레바논의 아운, 미국이 이스라엘에 남부 지역 철수를 압박해 주기를 희망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648109)
 #### [UK 산하 브리지포인트, 약 10억 달러 규모 부동산 사업부 인수 계약 체결 임박 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648108)
@@ -65,10 +88,6 @@
 #### [미국 북서부 강 유수량 84%로 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648097)
 #### [아프가니스탄 힌두쿠시 지역에서 강진 발생…현재까지 부상자 보고는 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648096)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648095)
-<head><meta charset="utf-8"><title>Vers : 20260628_0751 </title></head>
-<center>Vers : 20260628_0751 </center>
-<center>Vers : 20260628_1651 </center>
-<br><br><br>
 #### [아마존 프라임 데이는 지갑 사정이 빡빡해진 소비자들이 쇼핑을 하는 모습을 통해 미국 소비자의 실태를 엿볼 수 있게 해준다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648094)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
 #### [알래스카 판사, 다른 댄 설리번을 미국 상원 선거 후보 명단에 다시 포함시키다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648093)
@@ -116,19 +135,3 @@
 #### [인도 코탁 은행의 바스와니 CEO, 개인적인 사유로 사임 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648053)
 #### [인도 코탁 은행의 바스와니 CEO, 개인적인 사유로 사임 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648052)
 #### [안보 합의 체결 다음 날, 이스라엘의 드론 공격이 레바논 남부를 강타했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648051)
-#### [아프릴리아의 마틴, 네덜란드 MotoGP 폴 포지션 차지… 마르케스는 7번 그리드 배정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648050)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648049)
-#### [지난 20년간 베이징에서 발생한 소형 항공기 추락 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648048)
-#### [사모펀드들이 헬스케어 기업들에 주목하는 가운데, 퀴델오르토(QuidelOrtho)가 검사 사업부 매각을 검토 중 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648047)
-#### [이 유권자들에게는 트럼프의 이란 핵합의가 기대에 미치지 못한다… 일부는 이로 인해 공화당이 중간선거에서 패배할 수도 있다고 우려한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648046)
-#### [이샤 요한슨이 말하는 축구의 가능성과 정치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648045)
-#### [일본에서 연이은 폭풍으로 산사태 발생, 대피 명령 내려져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648044)
-#### [UKMTO에 따르면, 한 유조선이 호르무즈 해협에서 신원 미상의 발사체에 피격당했다고 보고했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648043)
-#### [부르키나파소가 외교 관계를 단절한 데 따라 프랑스가 대응책을 검토하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648042)
-#### [젤렌스키 대통령, 우크라이나가 러시아 볼고그라드 지역의 방위 산업 시설을 공격했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648041)
-#### [바레인에서 드론 공격 발생 보고된 가운데, 이란은 미국과 연계된 표적을 타격했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648040)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648039)
-#### [멕시코 국경에서 열린 미사 중 이민자들에 대한 인도적 대우 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648038)
-#### [RIA 통신에 따르면, 러시아는 우크라이나 드니프로페트로우스크 주에 있는 한 마을을 장악했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648037)
-#### [바레인은 자국 영토를 겨냥한 이란의 드론 공격을 규탄했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648036)
-#### [프랑스의 도시 거주자들은 답답한 아파트를 시원한 호텔 객실로 바꾸고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2648035)
