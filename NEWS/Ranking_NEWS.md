@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260630_2025 </title></head>
-<center>Vers : 20260630_2025 </center>
-<center>Vers : 20260701_0525 </center>
+<head><meta charset="utf-8"><title>Vers : 20260630_2155 </title></head>
+<center>Vers : 20260630_2155 </center>
+<center>Vers : 20260701_0655 </center>
 <br><br><br>
 #### [“한국 증시를 보라” 월가 경고나섰다…미국서 빚투 2100조 ‘사상 최대’](https://m.stock.naver.com/news/ranknews/view/009/0005700989)
 #### ["4년 전 베팅한 5억이 30억 됐다"…30만전자에 '은퇴 선언'](https://m.stock.naver.com/news/ranknews/view/015/0005304768)
