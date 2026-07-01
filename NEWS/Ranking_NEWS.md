@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260701_1900 </title></head>
-<center>Vers : 20260701_1900 </center>
-<center>Vers : 20260702_0400 </center>
+<head><meta charset="utf-8"><title>Vers : 20260701_2128 </title></head>
+<center>Vers : 20260701_2128 </center>
+<center>Vers : 20260702_0628 </center>
 <br><br><br>
 #### ["삼전닉스 말고 이거 살걸"…'38.6% 폭발' 형보다 아우가 잘 나갔다](https://m.stock.naver.com/news/ranknews/view/008/0005380221)
 #### [25만원에서 220만원 됐는데…외국인은 "아직도 싸다"며 사들이는 이 종목](https://m.stock.naver.com/news/ranknews/view/014/0005541969)
