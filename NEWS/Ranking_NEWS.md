@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260702_1820 </title></head>
-<center>Vers : 20260702_1820 </center>
-<center>Vers : 20260703_0320 </center>
+<head><meta charset="utf-8"><title>Vers : 20260702_1957 </title></head>
+<center>Vers : 20260702_1957 </center>
+<center>Vers : 20260703_0457 </center>
 <br><br><br>
 #### ["국장 복귀는 지능순" 말 돌더니…'85조 싹쓸이' 개미, 최애 ETF는?](https://m.stock.naver.com/news/ranknews/view/008/0005380797)
 #### ["삼전닉스 고점에 물렸나" 개미 발동동...구조대 올까요](https://m.stock.naver.com/news/ranknews/view/008/0005380839)
