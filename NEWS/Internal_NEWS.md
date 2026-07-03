@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260703_2106 </title></head>
-<center>Vers : 20260703_2106 </center>
-<center>Vers : 20260704_0606 </center>
+<head><meta charset="utf-8"><title>Vers : 20260703_2303 </title></head>
+<center>Vers : 20260703_2303 </center>
+<center>Vers : 20260704_0803 </center>
 <br><br><br>
+#### [러시아 국방부, 자국군이 우크라이나 동부의 코스티안티니브카를 점령했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655485)
+#### [브라질의 HBR, 헬보르 인수 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655484)
+#### [[속보 1] 치명적인 축하 사태 이후, 멕시코시티가 잉글랜드와의 월드컵 경기를 앞두고 군중 통제 조치를 강화했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655483)
+#### [크리스티아누 호날두와 포르투갈 대표팀, 월드컵 우승 후 토론토에서 팬들과 인사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655482)
+#### [러시아 국방부는 자국군이 우크라이나 동부의 코스티안티니브카를 점령했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655481)
+#### [클라크, 토마스의 파울 이후 선수들을 향한 “용납할 수 없는” 괴롭힘을 규탄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655480)
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655479)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655478)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655477)
+#### [콘 에디슨, 퀸즈 남서부 지역 9,800가구에 대한 전력 공급 일시 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655476)
+#### [GFZ에 따르면 칠레 중부 해안 인근에서 규모 5.5의 지진이 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655475)
+#### [브라질의 보우소나루, 가택 연금 상태 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655474)
+#### [원유-웨스턴 캐나다 셀렉트(Western Canada Select)의 할인폭이 축소됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655473)
+#### [폭염으로 미국 동부 전역의 7월 4일 기념 행사 차질](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655472)
 #### [CNN 브라질 보도에 따르면, 브라질의 보우소나루 대통령은 계속 가택 연금 상태를 유지할 것이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655471)
 #### [러시아의 폭탄 테러로 우크라이나 수미에서 3명 사망…당국 “다른 지역도 타격 입어”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655470)
 #### [TSX, 사상 최고 종가 수준 근접… 금·구리 가격 상승에 힘입어 광업주 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655469)
@@ -52,18 +66,3 @@
 #### [페르미 CEO 노이게바우어, 판사의 기피 결정에 따라 대리인 선거 운동을 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655427)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FRMI.O/total>
 #### [알루파르(Alupar)와 컨소시엄을 구성한 업체, 브라질 송전망 입찰에서 최대 규모 구획 낙찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655424)
-#### [칠레의 노반디노 리티오(Novandino Litio), 30억 달러 규모의 아타카마 리튬 프로젝트에 대한 환경 승인 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655426)
-#### [6월 콜롬비아 커피 생산량은 증가했으나 수출량은 소폭 감소했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655425)
-#### [중국의 체리가 남아프리카공화국에 있는 구 닛산 자동차 공장을 인수했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655423)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9973.HK/total>
-#### [산불 위험이 높아짐에 따라 포르투갈이 EU, 스페인, 모로코에 지원을 요청했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655422)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655421)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655420)
-#### [로부스타 커피, 공급 우려로 4주 연속 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655419)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655418)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655417)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655416)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655415)
-#### [IAEA, 우크라이나 자포리자 원전 외부 전력 공급이 21번째로 중단됐다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655414)
-#### [[속보] 토비 노이게바우어, 페르미에서 진행 중이던 위임장 확보 활동을 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655413)
-#### [모터 레이싱 - 기쁨에 찬 해밀턴, 실버스톤 스프린트에서 페라리를 폴 포지션에 올려놓다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655412)
