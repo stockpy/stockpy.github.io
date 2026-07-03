@@ -1,7 +1,32 @@
-<head><meta charset="utf-8"><title>Vers : 20260703_1922 </title></head>
-<center>Vers : 20260703_1922 </center>
-<center>Vers : 20260704_0422 </center>
+<head><meta charset="utf-8"><title>Vers : 20260703_2106 </title></head>
+<center>Vers : 20260703_2106 </center>
+<center>Vers : 20260704_0606 </center>
 <br><br><br>
+#### [CNN 브라질 보도에 따르면, 브라질의 보우소나루 대통령은 계속 가택 연금 상태를 유지할 것이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655471)
+#### [러시아의 폭탄 테러로 우크라이나 수미에서 3명 사망…당국 “다른 지역도 타격 입어”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655470)
+#### [TSX, 사상 최고 종가 수준 근접… 금·구리 가격 상승에 힘입어 광업주 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655469)
+#### [엑사일과 사프란, 인수 가능성에 대한 협상 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655468)
+#### [캐나다, 7월 6일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655467)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655466)
+#### [쿠라 스시 USA Inc <KRUS.OQ>, 주당 1센트의 적자 예상 - 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655465)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KRUS.O/total>
+#### [[속보] 브라질 농가, 2026년 2차 옥수수 재배 면적의 26.5% 수확 - Patria Agronegocios](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655464)
+#### [펭귄 솔루션스(Penguin Solutions Inc) <PENG.OQ>, 주당 54센트의 이익 기록 전망 - 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655463)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PENG.O/total>
+#### [연준의 금리 정책 재검토로 달러 약세, 라틴 아메리카 자산 반등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655462)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
+#### [베네수엘라 지진 사망자 수가 2,645명으로 늘어났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655461)
+#### [우크라이나 북부 도시 수미에 대한 러시아의 대규모 공습으로 3명이 사망했다고 지역 주지사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655460)
+#### [멕시코 당국, 납치된 기자의 유해를 확인하고 경찰관 4명을 체포했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655458)
+#### [JPMorgan, 4분기 금값 4,500달러 전망…하락 위험 존재](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655457)
+#### [후지모리 케이코, 페루 대선 승자로 확정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655459)
+#### [[정정] 엑사일(Exail)과 사프란(Safran), 인수 가능성에 대한 협상 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655456)
+#### [7월 3일 기준 앨버타주 카놀라 일일 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655455)
+#### [폭염으로 미국 동부 전역의 7월 4일 기념 행사가 차질을 빚고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655454)
+#### [프랑스 관계자들, 폭염 시 투르 드 프랑스 구간 취소 가능하다는 통보 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655453)
+#### [[속보] 엑세일 테크놀로지스, 사프란과의 협의 종료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655452)
+#### [브라질의 2026/27년 커피 수확률이 작년 60%에 비해 52%에 달했다고 사프라스(Safras)가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655451)
+#### [천연가스 파이프라인 긴급 공지: 2026년 7월 4일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655450)
 #### [알루파르와 악시아, 브라질 송전 프로젝트 입찰에서 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655449)
 #### [앨버타 주 농작물 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655448)
 #### [[업데이트 1] 브라질, 수출 호조에 힘입어 2026년 무역 흑자 전망치를 900억 달러로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655447)
@@ -42,29 +67,3 @@
 #### [IAEA, 우크라이나 자포리자 원전 외부 전력 공급이 21번째로 중단됐다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655414)
 #### [[속보] 토비 노이게바우어, 페르미에서 진행 중이던 위임장 확보 활동을 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655413)
 #### [모터 레이싱 - 기쁨에 찬 해밀턴, 실버스톤 스프린트에서 페라리를 폴 포지션에 올려놓다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655412)
-#### [로이터 조사에 따르면, 걸프 지역 산유국들이 공급을 재개하기 시작하면서 6월 OPEC 원유 생산량이 급증했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655411)
-#### [모놀리식 파워 시스템즈(Monolithic Power Systems)에 대한 로펌의 경고문 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655410)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MPWR.O/total>
-#### [미국 쇠고기·돼지고기 가공업체의 마진 - Hedgersedge](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655409)
-#### [나이키 관련 법률 사무소의 경보 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655408)
-#### [멕시코 기업 실적 발표 주간 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655407)
-#### [[그래프] 단기 공급 과잉이 시장을 뒤덮으면서 브렌트유 가격 곡선이 더욱 약세를 보이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655406)
-#### [금융주와 광업주가 상승세를 보이면서 런던 FTSE 지수가 주간 상승세를 기록했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655405)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
-#### [캐슬레이크의 인수 제안 마감일이 다가오면서 이지젯 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655404)
-#### [Dexcom 관련 법률 사무소의 경보 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655403)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DXCM.O/total>
-#### [세계보건기구(WHO)에 따르면 7월 1일 기준으로 452명의 에볼라 사망자가 보고되었다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655402)
-#### [이스라엘 총리실 발표에 따르면, 네타냐후와 트럼프는 금요일 전화 통화를 가졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655401)
-#### [런던에서 이란인 기자를 칼로 찌른 혐의로 루마니아인 남성 2명 구속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655399)
-#### [키예프에 거주하던 우크라이나 한 가족, 러시아의 공격으로 소중한 문화재를 잃다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655398)
-#### [프랑스 탄약 제조업체 퐁데리 드 브르타뉴가 파산 관리 절차에 들어갔다고 소유주가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655397)
-#### [탈레스, F126 프로젝트 중단으로 4억 5천만 유로의 비용 발생에도 불구하고 2026년 목표 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655396)
-#### [해밀턴, 실버스톤 스프린트 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655395)
-#### [연준의 금리 정책 재검토로 달러 약세, 라틴 아메리카 주식·외환 시장 주간 상승세 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655394)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
-#### [거래량이 적은 가운데 유럽 휘발유·나프타-휘발유 정제 마진이 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655393)
-#### [미국 공휴일로 인한 거래 부진 속에 EU산 밀 가격은 보합세를 보였고, 옥수수는 악천후 여파로 상승세를 이어갔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655392)
-#### [유럽 증류유·디젤 제품 마진 5% 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655391)
-#### [LME, 아다니의 인도 내 대규모 구리 제련소를 상장 브랜드로 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655389)
-#### [러시아의 공습으로 파괴된 집에서 생존자들이 소지품을 수습하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655390)
