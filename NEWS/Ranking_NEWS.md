@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260703_1754 </title></head>
-<center>Vers : 20260703_1754 </center>
-<center>Vers : 20260704_0254 </center>
+<head><meta charset="utf-8"><title>Vers : 20260703_1922 </title></head>
+<center>Vers : 20260703_1922 </center>
+<center>Vers : 20260704_0422 </center>
 <br><br><br>
 #### [단 3분 만에 ‘7% 폭락장’으로, 진짜 범인은 따로 있다…주가 폭락의 전말 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002665592)
 #### [주가 출렁이자 1조 '풀매수'…폭락장에 '간큰 개미들' 몰렸다](https://m.stock.naver.com/news/ranknews/view/015/0005305999)
