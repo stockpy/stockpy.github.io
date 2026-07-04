@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260704_1705 </title></head>
-<center>Vers : 20260704_1705 </center>
-<center>Vers : 20260705_0205 </center>
+<head><meta charset="utf-8"><title>Vers : 20260704_1913 </title></head>
+<center>Vers : 20260704_1913 </center>
+<center>Vers : 20260705_0413 </center>
 <br><br><br>
+#### [먹방 챔피언 조이 체스트넛이 타이틀을 방어했으나, 핫도그 섭취량이 줄어든 것은 더위 탓이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655583)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NATH.O/total>
+#### [모터 레이싱?“우린 곤경에 처했다”고 F1 챔피언 노리스가 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655582)
+#### [사이클 - 투르 드 프랑스, 팀 타임 트라이얼로 개막… 빈게가르드, 노란 저지 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655581)
+#### [법무부는 아다니 사건이 외국 관할권 문제와 승소 가능성이 희박하다는 이유로 종결되어야 한다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655580)
+#### [[속보] 퍼스트에너지, JCP&L 정전 피해 가구 수가 20만여 가구에서 약 15만 가구로 감소했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655579)
+#### [속도 확보에 고전하던 러셀, ‘이상한’ 사고를 당하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655578)
+#### [투르 드 프랑스, 팀 타임 트라이얼로 개막… 빈게가르드, 노란 저지 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655577)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655576)
+#### [인터내셔널 파워 온타리오의 128 MW 웨스트 윈저 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655575)
+#### [[속보] 알라룸 테크놀로지스, 일부 네트워크 서비스의 일시적 운영 중단 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655574)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655573)
+#### [액시오스 보도에 따르면, 트럼프 대통령은 다음 주 백악관에서 네타냐후 총리와 회담할 가능성이 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655572)
+#### [극우 정당 AfD가 정권 장악을 노리는 가운데 독일에서 수천 명이 시위를 벌였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655571)
 #### [모터 레이싱 - 안토넬리, 스프린트 우승에 이어 영국 그랑프리 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655570)
 #### [트럼프, 내셔널 몰에서 선거 유세 형식의 집회를 열고 미국 건국 250주년을 기념할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655569)
 #### [중동산 LNG 공급이 재개됨에 따라 인도가 가스 공급 제한 조치를 철회했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655568)
@@ -51,16 +65,3 @@
 #### [퇴임하는 스타머 영국 총리는 후임자가 외교 문제에 할애하는 시간을 줄여서는 안 된다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655526)
 #### [[속보] 넥스트, 영국 주요 상권 공략의 일환으로 하비 니콜스 인수 추진 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655525)
 #### [스카이 뉴스 보도에 따르면, 영국의 ‘넥스트’가 하비 니콜스에 대한 인수 제안을 계획 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655524)
-#### [[업데이트 1] 블룸버그 뉴스, SK하이닉스가 ADR 발행 시 0.5% 수수료 지급을 검토 중이라고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655523)
-#### [우크라이나, 러시아가 동부 주요 도시 코스티안티니브카를 점령했다는 주장을 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655522)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655521)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655520)
-#### [젤렌스키 대통령, 우크라이나군이 상트페테르부르크 인근의 석유 및 군사 시설을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655519)
-#### [카보베르데의 역사적인 행진이 막을 내리자 아르헨티나 팬들이 환호하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655518)
-#### [나프토가즈, “러시아가 우크라이나 폴타바 지역의 가스 생산 시설을 공격했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655517)
-#### [당국, 우크라이나의 대규모 드론 공격으로 상트페테르부르크 지역 항구와 석유 터미널이 타격을 입었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655516)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655515)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655514)
-#### [이란 국민들, 하메네이 추모 1주일간 장례식에 몰려들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655513)
-#### [우크라이나는 러시아군이 우크라이나 동부의 코스티안티니브카를 점령했다는 주장을 부인하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655512)
-#### [독일에서 수천 명이 극우 정당 AfD에 반대하며 시위를 벌였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655511)
