@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260704_2202 </title></head>
-<center>Vers : 20260704_2202 </center>
-<center>Vers : 20260705_0702 </center>
+<head><meta charset="utf-8"><title>Vers : 20260704_2309 </title></head>
+<center>Vers : 20260704_2309 </center>
+<center>Vers : 20260705_0809 </center>
 <br><br><br>
+#### [[속보 1] 캘리포니아에서 주차된 차량을 들이받은 폴 펠로시, 뺑소니 혐의로 기소될 전망이라고 당국이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655601)
+#### [[속보 1] 크렘린 측 보좌관, “트럼프 대통령이 푸틴 대통령에게 우크라이나와의 합의 도출을 돕겠다고 전화로 제안했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655600)
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655599)
+#### [가면을 쓴 ‘패트리어트 프론트’ 백인 우월주의자들이 7월 4일 워싱턴 D.C.를 가로지르는 행진을 벌였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655598)
+#### [트럼프, 푸틴과의 대화에서 우크라이나 문제 해결을 돕겠다고 제안했다 - 크렘린 보좌관](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655597)
 #### [언론 보도에 따르면, 폴 펠로시가 캘리포니아에서 주차된 차량을 들이받은 뒤 뺑소니 혐의를 받고 있다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655596)
 #### [우크라이나 젤렌스키 대통령, 트럼프 대통령과 통화했다고 밝히며 전쟁 종식을 위한 ‘미국의 단호한 의지’ 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655595)
 #### [이라크, 전략적 원유 수출 파이프라인 사업 타당성 조사를 위한 예비 협정 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655594)
@@ -59,9 +64,3 @@
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655544)
 #### [우크라이나는 2026년에 러시아가 200대 이상의 철도 기관차를 파손했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655543)
 #### [나토 정상회의를 앞두고 독일의 메르츠가 우크라이나의 젤렌스키 대통령과 통화했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655542)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655541)
-#### [우크라이나 농업로비단체 UCAB에 따르면, 우크라이나의 6월 농산물 수출량이 7.5% 감소한 480만 톤을 기록했다고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655540)
-#### [미국이 제250회 독립기념일 기념행사를 시작하는 가운데 ‘트럼프 계정’이 첫 선을 보인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655539)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOOD.O/total>
-#### [한 중소기업의 경우, AI가 빠른 출발과 확장의 핵심이었습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655538)
-#### [두 사람의 이해관계가 일치할 때, 트럼프와 로버츠는 모두 대법원에서 이득을 본다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655537)
