@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20260704_0902 </title></head>
-<center>Vers : 20260704_0902 </center>
-<center>Vers : 20260704_1802 </center>
+<head><meta charset="utf-8"><title>Vers : 20260704_1126 </title></head>
+<center>Vers : 20260704_1126 </center>
+<center>Vers : 20260704_2026 </center>
 <br><br><br>
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655545)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655544)
+#### [우크라이나는 2026년에 러시아가 200대 이상의 철도 기관차를 파손했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655543)
+#### [나토 정상회의를 앞두고 독일의 메르츠가 우크라이나의 젤렌스키 대통령과 통화했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655542)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655541)
+#### [우크라이나 농업로비단체 UCAB에 따르면, 우크라이나의 6월 농산물 수출량이 7.5% 감소한 480만 톤을 기록했다고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655540)
+#### [미국이 제250회 독립기념일 기념행사를 시작하는 가운데 ‘트럼프 계정’이 첫 선을 보인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655539)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOOD.O/total>
+#### [한 중소기업의 경우, AI가 빠른 출발과 확장의 핵심이었습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655538)
+#### [두 사람의 이해관계가 일치할 때, 트럼프와 로버츠는 모두 대법원에서 이득을 본다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655537)
+#### [트럼프, 내셔널 몰에서 선거 유세 형식의 집회를 열고 미국 건국 250주년을 기념할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655536)
+#### [소식통에 따르면 독일 내각이 2,030억 유로 이상의 차입금을 포함한 예산안 초안을 승인할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655535)
+#### [교황 레오, 7월 4일 람페두사에서 발표한 호소문에서 미국에 이민자 수용을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655534)
+#### [콘티넨탈, 콘티테크 사업부를 론 스타 펀드에 46억 달러에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655533)
+#### [트럼프, 미국 건국 250주년 기념식에서 공산주의를 맹비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655532)
+#### [차기 대통령 후지모리, 페루의 ‘새로운 단계’를 환영하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655531)
+#### [콘티넨탈, 콘티테크 사업부를 론 스타 펀드에 45억 7천만 달러에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655530)
+#### [[속보] 콘티넨탈 AG, 콘티테크 그룹 사업부를 론스타 펀드에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655529)
+#### [[속보 1] 스카이 뉴스 보도에 따르면, 영국의 ‘넥스트(Next)’가 하비 니콜스(Harvey Nichols)에 대한 인수 제안을 계획 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655528)
+#### [교황 레오, 람페두사에서 이민자 지원 호소하며 미국 방문 기념일 맞아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655527)
 #### [퇴임하는 스타머 영국 총리는 후임자가 외교 문제에 할애하는 시간을 줄여서는 안 된다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655526)
 #### [[속보] 넥스트, 영국 주요 상권 공략의 일환으로 하비 니콜스 인수 추진 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655525)
 #### [스카이 뉴스 보도에 따르면, 영국의 ‘넥스트’가 하비 니콜스에 대한 인수 제안을 계획 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655524)
@@ -43,6 +63,10 @@
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655488)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655487)
 #### [브라질의 HBR 리얼티, 헬보르 인수 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655486)
+<head><meta charset="utf-8"><title>Vers : 20260704_1126 </title></head>
+<center>Vers : 20260704_1126 </center>
+<center>Vers : 20260704_2026 </center>
+<br><br><br>
 #### [러시아 국방부, 자국군이 우크라이나 동부의 코스티안티니브카를 점령했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655485)
 #### [브라질의 HBR, 헬보르 인수 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655484)
 #### [[속보 1] 치명적인 축하 사태 이후, 멕시코시티가 잉글랜드와의 월드컵 경기를 앞두고 군중 통제 조치를 강화했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655483)
@@ -62,10 +86,6 @@
 #### [TSX, 사상 최고 종가 수준 근접… 금·구리 가격 상승에 힘입어 광업주 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655469)
 #### [엑사일과 사프란, 인수 가능성에 대한 협상 종료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655468)
 #### [캐나다, 7월 6일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655467)
-<head><meta charset="utf-8"><title>Vers : 20260704_0903 </title></head>
-<center>Vers : 20260704_0903 </center>
-<center>Vers : 20260704_1803 </center>
-<br><br><br>
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655466)
 #### [쿠라 스시 USA Inc <KRUS.OQ>, 주당 1센트의 적자 예상 - 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655465)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KRUS.O/total>
@@ -111,6 +131,10 @@
 #### [페르미 CEO 노이게바우어, 판사의 기피 결정에 따라 대리인 선거 운동을 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655427)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FRMI.O/total>
 #### [알루파르(Alupar)와 컨소시엄을 구성한 업체, 브라질 송전망 입찰에서 최대 규모 구획 낙찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655424)
+<head><meta charset="utf-8"><title>Vers : 20260704_1126 </title></head>
+<center>Vers : 20260704_1126 </center>
+<center>Vers : 20260704_2026 </center>
+<br><br><br>
 #### [칠레의 노반디노 리티오(Novandino Litio), 30억 달러 규모의 아타카마 리튬 프로젝트에 대한 환경 승인 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655426)
 #### [6월 콜롬비아 커피 생산량은 증가했으나 수출량은 소폭 감소했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655425)
 #### [중국의 체리가 남아프리카공화국에 있는 구 닛산 자동차 공장을 인수했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655423)
@@ -132,10 +156,6 @@
 #### [미국 쇠고기·돼지고기 가공업체의 마진 - Hedgersedge](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655409)
 #### [나이키 관련 법률 사무소의 경보 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655408)
 #### [멕시코 기업 실적 발표 주간 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655407)
-<head><meta charset="utf-8"><title>Vers : 20260704_0903 </title></head>
-<center>Vers : 20260704_0903 </center>
-<center>Vers : 20260704_1803 </center>
-<br><br><br>
 #### [[그래프] 단기 공급 과잉이 시장을 뒤덮으면서 브렌트유 가격 곡선이 더욱 약세를 보이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655406)
 #### [금융주와 광업주가 상승세를 보이면서 런던 FTSE 지수가 주간 상승세를 기록했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655405)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
@@ -183,6 +203,10 @@
 #### [브라가 모로의 제안은 ‘골든 파워’ 적용 대상에 해당하지 않는다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655367)
 #### [교황 레오, 250주년 기념식에서 이민자를 환영해 온 미국의 역사를 칭송하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655366)
 #### [맥라렌, 다음 단계 도약을 위한 최신 메르세데스 엔진을 기다리고 있나?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655365)
+<head><meta charset="utf-8"><title>Vers : 20260704_1126 </title></head>
+<center>Vers : 20260704_1126 </center>
+<center>Vers : 20260704_2026 </center>
+<br><br><br>
 #### [[속보] LME, 아다니 구리 브랜드의 ‘A등급 구리’ 계약에 따른 인도용 상장 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655364)
 #### [Zegona, Vantage 마스트를 Cellnex 및 American Tower 제품으로 교체할 예정 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655363)
 #### [런던에서 이란인 기자를 칼로 찌른 혐의로 루마니아인 남성 2명 구속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655362)
@@ -208,10 +232,6 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7011.T/total>
 #### [[속보] 크리티컬 메탈스, NIU와 250만 파운드 규모의 전환사채 인수 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655347)
 #### [브라질, EU 항균제 규정을 준수하기 위한 조치에 나서며 수출 금지 조치 회피 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655346)
-<head><meta charset="utf-8"><title>Vers : 20260704_0903 </title></head>
-<center>Vers : 20260704_0903 </center>
-<center>Vers : 20260704_1803 </center>
-<br><br><br>
 #### [[속보] 트라브존스포르, 카짐 아데레미 J. 올라이그베를 바젤로 380만 유로에 임대 보냈다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655345)
 #### [폴로니아 금리 0.09%p 하락.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655344)
 #### [[속보] 시노맙 바이오사이언스, 팡 리앙을 상무이사로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655343)
@@ -262,22 +282,3 @@
 #### [[업데이트 1] 중국 반도체 기업 비렌 테크(Biren Tech), 홍콩 증시 상장을 통해 최대 8억 3,800만 달러 조달 추진… 조건서 내용에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655306)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6082.HK/total>
 #### [폭염으로 인해 유럽 음료 제조업체들의 제품 구성이 바뀔 수도 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655305)
-#### [[속보] 인두신드 은행, 2026년 6월 30일 기준 예금 전년 동기 대비 4.5% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655304)
-#### [베르스타펜, “레고 자동차 때문에 F1 드라이버들이 어린이나 광대처럼 보일 위험이 있다”고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655303)
-#### [로부스타 커피, 공급 우려로 4주 연속 상승세 이어가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655302)
-#### [EU 집행위원회, 5대 주요 국경 간 국방 프로젝트 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655301)
-#### [[속보] 반단 은행, 6월 말 기준 총 예금 전년 동기 대비 6.6% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655300)
-#### [[속보] 존슨 매티, CT 매각에 대한 중국 규제 당국의 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655299)
-#### [우주 스타트업 카탈리스트(Katalyst), 노후화된 NASA 관측소를 위한 궤도 구조 임무 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655298)
-#### [[속보] 노컨설트, 수주 계약 취소 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655297)
-#### [[속보] 타피르 홀딩스, 마바니 알자지라 그룹의 렌데버 투자 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655296)
-#### [중국이 러시아 군인들을 훈련시키고 있다는 보도와 관련해 독일, 중국 특사와 긴급 회담](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655295)
-#### [러시아, 7월 8일부터 14일까지 곡물 수출 관세 책정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655294)
-#### [콘티넨탈, 콘티테크를 론 스타에 매각하는 절차의 막바지에 접어들었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655293)
-#### [[속보] 스코티시 모기지 인베스트먼트 트러스트, 연례 주주총회에서 모든 결의안 가결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655292)
-#### [[속보] 유니콘 미네랄 리소스, 125만 파운드 대출 약정에 합의했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655291)
-#### [[속보] 퍼블릭 인베스트먼트 코퍼레이션, 발테라 플래티넘 지분 20.07% 보유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655290)
-#### [[속보] 키옥시아와 샌디스크, 키타카미 공장에서 10세대 3D 플래시 메모리 제품 생산 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655289)
-#### [[속보] 에어캡, 2026년 2분기에 자산 202건을 임대·매입·매각했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655288)
-#### [[속보] KGHM, 폴리할라이트 광산 프로젝트 협력을 위해 포메라니아 주와 양해각서(LoI) 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655287)
-#### [[속보] SheMed, 영국에서 경구용 웨고비 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655286)
