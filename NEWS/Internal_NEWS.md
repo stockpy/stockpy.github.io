@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260704_1913 </title></head>
-<center>Vers : 20260704_1913 </center>
-<center>Vers : 20260705_0413 </center>
+<head><meta charset="utf-8"><title>Vers : 20260704_2057 </title></head>
+<center>Vers : 20260704_2057 </center>
+<center>Vers : 20260705_0557 </center>
 <br><br><br>
+#### [베네수엘라 지진 사망자 수 2,954명으로 늘어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655593)
+#### [우크라이나의 젤렌스키 대통령은 트럼프 전 대통령과 통화했다고 밝히며, 전쟁 종식을 돕기 위한 ‘미국의 단호한 의지’를 촉구했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655592)
+#### [몰도바 정부 명령에 따라 러시아 문화 센터가 문을 닫았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655591)
+#### [베네수엘라 지진 사망자 수 2,954명으로 늘어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655590)
+#### [밴스 미국 부통령, “영국 지도자들은 국민을 실망시켰다”며 차기 총리가 변화를 이끌어내길 희망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655589)
+#### [‘마스크드 패트리어트 프론트’ 소속 백인 우월주의자들이 7월 4일 워싱턴 D.C.를 가로지르는 행진을 벌였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655588)
+#### [빙에가르드, 투르 노란 저지 착용하며 힘든 한 장을 마무리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655587)
+#### [손님들에 따르면, 테일러 스위프트와 트래비스 켈스가 경기장 내 아늑한 정원에서 결혼식을 올렸다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655586)
+#### [미국 북서부 강 유수량은 84%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655585)
+#### [천연가스 파이프라인 긴급 공지: 2026년 7월 5일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655584)
 #### [먹방 챔피언 조이 체스트넛이 타이틀을 방어했으나, 핫도그 섭취량이 줄어든 것은 더위 탓이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655583)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NATH.O/total>
 #### [모터 레이싱?“우린 곤경에 처했다”고 F1 챔피언 노리스가 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655582)
@@ -55,13 +65,3 @@
 #### [트럼프, 내셔널 몰에서 선거 유세 형식의 집회를 열고 미국 건국 250주년을 기념할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655536)
 #### [소식통에 따르면 독일 내각이 2,030억 유로 이상의 차입금을 포함한 예산안 초안을 승인할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655535)
 #### [교황 레오, 7월 4일 람페두사에서 발표한 호소문에서 미국에 이민자 수용을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655534)
-#### [콘티넨탈, 콘티테크 사업부를 론 스타 펀드에 46억 달러에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655533)
-#### [트럼프, 미국 건국 250주년 기념식에서 공산주의를 맹비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655532)
-#### [차기 대통령 후지모리, 페루의 ‘새로운 단계’를 환영하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655531)
-#### [콘티넨탈, 콘티테크 사업부를 론 스타 펀드에 45억 7천만 달러에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655530)
-#### [[속보] 콘티넨탈 AG, 콘티테크 그룹 사업부를 론스타 펀드에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655529)
-#### [[속보 1] 스카이 뉴스 보도에 따르면, 영국의 ‘넥스트(Next)’가 하비 니콜스(Harvey Nichols)에 대한 인수 제안을 계획 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655528)
-#### [교황 레오, 람페두사에서 이민자 지원 호소하며 미국 방문 기념일 맞아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655527)
-#### [퇴임하는 스타머 영국 총리는 후임자가 외교 문제에 할애하는 시간을 줄여서는 안 된다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655526)
-#### [[속보] 넥스트, 영국 주요 상권 공략의 일환으로 하비 니콜스 인수 추진 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655525)
-#### [스카이 뉴스 보도에 따르면, 영국의 ‘넥스트’가 하비 니콜스에 대한 인수 제안을 계획 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655524)
