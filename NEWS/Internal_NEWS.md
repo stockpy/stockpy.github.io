@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260704_2057 </title></head>
-<center>Vers : 20260704_2057 </center>
-<center>Vers : 20260705_0557 </center>
+<head><meta charset="utf-8"><title>Vers : 20260704_2202 </title></head>
+<center>Vers : 20260704_2202 </center>
+<center>Vers : 20260705_0702 </center>
 <br><br><br>
+#### [언론 보도에 따르면, 폴 펠로시가 캘리포니아에서 주차된 차량을 들이받은 뒤 뺑소니 혐의를 받고 있다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655596)
+#### [우크라이나 젤렌스키 대통령, 트럼프 대통령과 통화했다고 밝히며 전쟁 종식을 위한 ‘미국의 단호한 의지’ 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655595)
+#### [이라크, 전략적 원유 수출 파이프라인 사업 타당성 조사를 위한 예비 협정 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655594)
 #### [베네수엘라 지진 사망자 수 2,954명으로 늘어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655593)
 #### [우크라이나의 젤렌스키 대통령은 트럼프 전 대통령과 통화했다고 밝히며, 전쟁 종식을 돕기 위한 ‘미국의 단호한 의지’를 촉구했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655592)
 #### [몰도바 정부 명령에 따라 러시아 문화 센터가 문을 닫았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655591)
@@ -62,6 +65,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOOD.O/total>
 #### [한 중소기업의 경우, AI가 빠른 출발과 확장의 핵심이었습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655538)
 #### [두 사람의 이해관계가 일치할 때, 트럼프와 로버츠는 모두 대법원에서 이득을 본다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655537)
-#### [트럼프, 내셔널 몰에서 선거 유세 형식의 집회를 열고 미국 건국 250주년을 기념할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655536)
-#### [소식통에 따르면 독일 내각이 2,030억 유로 이상의 차입금을 포함한 예산안 초안을 승인할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655535)
-#### [교황 레오, 7월 4일 람페두사에서 발표한 호소문에서 미국에 이민자 수용을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655534)

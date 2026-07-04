@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260704_2057 </title></head>
-<center>Vers : 20260704_2057 </center>
-<center>Vers : 20260705_0557 </center>
+<head><meta charset="utf-8"><title>Vers : 20260704_2202 </title></head>
+<center>Vers : 20260704_2202 </center>
+<center>Vers : 20260705_0702 </center>
 <br><br><br>
 #### ["삼전닉스 말고 이거 살걸" 주가 8배 폭등…개미들도 놀랐다 [투자톡]](https://m.stock.naver.com/news/ranknews/view/015/0005306244)
 #### ["코스피 1만2600 간다"…하반기 강세장서 찍은 최선호株 10개[주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005785469)
