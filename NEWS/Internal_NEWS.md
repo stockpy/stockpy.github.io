@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260705_1917 </title></head>
-<center>Vers : 20260705_1917 </center>
-<center>Vers : 20260706_0417 </center>
+<head><meta charset="utf-8"><title>Vers : 20260705_2059 </title></head>
+<center>Vers : 20260705_2059 </center>
+<center>Vers : 20260706_0559 </center>
 <br><br><br>
+#### [아시아 모닝 콜 - 글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655713)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [주말 뉴스-OPEC+ 생산량 증대, 하메네이 장례식, 트럼프 연설](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655712)
+#### [이지젯의 창업부터 인수 거래까지의 행보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655711)
+#### [베르스타펜, 레드불의 윙이 “매우 위험하다”고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655710)
+#### [카보베르데, 월드컵에서 역사적인 활약을 펼친 뒤 환호 속에 귀국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655709)
+#### [BUZZ-COMMENT-이번 주 전망-뉴질랜드 중앙은행(RBNZ) 금리 결정, 연준 회의록 발표가 주된 일정인 한 주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655708)
+#### [르클레르, 실버스톤 우승으로 판도를 뒤바꾸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655707)
+#### [미시간주 민주당 후보, 미 상원 예비선거에서 사퇴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655706)
+#### [7월 5일 일요일 오후 3시 24분(미국 동부 표준시) 로이터 미국 스포츠 경기 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655705)
+#### [우크라이나의 젤렌스키 대통령은 정보 당국의 분석에 따르면 러시아가 새로운 대규모 공격을 준비 중이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655704)
+#### [터키에서 좌파 단체들이 나토 반대 시위를 벌이는 가운데 100명 이상이 연행됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655703)
 #### [맥심 파워 앨버타 144 MW H.R. 밀너 석탄 화력발전소 가동 개시 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655702)
 #### [천연가스 파이프라인 긴급 공지: 2026년 7월 6일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655701)
 #### [실버스톤에서의 세이프티카 투입 결정은 울프에게 있어 올바른 판단이었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655700)
@@ -53,16 +65,3 @@
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655656)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655655)
 #### [이라크의 바스라 석유 회사가 할리버튼과 두 곳의 유전에 대한 5년짜리 운영 계약을 체결했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655654)
-#### [이란 국영 매체 보도에 따르면, 이란과 카타르가 해상 무역을 재개했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655653)
-#### [미국 건국 250주년 기념 불꽃놀이 행사 도중 낙뢰 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655652)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655651)
-#### [암살된 이란 지도자 하메네이의 세 아들이 장례식에 참석했으나, 후계자는 모습을 드러내지 않았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655650)
-#### [미신고 혜택에 대한 새로운 보고서가 나오자 영국의 파라지, 윤리 감독 기관에 회부되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655649)
-#### [국제수영리그(ISL), 2021년 체불 상금 지급 예정…재개 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655648)
-#### [미국 대법원, 다음 회기에서 총기, 성소수자, 투표권 관련 사건 심리 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655647)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [폭풍으로 인해 연설이 연기된 뒤, 트럼프가 250주년 기념 연설에서 미국을 칭송했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655646)
-#### [미신고 수당 관련 보도 이후, 영국의 파라지, 규정 위반 의혹 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655645)
-#### [[속보] 구오타이 하이통 증권 사장 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655644)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601211.SS/total>
-#### [ABC 뉴스 보도에 따르면, 뉴욕에서 어린이 4명을 포함해 최소 8명이 총에 맞았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655643)
