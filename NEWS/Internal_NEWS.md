@@ -1,7 +1,41 @@
-<head><meta charset="utf-8"><title>Vers : 20260705_0725 </title></head>
-<center>Vers : 20260705_0725 </center>
-<center>Vers : 20260705_1625 </center>
+<head><meta charset="utf-8"><title>Vers : 20260705_1012 </title></head>
+<center>Vers : 20260705_1012 </center>
+<center>Vers : 20260705_1912 </center>
 <br><br><br>
+#### [국제수영리그(ISL), 2021년 체불 상금 지급 예정…재개 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655648)
+#### [미국 대법원, 다음 회기에서 총기, 성소수자, 투표권 관련 사건 심리 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655647)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
+#### [폭풍으로 인해 연설이 연기된 뒤, 트럼프가 250주년 기념 연설에서 미국을 칭송했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655646)
+#### [미신고 수당 관련 보도 이후, 영국의 파라지, 규정 위반 의혹 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655645)
+#### [[속보] 구오타이 하이통 증권 사장 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655644)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601211.SS/total>
+#### [ABC 뉴스 보도에 따르면, 뉴욕에서 어린이 4명을 포함해 최소 8명이 총에 맞았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655643)
+#### [[속보] 중국 규제 당국, 이성제약에 두 제품 판매 중단 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655642)
+#### [UKMTO, 예멘 호데이다 남서쪽 30해리 지점에서 발생한 사건에 대한 보고 접수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655641)
+#### [ABC 뉴스 보도에 따르면, 코니 아일랜드에서 어린이 4명을 포함해 최소 8명이 총에 맞았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655640)
+#### [[속보] 장쑤 이터니티, 상반기 순이익 전년 동기 대비 57~120% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655639)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600105.SS/total>
+#### [[속보] 상하이 수페제트, 상장폐지 위험 경고 발령…주식 거래 재개 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655638)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688121.SS/total>
+#### [[속보] 홀리랜드 차이나 일렉트로닉스의 최대주주, 지분 18% 양도 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655637)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002729.SZ/total>
+#### [[속보] 제푸 홀딩스, 상반기 순이익 전년 동기 대비 120.8~156.1% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655636)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002266.SZ/total>
+#### [[속보] 티안산 알루미늄, 상반기 순이익 전년 동기 대비 101.5% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655635)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002532.SZ/total>
+#### [[속보] 장쑤 동부 성홍, 상반기 순이익 전년 동기 대비 987.4~1,194.5% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655634)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000301.SZ/total>
+#### [[속보] 저장 화하이 제약, 상반기 순이익 전년 동기 대비 85~95% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655633)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600521.SS/total>
+#### [[속보] 차이나 머천츠 에너지 쉬핑, 상반기 순이익 전년 동기 대비 214~248% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655632)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601872.SS/total>
+#### [폭스콘 2분기 매출 급증, 회사 측은 지정학적 상황에 대한 우려 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655631)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
+#### [카타르, 모든 해상 활동이 즉시 재개될 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655630)
+#### [[속보 1] 소식통에 따르면 OPEC+가 또 한 차례 원유 생산량 증산을 승인할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655629)
+#### [카타르는 해상 활동을 즉시 재개할 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655628)
+#### [폭스콘, 2분기 매출 전년 동기 대비 40% 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655627)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655626)
 #### [[속보] 콘 에디슨, 이번 폭염이 시작된 이후 작업팀이 14만 1,000여 가구의 전력 공급을 복구했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655625)
 #### [중국·러시아 해군, 중국 연안에서 합동 훈련 실시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655624)
@@ -40,6 +74,10 @@
 #### [몰도바 정부 명령에 따라 러시아 문화 센터가 문을 닫았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655591)
 #### [베네수엘라 지진 사망자 수 2,954명으로 늘어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655590)
 #### [밴스 미국 부통령, “영국 지도자들은 국민을 실망시켰다”며 차기 총리가 변화를 이끌어내길 희망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655589)
+<head><meta charset="utf-8"><title>Vers : 20260705_1012 </title></head>
+<center>Vers : 20260705_1012 </center>
+<center>Vers : 20260705_1912 </center>
+<br><br><br>
 #### [‘마스크드 패트리어트 프론트’ 소속 백인 우월주의자들이 7월 4일 워싱턴 D.C.를 가로지르는 행진을 벌였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655588)
 #### [빙에가르드, 투르 노란 저지 착용하며 힘든 한 장을 마무리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655587)
 #### [손님들에 따르면, 테일러 스위프트와 트래비스 켈스가 경기장 내 아늑한 정원에서 결혼식을 올렸다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655586)
@@ -63,10 +101,6 @@
 #### [트럼프, 내셔널 몰에서 선거 유세 형식의 집회를 열고 미국 건국 250주년을 기념할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655569)
 #### [중동산 LNG 공급이 재개됨에 따라 인도가 가스 공급 제한 조치를 철회했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655568)
 #### [안토넬리, 스프린트 우승에 이어 영국 그랑프리 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655567)
-<head><meta charset="utf-8"><title>Vers : 20260705_0725 </title></head>
-<center>Vers : 20260705_0725 </center>
-<center>Vers : 20260705_1625 </center>
-<br><br><br>
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655566)
 #### [미국이 독립 250주년 기념행사를 시작하는 가운데 ‘트럼프 계정’이 첫 선을 보인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655565)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOOD.O/total>
@@ -107,25 +141,3 @@
 #### [차기 대통령 후지모리, 페루의 ‘새로운 단계’를 환영하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655531)
 #### [콘티넨탈, 콘티테크 사업부를 론 스타 펀드에 45억 7천만 달러에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655530)
 #### [[속보] 콘티넨탈 AG, 콘티테크 그룹 사업부를 론스타 펀드에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655529)
-#### [[속보 1] 스카이 뉴스 보도에 따르면, 영국의 ‘넥스트(Next)’가 하비 니콜스(Harvey Nichols)에 대한 인수 제안을 계획 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655528)
-#### [교황 레오, 람페두사에서 이민자 지원 호소하며 미국 방문 기념일 맞아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655527)
-#### [퇴임하는 스타머 영국 총리는 후임자가 외교 문제에 할애하는 시간을 줄여서는 안 된다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655526)
-#### [[속보] 넥스트, 영국 주요 상권 공략의 일환으로 하비 니콜스 인수 추진 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655525)
-#### [스카이 뉴스 보도에 따르면, 영국의 ‘넥스트’가 하비 니콜스에 대한 인수 제안을 계획 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655524)
-#### [[업데이트 1] 블룸버그 뉴스, SK하이닉스가 ADR 발행 시 0.5% 수수료 지급을 검토 중이라고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655523)
-#### [우크라이나, 러시아가 동부 주요 도시 코스티안티니브카를 점령했다는 주장을 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655522)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655521)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655520)
-#### [젤렌스키 대통령, 우크라이나군이 상트페테르부르크 인근의 석유 및 군사 시설을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655519)
-#### [카보베르데의 역사적인 행진이 막을 내리자 아르헨티나 팬들이 환호하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655518)
-#### [나프토가즈, “러시아가 우크라이나 폴타바 지역의 가스 생산 시설을 공격했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655517)
-#### [당국, 우크라이나의 대규모 드론 공격으로 상트페테르부르크 지역 항구와 석유 터미널이 타격을 입었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655516)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655515)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655514)
-#### [이란 국민들, 하메네이 추모 1주일간 장례식에 몰려들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655513)
-#### [우크라이나는 러시아군이 우크라이나 동부의 코스티안티니브카를 점령했다는 주장을 부인하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655512)
-#### [독일에서 수천 명이 극우 정당 AfD에 반대하며 시위를 벌였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655511)
-#### [이란 국민들이 하메네이의 일주일간의 장례식에 몰려들고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655510)
-#### [러시아 당국, 상트페테르부르크 지역이 우크라이나의 대규모 드론 공격을 받았다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655509)
-#### [킹스턴 코젠 온타리오 140 MW 데스텍 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655508)
-#### [교황 레오, 이민자를 환영해 온 미국의 역사를 칭송하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655507)
