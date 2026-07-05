@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260705_1012 </title></head>
-<center>Vers : 20260705_1012 </center>
-<center>Vers : 20260705_1912 </center>
+<head><meta charset="utf-8"><title>Vers : 20260705_1148 </title></head>
+<center>Vers : 20260705_1148 </center>
+<center>Vers : 20260705_2048 </center>
 <br><br><br>
+#### [[속보 1] 이란 국영 매체, 이란과 카타르가 해상 무역을 재개했다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655658)
+#### [파문당한 가톨릭 분파 소속 신부, “미래의 교황이 우리를 다시 환영해 줄 것”이라고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655657)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655656)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655655)
+#### [이라크의 바스라 석유 회사가 할리버튼과 두 곳의 유전에 대한 5년짜리 운영 계약을 체결했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655654)
+#### [이란 국영 매체 보도에 따르면, 이란과 카타르가 해상 무역을 재개했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655653)
+#### [미국 건국 250주년 기념 불꽃놀이 행사 도중 낙뢰 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655652)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655651)
+#### [암살된 이란 지도자 하메네이의 세 아들이 장례식에 참석했으나, 후계자는 모습을 드러내지 않았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655650)
+#### [미신고 혜택에 대한 새로운 보고서가 나오자 영국의 파라지, 윤리 감독 기관에 회부되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655649)
 #### [국제수영리그(ISL), 2021년 체불 상금 지급 예정…재개 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655648)
 #### [미국 대법원, 다음 회기에서 총기, 성소수자, 투표권 관련 사건 심리 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655647)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
@@ -64,6 +74,10 @@
 #### [[속보 1] 캘리포니아에서 주차된 차량을 들이받은 폴 펠로시, 뺑소니 혐의로 기소될 전망이라고 당국이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655601)
 #### [[속보 1] 크렘린 측 보좌관, “트럼프 대통령이 푸틴 대통령에게 우크라이나와의 합의 도출을 돕겠다고 전화로 제안했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655600)
 #### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655599)
+<head><meta charset="utf-8"><title>Vers : 20260705_1148 </title></head>
+<center>Vers : 20260705_1148 </center>
+<center>Vers : 20260705_2048 </center>
+<br><br><br>
 #### [가면을 쓴 ‘패트리어트 프론트’ 백인 우월주의자들이 7월 4일 워싱턴 D.C.를 가로지르는 행진을 벌였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655598)
 #### [트럼프, 푸틴과의 대화에서 우크라이나 문제 해결을 돕겠다고 제안했다 - 크렘린 보좌관](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655597)
 #### [언론 보도에 따르면, 폴 펠로시가 캘리포니아에서 주차된 차량을 들이받은 뒤 뺑소니 혐의를 받고 있다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655596)
@@ -74,10 +88,6 @@
 #### [몰도바 정부 명령에 따라 러시아 문화 센터가 문을 닫았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655591)
 #### [베네수엘라 지진 사망자 수 2,954명으로 늘어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655590)
 #### [밴스 미국 부통령, “영국 지도자들은 국민을 실망시켰다”며 차기 총리가 변화를 이끌어내길 희망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655589)
-<head><meta charset="utf-8"><title>Vers : 20260705_1012 </title></head>
-<center>Vers : 20260705_1012 </center>
-<center>Vers : 20260705_1912 </center>
-<br><br><br>
 #### [‘마스크드 패트리어트 프론트’ 소속 백인 우월주의자들이 7월 4일 워싱턴 D.C.를 가로지르는 행진을 벌였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655588)
 #### [빙에가르드, 투르 노란 저지 착용하며 힘든 한 장을 마무리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655587)
 #### [손님들에 따르면, 테일러 스위프트와 트래비스 켈스가 경기장 내 아늑한 정원에서 결혼식을 올렸다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655586)
@@ -131,13 +141,3 @@
 #### [우크라이나 농업로비단체 UCAB에 따르면, 우크라이나의 6월 농산물 수출량이 7.5% 감소한 480만 톤을 기록했다고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655540)
 #### [미국이 제250회 독립기념일 기념행사를 시작하는 가운데 ‘트럼프 계정’이 첫 선을 보인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655539)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOOD.O/total>
-#### [한 중소기업의 경우, AI가 빠른 출발과 확장의 핵심이었습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655538)
-#### [두 사람의 이해관계가 일치할 때, 트럼프와 로버츠는 모두 대법원에서 이득을 본다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655537)
-#### [트럼프, 내셔널 몰에서 선거 유세 형식의 집회를 열고 미국 건국 250주년을 기념할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655536)
-#### [소식통에 따르면 독일 내각이 2,030억 유로 이상의 차입금을 포함한 예산안 초안을 승인할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655535)
-#### [교황 레오, 7월 4일 람페두사에서 발표한 호소문에서 미국에 이민자 수용을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655534)
-#### [콘티넨탈, 콘티테크 사업부를 론 스타 펀드에 46억 달러에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655533)
-#### [트럼프, 미국 건국 250주년 기념식에서 공산주의를 맹비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655532)
-#### [차기 대통령 후지모리, 페루의 ‘새로운 단계’를 환영하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655531)
-#### [콘티넨탈, 콘티테크 사업부를 론 스타 펀드에 45억 7천만 달러에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655530)
-#### [[속보] 콘티넨탈 AG, 콘티테크 그룹 사업부를 론스타 펀드에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655529)
