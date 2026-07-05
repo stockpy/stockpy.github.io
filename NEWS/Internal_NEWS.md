@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260704_2309 </title></head>
-<center>Vers : 20260704_2309 </center>
-<center>Vers : 20260705_0809 </center>
+<head><meta charset="utf-8"><title>Vers : 20260705_0324 </title></head>
+<center>Vers : 20260705_0324 </center>
+<center>Vers : 20260705_1224 </center>
 <br><br><br>
+#### [중국, “중국과 러시아 해군, 중국 연안에서 합동 훈련 실시할 예정”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655606)
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655605)
+#### [“정치적 색채가 짙은” 메시지를 내건 선박이 뉴욕 항구 선박 퍼레이드에서 제외됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655604)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655603)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655602)
 #### [[속보 1] 캘리포니아에서 주차된 차량을 들이받은 폴 펠로시, 뺑소니 혐의로 기소될 전망이라고 당국이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655601)
 #### [[속보 1] 크렘린 측 보좌관, “트럼프 대통령이 푸틴 대통령에게 우크라이나와의 합의 도출을 돕겠다고 전화로 제안했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655600)
 #### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655599)
@@ -59,8 +64,3 @@
 #### [러시아 지휘관, 푸틴 대통령에게 자군 병력이 코스티안티니브카를 점령했다고 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655549)
 #### [잉글랜드 월드컵 대표팀, 야유 속에 멕시코시티 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655548)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655547)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655546)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655545)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655544)
-#### [우크라이나는 2026년에 러시아가 200대 이상의 철도 기관차를 파손했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655543)
-#### [나토 정상회의를 앞두고 독일의 메르츠가 우크라이나의 젤렌스키 대통령과 통화했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655542)
