@@ -1,9 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20260705_1710 </title></head>
-<center>Vers : 20260705_1710 </center>
-<center>Vers : 20260706_0210 </center>
+<head><meta charset="utf-8"><title>Vers : 20260705_1917 </title></head>
+<center>Vers : 20260705_1917 </center>
+<center>Vers : 20260706_0417 </center>
 <br><br><br>
+#### [맥심 파워 앨버타 144 MW H.R. 밀너 석탄 화력발전소 가동 개시 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655702)
+#### [천연가스 파이프라인 긴급 공지: 2026년 7월 6일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655701)
+#### [실버스톤에서의 세이프티카 투입 결정은 울프에게 있어 올바른 판단이었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655700)
+#### [버검 내무장관은 “혼란스러운 민주주의” 속에서 백인 우월주의자들의 7월 4일 행진이 표현의 자유에 해당한다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655699)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655698)
+#### [[속보] JCP&L, 정전 피해를 입은 약 30만 가구 중 23만 가구에 전력 공급 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655697)
+#### [코메드, 일요일 기준 정전 피해를 입은 29만 7천 가구 중 28만 3천 가구 이상에 전력 공급 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655696)
+#### [트럼프, 나토 정상회의와 병행해 우크라이나·시리아 지도자들과 회동 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655695)
+#### [프랑스 산불로 인해 당국이 투르 드 프랑스 3단계 구간 일반인 출입을 금지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655694)
+#### [미국 북서부 강 유수량 83%로 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655693)
+#### [트럼프, 나토 정상회의와 병행해 우크라이나·시리아 지도자들과 회동 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655692)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655691)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655690)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655689)
 #### [[속보] 이지젯, 이사회와 캐슬레이크가 합의에 도달했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655687)
 #### [의료진에 따르면 이스라엘의 공습으로 가자지구에서 2명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655686)
+#### [이지젯, 캐슬레이크가 제시한 주당 6.90파운드의 개선된 인수 제안에 원칙적으로 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655688)
 #### [사이클 - 델 토로, 투르 드 프랑스 2단계 우승… 포가카르, 빈게가르드를 바짝 추격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655685)
 #### [이지젯, 캐슬레이크가 제시한 주당 6.90파운드의 개선된 인수 제안에 원칙적으로 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655684)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655683)
@@ -51,27 +66,3 @@
 #### [[속보] 구오타이 하이통 증권 사장 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655644)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601211.SS/total>
 #### [ABC 뉴스 보도에 따르면, 뉴욕에서 어린이 4명을 포함해 최소 8명이 총에 맞았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655643)
-#### [[속보] 중국 규제 당국, 이성제약에 두 제품 판매 중단 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655642)
-#### [UKMTO, 예멘 호데이다 남서쪽 30해리 지점에서 발생한 사건에 대한 보고 접수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655641)
-#### [ABC 뉴스 보도에 따르면, 코니 아일랜드에서 어린이 4명을 포함해 최소 8명이 총에 맞았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655640)
-#### [[속보] 장쑤 이터니티, 상반기 순이익 전년 동기 대비 57~120% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655639)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600105.SS/total>
-#### [[속보] 상하이 수페제트, 상장폐지 위험 경고 발령…주식 거래 재개 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655638)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688121.SS/total>
-#### [[속보] 홀리랜드 차이나 일렉트로닉스의 최대주주, 지분 18% 양도 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655637)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002729.SZ/total>
-#### [[속보] 제푸 홀딩스, 상반기 순이익 전년 동기 대비 120.8~156.1% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655636)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002266.SZ/total>
-#### [[속보] 티안산 알루미늄, 상반기 순이익 전년 동기 대비 101.5% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655635)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002532.SZ/total>
-#### [[속보] 장쑤 동부 성홍, 상반기 순이익 전년 동기 대비 987.4~1,194.5% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655634)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000301.SZ/total>
-#### [[속보] 저장 화하이 제약, 상반기 순이익 전년 동기 대비 85~95% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655633)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600521.SS/total>
-#### [[속보] 차이나 머천츠 에너지 쉬핑, 상반기 순이익 전년 동기 대비 214~248% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655632)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601872.SS/total>
-#### [폭스콘 2분기 매출 급증, 회사 측은 지정학적 상황에 대한 우려 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655631)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [카타르, 모든 해상 활동이 즉시 재개될 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655630)
-#### [[속보 1] 소식통에 따르면 OPEC+가 또 한 차례 원유 생산량 증산을 승인할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655629)
-#### [카타르는 해상 활동을 즉시 재개할 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655628)

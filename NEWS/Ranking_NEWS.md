@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260705_1710 </title></head>
-<center>Vers : 20260705_1710 </center>
-<center>Vers : 20260706_0210 </center>
+<head><meta charset="utf-8"><title>Vers : 20260705_1917 </title></head>
+<center>Vers : 20260705_1917 </center>
+<center>Vers : 20260706_0417 </center>
 <br><br><br>
 #### [“금반지 그때 팔 걸” 상상못한 최악…13% 뚝 떨어졌다[투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002665871)
 #### [“우유 판촉 알바하다 이젠 年 15억 벌어요”…안말례 부사장의 ‘인생 역전’ 비결 [인터뷰]](https://m.stock.naver.com/news/ranknews/view/009/0005702751)
