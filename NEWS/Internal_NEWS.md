@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260705_2059 </title></head>
-<center>Vers : 20260705_2059 </center>
-<center>Vers : 20260706_0559 </center>
+<head><meta charset="utf-8"><title>Vers : 20260705_2300 </title></head>
+<center>Vers : 20260705_2300 </center>
+<center>Vers : 20260706_0800 </center>
 <br><br><br>
+#### [태풍 바비가 서태평양 섬들에 엄청난 강풍을 몰고 왔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655724)
+#### [이번 주 브레이킹뷰스: 거대 기업을 분할하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655723)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655722)
+#### [AUD/USD-연준 금리 인상 기대감 완화로 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655721)
+#### [단독-이란, 일본에 대한 원유 판매 검토 중…구매 측, 제재 면제 기간 연장을 모색 중이라고 소식통들이 전했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655720)
+#### [터키에서 좌파 단체들이 나토 반대 시위를 벌이는 가운데 100명 이상이 연행됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655719)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655718)
+#### [베네수엘라 지진 사망자 수 3,342명으로 늘어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655717)
+#### [영국 관계자 “금융 서비스 분야 AI 활용에 발맞추기 위해 규제 당국 간 ‘무기 경쟁’이 벌어지고 있다” - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655716)
+#### [트럼프, 미국 선수의 레드카드 재검토 요청 위해 FIFA 회장에게 전화했다: 소식통](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655715)
+#### [호주의 배터리 보조금, 옥상 태양광 발전 붐을 일으키다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655714)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002594.SZ/total>
 #### [아시아 모닝 콜 - 글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655713)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
 #### [주말 뉴스-OPEC+ 생산량 증대, 하메네이 장례식, 트럼프 연설](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655712)
@@ -53,15 +66,3 @@
 #### [F1 드라이버들이 레고 자동차 소동으로 영국 그랑프리 관중들을 즐겁게 했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655666)
 #### [[속보] 중지 이놀라이트, 상류 소재 공급 차단설은 사실이 아니라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655665)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300308.SZ/total>
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655664)
-#### [온타리오주 시스(Sithe)의 195 MW 고어웨이 13(Goreway 13) 가스 화력발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655663)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655662)
-#### [해고된 지 1년 만에 호너, F1 패독으로 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655661)
-#### [월가 주간 전망-기술주 부진 속 투자자들, 연준 신호와 기업 실적 동향 주시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655660)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PEP.O/total>
-#### [시리아 대통령실, “마크롱 프랑스 대통령이 시리아를 방문할 예정”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655659)
-#### [[속보 1] 이란 국영 매체, 이란과 카타르가 해상 무역을 재개했다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655658)
-#### [파문당한 가톨릭 분파 소속 신부, “미래의 교황이 우리를 다시 환영해 줄 것”이라고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655657)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655656)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655655)
-#### [이라크의 바스라 석유 회사가 할리버튼과 두 곳의 유전에 대한 5년짜리 운영 계약을 체결했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655654)
