@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260705_1338 </title></head>
-<center>Vers : 20260705_1338 </center>
-<center>Vers : 20260705_2238 </center>
+<head><meta charset="utf-8"><title>Vers : 20260705_1512 </title></head>
+<center>Vers : 20260705_1512 </center>
+<center>Vers : 20260706_0012 </center>
 <br><br><br>
+#### [프랑스 산불로 투르 드 프랑스 3단계 결승선 운영에 차질 빚어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655674)
+#### [쿠나(KUNA)에 따르면, 쿠웨이트는 에너지 시장의 변화에 대응하기 위해 산유국 간의 협의가 중요하다고 강조했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655673)
+#### [러시아는 우크라이나가 군인 시신 인도를 조건으로 한 지역별 휴전 제안을 거부했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655672)
+#### [[속보] 모CI와 카타르에너지, 산업 프로젝트를 위한 탄화수소 기반 자원 배분 분야에서 협력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655671)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655670)
+#### [온타리오주 시스(Sithe)의 195 MW 고어웨이 13(Goreway 13) 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655669)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655668)
+#### [인터내셔널 파워 온타리오의 128 MW 웨스트 윈저 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655667)
+#### [F1 드라이버들이 레고 자동차 소동으로 영국 그랑프리 관중들을 즐겁게 했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655666)
 #### [[속보] 중지 이놀라이트, 상류 소재 공급 차단설은 사실이 아니라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655665)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300308.SZ/total>
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655664)
@@ -67,6 +76,10 @@
 #### [기독교 비정부기구(NGO), 중국 남부에서 구금됐던 목사의 석방을 환영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655617)
 #### [[속보] 우버, 딜리버리 히어로 인수 추진에 집중하며 유럽 내 음식 배달 사업 확대를 보류 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655614)
 #### [스페이스X의 경쟁사를 탄생시킬 유럽 우주 협약, 반독점 논란 불러일으켜 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655613)
+<head><meta charset="utf-8"><title>Vers : 20260705_1512 </title></head>
+<center>Vers : 20260705_1512 </center>
+<center>Vers : 20260706_0012 </center>
+<br><br><br>
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655616)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655615)
 #### [주목할 요인 - 7월 5일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655612)
@@ -76,10 +89,6 @@
 #### [중국 남부에서 구금되었던 목사의 석방을 기독교 비정부기구가 환영했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655608)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655607)
 #### [중국, “중국과 러시아 해군, 중국 연안에서 합동 훈련 실시할 예정”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655606)
-<head><meta charset="utf-8"><title>Vers : 20260705_1338 </title></head>
-<center>Vers : 20260705_1338 </center>
-<center>Vers : 20260705_2238 </center>
-<br><br><br>
 #### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655605)
 #### [“정치적 색채가 짙은” 메시지를 내건 선박이 뉴욕 항구 선박 퍼레이드에서 제외됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655604)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655603)
@@ -133,12 +142,3 @@
 #### [반발 속에서도 인도 자동차 업계, 에탄올 연료 의무화 방침 옹호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655557)
 #### [에너지 기업 DTEK에 따르면, 러시아가 우크라이나 동부의 한 탄광을 공격해 광부 1명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655556)
 #### [해리 왕자의 아내 메건과 자녀들은 다음 주 런던에서 열리는 행사에 함께 참석하지 않을 예정이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655555)
-#### [모터 레이싱 - F1 선두 안토넬리, 해밀턴 제치고 스프린트 첫 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655554)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655553)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655552)
-#### [극우 정당 AfD가 정권 장악을 노리는 가운데 독일에서 수천 명이 시위를 벌였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655551)
-#### [안토넬리, 해밀턴의 홈 스프린트 우승 저지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655550)
-#### [러시아 지휘관, 푸틴 대통령에게 자군 병력이 코스티안티니브카를 점령했다고 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655549)
-#### [잉글랜드 월드컵 대표팀, 야유 속에 멕시코시티 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655548)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655547)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2655546)
