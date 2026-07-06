@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260706_2014 </title></head>
-<center>Vers : 20260706_2014 </center>
-<center>Vers : 20260707_0514 </center>
+<head><meta charset="utf-8"><title>Vers : 20260706_2149 </title></head>
+<center>Vers : 20260706_2149 </center>
+<center>Vers : 20260707_0649 </center>
 <br><br><br>
 #### [지난주 20조 던진 외국인…이 와중에 1000억 넘게 담은 종목 딱 4개, 공통점은?](https://m.stock.naver.com/news/ranknews/view/009/0005703528)
 #### [40만원 간다더니 반토막 났다…LG전자 개미들 '피눈물' [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005306907)
