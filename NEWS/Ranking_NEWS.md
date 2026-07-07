@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260707_1832 </title></head>
-<center>Vers : 20260707_1832 </center>
-<center>Vers : 20260708_0332 </center>
+<head><meta charset="utf-8"><title>Vers : 20260707_2028 </title></head>
+<center>Vers : 20260707_2028 </center>
+<center>Vers : 20260708_0528 </center>
 <br><br><br>
 #### [“메모리 겨울 온다”던 모건스탠리, 이번엔 “삼전닉스 팔아라”](https://m.stock.naver.com/news/ranknews/view/023/0003986228)
 #### [“삼성전자로 손해 보는 건 개미뿐” 곡소리…외국인은 부지런히 팔았다](https://m.stock.naver.com/news/ranknews/view/011/0004639171)
