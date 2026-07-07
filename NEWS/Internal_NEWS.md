@@ -1,7 +1,31 @@
-<head><meta charset="utf-8"><title>Vers : 20260707_2155 </title></head>
-<center>Vers : 20260707_2155 </center>
-<center>Vers : 20260708_0655 </center>
+<head><meta charset="utf-8"><title>Vers : 20260707_2301 </title></head>
+<center>Vers : 20260707_2301 </center>
+<center>Vers : 20260708_0801 </center>
 <br><br><br>
+#### [쿠바, 전력망 복구했으나 미국의 연료 봉쇄로 전력 부족 사태 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658295)
+#### [홍콩 증시에 상장된 시노 바이오파마와 아스트라제네카, 최대 19억 달러 규모의 호흡기 질환 치료제 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658294)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1177.HK/total>
+#### [에너팩 툴(Enerpac Tool), 3분기 실적은 시장 예상치를 상회했으나 서비스 부문 부진으로 연간 조정 EBITDA 전망치를 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658293)
+#### [CIF/FOB 걸프 지역 곡물·대두 바지선 기준 가격, 중국 수요에 힘입어 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658292)
+#### [미군이 이란을 상대로 공습을 감행한 후 미국 내 유가가 급등했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658291)
+#### [에너팩 툴 그룹, SFE 그룹과 4억 7,200만 달러 규모 거래 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658290)
+#### [미국 당국자, “미군이 이란의 방공망·미사일·드론 발사 기지를 타격했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658289)
+#### [[속보] Enerpac Tool, 3분기 조정 주당순이익(EPS) 0.6달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658288)
+#### [프랑스의 르펜, 2027년 대선 출마 의향 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658287)
+#### [영국, 500억 달러 규모의 나토(NATO) 심층 타격 무기 개발 계획 발표 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658286)
+#### [한국 정부, “한국·미국·일본, 소형 원자로(SMR) 도입에 협력하기로 합의”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658285)
+#### [[속보] 브라질 Cury, 2분기 매출 19억 4천만 레알 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658284)
+#### [AI 관련 우려로 반도체 업체들이 타격을 입으며 미국 증시 하락 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658283)
+#### [미국 옥수수·대두 선물, 기상 상황과 중국 수요에 힘입어 1개월 만에 최고치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658282)
+#### [[속보] 시노 바이오파마슈티컬, TQC3721과 관련해 아스트라제네카와 독점 라이선스 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658281)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1177.HK/total>
+#### [우크라이나 수도 키예프가 미사일 공격을 받고 있다고 시장이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658280)
+#### [레스메드, 소프트웨어 사업부 매트릭스케어(MatrixCare)를 4억 9천만 달러에 매각할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658279)
+#### [FCC, 중국과 연계된 미국 기업의 통신 서비스 제공 승인 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658278)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600941.SS/total>
+#### [[속보] 에너팩 툴, 올해 연간 매출 1억 7천만 달러 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658277)
+#### [미국 식용유 및 지방 - 7월 7일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658276)
+#### [단독: 아스펜 미국 보험 부문 책임자 아이슬러, 솜포에서 은퇴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658275)
 #### [블랙록 산하 GIP와 스톤피크, 50억 달러 규모 브라질 항만 인수 제안 검토 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658274)
 #### [‘더 인포메이션’ 보도에 따르면, 스페이스XAI는 빠르면 수요일 중 ‘커서(Cursor)’가 탑재된 신형 모델을 출시할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658273)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
@@ -46,26 +70,3 @@
 #### [DA 데이비슨, ‘중립’ 평가와 목표주가 5달러로 스냅에 대한 분석을 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658237)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
 #### [MasTec, 16억 5천만 달러 규모 거래로 전기 시공업체 Superior Group 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658236)
-#### [소식통에 따르면 API 통계에서 미국 주간 원유 및 연료 재고가 감소한 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658235)
-#### [우크라이나의 젤렌스키, 3개국과 ‘드론 계약’ 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658234)
-#### [스페이스XAI, 빠르면 수요일 커서가 탑재된 신형 모델 출시 예정 - 더 인포메이션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658233)
-#### [CME 돼지고기 선물, 미국 여름철 돼지고기 수요 부진으로 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658232)
-#### [분석-과열된 기대 속에, 미국의 월드컵 꿈이 축구의 현실과 부딪치다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658231)
-#### [‘패트리어트 프론트’ 회원들과 홀로 여행하는 한 여성이 워싱턴 DC 열차를 타고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658230)
-#### [DA 데이비슨, ‘구매’ 추천과 목표주가 26달러로 핀터레스트에 대한 분석을 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658229)
-#### [MasTec, 16억 5천만 달러 규모의 거래로 전기 시공업체 Superior Group을 인수할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658228)
-#### [코티, 4억 달러 규모의 거래를 통해 구찌 뷰티 라이선스를 케링에 조기에 반환하기로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658227)
-#### [미 법무부, 트랜스디그름(TransDigm)의 스텔란트 시스템즈(Stellant Systems) 9억 6천만 달러 인수 계획에 이의를 제기하는 소송 제기 예정 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658226)
-#### [메인주 상원의원 후보 그레이엄 플랫너가 사퇴할 경우, 누가 그의 자리를 대신할 수 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658225)
-#### [‘Inside Debt’ - 7월 7일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658224)
-#### [오클라호마주, 올스테이트를 상대로 소송 제기… “보험사가 손해배상금을 적게 지급했다”고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658223)
-#### [엑슨모빌, 2분기 실적 호조 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658222)
-#### [[속보] 라르고, 미국 국방물류청(DLA)과 체결한 5년 계약에 따라 6,010만 달러 규모 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658221)
-#### [찰리 커크가 총격을 당할 당시 용의자가 저격 자세를 취하고 있는 모습이 영상에 포착됐다: 검찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658220)
-#### [[속보] 랜트로닉스, 네로 글로벌 트래킹을 포함한 베시마 네트웍스의 산업용 IoT 사업부 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658219)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LTRX.O/total>
-#### [유가 급등에 힘입어 에너지주 상승, TSX 지수 상승 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658218)
-#### [[속보] 코티, 구찌 뷰티 라이선스를 케링에 약 4억 달러에 양도할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658217)
-#### [콜롬비아, 미국산 대두박 구매… 요르단, 밀 입찰 불참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658216)
-#### [펭귄 솔루션스, 연간 실적 전망 상향 조정 후 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2658215)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PENG.O/total>
