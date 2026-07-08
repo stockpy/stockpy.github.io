@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260708_1755 </title></head>
-<center>Vers : 20260708_1755 </center>
-<center>Vers : 20260709_0255 </center>
+<head><meta charset="utf-8"><title>Vers : 20260708_1925 </title></head>
+<center>Vers : 20260708_1925 </center>
+<center>Vers : 20260709_0425 </center>
 <br><br><br>
 #### ["너무 야하다고?" 여성들 열광…1년 새 290% 폭등한 회사](https://m.stock.naver.com/news/ranknews/view/015/0005307761)
 #### [개미 열에 여덟은 손실봤다…요즘 아무도 주식얘기 안하는 이유](https://m.stock.naver.com/news/ranknews/view/009/0005704707)
