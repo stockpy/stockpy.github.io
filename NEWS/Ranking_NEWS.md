@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260709_1817 </title></head>
-<center>Vers : 20260709_1817 </center>
-<center>Vers : 20260710_0317 </center>
+<head><meta charset="utf-8"><title>Vers : 20260709_2145 </title></head>
+<center>Vers : 20260709_2145 </center>
+<center>Vers : 20260710_0645 </center>
 <br><br><br>
 #### [“SK하이닉스 ADR 공모가 주당 149달러 제시”](https://m.stock.naver.com/news/ranknews/view/016/0002668349)
 #### [[속보]“하닉 美공모가149달러 제시…韓증시보다 높아” 블룸버그](https://m.stock.naver.com/news/ranknews/view/021/0002803673)
