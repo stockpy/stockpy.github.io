@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260710_1948 </title></head>
-<center>Vers : 20260710_1948 </center>
-<center>Vers : 20260711_0448 </center>
+<head><meta charset="utf-8"><title>Vers : 20260710_2105 </title></head>
+<center>Vers : 20260710_2105 </center>
+<center>Vers : 20260711_0605 </center>
 <br><br><br>
 #### ["삼전닉스 다 떨어졌는데 이제 와서?"...증권가서도 목표주가 낮춘다](https://m.stock.naver.com/news/ranknews/view/014/0005546379)
 #### [“오래 기다리셨죠, 이제 살 때입니다” 메모리주, 매수 기회 왔다는 이유[투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002668811)
