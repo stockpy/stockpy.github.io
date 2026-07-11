@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260711_1657 </title></head>
-<center>Vers : 20260711_1657 </center>
-<center>Vers : 20260712_0157 </center>
+<head><meta charset="utf-8"><title>Vers : 20260711_1758 </title></head>
+<center>Vers : 20260711_1758 </center>
+<center>Vers : 20260712_0258 </center>
 <br><br><br>
+#### [베네수엘라 지진으로 4,333명이 사망하고 16,740명이 부상했다고 국회 의장이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662617)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662616)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662615)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662614)
+#### [스페인에서 발생한 치명적인 산불 희생자들이 타고 있던 차량의 탄 흔적이 남은 잔해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662613)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662612)
+#### [이란 전쟁: 호르무즈 해협에서 무슨 일이 벌어지고 있는가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662611)
+#### [폭염으로 인해 투르 드 프랑스 주최 측, 9단계 구간을 단축하기로 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662610)
 #### [트럼프, 월터 리드 병원에서 건강검진을 “방금 마쳤다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662609)
 #### [테헤란 당국에 따르면, 이란과 오만은 호르무즈 해협을 통과하는 선박의 안전한 통행을 위한 방안을 논의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662608)
 #### [사이클 - 투르 드 프랑스에서 메를리에, 스프린트 2연승… 포가카르, 종합 선두 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662607)
@@ -54,12 +62,3 @@
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662560)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662559)
 #### [트럼프, 미국과 이란이 협상 지속에 합의했으나 휴전 협상은 결렬됐다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662558)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662557)
-#### [IEA 사무총장, “유럽의 더딘 전기화 추진은 ‘중대한 실수’”라고 경고 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662556)
-#### [북한, 나토 정상회의를 규탄하며 비핵화는 미국 동맹국들부터 시작해야 한다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662555)
-#### [애플, 영업비밀 도용 혐의로 오픈AI와 전직 직원 2명을 상대로 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662554)
-#### [워너 브라더스 인수합병 지연 요청 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662553)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
-#### [카자흐스탄 재벌 투를로프의 ‘프리덤’, 사업 확장을 위해 3억 달러 조달 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662552)
-#### [트럼프, “테헤란이 미국 대통령을 공격하면 이란을 겨냥한 미사일을 발사하겠다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662551)
-#### [북한, 나토 정상회의 이후 미국과 동맹국들을 규탄하며 주권 수호를 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662550)
