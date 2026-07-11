@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260711_2047 </title></head>
-<center>Vers : 20260711_2047 </center>
-<center>Vers : 20260712_0547 </center>
+<head><meta charset="utf-8"><title>Vers : 20260711_2135 </title></head>
+<center>Vers : 20260711_2135 </center>
+<center>Vers : 20260712_0635 </center>
 <br><br><br>
 #### [폭락에 겁나서 탈출했는데…삼전닉스 개미들 다시 들어가도 될까요[주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005788582)
 #### ["로봇 믿고 쓸어담았는데"…증권가 전망에 개미들 '대혼란' [투자톡]](https://m.stock.naver.com/news/ranknews/view/015/0005308878)
