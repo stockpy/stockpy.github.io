@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260711_1549 </title></head>
-<center>Vers : 20260711_1549 </center>
-<center>Vers : 20260712_0049 </center>
+<head><meta charset="utf-8"><title>Vers : 20260711_1657 </title></head>
+<center>Vers : 20260711_1657 </center>
+<center>Vers : 20260712_0157 </center>
 <br><br><br>
+#### [트럼프, 월터 리드 병원에서 건강검진을 “방금 마쳤다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662609)
+#### [테헤란 당국에 따르면, 이란과 오만은 호르무즈 해협을 통과하는 선박의 안전한 통행을 위한 방안을 논의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662608)
+#### [사이클 - 투르 드 프랑스에서 메를리에, 스프린트 2연승… 포가카르, 종합 선두 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662607)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662606)
+#### [[속보 1] 뉴욕타임스 보도에 따르면, 트럼프 행정부가 ‘에어포스 원’ 관련 기사를 다룬 뉴욕타임스 기자들에게 소환장을 발부했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662605)
+#### [트럼프 행정부, ‘에어포스 원’ 관련 보도와 관련해 뉴욕타임스 기자들에게 소환장 발부…신문 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662604)
 #### [메를리에, 투르 드 프랑스에서 연속 스프린트 우승… 포가카르, 종합 선두 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662603)
 #### [인사이트-관계자들에 따르면, 러시아는 시리아 항구에 상업 물류 허브를 7월 중순에 가동할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662602)
 #### [미국 민주당 소속 로 칸나, 이스라엘 정착민들에게 억류당했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662601)
@@ -57,9 +63,3 @@
 #### [카자흐스탄 재벌 투를로프의 ‘프리덤’, 사업 확장을 위해 3억 달러 조달 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662552)
 #### [트럼프, “테헤란이 미국 대통령을 공격하면 이란을 겨냥한 미사일을 발사하겠다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662551)
 #### [북한, 나토 정상회의 이후 미국과 동맹국들을 규탄하며 주권 수호를 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662550)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662549)
-#### [태풍 바비가 맹렬한 강풍과 폭우를 동반해 일본 이시가키를 강타했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662548)
-#### [맨해튼 고층 빌딩 붕괴 사고, 형사 수사 대상에 올라 - NYT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662547)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662546)
-#### [미 법무부, 미국 의원·무슬림·트랜스젠더를 상대로 한 위협 혐의로 백인 우월주의자 기소했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662545)
-#### [미국 정보기관 수장 대행, 새로운 감원 조치 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662544)
