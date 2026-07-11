@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260711_1758 </title></head>
-<center>Vers : 20260711_1758 </center>
-<center>Vers : 20260712_0258 </center>
+<head><meta charset="utf-8"><title>Vers : 20260711_1917 </title></head>
+<center>Vers : 20260711_1917 </center>
+<center>Vers : 20260712_0417 </center>
 <br><br><br>
+#### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662625)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662624)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662623)
+#### [젤렌스키: 우크라이나의 외교는 동맹국들이 무기 공급 계약을 더 신속하게 이행하도록 해야 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662622)
+#### [치명적인 산불 이후 스페인 협곡에서 구조된 영국인 부부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662621)
+#### [트럼프, 5월 건강검진 관련 게시물에서 자신의 건강과 인지 능력 검사 결과에 대한 찬사를 다시 꺼내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662620)
+#### [베네수엘라 지진으로 4,333명 사망, 16,740명 부상…국회의장 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662619)
+#### [미국 우정청, 우표 가격을 82센트로 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662618)
 #### [베네수엘라 지진으로 4,333명이 사망하고 16,740명이 부상했다고 국회 의장이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662617)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662616)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662615)
@@ -54,11 +62,3 @@
 #### [이란 국영 매체, 테헤란 동부 주에서 발생한 폭발은 통제된 탄약 처리 작업이었다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662568)
 #### [영국 경찰, 위드콤 전 장관 살해 혐의로 체포된 남성 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662567)
 #### [이란 국영 매체, 테헤란 주 동부 지역에서 폭발음이 들렸다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662566)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662565)
-#### [캘파인 온타리오의 212 MW 그린필드 에너지 센터 2호기 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662564)
-#### [러시아가 키예프에 미사일을 발사해 6명이 부상했다고 당국자들이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662563)
-#### [영국 경찰은 위드콤 전 장관 살해 혐의로 체포된 남성이 석방되었다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662562)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662561)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662560)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662559)
-#### [트럼프, 미국과 이란이 협상 지속에 합의했으나 휴전 협상은 결렬됐다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662558)
