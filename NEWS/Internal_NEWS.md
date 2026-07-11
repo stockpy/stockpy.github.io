@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260711_1917 </title></head>
-<center>Vers : 20260711_1917 </center>
-<center>Vers : 20260712_0417 </center>
+<head><meta charset="utf-8"><title>Vers : 20260711_2047 </title></head>
+<center>Vers : 20260711_2047 </center>
+<center>Vers : 20260712_0547 </center>
 <br><br><br>
+#### [천연가스 파이프라인 중요 공지: 콜로라도 인터스테이트 가스 컴퍼니 운영 계획 보고서 V5, 2026년 7월](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662631)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662630)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662629)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662628)
+#### [천연가스 파이프라인 긴급 공지: 2026년 7월 12일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662627)
+#### [[속보] 내셔널 프레스 클럽, 미국 법무부에 뉴욕타임스 기자들에 대한 소환장 즉시 철회 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662626)
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662625)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662624)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662623)
@@ -56,9 +62,3 @@
 #### [알바니아에서 쿠슈너 리조트 부지를 매각한 사업가, 등기 서류 위조 혐의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662574)
 #### [러시아 로스토프 주 두 곳의 연료 저장소에서 발생한 화재가 진압됐다고 주지사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662573)
 #### [터키, 야당이 장악한 지역에서의 뇌물 수수 수사와 관련해 용의자 36명에 대한 구금 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662572)
-#### [러시아 당국, 타간로크 만 선박 대상 드론 공격으로 1명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662571)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662570)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662569)
-#### [이란 국영 매체, 테헤란 동부 주에서 발생한 폭발은 통제된 탄약 처리 작업이었다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662568)
-#### [영국 경찰, 위드콤 전 장관 살해 혐의로 체포된 남성 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662567)
-#### [이란 국영 매체, 테헤란 주 동부 지역에서 폭발음이 들렸다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662566)
