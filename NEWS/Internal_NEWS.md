@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260711_2247 </title></head>
-<center>Vers : 20260711_2247 </center>
-<center>Vers : 20260712_0747 </center>
+<head><meta charset="utf-8"><title>Vers : 20260711_2338 </title></head>
+<center>Vers : 20260711_2338 </center>
+<center>Vers : 20260712_0838 </center>
 <br><br><br>
+#### [이란, ‘무단’ 선박에 타격 가하며 호르무즈 해협 폐쇄 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662641)
+#### [가시예프, 카디루 꺾고 WBA 헤비급 타이틀 방어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662640)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662639)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662638)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662637)
+#### [영국 전 장관 앤 위드콤을 살해한 혐의를 받는 남성 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662636)
 #### [이란 국영 매체 보도에 따르면, 이란 혁명수비대(IRGC) 해군은 호르무즈 해협이 추후 공지가 있을 때까지 폐쇄된다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662635)
 #### [CCTV에 포착된 우크라이나 수미에서 한 여성이 아이를 공격으로부터 보호하는 모습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662634)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662633)
@@ -56,9 +62,3 @@
 #### [이란 최고 지도자, 살해당한 아버지와 전임자에 대한 복수를 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662584)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662583)
 #### [마르케스, 신기록으로 독일 MotoGP 폴 포지션 차지… 베제키, 또다시 추락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662582)
-#### [베트남 푸꾸옥 섬 인근 해상에서 관광객을 태운 보트가 전복되어 15명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662581)
-#### [국방부 발표에 따르면 러시아군이 우크라이나 수미 지역의 한 마을을 점령했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662580)
-#### [[속보] 버진 머니 전 최고경영자 가디아, 영국 감사 감독 기관 의장으로 내정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662579)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662578)
-#### [우크라이나 군 당국은 밤사이 러시아 유조선 21척을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662577)
-#### [몰도바 대통령이 바실레 토판을 신임 총리로 지명했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662576)
