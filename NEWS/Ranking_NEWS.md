@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260712_2048 </title></head>
-<center>Vers : 20260712_2048 </center>
-<center>Vers : 20260713_0548 </center>
+<head><meta charset="utf-8"><title>Vers : 20260712_2135 </title></head>
+<center>Vers : 20260712_2135 </center>
+<center>Vers : 20260713_0635 </center>
 <br><br><br>
 #### [“이게 다 삼전닉스 레버리지 때문이다”…日 매체가 내놓은 ‘경고’ 보니](https://m.stock.naver.com/news/ranknews/view/011/0004640756)
 #### [폐점 앞둔 홈플러스 떨이 할인…'계산 대기줄만 30분' 손님 북적](https://m.stock.naver.com/news/ranknews/view/057/0001958180)

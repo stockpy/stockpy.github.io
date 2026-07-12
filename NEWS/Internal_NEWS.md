@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260712_2048 </title></head>
-<center>Vers : 20260712_2048 </center>
-<center>Vers : 20260713_0548 </center>
+<head><meta charset="utf-8"><title>Vers : 20260712_2135 </title></head>
+<center>Vers : 20260712_2135 </center>
+<center>Vers : 20260713_0635 </center>
 <br><br><br>
+#### [브룩필드, 맨해튼 기술 허브에 베팅하며 허드슨 스퀘어 콤플렉스 지분 인수 계획 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662744)
+#### [USD/JPY-GPIF 관련 소문이 무성하고 이란-미국 간 긴장이 고조되는 가운데, 개장 시 변동 없이 안정세를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662743)
+#### [파라마운트, 워너브라더스와의 갈등으로 캘리포니아 철수 검토 - 세마포어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662742)
 #### [BUZZ-재방송-유로/달러 약세, 파운드 강세, 달러/엔 반등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662741)
 #### [AUD/USD-중동 긴장 고조로 소폭 하락하며 개장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662740)
 #### [린지 그레이엄 상원의원 별세(향년 71세)에 따라 백악관 깃발 반기 게양](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662739)
@@ -66,6 +69,3 @@
 #### [노르웨이의 Gassco는 7월 12일 09:09부터 7월 13일 03:59까지 아스가르드 가스전에서 하루 10.8 mcm 규모의 생산 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662686)
 #### [인도의 타타 컨설팅 서비스(Tata Consultancy Services)는 최대 8,900명의 AI 구축 엔지니어를 확보할 계획이며, AI 관련 기업 인수를 모색하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662685)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [린지 그레이엄 미국 상원의원 사망에 이스라엘 당국자들이 조의를 표했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662684)
-#### [러시아, 우크라이나가 아조프해에서 유조선 공격했다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662683)
-#### [트럼프, 린지 그레이엄 미국 상원의원 별세에 애도 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662682)
