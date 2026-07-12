@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260712_2135 </title></head>
-<center>Vers : 20260712_2135 </center>
-<center>Vers : 20260713_0635 </center>
+<head><meta charset="utf-8"><title>Vers : 20260712_2248 </title></head>
+<center>Vers : 20260712_2248 </center>
+<center>Vers : 20260713_0748 </center>
 <br><br><br>
+#### [[속보] KKR, 앰폴(Ampol)을 위한 4억 호주 달러 규모의 자금 조달 방안 주도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662751)
+#### [맥코넬, 아직 미국 상원으로 복귀할 수 없다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662750)
+#### [미 법무부, UAW 숀 페인 위원장에 대한 의혹 수사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662749)
+#### [이란, 미국의 공습 이후 걸프 지역 공격 확대…호르무즈 해협 봉쇄 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662748)
+#### [미국과 이란이 중동에서 공습을 감행한 후 유가가 3% 이상 급등했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662747)
+#### [국회의원들, 이번 주 개정된 암호화폐 시장 구조 법안 공개할 전망 - 코인데스크](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662746)
+#### [맥코넬은 당분간 미국 상원으로 복귀할 수 없을 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662745)
 #### [브룩필드, 맨해튼 기술 허브에 베팅하며 허드슨 스퀘어 콤플렉스 지분 인수 계획 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662744)
 #### [USD/JPY-GPIF 관련 소문이 무성하고 이란-미국 간 긴장이 고조되는 가운데, 개장 시 변동 없이 안정세를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662743)
 #### [파라마운트, 워너브라더스와의 갈등으로 캘리포니아 철수 검토 - 세마포어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662742)
@@ -61,11 +68,3 @@
 #### [이라크 총리, 월요일 워싱턴 방문 예정…석유·가스 계약 체결 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662693)
 #### [[속보] 장쑤 트랜스이미지 테크, 프로젝트 자금 조달 및 자본 확충을 위해 신주 발행 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662692)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002866.SZ/total>
-#### [영국 경찰은 위드콤 전 장관 살해 사건 수사 결과 정치적 연관성은 발견되지 않았다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662691)
-#### [이라크 총리, 월요일 워싱턴 방문 예정… 석유·가스 계약 체결 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662690)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662689)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662688)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662687)
-#### [노르웨이의 Gassco는 7월 12일 09:09부터 7월 13일 03:59까지 아스가르드 가스전에서 하루 10.8 mcm 규모의 생산 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662686)
-#### [인도의 타타 컨설팅 서비스(Tata Consultancy Services)는 최대 8,900명의 AI 구축 엔지니어를 확보할 계획이며, AI 관련 기업 인수를 모색하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662685)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
