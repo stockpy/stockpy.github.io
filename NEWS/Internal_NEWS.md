@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260712_1711 </title></head>
-<center>Vers : 20260712_1711 </center>
-<center>Vers : 20260713_0211 </center>
+<head><meta charset="utf-8"><title>Vers : 20260712_1905 </title></head>
+<center>Vers : 20260712_1905 </center>
+<center>Vers : 20260713_0405 </center>
 <br><br><br>
+#### [베네수엘라 지진 참사를 겪은 10대 생존자가 당시의 공포를 회상하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662734)
+#### [7월 12일 일요일 오후 2시 45분(미국 동부 표준시) 로이터 미국 스포츠 중계 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662733)
+#### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662732)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662731)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662730)
 #### [쿠웨이트 군 당국은 드론 공격으로 석유 회사 직원이 부상을 입었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662729)
 #### [액시오스 보도에 따르면, 미국이 호르무즈 해협 일대의 이란 미사일 기지에 공습을 가했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662728)
 #### [이란 국영 통신사 IRNA는 “적”이 케슘 섬을 향해 미사일을 발사했다고 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662727)
@@ -64,8 +69,3 @@
 #### [벨기에 산불 희생자의 아들이 스페인 당국의 경고 관련 설명에 이의를 제기했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662677)
 #### [Inform 컨설팅사, 우크라이나 2026년 곡물 수확량 및 수출 전망치를 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662676)
 #### [우크라이나 군 당국은 러시아 사마라 지역의 정유 시설을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662675)
-#### [남중국해 공동 성명, 중국의 해양 영유권 주장은 근거가 없다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662674)
-#### [린지 그레이엄 미국 상원의원, 향년 71세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662673)
-#### [린지 그레이엄 미국 상원의원 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662672)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662671)
-#### [종합격투기 - 맥그리거, 1라운드 무릎 부상으로 UFC 복귀전 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662670)
