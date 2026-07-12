@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260712_0816 </title></head>
-<center>Vers : 20260712_0816 </center>
-<center>Vers : 20260712_1716 </center>
+<head><meta charset="utf-8"><title>Vers : 20260712_1002 </title></head>
+<center>Vers : 20260712_1002 </center>
+<center>Vers : 20260712_1902 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662689)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662688)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662687)
+#### [노르웨이의 Gassco는 7월 12일 09:09부터 7월 13일 03:59까지 아스가르드 가스전에서 하루 10.8 mcm 규모의 생산 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662686)
+#### [인도의 타타 컨설팅 서비스(Tata Consultancy Services)는 최대 8,900명의 AI 구축 엔지니어를 확보할 계획이며, AI 관련 기업 인수를 모색하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662685)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
 #### [린지 그레이엄 미국 상원의원 사망에 이스라엘 당국자들이 조의를 표했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662684)
 #### [러시아, 우크라이나가 아조프해에서 유조선 공격했다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662683)
 #### [트럼프, 린지 그레이엄 미국 상원의원 별세에 애도 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662682)
@@ -57,15 +63,15 @@
 #### [젤렌스키 대통령은 우크라이나 당국자들이 무기 창고 사건에 대해 책임을 져야 할 것이라고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662632)
 #### [천연가스 파이프라인 중요 공지: 콜로라도 인터스테이트 가스 컴퍼니 운영 계획 보고서 V5, 2026년 7월](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662631)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662630)
+<head><meta charset="utf-8"><title>Vers : 20260712_1002 </title></head>
+<center>Vers : 20260712_1002 </center>
+<center>Vers : 20260712_1902 </center>
+<br><br><br>
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662629)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662628)
 #### [천연가스 파이프라인 긴급 공지: 2026년 7월 12일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662627)
 #### [[속보] 내셔널 프레스 클럽, 미국 법무부에 뉴욕타임스 기자들에 대한 소환장 즉시 철회 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662626)
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662625)
-<head><meta charset="utf-8"><title>Vers : 20260712_0816 </title></head>
-<center>Vers : 20260712_0816 </center>
-<center>Vers : 20260712_1716 </center>
-<br><br><br>
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662624)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662623)
 #### [젤렌스키: 우크라이나의 외교는 동맹국들이 무기 공급 계약을 더 신속하게 이행하도록 해야 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662622)
@@ -121,8 +127,3 @@
 #### [터키, 야당이 장악한 지역에서의 뇌물 수수 수사와 관련해 용의자 36명에 대한 구금 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662572)
 #### [러시아 당국, 타간로크 만 선박 대상 드론 공격으로 1명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662571)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662570)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662569)
-#### [이란 국영 매체, 테헤란 동부 주에서 발생한 폭발은 통제된 탄약 처리 작업이었다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662568)
-#### [영국 경찰, 위드콤 전 장관 살해 혐의로 체포된 남성 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662567)
-#### [이란 국영 매체, 테헤란 주 동부 지역에서 폭발음이 들렸다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662566)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662565)
