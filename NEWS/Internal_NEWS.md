@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260711_2338 </title></head>
-<center>Vers : 20260711_2338 </center>
-<center>Vers : 20260712_0838 </center>
+<head><meta charset="utf-8"><title>Vers : 20260712_0245 </title></head>
+<center>Vers : 20260712_0245 </center>
+<center>Vers : 20260712_1145 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662654)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662653)
+#### [태풍 바비가 중국 동부를 강타, 대만에서 134명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662652)
+#### [UKMTO, 오만 인근에서 컨테이너선 선내 화재 발생 후 선원들이 선박을 탈출했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662651)
+#### [경찰에 따르면 토론토에서 발생한 총기 난사 사건으로 5명이 총에 맞았고 2명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662650)
+#### [포드와 캐나다 유니포(Unifor), 노사 협약에 대한 잠정 합의 도출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662649)
+#### [[종합 2] 호르무즈 해협에서 상선 공격 사건 발생 후, 미국, 이란에 추가 공습 단행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662648)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662647)
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662646)
+#### [[속보] 포드, 포드 캐나다와 유니포가 새로운 전국 노동 계약에 대해 잠정 합의에 도달했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662645)
+#### [UKMTO는 오만 동쪽 9 NM 지점에서 발생한 사고에 대한 보고를 접수했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662644)
+#### [미국은 키프로스 국적의 컨테이너선 공격 사건 이후 이란을 상대로 공습을 가했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662643)
+#### [미국 질병통제예방센터(CDC), 콩고에 체류 중인 미국인 1명에게서 에볼라 바이러스 양성 반응 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662642)
 #### [이란, ‘무단’ 선박에 타격 가하며 호르무즈 해협 폐쇄 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662641)
 #### [가시예프, 카디루 꺾고 WBA 헤비급 타이틀 방어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662640)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662639)
@@ -49,16 +62,3 @@
 #### [소식통에 따르면 터키는 여전히 캐나다의 글로벌 방위 은행 참여 여부를 검토 중인 것으로 알려졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662597)
 #### [오토바이 경주 - 마르케스, 신기록으로 독일 MotoGP 폴 포지션 차지… 베제키, 추락 후 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662596)
 #### [이란 최고 지도자, 살해당한 아버지와 전임자에 대한 복수를 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662595)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662594)
-#### [베네수엘라 지진 생존자인 한 십대 소녀가 “영원히 젊을” 친구들을 추모하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662593)
-#### [에니 CEO, 2027년 초까지 유가가 현재 등락폭을 벗어나는 위험이 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662592)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662591)
-#### [스페인 소방대원들, 치명적인 알메리아 산불 진압을 위해 공세에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662590)
-#### [인도의 아디티야 비를라, 오디샤 알루미나 정제소 12억 6천만 달러 규모 확장 계획 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662589)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662588)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662587)
-#### [미국 민주당 소속 로 칸나, 요르단강 서안 지역 방문 중 이스라엘 정착민들에게 억류되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662586)
-#### [몰도바 대통령, 바실레 토판 총리 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662585)
-#### [이란 최고 지도자, 살해당한 아버지와 전임자에 대한 복수를 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662584)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662583)
-#### [마르케스, 신기록으로 독일 MotoGP 폴 포지션 차지… 베제키, 또다시 추락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662582)
