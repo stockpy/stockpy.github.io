@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260712_2248 </title></head>
-<center>Vers : 20260712_2248 </center>
-<center>Vers : 20260713_0748 </center>
+<head><meta charset="utf-8"><title>Vers : 20260712_2337 </title></head>
+<center>Vers : 20260712_2337 </center>
+<center>Vers : 20260713_0837 </center>
 <br><br><br>
+#### [AUD/USD-위험 회피 심리로 급락; 유가 급등, 월가 선물 지수 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662765)
+#### [미국과 이란의 중동 지역 공습이 격화되자 유가 3% 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662764)
+#### [멕시코에서 발생한 교통사고로 9명이 사망하고 10명이 부상했으며, 이 중 4명은 미국인이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662763)
+#### [아시아 시장 전망-중동 사태 악화로 위험 회피 심리가 확산](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662762)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662761)
+#### [벨기에 산불 희생자의 아들이 스페인 당국의 경고 관련 설명에 이의를 제기했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662760)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662759)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662758)
+#### [일본은행, 성장률 전망치 상향 조정할 전망…인플레이션 위험에 대한 경계 태세 유지할 것, 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662757)
+#### [다케다 제약 - 다케다와 인도네시아 정부, 의료 체계의 회복탄력성 강화 및 생명을 구하는 혈장 유래 의약품 접근성 확대를 위한 획기적인 협력 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662756)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/4502.T/total>
+#### [통계에 따르면, 유럽은 6월 말 폭염 기간 동안 1만 명의 초과 사망자가 발생한 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662755)
+#### [영국은 유대인 공동체를 보호하기 위해 향후 3년간 2억 5천만 파운드를 투입할 계획이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662754)
+#### [스페인 산불로 93세 영국인 여성이 부상으로 사망하며 사망자 수가 13명으로 늘어났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662753)
+#### [이번 주 브레이킹뷰스: 상관관계의 원인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662752)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
 #### [[속보] KKR, 앰폴(Ampol)을 위한 4억 호주 달러 규모의 자금 조달 방안 주도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662751)
 #### [맥코넬, 아직 미국 상원으로 복귀할 수 없다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662750)
 #### [미 법무부, UAW 숀 페인 위원장에 대한 의혹 수사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662749)
@@ -49,22 +65,3 @@
 #### [미 중앙사령부, “호르무즈 해협 항행 안전 보장할 준비 되어 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662708)
 #### [의료진에 따르면, 가자지구에서 발생한 이스라엘의 공격으로 소녀를 포함해 3명이 사망했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662707)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662706)
-#### [캘파인 온타리오의 212 MW 그린필드 에너지 센터 2호기 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662705)
-#### [우크라이나 젤렌스키 대통령, 스비리덴코 총리를 교체하겠다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662704)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662703)
-#### [우크라이나의 젤렌스키 대통령이 스비리덴코 총리를 교체할 것을 제안했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662702)
-#### [경찰, 위드콤 전 영국 장관 살해 사건에 정치적 동기가 있었다는 증거는 없다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662701)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662700)
-#### [[속보] 닝보 산산, 상반기 순이익 전년 동기 대비 262~334% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662699)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600884.SS/total>
-#### [[속보] 중국 스페이스샛, 상반기 순이익 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662698)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600118.SS/total>
-#### [[속보] 세레스, 상반기 순손실 15억~18억 위안 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662697)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601127.SS/total>
-#### [[속보] 베이징 스타네토, 이상 주가 변동에 대한 입장 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662696)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002829.SZ/total>
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662695)
-#### [남중국해 공동 성명서, 중국의 해양 영유권 주장은 근거가 없다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662694)
-#### [이라크 총리, 월요일 워싱턴 방문 예정…석유·가스 계약 체결 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662693)
-#### [[속보] 장쑤 트랜스이미지 테크, 프로젝트 자금 조달 및 자본 확충을 위해 신주 발행 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662692)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002866.SZ/total>
