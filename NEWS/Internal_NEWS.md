@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260712_1905 </title></head>
-<center>Vers : 20260712_1905 </center>
-<center>Vers : 20260713_0405 </center>
+<head><meta charset="utf-8"><title>Vers : 20260712_2048 </title></head>
+<center>Vers : 20260712_2048 </center>
+<center>Vers : 20260713_0548 </center>
 <br><br><br>
+#### [BUZZ-재방송-유로/달러 약세, 파운드 강세, 달러/엔 반등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662741)
+#### [AUD/USD-중동 긴장 고조로 소폭 하락하며 개장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662740)
+#### [린지 그레이엄 상원의원 별세(향년 71세)에 따라 백악관 깃발 반기 게양](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662739)
+#### [BUZZ-COMMENT-이번 주 전망-워시 증언, 미국 인플레이션, 캐나다 중앙은행 금리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662738)
+#### [주말 뉴스-일본 GPIF의 움직임, 중동 사태 악화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662737)
+#### [베네수엘라 지진 사망자 수가 4,490명으로 늘어났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662736)
+#### [천연가스 파이프라인 긴급 공지: 2026년 7월 13일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662735)
 #### [베네수엘라 지진 참사를 겪은 10대 생존자가 당시의 공포를 회상하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662734)
 #### [7월 12일 일요일 오후 2시 45분(미국 동부 표준시) 로이터 미국 스포츠 중계 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662733)
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662732)
@@ -62,10 +69,3 @@
 #### [린지 그레이엄 미국 상원의원 사망에 이스라엘 당국자들이 조의를 표했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662684)
 #### [러시아, 우크라이나가 아조프해에서 유조선 공격했다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662683)
 #### [트럼프, 린지 그레이엄 미국 상원의원 별세에 애도 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662682)
-#### [우크라이나는 일요일에 러시아 선박 14척을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662681)
-#### [BUZZ-IMM: 유로와 캐나다 달러 매도세가 엔화와 파운드 매수세를 앞지르면서 달러 순 투기적 매수 포지션이 증가했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662680)
-#### [린지 그레이엄 미국 상원의원의 사망에 따라 이스라엘 당국자들이 조의를 표했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662679)
-#### [외교부, 오만 인근 해상에서 선박 공격 사건 발생 후 인도인 1명 실종](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662678)
-#### [벨기에 산불 희생자의 아들이 스페인 당국의 경고 관련 설명에 이의를 제기했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662677)
-#### [Inform 컨설팅사, 우크라이나 2026년 곡물 수확량 및 수출 전망치를 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662676)
-#### [우크라이나 군 당국은 러시아 사마라 지역의 정유 시설을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662675)
