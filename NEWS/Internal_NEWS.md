@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260712_1601 </title></head>
-<center>Vers : 20260712_1601 </center>
-<center>Vers : 20260713_0101 </center>
+<head><meta charset="utf-8"><title>Vers : 20260712_1711 </title></head>
+<center>Vers : 20260712_1711 </center>
+<center>Vers : 20260713_0211 </center>
 <br><br><br>
+#### [쿠웨이트 군 당국은 드론 공격으로 석유 회사 직원이 부상을 입었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662729)
+#### [액시오스 보도에 따르면, 미국이 호르무즈 해협 일대의 이란 미사일 기지에 공습을 가했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662728)
+#### [이란 국영 통신사 IRNA는 “적”이 케슘 섬을 향해 미사일을 발사했다고 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662727)
+#### [사이클-반 데르 포엘, 투르 드 프랑스 9단계 우승… 포가카르, 노란 저지 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662726)
 #### [반 데르 푸엘, 투르 드 프랑스 9단계에서 우승… 포가카르, 노란 저지 지켜내](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662725)
 #### [벨기에 산불 희생자의 아들이 스페인 당국의 설명에 이의를 제기하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662724)
 #### [러시아는 우크라이나의 드론 공격으로 러시아가 장악한 에네르호다르에서 4명이 사망했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662723)
@@ -65,7 +69,3 @@
 #### [린지 그레이엄 미국 상원의원 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662672)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662671)
 #### [종합격투기 - 맥그리거, 1라운드 무릎 부상으로 UFC 복귀전 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662670)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662669)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662668)
-#### [태풍 바비가 중국 동부를 강타하며 며칠간 폭우가 내릴 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662667)
-#### [주목할 요인 - 7월 12일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662666)
