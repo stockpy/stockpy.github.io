@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260712_0544 </title></head>
-<center>Vers : 20260712_0544 </center>
-<center>Vers : 20260712_1444 </center>
+<head><meta charset="utf-8"><title>Vers : 20260712_0816 </title></head>
+<center>Vers : 20260712_0816 </center>
+<center>Vers : 20260712_1716 </center>
 <br><br><br>
+#### [린지 그레이엄 미국 상원의원 사망에 이스라엘 당국자들이 조의를 표했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662684)
+#### [러시아, 우크라이나가 아조프해에서 유조선 공격했다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662683)
+#### [트럼프, 린지 그레이엄 미국 상원의원 별세에 애도 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662682)
+#### [우크라이나는 일요일에 러시아 선박 14척을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662681)
+#### [BUZZ-IMM: 유로와 캐나다 달러 매도세가 엔화와 파운드 매수세를 앞지르면서 달러 순 투기적 매수 포지션이 증가했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662680)
+#### [린지 그레이엄 미국 상원의원의 사망에 따라 이스라엘 당국자들이 조의를 표했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662679)
+#### [외교부, 오만 인근 해상에서 선박 공격 사건 발생 후 인도인 1명 실종](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662678)
+#### [벨기에 산불 희생자의 아들이 스페인 당국의 경고 관련 설명에 이의를 제기했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662677)
+#### [Inform 컨설팅사, 우크라이나 2026년 곡물 수확량 및 수출 전망치를 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662676)
+#### [우크라이나 군 당국은 러시아 사마라 지역의 정유 시설을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662675)
+#### [남중국해 공동 성명, 중국의 해양 영유권 주장은 근거가 없다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662674)
+#### [린지 그레이엄 미국 상원의원, 향년 71세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662673)
+#### [린지 그레이엄 미국 상원의원 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662672)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662671)
+#### [종합격투기 - 맥그리거, 1라운드 무릎 부상으로 UFC 복귀전 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662670)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662669)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662668)
 #### [태풍 바비가 중국 동부를 강타하며 며칠간 폭우가 내릴 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662667)
@@ -47,6 +62,10 @@
 #### [천연가스 파이프라인 긴급 공지: 2026년 7월 12일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662627)
 #### [[속보] 내셔널 프레스 클럽, 미국 법무부에 뉴욕타임스 기자들에 대한 소환장 즉시 철회 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662626)
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662625)
+<head><meta charset="utf-8"><title>Vers : 20260712_0816 </title></head>
+<center>Vers : 20260712_0816 </center>
+<center>Vers : 20260712_1716 </center>
+<br><br><br>
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662624)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662623)
 #### [젤렌스키: 우크라이나의 외교는 동맹국들이 무기 공급 계약을 더 신속하게 이행하도록 해야 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662622)
@@ -62,10 +81,6 @@
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662612)
 #### [이란 전쟁: 호르무즈 해협에서 무슨 일이 벌어지고 있는가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662611)
 #### [폭염으로 인해 투르 드 프랑스 주최 측, 9단계 구간을 단축하기로 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662610)
-<head><meta charset="utf-8"><title>Vers : 20260712_0544 </title></head>
-<center>Vers : 20260712_0544 </center>
-<center>Vers : 20260712_1444 </center>
-<br><br><br>
 #### [트럼프, 월터 리드 병원에서 건강검진을 “방금 마쳤다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662609)
 #### [테헤란 당국에 따르면, 이란과 오만은 호르무즈 해협을 통과하는 선박의 안전한 통행을 위한 방안을 논의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662608)
 #### [사이클 - 투르 드 프랑스에서 메를리에, 스프린트 2연승… 포가카르, 종합 선두 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662607)
@@ -111,19 +126,3 @@
 #### [영국 경찰, 위드콤 전 장관 살해 혐의로 체포된 남성 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662567)
 #### [이란 국영 매체, 테헤란 주 동부 지역에서 폭발음이 들렸다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662566)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662565)
-#### [캘파인 온타리오의 212 MW 그린필드 에너지 센터 2호기 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662564)
-#### [러시아가 키예프에 미사일을 발사해 6명이 부상했다고 당국자들이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662563)
-#### [영국 경찰은 위드콤 전 장관 살해 혐의로 체포된 남성이 석방되었다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662562)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662561)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662560)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662559)
-#### [트럼프, 미국과 이란이 협상 지속에 합의했으나 휴전 협상은 결렬됐다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662558)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662557)
-#### [IEA 사무총장, “유럽의 더딘 전기화 추진은 ‘중대한 실수’”라고 경고 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662556)
-#### [북한, 나토 정상회의를 규탄하며 비핵화는 미국 동맹국들부터 시작해야 한다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662555)
-#### [애플, 영업비밀 도용 혐의로 오픈AI와 전직 직원 2명을 상대로 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662554)
-#### [워너 브라더스 인수합병 지연 요청 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662553)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
-#### [카자흐스탄 재벌 투를로프의 ‘프리덤’, 사업 확장을 위해 3억 달러 조달 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662552)
-#### [트럼프, “테헤란이 미국 대통령을 공격하면 이란을 겨냥한 미사일을 발사하겠다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662551)
-#### [북한, 나토 정상회의 이후 미국과 동맹국들을 규탄하며 주권 수호를 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2662550)
