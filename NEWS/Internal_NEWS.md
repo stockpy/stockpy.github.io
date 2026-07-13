@@ -1,7 +1,35 @@
-<head><meta charset="utf-8"><title>Vers : 20260713_2056 </title></head>
-<center>Vers : 20260713_2056 </center>
-<center>Vers : 20260714_0556 </center>
+<head><meta charset="utf-8"><title>Vers : 20260713_2159 </title></head>
+<center>Vers : 20260713_2159 </center>
+<center>Vers : 20260714_0659 </center>
 <br><br><br>
+#### [미국 FOB 현물 제지용 펄프 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664088)
+#### [펭귄 솔루션스, 6억 5천만 달러 규모 채권 발행으로 주가 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664087)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PENG.O/total>
+#### [미국 항소법원, 릴리의 골다공증 치료제를 둘러싼 테바 소송 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664086)
+#### [게티와의 인수합병 협상이 무산된 지 몇 주 만에 셔터스톡의 헤네시 CEO가 사임했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664085)
+#### [관세 환급으로 미국 6월 재정 적자 1,200억 달러로 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664084)
+#### [러시아 미사일, 우크라이나 수도 키예프 공격… 고위 관계자들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664083)
+#### [미국, 페르시아만에서 이란 선박에 대한 봉쇄 재개… 미국산 현물 원유 가격 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664082)
+#### [베네수엘라의 로드리게스, 워싱턴 주재 대사를 신임 외무장관으로 기용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664081)
+#### [이란 긴장 고조로 금·원자재주 하락, TSX 지수 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664080)
+#### [미·이란 긴장 고조로 달러 소폭 상승, 연금 불확실성으로 엔화 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664079)
+#### [WR 버클리가 스톡을 캐롤라이나 캐주얼티의 사장으로 임명했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664078)
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664077)
+#### [미국, 3일 연속 이란 내 목표물을 공습했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664076)
+#### [미국 법원, 월마트에 동성애자 전직 직원의 괴롭힘 주장에 대응해야 한다고 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664075)
+#### [공급업체 이탈의 원인으로 지목된 사이버 감사 규정을 국방부가 일시 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664074)
+#### [다이아몬드백 에너지, 2026년 2분기 헤지되지 않은 실현 가격 - SEC 제출 서류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664073)
+#### [마인드워크 홀딩스, 향후 36개월 동안 최대 2억 5천만 달러 규모의 유가증권 발행 예정 - SEC 제출 서류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664072)
+#### [[속보] 니혼게이자이신문 보도에 따르면, 일본은 2030 회계연도까지 자율주행차 1만 대 규모의 네트워크 구축을 목표로 하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664071)
+#### [Ras 분자 접착제’ 후보물질인 Eras-0015에 대한 업데이트된 1상 예비 데이터 및 임상시험 승인 신청 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664070)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ERAS.O/total>
+#### [MS Now 보도에 따르면, 트럼프 전 대통령이 2020년 대선에 대한 외국 개입 문제를 주제로 연설할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664069)
+#### [걸프 지역 갈등이 다시 고조되면서 유가는 급등하고, 주가는 하락하며 채권 수익률은 상승했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664068)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SKHY.O/total>
+#### [봉쇄 조치가 재개됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664067)
+#### [베네수엘라의 로드리게스, 워싱턴 주재 대사를 신임 외무장관으로 기용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664066)
+#### [천연가스 파이프라인 긴급 공지: 테네시 가스 파이프라인의 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664065)
+#### [미국 곡물 바지선 운임 현황 ? 7월 13일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664064)
 #### [잭 다니엘스 제조사 브라운-포먼의 로슨 화이팅 CEO, 은퇴 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664063)
 #### [암 치료 전문 바이오테크 기업 에라스카, 5억 달러 규모 주식 발행 발표 후 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664062)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ERAS.O/total>
@@ -44,30 +72,3 @@
 #### [재방송-EUR/USD 위험 요인, 파운드화 숏 포지션, 엔화 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664032)
 #### [거래소(TABLE)가 CBOT 옥수수, 대두, 대두유 선물의 순매수세를 보이고 있다고 트레이더들이 전했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664031)
 #### [[속보] 프레리스카이 로열티, 2분기 순부채 1억 8,660만 캐나다 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664020)
-#### [석유 거래업자들, 트럼프의 호르무즈 해협 위협을 과소평가하면 큰 대가를 치를 것: 부소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664030)
-#### [이란 긴장 고조로 투자 심리가 위축되며 월가 주가 하락…반도체주 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664029)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SNDK.O/total>
-#### [[속보] 토론토 증시, 비공식적으로 하락 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664028)
-#### [미국 농무부(USDA) 주간 작물 생육 현황 - 옥수수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664027)
-#### [미국 주간 작물 생육 현황 주요 내용 - USDA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664026)
-#### [미국 농무부(USDA) 주간 작물 생육 현황 - 면화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664025)
-#### [미국 농무부(USDA) 주간 작물 생육 현황 - 쌀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664024)
-#### [미국 농무부(USDA) 주간 작물 생육 현황 - 봄밀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664023)
-#### [미국 농무부(USDA) 주간 작물 생육 현황 - 대두](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664022)
-#### [미국 농무부(USDA) 주간 작물 생육 현황 - 겨울밀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664019)
-#### [[속보] 팀스터스 노조, “베스티스(Vestis) 근로자들이 인디애나폴리스에서 부당노동행위 파업에 돌입했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664018)
-#### [아르헨티나의 YPF Electric Energy, 미국 상장 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664017)
-#### [메모리 칩 공급난 속 전 세계 스마트폰 출하량, 13년 만에 최저치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664016)
-#### [업계 단체에 따르면 브라질 2분기 코코아 가공량이 8.6% 증가했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664015)
-#### [러시아가 임명한 도네츠크 주 일부 지역의 수장은 우크라이나 드론 공격으로 8명이 사망했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664014)
-#### [MS Now 보도에 따르면, 트럼프는 목요일 연설에서 2020년 대선에 대한 외국의 개입에 대해 언급했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664013)
-#### [미국 식용유 및 지방 - 7월 13일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664012)
-#### [미국 의원들, 일광절약시간제를 상시제로 전환할지 여부를 논의할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664011)
-#### [단독-중국, 북한 핵실험을 연구해 온 미국 지진학자 구금](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664010)
-#### [미국 작물 기상 전망과 원유 가격 급등에 힘입어 CBOT 대두 가격이 상승했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664009)
-#### [[속보] 링컨, 탈콧과 수십억 달러 규모 리스크 거래 협상 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664008)
-#### [의원들, 국방부에 이란 학교 공습 조사 결과 공개 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664007)
-#### [중동 사태 악화로 투자 심리가 위축되며 라틴아메리카 자산 가치 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664006)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
-#### [공급업체들의 이탈 원인으로 지목된 사이버 감사 규정을 미 국방부가 일시 중단했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664005)
-#### [7월 13일 기준 앨버타주 카놀라 일일 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2664004)
