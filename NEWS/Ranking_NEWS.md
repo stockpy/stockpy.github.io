@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260713_1754 </title></head>
-<center>Vers : 20260713_1754 </center>
-<center>Vers : 20260714_0254 </center>
+<head><meta charset="utf-8"><title>Vers : 20260713_1922 </title></head>
+<center>Vers : 20260713_1922 </center>
+<center>Vers : 20260714_0422 </center>
 <br><br><br>
 #### [“오늘 주식계좌 무서워서 못열었습니다”…리먼파산 수준 붕괴](https://m.stock.naver.com/news/ranknews/view/009/0005706960)
 #### [폭락 뒤 반전 오나…"1만1450 간다" 파격 전망 나온 이유 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005309530)
