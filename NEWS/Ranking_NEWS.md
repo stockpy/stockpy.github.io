@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260714_1713 </title></head>
-<center>Vers : 20260714_1713 </center>
-<center>Vers : 20260715_0213 </center>
+<head><meta charset="utf-8"><title>Vers : 20260714_1919 </title></head>
+<center>Vers : 20260714_1919 </center>
+<center>Vers : 20260715_0419 </center>
 <br><br><br>
 #### [SK하닉 괜히 팔았나…역대급 패닉셀 뒤 나온 '뜻밖의 전망' [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005310023)
 #### [“주식이 이런거였어요?” 공포에 질린 주린이들…4조 던졌다](https://m.stock.naver.com/news/ranknews/view/009/0005707525)
