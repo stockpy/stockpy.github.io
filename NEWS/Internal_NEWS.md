@@ -1,7 +1,28 @@
-<head><meta charset="utf-8"><title>Vers : 20260714_2206 </title></head>
-<center>Vers : 20260714_2206 </center>
-<center>Vers : 20260715_0706 </center>
+<head><meta charset="utf-8"><title>Vers : 20260714_2308 </title></head>
+<center>Vers : 20260714_2308 </center>
+<center>Vers : 20260715_0808 </center>
 <br><br><br>
+#### [버산트(Versant)의 USA Sports, 생중계 프로그램 강화の一環으로 미국 내 분데스리가 중계권 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665890)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VSNT.O/total>
+#### [인플레이션 지표가 예상보다 낮게 나오고 은행들의 실적이 호조를 보이면서 월가 주가가 상승 마감했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665889)
+#### [미국에서 발생한 사이클로스포리아증 장 질환에 대해 알아야 할 점](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665888)
+#### [쿠웨이트 소방당국은 이란의 공격으로 발생한 화재가 진압되었으며, 부상자는 없다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665887)
+#### [[속보] 리오 틴토, 2026년 실적 전망치 변경 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665886)
+#### [펜테어, 수영장 관련 재고 감축으로 2분기 실적 급락… 2026년 실적 전망 대폭 하향 조정하며 CFO 교체 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665885)
+#### [[속보] 프레딕티브 디스커버리, 아와레 리소스에 1,000만 달러 투자해 지분 12.3% 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665884)
+#### [[속보] LNG 캐나다 및 합작 투자사들, MNT 인베스트먼트 LP와 지분 옵션 계약 체결 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665883)
+#### [리오 틴토의 2분기 철광석 판매량 7% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665882)
+#### [트럼프 대통령, “미국 대표단이 화요일 이란과 회담을 가졌다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665881)
+#### [이란 공습 소식에 미국 원유 선물 가격 1% 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665880)
+#### [발로르(Valor) 보도에 따르면, 엔지 브라질(Engie Brasil)의 주식 공모를 통해 17억 달러를 조달했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665879)
+#### [코소보, ‘민족 청소’ 발언으로 세르비아계 장관 해임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665878)
+#### [알코아, 미국·일본 및 호주 정부의 지원을 받아 호주 갈륨 공장 건설에 최종 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665877)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2768.T/total>
+#### [[속보] 펜테어, 2분기 조정 주당순이익 1.12달러…IBES 예상치 1.48달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665876)
+#### [트럼프 행정부, 베네수엘라인에 대한 보호 조치를 인정한 판결을 뒤집어 달라고 미국 대법원에 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665875)
+#### [설문조사 결과, 운전자 보조 시스템의 오용이 도로 안전에 가장 큰 위험 요인으로 드러났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665874)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1810.HK/total>
+#### [미국 운전자들은 조만간 주유소 휘발유 가격이 다시 갤런당 4달러까지 오르는 것을 보게 될지도 모른다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665873)
 #### [[단독] 소식통에 따르면 라이온스게이트 스튜디오에 볼로레와 바니제이 측의 인수 관심이 쏠리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665872)
 #### [CMS, 일차 진료 활성화를 위해 메디케어 의사 보수 체계 대대적인 개편을 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665871)
 #### [모스크바 시장은 우크라이나 드론 340대가 수도 쪽으로 날아왔으나 대부분 격추되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665870)
@@ -51,23 +72,3 @@
 #### [블룸버그 뉴스에 따르면, 오픈AI의 첫 번째 하드웨어 기기는 스피커가 될 것이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665832)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
 #### [사운드 포인트 메리디안 캐피털, 2026년 6월 30일 기준 주당 순자산가치를 9.83~9.93달러로 추산 - SEC 제출 서류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665831)
-#### [아포지 미네랄스(Apogee Minerals), 트라이던트 리소시스(Trident Resources)로부터 서스캐처원주 나이프 레이크 구리 프로젝트 지분 100%를 인수하기 위한 옵션 계약을 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665830)
-#### [크레센트 바이오파마, 예정된 유상증자 소식에 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665829)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CBIO.O/total>
-#### [천연가스 파이프라인 긴급 공지: 테네시 가스 파이프라인의 현재 파이프라인 상태 - 파이프라인 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665828)
-#### [미국 물가 지표로 연준 금리 인상 기대감 줄어들며 TSX 상승 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665827)
-#### [[업데이트 1] 소식통에 따르면 쉘, 베네수엘라의 주요 해상 가스전에서 2027년 시추를 목표로 하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665826)
-#### [블룸버그 뉴스에 따르면, OpenAI의 첫 번째 하드웨어 기기는 스피커가 될 것이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665825)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [바이오제약사 아토비아 테라퓨틱스, 미국 상장 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665824)
-#### [[속보] 오픈AI의 첫 번째 기기는 AI 동반자로 설계된 이동식 무화면 스피커가 될 전망 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665823)
-#### [PJM 전력망 경매 가격, 상한선에 도달… 사상 최고치에 근접한 수준 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665822)
-#### [시장 전문가, 소비자물가지수(CPI)와 고용 지표가 “견실한 경제 상황”을 반영한다고 분석](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665821)
-#### [시리아 원유 파이프라인 재개 노력에 미국 측이 지지하고 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665820)
-#### [e호 열대저기압이 멕시코 연안에서 상당히 먼 해상에서 형성됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665819)
-#### [트럼프 행정부, ‘피해’ 정의 철회로 환경 단체들로부터 소송 당해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665818)
-#### [바이오제약 기업 아토비아 테라퓨틱스, 미국 상장 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665817)
-#### [[속보 1] 백악관, “미국, AI·사이버보안 협력 기구 출범할 예정”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665816)
-#### [단독-미국, 에볼라를 이유로 콩고에 체류 중인 자국민의 즉각적인 귀국을 차단할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665815)
-#### [연준의 ‘충분한 준비금’ 접근 방식은… 워시 의 대차대조표 검토의 초점](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665814)
-#### [[속보] 박스터, 2026년 2분기부터 보고 대상 사업부문을 2개로 변경 - SEC 제출 서류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2665813)
