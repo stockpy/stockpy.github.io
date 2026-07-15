@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260715_1717 </title></head>
-<center>Vers : 20260715_1717 </center>
-<center>Vers : 20260716_0217 </center>
+<head><meta charset="utf-8"><title>Vers : 20260715_1910 </title></head>
+<center>Vers : 20260715_1910 </center>
+<center>Vers : 20260716_0410 </center>
 <br><br><br>
 #### ["삼전보다 많이 샀다"…외인들 2조 쓸어담은 '이 주식' [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005310519)
 #### [“15억주식, 2억 남았다…레버리지 파멸”주갤러의 마지막 글](https://m.stock.naver.com/news/ranknews/view/021/0002804998)
