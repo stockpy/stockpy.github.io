@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260716_1910 </title></head>
-<center>Vers : 20260716_1910 </center>
-<center>Vers : 20260717_0410 </center>
+<head><meta charset="utf-8"><title>Vers : 20260716_2057 </title></head>
+<center>Vers : 20260716_2057 </center>
+<center>Vers : 20260717_0557 </center>
 <br><br><br>
 #### [코스피 6% ‘뚝’…급락장에 초고수들은 ‘SK하이닉스’ 팔고, ‘이것’ 사들였다](https://m.stock.naver.com/news/ranknews/view/016/0002671464)
 #### [레버리지 '92%' 폭락 후 상폐…"투자자 한 푼도 못 받는다"](https://m.stock.naver.com/news/ranknews/view/215/0001258992)
