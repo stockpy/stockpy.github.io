@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260717_1908 </title></head>
-<center>Vers : 20260717_1908 </center>
-<center>Vers : 20260718_0408 </center>
+<head><meta charset="utf-8"><title>Vers : 20260717_2055 </title></head>
+<center>Vers : 20260717_2055 </center>
+<center>Vers : 20260718_0555 </center>
 <br><br><br>
 #### [“하이닉스 230만 복구하면 탈출”…슈퍼리치들도 국장에 학뗐다](https://m.stock.naver.com/news/ranknews/view/009/0005708877)
 #### ["제헌절이 살렸다" 공포 속 개미, "갖고 있으라" 최태원에 "믿는다"](https://m.stock.naver.com/news/ranknews/view/018/0006332210)
