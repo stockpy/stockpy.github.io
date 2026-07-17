@@ -1,7 +1,34 @@
-<head><meta charset="utf-8"><title>Vers : 20260717_2055 </title></head>
-<center>Vers : 20260717_2055 </center>
-<center>Vers : 20260718_0555 </center>
+<head><meta charset="utf-8"><title>Vers : 20260717_2153 </title></head>
+<center>Vers : 20260717_2153 </center>
+<center>Vers : 20260718_0653 </center>
 <br><br><br>
+#### [로펌 애셔스트 퍼킨스 코이(Ashurst Perkins Coie), 거래 무산으로 5,000만 달러 규모의 법률 과실 소송에 직면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670651)
+#### [[속보] 피치, 유나이티드 항공의 전망을 ‘긍정적’으로 상향 조정하고 신용등급을 ‘BB+’로 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670650)
+#### [[속보] 피치, 터키 신용등급 ‘BB-’ 유지…전망 ‘안정적’](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670649)
+#### [[속보] 피치, 핀란드 신용등급 ‘AA’ 유지…전망 ‘안정적’](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670648)
+#### [전문가 “애플, 막대한 자본 지출 없이도 AI 분야에서 승자”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670647)
+#### [[속보] 브라질 농가들, 2026년 2차 옥수수 수확량의 48.9% 수확](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670646)
+#### [미국과 멕시코, 화요일 멕시코시티에서 USMCA 무역 협상 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670645)
+#### [크로아티아의 수중 박물관에서 여름 더위를 피하는 관광객들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670644)
+#### [미국 기상 상황의 불확실성과 흑해 지역 긴장 고조로 CBOT 옥수수 가격이 상승 마감했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670643)
+#### [[속보] 시스코, 멕시코산 테일러 팜스(Taylor Farms) 가공 아이스버그 상추 제품 전량 회수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670642)
+#### [‘월스트리트 주간 전망’ ? 미국 기업 실적 발표가 본격화되는 가운데, AI 관련 투자 동향의 초점은 알파벳과 인텔의 실적에 쏠려 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670641)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670640)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670639)
+#### [캘리포니아주와 다른 19개 주가 트럼프의 측근인 클라크를 제재할 수 있는 워싱턴 D.C.의 권한을 지지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670638)
+#### [[속보] 브라질의 BTG Pactual, Meliuz 지분 14.58%로 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670637)
+#### [트럼프 진영은 2020년 선거와 관련해 선거관리 기관을 면밀히 조사한 뒤 해당 기관의 수장들을 해임했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670636)
+#### [브라질의 BRB는 쿼드라 캐피털에 자산을 매각하기 위한 협상이 합의 없이 끝났다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670633)
+#### [우크라이나 간 갈등이 지속되면서 CBOT 밀 가격이 상승 마감했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670635)
+#### [연방준비제도(Fed) 관련 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670634)
+#### [미국 곡물 바지선 운임 현황 ? 7월 17일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670632)
+#### [파나마, 전략적 석유 터미널의 완전한 소유권 확보에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670631)
+#### [미국 현물 원유: 미국 시추 장비 수 증가와 정유소 수요 소폭 증가에 따라 등락 엇갈려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670630)
+#### [[속보] 인터앤코(Inter&Co), 반코 인터(Banco Inter)가 3억 레알 규모의 금융 어음을 발행했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670629)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTR.O/total>
+#### [트럼프 대통령의 이민 재판관 해임 조치에 유엔 전문가들 우려 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670628)
+#### [7월 17일 기준 앨버타주 카놀라 일일 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670627)
 #### [클로버 헬스, 사이버 사고로 직원 계정에 무단 접근 발생했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670626)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CLOV.O/total>
 #### [기술주 폭락으로 투자 심리가 위축되며 TSX 주간 하락 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670625)
@@ -44,30 +71,3 @@
 #### [반도체 매도세가 확산되며 월가, 일일 및 주간 기준 하락 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670593)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ISRG.O/total>
 #### [[속보] 토론토 증시, 비공식적으로 하락 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670592)
-#### [미군은 이란 항구 봉쇄 조치의 일환으로 함정 4척의 진로를 변경했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670591)
-#### [미 중앙사령부, 미군이 이란에 대한 새로운 공습을 감행했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670590)
-#### [오늘의 특가 - 인수합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670589)
-#### [[속보 1] 소식통에 따르면 마블 코믹스가 출판 사업을 캘리포니아로 이전할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670588)
-#### [BUZZ-IMM: 대규모 파운드 매수 속에 달러 롱 포지션 감소; 캐나다 달러 숏 포지션 증가, 엔화 숏 포지션은 안정세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670587)
-#### [우크라이나의 젤렌스키 대통령은 군사적 예우를 둘러싼 갈등 이후 폴란드와의 관계 개선을 모색하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670586)
-#### [투기꾼들이 원당 공매도 포지션을 늘리고, 커피 매수 포지션을 확대했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670585)
-#### [서방 석유 기업들, 이라크에서 “환상적인” 미래를 전망하며 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670584)
-#### [트럼프, 린지 그레이엄의 여동생에게 미 상원 의원 선거 출마를 요청했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670583)
-#### [경제 지표 발표 후 장기물 수익률 하락, 주간 기준 하락세 이어갈 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670582)
-#### [달러 강세와 중동 긴장 고조로 투자 심리가 위축되며 라틴아메리카 증시, 주간 하락세 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670581)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
-#### [트럼프, 산불 사태와 관련해 캐나다를 강하게 비난하며, 관련 비용을 관세에 추가하겠다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670580)
-#### [셰브론, 이라크 유전 협상 진전과 잠재적 송유관 건설을 위한 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670579)
-#### [미국 동부 표준시 기준 오후 3시 30분경 S&P 500 지수 내 상승률 및 하락률이 가장 높은 종목들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670578)
-#### [투기꾼들, 옥수수 순매도 포지션 축소-CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670577)
-#### [투기 세력, 미국 원유 순매수 포지션 확대?CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670576)
-#### [펀드 운용사들, 지난주 S&P 500 선물 순매수 포지션 축소?CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670575)
-#### [치노 커머셜 뱅크코프, 순이자수익 증가로 2분기 순이익 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670574)
-#### [COMMENT-US 요약: 위험 회피 분위기 속에서 달러, 혼조세 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670573)
-#### [미국 법률 소식 총정리: 테러 관련 소송에서 트래블러스(Travelers)가 압박받고 있으며, 더 하노버(The Hanover)가 70만 9천 달러의 환수 조치를 요구하고 있는 등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670572)
-#### [[업데이트 1] WSJ 보도에 따르면, 머스크의 스페이스X가 미 국방부에 컴퓨팅 성능을 공급하기 위한 협상을 진행 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670571)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRWV.O/total>
-#### [이란 전쟁 여파로 유가가 급등하면서 ICE 카놀라 선물 가격이 상승했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670570)
-#### [앨버타 주 농작물 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670569)
-#### [노르웨이 화재로 100채 이상의 주택이 전소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670568)
-#### [트럼프는 린지 그레이엄의 여동생에게 미국 상원의원 선거에 출마해 달라고 요청했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670567)
