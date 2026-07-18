@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260718_2047 </title></head>
-<center>Vers : 20260718_2047 </center>
-<center>Vers : 20260719_0547 </center>
+<head><meta charset="utf-8"><title>Vers : 20260718_2135 </title></head>
+<center>Vers : 20260718_2135 </center>
+<center>Vers : 20260719_0635 </center>
 <br><br><br>
 #### [“수익률 반토막, 내가 이걸 왜 했을까” 7조 몰린 삼전닉스 레버리지](https://m.stock.naver.com/news/ranknews/view/011/0004642664)
 #### [7천피 깨지자 액셀 밟던 증권사들 돌변…"내려갑니다" 7월, 하향리포트가 더 많았다](https://m.stock.naver.com/news/ranknews/view/277/0005791381)

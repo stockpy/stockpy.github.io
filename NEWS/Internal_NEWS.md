@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260718_2047 </title></head>
-<center>Vers : 20260718_2047 </center>
-<center>Vers : 20260719_0547 </center>
+<head><meta charset="utf-8"><title>Vers : 20260718_2135 </title></head>
+<center>Vers : 20260718_2135 </center>
+<center>Vers : 20260719_0635 </center>
 <br><br><br>
+#### [토요타의 파하리, 에스토니아에서 우승을 향해 질주 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670855)
+#### [트랜스캐나다 온타리오의 226 MW 할턴 힐스 2호 가스 화력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670854)
+#### [차기 영국 총리 앤디 번햄, 디지털 신분증 도입 계획 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670853)
 #### [NHC 폭풍 주의보: 엘리다의 세력에 변화 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670852)
 #### [베트남 한 마을을 휩쓴 돌발 홍수로 구조 작업이 진행 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670851)
 #### [영국 경찰, 이슬람 행사 위협 사건 수사에서 테러 범죄 증거 발견하지 못해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670850)
@@ -60,6 +63,3 @@
 #### [[속보] 텔레콤 이탈리아, 이사회가 포스테 이탈리아네의 인수 제안에 대한 성명을 만장일치로 승인했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670798)
 #### [스페인 북부에서 발생한 대규모 산불로 3만 8천 에이커 이상이 소실됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670797)
 #### [[속보] 코펜하겐 공항, 라스무스 룬드 최고재무책임자(CFO)가 갑작스럽게 별세했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670796)
-#### [흑해에서 드론 공격이 발생한 후 CPC의 석유 터미널 인프라가 정상적으로 가동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670795)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670794)
-#### [OPG 온타리오 269 MW 로어 노치 수력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670793)
