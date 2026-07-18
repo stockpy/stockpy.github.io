@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260718_1917 </title></head>
-<center>Vers : 20260718_1917 </center>
-<center>Vers : 20260719_0417 </center>
+<head><meta charset="utf-8"><title>Vers : 20260718_2047 </title></head>
+<center>Vers : 20260718_2047 </center>
+<center>Vers : 20260719_0547 </center>
 <br><br><br>
+#### [NHC 폭풍 주의보: 엘리다의 세력에 변화 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670852)
+#### [베트남 한 마을을 휩쓴 돌발 홍수로 구조 작업이 진행 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670851)
+#### [영국 경찰, 이슬람 행사 위협 사건 수사에서 테러 범죄 증거 발견하지 못해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670850)
+#### [150의 내약성이 여전히 양호하며 새로운 안전성 문제는 발견되지 않았다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670849)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FDMT.O/total>
+#### [캘파인 온타리오의 212 MW 그린필드 에너지 센터 3호기 가스 발전소가 가동을 재개했습니다 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670848)
+#### [트랜스캐나다 온타리오의 226 MW 할턴 힐스 1호 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670847)
+#### [트랜스캐나다 온타리오의 305 MW 할턴 힐스 3호 가스 화력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670846)
+#### [블룸버그 뉴스에 따르면, 브라질 항공사 골(Gol)의 모회사가 엠브라에르(Embraer) E2 제트기 구매 계약을 거의 마무리 단계에 접어들었다고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670845)
 #### [[속보] 브라질 항공사 골(Gol)의 모회사, 엠브라에르 E2 제트기 최대 20대 구매 계약 체결 임박 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670844)
 #### [인도 단식 투쟁 중인 활동가의 상태는 안정적이라고 의사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670843)
 #### [천연가스 파이프라인 긴급 공지: 2026년 7월 19일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670842)
@@ -54,11 +63,3 @@
 #### [흑해에서 드론 공격이 발생한 후 CPC의 석유 터미널 인프라가 정상적으로 가동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670795)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670794)
 #### [OPG 온타리오 269 MW 로어 노치 수력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670793)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670792)
-#### [메르츠의 측근, 독일에서 대리모 출산 논란으로 압박을 받자 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670791)
-#### [안토넬리, 벨기에 그랑프리 최종 연습 주행에서 최고 기록… 해밀턴, 사고 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670790)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670789)
-#### [메르츠의 핵심 측근인 슈판, 대리모 출산 논란으로 독일 내 압박을 받자 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670788)
-#### [인도의 스카이로트, 최초의 민간 궤도 로켓 임무 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670787)
-#### [인도의 스카이로트, 최초의 민간 궤도 로켓 임무 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670786)
-#### [트랜스캐나다 온타리오의 226 MW 할턴 힐스 2호 가스 화력발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670785)
