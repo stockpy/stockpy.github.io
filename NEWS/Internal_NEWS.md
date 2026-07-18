@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260718_2135 </title></head>
-<center>Vers : 20260718_2135 </center>
-<center>Vers : 20260719_0635 </center>
+<head><meta charset="utf-8"><title>Vers : 20260718_2249 </title></head>
+<center>Vers : 20260718_2249 </center>
+<center>Vers : 20260719_0749 </center>
 <br><br><br>
+#### [미군 병사 사망 사건 이후, 미국, 이란에 대한 공습 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670862)
+#### [삼성전자 아메리카, 뉴저지에서 직원 739명 감원 예정…WARN 통지서에 명시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670861)
+#### [FDA는 테일러 팜스(Taylor Farms)가 공급한 아이스버그 상추 샘플에서 사이클로스포라 양성 반응이 나왔다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670860)
+#### [반발 확산에 따라 미국 데이터센터 반대 시위가 전국적으로 확산되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670859)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [루비오 의원, “쿠바 반체제 예술가, 5년간의 수감 생활 끝에 미국에 도착했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670858)
+#### [삼성전자 아메리카, 미국 뉴저지에서 직원 739명 감원 예정… WARN 통지서에 명시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670857)
+#### [온타리오주 포드, 산불 문제로 캐나다를 비난한 트럼프를 맹비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670856)
 #### [토요타의 파하리, 에스토니아에서 우승을 향해 질주 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670855)
 #### [트랜스캐나다 온타리오의 226 MW 할턴 힐스 2호 가스 화력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670854)
 #### [차기 영국 총리 앤디 번햄, 디지털 신분증 도입 계획 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670853)
@@ -56,10 +64,3 @@
 #### [노르웨이의 가스스코, 예기치 못한 가스 공급 중단 기간 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670805)
 #### [산불 연기가 미국 전역을 뒤덮자, 캐나다는 온타리오주 한 지역 주민들을 대피시킬 준비를 하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670804)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670803)
-#### [OPG 온타리오 269 MW 로어 노치 수력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670802)
-#### [텔레콤 이탈리아 이사회, 포스테의 인수 제안을 지지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670801)
-#### [우크라이나의 드론 공격으로 모스크바 창고에서 연기가 피어오르고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670800)
-#### [텔레콤 이탈리아 이사회, 포스테의 인수 제안을 지지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670799)
-#### [[속보] 텔레콤 이탈리아, 이사회가 포스테 이탈리아네의 인수 제안에 대한 성명을 만장일치로 승인했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670798)
-#### [스페인 북부에서 발생한 대규모 산불로 3만 8천 에이커 이상이 소실됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670797)
-#### [[속보] 코펜하겐 공항, 라스무스 룬드 최고재무책임자(CFO)가 갑작스럽게 별세했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670796)
