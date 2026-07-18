@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260718_2249 </title></head>
-<center>Vers : 20260718_2249 </center>
-<center>Vers : 20260719_0749 </center>
+<head><meta charset="utf-8"><title>Vers : 20260718_2338 </title></head>
+<center>Vers : 20260718_2338 </center>
+<center>Vers : 20260719_0838 </center>
 <br><br><br>
+#### [이란의 공격으로 미군 병사 2명이 사망한 후, 미국, 이란에 대한 공습 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670865)
+#### [[속보 1] 소식통에 따르면, 지연된 명령과 혼란으로 인해 베네수엘라 군의 지진 대응이 더뎌졌다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670864)
+#### [FDA, 테일러 팜스가 공급한 아이스버그 상추 샘플에서 미국 내 기생충 집단 감염과 관련된 양성 반응 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670863)
 #### [미군 병사 사망 사건 이후, 미국, 이란에 대한 공습 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670862)
 #### [삼성전자 아메리카, 뉴저지에서 직원 739명 감원 예정…WARN 통지서에 명시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670861)
 #### [FDA는 테일러 팜스(Taylor Farms)가 공급한 아이스버그 상추 샘플에서 사이클로스포라 양성 반응이 나왔다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670860)
@@ -61,6 +64,3 @@
 #### [프룸, 2019년 도피네 대회 사고를 커리어의 전환점으로 꼽아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670808)
 #### [콜로라도 ICE 시설에서 시위자 총격 사건과 관련해 GEO 그룹 직원 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670807)
 #### [RIA 통신에 따르면, 러시아의 라브로프 외무장관이 아랍에미리트(UAE) 외무장관과 걸프 지역 문제를 논의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670806)
-#### [노르웨이의 가스스코, 예기치 못한 가스 공급 중단 기간 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670805)
-#### [산불 연기가 미국 전역을 뒤덮자, 캐나다는 온타리오주 한 지역 주민들을 대피시킬 준비를 하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670804)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670803)
