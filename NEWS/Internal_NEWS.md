@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260718_1657 </title></head>
-<center>Vers : 20260718_1657 </center>
-<center>Vers : 20260719_0157 </center>
+<head><meta charset="utf-8"><title>Vers : 20260718_1800 </title></head>
+<center>Vers : 20260718_1800 </center>
+<center>Vers : 20260719_0300 </center>
 <br><br><br>
+#### [온타리오 주지사, 산불 진압을 위한 캐나다의 노력에 대한 트럼프의 비판은 “절대 용납할 수 없다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670836)
+#### [미국, “요르단에 주둔 중이던 미군 병사 2명, 이란의 공격으로 사망”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670835)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670834)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670833)
+#### [헝가리 대통령, 임기 종료 법안 서명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670832)
+#### [러셀, 차량 성능 저하 원인은 심각한 문제라고 밝히며 운전 스타일은 아니라고 일축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670831)
+#### [UKMTO, 오만 두크무 동쪽 해상에서 군 부대가 연루된 유조선 사고 발생 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670830)
+#### [이란 최고 지도자, 미국의 약속 위반은 트럼프의 서명이 “무가치하다”는 것을 보여준다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670829)
+#### [온타리오주, 산불 활동 둔화 조짐… 호전될 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670828)
 #### [사이클 - 포가카르, 투르 드 프랑스 14단계에서 단독 우승을 차지하며 종합 선두 격차를 벌렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670827)
 #### [헝가리 대통령이 자신의 임기를 종료하는 법 개정안에 서명했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670826)
 #### [마르코 바세티, 글로벌 엔터테인먼트가 여전히 지역 문화에 의존하는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670825)
@@ -53,14 +62,3 @@
 #### [노르웨이에서 화재로 100채 이상의 주택이 전소되면서 수백 명이 대피했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670779)
 #### [중국은 영국이 브리티시 스틸을 국유화한 데 대해 조치를 취하겠다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670778)
 #### [인도의 ICICI 은행, 1분기 순이익 15.9% 증가…예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670777)
-#### [국영 언론에 따르면, 쿠웨이트 석유공사는 이란의 공격으로 인한 피해와 부상자가 발생했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670776)
-#### [인도의 HDFC 은행, 1분기 순이익 5% 증가…예상치 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670775)
-#### [반발이 거세지면서 미국 내 데이터센터 반대 시위가 전국적으로 확산되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670774)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [이번 주 브레이킹뷰스: 주식 매수 전략](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670773)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
-#### [의사들, 테스토스테론 검사 도입을 위한 국방부 계획의 근거에 의문 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670772)
-#### [독일 내무장관, 신문과의 인터뷰에서 보안 경보 수준을 ‘고위협 단계’로 상향 조정했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670771)
-#### [인도의 예스뱅크, 대출 증가에 힘입어 순이익 34% 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670770)
-#### [인도의 코탁 은행, 1분기 순이익 26% 급증…예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670769)
-#### [NHC 폭풍 주의보: 엘리다가 세기가 약간 강해졌으나 수온이 낮은 해역으로 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670768)
