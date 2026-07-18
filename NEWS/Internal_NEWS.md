@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260718_1800 </title></head>
-<center>Vers : 20260718_1800 </center>
-<center>Vers : 20260719_0300 </center>
+<head><meta charset="utf-8"><title>Vers : 20260718_1917 </title></head>
+<center>Vers : 20260718_1917 </center>
+<center>Vers : 20260719_0417 </center>
 <br><br><br>
+#### [[속보] 브라질 항공사 골(Gol)의 모회사, 엠브라에르 E2 제트기 최대 20대 구매 계약 체결 임박 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670844)
+#### [인도 단식 투쟁 중인 활동가의 상태는 안정적이라고 의사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670843)
+#### [천연가스 파이프라인 긴급 공지: 2026년 7월 19일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670842)
+#### [사이클로스포리아증 환자 증가에 따라 월마트, 봉지 포장 상추 샐러드 4종 판매 중단- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670841)
+#### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670840)
+#### [프랑스의 10대 선수 세이샤스, 투르 드 프랑스 포디움 등극의 꿈이 현실로 다가오며 화이트 저지를 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670839)
+#### [테일러 팜스, 식중독 발생에 따라 리콜 대상 상추 제품 목록 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670838)
+#### [파이낸셜타임스(FT) 보도에 따르면, 트럼프 행정부가 미국의 원조 정책을 재편하면서 유럽 내 ‘MAGA’ 성향의 프로젝트에 자금을 지원할 예정이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670837)
 #### [온타리오 주지사, 산불 진압을 위한 캐나다의 노력에 대한 트럼프의 비판은 “절대 용납할 수 없다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670836)
 #### [미국, “요르단에 주둔 중이던 미군 병사 2명, 이란의 공격으로 사망”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670835)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670834)
@@ -54,11 +62,3 @@
 #### [인도의 스카이로트, 최초의 민간 궤도 로켓 임무 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670787)
 #### [인도의 스카이로트, 최초의 민간 궤도 로켓 임무 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670786)
 #### [트랜스캐나다 온타리오의 226 MW 할턴 힐스 2호 가스 화력발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670785)
-#### [트랜스캐나다 온타리오의 226 MW 할턴 힐스 1호 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670784)
-#### [트랜스캐나다 온타리오 305 MW 할턴 힐스 3호 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670783)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670782)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670781)
-#### [소식통에 따르면, 주문 지연과 혼란으로 인해 베네수엘라 군의 지진 대응이 더뎌졌다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670780)
-#### [노르웨이에서 화재로 100채 이상의 주택이 전소되면서 수백 명이 대피했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670779)
-#### [중국은 영국이 브리티시 스틸을 국유화한 데 대해 조치를 취하겠다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670778)
-#### [인도의 ICICI 은행, 1분기 순이익 15.9% 증가…예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670777)
