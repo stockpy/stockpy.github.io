@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260718_1544 </title></head>
-<center>Vers : 20260718_1544 </center>
-<center>Vers : 20260719_0044 </center>
+<head><meta charset="utf-8"><title>Vers : 20260718_1657 </title></head>
+<center>Vers : 20260718_1657 </center>
+<center>Vers : 20260719_0157 </center>
 <br><br><br>
+#### [사이클 - 포가카르, 투르 드 프랑스 14단계에서 단독 우승을 차지하며 종합 선두 격차를 벌렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670827)
+#### [헝가리 대통령이 자신의 임기를 종료하는 법 개정안에 서명했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670826)
+#### [마르코 바세티, 글로벌 엔터테인먼트가 여전히 지역 문화에 의존하는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670825)
+#### [모터 레이싱 - 안토넬리, 베르스타펜 제치고 스파 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670824)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670823)
+#### [멕시코 정부 부처들이 멕시코 한 농장과 관련된 사이클로스포라 감염 사례를 조사하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670822)
+#### [CFM, 제트 엔진 내구성 향상 방안 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670821)
+#### [포가카르, 투르 드 프랑스 14단계에서 단독 우승을 차지하며 종합 선두 격차를 벌렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670820)
 #### [아르헨티나 의사들, 월드컵 경기 중 심장마비 환자 증가 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670819)
 #### [안토넬리, 베르스타펜 제치고 스파 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670818)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670817)
@@ -56,12 +64,3 @@
 #### [인도의 예스뱅크, 대출 증가에 힘입어 순이익 34% 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670770)
 #### [인도의 코탁 은행, 1분기 순이익 26% 급증…예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670769)
 #### [NHC 폭풍 주의보: 엘리다가 세기가 약간 강해졌으나 수온이 낮은 해역으로 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670768)
-#### [[업데이트 1] 소식통에 따르면, 중국의 딥시크(DeepSeek)가 중국 내 상장(IPO)을 앞두고 기업 가치 740억 달러를 기준으로 신규 자금을 조달할 예정이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670767)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0700.HK/total>
-#### [젤렌스키 대통령, “우크라이나가 러시아 내 물류 및 석유 시설을 타격했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670766)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670765)
-#### [러시아, 우크라이나 오데사 항만 시설 공격… 1명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670764)
-#### [미국, 이란 공습 7일 차 장면을 담은 것으로 알려진 영상 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670763)
-#### [우크라이나 시민들, 이틀째 시위 벌이며 육군 참모총장 교체를 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670762)
-#### [우크라이나의 드론 공격으로 러시아 내 창고 근로자 7명 사망, 모스크바 지역 석유 저장소에서 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670761)
-#### [인도의 스카이로트, 민간 최초의 궤도 로켓 임무로 ‘비크람-1’ 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670760)
