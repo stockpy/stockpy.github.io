@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260719_1700 </title></head>
-<center>Vers : 20260719_1700 </center>
-<center>Vers : 20260720_0200 </center>
+<head><meta charset="utf-8"><title>Vers : 20260719_1905 </title></head>
+<center>Vers : 20260719_1905 </center>
+<center>Vers : 20260720_0405 </center>
 <br><br><br>
+#### [아시아 모닝 콜 - 글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670993)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [사이클 - 투르 참가 선수들, 새벽 도핑 검사로 인해 수면이 방해받는 것에 불만](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670992)
+#### [맥그리거, 홀로웨이에게 패배한 경기에서 전방십자인대와 반월상연골 부상당했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670991)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670990)
+#### [프랑스 지중해 연안에서 발생한 산불로 인해 소규모 마을 주민들이 대피했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670989)
+#### [안토넬리, 작년 최악의 성적을 기록했던 바로 그 장소에서 새로운 최고 기록을 달성하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670988)
+#### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670987)
+#### [NHC 폭풍 주의보: 플로리다 서부 해안 앞바다에서 제자리걸음을 하고 있는 열대저기압](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670986)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670985)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670984)
+#### [이라크 국영 통신사, 이라크 총리가 이번 주 테헤란을 방문할 예정이라고 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670983)
+#### [쿠웨이트는 이란이 전력 및 해수 담수화 시설을 공격한 것으로 지칭되는 행위를 규탄했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670982)
+#### [영화사 측에 따르면, ‘오디세이’가 전 세계 박스오피스에서 2억 6,410만 달러의 수익을 올렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670981)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CMCSA.O/total>
 #### [메인주 민주당이 재편에 나서는 가운데 벨로스가 미국 상원 의원 선거 출마를 철회했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670980)
 #### [미국, 태국에 중국인 2명의 인도 요청을 거부할 것을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670979)
 #### [블룸버그 뉴스에 따르면, 에어캡이 보잉 787 드림라이너 항공기 구매를 위한 협상을 진행 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670978)
@@ -53,17 +68,3 @@
 #### [스카이 뉴스 보도에 따르면, 영국 여론조사 기관 유고브(YouGov)가 웨인 레빙스를 차기 최고경영자(CEO)로 물망에 올리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670936)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670935)
 #### [인도 법원, 활동가 왕추크의 국영 병원 퇴원 명령 요청 기각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670934)
-#### [[속보] 유고브, 웨인 레빙스를 차기 최고경영자 후보로 물망에 올리고 있다 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670933)
-#### [이란의 공격으로 미군 병사 2명이 사망한 후, 미국, 이란에 대한 공습 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670932)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670931)
-#### [[속보] 히씽 로얄플러시 정보 네트워크, 상반기 순이익 전년 동기 대비 75%~95% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670930)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300033.SZ/total>
-#### [국영 통신사 보도에 따르면, 요르단은 아카바 공항이나 항구에 대해 어떠한 대피 명령도 내리지 않았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670929)
-#### [메르 통신 보도에 따르면, 이란 원자력 기구는 다크호빈 원자력 발전소 부지에 대한 미국의 공습을 규탄했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670928)
-#### [러시아는 자국군이 우크라이나 드니프로페트로우스크 주에 있는 또 다른 마을을 장악했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670927)
-#### [미국 복서 한나 랩, 자전거를 타다 차에 치여 26세의 나이로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670926)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670925)
-#### [[속보 1] 영국 번햄, 생활비 문제 해결에 우선순위를 두기 위해 디지털 신분증 도입 계획을 철회했다고 측근들이 전했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670924)
-#### [독일의 메르츠, 내각 개편 가능성 시사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670923)
-#### [러시아, 대규모 탄도 미사일 공격으로 키예프를 강타](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670922)
-#### [[속보 1] 미국 대사관, “신빙성 있는 위협”으로 요르단 공항 및 항구 대피 조치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670921)

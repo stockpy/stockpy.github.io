@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260719_1701 </title></head>
-<center>Vers : 20260719_1701 </center>
-<center>Vers : 20260720_0201 </center>
+<head><meta charset="utf-8"><title>Vers : 20260719_1905 </title></head>
+<center>Vers : 20260719_1905 </center>
+<center>Vers : 20260720_0405 </center>
 <br><br><br>
 #### ["월요일이 무섭다" 개미들 초긴장...반도체주 반등 트리거 '이것' 주목](https://m.stock.naver.com/news/ranknews/view/008/0005387661)
 #### [버핏 “쌀 때 ‘이 주식’ 안 산 건 실수”...‘43조 폭탄 투자’ 결정한 버핏의 고백](https://m.stock.naver.com/news/ranknews/view/011/0004642900)
