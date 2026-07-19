@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260718_2338 </title></head>
-<center>Vers : 20260718_2338 </center>
-<center>Vers : 20260719_0838 </center>
+<head><meta charset="utf-8"><title>Vers : 20260719_0242 </title></head>
+<center>Vers : 20260719_0242 </center>
+<center>Vers : 20260719_1142 </center>
 <br><br><br>
+#### [러시아 탄도미사일이 키예프를 강타해 1명이 사망했다고 당국자들이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670874)
+#### [미국 연방 보안관들이 ‘과도한 남성성’을 내세우는 소셜 미디어 스타 앤드류와 트리스탄 테이트를 체포했으며, 영국은 이들의 인도를 요청했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670873)
+#### [쿠바 반체제 예술가, 5년간의 수감 생활 끝에 미국에 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670872)
+#### [농구팀 템포의 브론델로 감독, ‘부적절한 발언’으로 1경기 출전 정지 처분](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670871)
+#### [제트 엔진 제조사 CFM, 수리 속도 높이기 위해 20억 달러 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670870)
+#### [이란의 공격으로 미군 병사 2명이 사망한 후, 미국, 이란에 대한 공습 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670869)
+#### [멕시코의 셰인바움, 트럼프 대통령의 초청으로 월드컵 결승전 관람 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670868)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670867)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670866)
 #### [이란의 공격으로 미군 병사 2명이 사망한 후, 미국, 이란에 대한 공습 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670865)
 #### [[속보 1] 소식통에 따르면, 지연된 명령과 혼란으로 인해 베네수엘라 군의 지진 대응이 더뎌졌다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670864)
 #### [FDA, 테일러 팜스가 공급한 아이스버그 상추 샘플에서 미국 내 기생충 집단 감염과 관련된 양성 반응 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670863)
@@ -55,6 +64,10 @@
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670817)
 #### [OPG 온타리오 269 MW 로어 노치 수력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670816)
 #### [린지 그레이엄 상원의원 사망에 따라 랄프 노먼 미국 하원의원, 사우스캐롤라이나주 상원의원 선거 출마 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670815)
+<head><meta charset="utf-8"><title>Vers : 20260719_0242 </title></head>
+<center>Vers : 20260719_0242 </center>
+<center>Vers : 20260719_1142 </center>
+<br><br><br>
 #### [랄프 노먼 미국 하원의원은 린지 그레이엄의 사망에 따라 사우스캐롤라이나주 상원의원 선거에 출마하겠다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670814)
 #### [NHC 폭풍 주의보: 엘리다가 불리한 기상 조건에 접어들면서 세력이 약화될 것으로 예상됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670813)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670812)
@@ -64,3 +77,57 @@
 #### [프룸, 2019년 도피네 대회 사고를 커리어의 전환점으로 꼽아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670808)
 #### [콜로라도 ICE 시설에서 시위자 총격 사건과 관련해 GEO 그룹 직원 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670807)
 #### [RIA 통신에 따르면, 러시아의 라브로프 외무장관이 아랍에미리트(UAE) 외무장관과 걸프 지역 문제를 논의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670806)
+#### [노르웨이의 가스스코, 예기치 못한 가스 공급 중단 기간 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670805)
+#### [산불 연기가 미국 전역을 뒤덮자, 캐나다는 온타리오주 한 지역 주민들을 대피시킬 준비를 하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670804)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670803)
+#### [OPG 온타리오 269 MW 로어 노치 수력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670802)
+#### [텔레콤 이탈리아 이사회, 포스테의 인수 제안을 지지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670801)
+#### [우크라이나의 드론 공격으로 모스크바 창고에서 연기가 피어오르고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670800)
+#### [텔레콤 이탈리아 이사회, 포스테의 인수 제안을 지지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670799)
+#### [[속보] 텔레콤 이탈리아, 이사회가 포스테 이탈리아네의 인수 제안에 대한 성명을 만장일치로 승인했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670798)
+#### [스페인 북부에서 발생한 대규모 산불로 3만 8천 에이커 이상이 소실됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670797)
+#### [[속보] 코펜하겐 공항, 라스무스 룬드 최고재무책임자(CFO)가 갑작스럽게 별세했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670796)
+#### [흑해에서 드론 공격이 발생한 후 CPC의 석유 터미널 인프라가 정상적으로 가동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670795)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670794)
+#### [OPG 온타리오 269 MW 로어 노치 수력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670793)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670792)
+#### [메르츠의 측근, 독일에서 대리모 출산 논란으로 압박을 받자 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670791)
+#### [안토넬리, 벨기에 그랑프리 최종 연습 주행에서 최고 기록… 해밀턴, 사고 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670790)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670789)
+#### [메르츠의 핵심 측근인 슈판, 대리모 출산 논란으로 독일 내 압박을 받자 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670788)
+#### [인도의 스카이로트, 최초의 민간 궤도 로켓 임무 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670787)
+#### [인도의 스카이로트, 최초의 민간 궤도 로켓 임무 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670786)
+#### [트랜스캐나다 온타리오의 226 MW 할턴 힐스 2호 가스 화력발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670785)
+#### [트랜스캐나다 온타리오의 226 MW 할턴 힐스 1호 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670784)
+#### [트랜스캐나다 온타리오 305 MW 할턴 힐스 3호 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670783)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670782)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670781)
+#### [소식통에 따르면, 주문 지연과 혼란으로 인해 베네수엘라 군의 지진 대응이 더뎌졌다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670780)
+#### [노르웨이에서 화재로 100채 이상의 주택이 전소되면서 수백 명이 대피했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670779)
+#### [중국은 영국이 브리티시 스틸을 국유화한 데 대해 조치를 취하겠다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670778)
+#### [인도의 ICICI 은행, 1분기 순이익 15.9% 증가…예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670777)
+#### [국영 언론에 따르면, 쿠웨이트 석유공사는 이란의 공격으로 인한 피해와 부상자가 발생했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670776)
+#### [인도의 HDFC 은행, 1분기 순이익 5% 증가…예상치 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670775)
+#### [반발이 거세지면서 미국 내 데이터센터 반대 시위가 전국적으로 확산되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670774)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [이번 주 브레이킹뷰스: 주식 매수 전략](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670773)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [의사들, 테스토스테론 검사 도입을 위한 국방부 계획의 근거에 의문 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670772)
+#### [독일 내무장관, 신문과의 인터뷰에서 보안 경보 수준을 ‘고위협 단계’로 상향 조정했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670771)
+#### [인도의 예스뱅크, 대출 증가에 힘입어 순이익 34% 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670770)
+#### [인도의 코탁 은행, 1분기 순이익 26% 급증…예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670769)
+#### [NHC 폭풍 주의보: 엘리다가 세기가 약간 강해졌으나 수온이 낮은 해역으로 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670768)
+#### [[업데이트 1] 소식통에 따르면, 중국의 딥시크(DeepSeek)가 중국 내 상장(IPO)을 앞두고 기업 가치 740억 달러를 기준으로 신규 자금을 조달할 예정이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670767)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0700.HK/total>
+#### [젤렌스키 대통령, “우크라이나가 러시아 내 물류 및 석유 시설을 타격했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670766)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670765)
+#### [러시아, 우크라이나 오데사 항만 시설 공격… 1명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670764)
+#### [미국, 이란 공습 7일 차 장면을 담은 것으로 알려진 영상 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670763)
+#### [우크라이나 시민들, 이틀째 시위 벌이며 육군 참모총장 교체를 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670762)
+#### [우크라이나의 드론 공격으로 러시아 내 창고 근로자 7명 사망, 모스크바 지역 석유 저장소에서 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670761)
+#### [인도의 스카이로트, 민간 최초의 궤도 로켓 임무로 ‘비크람-1’ 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670760)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670759)
+#### [[속보] 포드 모터, 2열 좌석이 예기치 않게 움직일 수 있어 미국 내 차량 387,911대 리콜 - NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670758)
+#### [우크라이나의 드론 공격으로 러시아에서 창고 근로자 7명이 사망하고, 모스크바 지역 석유 저장소에서 화재가 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670757)
+#### [인도의 스카이로트, 민간 최초의 궤도 로켓 임무로 ‘비크람-1’ 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670756)
+#### [인도의 액시스 은행, 1분기 순이익 23% 증가…예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670755)
