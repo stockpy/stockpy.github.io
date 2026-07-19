@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260719_2048 </title></head>
-<center>Vers : 20260719_2048 </center>
-<center>Vers : 20260720_0548 </center>
+<head><meta charset="utf-8"><title>Vers : 20260719_2137 </title></head>
+<center>Vers : 20260719_2137 </center>
+<center>Vers : 20260720_0637 </center>
 <br><br><br>
+#### [[속보] 유니포어, 캐나다 포드 모터 컴퍼니와 3년짜리 단체협약이 조합원들의 승인을 받았다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671010)
+#### [NHC 폭풍 주의보: 플로리다 서부 해안 앞바다에서 제자리걸음을 하고 있는 열대저기압](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671009)
+#### [NHC 폭풍 주의보: 엘리다가 며칠 내로 잔류 저기압으로 약화될 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671008)
 #### [NHC 폭풍 주의보: 저기압이 열대성 폭풍으로 발달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671007)
 #### [주말 뉴스-미국-이란 갈등 고조, 주요 이슈로 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671006)
 #### [아시아 모닝 콜 - 글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671005)
@@ -65,6 +68,3 @@
 #### [토요타의 파하리가 에스토니아에서 WRC 첫 우승을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670953)
 #### [F1 챔피언십 우승 후보 러셀, 벨기에 그랑프리 불참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670952)
 #### [보잉, 737 MAX 생산량 추가 확대 방안 검토 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670951)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670950)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670949)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670948)
