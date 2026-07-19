@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260719_1905 </title></head>
-<center>Vers : 20260719_1905 </center>
-<center>Vers : 20260720_0405 </center>
+<head><meta charset="utf-8"><title>Vers : 20260719_2048 </title></head>
+<center>Vers : 20260719_2048 </center>
+<center>Vers : 20260720_0548 </center>
 <br><br><br>
+#### [NHC 폭풍 주의보: 저기압이 열대성 폭풍으로 발달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671007)
+#### [주말 뉴스-미국-이란 갈등 고조, 주요 이슈로 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671006)
+#### [아시아 모닝 콜 - 글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671005)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [헝가리의 마자르 총리가 체스 챔피언 주디트 폴가르에게 대통령직 수임을 요청할 예정이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671004)
+#### [BUZZ-재방송-유로/달러는 침착한 흐름, 파운드 약세, 달러/엔 시장 분위기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671003)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671002)
+#### [키예프 당국, “러시아가 흑해에서 화물선을 공격해 5명 사망”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671001)
+#### [BUZZ-COMMENT-이번 주 전망-ECB 금리, 미·이란 관련 소식, 속보 PMI가 주목받을 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671000)
+#### [이란의 공격으로 미군 병사 2명이 사망한 후, 미국이 이란에 대한 공습을 재개했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670999)
+#### [미 중앙사령부, 이라크 북부에서 미군 1명 사망했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670998)
+#### [[속보 1] 폴리티코 보도에 따르면, 잭슨 후보가 메인주에서 콜린스 연방 상원의원에 맞서기 위해 대의원 과반수의 지지를 확보했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670997)
+#### [7월 19일 일요일 오후 3시 17분(미국 동부 표준시) 기준 로이터 미국 스포츠 경기 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670996)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670995)
+#### [해밀턴, 자신의 차량이 정비사를 치는 사고가 발생했으나 책임이 없음이 밝혀졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670994)
 #### [아시아 모닝 콜 - 글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670993)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
 #### [사이클 - 투르 참가 선수들, 새벽 도핑 검사로 인해 수면이 방해받는 것에 불만](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670992)
@@ -53,18 +68,3 @@
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670950)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670949)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670948)
-#### [국영 통신사 보도에 따르면 요르단이 이란의 미사일 3발을 요격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670947)
-#### [월가 주간 전망-미국 기업 실적 발표가 본격화되는 가운데, AI 관련 투자 동향의 초점은 알파벳과 인텔의 실적에 쏠려 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670946)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [IAEA, 이란 다르코빈 원자력 발전소 부지에 대한 공격 보도 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670945)
-#### [투르 드 프랑스 선두 주자 포가카르와 빈게가르드, 새벽 시간대 도핑 검사 후 졸린 모습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670944)
-#### [영국이 인도 요청을 추진하는 가운데 테이트 형제, 마이애미에서 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670943)
-#### [이스라엘 국방군(IDF)은 이란에서 요르단의 아카바를 향해 미사일이 발사되었다고 밝혔으며, 이스라엘 영토로 미사일이 유입될 가능성도 있다고 전했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670942)
-#### [[속보 1] 스카이 뉴스 보도에 따르면, 영국 여론조사 기관 유고브(YouGov)가 레빙스를 차기 CEO로 물망에 올리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670941)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670940)
-#### [중국 남부, 추가 강우에 대비…충칭 산사태 수색 작업 계속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670939)
-#### [트럼프, 공화당이 러시아 관련 법안에 이란을 포함시켜야 한다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670938)
-#### [이스라엘 당국자들, “이란의 공격이 격화됨에 따라 이스라엘이 미국산 공중급유기를 추가로 도입할 예정”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670937)
-#### [스카이 뉴스 보도에 따르면, 영국 여론조사 기관 유고브(YouGov)가 웨인 레빙스를 차기 최고경영자(CEO)로 물망에 올리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670936)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670935)
-#### [인도 법원, 활동가 왕추크의 국영 병원 퇴원 명령 요청 기각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670934)
