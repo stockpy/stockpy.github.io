@@ -1,7 +1,28 @@
-<head><meta charset="utf-8"><title>Vers : 20260719_0817 </title></head>
-<center>Vers : 20260719_0817 </center>
-<center>Vers : 20260719_1717 </center>
+<head><meta charset="utf-8"><title>Vers : 20260719_1001 </title></head>
+<center>Vers : 20260719_1001 </center>
+<center>Vers : 20260719_1901 </center>
 <br><br><br>
+#### [젤렌스키 대통령, “우크라이나가 러시아 스타브로폴 지역의 석유 저장소 3곳을 공격했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670918)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670917)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670916)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670915)
+#### [[속보] 충칭 폴리콤프 인터내셔널, 상반기 순이익 전년 동기 대비 151%~194% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670914)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301526.SZ/total>
+#### [반도체주 매도세로 인해 CXMT의 86억 달러 규모 상하이 기업공개(IPO)에 대한 기관 투자자들의 수요가 위축됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670913)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
+#### [메타의 페이스북과 인스타그램 이용자들이 일부 서비스 장애를 겪고 있다고 보고하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670912)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [[속보] Eoptolink Technology, 상반기 순이익 전년 동기 대비 77.56%~102.93% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670911)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300502.SZ/total>
+#### [NHC 폭풍 주의보: 저기압이 이번 주 후반 동태평양 해상에서 허리케인으로 발달할 것으로 예보됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670910)
+#### [[속보] 샤레트로닉 데이터 테크놀로지, 상반기 순이익 전년 동기 대비 247.18%~339.76% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670909)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300857.SZ/total>
+#### [NHC 폭풍 주의보: 엘리다가 조금 더 세력을 잃고 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670908)
+#### [[속보] 올림픽 서킷 테크놀로지, 자사주 매입 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670907)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603920.SS/total>
+#### [[속보] 양저우 양지에 전자기술, 상반기 순이익 전년 동기 대비 20.0%~40.0% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670906)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300373.SZ/total>
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670905)
 #### [연구 결과, 남성이 여성보다 채용 제안을 임금 인상 수단으로 활용할 가능성이 더 높은 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670904)
 #### [두바이 통치자, “아랍에미리트(UAE) 상반기 비석유 부문 대외무역액이 1.937조 디르함으로 13.1% 증가했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670903)
 #### [[속보] 중국 신화에너지, 6월 석탄 판매량 5,050만 톤](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670902)
@@ -50,6 +71,10 @@
 #### [FDA는 테일러 팜스(Taylor Farms)가 공급한 아이스버그 상추 샘플에서 사이클로스포라 양성 반응이 나왔다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670860)
 #### [반발 확산에 따라 미국 데이터센터 반대 시위가 전국적으로 확산되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670859)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+<head><meta charset="utf-8"><title>Vers : 20260719_1001 </title></head>
+<center>Vers : 20260719_1001 </center>
+<center>Vers : 20260719_1901 </center>
+<br><br><br>
 #### [루비오 의원, “쿠바 반체제 예술가, 5년간의 수감 생활 끝에 미국에 도착했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670858)
 #### [삼성전자 아메리카, 미국 뉴저지에서 직원 739명 감원 예정… WARN 통지서에 명시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670857)
 #### [온타리오주 포드, 산불 문제로 캐나다를 비난한 트럼프를 맹비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670856)
@@ -65,10 +90,6 @@
 #### [트랜스캐나다 온타리오의 226 MW 할턴 힐스 1호 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670847)
 #### [트랜스캐나다 온타리오의 305 MW 할턴 힐스 3호 가스 화력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670846)
 #### [블룸버그 뉴스에 따르면, 브라질 항공사 골(Gol)의 모회사가 엠브라에르(Embraer) E2 제트기 구매 계약을 거의 마무리 단계에 접어들었다고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670845)
-<head><meta charset="utf-8"><title>Vers : 20260719_0817 </title></head>
-<center>Vers : 20260719_0817 </center>
-<center>Vers : 20260719_1717 </center>
-<br><br><br>
 #### [[속보] 브라질 항공사 골(Gol)의 모회사, 엠브라에르 E2 제트기 최대 20대 구매 계약 체결 임박 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670844)
 #### [인도 단식 투쟁 중인 활동가의 상태는 안정적이라고 의사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670843)
 #### [천연가스 파이프라인 긴급 공지: 2026년 7월 19일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670842)
@@ -115,17 +136,3 @@
 #### [텔레콤 이탈리아 이사회, 포스테의 인수 제안을 지지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670801)
 #### [우크라이나의 드론 공격으로 모스크바 창고에서 연기가 피어오르고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670800)
 #### [텔레콤 이탈리아 이사회, 포스테의 인수 제안을 지지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670799)
-#### [[속보] 텔레콤 이탈리아, 이사회가 포스테 이탈리아네의 인수 제안에 대한 성명을 만장일치로 승인했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670798)
-#### [스페인 북부에서 발생한 대규모 산불로 3만 8천 에이커 이상이 소실됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670797)
-#### [[속보] 코펜하겐 공항, 라스무스 룬드 최고재무책임자(CFO)가 갑작스럽게 별세했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670796)
-#### [흑해에서 드론 공격이 발생한 후 CPC의 석유 터미널 인프라가 정상적으로 가동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670795)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670794)
-#### [OPG 온타리오 269 MW 로어 노치 수력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670793)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670792)
-#### [메르츠의 측근, 독일에서 대리모 출산 논란으로 압박을 받자 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670791)
-#### [안토넬리, 벨기에 그랑프리 최종 연습 주행에서 최고 기록… 해밀턴, 사고 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670790)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670789)
-#### [메르츠의 핵심 측근인 슈판, 대리모 출산 논란으로 독일 내 압박을 받자 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670788)
-#### [인도의 스카이로트, 최초의 민간 궤도 로켓 임무 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670787)
-#### [인도의 스카이로트, 최초의 민간 궤도 로켓 임무 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670786)
-#### [트랜스캐나다 온타리오의 226 MW 할턴 힐스 2호 가스 화력발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670785)
