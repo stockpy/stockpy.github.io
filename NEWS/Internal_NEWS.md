@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260719_1556 </title></head>
-<center>Vers : 20260719_1556 </center>
-<center>Vers : 20260720_0056 </center>
+<head><meta charset="utf-8"><title>Vers : 20260719_1700 </title></head>
+<center>Vers : 20260719_1700 </center>
+<center>Vers : 20260720_0200 </center>
 <br><br><br>
+#### [메인주 민주당이 재편에 나서는 가운데 벨로스가 미국 상원 의원 선거 출마를 철회했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670980)
+#### [미국, 태국에 중국인 2명의 인도 요청을 거부할 것을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670979)
+#### [블룸버그 뉴스에 따르면, 에어캡이 보잉 787 드림라이너 항공기 구매를 위한 협상을 진행 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670978)
+#### [페루에서 지진 2차례 발생…최소 5명 사망, 21명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670977)
+#### [인도, ‘바퀴벌레’ 활동가들의 의회 행진 금지…대치 상황 임박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670975)
+#### [대만 대통령, 자당에게 중국의 ‘붉은 테러’에 반대할 것을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670976)
+#### [[속보] 에어캡, 영국 에어쇼에서 보잉 787 드림라이너 항공기 구매 협상 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670974)
+#### [보잉, 2028년 ‘에어포스 원’ 인도 일정 순조롭게 진행 중… 비용 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670973)
+#### [국경 담당 고위 관료, “ICE 요원들이 차량 검문 시 바디캠 착용할 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670972)
+#### [가이아나 연안에서 여객선이 침몰해 수십 명이 실종됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670971)
+#### [[속보] 선전 트랜션 홀딩스, 상반기 순이익 전년 동기 대비 44.82% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670970)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688036.SS/total>
+#### [캐나다, 유엔의 권고와 달리 최근 콩고를 방문한 외국인의 입국을 일시적으로 금지할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670969)
 #### [중국 국영 투자자들, 추가 주식 매입을 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670968)
 #### [제작사에 따르면 영화 ‘오디세이’가 전 세계 박스오피스에서 2억 6,410만 달러의 수익을 올렸다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670967)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CMCSA.O/total>
@@ -54,20 +67,3 @@
 #### [독일의 메르츠, 내각 개편 가능성 시사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670923)
 #### [러시아, 대규모 탄도 미사일 공격으로 키예프를 강타](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670922)
 #### [[속보 1] 미국 대사관, “신빙성 있는 위협”으로 요르단 공항 및 항구 대피 조치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670921)
-#### [미국 대사관, “신빙성 있는 위협”으로 요르단의 공항 및 항구 대피 조치 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670920)
-#### [타스님 통신에 따르면, 이란 혁명수비대는 호르무즈 해협 경고에 불응한 두 척의 선박이 ‘사고’를 당했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670919)
-#### [젤렌스키 대통령, “우크라이나가 러시아 스타브로폴 지역의 석유 저장소 3곳을 공격했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670918)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670917)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670916)
-#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670915)
-#### [[속보] 충칭 폴리콤프 인터내셔널, 상반기 순이익 전년 동기 대비 151%~194% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670914)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301526.SZ/total>
-#### [반도체주 매도세로 인해 CXMT의 86억 달러 규모 상하이 기업공개(IPO)에 대한 기관 투자자들의 수요가 위축됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670913)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
-#### [메타의 페이스북과 인스타그램 이용자들이 일부 서비스 장애를 겪고 있다고 보고하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670912)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [[속보] Eoptolink Technology, 상반기 순이익 전년 동기 대비 77.56%~102.93% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670911)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300502.SZ/total>
-#### [NHC 폭풍 주의보: 저기압이 이번 주 후반 동태평양 해상에서 허리케인으로 발달할 것으로 예보됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670910)
-#### [[속보] 샤레트로닉 데이터 테크놀로지, 상반기 순이익 전년 동기 대비 247.18%~339.76% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670909)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300857.SZ/total>
