@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260719_1317 </title></head>
-<center>Vers : 20260719_1317 </center>
-<center>Vers : 20260719_2217 </center>
+<head><meta charset="utf-8"><title>Vers : 20260719_1455 </title></head>
+<center>Vers : 20260719_1455 </center>
+<center>Vers : 20260719_2355 </center>
 <br><br><br>
+#### [캐나다가 최근 콩고를 방문한 외국인의 입국을 일시적으로 금지할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670959)
+#### [NHC 폭풍 주의보: 저기압이 향후 며칠 동안 상당히 강해질 것으로 예상됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670958)
+#### [NHC 폭풍 주의보: 엘리다가 며칠 내로 잔류 저기압으로 약화될 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670957)
+#### [벨기에 대회에서 안토넬리가 우승, 러셀은 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670956)
+#### [모터 레이싱 - 벨기에 그랑프리 패배 후 “실망감조차 느껴지지 않는다”는 러셀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670955)
+#### [보잉, 파른보러 에어쇼에서 신규 수주보다 생산에 주력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670954)
+#### [토요타의 파하리가 에스토니아에서 WRC 첫 우승을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670953)
+#### [F1 챔피언십 우승 후보 러셀, 벨기에 그랑프리 불참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670952)
+#### [보잉, 737 MAX 생산량 추가 확대 방안 검토 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670951)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670950)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670949)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670948)
 #### [국영 통신사 보도에 따르면 요르단이 이란의 미사일 3발을 요격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670947)
 #### [월가 주간 전망-미국 기업 실적 발표가 본격화되는 가운데, AI 관련 투자 동향의 초점은 알파벳과 인텔의 실적에 쏠려 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670946)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
@@ -60,6 +72,10 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601088.SS/total>
 #### [CPC, 유조선에 대한 드론 공격으로 카스피안 파이프라인 컨소시엄(CPC)의 원유 선적 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670901)
 #### [대만 대통령은 “민주적인 대만이 ‘중국의 대만’이 되어서는 안 된다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670900)
+<head><meta charset="utf-8"><title>Vers : 20260719_1455 </title></head>
+<center>Vers : 20260719_1455 </center>
+<center>Vers : 20260719_2355 </center>
+<br><br><br>
 #### [중국 남부, 추가 강우에 대비…충칭 산사태 수색 작업 계속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670899)
 #### [CPC, 유조선에 대한 드론 공격으로 카스피안 파이프라인 컨소시엄(CPC)의 원유 선적 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670898)
 #### [REFILE-BUZZ-IMM: 대규모 파운드 매수 속에 달러 롱 포지션 감소; 캐나다 달러 숏 포지션 증가, 엔화 숏 포지션은 안정세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670897)
@@ -72,10 +88,6 @@
 #### [키예프 당국, “러시아가 발사한 미사일 41발 중 18발을 우크라이나가 격추했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670890)
 #### [레바논의 아운, 백악관에서 트럼프 대통령과 회동… 이스라엘에 대한 압박을 가하기를 희망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670889)
 #### [중국의 ‘문샷 AI’, AI 기술 돌파구 마련 후 빠르면 6개월 내 기업공개(IPO) 추진 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670888)
-<head><meta charset="utf-8"><title>Vers : 20260719_1317 </title></head>
-<center>Vers : 20260719_1317 </center>
-<center>Vers : 20260719_2217 </center>
-<br><br><br>
 #### [미국 연방 보안관, ‘과도한 남성성’을 내세우는 소셜 미디어 스타 앤드류와 트리스탄 테이트를 체포…영국, 인도 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670887)
 #### [싱가포르 금융당국, 홍콩에 대항하기 위해 헤지펀드 세금 감면 검토 - 파이낸셜 타임스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670886)
 #### [인도 활동가 왕축의 아내가 법원에 남편을 사립 병원으로 이송해 줄 것을 요청했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670885)
@@ -126,6 +138,10 @@
 #### [천연가스 파이프라인 긴급 공지: 2026년 7월 19일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670842)
 #### [사이클로스포리아증 환자 증가에 따라 월마트, 봉지 포장 상추 샐러드 4종 판매 중단- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670841)
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670840)
+<head><meta charset="utf-8"><title>Vers : 20260719_1455 </title></head>
+<center>Vers : 20260719_1455 </center>
+<center>Vers : 20260719_2355 </center>
+<br><br><br>
 #### [프랑스의 10대 선수 세이샤스, 투르 드 프랑스 포디움 등극의 꿈이 현실로 다가오며 화이트 저지를 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670839)
 #### [테일러 팜스, 식중독 발생에 따라 리콜 대상 상추 제품 목록 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670838)
 #### [파이낸셜타임스(FT) 보도에 따르면, 트럼프 행정부가 미국의 원조 정책을 재편하면서 유럽 내 ‘MAGA’ 성향의 프로젝트에 자금을 지원할 예정이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670837)
@@ -138,10 +154,6 @@
 #### [UKMTO, 오만 두크무 동쪽 해상에서 군 부대가 연루된 유조선 사고 발생 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670830)
 #### [이란 최고 지도자, 미국의 약속 위반은 트럼프의 서명이 “무가치하다”는 것을 보여준다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670829)
 #### [온타리오주, 산불 활동 둔화 조짐… 호전될 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670828)
-<head><meta charset="utf-8"><title>Vers : 20260719_1317 </title></head>
-<center>Vers : 20260719_1317 </center>
-<center>Vers : 20260719_2217 </center>
-<br><br><br>
 #### [사이클 - 포가카르, 투르 드 프랑스 14단계에서 단독 우승을 차지하며 종합 선두 격차를 벌렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670827)
 #### [헝가리 대통령이 자신의 임기를 종료하는 법 개정안에 서명했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670826)
 #### [마르코 바세티, 글로벌 엔터테인먼트가 여전히 지역 문화에 의존하는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670825)
@@ -190,17 +202,3 @@
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670782)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670781)
 #### [소식통에 따르면, 주문 지연과 혼란으로 인해 베네수엘라 군의 지진 대응이 더뎌졌다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670780)
-#### [노르웨이에서 화재로 100채 이상의 주택이 전소되면서 수백 명이 대피했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670779)
-#### [중국은 영국이 브리티시 스틸을 국유화한 데 대해 조치를 취하겠다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670778)
-#### [인도의 ICICI 은행, 1분기 순이익 15.9% 증가…예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670777)
-#### [국영 언론에 따르면, 쿠웨이트 석유공사는 이란의 공격으로 인한 피해와 부상자가 발생했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670776)
-#### [인도의 HDFC 은행, 1분기 순이익 5% 증가…예상치 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670775)
-#### [반발이 거세지면서 미국 내 데이터센터 반대 시위가 전국적으로 확산되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670774)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [이번 주 브레이킹뷰스: 주식 매수 전략](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670773)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
-#### [의사들, 테스토스테론 검사 도입을 위한 국방부 계획의 근거에 의문 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670772)
-#### [독일 내무장관, 신문과의 인터뷰에서 보안 경보 수준을 ‘고위협 단계’로 상향 조정했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670771)
-#### [인도의 예스뱅크, 대출 증가에 힘입어 순이익 34% 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670770)
-#### [인도의 코탁 은행, 1분기 순이익 26% 급증…예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670769)
-#### [NHC 폭풍 주의보: 엘리다가 세기가 약간 강해졌으나 수온이 낮은 해역으로 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670768)
