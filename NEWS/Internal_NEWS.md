@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260719_2252 </title></head>
-<center>Vers : 20260719_2252 </center>
-<center>Vers : 20260720_0752 </center>
+<head><meta charset="utf-8"><title>Vers : 20260719_2348 </title></head>
+<center>Vers : 20260719_2348 </center>
+<center>Vers : 20260720_0848 </center>
 <br><br><br>
+#### [USD/JPY-매수세 있지만, 일본의 공휴일로 인해 개입 위험 고조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671033)
+#### [아시아 시장 전망- 위험 회피 심리, 엔화 개입 동향 주시, 중국 금리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671032)
+#### [데이터에 따르면 호르무즈 해협에 들어와 원유를 적재하는 유조선은 거의 없는 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671031)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671030)
+#### [삼성바이오로직스, 폴리펩타이드에 18억 달러 규모의 전액 현금 인수 제안을 내놓을 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671029)
+#### [영국의 최고재무책임자들, AI에 대한 기대감 높아져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671028)
+#### [라이트무브, “무더위와 월드컵이 영국 부동산 매도 호가에 타격”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671027)
+#### [“영국을 새롭게 재편하겠다”고 다짐한 ‘북부의 왕’ 번햄, 총리에 취임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671026)
+#### [TSMC는 애리조나 투자 규모를 확대함에 따라 AI 칩에 대한 “강력하고 수년에 걸친” 수요가 이어질 것으로 전망하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671025)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [[속보] 삼성바이오로직스, 2.7조 원에 폴리펩타이드 그룹 AG 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671024)
+#### [[속보] 폴리펩타이드, 2026 회계연도 실적 전망을 매출 25~30% 성장, EBITDA 마진 10%대 후반으로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671023)
+#### [스페이스X, 스타십 발사 시도를 목요일로 연기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671022)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [[속보] 삼성바이오로직스, 폴리펩타이드 주당 44.31 스위스 프랑에 인수… 지분 가치 14억 6천만 스위스 프랑](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671021)
 #### [스페이스X, 스타십 발사 시도를 목요일로 연기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671020)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
 #### [JD 밴스 미국 부통령, 아들 탄생 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671019)
@@ -55,19 +70,3 @@
 #### [인도, ‘바퀴벌레’ 활동가들의 의회 행진 금지…대치 상황 임박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670975)
 #### [대만 대통령, 자당에게 중국의 ‘붉은 테러’에 반대할 것을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670976)
 #### [[속보] 에어캡, 영국 에어쇼에서 보잉 787 드림라이너 항공기 구매 협상 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670974)
-#### [보잉, 2028년 ‘에어포스 원’ 인도 일정 순조롭게 진행 중… 비용 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670973)
-#### [국경 담당 고위 관료, “ICE 요원들이 차량 검문 시 바디캠 착용할 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670972)
-#### [가이아나 연안에서 여객선이 침몰해 수십 명이 실종됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670971)
-#### [[속보] 선전 트랜션 홀딩스, 상반기 순이익 전년 동기 대비 44.82% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670970)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688036.SS/total>
-#### [캐나다, 유엔의 권고와 달리 최근 콩고를 방문한 외국인의 입국을 일시적으로 금지할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670969)
-#### [중국 국영 투자자들, 추가 주식 매입을 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670968)
-#### [제작사에 따르면 영화 ‘오디세이’가 전 세계 박스오피스에서 2억 6,410만 달러의 수익을 올렸다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670967)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CMCSA.O/total>
-#### [루비오, 레바논 대통령과 회동… 이스라엘-레바논 기본 합의안 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670966)
-#### [사이클 - 2회 우승자 빈게가르드, 15단계 경기 중 추락 사고로 투르 드 프랑스 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670965)
-#### [페루 중부에서 규모 5.6의 지진 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670964)
-#### [유니버설 픽처스에 따르면, 영화 ‘오디세이’는 전 세계 박스오피스에서 2억 6,410만 달러의 수익을 올렸다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670963)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CMCSA.O/total>
-#### [모터 레이싱 - 안토넬리, 벨기에에서 우승… 러셀은 사고로 탈락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670962)
-#### [2회 우승자 빈게가르드, 15단계 경기 중 추락 사고로 투르 드 프랑스 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670961)
