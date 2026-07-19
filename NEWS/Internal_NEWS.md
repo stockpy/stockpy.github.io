@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260719_2137 </title></head>
-<center>Vers : 20260719_2137 </center>
-<center>Vers : 20260720_0637 </center>
+<head><meta charset="utf-8"><title>Vers : 20260719_2252 </title></head>
+<center>Vers : 20260719_2252 </center>
+<center>Vers : 20260720_0752 </center>
 <br><br><br>
+#### [스페이스X, 스타십 발사 시도를 목요일로 연기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671020)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [JD 밴스 미국 부통령, 아들 탄생 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671019)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671018)
+#### [AUD/USD-이란 전쟁이 격화되면서 장 초반 하락 압력 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671017)
+#### [[속보] 트럼프 미디어, 법적 분쟁 합의했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671016)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DJT.O/total>
+#### [미국과 이란이 중동에서 공방을 격화시키면서 유가가 급등했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671015)
+#### [인프라 목표 달성함에 따라 EU 충전망이 전기차 판매량을 앞지르고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671014)
+#### [애리조나주 투손에서 발생한 총기 사건으로 용의자를 포함해 10명이 부상을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671013)
+#### [분석-한국 주식이 어떻게 믿음직한 선행지표에서 AI 열풍의 중심이 되었는가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671012)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7709.HK/total>
+#### [캐나다 유니포(Unifor) 조합원들이 포드와 체결한 3년짜리 노사협정을 비준했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671011)
 #### [[속보] 유니포어, 캐나다 포드 모터 컴퍼니와 3년짜리 단체협약이 조합원들의 승인을 받았다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671010)
 #### [NHC 폭풍 주의보: 플로리다 서부 해안 앞바다에서 제자리걸음을 하고 있는 열대저기압](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671009)
 #### [NHC 폭풍 주의보: 엘리다가 며칠 내로 잔류 저기압으로 약화될 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2671008)
@@ -58,13 +71,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CMCSA.O/total>
 #### [모터 레이싱 - 안토넬리, 벨기에에서 우승… 러셀은 사고로 탈락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670962)
 #### [2회 우승자 빈게가르드, 15단계 경기 중 추락 사고로 투르 드 프랑스 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670961)
-#### [미국 허리케인 센터, “플로리다주 서부 해안에서 제2호 열대저기압 발생”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670960)
-#### [캐나다가 최근 콩고를 방문한 외국인의 입국을 일시적으로 금지할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670959)
-#### [NHC 폭풍 주의보: 저기압이 향후 며칠 동안 상당히 강해질 것으로 예상됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670958)
-#### [NHC 폭풍 주의보: 엘리다가 며칠 내로 잔류 저기압으로 약화될 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670957)
-#### [벨기에 대회에서 안토넬리가 우승, 러셀은 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670956)
-#### [모터 레이싱 - 벨기에 그랑프리 패배 후 “실망감조차 느껴지지 않는다”는 러셀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670955)
-#### [보잉, 파른보러 에어쇼에서 신규 수주보다 생산에 주력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670954)
-#### [토요타의 파하리가 에스토니아에서 WRC 첫 우승을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670953)
-#### [F1 챔피언십 우승 후보 러셀, 벨기에 그랑프리 불참](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670952)
-#### [보잉, 737 MAX 생산량 추가 확대 방안 검토 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2670951)
