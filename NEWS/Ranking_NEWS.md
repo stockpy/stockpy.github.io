@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260720_1820 </title></head>
-<center>Vers : 20260720_1820 </center>
-<center>Vers : 20260721_0320 </center>
+<head><meta charset="utf-8"><title>Vers : 20260720_2000 </title></head>
+<center>Vers : 20260720_2000 </center>
+<center>Vers : 20260721_0500 </center>
 <br><br><br>
 #### [“주가 급락에 6억 성과급? 못 참아”…삼성전자 소액주주 국민연금에 서한 발송](https://m.stock.naver.com/news/ranknews/view/009/0005709812)
 #### ['삼전닉스' 물린 개미 버틸 이유 생기나…깜짝 전망 나온다 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005311861)
