@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260722_1918 </title></head>
-<center>Vers : 20260722_1918 </center>
-<center>Vers : 20260723_0418 </center>
+<head><meta charset="utf-8"><title>Vers : 20260722_2107 </title></head>
+<center>Vers : 20260722_2107 </center>
+<center>Vers : 20260723_0607 </center>
 <br><br><br>
 #### ["삼전닉스 비중 줄여라" 했던 모건스탠리…2주 만에 '돌변' [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005312799)
 #### [황현희“목에 칼 들어와도 지금 주식시장 안 들어가”](https://m.stock.naver.com/news/ranknews/view/021/0002806293)
