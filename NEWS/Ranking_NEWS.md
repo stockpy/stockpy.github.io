@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260723_1747 </title></head>
-<center>Vers : 20260723_1747 </center>
-<center>Vers : 20260724_0247 </center>
+<head><meta charset="utf-8"><title>Vers : 20260723_1917 </title></head>
+<center>Vers : 20260723_1917 </center>
+<center>Vers : 20260724_0417 </center>
 <br><br><br>
 #### [“순식간에 주가 3분의1 토막, 빠져나올 틈도 안줘”…코오롱티슈진 3일 연속 하한가](https://m.stock.naver.com/news/ranknews/view/009/0005711445)
 #### [곽범 “삼성전자 6만원일때 1억 매수했다” 깜짝 고백…매도가는?](https://m.stock.naver.com/news/ranknews/view/021/0002806600)
