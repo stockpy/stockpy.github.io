@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260724_1924 </title></head>
-<center>Vers : 20260724_1924 </center>
-<center>Vers : 20260725_0424 </center>
+<head><meta charset="utf-8"><title>Vers : 20260724_2103 </title></head>
+<center>Vers : 20260724_2103 </center>
+<center>Vers : 20260725_0603 </center>
 <br><br><br>
 #### ["하이닉스 290만→190만원됐는데"...하락장에서 주가 2배 뛴 SK이터닉스](https://m.stock.naver.com/news/ranknews/view/014/0005552276)
 #### [삼성전자 58,000원에 '1,000주' 사놓고…김선태, 국장 투자 후회한 사연](https://m.stock.naver.com/news/ranknews/view/215/0001259917)
