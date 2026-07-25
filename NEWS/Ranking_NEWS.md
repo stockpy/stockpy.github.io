@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260725_1759 </title></head>
-<center>Vers : 20260725_1759 </center>
-<center>Vers : 20260726_0259 </center>
+<head><meta charset="utf-8"><title>Vers : 20260725_1921 </title></head>
+<center>Vers : 20260725_1921 </center>
+<center>Vers : 20260726_0421 </center>
 <br><br><br>
 #### [“60만전자·420만닉스 시대 온다”… 전문가들이 꼽은 역대급 매수 기회 ‘이것’](https://m.stock.naver.com/news/ranknews/view/009/0005712148)
 #### ["이미 도박판 됐다…한국 개미들 빼내기 어려울듯" 레버리지 쏠림에 '카지노 비유'까지 등장](https://m.stock.naver.com/news/ranknews/view/277/0005794495)

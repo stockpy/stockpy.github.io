@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260725_1759 </title></head>
-<center>Vers : 20260725_1759 </center>
-<center>Vers : 20260726_0259 </center>
+<head><meta charset="utf-8"><title>Vers : 20260725_1921 </title></head>
+<center>Vers : 20260725_1921 </center>
+<center>Vers : 20260726_0421 </center>
 <br><br><br>
+#### [이란, 우크라이나의 카스피해 선박 공격으로 선원 1명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679582)
+#### [뉴욕시 화재로 최소 21명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679581)
+#### [우크라이나 젤렌스키 대통령: 러시아, 분쟁 지역에 북한군 3만 명 투입하려 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679580)
+#### [우크라이나 젤렌스키 대통령: 러시아 위성이 테헤란의 중동 지역 공습을 지원하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679579)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679578)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679577)
+#### [스텔라, “맥라렌, 헝가리 그랑프리 폴 포지션 획득에 깜짝 놀랐다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679576)
+#### [노르웨이의 가스스코, 예기치 못한 가스 공급 중단 기간 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679575)
+#### [우크라이나 젤렌스키 대통령: 러시아, 분쟁 지역에 북한군 3만 명 투입하려 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679574)
 #### [보르도 외곽에서 산불로 대피령 내려… 스페인 산불로 첫 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679573)
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679572)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679571)
@@ -53,12 +62,3 @@
 #### [교육부 장관의 사임을 이끌어낸 인도의 ‘바퀴벌레’ 시위는 어떻게 시작되었나?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679525)
 #### [인도에서 벌어진 20년간의 대규모 시위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679524)
 #### [“해냈다”: 인도 시위대, 교육부 장관 사임에 환호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679523)
-#### [나토 군사본부에서 근무하던 캐나다인 인턴, 간첩 혐의로 벨기에에서 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679522)
-#### [“두려움이 그녀를 죽였다”: 인도의 시험 비리가 어떻게 학생 봉기를 촉발했는지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679521)
-#### [소남 왕추크: 모디에 맞서 인도의 Z세대를 결집시켜 승리를 거둔 59세 여성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679520)
-#### [산불이 맹렬히 번지는 가운데 스페인 군 소방대원들이 화염과 사투를 벌이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679519)
-#### [우크라이나는 카스피해에 있는 러시아 석유 시추 플랫폼을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679518)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679517)
-#### [우크라이나는 카스피해에서 러시아 군함과 이란과 관련된 군사 물자 수송에 사용된 선박들을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679516)
-#### [우크라이나는 러시아의 정유 시설과 방위 산업 부품 생산 시설을 공습했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679515)
-#### [스위스 치즈 제조업체들, 미국 관세로 인한 매출 공백을 메우려 애쓰고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679514)
