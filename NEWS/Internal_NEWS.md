@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260725_1921 </title></head>
-<center>Vers : 20260725_1921 </center>
-<center>Vers : 20260726_0421 </center>
+<head><meta charset="utf-8"><title>Vers : 20260725_2052 </title></head>
+<center>Vers : 20260725_2052 </center>
+<center>Vers : 20260726_0552 </center>
 <br><br><br>
+#### [이란, 카스피해에서 우크라이나의 선박 공격으로 선원 1명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679591)
+#### [NHC 폭풍 주의보: 제네비브가 허리케인에 근접했으며, 다음 주 초까지 대형 허리케인으로 발달할 것으로 예보됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679590)
+#### [천연가스 파이프라인 긴급 공지: 2026년 7월 26일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679589)
+#### [이란 혁명수비대, “영국이 전쟁에서 미국을 지지할 경우 표적이 될 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679588)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679587)
+#### [플라비오 볼소나루, 브라질 대선 출마 선언…밀레이·네타냐후의 지지를 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679586)
+#### [미국 항소법원, 트럼프 전 대통령이 우편 투표 명령을 시행할 수 없다고 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679585)
+#### [미국 항소법원, 트럼프 전 대통령이 우편 투표 명령을 시행할 수 없다고 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679584)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679583)
 #### [이란, 우크라이나의 카스피해 선박 공격으로 선원 1명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679582)
 #### [뉴욕시 화재로 최소 21명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679581)
 #### [우크라이나 젤렌스키 대통령: 러시아, 분쟁 지역에 북한군 3만 명 투입하려 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679580)
@@ -53,12 +62,3 @@
 #### [인도 청년 시위대, 정부와의 협상 끝에 시위 종결에 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679534)
 #### [예멘의 후티 반군은 사우디의 지잔과 얀부에 위치한 아람코 시설을 대상으로 작전을 수행했다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679533)
 #### [노리스, 헝가리 그랑프리 최종 자유 연습 주행에서 1위, 해밀턴 2위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679532)
-#### [중국 남부, 태풍 ‘누울’에 대비하며 대중교통 운행 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679531)
-#### [예멘 공군이 마리브와 알자우프에 있는 후티 반군의 미사일 및 드론 발사 기지를 공습했다고 당국자들이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679530)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679529)
-#### [프랑스, 유대교 회당을 겨냥한 음모 혐의로 6명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679528)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679527)
-#### [모터 레이싱 - 노리스, “F1은 비즈니스와 스포츠 간의 균형을 더 잘 맞춰야 한다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679526)
-#### [교육부 장관의 사임을 이끌어낸 인도의 ‘바퀴벌레’ 시위는 어떻게 시작되었나?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679525)
-#### [인도에서 벌어진 20년간의 대규모 시위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679524)
-#### [“해냈다”: 인도 시위대, 교육부 장관 사임에 환호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679523)
