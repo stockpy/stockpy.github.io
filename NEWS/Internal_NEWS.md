@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260725_2144 </title></head>
-<center>Vers : 20260725_2144 </center>
-<center>Vers : 20260726_0644 </center>
+<head><meta charset="utf-8"><title>Vers : 20260725_2255 </title></head>
+<center>Vers : 20260725_2255 </center>
+<center>Vers : 20260726_0755 </center>
 <br><br><br>
+#### [밤사이 러시아의 공격으로 우크라이나 수도 키예프에서 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679598)
+#### [우크라이나 공군은 러시아군이 탄도 미사일로 키예프를 공격하고 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679597)
+#### [베를린 프라이드 행사에서 발생한 공격으로 다수의 부상자가 발생했으며, 생명이 위태로운 상태라고 경찰이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679596)
 #### [[속보 1] 경찰, 차량이 군중을 들이받은 후 베를린 프라이드 퍼레이드 취소되었다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679595)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679594)
 #### [경찰에 따르면, 차량이 군중을 들이받은 사고로 베를린 프라이드 퍼레이드가 취소되었다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679593)
@@ -59,6 +62,3 @@
 #### [킹스턴 코젠 온타리오 140 MW 데스텍 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679541)
 #### [우크라이나 내 러시아 점령 지역 주지사는 휴양 캠프에 대한 공격으로 사망자 수가 11명으로 늘어났다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679540)
 #### [인도, 새로운 관세 조치 이후에도 미국과의 무역 협상을 지속할 방침](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679539)
-#### [의료진과 경찰 관계자들에 따르면, 이스라엘이 가자지구에서 하마스 산하 경찰 고위 간부를 사살했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679538)
-#### [종합 1-산불로 보르도 외곽에서 대피령 내려… 스페인 산불은 강풍에 부채질되어 확산](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679537)
-#### [산불로 보르도 외곽에서 대피령 내려… 스페인 산불, 강풍에 불길 확산](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679536)
