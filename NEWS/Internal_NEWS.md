@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260725_1656 </title></head>
-<center>Vers : 20260725_1656 </center>
-<center>Vers : 20260726_0156 </center>
+<head><meta charset="utf-8"><title>Vers : 20260725_1759 </title></head>
+<center>Vers : 20260725_1759 </center>
+<center>Vers : 20260726_0259 </center>
 <br><br><br>
+#### [보르도 외곽에서 산불로 대피령 내려… 스페인 산불로 첫 사망자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679573)
+#### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679572)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679571)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679570)
+#### [이란 석유부 장관은 전쟁과 휴전 기간 동안 180억 달러 상당의 원유를 판매했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679569)
 #### [인도 시위대가 승리를 선언하는 가운데 모디 총리의 교육부 장관이 사임했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679568)
 #### [메인주 민주당, 연방 상원 선거에서 플랫너의 후임으로 트로이 잭슨을 후보로 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679567)
 #### [LSEG의 리퍼(Lipper), 고정수익 펀드 자금 흐름 데이터에 영향을 미치는 거래 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679566)
@@ -57,9 +62,3 @@
 #### [우크라이나는 카스피해에서 러시아 군함과 이란과 관련된 군사 물자 수송에 사용된 선박들을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679516)
 #### [우크라이나는 러시아의 정유 시설과 방위 산업 부품 생산 시설을 공습했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679515)
 #### [스위스 치즈 제조업체들, 미국 관세로 인한 매출 공백을 메우려 애쓰고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679514)
-#### [메인주 민주당, 연방 상원 선거에서 플랫너의 후임으로 트로이 잭슨을 후보로 지명할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679513)
-#### [다니엘 핀녹, 우피 골드버그의 상징적인 독백을 무대로 되살리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679512)
-#### [이번 주 브레이킹뷰스: AI 모델들이 맞부딪칠 때](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679511)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [트럼프 행정부의 이번 관세 조치는 당분간 지속될 것으로 보이며, 추가 관세도 이어질 전망이다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679510)
-#### [미시간주, 트럼프 행정부의 예산 삭감으로 혼란에 빠진 가운데 대규모 감염 확산과 맞서 싸우고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679509)
