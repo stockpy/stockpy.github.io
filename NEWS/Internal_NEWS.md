@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260725_2052 </title></head>
-<center>Vers : 20260725_2052 </center>
-<center>Vers : 20260726_0552 </center>
+<head><meta charset="utf-8"><title>Vers : 20260725_2144 </title></head>
+<center>Vers : 20260725_2144 </center>
+<center>Vers : 20260726_0644 </center>
 <br><br><br>
+#### [[속보 1] 경찰, 차량이 군중을 들이받은 후 베를린 프라이드 퍼레이드 취소되었다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679595)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679594)
+#### [경찰에 따르면, 차량이 군중을 들이받은 사고로 베를린 프라이드 퍼레이드가 취소되었다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679593)
+#### [푸틴 대통령과 함께 연설한 카자흐스탄 대통령이 우크라이나 전쟁 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679592)
 #### [이란, 카스피해에서 우크라이나의 선박 공격으로 선원 1명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679591)
 #### [NHC 폭풍 주의보: 제네비브가 허리케인에 근접했으며, 다음 주 초까지 대형 허리케인으로 발달할 것으로 예보됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679590)
 #### [천연가스 파이프라인 긴급 공지: 2026년 7월 26일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679589)
@@ -58,7 +62,3 @@
 #### [의료진과 경찰 관계자들에 따르면, 이스라엘이 가자지구에서 하마스 산하 경찰 고위 간부를 사살했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679538)
 #### [종합 1-산불로 보르도 외곽에서 대피령 내려… 스페인 산불은 강풍에 부채질되어 확산](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679537)
 #### [산불로 보르도 외곽에서 대피령 내려… 스페인 산불, 강풍에 불길 확산](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679536)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679535)
-#### [인도 청년 시위대, 정부와의 협상 끝에 시위 종결에 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679534)
-#### [예멘의 후티 반군은 사우디의 지잔과 얀부에 위치한 아람코 시설을 대상으로 작전을 수행했다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679533)
-#### [노리스, 헝가리 그랑프리 최종 자유 연습 주행에서 1위, 해밀턴 2위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679532)
