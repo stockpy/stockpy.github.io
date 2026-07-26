@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260726_1700 </title></head>
-<center>Vers : 20260726_1700 </center>
-<center>Vers : 20260727_0200 </center>
+<head><meta charset="utf-8"><title>Vers : 20260726_1909 </title></head>
+<center>Vers : 20260726_1909 </center>
+<center>Vers : 20260727_0409 </center>
 <br><br><br>
 #### ["급락에 던졌는데 어쩌나"…삼전닉스 55만원·420만원, 팔 때 아닌 살 때?[주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005794563)
 #### [[증시 예보] “떨리다 못해 무서울 지경” 드디어 ‘삼전닉스’ 실적 나온다…‘이번 주’가 분수령](https://m.stock.naver.com/news/ranknews/view/016/0002675216)
