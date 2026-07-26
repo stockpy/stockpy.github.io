@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260726_2057 </title></head>
-<center>Vers : 20260726_2057 </center>
-<center>Vers : 20260727_0557 </center>
+<head><meta charset="utf-8"><title>Vers : 20260726_2202 </title></head>
+<center>Vers : 20260726_2202 </center>
+<center>Vers : 20260727_0702 </center>
 <br><br><br>
+#### [베를린 프라이드 행사 공격 용의자, 테러 연루 의혹 제기된 뒤 사살](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679756)
+#### [미국 서부 전력망 운영사, 7개 주에서 비상 상황이 지속될 수 있다고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679755)
+#### [영국의 번햄, 젤렌스키를 첫 번째 외국 방문객으로 맞이할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679754)
+#### [유전 서비스 업체 베이커 휴즈, 2분기 실적 전망치를 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679753)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
+#### [포먼, 사제락으로부터 이사회에 비공식 인수 제의 접수했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679752)
+#### [천연가스 파이프라인 긴급 공지: 2026년 7월 27일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679751)
+#### [[속보] 베이커 휴즈, 2분기 조정 주당순이익(EPS) 0.64달러…IBES 예상치 0.5달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679750)
 #### [주말 뉴스-미국·이란, 소강 상태; 후티 반군, 사우디 석유 시설 공격; 한국-미국 간 기술 협력 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679749)
 #### [NHC 폭풍 주의보: 대형 허리케인 제네비브가 계속해서 급속히 세력을 키우고 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679748)
 #### [BUZZ-재방송-호주달러 강세와 약세, 파운드화 압박, 엔화 폭락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679747)
@@ -55,10 +63,3 @@
 #### [인도 모디 총리, 시위 여파로 시험 제도 개편을 위한 위원회 구성 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679699)
 #### [루라, 워싱턴 포스트 기고문에서 미국의 새로운 관세 조치를 실수라고 지적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679698)
 #### [베를린 프라이드 행사 공격 사건, LGBTQ 커뮤니티에 대한 애도와 연대의 물결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679697)
-#### [노리스, 맥라렌 소속으로 헝가리 그랑프리 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679696)
-#### [NHC 폭풍 주의보: 제네비브가 계속해서 급속히 세력을 키우고 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679695)
-#### [[종합 1] 트럼프 대통령이 공습을 취소한 후, 이란 소식통은 “미국이 공습 중단을 유지하는 한 이란도 공격을 중단할 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679694)
-#### [Shein, 홍콩 상장 앞두고 분기 적자로 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679693)
-#### [메르츠, 베를린 프라이드 행사 공격 사건에 대해 “후과가 따를 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679692)
-#### [러시아 엘브루스 산에서 보스니아 등반가 5명이 사망한 것으로 추정된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679691)
-#### [러시아의 공습으로 우크라이나인 어머니 1명이 사망하고 자녀 2명이 부상을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679690)
