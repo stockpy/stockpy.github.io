@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260726_1909 </title></head>
-<center>Vers : 20260726_1909 </center>
-<center>Vers : 20260727_0409 </center>
+<head><meta charset="utf-8"><title>Vers : 20260726_2057 </title></head>
+<center>Vers : 20260726_2057 </center>
+<center>Vers : 20260727_0557 </center>
 <br><br><br>
+#### [주말 뉴스-미국·이란, 소강 상태; 후티 반군, 사우디 석유 시설 공격; 한국-미국 간 기술 협력 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679749)
+#### [NHC 폭풍 주의보: 대형 허리케인 제네비브가 계속해서 급속히 세력을 키우고 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679748)
+#### [BUZZ-재방송-호주달러 강세와 약세, 파운드화 압박, 엔화 폭락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679747)
+#### [영국의 세리카 에너지(Serica Energy), 1억 9,400만 달러 규모의 현금 거래를 통해 파로스(Pharos) 인수에 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679746)
+#### [BUZZ-COMMENT-이번 주 전망-중앙은행 회의, 이란 전쟁, 바쁜 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679745)
+#### [프레이저스 그룹, 마이클 머레이를 휴고 보스 수장으로 선임하기 위해 추진 중 - 더 타임스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679744)
+#### [시리아 대통령은 알자지라와의 인터뷰에서 자국이 이스라엘과 안보 협정을 맺고자 한다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679743)
+#### [러시아 엘브루스 산에서 보스니아 등반가 5명의 사망이 확인됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679742)
+#### [헝가리 대회에서 입은 부상으로 러셀, “실망의 경지를 넘어섰다”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679741)
 #### [“전장”: 공중에서 바라본 프랑스 산불의 모습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679740)
 #### [사이클-포가카르, 투르 드 프랑스 5회 우승으로 역대 최다 우승 기록과 동률을 이루며 왕조를 이어가다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679739)
 #### [United, 작년에 델타항공에 항공사 합병을 제안했다 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679738)
@@ -53,12 +62,3 @@
 #### [메르츠, 베를린 프라이드 행사 공격 사건에 대해 “후과가 따를 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679692)
 #### [러시아 엘브루스 산에서 보스니아 등반가 5명이 사망한 것으로 추정된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679691)
 #### [러시아의 공습으로 우크라이나인 어머니 1명이 사망하고 자녀 2명이 부상을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679690)
-#### [크렘린, 보도된 미·우크라이나 간 공중 휴전 협상에 대해 논평하기에는 아직 이르다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679689)
-#### [Shein, 홍콩 상장 앞두고 주요 재무 실적 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679688)
-#### [[속보 1] 트럼프, 이란 협상에 “약간의 여지”를 주고 있다고 미국 주유엔 대사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679687)
-#### [후티 반군의 사우디 홍해 석유 시설 공격 이후 걸프 지역 대부분 증시 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679686)
-#### [이란 소식통에 따르면, 미국이 최근의 공격 유예 조치를 유지하는 한 이란도 공격을 중단할 것이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679685)
-#### [[종합 2] 프랑스와 스페인이 산불 진압에 나서는 가운데, 산불이 보르도를 위협하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679684)
-#### [미국 주유엔 대사는 도널드 트럼프가 이란 협상에 “약간의 여지”를 주고 있다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679683)
-#### [독일 내무장관, 베를린 프라이드 행사에서 이슬람 극단주의자들의 공격이 있었음을 시사하는 정황이 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679682)
-#### [치명적인 충돌 이후 이스라엘 정착민들이 요르단강 서안 지구 모스크에 방화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679681)
