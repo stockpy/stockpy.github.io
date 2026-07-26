@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260725_2255 </title></head>
-<center>Vers : 20260725_2255 </center>
-<center>Vers : 20260726_0755 </center>
+<head><meta charset="utf-8"><title>Vers : 20260726_0000 </title></head>
+<center>Vers : 20260726_0000 </center>
+<center>Vers : 20260726_0900 </center>
 <br><br><br>
+#### [이란 전쟁이 홍해와 카스피해로 확산되는 가운데, 미국이 공습을 자제함에 따라 걸프 지역은 평온한 분위기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679603)
+#### [애플 TV, 코믹콘에서 ‘매치박스’, ‘뉴로맨서’, ‘메이데이’ 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679602)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679601)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679600)
+#### [미국이 공습을 자제함에 따라 이란 전쟁이 홍해와 카스피해로 확산된 반면, 페르시아만은 평온한 상태](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679599)
 #### [밤사이 러시아의 공격으로 우크라이나 수도 키예프에서 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679598)
 #### [우크라이나 공군은 러시아군이 탄도 미사일로 키예프를 공격하고 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679597)
 #### [베를린 프라이드 행사에서 발생한 공격으로 다수의 부상자가 발생했으며, 생명이 위태로운 상태라고 경찰이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679596)
@@ -57,8 +62,3 @@
 #### [미국, 브라질의 선거 제도를 조사하기 위해 특사를 파견할 계획이었다 - 소식통](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679546)
 #### [이몰라, F1 시즌 최종전 개최지로 거론…말레이시아 복귀 임박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679545)
 #### [의료진 및 경찰 관계자들에 따르면, 이스라엘이 가자지구에서 하마스 소속 고위 경찰 간부를 사살했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679544)
-#### [러시아, 휘발유 수출 금지 조치를 2026년 말까지 연장 - IFX, 부총리 발언 인용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679543)
-#### [이라크 방공군이 에르빌에 있는 미국 영사관 인근에서 드론을 격추했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679542)
-#### [킹스턴 코젠 온타리오 140 MW 데스텍 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679541)
-#### [우크라이나 내 러시아 점령 지역 주지사는 휴양 캠프에 대한 공격으로 사망자 수가 11명으로 늘어났다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679540)
-#### [인도, 새로운 관세 조치 이후에도 미국과의 무역 협상을 지속할 방침](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679539)
