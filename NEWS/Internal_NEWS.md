@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260726_2202 </title></head>
-<center>Vers : 20260726_2202 </center>
-<center>Vers : 20260727_0702 </center>
+<head><meta charset="utf-8"><title>Vers : 20260726_2308 </title></head>
+<center>Vers : 20260726_2308 </center>
+<center>Vers : 20260727_0808 </center>
 <br><br><br>
+#### [브라운-포먼 이사회, 사제락의 비공식 제안은 검토 대상이 아니라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679765)
+#### [[속보] 탈가 그룹과 일본 한와, 전략적 투자 및 구매 의향서(LoI) 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679764)
+#### [미국 에너지부, 서부 전력망에 추가 전력 자원 투입 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679763)
+#### [캘파인 온타리오의 517 MW 그린필드 에너지 센터 4호기 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679762)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679761)
+#### [캘파인 온타리오의 212 MW 그린필드 에너지 센터 3호기 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679760)
+#### [미국이 이란에 대한 공습을 중단하자 유가가 5% 이상 하락했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679759)
+#### [포먼 이사회, 사제락의 비공식 인수 제안은 실행할 가치가 없다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679758)
+#### [시리아 대통령, 알자지라와의 인터뷰에서 이스라엘과 안보 협정을 모색 중이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679757)
 #### [베를린 프라이드 행사 공격 용의자, 테러 연루 의혹 제기된 뒤 사살](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679756)
 #### [미국 서부 전력망 운영사, 7개 주에서 비상 상황이 지속될 수 있다고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679755)
 #### [영국의 번햄, 젤렌스키를 첫 번째 외국 방문객으로 맞이할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679754)
@@ -54,12 +63,3 @@
 #### [캘파인 온타리오의 212 MW 그린필드 에너지 센터 1호 가스 발전소가 가동을 재개했습니다 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679708)
 #### [캘파인 온타리오의 212 MW 그린필드 에너지 센터 3호기 가스 발전소가 가동을 재개했습니다 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679707)
 #### [캘파인 온타리오의 212 MW 그린필드 에너지 센터 2호기 가스 발전소가 가동을 재개했습니다 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679706)
-#### [캘파인 온타리오의 517 MW 그린필드 에너지 센터 4호 가스 화력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679705)
-#### [이란 외무장관, 우크라이나의 이란 선박 공격에 대해 “방치할 수 없다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679704)
-#### [2016년 이후 독일에서 발생한 주요 차량 돌진 사건](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679703)
-#### [트럼프 대통령의 사면 결정에 따라 온두라스 전 대통령 에르난데스 귀국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679702)
-#### [쿠바 대통령, 혁명 기념일을 맞아 미국을 ‘정치적 학살’로 비난](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679701)
-#### [모터 레이싱 - 노리스, 맥라렌 소속으로 헝가리 그랑프리 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679700)
-#### [인도 모디 총리, 시위 여파로 시험 제도 개편을 위한 위원회 구성 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679699)
-#### [루라, 워싱턴 포스트 기고문에서 미국의 새로운 관세 조치를 실수라고 지적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679698)
-#### [베를린 프라이드 행사 공격 사건, LGBTQ 커뮤니티에 대한 애도와 연대의 물결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679697)
