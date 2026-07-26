@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260726_0636 </title></head>
-<center>Vers : 20260726_0636 </center>
-<center>Vers : 20260726_1536 </center>
+<head><meta charset="utf-8"><title>Vers : 20260726_0859 </title></head>
+<center>Vers : 20260726_0859 </center>
+<center>Vers : 20260726_1759 </center>
 <br><br><br>
+#### [캘파인 온타리오의 517 MW 그린필드 에너지 센터 4호기 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679638)
+#### [베트남 선박 침몰로 실종된 17명을 찾기 위해 구조대가 남중국해를 샅샅이 수색 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679637)
+#### [루마니아 전투기, 자국 영공에서 3일 연속 드론 격추](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679636)
+#### [프랑스 소방관들이 보르도 지역으로 불길이 번지는 것을 막기 위해 진화 작업을 벌이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679635)
+#### [베를린 프라이드 행사 공격범을 추적 중인 경찰, 이슬람주의 용의자 신원 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679634)
+#### [영국의 번햄, “영국의 국익에 부합한다면 트럼프를 공개적으로 비판할 것”이라고 BBC에 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679633)
+#### [미국과 일본, 필리핀과 함께 남중국해 합동 훈련 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679632)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679631)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679630)
+#### [분석-인도 인스타그램 Z세대, 주요 주 선거를 앞두고 모디 총리의 위상에 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679629)
+#### [BUZZ-IMM: 유로·엔화 매도 속에 달러 순 투기적 매수 포지션 추가 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679628)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679627)
+#### [태풍 ‘누울’이 상륙한 후 중국 남부 지역에 폭우와 홍수 위험 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679626)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679625)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679624)
 #### [[속보] 아마르 파이낸스, BVI에 지블라(Jiblah) 유한회사 설립을 통해 투자 절차 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679623)
@@ -51,6 +64,10 @@
 #### [뉴욕시 화재로 최소 21명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679581)
 #### [우크라이나 젤렌스키 대통령: 러시아, 분쟁 지역에 북한군 3만 명 투입하려 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679580)
 #### [우크라이나 젤렌스키 대통령: 러시아 위성이 테헤란의 중동 지역 공습을 지원하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679579)
+<head><meta charset="utf-8"><title>Vers : 20260726_0900 </title></head>
+<center>Vers : 20260726_0900 </center>
+<center>Vers : 20260726_1800 </center>
+<br><br><br>
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679578)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679577)
 #### [스텔라, “맥라렌, 헝가리 그랑프리 폴 포지션 획득에 깜짝 놀랐다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679576)
@@ -64,10 +81,6 @@
 #### [인도 시위대가 승리를 선언하는 가운데 모디 총리의 교육부 장관이 사임했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679568)
 #### [메인주 민주당, 연방 상원 선거에서 플랫너의 후임으로 트로이 잭슨을 후보로 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679567)
 #### [LSEG의 리퍼(Lipper), 고정수익 펀드 자금 흐름 데이터에 영향을 미치는 거래 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679566)
-<head><meta charset="utf-8"><title>Vers : 20260726_0636 </title></head>
-<center>Vers : 20260726_0636 </center>
-<center>Vers : 20260726_1536 </center>
-<br><br><br>
 #### [산불로 보르도 외곽에서 대피령 내려… 스페인 산불은 강풍에 힘입어 확산](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679565)
 #### [푸틴 대통령과 나란히 연설한 카자흐스탄 대통령은 우크라이나 전쟁 중단을 촉구했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679564)
 #### [미국, 브라질 선거 제도에 대해 질의하기 위해 특사 파견을 추진 중 - 소식통](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679563)
@@ -115,17 +128,3 @@
 #### [“두려움이 그녀를 죽였다”: 인도의 시험 비리가 어떻게 학생 봉기를 촉발했는지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679521)
 #### [소남 왕추크: 모디에 맞서 인도의 Z세대를 결집시켜 승리를 거둔 59세 여성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679520)
 #### [산불이 맹렬히 번지는 가운데 스페인 군 소방대원들이 화염과 사투를 벌이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679519)
-#### [우크라이나는 카스피해에 있는 러시아 석유 시추 플랫폼을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679518)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679517)
-#### [우크라이나는 카스피해에서 러시아 군함과 이란과 관련된 군사 물자 수송에 사용된 선박들을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679516)
-#### [우크라이나는 러시아의 정유 시설과 방위 산업 부품 생산 시설을 공습했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679515)
-#### [스위스 치즈 제조업체들, 미국 관세로 인한 매출 공백을 메우려 애쓰고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679514)
-#### [메인주 민주당, 연방 상원 선거에서 플랫너의 후임으로 트로이 잭슨을 후보로 지명할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679513)
-#### [다니엘 핀녹, 우피 골드버그의 상징적인 독백을 무대로 되살리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679512)
-#### [이번 주 브레이킹뷰스: AI 모델들이 맞부딪칠 때](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679511)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [트럼프 행정부의 이번 관세 조치는 당분간 지속될 것으로 보이며, 추가 관세도 이어질 전망이다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679510)
-#### [미시간주, 트럼프 행정부의 예산 삭감으로 혼란에 빠진 가운데 대규모 감염 확산과 맞서 싸우고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679509)
-#### [우크라이나의 드론 공격으로 러시아 튜멘 정유소에서 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679508)
-#### [모로코, 260억 달러 규모 파이프라인 건설을 위해 미국 수출입은행·세계은행에 지원 요청 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679507)
-#### [우크라이나 내 러시아 점령 지역 주지사는 휴양지 공격으로 8명이 사망했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2679506)
