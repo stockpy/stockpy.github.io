@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260727_1946 </title></head>
-<center>Vers : 20260727_1946 </center>
-<center>Vers : 20260728_0446 </center>
+<head><meta charset="utf-8"><title>Vers : 20260727_2109 </title></head>
+<center>Vers : 20260727_2109 </center>
+<center>Vers : 20260728_0609 </center>
 <br><br><br>
 #### [“욕심부리다 반려주식 되버렸다” …개미 사랑 듬뿍 받던 ETF의 ‘피눈물’](https://m.stock.naver.com/news/ranknews/view/009/0005713024)
 #### ['똑같은 하이닉스인데' 한국서는 181만원, 미국에서는 225만원…29일 '분수령'](https://m.stock.naver.com/news/ranknews/view/215/0001260166)
