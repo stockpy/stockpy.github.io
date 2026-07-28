@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260728_1922 </title></head>
-<center>Vers : 20260728_1922 </center>
-<center>Vers : 20260729_0422 </center>
+<head><meta charset="utf-8"><title>Vers : 20260728_2107 </title></head>
+<center>Vers : 20260728_2107 </center>
+<center>Vers : 20260729_0607 </center>
 <br><br><br>
 #### ['155만닉스'에 개미들 멘붕인데…SK하닉 '반전 카드' 있다 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005314933)
 #### [오늘만 무려 ‘29%’ 급등…SK하이닉스 단일종목 인버스, 국내 ETF 수익률 1위 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002676316)
