@@ -1,5 +1,5 @@
-<center>Vers : 20260729_0332 </center>
-<center>Vers : 20260729_1232 </center>
+<center>Vers : 20260729_0346 </center>
+<center>Vers : 20260729_1246 </center>
 <br>
 <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -38,7 +38,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>1</th>
       <td>TIGER 반도체TOP10</td>
       <td>0%</td>
-      <td>26745</td>
+      <td>26665</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -47,7 +47,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>2</th>
       <td>TIGER 미국필라델피아반도체나스닥</td>
       <td>0%</td>
-      <td>40690</td>
+      <td>40715</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -74,7 +74,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>5</th>
       <td>KODEX 미국배당다우존스</td>
       <td>15%</td>
-      <td>13460</td>
+      <td>13475</td>
       <td>6</td>
       <td>12.0%</td>
       <td>52</td>
@@ -83,7 +83,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>6</th>
       <td>KODEX 미국S&amp;P500</td>
       <td>50%</td>
-      <td>24380</td>
+      <td>24385</td>
       <td>12</td>
       <td>56.0%</td>
       <td>-58</td>
@@ -119,7 +119,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>10</th>
       <td>KODEX 200TR</td>
       <td>0%</td>
-      <td>31505</td>
+      <td>31550</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
