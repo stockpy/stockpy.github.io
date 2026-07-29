@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260729_1915 </title></head>
-<center>Vers : 20260729_1915 </center>
-<center>Vers : 20260730_0415 </center>
+<head><meta charset="utf-8"><title>Vers : 20260729_2055 </title></head>
+<center>Vers : 20260729_2055 </center>
+<center>Vers : 20260730_0555 </center>
 <br><br><br>
 #### [‘하이닉스 470만원 간다’던 노무라증권 “코스피 급락은 수급불균형 때문”](https://m.stock.naver.com/news/ranknews/view/021/0002807877)
 #### ["더 큰 폭락 온다"…레버리지가 부추긴 코스피 공포 '확산' [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005315401)
