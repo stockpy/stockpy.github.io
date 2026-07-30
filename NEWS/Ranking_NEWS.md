@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260730_1925 </title></head>
-<center>Vers : 20260730_1925 </center>
-<center>Vers : 20260731_0425 </center>
+<head><meta charset="utf-8"><title>Vers : 20260730_2109 </title></head>
+<center>Vers : 20260730_2109 </center>
+<center>Vers : 20260731_0609 </center>
 <br><br><br>
 #### [패닉 빠진 개미들에게 답했다…“5700 안착하면 8200, 더 가면 9300”](https://m.stock.naver.com/news/ranknews/view/009/0005714528)
 #### ["올해 번 돈 다 날릴 판"…외신도 주목한 60대 불개미 '절규'](https://m.stock.naver.com/news/ranknews/view/015/0005315853)
