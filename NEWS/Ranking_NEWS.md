@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260731_1750 </title></head>
-<center>Vers : 20260731_1750 </center>
-<center>Vers : 20260801_0250 </center>
+<head><meta charset="utf-8"><title>Vers : 20260731_1923 </title></head>
+<center>Vers : 20260731_1923 </center>
+<center>Vers : 20260801_0423 </center>
 <br><br><br>
 #### [‘-59.95%’ 곱버스 올라탄 개미들 어쩌나…“더 떨어질 줄” 하루 만에 400억 증발](https://m.stock.naver.com/news/ranknews/view/011/0004647472)
 #### [현금 3000만원 없어서 못 샀나…60% 폭등했는데 레버리지 거래 '뚝'](https://m.stock.naver.com/news/ranknews/view/008/0005394112)
