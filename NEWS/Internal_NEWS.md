@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260801_2144 </title></head>
-<center>Vers : 20260801_2144 </center>
-<center>Vers : 20260802_0644 </center>
+<head><meta charset="utf-8"><title>Vers : 20260801_2255 </title></head>
+<center>Vers : 20260801_2255 </center>
+<center>Vers : 20260802_0755 </center>
 <br><br><br>
+#### [이란, 미국이 새로운 공격을 감행할 경우 타국의 에너지 시설을 타격하겠다고 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689975)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689974)
+#### [마자르 총리, “헝가리, 일요일에 팍스 원전 가동 중단할 예정”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689973)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689972)
 #### [이란 외무장관은 미국과 이스라엘의 “공격”에 대해 “단호한” 대응을 할 것이라고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689971)
 #### [페루 나스카 선 상공에서 관광 비행기 추락사고로 13명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689970)
@@ -61,6 +64,3 @@
 #### [국경으로의 몰려들기가 있은 뒤 평온한 밤을 보낸 스페인, 세우타에 부유식 차단벽 설치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689918)
 #### [산불이 프랑스의 캠핑 전통을 위협하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689917)
 #### [산불이 프랑스의 캠핑 전통을 위협하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689916)
-#### [러시아 로사톰이 소유한 민간 선박이 우크라이나의 드론 공격을 받고 흑해에서 침몰했으나, 승무원 전원이 생존했다고 회사 측이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689915)
-#### [헝가리 총리, “팍스 원전 이번 주말 가동이 중단될 수 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689914)
-#### [토론토 신규 노선 개설로 캐나다 취항 노선 확대…델리-토론토 노선에 B787-9 기종 투입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689913)
