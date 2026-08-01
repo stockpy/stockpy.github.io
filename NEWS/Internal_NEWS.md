@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260801_2052 </title></head>
-<center>Vers : 20260801_2052 </center>
-<center>Vers : 20260802_0552 </center>
+<head><meta charset="utf-8"><title>Vers : 20260801_2144 </title></head>
+<center>Vers : 20260801_2144 </center>
+<center>Vers : 20260802_0644 </center>
 <br><br><br>
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689972)
 #### [이란 외무장관은 미국과 이스라엘의 “공격”에 대해 “단호한” 대응을 할 것이라고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689971)
 #### [페루 나스카 선 상공에서 관광 비행기 추락사고로 13명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689970)
 #### [OPG 온타리오주 885 MW 달링턴 4호 원자력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689969)
@@ -63,4 +64,3 @@
 #### [러시아 로사톰이 소유한 민간 선박이 우크라이나의 드론 공격을 받고 흑해에서 침몰했으나, 승무원 전원이 생존했다고 회사 측이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689915)
 #### [헝가리 총리, “팍스 원전 이번 주말 가동이 중단될 수 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689914)
 #### [토론토 신규 노선 개설로 캐나다 취항 노선 확대…델리-토론토 노선에 B787-9 기종 투입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689913)
-#### [[속보] 타타 모터스, 2026년 7월 상용차 총 판매량 39,641대로 전년 동기 대비 37% 성장 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689912)
