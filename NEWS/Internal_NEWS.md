@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260801_1805 </title></head>
-<center>Vers : 20260801_1805 </center>
-<center>Vers : 20260802_0305 </center>
+<head><meta charset="utf-8"><title>Vers : 20260801_1929 </title></head>
+<center>Vers : 20260801_1929 </center>
+<center>Vers : 20260802_0429 </center>
 <br><br><br>
+#### [천연가스 파이프라인 긴급 공지: 2026년 8월 2일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689964)
+#### [모스크바 도심 카페 폭발로 3명 사망, 15명 부상…경찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689963)
+#### [뉴욕타임스 보도에 따르면, 미국 법무부가 북한 관련 기사와 관련해 뉴욕타임스 프리랜서 기자에게 소환장을 발부했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689962)
+#### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689961)
+#### [웨스트젯, 파업에 앞서 항공편 결항 조치 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689960)
+#### [타스 통신에 따르면 모스크바에서 발생한 폭발 사고로 3명이 사망하고 15명이 부상했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689959)
 #### [풀테, “클레이튼이 월요일부터 미국 정보국장직을 맡게 될 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689958)
 #### [트럼프, 리플렉팅 풀에 관한 자국 법무부의 조사 결과에 이의를 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689957)
 #### [“지금이야말로 그 어느 때보다”: 베를린 테러 이후 함부르크에서 프라이드 퍼레이드 열려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689956)
@@ -59,9 +65,3 @@
 #### [[속보] 테무, 유럽연합 집행위원회의 ‘외국 보조금 규정’에 따른 사유 설명서에 대한 입장 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689907)
 #### [헝가리 총리, “팍스 원전 이번 주말 가동이 중단될 수 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689906)
 #### [타아파키, 한 경기도 이기지 못했음에도 투발루의 첫 영연방 게임 메달을 따냈다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689905)
-#### [[속보] Chemometec A/S, 2026년 8월 3일부로 필립 매시 프라이스를 최고재무책임자(CFO)로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689904)
-#### [페루의 7월 소비자 물가는 전월 대비 0.29% 상승했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689903)
-#### [인디언 오일 코프, 중동 위기 속 현물 원유 매입 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689902)
-#### [[속보] 마루티 스즈키, 마루티 스즈키 인디아 리미티드가 2026년 7월에 241,421대를 판매했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689901)
-#### [키예프에 있는 리투아니아 대사관 울타리 바로 옆에 미사일이 떨어지면서 대사관이 파손됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689900)
-#### [나폴리 인근에서 규모 4.7의 지진이 발생해 피해와 정전이 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689899)
