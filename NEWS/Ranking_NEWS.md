@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260801_1929 </title></head>
-<center>Vers : 20260801_1929 </center>
-<center>Vers : 20260802_0429 </center>
+<head><meta charset="utf-8"><title>Vers : 20260801_2052 </title></head>
+<center>Vers : 20260801_2052 </center>
+<center>Vers : 20260802_0552 </center>
 <br><br><br>
 #### [“40년 모은 돈 -22억, 전재산 잃고 파산” 하닉 몰빵의 결과](https://m.stock.naver.com/news/ranknews/view/021/0002808479)
 #### [“삼전닉스 말고 우리도 돈 쓸어담았어요”…함박웃음 짓는 증권사들](https://m.stock.naver.com/news/ranknews/view/009/0005715356)

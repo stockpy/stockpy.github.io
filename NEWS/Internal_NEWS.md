@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260801_1929 </title></head>
-<center>Vers : 20260801_1929 </center>
-<center>Vers : 20260802_0429 </center>
+<head><meta charset="utf-8"><title>Vers : 20260801_2052 </title></head>
+<center>Vers : 20260801_2052 </center>
+<center>Vers : 20260802_0552 </center>
 <br><br><br>
+#### [이란 외무장관은 미국과 이스라엘의 “공격”에 대해 “단호한” 대응을 할 것이라고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689971)
+#### [페루 나스카 선 상공에서 관광 비행기 추락사고로 13명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689970)
+#### [OPG 온타리오주 885 MW 달링턴 4호 원자력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689969)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689968)
+#### [이란 외무장관, 미국의 ‘무모한 행동’에 대해 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689967)
+#### [TVPeru에 따르면 페루 나스카 선 상공에서 관광용 비행기 추락 사고로 13명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689966)
+#### [순위 반등 - 오지에가 사고로 탈락한 가운데 파하리가 핀란드 대회 선두를 달리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689965)
 #### [천연가스 파이프라인 긴급 공지: 2026년 8월 2일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689964)
 #### [모스크바 도심 카페 폭발로 3명 사망, 15명 부상…경찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689963)
 #### [뉴욕타임스 보도에 따르면, 미국 법무부가 북한 관련 기사와 관련해 뉴욕타임스 프리랜서 기자에게 소환장을 발부했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689962)
@@ -57,11 +64,3 @@
 #### [헝가리 총리, “팍스 원전 이번 주말 가동이 중단될 수 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689914)
 #### [토론토 신규 노선 개설로 캐나다 취항 노선 확대…델리-토론토 노선에 B787-9 기종 투입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689913)
 #### [[속보] 타타 모터스, 2026년 7월 상용차 총 판매량 39,641대로 전년 동기 대비 37% 성장 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689912)
-#### [[속보] 자이더스 라이프사이언스, VAI 등급을 받은 주사제 생산 시설에 대해 미국 식품의약국(USFDA)으로부터 EIR 통지서 수령했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689911)
-#### [통계에 따르면, 인도 주정부 소매업체들의 7월 휘발유 및 경유 판매량이 전월 대비 감소한 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689910)
-#### [업계 단체에 따르면, 7월 프랑스 신차 등록 대수가 전년 동기 대비 9% 증가했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689909)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [키예프 주재 리투아니아 대사관, 러시아 미사일 공격으로 피해 입어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689908)
-#### [[속보] 테무, 유럽연합 집행위원회의 ‘외국 보조금 규정’에 따른 사유 설명서에 대한 입장 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689907)
-#### [헝가리 총리, “팍스 원전 이번 주말 가동이 중단될 수 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689906)
-#### [타아파키, 한 경기도 이기지 못했음에도 투발루의 첫 영연방 게임 메달을 따냈다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689905)
