@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260801_2255 </title></head>
-<center>Vers : 20260801_2255 </center>
-<center>Vers : 20260802_0755 </center>
+<head><meta charset="utf-8"><title>Vers : 20260801_2357 </title></head>
+<center>Vers : 20260801_2357 </center>
+<center>Vers : 20260802_0857 </center>
 <br><br><br>
+#### [트럼프 대통령이 돌파구를 마련했다고 발표했음에도 불구하고, 이스라엘의 공습으로 가자지구에서 최소 4명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689981)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689980)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689979)
+#### [캐피털 원은 자금세탁방지 조사 끝에 트럼프 조직의 계좌를 해지했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689978)
+#### [[속보 1] 뉴욕타임스, “미국 법무부, 북한 관련 기사 관련해 뉴욕타임스 프리랜서 기자에게 소환장 발부”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689977)
+#### [루마니아, 하락 포획 규모 확대…비판론자들은 단속의 허점이 여전히 존재한다고 지적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689976)
 #### [이란, 미국이 새로운 공격을 감행할 경우 타국의 에너지 시설을 타격하겠다고 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689975)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689974)
 #### [마자르 총리, “헝가리, 일요일에 팍스 원전 가동 중단할 예정”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689973)
@@ -56,11 +62,3 @@
 #### [법원이 유죄 판결을 뒤집으면서 페루의 후말라 전 대통령이 석방됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689924)
 #### [이팩스 통신에 따르면, 러시아군이 우크라이나 내 마을 두 곳을 추가로 점령했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689923)
 #### [시추에이션 어웨어니스(Situational Awareness) AI 인수합병을 통해 시타델의 그리핀이 다시 한번 구원자로 나섰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689922)
-#### [이번 주 브레이킹뷰스: 월가의 폭풍우](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689921)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [스페이스X가 로켓을 분홍색으로 칠할까? 첫 실적 발표를 앞두고 투자자들의 관심은 달과 화성을 넘어선다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689920)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
-#### [그리스에서 산불이 맹위를 떨치는 가운데, 프랑스와 스페인에서는 소방관들이 진화 작업을 이어가고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689919)
-#### [국경으로의 몰려들기가 있은 뒤 평온한 밤을 보낸 스페인, 세우타에 부유식 차단벽 설치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689918)
-#### [산불이 프랑스의 캠핑 전통을 위협하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689917)
-#### [산불이 프랑스의 캠핑 전통을 위협하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689916)
