@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260801_1658 </title></head>
-<center>Vers : 20260801_1658 </center>
-<center>Vers : 20260802_0158 </center>
+<head><meta charset="utf-8"><title>Vers : 20260801_1805 </title></head>
+<center>Vers : 20260801_1805 </center>
+<center>Vers : 20260802_0305 </center>
 <br><br><br>
+#### [풀테, “클레이튼이 월요일부터 미국 정보국장직을 맡게 될 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689958)
+#### [트럼프, 리플렉팅 풀에 관한 자국 법무부의 조사 결과에 이의를 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689957)
+#### [“지금이야말로 그 어느 때보다”: 베를린 테러 이후 함부르크에서 프라이드 퍼레이드 열려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689956)
+#### [오지에와 코드라이버 잉그라시아, 사고 후 병원으로 이송](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689955)
+#### [풀테에 따르면, 클레이튼이 월요일부터 미국 정보기관 수장으로 취임할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689954)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689953)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689952)
+#### [콜롬비아 정부, “2025년 산림 감소량이 지난 20년 만에 최저치를 기록했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689951)
 #### [트럼프, 리플렉팅 풀에 관한 자국 법무부의 조사 결과에 이의를 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689950)
 #### [천연가스 파이프라인 긴급 공지: Southern Natural Gas의 최신 파이프라인 현황 (2026년 8월 1일)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689949)
 #### [EU, 세우타를 통한 이주자 유입 문제 논의 위해 화요일 장관급 회의 소집](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689948)
@@ -57,11 +65,3 @@
 #### [[속보] 마루티 스즈키, 마루티 스즈키 인디아 리미티드가 2026년 7월에 241,421대를 판매했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689901)
 #### [키예프에 있는 리투아니아 대사관 울타리 바로 옆에 미사일이 떨어지면서 대사관이 파손됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689900)
 #### [나폴리 인근에서 규모 4.7의 지진이 발생해 피해와 정전이 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689899)
-#### [프랑스 여름의 평등주의적 상징인 ‘르 캄핑’이 불타오르는 미래를 맞이하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689898)
-#### [[속보] 인도 오일 코프, 국내 항공사 대상 8월 제트유 가격을 리터당 115루피로 인상했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689897)
-#### [피치, “2026년 이후 루마니아의 재정 적자 감축 노력에 정치적 불안정이 부담으로 작용할 것”이라고 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689896)
-#### [EU 해군, 이탈리아 호위함이 상선을 호위해 홍해를 무사히 통과했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689895)
-#### [젤렌스키 대통령, “우크라이나가 러시아의 탄도 미사일 27발 중 1발을 격추했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689894)
-#### [[속보] 현대자동차 미국법인, 7월 총 판매량 82,480대 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689893)
-#### [카자흐스탄 에너지부, “CPC의 전면 가동 중단은 검토 대상이 아니다”라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689892)
-#### [[속보] 기아, 미국 7월 판매량 75,857대 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689891)
