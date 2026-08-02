@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260802_1319 </title></head>
-<center>Vers : 20260802_1319 </center>
-<center>Vers : 20260802_2219 </center>
+<head><meta charset="utf-8"><title>Vers : 20260802_1501 </title></head>
+<center>Vers : 20260802_1501 </center>
+<center>Vers : 20260803_0001 </center>
 <br><br><br>
+#### [[속보] 유벤투스 축구 클럽, 알라즈베고비치 선수의 완전 이적을 위해 바이어 레버쿠젠과 합의했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690058)
+#### [우크라이나 국경 인근 루마니아 영토에 드론 파편이 떨어졌다 - 국방부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690057)
+#### [그리스 산불 진화 작업 중 헬기 2대 충돌, 헝가리 원전 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690056)
+#### [세우타로 몰려든 이민자들로 인한 사망자 수가 72명으로 늘어났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690055)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690054)
+#### [순위 반등 - 오지에의 사고로 토요타의 파하리가 핀란드에서 우승을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690053)
+#### [이탈리아가 주도하는 EU 군대가 지중해에서 러시아의 ‘그림자 함대’ 소속 제재 대상 유조선에 승선했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690052)
+#### [아테네 서쪽에서 소방 헬기 두 대가 충돌했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690051)
 #### [블랙스톤, 크루프츠(Crufts) 개 쇼 경기장 10억 파운드 매각을 위한 주간사 선정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690050)
 #### [월가 주간 전망-불안정한 미국 증시, 고용 지표와 주요 기업 실적 발표 주간 맞이](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690049)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
@@ -66,6 +74,10 @@
 #### [오르반 이후의 삶: 새로운 정치 시대가 도래함에 따라 ‘헝가리 인크’가 입지를 공고히 하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690001)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690000)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689999)
+<head><meta charset="utf-8"><title>Vers : 20260802_1501 </title></head>
+<center>Vers : 20260802_1501 </center>
+<center>Vers : 20260803_0001 </center>
+<br><br><br>
 #### [맥심 파워 앨버타의 144 MW H.R. 밀너 석탄 화력발전소 가동 중단 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689998)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689997)
 #### [주목할 요인 - 8월 2일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689996)
@@ -74,10 +86,6 @@
 #### [단독-소식통에 따르면 일본, 도쿄와 워싱턴이 엔화 문제에 대해 공동 조치를 취했다고 발표할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689993)
 #### [워싱턴주 25만 에이커가 넘는 지역에서 발생한 산불로 대피령이 내려졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689992)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689991)
-<head><meta charset="utf-8"><title>Vers : 20260802_1319 </title></head>
-<center>Vers : 20260802_1319 </center>
-<center>Vers : 20260802_2219 </center>
-<br><br><br>
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689990)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689989)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689988)
@@ -130,11 +138,3 @@
 #### [[속보] 젭토, 기업공개(IPO) 전 1차 사모유치 발표 - 성명서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689941)
 #### [트럼프, 블랑쉬를 법무장관 대행으로 계속 기용하겠다고 위협하며 ‘무기화 방지’ 기금 재가동 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689940)
 #### [“그들은 가족이에요”: 일본 지진 생존자들, 반려동물과 함께 병원에서 대피 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689939)
-#### [루마니아, 하락 포획 규모 확대…비판론자들은 단속의 허점이 여전히 존재한다고 지적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689938)
-#### [베를린 테러의 여파 속, 암스테르담에서 수천 명이 모여 열띤 ‘월드프라이드’ 행사 열려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689937)
-#### [터키와 이라크, 1년짜리 송유관 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689936)
-#### [우크라이나의 전력 공급 차질로 크림 반도의 가족들이 따뜻한 식사를 받기 위해 줄을 서고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689935)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689934)
-#### [터키 에너지 장관, “터키와 이라크가 1년짜리 송유관 협정을 체결했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689933)
-#### [[속보 1] 유명 등반가 니르말 푸르자 등 10명, 파키스탄에서 눈사태로 사망… 등산 업체 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689932)
-#### [등반 전문 업체에 따르면, 저명한 등반가 니르말 푸르자와 다른 9명이 파키스탄에서 발생한 눈사태로 사망했다고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689931)
