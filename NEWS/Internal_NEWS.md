@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260802_2154 </title></head>
-<center>Vers : 20260802_2154 </center>
-<center>Vers : 20260803_0654 </center>
+<head><meta charset="utf-8"><title>Vers : 20260802_2255 </title></head>
+<center>Vers : 20260802_2255 </center>
+<center>Vers : 20260803_0755 </center>
 <br><br><br>
+#### [NZD/USD, 달러 약세에 힘입어 새로운 상승 국면 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690116)
+#### [모레노 미국 상원의원, 학대 의혹을 이유로 오하이오주 출신 밀러 의원의 의회 재직이 부적절하다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690115)
+#### [UKMTO는 오만 항구 도시 북동쪽 해상에서 유조선 사고에 대한 신고를 접수했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690114)
+#### [수사관들, 13명이 사망한 페루 관광 비행기 추락 사고 현장을 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690113)
+#### [일본, 역사적인 싸움에서 엔화 약세에 대해 미국과의 협력을 다짐할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690112)
+#### [우크라이나 자포리자 주지사, “러시아의 공격으로 1명 사망, 31명 부상”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690111)
+#### [모닝스타, 아리스토크랫 레저의 적정 가치 추정치를 상향 조정… 게임기 사업에 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690110)
+#### [[속보] 라이파이젠 은행, 총 10,831,435주의 애디코 주식에 대한 인수 동의서가 제출되었다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690109)
+#### [트럼프 대통령이 핵 합의 타결을 위해 이란에 대한 공격을 취소함에 따라 유가가 급락했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690108)
+#### [트럼프, “미국이 우정의 표시로 엔화 지지하고 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690107)
+#### [AUD/USD 급등, 시장에서는 추가 엔화 개입 가능성에 경계감 고조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690106)
 #### [천연가스 파이프라인 긴급 공지: 서던 내추럴 가스(Southern Natural Gas) 시추 완료 설비 가동 중단 (SEG 600 힐리어드)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690105)
 #### [산탄데르와 TSB 직원들, 합병 후 감원 사태에 대비- 더 타임스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690104)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690103)
@@ -52,15 +63,3 @@
 #### ['스파이더맨: 브랜드 뉴 데이', 미국과 캐나다에서 개봉 첫 주 3억 5,500만 달러의 흥행 성적을 기록했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690059)
 #### [[속보] 유벤투스 축구 클럽, 알라즈베고비치 선수의 완전 이적을 위해 바이어 레버쿠젠과 합의했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690058)
 #### [우크라이나 국경 인근 루마니아 영토에 드론 파편이 떨어졌다 - 국방부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690057)
-#### [그리스 산불 진화 작업 중 헬기 2대 충돌, 헝가리 원전 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690056)
-#### [세우타로 몰려든 이민자들로 인한 사망자 수가 72명으로 늘어났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690055)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690054)
-#### [순위 반등 - 오지에의 사고로 토요타의 파하리가 핀란드에서 우승을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690053)
-#### [이탈리아가 주도하는 EU 군대가 지중해에서 러시아의 ‘그림자 함대’ 소속 제재 대상 유조선에 승선했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690052)
-#### [아테네 서쪽에서 소방 헬기 두 대가 충돌했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690051)
-#### [블랙스톤, 크루프츠(Crufts) 개 쇼 경기장 10억 파운드 매각을 위한 주간사 선정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690050)
-#### [월가 주간 전망-불안정한 미국 증시, 고용 지표와 주요 기업 실적 발표 주간 맞이](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690049)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [인도, 지연된 재생에너지 프로젝트에 대한 송전료 감면 방안 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690048)
-#### [파하리, 핀란드에서 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690047)
-#### [OPEC+ 패널, 에너지 시설에 대한 공격에 우려 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690046)
