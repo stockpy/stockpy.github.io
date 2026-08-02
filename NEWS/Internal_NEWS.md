@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260802_1924 </title></head>
-<center>Vers : 20260802_1924 </center>
-<center>Vers : 20260803_0424 </center>
+<head><meta charset="utf-8"><title>Vers : 20260802_2055 </title></head>
+<center>Vers : 20260802_2055 </center>
+<center>Vers : 20260803_0555 </center>
 <br><br><br>
+#### [경찰에 따르면 아이다호 총기 난사범은 스스로 총을 쏴 사망한 것으로 밝혀졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690096)
+#### [[속보] 이탈리아 씨 그룹, 2025년 총 매출 2억 9,510만 유로로 전년 대비 27% 감소했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690095)
+#### [[업데이트 1] 블룸버그 보도에 따르면, 이탈리아 케이블 제조사 프리스미안(Prysmian)이 앳코어(Atkore) 인수를 위한 최종 협상을 진행 중이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690094)
+#### [모로코는 세우타로 몰려든 이주자 사태의 원인을 소셜 미디어상의 허위 정보와 인신매매 조직 탓으로 돌리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690093)
+#### [BUZZ-COMMENT-이번 주 전망-미국 고용 지표, 글로벌 PMI, 중동 분쟁](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690092)
+#### [단독-소식통에 따르면, 일본이 도쿄와 워싱턴이 엔화 문제에 대해 공동 조치를 취했다고 발표할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690091)
+#### [프랑스, 국가 안보 보호를 위해 외국인 투자 감독 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690090)
+#### [[속보] 프리즈미안, 미국 전기기기 제조사 ATKORE 인수 임박했다는 소식 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690089)
+#### [블룸버그 뉴스에 따르면, 프리즈미안(Prysmian)이 앳코어(Atkore) 인수를 위한 최종 협상을 진행 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690088)
 #### [뉴스통신사 보도에 따르면, 우크라이나의 공격으로 피해를 입은 이란 선박의 선원들이 귀국했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690087)
 #### [캡터 미국 하원의원, 교통사고로 부상… 의원실 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690086)
 #### [[업데이트 1] FT 보도에 따르면, 아스트라제네카가 브리스톨-마이어스 스큅과 대규모 거래 가능성에 대해 협의 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690085)
@@ -55,15 +64,3 @@
 #### [종합 1-그리스, 산불과 사투… 헝가리, 가뭄으로 원전 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690039)
 #### [페루 나스카 선 상공에서 관광 비행기 추락, 탑승자 13명 전원 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690038)
 #### [그리스, 산불과 사투… 헝가리, 가뭄으로 원전 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690037)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690036)
-#### [1 사용자들에게, 매장에서의 옷 쇼핑이 다시 시작됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690035)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ROST.O/total>
-#### [헝가리 총리, 원전 가동 중단이 임박함에 따라 앞으로 “중대한” 날들이 될 것이라고 언급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690034)
-#### [[속보] 체리 자동차, 7월 5대 주요 브랜드 차량 판매량 전년 동기 대비 24.1% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690033)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9973.HK/total>
-#### [이스라엘의 공습으로 가자지구에서 9명 사망, 이스라엘 장관 “공습 중단 합의는 없다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690032)
-#### [지리자동차, 7월 미감사 판매량이 전년 동기 대비 5% 증가했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690031)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0175.HK/total>
-#### [캐나다 웨스트젯 항공 승무원들, 협상 결렬로 파업 돌입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690030)
-#### [캐나다 웨스트젯 항공 승무원들, 협상 결렬로 파업 돌입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690029)
-#### [헝가리 총리, 원전 가동 중단이 임박함에 따라 앞으로 “중대한” 날들이 될 것이라고 경고했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690028)
