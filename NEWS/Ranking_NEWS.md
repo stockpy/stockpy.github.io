@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260802_1804 </title></head>
-<center>Vers : 20260802_1804 </center>
-<center>Vers : 20260803_0304 </center>
+<head><meta charset="utf-8"><title>Vers : 20260802_1924 </title></head>
+<center>Vers : 20260802_1924 </center>
+<center>Vers : 20260803_0424 </center>
 <br><br><br>
 #### [298만→132만원 반토막에도..."470만닉스·65만전자" 목표가 높였다](https://m.stock.naver.com/news/ranknews/view/008/0005394462)
 #### [중국서 안 팔려도 괜찮아…미국서 '잭팟' 환호 터진 종목  [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005316494)

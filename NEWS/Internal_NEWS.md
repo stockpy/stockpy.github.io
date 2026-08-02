@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260802_1804 </title></head>
-<center>Vers : 20260802_1804 </center>
-<center>Vers : 20260803_0304 </center>
+<head><meta charset="utf-8"><title>Vers : 20260802_1924 </title></head>
+<center>Vers : 20260802_1924 </center>
+<center>Vers : 20260803_0424 </center>
 <br><br><br>
+#### [뉴스통신사 보도에 따르면, 우크라이나의 공격으로 피해를 입은 이란 선박의 선원들이 귀국했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690087)
+#### [캡터 미국 하원의원, 교통사고로 부상… 의원실 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690086)
+#### [[업데이트 1] FT 보도에 따르면, 아스트라제네카가 브리스톨-마이어스 스큅과 대규모 거래 가능성에 대해 협의 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690085)
+#### [천연가스 파이프라인 긴급 공지: 2026년 8월 3일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690084)
+#### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690083)
+#### [파이낸셜타임스(FT) 보도에 따르면, 아스트라제네카가 브리스톨-마이어스 스큅과 대규모 거래에 대해 협의 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690082)
+#### [마이어스 스큅과 대규모 제약 인수합병 협상 진행 중 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690081)
+#### [BUZZ-IMM: 지정학적 긴장 고조 속에 달러 매수 포지션 확대…유로화, 공격적인 매도세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690080)
+#### [8월 2일 일요일 오후 2시 23분(미국 동부 하계 표준시) 기준 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690079)
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690078)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690077)
 #### [모레노 미국 상원의원은 학대 혐의를 근거로 오하이오주 출신의 밀러 의원이 의회에서 활동해서는 안 된다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690076)
 #### [인도, 향료 규정 위반으로 디아지오·인브루의 일부 주류 판매 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690075)
 #### [[속보] 몬테 데이 파스키, 합병 협상 결렬 후 반코 BPM 인수 검토 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690074)
@@ -56,18 +67,3 @@
 #### [캐나다 웨스트젯 항공 승무원들, 협상 결렬로 파업 돌입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690030)
 #### [캐나다 웨스트젯 항공 승무원들, 협상 결렬로 파업 돌입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690029)
 #### [헝가리 총리, 원전 가동 중단이 임박함에 따라 앞으로 “중대한” 날들이 될 것이라고 경고했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690028)
-#### [[속보 1] 소식통에 따르면 쿠웨이트, 7월 원유 생산량을 하루 200만 배럴 수준으로 늘렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690027)
-#### [우크라이나 드론, 러시아에서 2명 사망시키고 와일드베리스 창고 공격… 각 주지사들 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690026)
-#### [소식통에 따르면 쿠웨이트가 7월 원유 생산량을 하루 200만 배럴 수준으로 늘렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690025)
-#### [홀심, 필리핀 자회사를 중국 화신에 8억 700만 달러에 매각하기로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690024)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600801.SS/total>
-#### [[속보] 내몽골 바오터우 철강 노조, 사고 조사 보고서에 따라 위험 요인 조사 강화할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690023)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600010.SS/total>
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690022)
-#### [Xdc Industries 주식 거래 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690021)
-#### [이란은 적대국들의 모든 위협을 “실제적이고 신뢰할 만한” 것으로 간주한다고 국방부 장관 대행이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690020)
-#### [[업데이트 1] 소식통에 따르면 OPEC+는 9월에 할당량을 늘린 뒤 일시적으로 동결할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690019)
-#### [[속보] 장성자동차, 7월 자동차 판매량 전년 동기 대비 3.5% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690018)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601633.SS/total>
-#### [[속보] BAIC 블루파크 신에너지 기술 자회사, 7월 22,828대 판매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690017)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600733.SS/total>
