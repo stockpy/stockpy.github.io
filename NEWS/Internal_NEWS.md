@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260802_1658 </title></head>
-<center>Vers : 20260802_1658 </center>
-<center>Vers : 20260803_0158 </center>
+<head><meta charset="utf-8"><title>Vers : 20260802_1804 </title></head>
+<center>Vers : 20260802_1804 </center>
+<center>Vers : 20260803_0304 </center>
 <br><br><br>
+#### [모레노 미국 상원의원은 학대 혐의를 근거로 오하이오주 출신의 밀러 의원이 의회에서 활동해서는 안 된다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690076)
+#### [인도, 향료 규정 위반으로 디아지오·인브루의 일부 주류 판매 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690075)
+#### [[속보] 몬테 데이 파스키, 합병 협상 결렬 후 반코 BPM 인수 검토 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690074)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690073)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690072)
+#### [분석-중국, EU·미국과의 무역 협상 앞두고 자국 경제 모델에 대한 ‘레드라인’ 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690071)
+#### [위베스가 투르 드 프랑스 페므 2단계에서 우승을 차지하며 노란 저지를 지켜냈다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690070)
+#### [테헤란, 이란과 오만의 호르무즈 관련 협상이 막바지에 접어들었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690069)
 #### [그리스, 산불과 사투… 가뭄으로 헝가리 원전 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690068)
 #### [트럼프의 휴전 노력에도 불구하고 이스라엘은 가자지구에 대한 치명적인 공습을 계속하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690067)
 #### [[속보] 유벤투스 축구 클럽, PSG와 콜로 무아니 선수의 완전 이적에 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690066)
@@ -63,14 +71,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601633.SS/total>
 #### [[속보] BAIC 블루파크 신에너지 기술 자회사, 7월 22,828대 판매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690017)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600733.SS/total>
-#### [[속보] CASIN 부동산 개발, 자사주 거래 중단 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690016)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000838.SZ/total>
-#### [우크라이나는 러시아 사라토프 주의 정유소와 공군 기지를 공습했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690015)
-#### [[속보] 쿠웨이트의 NBK, 터키 은행 A.S. 지분 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690014)
-#### [[속보] SAIC 모터, 7월 자동차 판매량 전년 동기 대비 0.3% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690013)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600104.SS/total>
-#### [사우디 왕세자, 트럼프 대통령에게 중동 긴장 완화를 위해 대화가 필요하다고 전해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690012)
-#### [홀심, 필리핀 자회사 지분 과반을 중국 화신에 5억 2,700만 달러에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690011)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600801.SS/total>
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690010)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690009)
