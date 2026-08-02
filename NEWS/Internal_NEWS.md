@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260802_1146 </title></head>
-<center>Vers : 20260802_1146 </center>
-<center>Vers : 20260802_2046 </center>
+<head><meta charset="utf-8"><title>Vers : 20260802_1319 </title></head>
+<center>Vers : 20260802_1319 </center>
+<center>Vers : 20260802_2219 </center>
 <br><br><br>
+#### [블랙스톤, 크루프츠(Crufts) 개 쇼 경기장 10억 파운드 매각을 위한 주간사 선정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690050)
+#### [월가 주간 전망-불안정한 미국 증시, 고용 지표와 주요 기업 실적 발표 주간 맞이](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690049)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [인도, 지연된 재생에너지 프로젝트에 대한 송전료 감면 방안 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690048)
+#### [파하리, 핀란드에서 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690047)
+#### [OPEC+ 패널, 에너지 시설에 대한 공격에 우려 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690046)
+#### [[속보] 에미레이트 Nbd 은행, HSBC 이집트의 소매은행 사업 인수 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690045)
+#### [[속보] HSBC, 이집트 소매은행 사업부를 에미레이트 NBD에 매각하기로 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690044)
+#### [홀심, 필리핀 자회사를 중국 화신에 8억 700만 달러에 매각하기로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690043)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600801.SS/total>
+#### [OPEC+, 9월 원유 생산 할당량 소폭 증산에 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690042)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690041)
 #### [OPEC+는 9월 원유 생산 할당량을 소폭 늘리는 데 합의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690040)
 #### [종합 1-그리스, 산불과 사투… 헝가리, 가뭄으로 원전 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690039)
@@ -63,6 +74,10 @@
 #### [단독-소식통에 따르면 일본, 도쿄와 워싱턴이 엔화 문제에 대해 공동 조치를 취했다고 발표할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689993)
 #### [워싱턴주 25만 에이커가 넘는 지역에서 발생한 산불로 대피령이 내려졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689992)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689991)
+<head><meta charset="utf-8"><title>Vers : 20260802_1319 </title></head>
+<center>Vers : 20260802_1319 </center>
+<center>Vers : 20260802_2219 </center>
+<br><br><br>
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689990)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689989)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689988)
@@ -72,10 +87,6 @@
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689984)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689983)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689982)
-<head><meta charset="utf-8"><title>Vers : 20260802_1146 </title></head>
-<center>Vers : 20260802_1146 </center>
-<center>Vers : 20260802_2046 </center>
-<br><br><br>
 #### [트럼프 대통령이 돌파구를 마련했다고 발표했음에도 불구하고, 이스라엘의 공습으로 가자지구에서 최소 4명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689981)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689980)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689979)
@@ -127,12 +138,3 @@
 #### [터키 에너지 장관, “터키와 이라크가 1년짜리 송유관 협정을 체결했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689933)
 #### [[속보 1] 유명 등반가 니르말 푸르자 등 10명, 파키스탄에서 눈사태로 사망… 등산 업체 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689932)
 #### [등반 전문 업체에 따르면, 저명한 등반가 니르말 푸르자와 다른 9명이 파키스탄에서 발생한 눈사태로 사망했다고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689931)
-#### [이라크, 터키와 송유관 협정 연장 체결 예정…INA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689930)
-#### [국경으로의 대규모 몰려들기 사태 이후 평온한 밤을 보낸 스페인, 세우타에 부유식 차단벽 설치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689929)
-#### [로사톰, 우크라이나 드론 공격으로 흑해에서 민간 선박 침몰…승무원 전원 생존](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689928)
-#### [젤렌스키 대통령, “우크라이나가 러시아의 석유 인프라와 선박을 타격했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689927)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689926)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689925)
-#### [법원이 유죄 판결을 뒤집으면서 페루의 후말라 전 대통령이 석방됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689924)
-#### [이팩스 통신에 따르면, 러시아군이 우크라이나 내 마을 두 곳을 추가로 점령했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689923)
-#### [시추에이션 어웨어니스(Situational Awareness) AI 인수합병을 통해 시타델의 그리핀이 다시 한번 구원자로 나섰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689922)
