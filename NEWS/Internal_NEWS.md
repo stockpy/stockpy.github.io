@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260802_0857 </title></head>
-<center>Vers : 20260802_0857 </center>
-<center>Vers : 20260802_1757 </center>
+<head><meta charset="utf-8"><title>Vers : 20260802_1043 </title></head>
+<center>Vers : 20260802_1043 </center>
+<center>Vers : 20260802_1943 </center>
 <br><br><br>
+#### [이스라엘의 공습으로 가자지구에서 9명 사망, 이스라엘 장관 “공습 중단 합의는 없다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690032)
+#### [지리자동차, 7월 미감사 판매량이 전년 동기 대비 5% 증가했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690031)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0175.HK/total>
+#### [캐나다 웨스트젯 항공 승무원들, 협상 결렬로 파업 돌입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690030)
+#### [캐나다 웨스트젯 항공 승무원들, 협상 결렬로 파업 돌입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690029)
+#### [헝가리 총리, 원전 가동 중단이 임박함에 따라 앞으로 “중대한” 날들이 될 것이라고 경고했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690028)
+#### [[속보 1] 소식통에 따르면 쿠웨이트, 7월 원유 생산량을 하루 200만 배럴 수준으로 늘렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690027)
+#### [우크라이나 드론, 러시아에서 2명 사망시키고 와일드베리스 창고 공격… 각 주지사들 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690026)
+#### [소식통에 따르면 쿠웨이트가 7월 원유 생산량을 하루 200만 배럴 수준으로 늘렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690025)
+#### [홀심, 필리핀 자회사를 중국 화신에 8억 700만 달러에 매각하기로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690024)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600801.SS/total>
+#### [[속보] 내몽골 바오터우 철강 노조, 사고 조사 보고서에 따라 위험 요인 조사 강화할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690023)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600010.SS/total>
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690022)
 #### [Xdc Industries 주식 거래 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690021)
 #### [이란은 적대국들의 모든 위협을 “실제적이고 신뢰할 만한” 것으로 간주한다고 국방부 장관 대행이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690020)
@@ -57,6 +70,10 @@
 #### [이란, 미국이 새로운 공격을 감행할 경우 타국의 에너지 시설을 타격하겠다고 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689975)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689974)
 #### [마자르 총리, “헝가리, 일요일에 팍스 원전 가동 중단할 예정”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689973)
+<head><meta charset="utf-8"><title>Vers : 20260802_1043 </title></head>
+<center>Vers : 20260802_1043 </center>
+<center>Vers : 20260802_1943 </center>
+<br><br><br>
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689972)
 #### [이란 외무장관은 미국과 이스라엘의 “공격”에 대해 “단호한” 대응을 할 것이라고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689971)
 #### [페루 나스카 선 상공에서 관광 비행기 추락사고로 13명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689970)
@@ -67,10 +84,6 @@
 #### [순위 반등 - 오지에가 사고로 탈락한 가운데 파하리가 핀란드 대회 선두를 달리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689965)
 #### [천연가스 파이프라인 긴급 공지: 2026년 8월 2일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689964)
 #### [모스크바 도심 카페 폭발로 3명 사망, 15명 부상…경찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689963)
-<head><meta charset="utf-8"><title>Vers : 20260802_0857 </title></head>
-<center>Vers : 20260802_0857 </center>
-<center>Vers : 20260802_1757 </center>
-<br><br><br>
 #### [뉴욕타임스 보도에 따르면, 미국 법무부가 북한 관련 기사와 관련해 뉴욕타임스 프리랜서 기자에게 소환장을 발부했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689962)
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689961)
 #### [웨스트젯, 파업에 앞서 항공편 결항 조치 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689960)
@@ -123,14 +136,3 @@
 #### [러시아 로사톰이 소유한 민간 선박이 우크라이나의 드론 공격을 받고 흑해에서 침몰했으나, 승무원 전원이 생존했다고 회사 측이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689915)
 #### [헝가리 총리, “팍스 원전 이번 주말 가동이 중단될 수 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689914)
 #### [토론토 신규 노선 개설로 캐나다 취항 노선 확대…델리-토론토 노선에 B787-9 기종 투입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689913)
-#### [[속보] 타타 모터스, 2026년 7월 상용차 총 판매량 39,641대로 전년 동기 대비 37% 성장 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689912)
-#### [[속보] 자이더스 라이프사이언스, VAI 등급을 받은 주사제 생산 시설에 대해 미국 식품의약국(USFDA)으로부터 EIR 통지서 수령했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689911)
-#### [통계에 따르면, 인도 주정부 소매업체들의 7월 휘발유 및 경유 판매량이 전월 대비 감소한 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689910)
-#### [업계 단체에 따르면, 7월 프랑스 신차 등록 대수가 전년 동기 대비 9% 증가했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689909)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [키예프 주재 리투아니아 대사관, 러시아 미사일 공격으로 피해 입어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689908)
-#### [[속보] 테무, 유럽연합 집행위원회의 ‘외국 보조금 규정’에 따른 사유 설명서에 대한 입장 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689907)
-#### [헝가리 총리, “팍스 원전 이번 주말 가동이 중단될 수 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689906)
-#### [타아파키, 한 경기도 이기지 못했음에도 투발루의 첫 영연방 게임 메달을 따냈다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689905)
-#### [[속보] Chemometec A/S, 2026년 8월 3일부로 필립 매시 프라이스를 최고재무책임자(CFO)로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689904)
-#### [페루의 7월 소비자 물가는 전월 대비 0.29% 상승했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689903)
