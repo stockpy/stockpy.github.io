@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260802_1043 </title></head>
-<center>Vers : 20260802_1043 </center>
-<center>Vers : 20260802_1943 </center>
+<head><meta charset="utf-8"><title>Vers : 20260802_1146 </title></head>
+<center>Vers : 20260802_1146 </center>
+<center>Vers : 20260802_2046 </center>
 <br><br><br>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690041)
+#### [OPEC+는 9월 원유 생산 할당량을 소폭 늘리는 데 합의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690040)
+#### [종합 1-그리스, 산불과 사투… 헝가리, 가뭄으로 원전 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690039)
+#### [페루 나스카 선 상공에서 관광 비행기 추락, 탑승자 13명 전원 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690038)
+#### [그리스, 산불과 사투… 헝가리, 가뭄으로 원전 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690037)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690036)
+#### [1 사용자들에게, 매장에서의 옷 쇼핑이 다시 시작됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690035)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ROST.O/total>
+#### [헝가리 총리, 원전 가동 중단이 임박함에 따라 앞으로 “중대한” 날들이 될 것이라고 언급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690034)
+#### [[속보] 체리 자동차, 7월 5대 주요 브랜드 차량 판매량 전년 동기 대비 24.1% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690033)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9973.HK/total>
 #### [이스라엘의 공습으로 가자지구에서 9명 사망, 이스라엘 장관 “공습 중단 합의는 없다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690032)
 #### [지리자동차, 7월 미감사 판매량이 전년 동기 대비 5% 증가했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690031)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0175.HK/total>
@@ -61,6 +72,10 @@
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689984)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689983)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689982)
+<head><meta charset="utf-8"><title>Vers : 20260802_1146 </title></head>
+<center>Vers : 20260802_1146 </center>
+<center>Vers : 20260802_2046 </center>
+<br><br><br>
 #### [트럼프 대통령이 돌파구를 마련했다고 발표했음에도 불구하고, 이스라엘의 공습으로 가자지구에서 최소 4명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689981)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689980)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689979)
@@ -70,10 +85,6 @@
 #### [이란, 미국이 새로운 공격을 감행할 경우 타국의 에너지 시설을 타격하겠다고 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689975)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689974)
 #### [마자르 총리, “헝가리, 일요일에 팍스 원전 가동 중단할 예정”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689973)
-<head><meta charset="utf-8"><title>Vers : 20260802_1043 </title></head>
-<center>Vers : 20260802_1043 </center>
-<center>Vers : 20260802_1943 </center>
-<br><br><br>
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689972)
 #### [이란 외무장관은 미국과 이스라엘의 “공격”에 대해 “단호한” 대응을 할 것이라고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689971)
 #### [페루 나스카 선 상공에서 관광 비행기 추락사고로 13명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689970)
@@ -125,14 +136,3 @@
 #### [법원이 유죄 판결을 뒤집으면서 페루의 후말라 전 대통령이 석방됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689924)
 #### [이팩스 통신에 따르면, 러시아군이 우크라이나 내 마을 두 곳을 추가로 점령했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689923)
 #### [시추에이션 어웨어니스(Situational Awareness) AI 인수합병을 통해 시타델의 그리핀이 다시 한번 구원자로 나섰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689922)
-#### [이번 주 브레이킹뷰스: 월가의 폭풍우](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689921)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
-#### [스페이스X가 로켓을 분홍색으로 칠할까? 첫 실적 발표를 앞두고 투자자들의 관심은 달과 화성을 넘어선다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689920)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
-#### [그리스에서 산불이 맹위를 떨치는 가운데, 프랑스와 스페인에서는 소방관들이 진화 작업을 이어가고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689919)
-#### [국경으로의 몰려들기가 있은 뒤 평온한 밤을 보낸 스페인, 세우타에 부유식 차단벽 설치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689918)
-#### [산불이 프랑스의 캠핑 전통을 위협하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689917)
-#### [산불이 프랑스의 캠핑 전통을 위협하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689916)
-#### [러시아 로사톰이 소유한 민간 선박이 우크라이나의 드론 공격을 받고 흑해에서 침몰했으나, 승무원 전원이 생존했다고 회사 측이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689915)
-#### [헝가리 총리, “팍스 원전 이번 주말 가동이 중단될 수 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689914)
-#### [토론토 신규 노선 개설로 캐나다 취항 노선 확대…델리-토론토 노선에 B787-9 기종 투입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689913)
