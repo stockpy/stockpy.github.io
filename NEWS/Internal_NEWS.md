@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20260801_2357 </title></head>
-<center>Vers : 20260801_2357 </center>
-<center>Vers : 20260802_0857 </center>
+<head><meta charset="utf-8"><title>Vers : 20260802_0323 </title></head>
+<center>Vers : 20260802_0323 </center>
+<center>Vers : 20260802_1223 </center>
 <br><br><br>
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689994)
+#### [단독-소식통에 따르면 일본, 도쿄와 워싱턴이 엔화 문제에 대해 공동 조치를 취했다고 발표할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689993)
+#### [워싱턴주 25만 에이커가 넘는 지역에서 발생한 산불로 대피령이 내려졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689992)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689991)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689990)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689989)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689988)
+#### [단독-소식통에 따르면, 일본이 도쿄와 워싱턴이 엔화 문제에 대해 공동 조치를 취했다고 발표할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689987)
+#### [아이다호 쇼핑센터 총기 사건으로 3명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689986)
+#### [이란, 미국이 새로운 공격을 감행할 경우 타국의 에너지 시설을 타격하겠다고 위협](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689985)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689984)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689983)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689982)
 #### [트럼프 대통령이 돌파구를 마련했다고 발표했음에도 불구하고, 이스라엘의 공습으로 가자지구에서 최소 4명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689981)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689980)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689979)
@@ -49,16 +62,3 @@
 #### [베를린 테러의 여파 속, 암스테르담에서 수천 명이 모여 열띤 ‘월드프라이드’ 행사 열려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689937)
 #### [터키와 이라크, 1년짜리 송유관 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689936)
 #### [우크라이나의 전력 공급 차질로 크림 반도의 가족들이 따뜻한 식사를 받기 위해 줄을 서고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689935)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689934)
-#### [터키 에너지 장관, “터키와 이라크가 1년짜리 송유관 협정을 체결했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689933)
-#### [[속보 1] 유명 등반가 니르말 푸르자 등 10명, 파키스탄에서 눈사태로 사망… 등산 업체 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689932)
-#### [등반 전문 업체에 따르면, 저명한 등반가 니르말 푸르자와 다른 9명이 파키스탄에서 발생한 눈사태로 사망했다고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689931)
-#### [이라크, 터키와 송유관 협정 연장 체결 예정…INA 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689930)
-#### [국경으로의 대규모 몰려들기 사태 이후 평온한 밤을 보낸 스페인, 세우타에 부유식 차단벽 설치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689929)
-#### [로사톰, 우크라이나 드론 공격으로 흑해에서 민간 선박 침몰…승무원 전원 생존](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689928)
-#### [젤렌스키 대통령, “우크라이나가 러시아의 석유 인프라와 선박을 타격했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689927)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689926)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689925)
-#### [법원이 유죄 판결을 뒤집으면서 페루의 후말라 전 대통령이 석방됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689924)
-#### [이팩스 통신에 따르면, 러시아군이 우크라이나 내 마을 두 곳을 추가로 점령했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689923)
-#### [시추에이션 어웨어니스(Situational Awareness) AI 인수합병을 통해 시타델의 그리핀이 다시 한번 구원자로 나섰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689922)
