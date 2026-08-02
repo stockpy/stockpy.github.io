@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260802_2055 </title></head>
-<center>Vers : 20260802_2055 </center>
-<center>Vers : 20260803_0555 </center>
+<head><meta charset="utf-8"><title>Vers : 20260802_2154 </title></head>
+<center>Vers : 20260802_2154 </center>
+<center>Vers : 20260803_0654 </center>
 <br><br><br>
+#### [천연가스 파이프라인 긴급 공지: 서던 내추럴 가스(Southern Natural Gas) 시추 완료 설비 가동 중단 (SEG 600 힐리어드)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690105)
+#### [산탄데르와 TSB 직원들, 합병 후 감원 사태에 대비- 더 타임스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690104)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690103)
+#### [북아프리카에 위치한 스페인 영토로 몰려든 이민자들로 인한 사망자 수가 72명으로 늘어났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690102)
+#### [우크라이나 드론이 러시아 벨고로드 주 놀이터에서 어린이 1명을 숨지게 하고 2명을 다치게 했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690101)
+#### [이탈리아 주도의 EU 군, 러시아 ‘그림자 함대’ 소속 제재 대상 유조선에 승선](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690100)
+#### [인도는 아시아의 궁극적인 ‘반(反) AI’ 무역국인가?: 레이차우두리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690099)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [일본, 역사적인 대결에서 엔화 약세 문제에 대해 미국과의 협력을 다짐할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690098)
+#### [주말 뉴스-미·일 양국의 엔화 공동 대응, 트럼프의 이란 공격 보류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690097)
 #### [경찰에 따르면 아이다호 총기 난사범은 스스로 총을 쏴 사망한 것으로 밝혀졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690096)
 #### [[속보] 이탈리아 씨 그룹, 2025년 총 매출 2억 9,510만 유로로 전년 대비 27% 감소했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690095)
 #### [[업데이트 1] 블룸버그 보도에 따르면, 이탈리아 케이블 제조사 프리스미안(Prysmian)이 앳코어(Atkore) 인수를 위한 최종 협상을 진행 중이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690094)
@@ -54,13 +64,3 @@
 #### [인도, 지연된 재생에너지 프로젝트에 대한 송전료 감면 방안 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690048)
 #### [파하리, 핀란드에서 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690047)
 #### [OPEC+ 패널, 에너지 시설에 대한 공격에 우려 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690046)
-#### [[속보] 에미레이트 Nbd 은행, HSBC 이집트의 소매은행 사업 인수 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690045)
-#### [[속보] HSBC, 이집트 소매은행 사업부를 에미레이트 NBD에 매각하기로 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690044)
-#### [홀심, 필리핀 자회사를 중국 화신에 8억 700만 달러에 매각하기로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690043)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600801.SS/total>
-#### [OPEC+, 9월 원유 생산 할당량 소폭 증산에 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690042)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690041)
-#### [OPEC+는 9월 원유 생산 할당량을 소폭 늘리는 데 합의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690040)
-#### [종합 1-그리스, 산불과 사투… 헝가리, 가뭄으로 원전 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690039)
-#### [페루 나스카 선 상공에서 관광 비행기 추락, 탑승자 13명 전원 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690038)
-#### [그리스, 산불과 사투… 헝가리, 가뭄으로 원전 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690037)
