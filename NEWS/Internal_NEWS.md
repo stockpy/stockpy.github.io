@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260802_0323 </title></head>
-<center>Vers : 20260802_0323 </center>
-<center>Vers : 20260802_1223 </center>
+<head><meta charset="utf-8"><title>Vers : 20260802_0632 </title></head>
+<center>Vers : 20260802_0632 </center>
+<center>Vers : 20260802_1532 </center>
 <br><br><br>
+#### [[속보] 홀심, 필리핀 사업 매각 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690005)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690004)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690003)
+#### [협상이 결렬되자 웨스트젯 승무원들이 파업에 돌입했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690002)
+#### [오르반 이후의 삶: 새로운 정치 시대가 도래함에 따라 ‘헝가리 인크’가 입지를 공고히 하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690001)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690000)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689999)
+#### [맥심 파워 앨버타의 144 MW H.R. 밀너 석탄 화력발전소 가동 중단 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689998)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689997)
+#### [주목할 요인 - 8월 2일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689996)
+#### [에어프랑스-KLM, 인수 합병 소용돌이 속 이지젯 승객 공략 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689995)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689994)
 #### [단독-소식통에 따르면 일본, 도쿄와 워싱턴이 엔화 문제에 대해 공동 조치를 취했다고 발표할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689993)
 #### [워싱턴주 25만 에이커가 넘는 지역에서 발생한 산불로 대피령이 내려졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689992)
@@ -51,14 +62,3 @@
 #### [EU, 세우타를 통한 이주자 유입 문제 논의 위해 화요일 장관급 회의 소집](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689948)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689947)
 #### [이팩스 통신에 따르면, 러시아군이 우크라이나의 오데사, 미콜라이우 항구에 있는 목표물을 타격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689946)
-#### [이주자들은 굶주림과 적대감 때문에 스페인 세우타에서 모로코로 되돌아갈 수밖에 없었다고 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689945)
-#### [[속보] 르노 인도, 2026년 7월 국내 도매 판매량 27.9% 증가한 3,293대 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689944)
-#### [페루 7월 소비자물가 0.29% 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689943)
-#### [IAEA, 우크라이나 자포리자 원전 외부 전력 공급이 다시 중단됐다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689942)
-#### [[속보] 젭토, 기업공개(IPO) 전 1차 사모유치 발표 - 성명서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689941)
-#### [트럼프, 블랑쉬를 법무장관 대행으로 계속 기용하겠다고 위협하며 ‘무기화 방지’ 기금 재가동 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689940)
-#### [“그들은 가족이에요”: 일본 지진 생존자들, 반려동물과 함께 병원에서 대피 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689939)
-#### [루마니아, 하락 포획 규모 확대…비판론자들은 단속의 허점이 여전히 존재한다고 지적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689938)
-#### [베를린 테러의 여파 속, 암스테르담에서 수천 명이 모여 열띤 ‘월드프라이드’ 행사 열려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689937)
-#### [터키와 이라크, 1년짜리 송유관 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689936)
-#### [우크라이나의 전력 공급 차질로 크림 반도의 가족들이 따뜻한 식사를 받기 위해 줄을 서고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2689935)
