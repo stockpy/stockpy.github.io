@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260802_2255 </title></head>
-<center>Vers : 20260802_2255 </center>
-<center>Vers : 20260803_0755 </center>
+<head><meta charset="utf-8"><title>Vers : 20260802_2358 </title></head>
+<center>Vers : 20260802_2358 </center>
+<center>Vers : 20260803_0858 </center>
 <br><br><br>
+#### [NZ의 비스타 그룹, 견실한 하이일드 실적에 힘입어 2개월 만에 최고치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690130)
+#### [통계에 따르면, 사우디산 원유를 실은 유조선 2척이 주말 동안 홍해를 빠져나간 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690129)
+#### [도쿄 센추리(Tokyo Century Corporation)의 미국 자회사인 에비에이션 캐피털 그룹(Aviation Capital Group)에 대한 투자를 검토하고 있는 것은 사실이나, 현재로서는 아직 결정된 바가 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690128)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8001.T/total>
+#### [[종합 1] 트럼프, 이란 협상 월요일 열릴 것이라고 밝히며 합의 마감 기한은 설정하지 않아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690127)
+#### [- China Moly <603993.SS>의 마진 매수 잔고는 30,201(x10,000) 위안이며, 공매도 물량은 16(x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690126)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603993.SS/total>
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690125)
+#### [베센트는 미일 양국의 공동 조치가 엔화 환율의 무질서한 변동을 억제했다고 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690124)
+#### [일본, 미국과의 공동 외환 시장 개입 사실 확인…추가 개입도 주저하지 않을 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690123)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690122)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690121)
+#### [영국 채용은 감소했으나 AI 기술에 대한 수요는 급증했다고 구인 사이트 인디드(Indeed)가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690120)
+#### [한 경제 분석가는 호르무즈 해협이 계속 봉쇄될 경우 영국이 경기 침체에 직면할 것이라고 경고했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690119)
+#### [[예고] 도요타, 5분기 연속 이익 감소 예상…투자자들, 일본 지진 여파 주시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690118)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7203.T/total>
+#### [호주 증시는 약세로 출발할 전망, 뉴질랜드 증시는 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690117)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
 #### [NZD/USD, 달러 약세에 힘입어 새로운 상승 국면 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690116)
 #### [모레노 미국 상원의원, 학대 의혹을 이유로 오하이오주 출신 밀러 의원의 의회 재직이 부적절하다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690115)
 #### [UKMTO는 오만 항구 도시 북동쪽 해상에서 유조선 사고에 대한 신고를 접수했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690114)
@@ -49,17 +67,3 @@
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690073)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690072)
 #### [분석-중국, EU·미국과의 무역 협상 앞두고 자국 경제 모델에 대한 ‘레드라인’ 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690071)
-#### [위베스가 투르 드 프랑스 페므 2단계에서 우승을 차지하며 노란 저지를 지켜냈다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690070)
-#### [테헤란, 이란과 오만의 호르무즈 관련 협상이 막바지에 접어들었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690069)
-#### [그리스, 산불과 사투… 가뭄으로 헝가리 원전 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690068)
-#### [트럼프의 휴전 노력에도 불구하고 이스라엘은 가자지구에 대한 치명적인 공습을 계속하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690067)
-#### [[속보] 유벤투스 축구 클럽, PSG와 콜로 무아니 선수의 완전 이적에 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690066)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690065)
-#### [이탈리아가 주도하는 EU 연합군이 지중해에서 러시아의 ‘그림자 함대’ 소속 제재 대상 유조선에 승선했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690064)
-#### ['스파이더맨: 브랜드 뉴 데이', 미국과 캐나다에서 개봉 첫 주 3억 5,500만 달러의 엄청난 흥행 성적을 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690063)
-#### [‘스파이더맨: 브랜드 뉴 데이’, 미국과 캐나다에서 개봉 첫 주 3억 5,500만 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690062)
-#### [러시아는 자국 군이 우크라이나의 항만 시설과 군수 물자를 실은 선박을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690061)
-#### [에미레이트 NBD 은행, HSBC 이집트의 소매은행 사업 인수 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690060)
-#### ['스파이더맨: 브랜드 뉴 데이', 미국과 캐나다에서 개봉 첫 주 3억 5,500만 달러의 흥행 성적을 기록했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690059)
-#### [[속보] 유벤투스 축구 클럽, 알라즈베고비치 선수의 완전 이적을 위해 바이어 레버쿠젠과 합의했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690058)
-#### [우크라이나 국경 인근 루마니아 영토에 드론 파편이 떨어졌다 - 국방부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2690057)
