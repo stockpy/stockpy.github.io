@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260803_1853 </title></head>
-<center>Vers : 20260803_1853 </center>
-<center>Vers : 20260804_0353 </center>
+<head><meta charset="utf-8"><title>Vers : 20260803_2022 </title></head>
+<center>Vers : 20260803_2022 </center>
+<center>Vers : 20260804_0522 </center>
 <br><br><br>
 #### ["4일 밤부터 가능"…SK하이닉스 개미들 기대하는 이유 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005316935)
 #### ["SK하닉 몰빵, 22억 다 날렸다"…알고 보니 '0' 하나 더 붙였다](https://m.stock.naver.com/news/ranknews/view/015/0005316637)
@@ -62,9 +62,9 @@
 #### ['17%↑→-8%↓' 역대급 폭등서 '와르르'…삼전닉스 주가 전망은](https://m.stock.naver.com/news/ranknews/view/243/0000101189)
 #### [모건스탠리 "9000피 간다…韓증시 36% 더 오를 것"](https://m.stock.naver.com/news/ranknews/view/018/0006343035)
 #### [엔화 가치 ‘급락’에 놀란 韓·美·日…‘엔저 방어’ 전격 공조 나선 속내](https://m.stock.naver.com/news/ranknews/view/243/0000101194)
-<head><meta charset="utf-8"><title>Vers : 20260803_1853 </title></head>
-<center>Vers : 20260803_1853 </center>
-<center>Vers : 20260804_0353 </center>
+<head><meta charset="utf-8"><title>Vers : 20260803_2022 </title></head>
+<center>Vers : 20260803_2022 </center>
+<center>Vers : 20260804_0522 </center>
 <br><br><br>
 #### [비중 무려 51%, "삼전닉스피" 이 말까지 나왔다...변동성 커진 이유](https://m.stock.naver.com/news/ranknews/view/008/0005394534)
 #### [에코프로비엠 22만원→11.5만원?…목표가 반토막 이유는](https://m.stock.naver.com/news/ranknews/view/018/0006342827)
