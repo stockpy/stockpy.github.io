@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260804_1955 </title></head>
-<center>Vers : 20260804_1955 </center>
-<center>Vers : 20260805_0455 </center>
+<head><meta charset="utf-8"><title>Vers : 20260804_2112 </title></head>
+<center>Vers : 20260804_2112 </center>
+<center>Vers : 20260805_0612 </center>
 <br><br><br>
 #### [“최태원 회장이 SK하이닉스 사라고 했다”는 지라시에…커지는 기대·경계감](https://m.stock.naver.com/news/ranknews/view/009/0005716672)
 #### ['한 달 전으로 시간 돌릴 수 있다면'…빚투 개미들 '피눈물' [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005317374)
