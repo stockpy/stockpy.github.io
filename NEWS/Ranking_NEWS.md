@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260805_1752 </title></head>
-<center>Vers : 20260805_1752 </center>
-<center>Vers : 20260806_0252 </center>
+<head><meta charset="utf-8"><title>Vers : 20260805_1929 </title></head>
+<center>Vers : 20260805_1929 </center>
+<center>Vers : 20260806_0429 </center>
 <br><br><br>
 #### [1조8000억 '겹호재' 터졌다…'주가 28% 상승' 반전 쓴 회사 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005317843)
 #### ["1987년 대폭락 또 온다"…'빅쇼트' 버리, 美 증시에 경고](https://m.stock.naver.com/news/ranknews/view/018/0006345340)
