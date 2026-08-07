@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260807_2234 </title></head>
-<center>Vers : 20260807_2234 </center>
-<center>Vers : 20260808_0734 </center>
+<head><meta charset="utf-8"><title>Vers : 20260807_2315 </title></head>
+<center>Vers : 20260807_2315 </center>
+<center>Vers : 20260808_0815 </center>
 <br><br><br>
 #### [주주환원 외치고 7% 오른 마이크론…말 아끼고 17% 깎인 하이닉스](https://m.stock.naver.com/news/ranknews/view/009/0005718230)
 #### [주식으로 20억 수익 인증한 사람입니다…순식간에 싹](https://m.stock.naver.com/news/ranknews/view/021/0002809999)

@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260807_2234 </title></head>
-<center>Vers : 20260807_2234 </center>
-<center>Vers : 20260808_0734 </center>
+<head><meta charset="utf-8"><title>Vers : 20260807_2314 </title></head>
+<center>Vers : 20260807_2314 </center>
+<center>Vers : 20260808_0814 </center>
 <br><br><br>
+#### [미국 농무부(USDA) 8월 작물 수급 보고서 추정치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699696)
+#### [미국, 호르무즈 해협 관련 조만간 합의 기대… 수니파 강대국들, 방위 협정으로 결집](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699695)
+#### [CIF/FOB 걸프 지역 곡물·대두 바지선 입찰가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699694)
+#### [Peyto Exploration & Development Corp <PEY.TO>, 주당 52센트의 이익 기록 전망 - 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699693)
+#### [마운트 로건 캐피털(Mount Logan Capital Inc) <MLCI.OQ>, 주당 1센트의 이익 기록 전망 - 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699692)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MLCI.O/total>
+#### [부진한 고용 지표로 금리 인상 우려가 완화되면서 S&P 지수가 사상 최고치로 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699691)
+#### [아만다 녹스, 살인 혐의를 받은 후 자신의 삶을 소재로 한 코미디 쇼를 되돌아보다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699690)
+#### [Vox Royalty Corp <VOXR.TO>, 주당 7센트의 이익 기록할 전망 - 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699689)
+#### [옥타브, 보험 판매 실적 전망치를 상향 조정하고 에버스팬의 2026 회계연도 실적 전망치를 하향 조정한 후 주가가 12.9% 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699688)
+#### [옥타브, 보험 판매 실적 전망치를 상향 조정하고 에버스팬의 2026 회계연도 실적 전망치를 하향 조정한 후 주가가 12.9% 하락했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699687)
+#### [한 기관, “기록적인 폭염이 영국의 기후 위험 지도를 재편하고 있다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699686)
+#### [Grupo Supervielle S.A. <SUPV.N>, 주당 19센트의 이익 기록할 전망 - 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699685)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SUPV.K/total>
+#### [한 기관, “기록적인 폭염이 영국의 기후 위험 지도를 재편하고 있다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699684)
+#### [미국 규제 당국, 네덜란드 핀테크 기업 Bunq의 전국 은행 설립 허가 신청을 기각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699683)
+#### [브라질, 사기 방지 위해 암호화폐 송금 규제 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699682)
+#### [US 금요일 미국 원자력 발전 가동 중단 용량이 1,999 MW로 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699681)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699680)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699679)
 #### [미국 FOB 현물 제분용 사료 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699678)
@@ -50,25 +68,3 @@
 #### [미국 우정청, 분기 25억 달러 적자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699639)
 #### [시브리지 골드(Seabridge Gold Inc.) <SEA.TO>, 주당 6센트의 적자 예상 - 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699638)
 #### [노동당, 탄소중립 목표 후퇴 모색 - 더 타임스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699637)
-#### [해밀턴 셀렉트, 최근 FSR 등급 상향 조정으로 시장 점유율 확대에 박차를 가하며 새로운 사업 기회를 창출하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699636)
-#### [Expion360, 제품 구성의 고수익 품목 비중 증가로 2분기 매출 총이익 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699635)
-#### [Telecom Argentina SA <TEO.N>, 주당 26센트의 이익 기록할 전망 - 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699634)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TEO/total>
-#### [미국 판사들, 트럼프 행정부가 남수단·미얀마 출신 이민자들에 대한 보호 조치를 종료하는 것을 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699633)
-#### ['글로벌 셀프 스토리지', 요금 인상으로 2분기 매출 소폭 증가…비용은 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699632)
-#### [CT 부동산 투자신탁 <CRT_u.TO>, 주당 손실 기록할 전망 - 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699631)
-#### [‘월스트리트 주간 전망’ ? 기록적인 상승세를 이어가고 있는 미국 증시와 연준의 금리 전망을 가늠할 인플레이션 지표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699630)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRWV.O/total>
-#### [미국 주식 주간 동향: 상승세 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699629)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
-#### [가격 상승으로 판매가 주춤해지면서 아르헨티나 농민들이 밀 수확을 미루고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699628)
-#### [‘Inside Debt’ - 8월 7일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699627)
-#### [센트럴 푸에르토 S.A. <CEPU.N>, 주당 87센트의 이익 기록할 전망 - 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699621)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CEPU.K/total>
-#### [북미, 8월 10일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699626)
-#### [아폴로에 인수된 이지젯, 30억 파운드의 부채를 떠안게 될 전망 - 더 타임스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699620)
-#### [YPF SA <YPF.N>, 주당 3.01달러의 실적 기록할 전망 - 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699619)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/YPF/total>
-#### [연방준비제도(Fed) 관련 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699625)
-#### [페트로브라스, 2026년 원유 생산 목표 초과 달성할 전망…CEO 발언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699618)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BVSP>
