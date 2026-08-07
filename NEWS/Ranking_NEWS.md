@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260807_1855 </title></head>
-<center>Vers : 20260807_1855 </center>
-<center>Vers : 20260808_0355 </center>
+<head><meta charset="utf-8"><title>Vers : 20260807_1952 </title></head>
+<center>Vers : 20260807_1952 </center>
+<center>Vers : 20260808_0452 </center>
 <br><br><br>
 #### [주식으로 20억 수익 인증한 사람입니다…순식간에 싹](https://m.stock.naver.com/news/ranknews/view/021/0002809999)
 #### [‘298만→149만원’ 주가 반토막 났지만 “믿는 건 반도체”…개미들 폭풍 매수 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002681052)
