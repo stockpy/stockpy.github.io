@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260808_1914 </title></head>
-<center>Vers : 20260808_1914 </center>
-<center>Vers : 20260809_0414 </center>
+<head><meta charset="utf-8"><title>Vers : 20260808_2029 </title></head>
+<center>Vers : 20260808_2029 </center>
+<center>Vers : 20260809_0529 </center>
 <br><br><br>
+#### [산불이 확산됨에 따라 브리티시컬럼비아주가 주 차원의 비상사태를 선포했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699811)
+#### [환경 보호 활동가들, 스페인 석호에서 플라밍고 새끼 600마리에 표식 부착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699810)
+#### [산불이 확산되면서 브리티시컬럼비아주 와인 산지 주민 수천 명에게 대피 명령 내려져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699809)
+#### [델타 항공기, 애틀랜타에 비상 착륙…부상자 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699808)
+#### [조 바이든 전 대통령의 암이 전이됐으며 극심한 통증을 겪고 있다고 아들이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699807)
 #### [미국 상원, 8월 휴회기에 앞서 획기적인 암호화폐 법안을 처리했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699806)
 #### [천연가스 파이프라인 긴급 공지: 2026년 8월 9일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699805)
 #### [[속보 1] 터키 국방장관, “터키·파키스탄·사우디아라비아 간 국방 협정은 기술적으로 나토(NATO) 제5조와 동일하다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699804)
@@ -62,9 +67,3 @@
 #### [상원 공화당 의원들, 토드 블랑슈 법무장관 지명자를 근소한 차이로 인준](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699754)
 #### [상원 공화당 의원들이 토드 블랑쉬를 법무장관으로 아슬아슬하게 인준했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699753)
 #### [키예프 당국, 우크라이나가 러시아 정유소 2곳을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699752)
-#### [미국 상원, 선거 전 연방 정부 셧다운을 막기 위한 단기 예산안 가결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699751)
-#### [미국 상원, 선거 전 연방 정부 셧다운을 막기 위한 단기 예산안 통과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699750)
-#### [인터팩스 통신에 따르면, 러시아는 오데사 동쪽 해상에서 우크라이나로 향하는 무기를 실은 선박을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699749)
-#### [태풍 ‘돌핀’이 일본 오키나와를 강타, 중국은 상륙을 앞두고 항구를 폐쇄했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699748)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9201.T/total>
-#### [[속보] 크라이슬러, 안전벨트가 제대로 감기지 않아 탑승자를 의도한 대로 제대로 보호하지 못할 수 있어 미국 내 일부 차량을 리콜한다 - NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699747)
