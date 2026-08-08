@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260808_1836 </title></head>
-<center>Vers : 20260808_1836 </center>
-<center>Vers : 20260809_0336 </center>
+<head><meta charset="utf-8"><title>Vers : 20260808_1914 </title></head>
+<center>Vers : 20260808_1914 </center>
+<center>Vers : 20260809_0414 </center>
 <br><br><br>
+#### [미국 상원, 8월 휴회기에 앞서 획기적인 암호화폐 법안을 처리했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699806)
+#### [천연가스 파이프라인 긴급 공지: 2026년 8월 9일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699805)
+#### [[속보 1] 터키 국방장관, “터키·파키스탄·사우디아라비아 간 국방 협정은 기술적으로 나토(NATO) 제5조와 동일하다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699804)
+#### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699803)
 #### [터키 외무장관은 터키가 러시아와 우크라이나에 흑해에서 모라토리엄을 선언해야 한다고 전달했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699802)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699801)
 #### [터키·파키스탄·사우디아라비아 간 국방 협정은 기술적으로 나토(NATO)의 제5조와 동일하다고 장관이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699800)
@@ -64,7 +68,3 @@
 #### [태풍 ‘돌핀’이 일본 오키나와를 강타, 중국은 상륙을 앞두고 항구를 폐쇄했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699748)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9201.T/total>
 #### [[속보] 크라이슬러, 안전벨트가 제대로 감기지 않아 탑승자를 의도한 대로 제대로 보호하지 못할 수 있어 미국 내 일부 차량을 리콜한다 - NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699747)
-#### [우크라이나의 드론 공격으로 러시아 크라스노다르 주 정유소에서 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699746)
-#### [킹스턴 코젠 온타리오 140 MW 데스텍 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699745)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699744)
-#### [영국 음악 페스티벌, 혜택과 분할 납부 제도를 통해 조심스럽게 부활의 조짐을 보이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699743)
