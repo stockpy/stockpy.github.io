@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260808_1632 </title></head>
-<center>Vers : 20260808_1632 </center>
-<center>Vers : 20260809_0132 </center>
+<head><meta charset="utf-8"><title>Vers : 20260808_1705 </title></head>
+<center>Vers : 20260808_1705 </center>
+<center>Vers : 20260809_0205 </center>
 <br><br><br>
 #### ["30대에 집도 샀는데"...월 690만원 맞벌이, 남는 건 20만원뿐 [머니설계사무소]](https://m.stock.naver.com/news/ranknews/view/014/0005558836)
 #### ['일단 넣고 보자' 1조4000억 몰렸다…요즘 뜨는 개미 피난처 [투자톡]](https://m.stock.naver.com/news/ranknews/view/015/0005318738)
