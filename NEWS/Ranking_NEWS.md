@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260808_1431 </title></head>
-<center>Vers : 20260808_1431 </center>
-<center>Vers : 20260808_2331 </center>
+<head><meta charset="utf-8"><title>Vers : 20260808_1500 </title></head>
+<center>Vers : 20260808_1500 </center>
+<center>Vers : 20260809_0000 </center>
 <br><br><br>
 #### ["30대에 집도 샀는데"...월 690만원 맞벌이, 남는 건 20만원뿐 [머니설계사무소]](https://m.stock.naver.com/news/ranknews/view/014/0005558836)
 #### [“‘콩’했는데 425만원 중고차값 물어줬어요”…내달 나이롱 환자 검토제 도입](https://m.stock.naver.com/news/ranknews/view/009/0005718326)
