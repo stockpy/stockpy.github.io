@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260808_2029 </title></head>
-<center>Vers : 20260808_2029 </center>
-<center>Vers : 20260809_0529 </center>
+<head><meta charset="utf-8"><title>Vers : 20260808_2101 </title></head>
+<center>Vers : 20260808_2101 </center>
+<center>Vers : 20260809_0601 </center>
 <br><br><br>
 #### [산불이 확산됨에 따라 브리티시컬럼비아주가 주 차원의 비상사태를 선포했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699811)
 #### [환경 보호 활동가들, 스페인 석호에서 플라밍고 새끼 600마리에 표식 부착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699810)
