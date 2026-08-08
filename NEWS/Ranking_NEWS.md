@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260808_1032 </title></head>
-<center>Vers : 20260808_1032 </center>
-<center>Vers : 20260808_1932 </center>
+<head><meta charset="utf-8"><title>Vers : 20260808_1103 </title></head>
+<center>Vers : 20260808_1103 </center>
+<center>Vers : 20260808_2003 </center>
 <br><br><br>
 #### [60% 빠졌던 효성중공업의 반전…주가 되살린 ‘12조 수주’의 힘 [이주의 Bull기둥]](https://m.stock.naver.com/news/ranknews/view/009/0005718274)
 #### [주식으로 20억 수익 인증한 사람입니다…순식간에 싹](https://m.stock.naver.com/news/ranknews/view/021/0002809999)
