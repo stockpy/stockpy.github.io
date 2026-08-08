@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260808_2101 </title></head>
-<center>Vers : 20260808_2101 </center>
-<center>Vers : 20260809_0601 </center>
+<head><meta charset="utf-8"><title>Vers : 20260808_2228 </title></head>
+<center>Vers : 20260808_2228 </center>
+<center>Vers : 20260809_0728 </center>
 <br><br><br>
+#### [독일 장관, 도이체반의 성과급을 목표 달성 여부와 연계하고자 해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699813)
+#### [독일 장관, 드론으로 추정되는 공격 발생 후 매일 벌어지는 ‘하이브리드 전쟁’에 대해 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699812)
 #### [산불이 확산됨에 따라 브리티시컬럼비아주가 주 차원의 비상사태를 선포했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699811)
 #### [환경 보호 활동가들, 스페인 석호에서 플라밍고 새끼 600마리에 표식 부착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699810)
 #### [산불이 확산되면서 브리티시컬럼비아주 와인 산지 주민 수천 명에게 대피 명령 내려져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699809)
@@ -65,5 +67,3 @@
 #### [인도는 디아지오에 자사 위스키의 “미국산 오크통에서 숙성되었다”는 표기가 오해를 불러일으킬 수 있다고 경고했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699756)
 #### [과학자들이 허리케인 예보 정확도를 높이기 위해 상어를 연구 대상으로 삼고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699755)
 #### [상원 공화당 의원들, 토드 블랑슈 법무장관 지명자를 근소한 차이로 인준](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699754)
-#### [상원 공화당 의원들이 토드 블랑쉬를 법무장관으로 아슬아슬하게 인준했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699753)
-#### [키예프 당국, 우크라이나가 러시아 정유소 2곳을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699752)
