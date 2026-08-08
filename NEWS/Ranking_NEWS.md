@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260808_2228 </title></head>
-<center>Vers : 20260808_2228 </center>
-<center>Vers : 20260809_0728 </center>
+<head><meta charset="utf-8"><title>Vers : 20260808_2259 </title></head>
+<center>Vers : 20260808_2259 </center>
+<center>Vers : 20260809_0759 </center>
 <br><br><br>
 #### [“금값 떨어진 지금이 기회다”…골드바 쌓기 시작한 한·중 중앙은행 [원자재로 살아남기]](https://m.stock.naver.com/news/ranknews/view/009/0005718241)
 #### [“‘콩’했는데 425만원 중고차값 물어줬어요”…내달 나이롱 환자 검토제 도입](https://m.stock.naver.com/news/ranknews/view/009/0005718326)
