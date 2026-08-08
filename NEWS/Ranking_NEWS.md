@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260808_1705 </title></head>
-<center>Vers : 20260808_1705 </center>
-<center>Vers : 20260809_0205 </center>
+<head><meta charset="utf-8"><title>Vers : 20260808_1836 </title></head>
+<center>Vers : 20260808_1836 </center>
+<center>Vers : 20260809_0336 </center>
 <br><br><br>
 #### ["30대에 집도 샀는데"...월 690만원 맞벌이, 남는 건 20만원뿐 [머니설계사무소]](https://m.stock.naver.com/news/ranknews/view/014/0005558836)
 #### ['일단 넣고 보자' 1조4000억 몰렸다…요즘 뜨는 개미 피난처 [투자톡]](https://m.stock.naver.com/news/ranknews/view/015/0005318738)
@@ -10,7 +10,7 @@
 #### [‘정부의 서학개미 증시복귀 작전 실패?’…로이터 “코스피 신뢰 빠르게 악화”](https://m.stock.naver.com/news/ranknews/view/021/0002810058)
 #### [“‘콩’했는데 425만원 중고차값 물어줬어요”…내달 나이롱 환자 검토제 도입](https://m.stock.naver.com/news/ranknews/view/009/0005718326)
 #### [삼전·SK하닉 다시 달릴까…‘주도주 복귀’ 시험대 [증시전망대]](https://m.stock.naver.com/news/ranknews/view/029/0003041280)
-#### [5년 묵혀만 뒀는데 18% 수익…돈 몰려든 이유 있었다](https://m.stock.naver.com/news/ranknews/view/215/0001261663)
+#### ["일단 피하자"한건데 깜짝 놀란 수익률…돈 몰려든 이유 있었다](https://m.stock.naver.com/news/ranknews/view/215/0001261663)
 #### ["삼전·닉스 이래서 빠졌네"…中 반도체 속사정 [B급기자의 B급리포트]](https://m.stock.naver.com/news/ranknews/view/215/0001261616)
 #### [“레버리지 막자 코스닥으로 돈 몰렸다”…다시 고개 드는 ‘천스닥’ 기대 [증시레이더]](https://m.stock.naver.com/news/ranknews/view/138/0002237089)
 #### ['삼전닉스 레버리지 직격탄' 7월에 망했던 코스닥…'상승률 11.38%' 8월 반전 기대감 솔솔[주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005800462)

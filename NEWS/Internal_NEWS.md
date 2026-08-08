@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260808_1705 </title></head>
-<center>Vers : 20260808_1705 </center>
-<center>Vers : 20260809_0205 </center>
+<head><meta charset="utf-8"><title>Vers : 20260808_1836 </title></head>
+<center>Vers : 20260808_1836 </center>
+<center>Vers : 20260809_0336 </center>
 <br><br><br>
+#### [터키 외무장관은 터키가 러시아와 우크라이나에 흑해에서 모라토리엄을 선언해야 한다고 전달했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699802)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699801)
+#### [터키·파키스탄·사우디아라비아 간 국방 협정은 기술적으로 나토(NATO)의 제5조와 동일하다고 장관이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699800)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699799)
+#### [정치적 교착 상태 속, 한 의원이 코소보 총리에게 달걀을 던졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699798)
+#### [사이클 - 볼레링, 투르 드 프랑스 팜에서 극적인 8단계 우승으로 종합 선두 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699797)
 #### [볼레링, 제8구간 우승… 투르 드 프랑스 팜므 종합 선두 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699796)
 #### [오토바이 경주-아프리리아의 마틴, 영국 그랑프리 스프린트 우승으로 챔피언십 선두 격차 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699795)
 #### [아프릴리아의 마틴, 영국 그랑프리 스프린트 우승으로 챔피언십 선두 격차 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699794)
@@ -62,10 +68,3 @@
 #### [킹스턴 코젠 온타리오 140 MW 데스텍 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699745)
 #### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699744)
 #### [영국 음악 페스티벌, 혜택과 분할 납부 제도를 통해 조심스럽게 부활의 조짐을 보이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699743)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699742)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699741)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699740)
-#### [미국 지질조사국(USGS)에 따르면 알래스카 스콴트나 지역에서 규모 5.5의 지진이 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699739)
-#### [작년 등반객 5명이 실종된 현장에서 시신 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699738)
-#### [태풍 ‘돌핀’이 일본 오키나와를 강타했고, 중국은 상륙을 앞두고 항구를 폐쇄했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699737)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9201.T/total>
