@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_1839 </title></head>
-<center>Vers : 20260809_1839 </center>
-<center>Vers : 20260810_0339 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_1919 </title></head>
+<center>Vers : 20260809_1919 </center>
+<center>Vers : 20260810_0419 </center>
 <br><br><br>
+#### [[속보] 이탈리아 씨 그룹, 신규 투자자 선정을 위한 경쟁 절차를 개시한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699913)
+#### [사이클-볼레링, 투르 드 프랑스 펨므 2연패 달성하며 압도적인 경기력 선보여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699912)
+#### [이란, 오만과의 합의가 “최종 단계”에 접어들었다고 밝혔으나, 호르무즈 해협 개방을 위해 미국이 조치를 취해야 한다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699911)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699910)
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699909)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699908)
@@ -64,8 +67,3 @@
 #### [[속보] 광둥 바이오라이트 메디텍, 8월 10일부터 주식 거래 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699856)
 #### [이민 논란 이후, 스페인 당국이 국경 검문소에서 이탈리아에서 입국한 200명을 조사했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699855)
 #### [[속보] 무어 스레드 테크놀로지, 상반기 순손실 1,160만 위안 기록…홍콩 상장 추진 계획 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699854)
-#### [[속보] 우시 앱텍, 미 국방부의 1260H 지정 조치에 대한 미국 법원의 가처분 결정 환영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699853)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603259.SS/total>
-#### [[속보] CASIN 부동산 개발 그룹, 8월 10일부터 주식 거래 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699852)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000838.SZ/total>
-#### [이란 장관, “임시 합의가 위반되는 한 미국과의 협상은 이루어지지 않을 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699851)

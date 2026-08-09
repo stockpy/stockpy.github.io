@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_1839 </title></head>
-<center>Vers : 20260809_1839 </center>
-<center>Vers : 20260810_0339 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_1919 </title></head>
+<center>Vers : 20260809_1919 </center>
+<center>Vers : 20260810_0419 </center>
 <br><br><br>
 #### ["저게 뭐야?" 주말 달군 UFO 목격담...쩍 갈라진 하늘까지](https://m.stock.naver.com/news/ranknews/view/018/0006348369)
 #### [모건스탠리 “메모리주 급락 끝났다”…“지금이 재진입 기회”](https://m.stock.naver.com/news/ranknews/view/009/0005718668)
@@ -62,9 +62,9 @@
 #### [금리 올려도 안 잡히는 집값…한은에 쏠리는 눈](https://m.stock.naver.com/news/ranknews/view/648/0000049653)
 #### [단일종목발 규제 한파 후폭풍…ETF 시장 '경색'[레버리지 그후③]](https://m.stock.naver.com/news/ranknews/view/003/0014115987)
 #### [‘AI 경계감’ 외인, 일주일새 반도체 6조 던졌다](https://m.stock.naver.com/news/ranknews/view/011/0004649982)
-<head><meta charset="utf-8"><title>Vers : 20260809_1839 </title></head>
-<center>Vers : 20260809_1839 </center>
-<center>Vers : 20260810_0339 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_1919 </title></head>
+<center>Vers : 20260809_1919 </center>
+<center>Vers : 20260810_0419 </center>
 <br><br><br>
 #### ['빚투 개미' 항복…코스닥 쓸어담은 외국인 [B급기자의 B급리포트]](https://m.stock.naver.com/news/ranknews/view/215/0001261664)
 #### [“올해만 430% 올랐다”…월가가 M7 버리고 택한 ‘P7’, 돈 쓸어 담는다는데](https://m.stock.naver.com/news/ranknews/view/011/0004649916)
