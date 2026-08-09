@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_0342 </title></head>
-<center>Vers : 20260809_0342 </center>
-<center>Vers : 20260809_1242 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_0504 </title></head>
+<center>Vers : 20260809_0504 </center>
+<center>Vers : 20260809_1404 </center>
 <br><br><br>
+#### [태풍 ‘돌핀’이 중국 동부 해안을 강타할 전망이며, 이에 따라 홍수 경보가 발령될 전망이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699830)
+#### [하그리브스 랜스다운, 직원들에게 사무실 복귀 지시 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699829)
+#### [주목할 요인 - 8월 9일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699828)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699827)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699826)
 #### [[속보 1] 사우디아라비아 지잔 소재 아람코 시설 화재 진압되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699825)
@@ -62,6 +65,3 @@
 #### [이란, 호르무즈 해협 임시 항로에 관한 오만과의 합의에 “매우 근접했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699773)
 #### [헝가리 여당, 전 대법원장 바카를 대통령 후보로 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699772)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699771)
-#### [헝가리 여당이 전 대법원장 바카를 대통령 후보로 지명했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699770)
-#### [이라크 장관, “이라크가 이란과 원유 수출 협의를 진행 중”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699769)
-#### [불가리아의 라데프 대통령, “불가리아 영공에서 드론 폭발…인명 피해 없어” - BTA 통신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699768)
