@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_0504 </title></head>
-<center>Vers : 20260809_0504 </center>
-<center>Vers : 20260809_1404 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_0655 </title></head>
+<center>Vers : 20260809_0655 </center>
+<center>Vers : 20260809_1555 </center>
 <br><br><br>
+#### [중국이 유럽 산업에 대한 의존도를 낮추면서 독일의 대중 무역 적자가 확대되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699840)
+#### [맥쿼리 온타리오 184MW 카디널 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699839)
+#### [파도가 거친 가운데 타히티 프로 대회가 개막하며, 서핑 와일드카드 켈리 슬레이터가 주역으로 나선다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699838)
+#### [호주, 시드니 공항 활주로에서 발생한 두 항공기 간 아슬아슬한 충돌 사고 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699837)
+#### [[속보] 캐나다 메디컬 센터 이사회, 무상주식을 통해 자본 증자 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699836)
+#### [백악관과 트럼프 선거 캠프의 게시물에서 테일러 스위프트의 노래들이 삭제됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699835)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699834)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699833)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699832)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699831)
 #### [태풍 ‘돌핀’이 중국 동부 해안을 강타할 전망이며, 이에 따라 홍수 경보가 발령될 전망이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699830)
 #### [하그리브스 랜스다운, 직원들에게 사무실 복귀 지시 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699829)
 #### [주목할 요인 - 8월 9일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699828)
@@ -54,14 +64,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0992.HK/total>
 #### [[종합 1] 이란, 호르무즈 해협 관련 합의 임박했으나 단독으로 해협을 개방하지는 않을 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699782)
 #### [[속보] 버크셔 해서웨이, 6월 30일 기준 주식 투자 총 공정가치 중 66%가 아메리칸 익스프레스, 애플, 뱅크 오브 아메리카, 알파벳, 코카콜라에 집중되어 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699781)
-#### [버크셔, 영업이익 증가 발표 및 자사주 매입 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699780)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [[속보] 버크셔 해서웨이, 2분기 영업이익 12,983백만 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699779)
-#### [불가리아의 라데프 대통령, “드론이 불가리아 영공에서 폭발했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699778)
-#### [아프리리아의 마틴, 랩 기록을 갈아치우며 영국 그랑프리 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699777)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699776)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699775)
-#### [아랍에미리트(UAE), 이란이 호르무즈 해협에서 ADNOC 선박을 미사일로 공격했다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699774)
-#### [이란, 호르무즈 해협 임시 항로에 관한 오만과의 합의에 “매우 근접했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699773)
-#### [헝가리 여당, 전 대법원장 바카를 대통령 후보로 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699772)
-#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699771)
