@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_1249 </title></head>
-<center>Vers : 20260809_1249 </center>
-<center>Vers : 20260809_2149 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_1338 </title></head>
+<center>Vers : 20260809_1338 </center>
+<center>Vers : 20260809_2238 </center>
 <br><br><br>
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699887)
+#### [트랜스캐나다 온타리오의 226 MW 할턴 힐스 1호 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699886)
+#### [하와이 민주당 현직 의원이 하원 예비선거에서 좌파 성향의 도전자에 맞서 승리를 거뒀다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699885)
+#### [시리아와 러시아, 18개월간의 협상 끝에 타르투스 및 흐메이밈 기지의 향후 운영 방안에 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699884)
+#### [월가 주간 전망-인플레이션 지표, 사상 최고치를 경신한 미국 증시와 연준 금리 전망을 가늠할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699883)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRWV.O/total>
+#### [페르난데스, 영국 MotoGP에서 압도적인 승리를 거두다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699882)
+#### [우크라이나의 젤렌스키 대통령은 최대 5만 명의 북한군이 러시아에 배치될 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699881)
 #### [시리아와 러시아, 18개월간의 협상 끝에 타르투스 및 흐메이밈 기지의 미래에 관한 합의 도출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699880)
 #### [이란 국영 매체, 페제슈키안 의원이 최근 하메네이 최고지도자와 회동했다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699879)
 #### [[업데이트 1] WSJ 보도에 따르면, 애플이 아이폰과 맥북에 탑재할 중국 CXMT사의 메모리 칩을 테스트 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699878)
@@ -61,6 +69,10 @@
 #### [태풍 ‘돌핀’이 중국 동부 해안을 강타할 전망이며, 이에 따라 홍수 경보가 발령될 전망이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699830)
 #### [하그리브스 랜스다운, 직원들에게 사무실 복귀 지시 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699829)
 #### [주목할 요인 - 8월 9일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699828)
+<head><meta charset="utf-8"><title>Vers : 20260809_1338 </title></head>
+<center>Vers : 20260809_1338 </center>
+<center>Vers : 20260809_2238 </center>
+<br><br><br>
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699827)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699826)
 #### [[속보 1] 사우디아라비아 지잔 소재 아람코 시설 화재 진압되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699825)
@@ -68,10 +80,6 @@
 #### [사우디아라비아 자잔에 위치한 아람코 시설에서 화재가 진압되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699823)
 #### [파라마운트, 영화관 체인사에 30편 상영 약속을 서면으로 제시할 예정 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699822)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699821)
-<head><meta charset="utf-8"><title>Vers : 20260809_1249 </title></head>
-<center>Vers : 20260809_1249 </center>
-<center>Vers : 20260809_2149 </center>
-<br><br><br>
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699820)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699819)
 #### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699818)
@@ -128,11 +136,3 @@
 #### [헝가리 여당이 전 대법원장 바카를 대통령 후보로 지명했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699770)
 #### [이라크 장관, “이라크가 이란과 원유 수출 협의를 진행 중”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699769)
 #### [불가리아의 라데프 대통령, “불가리아 영공에서 드론 폭발…인명 피해 없어” - BTA 통신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699768)
-#### [이란 혁명수비대는 호르무즈 해협의 재개방이 오만과의 협상에 달려 있지 않다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699767)
-#### [대만 대통령, 연례 군사 훈련에서 해안 타격 훈련을 참관](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699766)
-#### [아랍에미리트(UAE)의 ADNOC, 토요일 호르무즈 해협에서 선박이 미사일 공격을 받았다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699765)
-#### [블룸버그 뉴스에 따르면, 터키가 공격이 급증함에 따라 흑해 선박 통행을 제한하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699764)
-#### [드론 공격으로 추정되는 사건이 발생한 지 이틀 만에 독일 군사 기지 상공에서 드론이 목격됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699763)
-#### [이번 주 브레이킹뷰스: 개입에 대한 갈망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699762)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
-#### [하와이 예비선거에서 민주당 현직 의원과 더 젊고 진보 성향이 강한 도전자가 맞붙게 되었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699761)
