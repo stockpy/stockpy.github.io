@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_0841 </title></head>
-<center>Vers : 20260809_0841 </center>
-<center>Vers : 20260809_1741 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_0923 </title></head>
+<center>Vers : 20260809_0923 </center>
+<center>Vers : 20260809_1823 </center>
 <br><br><br>
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699860)
+#### [인도의 마루티, 2031년까지 승용차 시장 규모가 최대 630만 대까지 증가할 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699859)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7269.T/total>
+#### [대만의 2027년 국방비 16% 증가 전망, 관영 매체 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699858)
+#### [태풍 ‘돌핀’이 중국 동부 해안을 강타할 전망이며, 이에 따라 홍수 경보가 발령될 예정이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699857)
+#### [[속보] 광둥 바이오라이트 메디텍, 8월 10일부터 주식 거래 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699856)
+#### [이민 논란 이후, 스페인 당국이 국경 검문소에서 이탈리아에서 입국한 200명을 조사했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699855)
+#### [[속보] 무어 스레드 테크놀로지, 상반기 순손실 1,160만 위안 기록…홍콩 상장 추진 계획 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699854)
+#### [[속보] 우시 앱텍, 미 국방부의 1260H 지정 조치에 대한 미국 법원의 가처분 결정 환영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699853)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603259.SS/total>
+#### [[속보] CASIN 부동산 개발 그룹, 8월 10일부터 주식 거래 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699852)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000838.SZ/total>
+#### [이란 장관, “임시 합의가 위반되는 한 미국과의 협상은 이루어지지 않을 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699851)
+#### [[속보] 광둥 홍테오 테크놀로지, 신주 발행 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699850)
 #### [러시아 당국, 우크라이나의 벨고로드 드론 공격으로 3명 사망했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699849)
 #### [노르웨이의 Gassco는 8월 10일 04:00부터 8월 11일 04:00까지 하루 5.9 mcm 규모의 공급 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699848)
 #### [인터팩스 통신에 따르면, 러시아가 우크라이나 수미 지역의 석유 시설 두 곳을 공격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699847)
@@ -51,6 +65,10 @@
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699803)
 #### [터키 외무장관은 터키가 러시아와 우크라이나에 흑해에서 모라토리엄을 선언해야 한다고 전달했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699802)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699801)
+<head><meta charset="utf-8"><title>Vers : 20260809_0923 </title></head>
+<center>Vers : 20260809_0923 </center>
+<center>Vers : 20260809_1823 </center>
+<br><br><br>
 #### [터키·파키스탄·사우디아라비아 간 국방 협정은 기술적으로 나토(NATO)의 제5조와 동일하다고 장관이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699800)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699799)
 #### [정치적 교착 상태 속, 한 의원이 코소보 총리에게 달걀을 던졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699798)
@@ -62,3 +80,58 @@
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699792)
 #### [러시아, 오데사와 미콜라이우에서 우크라이나를 지원하는 선박 및 군사 시설을 공격했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699791)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699790)
+#### [산불이 맹렬히 번지는 가운데 브리티시컬럼비아주 한 지역이 비상사태를 선포하고 대피 명령을 내렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699789)
+#### [상원 공화당 의원들, 토드 블랑쉬 법무장관 지명자 인준을 근소한 차이로 가결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699788)
+#### [세르비아와 우크라이나 정상들, 경제 협력 강화 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699787)
+#### [UKMTO, 오만 카사브 인근 해상에서 선박이 정체 불명의 투사체에 피격됐다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699786)
+#### [미시간주 샐러드 관련 경보가 완화되었지만, 사이클로스포라로 인해 소비자와 식료품점 관계자들은 여전히 긴장하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699785)
+#### [버크셔, 자사주 매입 가속화에 따라 현금 보유 비중 축소…이익 증가 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699784)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KHC.O/total>
+#### [애플은 중국 내 맥 사용자들이 알리바바의 ‘Qwen’ AI 서비스에 접속할 수 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699783)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0992.HK/total>
+#### [[종합 1] 이란, 호르무즈 해협 관련 합의 임박했으나 단독으로 해협을 개방하지는 않을 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699782)
+#### [[속보] 버크셔 해서웨이, 6월 30일 기준 주식 투자 총 공정가치 중 66%가 아메리칸 익스프레스, 애플, 뱅크 오브 아메리카, 알파벳, 코카콜라에 집중되어 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699781)
+#### [버크셔, 영업이익 증가 발표 및 자사주 매입 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699780)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
+#### [[속보] 버크셔 해서웨이, 2분기 영업이익 12,983백만 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699779)
+#### [불가리아의 라데프 대통령, “드론이 불가리아 영공에서 폭발했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699778)
+#### [아프리리아의 마틴, 랩 기록을 갈아치우며 영국 그랑프리 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699777)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699776)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699775)
+#### [아랍에미리트(UAE), 이란이 호르무즈 해협에서 ADNOC 선박을 미사일로 공격했다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699774)
+#### [이란, 호르무즈 해협 임시 항로에 관한 오만과의 합의에 “매우 근접했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699773)
+#### [헝가리 여당, 전 대법원장 바카를 대통령 후보로 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699772)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699771)
+#### [헝가리 여당이 전 대법원장 바카를 대통령 후보로 지명했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699770)
+#### [이라크 장관, “이라크가 이란과 원유 수출 협의를 진행 중”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699769)
+#### [불가리아의 라데프 대통령, “불가리아 영공에서 드론 폭발…인명 피해 없어” - BTA 통신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699768)
+#### [이란 혁명수비대는 호르무즈 해협의 재개방이 오만과의 협상에 달려 있지 않다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699767)
+#### [대만 대통령, 연례 군사 훈련에서 해안 타격 훈련을 참관](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699766)
+#### [아랍에미리트(UAE)의 ADNOC, 토요일 호르무즈 해협에서 선박이 미사일 공격을 받았다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699765)
+#### [블룸버그 뉴스에 따르면, 터키가 공격이 급증함에 따라 흑해 선박 통행을 제한하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699764)
+#### [드론 공격으로 추정되는 사건이 발생한 지 이틀 만에 독일 군사 기지 상공에서 드론이 목격됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699763)
+#### [이번 주 브레이킹뷰스: 개입에 대한 갈망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699762)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [하와이 예비선거에서 민주당 현직 의원과 더 젊고 진보 성향이 강한 도전자가 맞붙게 되었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699761)
+#### [소식통에 따르면, 민주당은 하원 다수당을 차지할 경우 탄핵과 관련해 트럼프 전 대통령에 대한 수사를 진행할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699760)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLTR.O/total>
+#### [무디스는 루마니아가 2027년 예산 적자를 줄일 수 있는 능력이 신용등급 평가의 핵심이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699759)
+#### [우크라이나의 드론 공격으로 발생한 러시아 일스키 정유소 화재 진압](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699758)
+#### [러시아는 자국 군이 우크라이나의 또 다른 마을을 점령했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699757)
+#### [인도는 디아지오에 자사 위스키의 “미국산 오크통에서 숙성되었다”는 표기가 오해를 불러일으킬 수 있다고 경고했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699756)
+#### [과학자들이 허리케인 예보 정확도를 높이기 위해 상어를 연구 대상으로 삼고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699755)
+#### [상원 공화당 의원들, 토드 블랑슈 법무장관 지명자를 근소한 차이로 인준](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699754)
+#### [상원 공화당 의원들이 토드 블랑쉬를 법무장관으로 아슬아슬하게 인준했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699753)
+#### [키예프 당국, 우크라이나가 러시아 정유소 2곳을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699752)
+#### [미국 상원, 선거 전 연방 정부 셧다운을 막기 위한 단기 예산안 가결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699751)
+#### [미국 상원, 선거 전 연방 정부 셧다운을 막기 위한 단기 예산안 통과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699750)
+#### [인터팩스 통신에 따르면, 러시아는 오데사 동쪽 해상에서 우크라이나로 향하는 무기를 실은 선박을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699749)
+#### [태풍 ‘돌핀’이 일본 오키나와를 강타, 중국은 상륙을 앞두고 항구를 폐쇄했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699748)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9201.T/total>
+#### [[속보] 크라이슬러, 안전벨트가 제대로 감기지 않아 탑승자를 의도한 대로 제대로 보호하지 못할 수 있어 미국 내 일부 차량을 리콜한다 - NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699747)
+#### [우크라이나의 드론 공격으로 러시아 크라스노다르 주 정유소에서 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699746)
+#### [킹스턴 코젠 온타리오 140 MW 데스텍 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699745)
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699744)
+#### [영국 음악 페스티벌, 혜택과 분할 납부 제도를 통해 조심스럽게 부활의 조짐을 보이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699743)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699742)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699741)
