@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_1104 </title></head>
-<center>Vers : 20260809_1104 </center>
-<center>Vers : 20260809_2004 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_1249 </title></head>
+<center>Vers : 20260809_1249 </center>
+<center>Vers : 20260809_2149 </center>
 <br><br><br>
+#### [시리아와 러시아, 18개월간의 협상 끝에 타르투스 및 흐메이밈 기지의 미래에 관한 합의 도출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699880)
+#### [이란 국영 매체, 페제슈키안 의원이 최근 하메네이 최고지도자와 회동했다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699879)
+#### [[업데이트 1] WSJ 보도에 따르면, 애플이 아이폰과 맥북에 탑재할 중국 CXMT사의 메모리 칩을 테스트 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699878)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
+#### [교황 레오, 우크라이나 전쟁 종식을 위한 호소 재차 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699877)
+#### [[종합 1] 이란, 오만과의 합의가 “최종 단계”에 접어들었다고 밝혔으나 미국은 호르무즈 해협 개방을 위해 조치를 취해야 한다고 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699876)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699875)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699874)
+#### [아랍에미리트(UAE), 아일랜드 범죄 조직 두목으로 지목된 키나한 인도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699873)
+#### [터키 당국, 흑해로 향하는 선박의 통항이 순조롭게 이어지고 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699872)
+#### [미잔, “이란이 향후 최고 지도자의 영상을 공개할 예정”이라고 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699871)
+#### [네타냐후 총리, 이스라엘이 트럼프의 가자지구 15개 항목 계획 거부했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699870)
+#### [월스트리트저널(WSJ) 보도에 따르면, 애플이 아이폰과 맥북에 탑재할 중국산 CXMT 메모리 칩을 테스트하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699869)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
+#### [네타냐후 총리, 이스라엘이 트럼프의 가자지구 15개 항목 계획 거부했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699868)
 #### [아랍에미리트(UAE), 아일랜드 출신 범죄 조직 두목으로 지목된 다니엘 키나한을 인도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699867)
 #### [바이든 전 대통령의 ‘신체 기능을 심각하게 저해하는’ 암이 전이됐다고 아들이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699866)
 #### [그랜드 제약 그룹(Grand Pharmaceutical Group) - GPN01530-2, FDA로부터 신속 심사 지정 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699865)
@@ -53,6 +68,10 @@
 #### [사우디아라비아 자잔에 위치한 아람코 시설에서 화재가 진압되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699823)
 #### [파라마운트, 영화관 체인사에 30편 상영 약속을 서면으로 제시할 예정 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699822)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699821)
+<head><meta charset="utf-8"><title>Vers : 20260809_1249 </title></head>
+<center>Vers : 20260809_1249 </center>
+<center>Vers : 20260809_2149 </center>
+<br><br><br>
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699820)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699819)
 #### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699818)
@@ -66,10 +85,6 @@
 #### [환경 보호 활동가들, 스페인 석호에서 플라밍고 새끼 600마리에 표식 부착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699810)
 #### [산불이 확산되면서 브리티시컬럼비아주 와인 산지 주민 수천 명에게 대피 명령 내려져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699809)
 #### [델타 항공기, 애틀랜타에 비상 착륙…부상자 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699808)
-<head><meta charset="utf-8"><title>Vers : 20260809_1104 </title></head>
-<center>Vers : 20260809_1104 </center>
-<center>Vers : 20260809_2004 </center>
-<br><br><br>
 #### [조 바이든 전 대통령의 암이 전이됐으며 극심한 통증을 겪고 있다고 아들이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699807)
 #### [미국 상원, 8월 휴회기에 앞서 획기적인 암호화폐 법안을 처리했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699806)
 #### [천연가스 파이프라인 긴급 공지: 2026년 8월 9일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699805)
@@ -121,18 +136,3 @@
 #### [이번 주 브레이킹뷰스: 개입에 대한 갈망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699762)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
 #### [하와이 예비선거에서 민주당 현직 의원과 더 젊고 진보 성향이 강한 도전자가 맞붙게 되었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699761)
-#### [소식통에 따르면, 민주당은 하원 다수당을 차지할 경우 탄핵과 관련해 트럼프 전 대통령에 대한 수사를 진행할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699760)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLTR.O/total>
-#### [무디스는 루마니아가 2027년 예산 적자를 줄일 수 있는 능력이 신용등급 평가의 핵심이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699759)
-#### [우크라이나의 드론 공격으로 발생한 러시아 일스키 정유소 화재 진압](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699758)
-#### [러시아는 자국 군이 우크라이나의 또 다른 마을을 점령했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699757)
-#### [인도는 디아지오에 자사 위스키의 “미국산 오크통에서 숙성되었다”는 표기가 오해를 불러일으킬 수 있다고 경고했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699756)
-#### [과학자들이 허리케인 예보 정확도를 높이기 위해 상어를 연구 대상으로 삼고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699755)
-#### [상원 공화당 의원들, 토드 블랑슈 법무장관 지명자를 근소한 차이로 인준](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699754)
-#### [상원 공화당 의원들이 토드 블랑쉬를 법무장관으로 아슬아슬하게 인준했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699753)
-#### [키예프 당국, 우크라이나가 러시아 정유소 2곳을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699752)
-#### [미국 상원, 선거 전 연방 정부 셧다운을 막기 위한 단기 예산안 가결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699751)
-#### [미국 상원, 선거 전 연방 정부 셧다운을 막기 위한 단기 예산안 통과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699750)
-#### [인터팩스 통신에 따르면, 러시아는 오데사 동쪽 해상에서 우크라이나로 향하는 무기를 실은 선박을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699749)
-#### [태풍 ‘돌핀’이 일본 오키나와를 강타, 중국은 상륙을 앞두고 항구를 폐쇄했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699748)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9201.T/total>
