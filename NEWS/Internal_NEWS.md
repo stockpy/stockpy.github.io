@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_0655 </title></head>
-<center>Vers : 20260809_0655 </center>
-<center>Vers : 20260809_1555 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_0753 </title></head>
+<center>Vers : 20260809_0753 </center>
+<center>Vers : 20260809_1653 </center>
 <br><br><br>
+#### [당국에 따르면, 러시아 벨고로드에서 밤새 발생한 드론 공격으로 3명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699845)
+#### [[속보] 스카이 골드 앤 다이아몬즈, 27 회계연도 1분기 매출이 전년 동기 대비 78% 증가한 201억 3천만 루피를 기록했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699844)
+#### [대만의 2027년 국방비가 16% 증가할 것이라고 관영 매체가 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699843)
+#### [호주, 시드니 공항 활주로에서 발생한 두 항공기 간 아슬아슬한 충돌 사고 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699842)
+#### [러시아는 지난밤 우크라이나 항구의 연료 저장 시설을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699841)
 #### [중국이 유럽 산업에 대한 의존도를 낮추면서 독일의 대중 무역 적자가 확대되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699840)
 #### [맥쿼리 온타리오 184MW 카디널 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699839)
 #### [파도가 거친 가운데 타히티 프로 대회가 개막하며, 서핑 와일드카드 켈리 슬레이터가 주역으로 나선다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699838)
@@ -57,10 +62,3 @@
 #### [상원 공화당 의원들, 토드 블랑쉬 법무장관 지명자 인준을 근소한 차이로 가결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699788)
 #### [세르비아와 우크라이나 정상들, 경제 협력 강화 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699787)
 #### [UKMTO, 오만 카사브 인근 해상에서 선박이 정체 불명의 투사체에 피격됐다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699786)
-#### [미시간주 샐러드 관련 경보가 완화되었지만, 사이클로스포라로 인해 소비자와 식료품점 관계자들은 여전히 긴장하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699785)
-#### [버크셔, 자사주 매입 가속화에 따라 현금 보유 비중 축소…이익 증가 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699784)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KHC.O/total>
-#### [애플은 중국 내 맥 사용자들이 알리바바의 ‘Qwen’ AI 서비스에 접속할 수 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699783)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0992.HK/total>
-#### [[종합 1] 이란, 호르무즈 해협 관련 합의 임박했으나 단독으로 해협을 개방하지는 않을 것](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699782)
-#### [[속보] 버크셔 해서웨이, 6월 30일 기준 주식 투자 총 공정가치 중 66%가 아메리칸 익스프레스, 애플, 뱅크 오브 아메리카, 알파벳, 코카콜라에 집중되어 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699781)
