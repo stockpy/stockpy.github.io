@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_2031 </title></head>
-<center>Vers : 20260809_2031 </center>
-<center>Vers : 20260810_0531 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_2104 </title></head>
+<center>Vers : 20260809_2104 </center>
+<center>Vers : 20260810_0604 </center>
 <br><br><br>
+#### [러시아, 우크라이나 동부 마을 두 곳 점령했다고 주장…키예프, 전선에서 교전 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699927)
+#### [주말 뉴스-중국 물가 상승세 완화, 오만 협정 타결 임박, 후티 반군의 공격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699926)
 #### [예멘 군 대변인, 예멘 후티 반군이 모카 항구 도시에 대한 공격을 재개했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699925)
 #### [[속보] RadNet, 2분기 주당순이익(EPS) 0.1달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699924)
 #### [BUZZ-COMMENT-이번 주 전망-미국 물가, 이란-미국 관련 소식, 호주 중앙은행(RBA) 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699923)
@@ -63,5 +65,3 @@
 #### [월스트리트저널(WSJ) 보도에 따르면, 애플이 아이폰과 맥북에 탑재할 중국산 CXMT 메모리 칩을 테스트하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699869)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
 #### [네타냐후 총리, 이스라엘이 트럼프의 가자지구 15개 항목 계획 거부했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699868)
-#### [아랍에미리트(UAE), 아일랜드 출신 범죄 조직 두목으로 지목된 다니엘 키나한을 인도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699867)
-#### [바이든 전 대통령의 ‘신체 기능을 심각하게 저해하는’ 암이 전이됐다고 아들이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699866)
