@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_2104 </title></head>
-<center>Vers : 20260809_2104 </center>
-<center>Vers : 20260810_0604 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_2230 </title></head>
+<center>Vers : 20260809_2230 </center>
+<center>Vers : 20260810_0730 </center>
 <br><br><br>
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699939)
+#### [트랜스캐나다 온타리오의 226 MW 할턴 힐스 1호 가스 화력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699938)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699937)
+#### [독일 화주들은 수위 저하로 라인강이 “두 갈래로 갈라질” 수 있다고 경고하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699936)
+#### [트럼프, 윌 샤프를 백악관 법률고문으로 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699935)
+#### [트럼프 대통령, 윌 샤프가 백악관 법률고문 겸 대통령 보좌관으로 임명될 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699934)
+#### [스페인 소방대원들, 산불 진압 과정에서 맹렬한 화염과 맞서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699933)
+#### [AUD/USD, 부진한 미국 고용 지표 발표에 힘입어 강세… 호주 중앙은행(RBA) 회의 임박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699932)
+#### [영국의 번햄, 오해의 소지가 있는 할인 및 구독 함정에 대한 단속 강화 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699931)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699930)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699929)
+#### [농구-명예의 전당 헌액 감독이자 선수 시절 NBA 챔피언 5회 우승을 차지한 넬슨, 향년 86세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699928)
 #### [러시아, 우크라이나 동부 마을 두 곳 점령했다고 주장…키예프, 전선에서 교전 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699927)
 #### [주말 뉴스-중국 물가 상승세 완화, 오만 협정 타결 임박, 후티 반군의 공격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699926)
 #### [예멘 군 대변인, 예멘 후티 반군이 모카 항구 도시에 대한 공격을 재개했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699925)
@@ -51,17 +63,3 @@
 #### [페르난데스, 영국 MotoGP에서 압도적인 승리를 거두다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699882)
 #### [우크라이나의 젤렌스키 대통령은 최대 5만 명의 북한군이 러시아에 배치될 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699881)
 #### [시리아와 러시아, 18개월간의 협상 끝에 타르투스 및 흐메이밈 기지의 미래에 관한 합의 도출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699880)
-#### [이란 국영 매체, 페제슈키안 의원이 최근 하메네이 최고지도자와 회동했다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699879)
-#### [[업데이트 1] WSJ 보도에 따르면, 애플이 아이폰과 맥북에 탑재할 중국 CXMT사의 메모리 칩을 테스트 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699878)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [교황 레오, 우크라이나 전쟁 종식을 위한 호소 재차 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699877)
-#### [[종합 1] 이란, 오만과의 합의가 “최종 단계”에 접어들었다고 밝혔으나 미국은 호르무즈 해협 개방을 위해 조치를 취해야 한다고 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699876)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699875)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699874)
-#### [아랍에미리트(UAE), 아일랜드 범죄 조직 두목으로 지목된 키나한 인도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699873)
-#### [터키 당국, 흑해로 향하는 선박의 통항이 순조롭게 이어지고 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699872)
-#### [미잔, “이란이 향후 최고 지도자의 영상을 공개할 예정”이라고 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699871)
-#### [네타냐후 총리, 이스라엘이 트럼프의 가자지구 15개 항목 계획 거부했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699870)
-#### [월스트리트저널(WSJ) 보도에 따르면, 애플이 아이폰과 맥북에 탑재할 중국산 CXMT 메모리 칩을 테스트하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699869)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [네타냐후 총리, 이스라엘이 트럼프의 가자지구 15개 항목 계획 거부했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699868)
