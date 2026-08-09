@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_1033 </title></head>
-<center>Vers : 20260809_1033 </center>
-<center>Vers : 20260809_1933 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_1104 </title></head>
+<center>Vers : 20260809_1104 </center>
+<center>Vers : 20260809_2004 </center>
 <br><br><br>
 #### [한달 전 1556원이었는데... 환율 어느새 1300원대 눈앞](https://m.stock.naver.com/news/ranknews/view/023/0003992002)
 #### [사남매에 '30억 집 한 채'..99세 노모가 택한 '분쟁 없는 상속' [PB의 머니 레시피]](https://m.stock.naver.com/news/ranknews/view/014/0005558975)
@@ -62,9 +62,9 @@
 #### [폭락장에도 55조 샀다…개미, 올해 순매수 200조 돌파](https://m.stock.naver.com/news/ranknews/view/029/0003041321)
 #### [‘마통’ 한도까지 끌어 투자…청년-고령층 연체율 급증](https://m.stock.naver.com/news/ranknews/view/020/0003739544)
 #### [삼전닉스 레버리지 문턱 높이자…반도체 레버리지로 몰리나](https://m.stock.naver.com/news/ranknews/view/020/0003739503)
-<head><meta charset="utf-8"><title>Vers : 20260809_1033 </title></head>
-<center>Vers : 20260809_1033 </center>
-<center>Vers : 20260809_1933 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_1104 </title></head>
+<center>Vers : 20260809_1104 </center>
+<center>Vers : 20260809_2004 </center>
 <br><br><br>
 #### ["1300원 코앞인 환율…이란 불확실성이 변수"[주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005800590)
 #### [삼성SDI·에쓰오일…반도체 밖으로 번지는 실적 훈풍](https://m.stock.naver.com/news/ranknews/view/015/0005318895)

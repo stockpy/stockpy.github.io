@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_1033 </title></head>
-<center>Vers : 20260809_1033 </center>
-<center>Vers : 20260809_1933 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_1104 </title></head>
+<center>Vers : 20260809_1104 </center>
+<center>Vers : 20260809_2004 </center>
 <br><br><br>
+#### [아랍에미리트(UAE), 아일랜드 출신 범죄 조직 두목으로 지목된 다니엘 키나한을 인도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699867)
+#### [바이든 전 대통령의 ‘신체 기능을 심각하게 저해하는’ 암이 전이됐다고 아들이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699866)
 #### [그랜드 제약 그룹(Grand Pharmaceutical Group) - GPN01530-2, FDA로부터 신속 심사 지정 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699865)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0512.HK/total>
 #### [로이터/입소스 여론조사 결과, 미국인 5명 중 3명이 소셜 미디어 기업에 대한 감독 강화를 지지하는 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699864)
@@ -64,12 +66,12 @@
 #### [환경 보호 활동가들, 스페인 석호에서 플라밍고 새끼 600마리에 표식 부착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699810)
 #### [산불이 확산되면서 브리티시컬럼비아주 와인 산지 주민 수천 명에게 대피 명령 내려져](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699809)
 #### [델타 항공기, 애틀랜타에 비상 착륙…부상자 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699808)
+<head><meta charset="utf-8"><title>Vers : 20260809_1104 </title></head>
+<center>Vers : 20260809_1104 </center>
+<center>Vers : 20260809_2004 </center>
+<br><br><br>
 #### [조 바이든 전 대통령의 암이 전이됐으며 극심한 통증을 겪고 있다고 아들이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699807)
 #### [미국 상원, 8월 휴회기에 앞서 획기적인 암호화폐 법안을 처리했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699806)
-<head><meta charset="utf-8"><title>Vers : 20260809_1033 </title></head>
-<center>Vers : 20260809_1033 </center>
-<center>Vers : 20260809_1933 </center>
-<br><br><br>
 #### [천연가스 파이프라인 긴급 공지: 2026년 8월 9일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699805)
 #### [[속보 1] 터키 국방장관, “터키·파키스탄·사우디아라비아 간 국방 협정은 기술적으로 나토(NATO) 제5조와 동일하다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699804)
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699803)
@@ -134,5 +136,3 @@
 #### [인터팩스 통신에 따르면, 러시아는 오데사 동쪽 해상에서 우크라이나로 향하는 무기를 실은 선박을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699749)
 #### [태풍 ‘돌핀’이 일본 오키나와를 강타, 중국은 상륙을 앞두고 항구를 폐쇄했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699748)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9201.T/total>
-#### [[속보] 크라이슬러, 안전벨트가 제대로 감기지 않아 탑승자를 의도한 대로 제대로 보호하지 못할 수 있어 미국 내 일부 차량을 리콜한다 - NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699747)
-#### [우크라이나의 드론 공격으로 러시아 크라스노다르 주 정유소에서 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699746)
