@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260808_2259 </title></head>
-<center>Vers : 20260808_2259 </center>
-<center>Vers : 20260809_0759 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_0142 </title></head>
+<center>Vers : 20260809_0142 </center>
+<center>Vers : 20260809_1042 </center>
 <br><br><br>
+#### [파라마운트, 영화관 체인사에 30편 상영 약속을 서면으로 제시할 예정 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699822)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699821)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699820)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699819)
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699818)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699817)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699816)
+#### [ICE 수장, “미국 이민 당국이 이번 달 중으로 바디캠 도입을 완료할 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699815)
 #### [리오넬 메시의 아버지 호르헤, 아르헨티나 병원에서 향년 68세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699814)
 #### [독일 장관, 도이체반의 성과급을 목표 달성 여부와 연계하고자 해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699813)
 #### [독일 장관, 드론으로 추정되는 공격 발생 후 매일 벌어지는 ‘하이브리드 전쟁’에 대해 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699812)
@@ -57,13 +65,3 @@
 #### [아랍에미리트(UAE)의 ADNOC, 토요일 호르무즈 해협에서 선박이 미사일 공격을 받았다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699765)
 #### [블룸버그 뉴스에 따르면, 터키가 공격이 급증함에 따라 흑해 선박 통행을 제한하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699764)
 #### [드론 공격으로 추정되는 사건이 발생한 지 이틀 만에 독일 군사 기지 상공에서 드론이 목격됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699763)
-#### [이번 주 브레이킹뷰스: 개입에 대한 갈망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699762)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
-#### [하와이 예비선거에서 민주당 현직 의원과 더 젊고 진보 성향이 강한 도전자가 맞붙게 되었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699761)
-#### [소식통에 따르면, 민주당은 하원 다수당을 차지할 경우 탄핵과 관련해 트럼프 전 대통령에 대한 수사를 진행할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699760)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PLTR.O/total>
-#### [무디스는 루마니아가 2027년 예산 적자를 줄일 수 있는 능력이 신용등급 평가의 핵심이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699759)
-#### [우크라이나의 드론 공격으로 발생한 러시아 일스키 정유소 화재 진압](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699758)
-#### [러시아는 자국 군이 우크라이나의 또 다른 마을을 점령했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699757)
-#### [인도는 디아지오에 자사 위스키의 “미국산 오크통에서 숙성되었다”는 표기가 오해를 불러일으킬 수 있다고 경고했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699756)
-#### [과학자들이 허리케인 예보 정확도를 높이기 위해 상어를 연구 대상으로 삼고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699755)
