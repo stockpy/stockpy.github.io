@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_1706 </title></head>
-<center>Vers : 20260809_1706 </center>
-<center>Vers : 20260810_0206 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_1839 </title></head>
+<center>Vers : 20260809_1839 </center>
+<center>Vers : 20260810_0339 </center>
 <br><br><br>
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699910)
+#### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699909)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699908)
+#### [[속보] 버스 제조사 에부스코(Ebusco), 포츠담 시영 공기업(Stadtwerke Potsdam)의 주문 취소에 대해 분석 중이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699907)
+#### [노르웨이의 가스스코, 예정된 가스 공급 중단 계획 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699906)
+#### [볼레링, 투르 드 프랑스 페므 2연패 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699905)
+#### [킹스턴 코젠 온타리오 140 MW 데스텍 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699904)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699903)
+#### [액시오스(Axios)와의 인터뷰에 따르면, 트럼프 대통령은 미국이 이란에 대해 “신중하게 대응하고 있다”고 말하며 경제적 타격을 강조했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699902)
 #### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699901)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699900)
 #### [킹스턴 코젠 온타리오 140 MW 데스텍 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699899)
@@ -60,12 +69,3 @@
 #### [[속보] CASIN 부동산 개발 그룹, 8월 10일부터 주식 거래 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699852)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000838.SZ/total>
 #### [이란 장관, “임시 합의가 위반되는 한 미국과의 협상은 이루어지지 않을 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699851)
-#### [[속보] 광둥 홍테오 테크놀로지, 신주 발행 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699850)
-#### [러시아 당국, 우크라이나의 벨고로드 드론 공격으로 3명 사망했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699849)
-#### [노르웨이의 Gassco는 8월 10일 04:00부터 8월 11일 04:00까지 하루 5.9 mcm 규모의 공급 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699848)
-#### [인터팩스 통신에 따르면, 러시아가 우크라이나 수미 지역의 석유 시설 두 곳을 공격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699847)
-#### [젤렌스키 대통령, “우크라이나 오데사 항구가 러시아의 공격으로 피해를 입었다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699846)
-#### [당국에 따르면, 러시아 벨고로드에서 밤새 발생한 드론 공격으로 3명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699845)
-#### [[속보] 스카이 골드 앤 다이아몬즈, 27 회계연도 1분기 매출이 전년 동기 대비 78% 증가한 201억 3천만 루피를 기록했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699844)
-#### [대만의 2027년 국방비가 16% 증가할 것이라고 관영 매체가 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699843)
-#### [호주, 시드니 공항 활주로에서 발생한 두 항공기 간 아슬아슬한 충돌 사고 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699842)
