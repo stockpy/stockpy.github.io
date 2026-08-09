@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_1634 </title></head>
-<center>Vers : 20260809_1634 </center>
-<center>Vers : 20260810_0134 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_1706 </title></head>
+<center>Vers : 20260809_1706 </center>
+<center>Vers : 20260810_0206 </center>
 <br><br><br>
 #### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699901)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699900)
