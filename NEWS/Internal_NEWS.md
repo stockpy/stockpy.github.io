@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_0923 </title></head>
-<center>Vers : 20260809_0923 </center>
-<center>Vers : 20260809_1823 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_1033 </title></head>
+<center>Vers : 20260809_1033 </center>
+<center>Vers : 20260809_1933 </center>
 <br><br><br>
+#### [그랜드 제약 그룹(Grand Pharmaceutical Group) - GPN01530-2, FDA로부터 신속 심사 지정 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699865)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0512.HK/total>
+#### [로이터/입소스 여론조사 결과, 미국인 5명 중 3명이 소셜 미디어 기업에 대한 감독 강화를 지지하는 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699864)
+#### [젤렌스키 대통령, “러시아의 공격으로 우크라이나 오데사 항구가 피해를 입었다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699863)
+#### [스위스 리 CEO, “폭염과 관련된 사망 위험이 과소평가되고 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699862)
+#### [RIA 통신에 따르면, 러시아는 우크라이나 동부에서 마을 두 곳을 추가로 장악했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699861)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699860)
 #### [인도의 마루티, 2031년까지 승용차 시장 규모가 최대 630만 대까지 증가할 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699859)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7269.T/total>
@@ -60,15 +66,15 @@
 #### [델타 항공기, 애틀랜타에 비상 착륙…부상자 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699808)
 #### [조 바이든 전 대통령의 암이 전이됐으며 극심한 통증을 겪고 있다고 아들이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699807)
 #### [미국 상원, 8월 휴회기에 앞서 획기적인 암호화폐 법안을 처리했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699806)
+<head><meta charset="utf-8"><title>Vers : 20260809_1033 </title></head>
+<center>Vers : 20260809_1033 </center>
+<center>Vers : 20260809_1933 </center>
+<br><br><br>
 #### [천연가스 파이프라인 긴급 공지: 2026년 8월 9일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699805)
 #### [[속보 1] 터키 국방장관, “터키·파키스탄·사우디아라비아 간 국방 협정은 기술적으로 나토(NATO) 제5조와 동일하다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699804)
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699803)
 #### [터키 외무장관은 터키가 러시아와 우크라이나에 흑해에서 모라토리엄을 선언해야 한다고 전달했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699802)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699801)
-<head><meta charset="utf-8"><title>Vers : 20260809_0923 </title></head>
-<center>Vers : 20260809_0923 </center>
-<center>Vers : 20260809_1823 </center>
-<br><br><br>
 #### [터키·파키스탄·사우디아라비아 간 국방 협정은 기술적으로 나토(NATO)의 제5조와 동일하다고 장관이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699800)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699799)
 #### [정치적 교착 상태 속, 한 의원이 코소보 총리에게 달걀을 던졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699798)
@@ -130,8 +136,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9201.T/total>
 #### [[속보] 크라이슬러, 안전벨트가 제대로 감기지 않아 탑승자를 의도한 대로 제대로 보호하지 못할 수 있어 미국 내 일부 차량을 리콜한다 - NHTSA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699747)
 #### [우크라이나의 드론 공격으로 러시아 크라스노다르 주 정유소에서 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699746)
-#### [킹스턴 코젠 온타리오 140 MW 데스텍 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699745)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699744)
-#### [영국 음악 페스티벌, 혜택과 분할 납부 제도를 통해 조심스럽게 부활의 조짐을 보이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699743)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699742)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699741)
