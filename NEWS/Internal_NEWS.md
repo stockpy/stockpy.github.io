@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_0142 </title></head>
-<center>Vers : 20260809_0142 </center>
-<center>Vers : 20260809_1042 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_0342 </title></head>
+<center>Vers : 20260809_0342 </center>
+<center>Vers : 20260809_1242 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699827)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699826)
+#### [[속보 1] 사우디아라비아 지잔 소재 아람코 시설 화재 진압되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699825)
+#### [델타항공기, 애틀랜타에 비상 착륙](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699824)
+#### [사우디아라비아 자잔에 위치한 아람코 시설에서 화재가 진압되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699823)
 #### [파라마운트, 영화관 체인사에 30편 상영 약속을 서면으로 제시할 예정 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699822)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699821)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699820)
@@ -60,8 +65,3 @@
 #### [헝가리 여당이 전 대법원장 바카를 대통령 후보로 지명했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699770)
 #### [이라크 장관, “이라크가 이란과 원유 수출 협의를 진행 중”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699769)
 #### [불가리아의 라데프 대통령, “불가리아 영공에서 드론 폭발…인명 피해 없어” - BTA 통신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699768)
-#### [이란 혁명수비대는 호르무즈 해협의 재개방이 오만과의 협상에 달려 있지 않다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699767)
-#### [대만 대통령, 연례 군사 훈련에서 해안 타격 훈련을 참관](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699766)
-#### [아랍에미리트(UAE)의 ADNOC, 토요일 호르무즈 해협에서 선박이 미사일 공격을 받았다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699765)
-#### [블룸버그 뉴스에 따르면, 터키가 공격이 급증함에 따라 흑해 선박 통행을 제한하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699764)
-#### [드론 공격으로 추정되는 사건이 발생한 지 이틀 만에 독일 군사 기지 상공에서 드론이 목격됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699763)
