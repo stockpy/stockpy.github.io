@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_1919 </title></head>
-<center>Vers : 20260809_1919 </center>
-<center>Vers : 20260810_0419 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_2031 </title></head>
+<center>Vers : 20260809_2031 </center>
+<center>Vers : 20260810_0531 </center>
 <br><br><br>
+#### [예멘 군 대변인, 예멘 후티 반군이 모카 항구 도시에 대한 공격을 재개했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699925)
+#### [[속보] RadNet, 2분기 주당순이익(EPS) 0.1달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699924)
+#### [BUZZ-COMMENT-이번 주 전망-미국 물가, 이란-미국 관련 소식, 호주 중앙은행(RBA) 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699923)
+#### [예멘 군 대변인은 예멘의 후티 반군이 모카 항구에 대한 공격을 재개했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699922)
+#### [씨티, 제임스 하디의 매출 변동성에도 불구하고 근본적인 성장 모멘텀이 개선되고 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699921)
+#### [8월 3일 일요일 오후 3시 20분(미국 동부 표준시) 로이터 미국 스포츠 중계 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699920)
+#### [러시아는 12시간 동안 우크라이나 드론 285대를 방공 체계가 요격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699919)
+#### [아일랜드의 범죄 조직 두목으로 지목된 키나한, 범죄 조직 운영 혐의로 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699918)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699917)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699916)
+#### [천연가스 파이프라인 긴급 공지: 2026년 8월 10일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699915)
+#### [명예의 전당 코치이자 선수 시절 NBA 챔피언 5회 우승을 차지한 넬슨, 향년 86세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699914)
 #### [[속보] 이탈리아 씨 그룹, 신규 투자자 선정을 위한 경쟁 절차를 개시한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699913)
 #### [사이클-볼레링, 투르 드 프랑스 펨므 2연패 달성하며 압도적인 경기력 선보여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699912)
 #### [이란, 오만과의 합의가 “최종 단계”에 접어들었다고 밝혔으나, 호르무즈 해협 개방을 위해 미국이 조치를 취해야 한다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699911)
@@ -53,17 +65,3 @@
 #### [네타냐후 총리, 이스라엘이 트럼프의 가자지구 15개 항목 계획 거부했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699868)
 #### [아랍에미리트(UAE), 아일랜드 출신 범죄 조직 두목으로 지목된 다니엘 키나한을 인도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699867)
 #### [바이든 전 대통령의 ‘신체 기능을 심각하게 저해하는’ 암이 전이됐다고 아들이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699866)
-#### [그랜드 제약 그룹(Grand Pharmaceutical Group) - GPN01530-2, FDA로부터 신속 심사 지정 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699865)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0512.HK/total>
-#### [로이터/입소스 여론조사 결과, 미국인 5명 중 3명이 소셜 미디어 기업에 대한 감독 강화를 지지하는 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699864)
-#### [젤렌스키 대통령, “러시아의 공격으로 우크라이나 오데사 항구가 피해를 입었다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699863)
-#### [스위스 리 CEO, “폭염과 관련된 사망 위험이 과소평가되고 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699862)
-#### [RIA 통신에 따르면, 러시아는 우크라이나 동부에서 마을 두 곳을 추가로 장악했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699861)
-#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699860)
-#### [인도의 마루티, 2031년까지 승용차 시장 규모가 최대 630만 대까지 증가할 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699859)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7269.T/total>
-#### [대만의 2027년 국방비 16% 증가 전망, 관영 매체 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699858)
-#### [태풍 ‘돌핀’이 중국 동부 해안을 강타할 전망이며, 이에 따라 홍수 경보가 발령될 예정이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699857)
-#### [[속보] 광둥 바이오라이트 메디텍, 8월 10일부터 주식 거래 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699856)
-#### [이민 논란 이후, 스페인 당국이 국경 검문소에서 이탈리아에서 입국한 200명을 조사했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699855)
-#### [[속보] 무어 스레드 테크놀로지, 상반기 순손실 1,160만 위안 기록…홍콩 상장 추진 계획 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699854)
