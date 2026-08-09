@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_1433 </title></head>
-<center>Vers : 20260809_1433 </center>
-<center>Vers : 20260809_2333 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_1503 </title></head>
+<center>Vers : 20260809_1503 </center>
+<center>Vers : 20260810_0003 </center>
 <br><br><br>
 #### [모건스탠리 “메모리주 급락 끝났다”…“지금이 재진입 기회”](https://m.stock.naver.com/news/ranknews/view/009/0005718668)
 #### [한달 전 1556원이었는데... 환율 어느새 1300원대 눈앞](https://m.stock.naver.com/news/ranknews/view/023/0003992002)
@@ -62,9 +62,9 @@
 #### ['6300 문턱' 코스피 숨고르기…금리·외인동향 촉각](https://m.stock.naver.com/news/ranknews/view/008/0005397421)
 #### ["반등하면 다 던진다" SK하닉 개미들 뿔났다…애널 '출입금지설'까지](https://m.stock.naver.com/news/ranknews/view/421/0009103783)
 #### [‘레버리지·ISA, 다음엔 뭐가…’ 정책 헛발질 연속에 국장 신뢰↓ 개미 이탈↑](https://m.stock.naver.com/news/ranknews/view/005/0001865733)
-<head><meta charset="utf-8"><title>Vers : 20260809_1433 </title></head>
-<center>Vers : 20260809_1433 </center>
-<center>Vers : 20260809_2333 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_1503 </title></head>
+<center>Vers : 20260809_1503 </center>
+<center>Vers : 20260810_0003 </center>
 <br><br><br>
 #### [“다신 국장 안 해” 美로 떠나는 개미들…“코스피 신뢰 빠르게 악화” 외신 분석 보니](https://m.stock.naver.com/news/ranknews/view/011/0004649892)
 #### [[증시 예보] 이번주 코스피, 미국 물가지수에 달렸다?…이유는 결국 외국인](https://m.stock.naver.com/news/ranknews/view/016/0002681356)
