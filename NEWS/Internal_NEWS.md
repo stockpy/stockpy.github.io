@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_0753 </title></head>
-<center>Vers : 20260809_0753 </center>
-<center>Vers : 20260809_1653 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_0841 </title></head>
+<center>Vers : 20260809_0841 </center>
+<center>Vers : 20260809_1741 </center>
 <br><br><br>
+#### [러시아 당국, 우크라이나의 벨고로드 드론 공격으로 3명 사망했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699849)
+#### [노르웨이의 Gassco는 8월 10일 04:00부터 8월 11일 04:00까지 하루 5.9 mcm 규모의 공급 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699848)
+#### [인터팩스 통신에 따르면, 러시아가 우크라이나 수미 지역의 석유 시설 두 곳을 공격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699847)
+#### [젤렌스키 대통령, “우크라이나 오데사 항구가 러시아의 공격으로 피해를 입었다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699846)
 #### [당국에 따르면, 러시아 벨고로드에서 밤새 발생한 드론 공격으로 3명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699845)
 #### [[속보] 스카이 골드 앤 다이아몬즈, 27 회계연도 1분기 매출이 전년 동기 대비 78% 증가한 201억 3천만 루피를 기록했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699844)
 #### [대만의 2027년 국방비가 16% 증가할 것이라고 관영 매체가 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699843)
@@ -58,7 +62,3 @@
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699792)
 #### [러시아, 오데사와 미콜라이우에서 우크라이나를 지원하는 선박 및 군사 시설을 공격했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699791)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699790)
-#### [산불이 맹렬히 번지는 가운데 브리티시컬럼비아주 한 지역이 비상사태를 선포하고 대피 명령을 내렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699789)
-#### [상원 공화당 의원들, 토드 블랑쉬 법무장관 지명자 인준을 근소한 차이로 가결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699788)
-#### [세르비아와 우크라이나 정상들, 경제 협력 강화 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699787)
-#### [UKMTO, 오만 카사브 인근 해상에서 선박이 정체 불명의 투사체에 피격됐다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699786)
