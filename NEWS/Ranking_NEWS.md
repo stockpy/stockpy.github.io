@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_2230 </title></head>
-<center>Vers : 20260809_2230 </center>
-<center>Vers : 20260810_0730 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_2302 </title></head>
+<center>Vers : 20260809_2302 </center>
+<center>Vers : 20260810_0802 </center>
 <br><br><br>
 #### ["저게 뭐야?" 주말 달군 UFO 목격담...쩍 갈라진 하늘까지](https://m.stock.naver.com/news/ranknews/view/018/0006348369)
 #### [“코스피 9000? 올해엔 다시 못 볼듯”…전문가가 추천한 하반기 투자전략](https://m.stock.naver.com/news/ranknews/view/009/0005718678)

@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260809_2230 </title></head>
-<center>Vers : 20260809_2230 </center>
-<center>Vers : 20260810_0730 </center>
+<head><meta charset="utf-8"><title>Vers : 20260809_2302 </title></head>
+<center>Vers : 20260809_2302 </center>
+<center>Vers : 20260810_0802 </center>
 <br><br><br>
+#### [미국 금리 인상 가능성이 희미해지면서 유로/달러 환율이 서서히 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699940)
 #### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699939)
 #### [트랜스캐나다 온타리오의 226 MW 할턴 힐스 1호 가스 화력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699938)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699937)
@@ -62,4 +63,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRWV.O/total>
 #### [페르난데스, 영국 MotoGP에서 압도적인 승리를 거두다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699882)
 #### [우크라이나의 젤렌스키 대통령은 최대 5만 명의 북한군이 러시아에 배치될 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699881)
-#### [시리아와 러시아, 18개월간의 협상 끝에 타르투스 및 흐메이밈 기지의 미래에 관한 합의 도출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2699880)
