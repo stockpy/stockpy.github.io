@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260810_1955 </title></head>
-<center>Vers : 20260810_1955 </center>
-<center>Vers : 20260811_0455 </center>
+<head><meta charset="utf-8"><title>Vers : 20260810_2041 </title></head>
+<center>Vers : 20260810_2041 </center>
+<center>Vers : 20260811_0541 </center>
 <br><br><br>
 #### ["지금 사라" 보고서 써놓고 팔았다…개미들 등 돌린 까닭 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005319371)
 #### ["3억 넣으면 月 700만원씩 따박따박"…대박인 줄 알았더니](https://m.stock.naver.com/news/ranknews/view/015/0005319115)
