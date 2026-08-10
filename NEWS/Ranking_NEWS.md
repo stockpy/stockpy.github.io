@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260810_2236 </title></head>
-<center>Vers : 20260810_2236 </center>
-<center>Vers : 20260811_0736 </center>
+<head><meta charset="utf-8"><title>Vers : 20260810_2316 </title></head>
+<center>Vers : 20260810_2316 </center>
+<center>Vers : 20260811_0816 </center>
 <br><br><br>
 #### [“반도체만 외치던 증시, 이젠 내 차례”…이달 38% 오른 이 종목](https://m.stock.naver.com/news/ranknews/view/009/0005719214)
 #### ["지금 사라" 보고서 써놓고 팔았다…개미들 등 돌린 까닭 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005319371)
