@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260811_1707 </title></head>
-<center>Vers : 20260811_1707 </center>
-<center>Vers : 20260812_0207 </center>
+<head><meta charset="utf-8"><title>Vers : 20260811_1901 </title></head>
+<center>Vers : 20260811_1901 </center>
+<center>Vers : 20260812_0401 </center>
 <br><br><br>
 #### ["딸 가진 집 또 난리" 흥행 돌풍에…주가 10배 신화 재현되나[클릭 e종목]](https://m.stock.naver.com/news/ranknews/view/277/0005801731)
 #### [“40만전자·420만닉스 간다” 했다가 등 돌린 증권가…하이닉스 목표가는 200만원까지 벌어져](https://m.stock.naver.com/news/ranknews/view/011/0004650774)
