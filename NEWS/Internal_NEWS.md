@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260811_2240 </title></head>
-<center>Vers : 20260811_2240 </center>
-<center>Vers : 20260812_0740 </center>
+<head><meta charset="utf-8"><title>Vers : 20260811_2323 </title></head>
+<center>Vers : 20260811_2323 </center>
+<center>Vers : 20260812_0823 </center>
 <br><br><br>
+#### [호주의 플리트파트너스(FleetPartners), SG 플리트(SG Fleet)와 일본의 오릭스(Orix)로부터 경쟁 입찰 제안 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703396)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8591.T/total>
+#### [라이언에어, 구글 클라우드와 5년 계약 체결… 항공 운영 분야 AI 활용 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703395)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [레넷 재팬 그룹 <3556.T> - 9개월간 그룹 실적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703394)
+#### [반도체 호황에 힘입어 제조업체들의 실적이 호조를 보이면서 일본의 기업 심리가 개선되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703393)
+#### [반도체 수요 호조에 힘입어 일본 제조업체들의 경기 심리가 개선됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703392)
+#### [[속보] 플리트파트너스 그룹, SG 플리트로부터 주당 4호주달러의 수정된 인수 제안을 받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703391)
+#### [트럼프 행정부, 미국 기업에 대한 소유권 신고 면제 조치 확정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703390)
+#### [미·이란 간 평화에 대한 기대감이 사그라들며 월가 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703389)
+#### [아메리칸 인티그리티 보험 그룹(American Integrity Insurance Group Inc)이 6월 30일로 종료된 분기 실적을 발표했습니다 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703388)
+#### [블룸버그 뉴스 보도에 따르면, SCE가 이튼 산불 책임 소송에서 잠정 판결을 받아냈다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703387)
+#### [NZD/USD, 시장이 달러 동향을 주시하는 가운데 횡보 국면 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703386)
+#### [웨스트포트 퓨얼 시스템즈(Westport Fuel Systems Inc)가 6월 30일로 종료된 분기 실적을 발표했습니다 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703385)
+#### [인터코프 파이낸셜 서비스(Intercorp Financial Services Inc)가 6월 30일로 종료된 분기 실적을 발표했습니다 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703384)
+#### [에어 캐나다, 6월 30일 종료 분기 실적 발표 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703383)
+#### [미국 원전 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703382)
+#### [US 화요일 원자력 발전 가동 중단 용량이 1,839 MW로 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703381)
 #### [유엔 노동 기구, “일자리 창출 부진과 다가오는 AI 위험 속에서 전 세계 청년 실업률 상승”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703380)
 #### [[속보] 내셔널 퓨얼 가스, 혼합형 신주발행 신청…발행 규모 미공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703379)
 #### [카바, 분기 실적 호조에도 전망치를 유지한 데 대해 신중한 판단을 이유로 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703378)
@@ -51,19 +69,3 @@
 #### [소식통에 따르면, 트럼프 백악관이 법무부에 ‘리플렉팅 풀’ 사건과 관련해 새로운 기소 가능성을 검토해 달라고 요청했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703339)
 #### [캐나다 웨스트포트, 대형 트럭 OEM 부문의 과도기적 서비스 계약 종료로 2분기 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703338)
 #### [[속보] 페이토 익스플로레이션, 2분기 주당순이익(EPS) 0.51 캐나다 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703337)
-#### [원유-웨스턴 캐나다 셀렉트(WCS)의 할인폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703336)
-#### [미국 항소법원, 바이든 행정부 시절 제정된 스토브·오븐 에너지 효율 규정 무효화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703335)
-#### [Pason Systems, 2분기 귀속 순이익 1,410만 캐나다 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703334)
-#### [캐나다의 인테그라 리소스, 금 가격 상승에 힘입어 2분기 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703333)
-#### [캐나다 기업 실로지스트, 2분기 매출 감소 및 순손실 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703332)
-#### [관세 부과 시한이 다가오면서 캐나다, 미국과 추가 무역 협상 진행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703331)
-#### [[속보] 칼시, 연간 매출 40억 달러 돌파…기업 가치 400억 달러 목표 - 더 인포메이션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703330)
-#### [캐나다 유프라시아, 연구개발비 증가로 2분기 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703329)
-#### [아메리칸 인테그리티, 2분기 합산비율 9.5포인트 개선된 63.4% 기록…실적 예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703328)
-#### [[속보] 디레시오날, 최대 3,200만 주 규모의 자사주 매입 프로그램 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703327)
-#### [AUD/USD, 호주중앙은행(RBA)이 매파적 기조를 유지함에 따라 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703326)
-#### [[속보] 웨스트포트 퓨얼 시스템즈, 2분기 매출 271만 7천 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703325)
-#### [시버트 파이낸셜, 주식 대여 및 투자은행 부문 성장에 힘입어 2분기 매출이 두 배 이상 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703324)
-#### [북한, 미확인 발사체 발사…언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703323)
-#### [Cury의 2분기 순이익 3억 1,100만 레알, IBES 예상치 2억 9,000만 레알 대비](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703322)
-#### [시티그룹, 시크(Seek)의 다가오는 연간 실적에 대해 비관적 전망… 거시경제적 역풍 지적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2703321)
