@@ -1,5 +1,5 @@
-<center>Vers : 20260811_0508 </center>
-<center>Vers : 20260811_1408 </center>
+<center>Vers : 20260811_0531 </center>
+<center>Vers : 20260811_1431 </center>
 <br>
 <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -29,7 +29,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>0</th>
       <td>TIGER 코스닥150</td>
       <td>0%</td>
-      <td>15005</td>
+      <td>14920</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -38,7 +38,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>1</th>
       <td>TIGER 반도체TOP10</td>
       <td>0%</td>
-      <td>31770</td>
+      <td>31520</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -47,7 +47,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>2</th>
       <td>TIGER 미국필라델피아반도체나스닥</td>
       <td>0%</td>
-      <td>44665</td>
+      <td>44590</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -56,7 +56,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>3</th>
       <td>TIGER 골드선물(H)</td>
       <td>0%</td>
-      <td>26035</td>
+      <td>25945</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -110,7 +110,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>9</th>
       <td>KODEX iShares미국투자등급회사채액티브</td>
       <td>15%</td>
-      <td>11110</td>
+      <td>11115</td>
       <td>8</td>
       <td>10.0%</td>
       <td>105</td>
@@ -119,7 +119,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>10</th>
       <td>KODEX 200TR</td>
       <td>0%</td>
-      <td>36130</td>
+      <td>35980</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -128,7 +128,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>11</th>
       <td>ACE 테슬라밸류체인액티브</td>
       <td>0%</td>
-      <td>18455</td>
+      <td>18430</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
