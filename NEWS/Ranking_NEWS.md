@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260812_1709 </title></head>
-<center>Vers : 20260812_1709 </center>
-<center>Vers : 20260813_0209 </center>
+<head><meta charset="utf-8"><title>Vers : 20260812_1901 </title></head>
+<center>Vers : 20260812_1901 </center>
+<center>Vers : 20260813_0401 </center>
 <br><br><br>
 #### ['누가 사냐' 조롱받던 실패작…50년 만에 '3경 대박' 일냈다](https://m.stock.naver.com/news/ranknews/view/015/0005320278)
 #### ["삼전보다 '이 종목', 262만원 간다"...모건스탠리 원픽 정체는](https://m.stock.naver.com/news/ranknews/view/018/0006350513)
