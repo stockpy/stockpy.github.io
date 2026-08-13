@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260813_2041 </title></head>
-<center>Vers : 20260813_2041 </center>
-<center>Vers : 20260814_0541 </center>
+<head><meta charset="utf-8"><title>Vers : 20260813_2128 </title></head>
+<center>Vers : 20260813_2128 </center>
+<center>Vers : 20260814_0628 </center>
 <br><br><br>
 #### [삼전 '4만5000원대' 매수해 대박났는데…27억 펜트하우스 날린 사연은](https://m.stock.naver.com/news/ranknews/view/215/0001262220)
 #### [삼성전자 주식 ‘49.5%’ 반값 세일!…2000년 이후 처음이다 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002683677)
