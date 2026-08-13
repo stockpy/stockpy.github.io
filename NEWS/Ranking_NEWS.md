@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260813_1705 </title></head>
-<center>Vers : 20260813_1705 </center>
-<center>Vers : 20260814_0205 </center>
+<head><meta charset="utf-8"><title>Vers : 20260813_1901 </title></head>
+<center>Vers : 20260813_1901 </center>
+<center>Vers : 20260814_0401 </center>
 <br><br><br>
 #### [삼전 '4만5000원대' 매수해 대박났는데…27억 펜트하우스 날린 사연은](https://m.stock.naver.com/news/ranknews/view/215/0001262220)
 #### [삼성전자 주식 ‘49.5%’ 반값 세일!…2000년 이후 처음이다 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002683677)
@@ -9,7 +9,7 @@
 #### ['버텨야 하나' 속타는 삼전닉스 개미들…외국인은 쓸어 담았다 [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005320739)
 #### [“정말 더 갈까요?” KB證, 삼전·닉스 2027년 영업익 1000조 육박…지금은 극단적 저평가](https://m.stock.naver.com/news/ranknews/view/021/0002811330)
 #### ['하루 1조씩' 사들이던 SK하닉마저…기업들 비상 걸린 이유](https://m.stock.naver.com/news/ranknews/view/015/0005320731)
-#### [“그래도 믿을 건 금이다?” 무겁게 금값 떨어지더니…8월 들어 11% 급등 반전[투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002683691)
+#### [“그래도 믿을 건 금?” 무섭게 금값 떨어지더니…8월 들어 11% 급등 반전[투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002683691)
 #### ["주가 날뛰어도 매월 입금되네"…요즘 개미들 몰린 곳](https://m.stock.naver.com/news/ranknews/view/018/0006351301)
 #### [집 사고 한 번도 안 살았으면 ‘사실상 투기’…1주택이라도 전세대출 제한](https://m.stock.naver.com/news/ranknews/view/009/0005720515)
 #### [믿을 건 ‘반짝반짝’ 너밖에…무섭게 떨어지더니 이달 들어 11% 급등 반전](https://m.stock.naver.com/news/ranknews/view/009/0005720925)
