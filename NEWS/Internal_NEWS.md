@@ -1,7 +1,32 @@
-<head><meta charset="utf-8"><title>Vers : 20260813_2240 </title></head>
-<center>Vers : 20260813_2240 </center>
-<center>Vers : 20260814_0740 </center>
+<head><meta charset="utf-8"><title>Vers : 20260813_2324 </title></head>
+<center>Vers : 20260813_2324 </center>
+<center>Vers : 20260814_0824 </center>
 <br><br><br>
+#### [H&R REIT CEO, 인수 제안을 원활히 진행하기 위해 4억 1천만 달러 상당의 부동산 매입 예정 - The Globe and Mail](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707408)
+#### [브라질 정부, 관세 문제를 놓고 미국을 상대로 상호주의 절차를 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707407)
+#### [페루 중앙은행, 기준금리 4.25%로 동결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707406)
+#### [미국 평원 지역 HRW 밀 베이시스는 보합세, 단백질 프리미엄은 안정적이면서도 소폭 하락세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707405)
+#### [Vox Royalty Corp, 6월 30일 종료 분기 실적 발표 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707404)
+#### [카디올 테라퓨틱스(Cardiol Therapeutics Inc)가 6월 30일로 종료된 분기 실적을 발표 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707403)
+#### [캐나다 이스턴 플래티넘, 매출 감소와 비용 증가로 2분기 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707402)
+#### [이란 전쟁, 중국 전기 트럭 업계에 호재로 작용하며 수출 급증 이끌어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707401)
+#### [[속보 1] 소식통에 따르면, 미국은 이란이 트럼프를 겨냥한 음모를 꾸미고 있다는 이스라엘의 경고를 확인하지 못했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707400)
+#### [[속보] 인도 스카이웨이즈 에어 서비스, 기업공개(IPO) 주당 가격 범위를 131~138루피로 책정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707399)
+#### [연준의 굴스비, “최근 물가 상승률 데이터가 더 양호하다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707398)
+#### [머스크, 규제 당국에 제출한 서류에서 스페이스X 지분 48.4% 보유 사실을 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707397)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas의 최신 파이프라인 현황 (2026년 8월 13일)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707396)
+#### [지진으로 주택이 파손된 콜롬비아, 생존자 대피소가 폐허가 되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707395)
+#### [DeFi Technologies Inc, 6월 30일 종료된 분기 실적 발표 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707394)
+#### [[속보] 브라질 코산, 상루이스 항만 지분 인수 제안으로 3억 레알 제안 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707393)
+#### [케네디 센터 이사회, 건물에 트럼프 이름 새기기로 의결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707392)
+#### [에어줄 테크놀로지스(AirJoule Technologies Corporation), 6월 30일 종료 분기 실적 발표 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707391)
+#### [[속보] CPFL 2분기 순이익 14억 레알…IBES 예상치 12억 레알 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707390)
+#### [시티그룹, ARR 성장에 힘입어 호실적을 기록한 ASX 상장사 FINEOS Corp의 목표주가 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707389)
+#### [캐나다의 시브리지 골드, ‘커리지어스 레이크’ 프로젝트 수익에 힘입어 2분기 순이익 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707388)
+#### [[속보] 엔사인 에너지 서비스(Ensign Energy Services Inc.), 시타델 드릴링(Citadel Drilling Ltd.) 인수 완료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707387)
+#### [애플라이드 머티리얼즈, 시장 예상치를 상회하는 매출 전망 발표…높은 기대감에 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707386)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LRCX.O/total>
 #### [워싱턴의 제2차 세계대전 기념비, 비눗방울과 낙서로 훼손되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707385)
 #### [[속보] 브라질 컴패스, 자사주 매입 프로그램을 통해 최대 320만 주 취득 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707384)
 #### [직원 전환 비용 390만~450만 달러, 철수 비용 70만~80만 달러로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707383)
@@ -41,30 +66,3 @@
 #### [심장 질환 치료제 개발사 아트리움 테라퓨틱스, 비용 증가로 2분기 적자 폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707350)
 #### [투자자들의 높은 기대감에 애플라이드 머티리얼스 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707349)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMAT.O/total>
-#### [피치, 미국의 신용등급을 ‘AA+’로 유지…재정적 위험 속에서도 경제 회복력 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707348)
-#### [호주의 알바네세 총리와 트럼프 전 대통령이 AUKUS 방위 협정을 논의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707347)
-#### [크레디코프(Credicorp Ltd)가 6월 30일로 종료된 분기 실적을 발표했습니다 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707346)
-#### [아르헨티나의 YPF, 510억 달러 규모 LNG 프로젝트를 위한 RIGI 투자 방안 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707342)
-#### [펀드 매도와 기술적 압박으로 소 선물 가격 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707345)
-#### [[속보 1] 조선중앙통신, 북한이 한미 합동군사훈련을 비난했다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707344)
-#### [트럼프, 해군에 항공모함 발사 시스템 폐기하고 증기식 캐터펄트로 복귀하라고 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707341)
-#### [캐나다의 멜코어 디벨롭먼츠, 미국 토지 판매 감소로 2분기 매출 38% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707343)
-#### [트리 아일랜드 스틸, 캐나다 매출 증가에 힘입어 2분기 매출 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707340)
-#### [미국 증권 규제 당국, 암호화폐 규정 표결을 위한 회의 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707339)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
-#### [에어줄 테크놀로지스, 2분기 순손실 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707338)
-#### [[속보] 콜롬비아 그루포 수라, 2분기 순이익 1.7조 페소 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707337)
-#### [비용 증가로 캐나다 ‘아프리카 에너지’의 2분기 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707336)
-#### [호주 보험사 QBE의 상반기 순이익이 4% 가까이 증가했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707335)
-#### [어드밴스드 마이크로 디바이스(AMD), 47억 5천만 달러 규모 선순위 채권 발행 가격 확정… 4개 트랜치로 나뉘어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707334)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMD.O/total>
-#### [[속보] AWS, 2027년 9월 30일까지 AWS Certificate Manager의 이메일 인증 공개 인증서 지원 중단 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707333)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
-#### [에슬론 메디컬, 전문 서비스 수수료 감소로 1분기 영업비용 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707332)
-#### [8월 10일 현재, 2026년 연례 주주총회 이후 캐리 클레이본 CEO의 사임이 예상된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707331)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ADIL.O/total>
-#### [KULR 테크놀로지, 2분기 매출 43% 감소…비트코인 손실로 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707330)
-#### [백악관, “트럼프 행정부, 드론 수입품에 관세 부과할 예정”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707329)
-#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas, Holy Trinity SEG 670 구간에서 예정에 없던 유지보수 작업 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707328)
-#### [CPI 에어로스트럭처, 2분기 매출 증가…순이익 흑자 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707327)
-#### [101 연구개발비 증가로 2분기 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2707326)
