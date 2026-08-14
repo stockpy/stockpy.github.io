@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260814_2245 </title></head>
-<center>Vers : 20260814_2245 </center>
-<center>Vers : 20260815_0745 </center>
+<head><meta charset="utf-8"><title>Vers : 20260814_2302 </title></head>
+<center>Vers : 20260814_2302 </center>
+<center>Vers : 20260815_0802 </center>
 <br><br><br>
+#### [소 선물, 수요 감소로 소폭 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709268)
+#### [CIF/FOB 걸프만 곡물·대두 바지선 입찰가, 보합세에서 혼조세까지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709267)
+#### [캐나다 바이오제약 기업 아비칸나(Avicanna), VAC 보험 급여 변경으로 2분기 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709266)
+#### [[단독] 소식통에 따르면, 리비아의 하프타르가 이슬람국가(IS)에 억류됐던 미국인 인질의 석방에 핵심적인 역할을 했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709265)
 #### [브라질 코산(Cosan): 버그만(Bergman) 최고재무책임자(CFO) 사임, 소브리뉴(Sobrinho)가 후임으로 내정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709264)
 #### [아마존, 구속력 있는 중재 제도 재개하고 집단 소송 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709263)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
@@ -64,7 +68,3 @@
 #### [캐나다의 플렉시블 솔루션즈, 파나마 공장의 교육 및 개발 비용으로 인해 2분기 순손실 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709211)
 #### [[속보] 리트랙터블 테크놀로지스, 2분기 영업이익 -510만 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709209)
 #### [GPU 용량 제공업체 액스 컴퓨트(Axe Compute), 2분기 매출 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709208)
-#### [캐나다의 클레어베스트, 사모펀드 포트폴리오 가치 상승에 힘입어 1분기 순이익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709207)
-#### [[속보] 론 파인 캐피털, 알파벳 지분 확대…KKR·부킹 홀딩스 지분 전량 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709206)
-#### [여론조사 결과, 브라질 대선 앞두고 루라의 볼소나로에 대한 지지율 격차가 좁혀지고 있는 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709205)
-#### [트럼프, USS 에이브러햄 링컨호 배치 기간이 “턱없이 짧다”고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709204)
