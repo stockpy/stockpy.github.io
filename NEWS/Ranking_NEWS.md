@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260814_1943 </title></head>
-<center>Vers : 20260814_1943 </center>
-<center>Vers : 20260815_0443 </center>
+<head><meta charset="utf-8"><title>Vers : 20260814_2030 </title></head>
+<center>Vers : 20260814_2030 </center>
+<center>Vers : 20260815_0530 </center>
 <br><br><br>
 #### [“하이닉스 대체 얼마까지 올라?” ‘148만원’에서 무려 ‘470만원’…널뛰는 증권사 목표주가 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002684214)
 #### ["삼전닉스 다 판건 아니지만"…고점에 판 최화정, 수익률은 '-94%' 고백](https://m.stock.naver.com/news/ranknews/view/215/0001262385)
