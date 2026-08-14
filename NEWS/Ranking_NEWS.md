@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260814_1651 </title></head>
-<center>Vers : 20260814_1651 </center>
-<center>Vers : 20260815_0151 </center>
+<head><meta charset="utf-8"><title>Vers : 20260814_1743 </title></head>
+<center>Vers : 20260814_1743 </center>
+<center>Vers : 20260815_0243 </center>
 <br><br><br>
 #### [“하이닉스 대체 얼마까지 올라?” ‘148만원’에서 무려 ‘470만원’…널뛰는 증권사 목표주가 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002684214)
 #### ["삼전닉스 다 판건 아니지만"…고점에 판 최화정, 수익률은 '-94%' 고백](https://m.stock.naver.com/news/ranknews/view/215/0001262385)
@@ -52,7 +52,7 @@
 #### [“15억 이하 집만 오르겠다” 대출 6억 받을 수 있는 아파트로 실수요자 더 몰리나 [머니뭐니]](https://m.stock.naver.com/news/ranknews/view/016/0002684186)
 #### [“너 삼전닉스로 얼마 벌었어?” 연예인 단골 소재 된 주식 수다, ‘투자 신호’ 떠오를까?](https://m.stock.naver.com/news/ranknews/view/243/0000101645)
 #### [ARS 세 번 연장한 JR글로벌리츠…이젠 '돈 갚을 시간표'가 관건 [fn마켓워치]](https://m.stock.naver.com/news/ranknews/view/014/0005561903)
-#### [본업도 신사업도 잘 나가네…모처럼 웃은 현대차·LG그룹株](https://m.stock.naver.com/news/ranknews/view/015/0005321097)
+#### [본업도 신사업도 잘나가네…모처럼 웃은 현대차·LG그룹株](https://m.stock.naver.com/news/ranknews/view/015/0005321097)
 #### [1300원대 눈앞 둔 환율…한은 추가 인상 '속도조절' 변수 되나](https://m.stock.naver.com/news/ranknews/view/629/0000524589)
 #### [변동장에 ‘배당’ 매력 돋보이네…8월 5조 넘게 풀린다[S머니+]](https://m.stock.naver.com/news/ranknews/view/011/0004651968)
 #### [엔비디아 협력 기대감에 '우르르'…LG전자 소액주주 100만명 넘었다](https://m.stock.naver.com/news/ranknews/view/374/0000527587)
