@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260814_2221 </title></head>
-<center>Vers : 20260814_2221 </center>
-<center>Vers : 20260815_0721 </center>
+<head><meta charset="utf-8"><title>Vers : 20260814_2245 </title></head>
+<center>Vers : 20260814_2245 </center>
+<center>Vers : 20260815_0745 </center>
 <br><br><br>
 #### [“하이닉스 대체 얼마까지 올라?” ‘148만원’에서 무려 ‘470만원’…널뛰는 증권사 목표주가 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002684214)
 #### [8월 들어 '삼전하닉' 목표가 또 낮춘 증권사…"2027년은 하락"](https://m.stock.naver.com/news/ranknews/view/014/0005561925)

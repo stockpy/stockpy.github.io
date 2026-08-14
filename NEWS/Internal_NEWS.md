@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260814_2221 </title></head>
-<center>Vers : 20260814_2221 </center>
-<center>Vers : 20260815_0721 </center>
+<head><meta charset="utf-8"><title>Vers : 20260814_2245 </title></head>
+<center>Vers : 20260814_2245 </center>
+<center>Vers : 20260815_0745 </center>
 <br><br><br>
+#### [브라질 코산(Cosan): 버그만(Bergman) 최고재무책임자(CFO) 사임, 소브리뉴(Sobrinho)가 후임으로 내정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709264)
+#### [아마존, 구속력 있는 중재 제도 재개하고 집단 소송 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709263)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [중국 수요와 유가 상승에 힘입어 CBOT 대두 가격 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709262)
+#### [미국 원전 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709261)
+#### [[표] 금요일 기준 미국 원자력 발전 가동 중단 용량이 2,101 MW로 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709260)
+#### [서드 포인트, 워너 브라더스 디스커버리 지분 공개… 알파벳 및 철도 부문 투자 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709259)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
+#### [몬테네그로에서 확산 중인 산불에 소방관들과 주민들이 맞서 싸우고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709258)
 #### [[속보] 피터 틸, 6월 30일 기준 스페이스X 지분 5.5% 보유… SEC 제출 서류에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709257)
 #### [CBOT 옥수수, 밀 시장의 강세 여파로 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709256)
 #### [CBOT 밀, 전쟁 리스크로 상승세 이어가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709255)
@@ -59,10 +68,3 @@
 #### [[속보] 론 파인 캐피털, 알파벳 지분 확대…KKR·부킹 홀딩스 지분 전량 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709206)
 #### [여론조사 결과, 브라질 대선 앞두고 루라의 볼소나로에 대한 지지율 격차가 좁혀지고 있는 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709205)
 #### [트럼프, USS 에이브러햄 링컨호 배치 기간이 “턱없이 짧다”고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709204)
-#### [거래가 소폭에 그친 가운데 걸프 연안 지역 휘발유 가격은 하락하고 경유 가격은 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709203)
-#### [찰리 어겐, MobileX 지분 과반 인수에 합의 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709202)
-#### [미국 판사가 트럼프가 소말리아인들에 대한 추방 보호 조치를 종료할 수 있는 길을 열어주었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709201)
-#### [Citius Oncology Inc, 6월 30일 종료된 분기 실적 발표 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709196)
-#### [트럼프, USS 에이브러햄 링컨호 배치 기간이 “턱없이 짧다”고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709210)
-#### [단독-미국, 동맹국들에 중국과의 AI 경쟁에서 편을 택해야 한다고 통보할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709200)
-#### [[속보] 피치, 영국의 신용등급을 ‘Aa-’로 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709199)
