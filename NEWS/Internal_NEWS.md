@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_2101 </title></head>
-<center>Vers : 20260815_2101 </center>
-<center>Vers : 20260816_0601 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_2219 </title></head>
+<center>Vers : 20260815_2219 </center>
+<center>Vers : 20260816_0719 </center>
 <br><br><br>
+#### [인디애나주에서 폭풍과 홍수로 6명이 사망했다고 비상당국이 밝혔다??](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709401)
+#### [단독-미국, 동맹국들에 중국과의 AI 경쟁에서 편을 택해야 한다고 통보할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709400)
+#### [독일의 리브만, 1500m 세계 신기록을 갈아치웠다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709399)
+#### [공중에서 바라본 크로아티아의 맹렬한 산불](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709398)
+#### [‘라라’ 폭풍, 하와이 빅 아일랜드에 접근하며 허리케인으로 발달할까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709397)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709396)
 #### [‘인포메이션’ 보도에 따르면, 엔비디아가 오픈AI 데이터센터 계약의 일환으로 SB 에너지에 30억 달러를 투자할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709395)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
@@ -59,8 +64,3 @@
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709344)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709343)
 #### [트럼프의 2024년 식료품점 사진 촬영 장면이 이제 중간선거에서 공화당을 괴롭히고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709342)
-#### [이번 주 브레이킹뷰스: 펀드 매니저들이 고심할 때](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709341)
-#### [러시아, “여름 작전을 통해 우크라이나 남동부 19개 마을을 점령했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709340)
-#### [디즈니, D23 팬 이벤트에서 마블의 신작 ‘엑스맨’ 출연진과 ‘겨울왕국 3’ 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709339)
-#### [노스랜드 파워 온타리오의 287 MW 토롤드 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709338)
-#### [버넘 영국 총리, 가뭄 피해를 입은 농민들을 위한 추가 지원금 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709337)
