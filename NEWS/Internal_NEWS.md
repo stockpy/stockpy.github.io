@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_1926 </title></head>
-<center>Vers : 20260815_1926 </center>
-<center>Vers : 20260816_0426 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_2021 </title></head>
+<center>Vers : 20260815_2021 </center>
+<center>Vers : 20260816_0521 </center>
 <br><br><br>
+#### [강력한 지진이 발생한 지 며칠이 지나면서 시신이 더 많이 수습되자 콜롬비아에서 생존에 대한 희망이 희미해지고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709394)
+#### [민주당, 2028년 경선 첫 번째 주(州)로 사우스캐롤라이나를 선정??](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709393)
+#### [사우디 사육자 경매에서 캐나다산 매가 천문학적인 가격에 낙찰됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709392)
+#### [‘더 인포메이션’ 보도에 따르면, 엔비디아가 오픈AI 데이터센터 계약의 일환으로 SB 에너지에 30억 달러를 투자하는 방안을 협의 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709391)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
+#### [엔비디아, 오픈AI 데이터센터 계약의 일환으로 SB 에너지에 30억 달러 투자 협의 중 - 더 인포메이션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709390)
+#### [카타르, 이란 조종사 억류 사실 부인??](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709389)
+#### [더글러스, 팬퍼시픽 대회에서 50m 자유형 세계 신기록 수립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709388)
 #### [카타르는 이란 조종사들을 구금했다는 주장을 부인하며, 한 명의 유해를 발견했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709387)
 #### [천연가스 파이프라인 긴급 공지: 2026년 8월 16일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709386)
 #### [미국 북서부 강 유수량은 82%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709385)
@@ -55,10 +63,3 @@
 #### [버넘 영국 총리, 가뭄 피해를 입은 농민들을 위한 추가 지원금 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709337)
 #### [라인강 수위가 또다시 사상 최저치를 기록하며 운송 수단이 육상으로 전환되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709336)
 #### [탈레반 정권 수립 5주년을 맞이한 가운데, 구호 단체들은 위기 상황을 경고하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709335)
-#### [우크라이나는 우스트루가 소재 러시아 석유 시설을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709334)
-#### [우크라이나, 러시아 로켓 공장과 군 비행장을 공격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709333)
-#### [지진 사망자 수 38명으로 늘어… 인도네시아 재난관리청 관계자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709332)
-#### [식품 안전을 위해 앞장서고 있는 인도 한 주 식품안전국장이 대대적인 단속을 통해 ‘이터널’, ‘스위기’, ‘제프토’를 겨냥했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709331)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709330)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709329)
-#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709328)
