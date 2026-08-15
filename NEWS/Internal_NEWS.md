@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_1828 </title></head>
-<center>Vers : 20260815_1828 </center>
-<center>Vers : 20260816_0328 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_1858 </title></head>
+<center>Vers : 20260815_1858 </center>
+<center>Vers : 20260816_0358 </center>
 <br><br><br>
+#### [미국 북서부 강 유수량은 82%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709385)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709384)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709383)
 #### [리투아니아의 코기 경주견들은 자신들만의 속도로 달린다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709382)
@@ -61,4 +62,3 @@
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709328)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709327)
 #### [앳코 파워 앨버타의 155MW 배틀 리버 4호 석탄 화력발전소 가동 중단 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709326)
-#### [우크라이나의 공격으로 러시아 사마라 지역의 산업 단지가 피해를 입었다고 현지 당국이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709325)
