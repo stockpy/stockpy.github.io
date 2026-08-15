@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_1858 </title></head>
-<center>Vers : 20260815_1858 </center>
-<center>Vers : 20260816_0358 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_1926 </title></head>
+<center>Vers : 20260815_1926 </center>
+<center>Vers : 20260816_0426 </center>
 <br><br><br>
+#### [카타르는 이란 조종사들을 구금했다는 주장을 부인하며, 한 명의 유해를 발견했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709387)
+#### [천연가스 파이프라인 긴급 공지: 2026년 8월 16일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709386)
 #### [미국 북서부 강 유수량은 82%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709385)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709384)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709383)
@@ -60,5 +62,3 @@
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709330)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709329)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709328)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709327)
-#### [앳코 파워 앨버타의 155MW 배틀 리버 4호 석탄 화력발전소 가동 중단 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709326)
