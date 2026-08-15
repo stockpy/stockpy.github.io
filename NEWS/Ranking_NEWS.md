@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_1236 </title></head>
-<center>Vers : 20260815_1236 </center>
-<center>Vers : 20260815_2136 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_1315 </title></head>
+<center>Vers : 20260815_1315 </center>
+<center>Vers : 20260815_2215 </center>
 <br><br><br>
 #### ["장중 26% 폭등"...5만원→1만4000원 급락했던 백종원 회사, 갑자기 무슨 일 [주주클럽]](https://m.stock.naver.com/news/ranknews/view/014/0005562002)
 #### [백종원 드디어 일냈다…폭락하던 더본, 13% 급등 왜? [줍줍리포트]](https://m.stock.naver.com/news/ranknews/view/011/0004652075)
