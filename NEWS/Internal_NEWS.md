@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_1315 </title></head>
-<center>Vers : 20260815_1315 </center>
-<center>Vers : 20260815_2215 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_1421 </title></head>
+<center>Vers : 20260815_1421 </center>
+<center>Vers : 20260815_2321 </center>
 <br><br><br>
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709366)
+#### [벨기에에서 사상 최대 규모의 산불이 발생하자 EU가 항공기를 파견했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709365)
+#### [영국의 번햄, 학자 아르데이의 사망에 대해 성찰을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709364)
+#### [NSN 디벨롭먼트 팀, 볼타 아 포르투갈에서 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709363)
+#### [경찰에 따르면 버지니아 주립대학교에서 발생한 총기 사건으로 5명이 부상을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709362)
+#### [러시아, 무기 이전 가능성 보도와 관련해 미국과 터키에 해명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709361)
 #### [에트나 화산 경보 단계 하향 조정으로 시칠리아 카타니아 공항, 항공편 운항 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709360)
 #### [국영 통신사 보도에 따르면, 기름 유출로 오만 해안 12km가 피해를 입었으나 마시라 섬은 영향을 받지 않은 것으로 전해졌다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709359)
 #### [포르투갈, 전력망 운영사 REN 지분 13.7% 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709358)
@@ -56,16 +62,16 @@
 #### [호르무즈 해협 선박 운항은 미국의 조건 충족 여부에 달려 있다며, 이란은 미국과의 협상 재개 여부를 아직 결정하지 않았다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709309)
 #### [신화통신, “중국의 시진핑 주석, 한중 관계에 큰 중요성을 두고 있다”고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709308)
 #### [일본 국방장관, 논란의 여지가 있는 야스쿠니 신사를 참배](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709307)
+<head><meta charset="utf-8"><title>Vers : 20260815_1421 </title></head>
+<center>Vers : 20260815_1421 </center>
+<center>Vers : 20260815_2321 </center>
+<br><br><br>
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709306)
 #### [일본 방위상, 논란의 여지가 있는 야스쿠니 신사를 참배](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709305)
 #### [플로리다의 한 행사장이 팔레스타인계 미국인 의원 라시다 트라이브와의 집회를 취소했나??](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709304)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709303)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709302)
 #### [8월 17일 인도 경제·기업 관련 행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709301)
-<head><meta charset="utf-8"><title>Vers : 20260815_1315 </title></head>
-<center>Vers : 20260815_1315 </center>
-<center>Vers : 20260815_2215 </center>
-<br><br><br>
 #### [대만, 드론 예산 등을 포함한 연간 예산안을 오랜 지연 끝에 통과시켰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709300)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709299)
 #### [미시간 총기 난사 사건으로 5명 사망… 용의자는 숨진 채 발견됐다고 경찰이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709298)
@@ -126,6 +132,10 @@
 #### [푸틴, 러시아와 북한이 지역 안보 문제에서 협력 중이라고 밝혔다고 조선중앙통신이 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709249)
 #### [캐나다의 어코드 파이낸셜, 2분기 매출 감소·적자 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709248)
 #### [흑해 긴장 고조로 밀 가격 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709247)
+<head><meta charset="utf-8"><title>Vers : 20260815_1421 </title></head>
+<center>Vers : 20260815_1421 </center>
+<center>Vers : 20260815_2321 </center>
+<br><br><br>
 #### [브라질의 페트로브라스, 포스 두 아마조나스 분지 탐사 유정에서 탄화수소 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709246)
 #### [트럼프, 조만간 호르무즈 해협을 미국 영토로 선포하겠다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709245)
 #### [브라질 중앙은행, 환매조건부 매매를 통해 10억 달러 규모의 달러 입찰 실시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709244)
@@ -133,10 +143,6 @@
 #### [기관 투자자들, 미국 분기별 13F 신고서를 통해 인기 기술주에 대한 신중한 접근 태도 드러내](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709242)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KEEL.O/total>
 #### [에어 티, 아레나 인수 비용과 기단 감가상각비 여파로 1분기 영업적자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709241)
-<head><meta charset="utf-8"><title>Vers : 20260815_1315 </title></head>
-<center>Vers : 20260815_1315 </center>
-<center>Vers : 20260815_2215 </center>
-<br><br><br>
 #### [거래업체들, 옥수수·밀·대두·대두유 순매수 -거래업체들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709240)
 #### [신원 확인 업체 authID, 2분기 매출 감소·순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709239)
 #### [알파벳, 버크셔 해서웨이의 세 번째로 큰 투자처로 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709238)
@@ -194,6 +200,10 @@
 #### [[속보] 소로스 펀드 매니지먼트, 세일즈포스 지분 전량 청산…메타·켄뷰 지분 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709188)
 #### [[속보] 소로스, 마이크로소프트·블루 오울 지분 축소… 테슬라·오라클 지분 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709187)
 #### [[속보] 밸류액트 홀딩스, 디즈니 지분 청산하고 블랙록 지분 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709186)
+<head><meta charset="utf-8"><title>Vers : 20260815_1421 </title></head>
+<center>Vers : 20260815_1421 </center>
+<center>Vers : 20260815_2321 </center>
+<br><br><br>
 #### [캐나다 라르고, 바나듐 가격 상승과 판매량 증가로 2분기 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709192)
 #### [레이저 포토닉스, 매출 감소와 비용 증가로 2분기 순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709185)
 #### [탈레반의 규제가 강화되는 가운데, 유엔은 아프가니스탄 여성들에 대한 지원을 촉구했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709184)
@@ -201,10 +211,6 @@
 #### [베네수엘라 정부가 수감자 131명에게 대체 구금 조치를 적용했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709182)
 #### [[속보] 리플리무네 그룹(Replimune Group, Inc.), 혼합형 쉘프 등록 신청… 규모 미공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709181)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/REPL.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260815_1315 </title></head>
-<center>Vers : 20260815_1315 </center>
-<center>Vers : 20260815_2215 </center>
-<br><br><br>
 #### [퍼페투아 리소시스(Perpetua Resources Corp.)가 6월 30일로 종료된 분기 실적을 발표 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709180)
 #### [르블랑 캐나다 장관, 주말 동안 무역 협상을 위해 워싱턴에 머물 예정 - 대변인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709179)
 #### [[속보] 버크셔 해서웨이, 알파벳 지분 45.2% 추가 확보…A종주 7,880만 주 보유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709178)
@@ -270,6 +276,10 @@
 #### [트럼프, 이란에 대한 강경 발언을 강화하며 미국인들에게 유가 상승을 받아들일 것을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709129)
 #### [[속보] 비보스 테라퓨틱스, 2분기 순이익 -552만 3천 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709128)
 #### [트럼프, 미 해군 함정 건조를 해외 조선소에 위탁하기로 한 후 한화·핀칸티에리 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709127)
+<head><meta charset="utf-8"><title>Vers : 20260815_1421 </title></head>
+<center>Vers : 20260815_1421 </center>
+<center>Vers : 20260815_2321 </center>
+<br><br><br>
 #### [경제 지표에 힘입은 상승세가 주춤하며 미국 국채 가격 하락, 호르무즈 해협 교착 상태로 유가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709126)
 #### [제출된 서류에 따르면 자나 파트너스가 피서브 지분을 축소했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709125)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FISV.O/total>
@@ -278,10 +288,6 @@
 #### [‘파라볼릭(Parabolic)’은 비용 절감으로 2분기 순손실이 축소되었으며, ‘커넥트앤셀(ConnectAndSell)’을 인수해 연간 매출을 두 배 이상 늘릴 전망이다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709122)
 #### [투자자들이 경제 지표와 중동 긴장 상황을 주시하는 가운데 S&P 500 지수 하락 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709121)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RCAT.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260815_1315 </title></head>
-<center>Vers : 20260815_1315 </center>
-<center>Vers : 20260815_2215 </center>
-<br><br><br>
 #### [[속보] 보그워너, 자사 선순위 사채에 대한 현금 공개매수 조건 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709120)
 #### [파산 사태 속에서 오디오 방송사 커뮬러스 미디어의 2분기 매출이 9.7% 감소했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709119)
 #### [모터스포츠 게임, 구독 서비스 호조에 힘입어 2분기 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709118)
@@ -344,16 +350,16 @@
 #### [BUZZ-IMM: 엔화 숏 포지션은 감소한 반면 유로 숏 포지션은 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709069)
 #### [8월 14일 기준 앨버타주 카놀라 일일 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709068)
 #### [천연가스 파이프라인 긴급 공지: 2026년 8월 15일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709067)
+<head><meta charset="utf-8"><title>Vers : 20260815_1421 </title></head>
+<center>Vers : 20260815_1421 </center>
+<center>Vers : 20260815_2321 </center>
+<br><br><br>
 #### [미국 동부 표준시 기준 오후 3시 30분경 S&P 500 지수 내 상승률 및 하락률이 가장 높은 종목들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709066)
 #### [투기 세력, 미국 원유 순매수 포지션 확대?CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709065)
 #### [펀드 운용사들, 지난주 S&P 500 선물 순매수 포지션 확대?CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709061)
 #### [염증 치료제 개발사 HCW 바이오로직스의 2분기 순손실 폭 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709060)
 #### [미국 FOB 현물 제분용 사료 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709059)
 #### [트럼프 “미국, 이란에 강력한 경제 제재 가할 것”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709064)
-<head><meta charset="utf-8"><title>Vers : 20260815_1315 </title></head>
-<center>Vers : 20260815_1315 </center>
-<center>Vers : 20260815_2215 </center>
-<br><br><br>
 #### [원당, 1년여 만에 최고치에서 소폭 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709063)
 #### [수요 증가 전망에 힘입어 미국 천연가스 선물 가격 소폭 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709062)
 #### [앨버타 주 농작물 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709058)
@@ -413,6 +419,10 @@
 #### [뉴욕 연방준비은행, 상설 레포 거래 데이터 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709009)
 #### [[속보] 스페이스XAI, GitHub Copilot에 Grok 4.6 모델 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709008)
 #### [[속보] 드 레디스(Dr Reddy’s), 영국 내 원료의약품(API) 생산 시설에 대한 미국 식품의약국(USFDA)의 현장 조사가 ‘자발적 조치 권고(Voluntary Action Indicated)’로 분류되어 공식적으로 종료되었다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709007)
+<head><meta charset="utf-8"><title>Vers : 20260815_1421 </title></head>
+<center>Vers : 20260815_1421 </center>
+<center>Vers : 20260815_2321 </center>
+<br><br><br>
 #### [노르웨이의 Gassco는 8월 14일 17시 40분부터 8월 15일 04시 00분까지 카르스토(Karstø) 가스전에서 하루 9.0 mcm 규모의 생산 중단을 실시할 예정입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709006)
 #### [Vera, FDA 심사 과정에서 초기 신장 기능 데이터에 힘입어 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709005)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VERA.O/total>
@@ -421,10 +431,6 @@
 #### [샌디스크, ‘투자자의 날’ 행사 후 상승세를 이어가며 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709002)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SNDK.O/total>
 #### [QuoteMedia, 시장 데이터 및 기술 솔루션에 대한 수요 증가로 2분기 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709001)
-<head><meta charset="utf-8"><title>Vers : 20260815_1315 </title></head>
-<center>Vers : 20260815_1315 </center>
-<center>Vers : 20260815_2215 </center>
-<br><br><br>
 #### [S&P 500 기업들의 실적 호조. 소매업종은 어떤 모습을 보일까요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709000)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ROST.O/total>
 #### [미국 소매판매 부진으로 연준 금리 인상 가능성이 줄어들자 파운드화 환율이 1.3561까지 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708999)
@@ -496,10 +502,3 @@
 #### [킨더케어, 연간 실적 전망치를 대폭 하향 조정한 후 사상 최대의 일일 주가 하락 기록 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708949)
 #### [북해 원유(포티스, 에코피스크) 호가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708948)
 #### [OPG 온타리오 171 MW 마운틴 슈트 수력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708947)
-#### [백악관 국가안보 담당관 앤디 베이커, 행정부를 떠난다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708946)
-#### [트레이더들이 유가 변동성을 주시하는 가운데 시장은 소강 상태를 보이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708945)
-#### [인플레이션 지표로 금리 동결 전망이 굳어지면서 달러 약세에 힘입어 금값 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708944)
-#### [[속보 1] 페루, 물가 상승에 따른 시위 속 교통 부문 연료 보조금 도입 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708943)
-#### [분석가들은 워크데이 인수 소식이 타격을 입은 소프트웨어 기업들의 기업 가치에 대한 신뢰를 회복시킬 수 있을 것이라고 전망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708942)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WDAY.O/total>
-#### [GPS 기기 제조사 트랙 그룹(Track Group), 제품 출시 지연으로 3분기 조정 EBITDA 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708941)
