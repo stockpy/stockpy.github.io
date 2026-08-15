@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_1444 </title></head>
-<center>Vers : 20260815_1444 </center>
-<center>Vers : 20260815_2344 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_1500 </title></head>
+<center>Vers : 20260815_1500 </center>
+<center>Vers : 20260816_0000 </center>
 <br><br><br>
 #### [“매달 20만원 그냥 나가는데”…아파트 관리비 할인카드 따져보니](https://m.stock.naver.com/news/ranknews/view/009/0005721517)
 #### ["장중 26% 폭등"...5만원→1만4000원 급락했던 백종원 회사, 갑자기 무슨 일 [주주클럽]](https://m.stock.naver.com/news/ranknews/view/014/0005562002)
