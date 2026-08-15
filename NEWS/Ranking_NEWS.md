@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_0430 </title></head>
-<center>Vers : 20260815_0430 </center>
-<center>Vers : 20260815_1330 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_0459 </title></head>
+<center>Vers : 20260815_0459 </center>
+<center>Vers : 20260815_1359 </center>
 <br><br><br>
 #### [“360만원 입금하면 13만원 얹어 드려요” 이틀 만에 1만명 몰려, 이런 적 처음 [머니뭐니]](https://m.stock.naver.com/news/ranknews/view/016/0002684289)
 #### ["팔았다가 크게 후회"…개미군단 '바글바글' 모였다](https://m.stock.naver.com/news/ranknews/view/215/0001262465)
