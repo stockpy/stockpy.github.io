@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_0532 </title></head>
-<center>Vers : 20260815_0532 </center>
-<center>Vers : 20260815_1432 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_0637 </title></head>
+<center>Vers : 20260815_0637 </center>
+<center>Vers : 20260815_1537 </center>
 <br><br><br>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709316)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709315)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709314)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709313)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709312)
@@ -66,12 +68,12 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
 #### [몬테네그로에서 확산 중인 산불에 소방관들과 주민들이 맞서 싸우고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709258)
 #### [[속보] 피터 틸, 6월 30일 기준 스페이스X 지분 5.5% 보유… SEC 제출 서류에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709257)
+<head><meta charset="utf-8"><title>Vers : 20260815_0637 </title></head>
+<center>Vers : 20260815_0637 </center>
+<center>Vers : 20260815_1537 </center>
+<br><br><br>
 #### [CBOT 옥수수, 밀 시장의 강세 여파로 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709256)
 #### [CBOT 밀, 전쟁 리스크로 상승세 이어가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709255)
-<head><meta charset="utf-8"><title>Vers : 20260815_0532 </title></head>
-<center>Vers : 20260815_0532 </center>
-<center>Vers : 20260815_1432 </center>
-<br><br><br>
 #### [ATCO/TransAlta 앨버타 390 MW 셰어니스 2호 석탄 화력발전소 가동 개시 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709254)
 #### [[속보] 비브라, 2분기 조정 순이익 23억 레알…IBES 예상치 21억 레알 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709253)
 #### [[단독] 소식통에 따르면, 제인 스트리트는 7월 ‘시추에셔널 어웨어니스’ 관련 문제와 AI 관련 매도 물량으로 인해 150억 달러의 손실을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709252)
@@ -134,12 +136,12 @@
 #### [단독-미국, 동맹국들에 중국과의 AI 경쟁에서 편을 택해야 한다고 통보할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709200)
 #### [[속보] 피치, 영국의 신용등급을 ‘Aa-’로 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709199)
 #### [[속보] 시추에이션 어웨어니스, 엔비디아와 AMD 지분 전량 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709198)
+<head><meta charset="utf-8"><title>Vers : 20260815_0637 </title></head>
+<center>Vers : 20260815_0637 </center>
+<center>Vers : 20260815_1537 </center>
+<br><br><br>
 #### [피치, 영국의 신용등급을 “AA-”로 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709197)
 #### [센티 바이오사이언스 홀딩스(Senti Biosciences Holdings Inc)가 6월 30일로 종료된 분기 실적을 발표 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709195)
-<head><meta charset="utf-8"><title>Vers : 20260815_0532 </title></head>
-<center>Vers : 20260815_0532 </center>
-<center>Vers : 20260815_1432 </center>
-<br><br><br>
 #### [PLAYSTUDIOS, Inc., 6월 30일 종료 분기 실적 발표 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709191)
 #### [[속보] 소로스, 아마존·우버 지분 축소…애플·브로드컴 지분 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709194)
 #### [[속보] Axe Compute Inc, 2분기 순이익 -1,720만 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709190)
@@ -208,13 +210,13 @@
 #### [트라우스 파마, 라이선스 계약 해지로 2분기 매출 0 기록…순손실 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709139)
 #### [비보스 테라퓨틱스, 서비스 성장에 힘입어 2분기 매출 35% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709138)
 #### [‘Inside Debt’ - 8월 14일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709137)
+<head><meta charset="utf-8"><title>Vers : 20260815_0637 </title></head>
+<center>Vers : 20260815_0637 </center>
+<center>Vers : 20260815_1537 </center>
+<br><br><br>
 #### [파라마운트 스카이댄스의 2분기 매출 관련 오보 정정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709134)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
 #### [[속보] 마우이 랜드 앤 파인애플, 상반기 기본 주당순이익(EPS) -0.19달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709133)
-<head><meta charset="utf-8"><title>Vers : 20260815_0532 </title></head>
-<center>Vers : 20260815_0532 </center>
-<center>Vers : 20260815_1432 </center>
-<br><br><br>
 #### [TSX, 기술주 하락에 주간 상승폭 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709136)
 #### [북미, 8월 17일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709135)
 #### [표절 스캔들의 중심에 섰던 전 케임브리지대 교수, 사망한 채 발견됐다고 영국 언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709132)
@@ -284,12 +286,12 @@
 #### [단독 - 소식통에 따르면, 연방거래위원회(FTC)가 의료 기록 분야 대기업 에픽 시스템즈(Epic Systems)를 조사 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709079)
 #### [인도, 검증된 외국 기술에 핵 분야 개방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709078)
 #### [CEO 살해 혐의에 대해 유죄를 인정한 루이지 망지오네의 향후 행보는 어떻게 될까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709077)
+<head><meta charset="utf-8"><title>Vers : 20260815_0637 </title></head>
+<center>Vers : 20260815_0637 </center>
+<center>Vers : 20260815_1537 </center>
+<br><br><br>
 #### [단독-미국 연방거래위원회(FTC), 의료 기록 업체 에픽 시스템즈 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709076)
 #### [연방준비제도(Fed) 관련 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709075)
-<head><meta charset="utf-8"><title>Vers : 20260815_0532 </title></head>
-<center>Vers : 20260815_0532 </center>
-<center>Vers : 20260815_1432 </center>
-<br><br><br>
 #### [ICE 카놀라 선물, 주간 상승 마감하며 급등세 이어가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709074)
 #### [투기꾼들이 원당 선물에 대한 약세 포지션을 거의 청산했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709073)
 #### [가뭄이 벨기에에 미친 영향을 보여주는 ‘전후’ 사진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709072)
@@ -353,12 +355,12 @@
 #### [TWFG, 1억 2,500만 달러 규모의 신용 한도 확보…만기 2031년까지 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709019)
 #### [[속보] 드 레디스, 하이데라바드 제제 시설 검사 후 FDA가 4가지 지적 사항을 담은 양식 483을 발급했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709018)
 #### [소식통에 따르면 칠레의 코델코가 광산 경영진을 개편했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709017)
+<head><meta charset="utf-8"><title>Vers : 20260815_0637 </title></head>
+<center>Vers : 20260815_0637 </center>
+<center>Vers : 20260815_1537 </center>
+<br><br><br>
 #### [미국 농무부(USDA) 일일 도축량 - 소 10만 마리, 돼지 42만 마리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709016)
 #### [[속보] FDA, “네이처베스트, 살모넬라균 오염 우려로 할라피뇨 제품 리콜”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709015)
-<head><meta charset="utf-8"><title>Vers : 20260815_0532 </title></head>
-<center>Vers : 20260815_0532 </center>
-<center>Vers : 20260815_1432 </center>
-<br><br><br>
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709014)
 #### [AUD/USD-2개월 반 만에 최고치를 기록한 후 강세장이 다소 주춤](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709013)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709012)
@@ -434,12 +436,12 @@
 #### [[속보] 에어텔 아프리카(Airtel Africa Co)와 스타링크(Starlink), 콩고민주공화국에서 위성-모바일 연결 서비스 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708958)
 #### [[속보] 코인베이스 글로벌, 애플 페이를 통해 코인베이스 온램프에서 거래를 완료하는 데 문제가 발생할 수 있다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708957)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/COIN.O/total>
+<head><meta charset="utf-8"><title>Vers : 20260815_0637 </title></head>
+<center>Vers : 20260815_0637 </center>
+<center>Vers : 20260815_1537 </center>
+<br><br><br>
 #### [흑해 지역 수출 차질이 지속되면서 EU 밀 가격이 주간 상승세로 마감했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708956)
 #### [브라질의 카사스 바히아, 매장 300여 곳 폐쇄 및 직원 1,900명 감원… 발로르 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708955)
-<head><meta charset="utf-8"><title>Vers : 20260815_0532 </title></head>
-<center>Vers : 20260815_0532 </center>
-<center>Vers : 20260815_1432 </center>
-<br><br><br>
 #### [[업데이트 1] 유가 상승으로 호실적 효과가 상쇄되며 유럽 증시, 4주 연속 상승세 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708954)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WDAY.O/total>
 #### [광업주 하락에 힘입어 FTSE 100 지수, 5주 만에 첫 주간 하락 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708953)
@@ -513,5 +515,3 @@
 #### [[속보] 굿푸드, 매각 및 투자 유치 절차에 대한 법원 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708899)
 #### [3가지 지표: 소매 판매, 미시간대 소비자 신뢰지수, 기업 재고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708898)
 #### [SEC 제출 서류에 따르면, JPMorgan Private Markets Fund가 6월 30일 기준 순자산의 최대 5%를 재매입하기 위한 공개매수 제안을 시작했다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708897)
-#### [Alphavalue, 터너의 AI 및 디지털 프로젝트를 바탕으로 ACS의 투자 등급을 ‘매수’로 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708896)
-#### [[속보] NAV 캐나다, 제안된 서비스 요금 변경안 시행 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2708895)
