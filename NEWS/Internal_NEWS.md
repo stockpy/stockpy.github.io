@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_1648 </title></head>
-<center>Vers : 20260815_1648 </center>
-<center>Vers : 20260816_0148 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_1707 </title></head>
+<center>Vers : 20260815_1707 </center>
+<center>Vers : 20260816_0207 </center>
 <br><br><br>
 #### [모로코 보안 당국, 스페인 세우타로 향하던 이주자들 해산](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709379)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709378)
