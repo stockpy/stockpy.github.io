@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_0637 </title></head>
-<center>Vers : 20260815_0637 </center>
-<center>Vers : 20260815_1537 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_0715 </title></head>
+<center>Vers : 20260815_0715 </center>
+<center>Vers : 20260815_1615 </center>
 <br><br><br>
 #### [“360만원 입금하면 13만원 얹어 드려요” 이틀 만에 1만명 몰려, 이런 적 처음 [머니뭐니]](https://m.stock.naver.com/news/ranknews/view/016/0002684289)
 #### [백종원 드디어 일냈다…폭락하던 더본, 13% 급등 왜? [줍줍리포트]](https://m.stock.naver.com/news/ranknews/view/011/0004652075)
