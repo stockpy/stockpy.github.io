@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_1707 </title></head>
-<center>Vers : 20260815_1707 </center>
-<center>Vers : 20260816_0207 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_1828 </title></head>
+<center>Vers : 20260815_1828 </center>
+<center>Vers : 20260816_0328 </center>
 <br><br><br>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709384)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709383)
+#### [리투아니아의 코기 경주견들은 자신들만의 속도로 달린다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709382)
+#### [영국의 번햄, 학자 아르데이의 사망에 대해 성찰을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709381)
+#### [모로코, 보안 단속 과정에서 스페인 세우타로 향하던 이주자 111명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709380)
 #### [모로코 보안 당국, 스페인 세우타로 향하던 이주자들 해산](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709379)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709378)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709377)
@@ -57,8 +62,3 @@
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709327)
 #### [앳코 파워 앨버타의 155MW 배틀 리버 4호 석탄 화력발전소 가동 중단 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709326)
 #### [우크라이나의 공격으로 러시아 사마라 지역의 산업 단지가 피해를 입었다고 현지 당국이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709325)
-#### [노스랜드 파워 온타리오의 287 MW 토롤드 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709324)
-#### [국경 근로자 노조들, “스페인 당국이 이민자 대량 유입 전 세우타에 대한 경고를 무시했다”고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709323)
-#### [헝가리, 원전 인근에 바지선 2척을 침몰시켜 다뉴브 강 수위를 높여 냉각 수를 확보할 예정??](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709322)
-#### [인도 한 주의 식품안전 책임자가 대대적인 단속을 통해 ‘이터널’, ‘스위기’, ‘제프토’를 집중 겨냥하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709321)
-#### [헝가리, 원전 인근에 바지선 두 척을 침몰시켜 다뉴브 강 수위를 높여 냉각을 확보할 계획인가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709320)
