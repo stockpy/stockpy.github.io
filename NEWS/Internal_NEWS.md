@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_2021 </title></head>
-<center>Vers : 20260815_2021 </center>
-<center>Vers : 20260816_0521 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_2044 </title></head>
+<center>Vers : 20260815_2044 </center>
+<center>Vers : 20260816_0544 </center>
 <br><br><br>
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709396)
+#### [‘인포메이션’ 보도에 따르면, 엔비디아가 오픈AI 데이터센터 계약의 일환으로 SB 에너지에 30억 달러를 투자할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709395)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
 #### [강력한 지진이 발생한 지 며칠이 지나면서 시신이 더 많이 수습되자 콜롬비아에서 생존에 대한 희망이 희미해지고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709394)
 #### [민주당, 2028년 경선 첫 번째 주(州)로 사우스캐롤라이나를 선정??](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709393)
 #### [사우디 사육자 경매에서 캐나다산 매가 천문학적인 가격에 낙찰됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709392)
@@ -61,5 +64,3 @@
 #### [디즈니, D23 팬 이벤트에서 마블의 신작 ‘엑스맨’ 출연진과 ‘겨울왕국 3’ 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709339)
 #### [노스랜드 파워 온타리오의 287 MW 토롤드 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709338)
 #### [버넘 영국 총리, 가뭄 피해를 입은 농민들을 위한 추가 지원금 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709337)
-#### [라인강 수위가 또다시 사상 최저치를 기록하며 운송 수단이 육상으로 전환되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709336)
-#### [탈레반 정권 수립 5주년을 맞이한 가운데, 구호 단체들은 위기 상황을 경고하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709335)
