@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_2219 </title></head>
-<center>Vers : 20260815_2219 </center>
-<center>Vers : 20260816_0719 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_2242 </title></head>
+<center>Vers : 20260815_2242 </center>
+<center>Vers : 20260816_0742 </center>
 <br><br><br>
 #### [인디애나주에서 폭풍과 홍수로 6명이 사망했다고 비상당국이 밝혔다??](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709401)
 #### [단독-미국, 동맹국들에 중국과의 AI 경쟁에서 편을 택해야 한다고 통보할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709400)
