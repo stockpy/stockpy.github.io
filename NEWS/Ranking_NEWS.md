@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_1623 </title></head>
-<center>Vers : 20260815_1623 </center>
-<center>Vers : 20260816_0123 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_1648 </title></head>
+<center>Vers : 20260815_1648 </center>
+<center>Vers : 20260816_0148 </center>
 <br><br><br>
 #### [“매달 20만원 그냥 나가는데”…아파트 관리비 할인카드 따져보니](https://m.stock.naver.com/news/ranknews/view/009/0005721517)
 #### [‘SK하이닉스 주주들 난리난다’ 하루만에 10% 급락…‘솔리다임’ 상장 무섭네 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002684401)
