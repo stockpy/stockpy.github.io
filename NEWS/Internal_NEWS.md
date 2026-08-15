@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_2044 </title></head>
-<center>Vers : 20260815_2044 </center>
-<center>Vers : 20260816_0544 </center>
+<head><meta charset="utf-8"><title>Vers : 20260815_2101 </title></head>
+<center>Vers : 20260815_2101 </center>
+<center>Vers : 20260816_0601 </center>
 <br><br><br>
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709396)
 #### [‘인포메이션’ 보도에 따르면, 엔비디아가 오픈AI 데이터센터 계약의 일환으로 SB 에너지에 30억 달러를 투자할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709395)
