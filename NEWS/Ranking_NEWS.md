@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_1444 </title></head>
-<center>Vers : 20260816_1444 </center>
-<center>Vers : 20260816_2344 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1501 </title></head>
+<center>Vers : 20260816_1501 </center>
+<center>Vers : 20260817_0001 </center>
 <br><br><br>
 #### [“병원비 5137만원 써야 본전?”…30년 실손보험료 계산해보니 ‘뜻밖의 결과’ [최병일의 금융 리터러시 2.0]](https://m.stock.naver.com/news/ranknews/view/009/0005721788)
 #### [“갑자기 통장에 수십억 입금” 계좌 막아도 이 돈은 결국 사기꾼 손에 들어간다](https://m.stock.naver.com/news/ranknews/view/016/0002684491)

@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_1444 </title></head>
-<center>Vers : 20260816_1444 </center>
-<center>Vers : 20260816_2344 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1501 </title></head>
+<center>Vers : 20260816_1501 </center>
+<center>Vers : 20260817_0001 </center>
 <br><br><br>
+#### [노르웨이의 Gassco는 8월 16일 04:00부터 8월 17일 04:00까지 콜스네스 가스 처리 시설에서 일일 12.0 mcm 규모의 가동 중단을 실시할 예정입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709482)
 #### [[속보] 아폴로 마이크로 시스템즈, 인도 증권거래위원회(SEBI)가 프리미어 익스플로시브스 지분 26% 인수 제안서 초안에 대한 최종 의견을 전달했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709481)
 #### [인도네시아에서 치명적인 지진 발생, 수천 명 대피하고 비상사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709480)
 #### [가자 평화 계획 추진을 위해 중동에 파견된 트럼프 특사단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709479)
@@ -73,11 +74,11 @@
 #### [빈다우드 홀딩스, 에스토니아 AS E-Piim Tootmine 유제품 자산 인수 입찰에 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709425)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709424)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709423)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709422)
-<head><meta charset="utf-8"><title>Vers : 20260816_1444 </title></head>
-<center>Vers : 20260816_1444 </center>
-<center>Vers : 20260816_2344 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1501 </title></head>
+<center>Vers : 20260816_1501 </center>
+<center>Vers : 20260817_0001 </center>
 <br><br><br>
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709422)
 #### [분석-유럽의 폭염으로 기업 손실이 늘어나면서 보험 보장 공백이 드러나고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709421)
 #### [마카체프, 개리를 간발의 차로 꺾고 UFC 웰터급 타이틀 방어에 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709420)
 #### [주목할 요인 - 8월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709419)
@@ -143,4 +144,3 @@
 #### [벨기에에서 사상 최대 규모의 산불이 발생하자 EU가 항공기를 파견했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709365)
 #### [영국의 번햄, 학자 아르데이의 사망에 대해 성찰을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709364)
 #### [NSN 디벨롭먼트 팀, 볼타 아 포르투갈에서 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709363)
-#### [경찰에 따르면 버지니아 주립대학교에서 발생한 총기 사건으로 5명이 부상을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709362)
