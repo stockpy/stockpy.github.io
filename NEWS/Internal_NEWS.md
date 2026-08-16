@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_2100 </title></head>
-<center>Vers : 20260816_2100 </center>
-<center>Vers : 20260817_0600 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_2219 </title></head>
+<center>Vers : 20260816_2219 </center>
+<center>Vers : 20260817_0719 </center>
 <br><br><br>
+#### [AUD/USD, 달러에 대한 신뢰도가 약화되면서 서서히 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709529)
+#### [트럼프, 국방부에 한국과의 합동 군사 훈련 축소 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709528)
+#### [주말 뉴스-미·중 AI 경쟁, 이란의 강경 태도, 중·한 관계](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709527)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709526)
+#### [트럼프 대통령은 국방장관에게 한국과의 합동 군사 훈련을 축소하라고 지시했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709525)
+#### [ATCO/TransAlta 앨버타 390 MW 셰어니스 2호 석탄 화력발전소 가동 개시 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709524)
+#### [그리스 살라미나 섬을 휩쓴 산불로 최소 2명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709523)
+#### [아시아 모닝 콜 - 글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709522)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709521)
 #### [노스랜드 파워 온타리오의 287 MW 토롤드 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709520)
 #### [BUZZ-COMMENT-이번 주 전망-연준 회의록, PMI, 이란 분쟁이 주목받을 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709519)
@@ -54,14 +63,3 @@
 #### [사우디 민방위당국, 자잔 주에서 위험이 해소되었다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709472)
 #### [사우디 민방위청, 자잔 주 내 잠재적 위험에 대한 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709471)
 #### [월가 주간 전망-연준이 향후 행보에 대해 침묵을 지키는 가운데, 투자자들은 주가 하락을 막기 위해 기업 실적에 주목하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709470)
-#### [러시아의 키예프 공격으로 도서 시장이 활기를 띠다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709469)
-#### [교황, 팔레스타인인을 대상으로 한 요르단강 서안 지구 내 폭력 중단을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709468)
-#### [[속보] 장쑤 뉴비전, 상반기 순손실 4억 400만~4억 2,400만 위안 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709467)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2632.HK/total>
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709466)
-#### [이란 의회, ‘적대적 언론’과의 인터뷰를 더욱 엄격히 처벌하는 법안 가결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709465)
-#### [[속보] 중국 루이 홀딩스, 상반기 순이익이 전년 동기 대비 26.7%~34.9% 감소할 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709464)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0136.HK/total>
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709463)
-#### [[속보] 센스타임, 상반기 순이익 5,000억~7,000억 위안 전망…작년 동기 14.9억 위안 적자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709462)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0020.HK/total>
