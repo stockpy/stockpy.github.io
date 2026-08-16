@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_1317 </title></head>
-<center>Vers : 20260816_1317 </center>
-<center>Vers : 20260816_2217 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1421 </title></head>
+<center>Vers : 20260816_1421 </center>
+<center>Vers : 20260816_2321 </center>
 <br><br><br>
+#### [가자 평화 계획 추진을 위해 중동에 파견된 트럼프 특사단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709479)
+#### [이란 의회, 외국 영향력 억제 법안 처리 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709478)
+#### [[업데이트 1] 브라질의 카사스 바히아, 2분기 적자 폭 확대…부채 구조조정 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709477)
+#### [방글라데시는 축출된 지도자를 둘러싼 갈등 속에서 인도 방문을 위해 더 나은 환경이 필요하다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709476)
+#### [글로벌스타용 MDA 스페이스 위성 성공적으로 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709475)
+#### [노르웨이의 Gassco는 8월 17일 04:00부터 8월 18일 04:00까지 하루 5.0 mcm 규모의 공급 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709474)
+#### [4 교체용 위성 8기 모두의 발사 성공 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709473)
+#### [사우디 민방위당국, 자잔 주에서 위험이 해소되었다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709472)
 #### [사우디 민방위청, 자잔 주 내 잠재적 위험에 대한 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709471)
 #### [월가 주간 전망-연준이 향후 행보에 대해 침묵을 지키는 가운데, 투자자들은 주가 하락을 막기 위해 기업 실적에 주목하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709470)
 #### [러시아의 키예프 공격으로 도서 시장이 활기를 띠다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709469)
@@ -66,6 +74,10 @@
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709422)
 #### [분석-유럽의 폭염으로 기업 손실이 늘어나면서 보험 보장 공백이 드러나고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709421)
 #### [마카체프, 개리를 간발의 차로 꺾고 UFC 웰터급 타이틀 방어에 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709420)
+<head><meta charset="utf-8"><title>Vers : 20260816_1421 </title></head>
+<center>Vers : 20260816_1421 </center>
+<center>Vers : 20260816_2321 </center>
+<br><br><br>
 #### [주목할 요인 - 8월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709419)
 #### [수영 - 더글러스, 하루 만에 50m 자유형 세계 신기록 두 차례 수립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709418)
 #### [베트남항공 보잉 787기, 이륙 중 사고 발생 후 뮌헨으로 회항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709417)
@@ -77,10 +89,6 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9684.T/total>
 #### [플라이트라다르24에 따르면, 베트남항공의 보잉 787기가 이륙 중 사고를 겪은 뒤 뮌헨으로 회항했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709412)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HVN.HM/total>
-<head><meta charset="utf-8"><title>Vers : 20260816_1317 </title></head>
-<center>Vers : 20260816_1317 </center>
-<center>Vers : 20260816_2217 </center>
-<br><br><br>
 #### [우크라이나 당국에 따르면, 키예프를 겨냥한 러시아의 미사일 공격으로 화재가 발생하고 1명이 부상을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709411)
 #### [서류에 따르면, 억만장자 피터 틸이 아르헨티나 바카 무에르타 석유 기업의 지분 1%를 매입한 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709410)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AEP.O/total>
@@ -136,11 +144,3 @@
 #### [경찰에 따르면 버지니아 주립대학교에서 발생한 총기 사건으로 5명이 부상을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709362)
 #### [러시아, 무기 이전 가능성 보도와 관련해 미국과 터키에 해명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709361)
 #### [에트나 화산 경보 단계 하향 조정으로 시칠리아 카타니아 공항, 항공편 운항 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709360)
-#### [국영 통신사 보도에 따르면, 기름 유출로 오만 해안 12km가 피해를 입었으나 마시라 섬은 영향을 받지 않은 것으로 전해졌다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709359)
-#### [포르투갈, 전력망 운영사 REN 지분 13.7% 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709358)
-#### [우크라이나, 스타링크 방식의 네트워크와 연계된 러시아 로켓 기지를 타격했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709357)
-#### [이란, 카타르가 억류 중이라고 주장하는 조종사 문제와 관련해 국제적십자위원회(ICRC)에 호소… 파르스 통신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709356)
-#### [벨기에에서 사상 최대 규모의 산불이 번지는 가운데 EU가 항공기를 파견했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709355)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709354)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709353)
-#### [콜롬비아와 베네수엘라의 지진 대응이 어떻게 달랐는가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709352)
