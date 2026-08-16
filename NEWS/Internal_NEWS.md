@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_1708 </title></head>
-<center>Vers : 20260816_1708 </center>
-<center>Vers : 20260817_0208 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1827 </title></head>
+<center>Vers : 20260816_1827 </center>
+<center>Vers : 20260817_0327 </center>
 <br><br><br>
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709505)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709504)
+#### [홍콩 증권감독당국은 부패방지 감독기관과의 합동 수사 끝에 전직 직원이 기소되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709503)
+#### [“우리가 무슨 잘못을 했단 말입니까?”, 스페인 세우타의 이주자들이 망명을 호소하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709502)
+#### [그리스 살라미나 섬을 휩쓴 산불로 노인 부부 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709501)
+#### [파이낸셜타임스(FT), 미국, 브라질 판사에 대한 새로운 제재 검토 중이라고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709500)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709499)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709498)
+#### [트럼프 특사단, 중재자들과 회동… 이스라엘, 가자지구 공습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709497)
 #### [스페인 세우타에서 수백 명의 이주자들이 시위를 벌이며 망명을 요구하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709496)
 #### [벨기에 사상 최대 규모의 산불이 독일 쪽으로 번지고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709495)
 #### [지진 발생 후 거의 일주일이 지난 가운데, 콜롬비아에서 수색대가 잔해를 샅샅이 수색하고 있으며 구호 활동도 확대되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709494)
@@ -64,13 +73,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6185.HK/total>
 #### [트럼프, 이란에 대한 경제적 압박 강화 추진. 어떤 선택지가 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709447)
 #### [브라질의 루라, 재선 출마 선언…노동자들을 다시 노동당으로 끌어들이기 위해 나선다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709446)
-#### [인도, 중동 전쟁 속 조리용 가스 생산 확대를 위해 석유 기업들에 목표치 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709445)
-#### [[업데이트 1] 통계에 따르면 독일 기업들의 미국 투자 규모가 3년 만에 최저 수준으로 감소했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709444)
-#### [타스 통신에 따르면, 러시아는 우크라이나 동부의 마을 두 곳을 추가로 점령했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709443)
-#### [우크라이나 군 당국은 우크라이나가 러시아 내 미사일 연료 생산 시설을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709442)
-#### [우크라이나의 대규모 드론 공격으로 모스크바 주가 타격을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709441)
-#### [[속보] 차이나 유니온: 캐나다 당국, 해당 기업의 아르젠텀 리튬 투자가 국가 안보에 영향을 미칠 수 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709440)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000036.SZ/total>
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709439)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709438)
-#### [벨기에 역사상 최대 규모의 산불이 독일 쪽으로 번지고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709437)
