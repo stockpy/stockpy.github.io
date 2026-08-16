@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_1237 </title></head>
-<center>Vers : 20260816_1237 </center>
-<center>Vers : 20260816_2137 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1317 </title></head>
+<center>Vers : 20260816_1317 </center>
+<center>Vers : 20260816_2217 </center>
 <br><br><br>
+#### [사우디 민방위청, 자잔 주 내 잠재적 위험에 대한 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709471)
+#### [월가 주간 전망-연준이 향후 행보에 대해 침묵을 지키는 가운데, 투자자들은 주가 하락을 막기 위해 기업 실적에 주목하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709470)
+#### [러시아의 키예프 공격으로 도서 시장이 활기를 띠다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709469)
 #### [교황, 팔레스타인인을 대상으로 한 요르단강 서안 지구 내 폭력 중단을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709468)
 #### [[속보] 장쑤 뉴비전, 상반기 순손실 4억 400만~4억 2,400만 위안 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709467)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2632.HK/total>
@@ -74,14 +77,14 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9684.T/total>
 #### [플라이트라다르24에 따르면, 베트남항공의 보잉 787기가 이륙 중 사고를 겪은 뒤 뮌헨으로 회항했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709412)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HVN.HM/total>
+<head><meta charset="utf-8"><title>Vers : 20260816_1317 </title></head>
+<center>Vers : 20260816_1317 </center>
+<center>Vers : 20260816_2217 </center>
+<br><br><br>
 #### [우크라이나 당국에 따르면, 키예프를 겨냥한 러시아의 미사일 공격으로 화재가 발생하고 1명이 부상을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709411)
 #### [서류에 따르면, 억만장자 피터 틸이 아르헨티나 바카 무에르타 석유 기업의 지분 1%를 매입한 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709410)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AEP.O/total>
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709409)
-<head><meta charset="utf-8"><title>Vers : 20260816_1237 </title></head>
-<center>Vers : 20260816_1237 </center>
-<center>Vers : 20260816_2137 </center>
-<br><br><br>
 #### [노스랜드 파워 온타리오의 287 MW 토롤드 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709408)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709407)
 #### [허리케인 ‘라라’로 인해 ‘생명을 위협하는’ 상황 속에서 하와이에서 수천 가구가 정전 사태를 겪고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709406)
@@ -141,6 +144,3 @@
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709354)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709353)
 #### [콜롬비아와 베네수엘라의 지진 대응이 어떻게 달랐는가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709352)
-#### [킹스턴 코젠 온타리오 140 MW 데스텍 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709351)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709350)
-#### [영국의 번햄, 학자 아르데이의 사망을 “여러모로 비극”이라며 애도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709349)
