@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_2020 </title></head>
-<center>Vers : 20260816_2020 </center>
-<center>Vers : 20260817_0520 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_2043 </title></head>
+<center>Vers : 20260816_2043 </center>
+<center>Vers : 20260817_0543 </center>
 <br><br><br>
 #### [“갑자기 통장에 수십억 입금” 계좌 막아도 이 돈은 결국 사기꾼 손에 들어간다](https://m.stock.naver.com/news/ranknews/view/016/0002684491)
 #### [30대 직업군인 "연금 믿고 쓰다 보니 모은 돈 4100만원…노후 준비 어쩌죠" [재테크 Q&A]](https://m.stock.naver.com/news/ranknews/view/014/0005562073)

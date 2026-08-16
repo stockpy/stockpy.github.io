@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_2020 </title></head>
-<center>Vers : 20260816_2020 </center>
-<center>Vers : 20260817_0520 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_2043 </title></head>
+<center>Vers : 20260816_2043 </center>
+<center>Vers : 20260817_0543 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709521)
+#### [노스랜드 파워 온타리오의 287 MW 토롤드 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709520)
 #### [BUZZ-COMMENT-이번 주 전망-연준 회의록, PMI, 이란 분쟁이 주목받을 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709519)
 #### [장기간 배치 중 상황이 악화되고 있다는 보도가 나오는 가운데, 제독이 USS 링컨호 승조원들을 칭찬했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709518)
 #### [디즈니 핀 수집가들은 모두가 탐내는 D23 수집품을 얻기 위해 먼 길을 마다하지 않고 오랫동안 기다린다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709517)
@@ -63,5 +65,3 @@
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709463)
 #### [[속보] 센스타임, 상반기 순이익 5,000억~7,000억 위안 전망…작년 동기 14.9억 위안 적자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709462)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0020.HK/total>
-#### [브라질의 카사스 바히아, 2분기 적자 폭 확대…매장 298곳 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709461)
-#### [매사추세츠주 기아 퇴치 운동가가 트럼프 행정부의 푸드스탬프 삭감에 항의하기 위해 단식 투쟁을 벌이고 있다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709460)
