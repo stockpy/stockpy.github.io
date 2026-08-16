@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_1501 </title></head>
-<center>Vers : 20260816_1501 </center>
-<center>Vers : 20260817_0001 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1623 </title></head>
+<center>Vers : 20260816_1623 </center>
+<center>Vers : 20260817_0123 </center>
 <br><br><br>
+#### [라라가 열대성 폭풍으로 강등되면서 하와이에서 10만 명 이상이 정전 피해를 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709488)
+#### [포르쉐의 베를라인, 포뮬러 E 두 번째 우승 차지… 바나드, 런던 결승전 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709487)
+#### [암호화폐 지갑 제공업체 세이프팔(SafePal)이 약 4만 명의 사용자 주문 정보에 영향을 미친 데이터 유출 사고를 공개했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709486)
+#### [크로아티아 시민들, 수돗물 안전 우려로 ‘불법 쓰레기 매립지’에 항의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709485)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709484)
+#### [그리스 살라미나 섬을 휩쓴 산불로 2명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709483)
 #### [노르웨이의 Gassco는 8월 16일 04:00부터 8월 17일 04:00까지 콜스네스 가스 처리 시설에서 일일 12.0 mcm 규모의 가동 중단을 실시할 예정입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709482)
 #### [[속보] 아폴로 마이크로 시스템즈, 인도 증권거래위원회(SEBI)가 프리미어 익스플로시브스 지분 26% 인수 제안서 초안에 대한 최종 의견을 전달했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709481)
 #### [인도네시아에서 치명적인 지진 발생, 수천 명 대피하고 비상사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709480)
@@ -68,79 +74,3 @@
 #### [이란, 억류된 이란인 요원들에 대한 카타르와 쿠웨이트의 주장 반박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709431)
 #### [스페인 홍수로 여성 2명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709430)
 #### [우크라이나 당국, “러시아가 밤새 키예프를 공격해 3명 부상”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709429)
-#### [통계에 따르면 독일 기업들의 미국 투자 규모가 3년 만에 최저 수준으로 줄어들었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709428)
-#### [헝가리에서 발생한 폴란드 버스 사고로 12명 사망, 최소 10명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709427)
-#### [헝가리에서 발생한 폴란드 버스 사고로 12명 사망, 최소 10명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709426)
-#### [빈다우드 홀딩스, 에스토니아 AS E-Piim Tootmine 유제품 자산 인수 입찰에 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709425)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709424)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709423)
-<head><meta charset="utf-8"><title>Vers : 20260816_1501 </title></head>
-<center>Vers : 20260816_1501 </center>
-<center>Vers : 20260817_0001 </center>
-<br><br><br>
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709422)
-#### [분석-유럽의 폭염으로 기업 손실이 늘어나면서 보험 보장 공백이 드러나고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709421)
-#### [마카체프, 개리를 간발의 차로 꺾고 UFC 웰터급 타이틀 방어에 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709420)
-#### [주목할 요인 - 8월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709419)
-#### [수영 - 더글러스, 하루 만에 50m 자유형 세계 신기록 두 차례 수립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709418)
-#### [베트남항공 보잉 787기, 이륙 중 사고 발생 후 뮌헨으로 회항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709417)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HVN.HM/total>
-#### [루마니아, 영공 침범한 드론 격추 - 국방부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709416)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709415)
-#### [루마니아, 영공 침범한 드론 격추 - 국방부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709414)
-#### [디즈니와 스퀘어 에닉스, 팬 컨벤션에서 비디오 게임 ‘킹덤 하츠 4’ 미리 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709413)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9684.T/total>
-#### [플라이트라다르24에 따르면, 베트남항공의 보잉 787기가 이륙 중 사고를 겪은 뒤 뮌헨으로 회항했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709412)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HVN.HM/total>
-#### [우크라이나 당국에 따르면, 키예프를 겨냥한 러시아의 미사일 공격으로 화재가 발생하고 1명이 부상을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709411)
-#### [서류에 따르면, 억만장자 피터 틸이 아르헨티나 바카 무에르타 석유 기업의 지분 1%를 매입한 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709410)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AEP.O/total>
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709409)
-#### [노스랜드 파워 온타리오의 287 MW 토롤드 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709408)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709407)
-#### [허리케인 ‘라라’로 인해 ‘생명을 위협하는’ 상황 속에서 하와이에서 수천 가구가 정전 사태를 겪고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709406)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709405)
-#### [OPG 온타리오 171 MW 마운틴 슈트 수력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709404)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709403)
-#### [강력한 지진 발생 며칠 뒤 시신이 더 많이 수습되면서 콜롬비아에서 생존자 발견에 대한 희망이 희미해지고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709402)
-#### [인디애나주에서 폭풍과 홍수로 6명이 사망했다고 비상당국이 밝혔다??](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709401)
-#### [단독-미국, 동맹국들에 중국과의 AI 경쟁에서 편을 택해야 한다고 통보할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709400)
-#### [독일의 리브만, 1500m 세계 신기록을 갈아치웠다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709399)
-#### [공중에서 바라본 크로아티아의 맹렬한 산불](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709398)
-#### [‘라라’ 폭풍, 하와이 빅 아일랜드에 접근하며 허리케인으로 발달할까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709397)
-#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709396)
-#### [‘인포메이션’ 보도에 따르면, 엔비디아가 오픈AI 데이터센터 계약의 일환으로 SB 에너지에 30억 달러를 투자할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709395)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
-#### [강력한 지진이 발생한 지 며칠이 지나면서 시신이 더 많이 수습되자 콜롬비아에서 생존에 대한 희망이 희미해지고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709394)
-#### [민주당, 2028년 경선 첫 번째 주(州)로 사우스캐롤라이나를 선정??](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709393)
-#### [사우디 사육자 경매에서 캐나다산 매가 천문학적인 가격에 낙찰됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709392)
-#### [‘더 인포메이션’ 보도에 따르면, 엔비디아가 오픈AI 데이터센터 계약의 일환으로 SB 에너지에 30억 달러를 투자하는 방안을 협의 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709391)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
-#### [엔비디아, 오픈AI 데이터센터 계약의 일환으로 SB 에너지에 30억 달러 투자 협의 중 - 더 인포메이션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709390)
-#### [카타르, 이란 조종사 억류 사실 부인??](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709389)
-#### [더글러스, 팬퍼시픽 대회에서 50m 자유형 세계 신기록 수립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709388)
-#### [카타르는 이란 조종사들을 구금했다는 주장을 부인하며, 한 명의 유해를 발견했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709387)
-#### [천연가스 파이프라인 긴급 공지: 2026년 8월 16일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709386)
-#### [미국 북서부 강 유수량은 82%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709385)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709384)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709383)
-#### [리투아니아의 코기 경주견들은 자신들만의 속도로 달린다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709382)
-#### [영국의 번햄, 학자 아르데이의 사망에 대해 성찰을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709381)
-#### [모로코, 보안 단속 과정에서 스페인 세우타로 향하던 이주자 111명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709380)
-#### [모로코 보안 당국, 스페인 세우타로 향하던 이주자들 해산](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709379)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709378)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709377)
-#### [쿠스라에 거주하는 팔레스타인인들은 수개월 동안 무장 정착민들의 공격을 받아왔다고 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709376)
-#### [스페인 그라나다에서 지진 발생, 건물과 차량 피해 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709375)
-#### [엘니뇨로 인해 농업 및 어업에 타격 입으면서 페루의 6월 경제 성장세 둔화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709374)
-#### [노르웨이의 가스코(Gassco)는 8월 15일 04:00부터 8월 16일 04:00까지 비순드(Visund) 가스전에서 하루 5.1 mcm 규모의 생산 중단을 실시할 예정이다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709373)
-#### [온타리오주 브룩필드 소재 189MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709372)
-#### [페루의 6월 경제 성장률이 1.75%로 둔화됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709371)
-#### [예측 시장 운영사 칼시(Kalshi), 지오펜싱 관련 과징금 부과에 대해 네바다주 규제 당국에 반박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709370)
-#### [헝가리, 원전 가동 유지 위해 다뉴브강에 바지선 침몰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709369)
-#### [헝가리, 원전 가동 유지 위해 다뉴브강에 바지선 침몰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709368)
-#### [벨기에 국경 인근 독일 산불, 현지 당국 “진화 완료”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709367)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709366)
-#### [벨기에에서 사상 최대 규모의 산불이 발생하자 EU가 항공기를 파견했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709365)
-#### [영국의 번햄, 학자 아르데이의 사망에 대해 성찰을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709364)
-#### [NSN 디벨롭먼트 팀, 볼타 아 포르투갈에서 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709363)
