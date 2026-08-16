@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_2219 </title></head>
-<center>Vers : 20260816_2219 </center>
-<center>Vers : 20260817_0719 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_2242 </title></head>
+<center>Vers : 20260816_2242 </center>
+<center>Vers : 20260817_0742 </center>
 <br><br><br>
+#### [킹스턴 코젠 온타리오 140 MW 데스텍(Destec) 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709531)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709530)
 #### [AUD/USD, 달러에 대한 신뢰도가 약화되면서 서서히 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709529)
 #### [트럼프, 국방부에 한국과의 합동 군사 훈련 축소 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709528)
 #### [주말 뉴스-미·중 AI 경쟁, 이란의 강경 태도, 중·한 관계](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709527)
@@ -61,5 +63,3 @@
 #### [노르웨이의 Gassco는 8월 17일 04:00부터 8월 18일 04:00까지 하루 5.0 mcm 규모의 공급 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709474)
 #### [4 교체용 위성 8기 모두의 발사 성공 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709473)
 #### [사우디 민방위당국, 자잔 주에서 위험이 해소되었다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709472)
-#### [사우디 민방위청, 자잔 주 내 잠재적 위험에 대한 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709471)
-#### [월가 주간 전망-연준이 향후 행보에 대해 침묵을 지키는 가운데, 투자자들은 주가 하락을 막기 위해 기업 실적에 주목하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709470)
