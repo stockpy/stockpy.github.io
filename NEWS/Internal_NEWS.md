@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_1421 </title></head>
-<center>Vers : 20260816_1421 </center>
-<center>Vers : 20260816_2321 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1444 </title></head>
+<center>Vers : 20260816_1444 </center>
+<center>Vers : 20260816_2344 </center>
 <br><br><br>
+#### [[속보] 아폴로 마이크로 시스템즈, 인도 증권거래위원회(SEBI)가 프리미어 익스플로시브스 지분 26% 인수 제안서 초안에 대한 최종 의견을 전달했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709481)
+#### [인도네시아에서 치명적인 지진 발생, 수천 명 대피하고 비상사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709480)
 #### [가자 평화 계획 추진을 위해 중동에 파견된 트럼프 특사단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709479)
 #### [이란 의회, 외국 영향력 억제 법안 처리 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709478)
 #### [[업데이트 1] 브라질의 카사스 바히아, 2분기 적자 폭 확대…부채 구조조정 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709477)
@@ -72,12 +74,12 @@
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709424)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709423)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709422)
+<head><meta charset="utf-8"><title>Vers : 20260816_1444 </title></head>
+<center>Vers : 20260816_1444 </center>
+<center>Vers : 20260816_2344 </center>
+<br><br><br>
 #### [분석-유럽의 폭염으로 기업 손실이 늘어나면서 보험 보장 공백이 드러나고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709421)
 #### [마카체프, 개리를 간발의 차로 꺾고 UFC 웰터급 타이틀 방어에 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709420)
-<head><meta charset="utf-8"><title>Vers : 20260816_1421 </title></head>
-<center>Vers : 20260816_1421 </center>
-<center>Vers : 20260816_2321 </center>
-<br><br><br>
 #### [주목할 요인 - 8월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709419)
 #### [수영 - 더글러스, 하루 만에 50m 자유형 세계 신기록 두 차례 수립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709418)
 #### [베트남항공 보잉 787기, 이륙 중 사고 발생 후 뮌헨으로 회항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709417)
@@ -142,5 +144,3 @@
 #### [영국의 번햄, 학자 아르데이의 사망에 대해 성찰을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709364)
 #### [NSN 디벨롭먼트 팀, 볼타 아 포르투갈에서 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709363)
 #### [경찰에 따르면 버지니아 주립대학교에서 발생한 총기 사건으로 5명이 부상을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709362)
-#### [러시아, 무기 이전 가능성 보도와 관련해 미국과 터키에 해명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709361)
-#### [에트나 화산 경보 단계 하향 조정으로 시칠리아 카타니아 공항, 항공편 운항 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709360)
