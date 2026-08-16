@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_1648 </title></head>
-<center>Vers : 20260816_1648 </center>
-<center>Vers : 20260817_0148 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1708 </title></head>
+<center>Vers : 20260816_1708 </center>
+<center>Vers : 20260817_0208 </center>
 <br><br><br>
 #### [스페인 세우타에서 수백 명의 이주자들이 시위를 벌이며 망명을 요구하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709496)
 #### [벨기에 사상 최대 규모의 산불이 독일 쪽으로 번지고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709495)
