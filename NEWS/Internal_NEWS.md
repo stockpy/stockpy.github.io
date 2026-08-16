@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_0828 </title></head>
-<center>Vers : 20260816_0828 </center>
-<center>Vers : 20260816_1728 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_0857 </title></head>
+<center>Vers : 20260816_0857 </center>
+<center>Vers : 20260816_1757 </center>
 <br><br><br>
+#### [스페인, 일본, 브라질, 2028년 LA 올림픽 리듬체조 단체전 출전권 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709435)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709434)
 #### [인도, 신고되지 않은 해외 자산을 보유한 소규모 납세자를 대상으로 세금 특례 조치를 시행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709433)
 #### [우크라이나 드론이 모스크바 근교 지역을 공격해 1명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709432)
@@ -67,11 +68,11 @@
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709378)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709377)
 #### [쿠스라에 거주하는 팔레스타인인들은 수개월 동안 무장 정착민들의 공격을 받아왔다고 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709376)
-#### [스페인 그라나다에서 지진 발생, 건물과 차량 피해 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709375)
-<head><meta charset="utf-8"><title>Vers : 20260816_0828 </title></head>
-<center>Vers : 20260816_0828 </center>
-<center>Vers : 20260816_1728 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_0857 </title></head>
+<center>Vers : 20260816_0857 </center>
+<center>Vers : 20260816_1757 </center>
 <br><br><br>
+#### [스페인 그라나다에서 지진 발생, 건물과 차량 피해 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709375)
 #### [엘니뇨로 인해 농업 및 어업에 타격 입으면서 페루의 6월 경제 성장세 둔화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709374)
 #### [노르웨이의 가스코(Gassco)는 8월 15일 04:00부터 8월 16일 04:00까지 비순드(Visund) 가스전에서 하루 5.1 mcm 규모의 생산 중단을 실시할 예정이다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709373)
 #### [온타리오주 브룩필드 소재 189MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709372)
@@ -131,4 +132,3 @@
 #### [ATCO/TransAlta의 앨버타주 390 MW 셰어니스 2호 석탄 화력발전소 가동 중단 - 앨버타주 전력시스템운영기구(ESO)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709318)
 #### [UKMTO, “호르무즈 해협에서 벌크선 한 척이 정체 불명의 투사체에 피격됐다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709317)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709316)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709315)
