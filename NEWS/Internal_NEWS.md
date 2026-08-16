@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_0354 </title></head>
-<center>Vers : 20260816_0354 </center>
-<center>Vers : 20260816_1254 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_0434 </title></head>
+<center>Vers : 20260816_0434 </center>
+<center>Vers : 20260816_1334 </center>
 <br><br><br>
+#### [주목할 요인 - 8월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709419)
 #### [수영 - 더글러스, 하루 만에 50m 자유형 세계 신기록 두 차례 수립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709418)
 #### [베트남항공 보잉 787기, 이륙 중 사고 발생 후 뮌헨으로 회항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709417)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HVN.HM/total>
@@ -67,4 +68,3 @@
 #### [경찰에 따르면 버지니아 주립대학교에서 발생한 총기 사건으로 5명이 부상을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709362)
 #### [러시아, 무기 이전 가능성 보도와 관련해 미국과 터키에 해명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709361)
 #### [에트나 화산 경보 단계 하향 조정으로 시칠리아 카타니아 공항, 항공편 운항 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709360)
-#### [국영 통신사 보도에 따르면, 기름 유출로 오만 해안 12km가 피해를 입었으나 마시라 섬은 영향을 받지 않은 것으로 전해졌다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709359)
