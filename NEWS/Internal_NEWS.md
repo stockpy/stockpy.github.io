@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_0259 </title></head>
-<center>Vers : 20260816_0259 </center>
-<center>Vers : 20260816_1159 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_0354 </title></head>
+<center>Vers : 20260816_0354 </center>
+<center>Vers : 20260816_1254 </center>
 <br><br><br>
+#### [수영 - 더글러스, 하루 만에 50m 자유형 세계 신기록 두 차례 수립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709418)
+#### [베트남항공 보잉 787기, 이륙 중 사고 발생 후 뮌헨으로 회항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709417)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HVN.HM/total>
+#### [루마니아, 영공 침범한 드론 격추 - 국방부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709416)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709415)
+#### [루마니아, 영공 침범한 드론 격추 - 국방부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709414)
 #### [디즈니와 스퀘어 에닉스, 팬 컨벤션에서 비디오 게임 ‘킹덤 하츠 4’ 미리 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709413)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9684.T/total>
 #### [플라이트라다르24에 따르면, 베트남항공의 보잉 787기가 이륙 중 사고를 겪은 뒤 뮌헨으로 회항했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709412)
@@ -62,8 +68,3 @@
 #### [러시아, 무기 이전 가능성 보도와 관련해 미국과 터키에 해명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709361)
 #### [에트나 화산 경보 단계 하향 조정으로 시칠리아 카타니아 공항, 항공편 운항 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709360)
 #### [국영 통신사 보도에 따르면, 기름 유출로 오만 해안 12km가 피해를 입었으나 마시라 섬은 영향을 받지 않은 것으로 전해졌다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709359)
-#### [포르투갈, 전력망 운영사 REN 지분 13.7% 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709358)
-#### [우크라이나, 스타링크 방식의 네트워크와 연계된 러시아 로켓 기지를 타격했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709357)
-#### [이란, 카타르가 억류 중이라고 주장하는 조종사 문제와 관련해 국제적십자위원회(ICRC)에 호소… 파르스 통신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709356)
-#### [벨기에에서 사상 최대 규모의 산불이 번지는 가운데 EU가 항공기를 파견했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709355)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709354)
