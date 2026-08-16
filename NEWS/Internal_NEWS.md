@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_2043 </title></head>
-<center>Vers : 20260816_2043 </center>
-<center>Vers : 20260817_0543 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_2100 </title></head>
+<center>Vers : 20260816_2100 </center>
+<center>Vers : 20260817_0600 </center>
 <br><br><br>
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709521)
 #### [노스랜드 파워 온타리오의 287 MW 토롤드 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709520)
