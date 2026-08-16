@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_0434 </title></head>
-<center>Vers : 20260816_0434 </center>
-<center>Vers : 20260816_1334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_0503 </title></head>
+<center>Vers : 20260816_0503 </center>
+<center>Vers : 20260816_1403 </center>
 <br><br><br>
 #### [매장 붐빌때 알아봤어야 했는데…햄버거 대신 주식사라는 월가](https://m.stock.naver.com/news/ranknews/view/008/0005400682)
 #### [‘SK하이닉스 주주들 난리난다’ 하루만에 10% 급락…‘솔리다임’ 상장 무섭네 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002684401)

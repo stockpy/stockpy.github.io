@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_0434 </title></head>
-<center>Vers : 20260816_0434 </center>
-<center>Vers : 20260816_1334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_0503 </title></head>
+<center>Vers : 20260816_0503 </center>
+<center>Vers : 20260816_1403 </center>
 <br><br><br>
+#### [마카체프, 개리를 간발의 차로 꺾고 UFC 웰터급 타이틀 방어에 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709420)
 #### [주목할 요인 - 8월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709419)
 #### [수영 - 더글러스, 하루 만에 50m 자유형 세계 신기록 두 차례 수립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709418)
 #### [베트남항공 보잉 787기, 이륙 중 사고 발생 후 뮌헨으로 회항](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709417)
@@ -67,4 +68,3 @@
 #### [NSN 디벨롭먼트 팀, 볼타 아 포르투갈에서 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709363)
 #### [경찰에 따르면 버지니아 주립대학교에서 발생한 총기 사건으로 5명이 부상을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709362)
 #### [러시아, 무기 이전 가능성 보도와 관련해 미국과 터키에 해명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709361)
-#### [에트나 화산 경보 단계 하향 조정으로 시칠리아 카타니아 공항, 항공편 운항 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709360)
