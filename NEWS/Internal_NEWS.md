@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_1101 </title></head>
-<center>Vers : 20260816_1101 </center>
-<center>Vers : 20260816_2001 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1237 </title></head>
+<center>Vers : 20260816_1237 </center>
+<center>Vers : 20260816_2137 </center>
 <br><br><br>
+#### [교황, 팔레스타인인을 대상으로 한 요르단강 서안 지구 내 폭력 중단을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709468)
+#### [[속보] 장쑤 뉴비전, 상반기 순손실 4억 400만~4억 2,400만 위안 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709467)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2632.HK/total>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709466)
+#### [이란 의회, ‘적대적 언론’과의 인터뷰를 더욱 엄격히 처벌하는 법안 가결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709465)
+#### [[속보] 중국 루이 홀딩스, 상반기 순이익이 전년 동기 대비 26.7%~34.9% 감소할 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709464)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0136.HK/total>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709463)
+#### [[속보] 센스타임, 상반기 순이익 5,000억~7,000억 위안 전망…작년 동기 14.9억 위안 적자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709462)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0020.HK/total>
+#### [브라질의 카사스 바히아, 2분기 적자 폭 확대…매장 298곳 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709461)
+#### [매사추세츠주 기아 퇴치 운동가가 트럼프 행정부의 푸드스탬프 삭감에 항의하기 위해 단식 투쟁을 벌이고 있다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709460)
+#### [[속보] 쑤저우 베이스케어 메디컬, 상반기 매출 전년 동기 대비 24%~29% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709459)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2170.HK/total>
+#### [[속보] 지진 골드, 상반기 순이익 전년 동기 대비 179% 증가한 14억 5천만 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709458)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2259.HK/total>
 #### [[속보] 시노펙 엔지니어링, 최대 1억 5천만 홍콩 달러 규모의 H주 자사주 매입 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709457)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2386.HK/total>
 #### [[속보] 젠스크립트 바이오텍, 상반기 조정 순이익 전년 동기 대비 203.3% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709456)
@@ -62,6 +78,10 @@
 #### [서류에 따르면, 억만장자 피터 틸이 아르헨티나 바카 무에르타 석유 기업의 지분 1%를 매입한 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709410)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AEP.O/total>
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709409)
+<head><meta charset="utf-8"><title>Vers : 20260816_1237 </title></head>
+<center>Vers : 20260816_1237 </center>
+<center>Vers : 20260816_2137 </center>
+<br><br><br>
 #### [노스랜드 파워 온타리오의 287 MW 토롤드 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709408)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709407)
 #### [허리케인 ‘라라’로 인해 ‘생명을 위협하는’ 상황 속에서 하와이에서 수천 가구가 정전 사태를 겪고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709406)
@@ -73,10 +93,6 @@
 #### [단독-미국, 동맹국들에 중국과의 AI 경쟁에서 편을 택해야 한다고 통보할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709400)
 #### [독일의 리브만, 1500m 세계 신기록을 갈아치웠다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709399)
 #### [공중에서 바라본 크로아티아의 맹렬한 산불](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709398)
-<head><meta charset="utf-8"><title>Vers : 20260816_1101 </title></head>
-<center>Vers : 20260816_1101 </center>
-<center>Vers : 20260816_2001 </center>
-<br><br><br>
 #### [‘라라’ 폭풍, 하와이 빅 아일랜드에 접근하며 허리케인으로 발달할까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709397)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709396)
 #### [‘인포메이션’ 보도에 따르면, 엔비디아가 오픈AI 데이터센터 계약의 일환으로 SB 에너지에 30억 달러를 투자할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709395)
@@ -128,14 +144,3 @@
 #### [킹스턴 코젠 온타리오 140 MW 데스텍 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709351)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709350)
 #### [영국의 번햄, 학자 아르데이의 사망을 “여러모로 비극”이라며 애도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709349)
-#### [두 건물의 이야기: 콜롬비아와 베네수엘라에서 지진 구조 활동이 어떻게 달랐는지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709348)
-#### [벨기에 국경 인근 독일 산불, 현지 당국 “진화 완료”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709347)
-#### [온라인에서 새로운 국경 돌파 시도를 촉구하는 목소리가 높아지자, 스페인, 세우타 보안 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709346)
-#### [숨을 곳 없는 상황: 에콰도르 어부들, 마약 카르텔과 미국의 공습에 직면하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709345)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709344)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709343)
-#### [트럼프의 2024년 식료품점 사진 촬영 장면이 이제 중간선거에서 공화당을 괴롭히고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709342)
-#### [이번 주 브레이킹뷰스: 펀드 매니저들이 고심할 때](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709341)
-#### [러시아, “여름 작전을 통해 우크라이나 남동부 19개 마을을 점령했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709340)
-#### [디즈니, D23 팬 이벤트에서 마블의 신작 ‘엑스맨’ 출연진과 ‘겨울왕국 3’ 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709339)
-#### [노스랜드 파워 온타리오의 287 MW 토롤드 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709338)
