@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_1623 </title></head>
-<center>Vers : 20260816_1623 </center>
-<center>Vers : 20260817_0123 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1648 </title></head>
+<center>Vers : 20260816_1648 </center>
+<center>Vers : 20260817_0148 </center>
 <br><br><br>
+#### [스페인 세우타에서 수백 명의 이주자들이 시위를 벌이며 망명을 요구하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709496)
+#### [벨기에 사상 최대 규모의 산불이 독일 쪽으로 번지고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709495)
+#### [지진 발생 후 거의 일주일이 지난 가운데, 콜롬비아에서 수색대가 잔해를 샅샅이 수색하고 있으며 구호 활동도 확대되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709494)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709493)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709492)
+#### [모터 레이싱 - 포르쉐의 베를라인, 포뮬러 E 두 번째 우승 차지… 바나드, 런던 결승전 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709491)
+#### [브라질의 루라, 재선 출마 선언…노동자들을 다시 노동당으로 끌어들이기 위해 나설 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709490)
+#### [아랍 5개국, 이스라엘의 트럼프 가자 계획 거부 조치 규탄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709489)
 #### [라라가 열대성 폭풍으로 강등되면서 하와이에서 10만 명 이상이 정전 피해를 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709488)
 #### [포르쉐의 베를라인, 포뮬러 E 두 번째 우승 차지… 바나드, 런던 결승전 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709487)
 #### [암호화폐 지갑 제공업체 세이프팔(SafePal)이 약 4만 명의 사용자 주문 정보에 영향을 미친 데이터 유출 사고를 공개했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709486)
@@ -66,11 +74,3 @@
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709439)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709438)
 #### [벨기에 역사상 최대 규모의 산불이 독일 쪽으로 번지고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709437)
-#### [르네상스 화가 안토넬로 다 메시나의 고향에서 그의 작품 4점이 도난당했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709436)
-#### [스페인, 일본, 브라질, 2028년 LA 올림픽 리듬체조 단체전 출전권 확보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709435)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709434)
-#### [인도, 신고되지 않은 해외 자산을 보유한 소규모 납세자를 대상으로 세금 특례 조치를 시행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709433)
-#### [우크라이나 드론이 모스크바 근교 지역을 공격해 1명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709432)
-#### [이란, 억류된 이란인 요원들에 대한 카타르와 쿠웨이트의 주장 반박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709431)
-#### [스페인 홍수로 여성 2명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709430)
-#### [우크라이나 당국, “러시아가 밤새 키예프를 공격해 3명 부상”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709429)
