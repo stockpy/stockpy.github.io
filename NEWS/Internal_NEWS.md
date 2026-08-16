@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_2258 </title></head>
-<center>Vers : 20260816_2258 </center>
-<center>Vers : 20260817_0758 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_2327 </title></head>
+<center>Vers : 20260816_2327 </center>
+<center>Vers : 20260817_0827 </center>
 <br><br><br>
+#### [OPG 온타리오 190MW 오터 래피즈 수력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709537)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709536)
+#### [영국 주택 매도 호가가 8년 만에 8월 기준 최대 하락폭을 기록했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709535)
+#### [설문조사 결과, 영국 고용주들이 ‘채용도 적고 해고도 적은’ 양상에 갇혀 있는 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709534)
+#### [NZD/USD, 시장의 달러 매수 심리 약화 속 계속 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709533)
 #### [‘라라’가 열대성 폭풍으로 약화되면서 하와이에서 20만 명 이상이 정전 피해를 입었고, 100채의 주택이 파손됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709532)
 #### [킹스턴 코젠 온타리오 140 MW 데스텍(Destec) 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709531)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709530)
@@ -13,7 +18,7 @@
 #### [ATCO/TransAlta 앨버타 390 MW 셰어니스 2호 석탄 화력발전소 가동 개시 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709524)
 #### [그리스 살라미나 섬을 휩쓴 산불로 최소 2명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709523)
 #### [아시아 모닝 콜 - 글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709522)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.CSI300>
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709521)
 #### [노스랜드 파워 온타리오의 287 MW 토롤드 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709520)
 #### [BUZZ-COMMENT-이번 주 전망-연준 회의록, PMI, 이란 분쟁이 주목받을 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709519)
@@ -58,8 +63,3 @@
 #### [인도네시아에서 치명적인 지진 발생, 수천 명 대피하고 비상사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709480)
 #### [가자 평화 계획 추진을 위해 중동에 파견된 트럼프 특사단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709479)
 #### [이란 의회, 외국 영향력 억제 법안 처리 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709478)
-#### [[업데이트 1] 브라질의 카사스 바히아, 2분기 적자 폭 확대…부채 구조조정 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709477)
-#### [방글라데시는 축출된 지도자를 둘러싼 갈등 속에서 인도 방문을 위해 더 나은 환경이 필요하다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709476)
-#### [글로벌스타용 MDA 스페이스 위성 성공적으로 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709475)
-#### [노르웨이의 Gassco는 8월 17일 04:00부터 8월 18일 04:00까지 하루 5.0 mcm 규모의 공급 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709474)
-#### [4 교체용 위성 8기 모두의 발사 성공 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709473)
