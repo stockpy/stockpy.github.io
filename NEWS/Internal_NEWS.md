@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260815_2259 </title></head>
-<center>Vers : 20260815_2259 </center>
-<center>Vers : 20260816_0759 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_0116 </title></head>
+<center>Vers : 20260816_0116 </center>
+<center>Vers : 20260816_1016 </center>
 <br><br><br>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709405)
+#### [OPG 온타리오 171 MW 마운틴 슈트 수력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709404)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709403)
 #### [강력한 지진 발생 며칠 뒤 시신이 더 많이 수습되면서 콜롬비아에서 생존자 발견에 대한 희망이 희미해지고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709402)
 #### [인디애나주에서 폭풍과 홍수로 6명이 사망했다고 비상당국이 밝혔다??](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709401)
 #### [단독-미국, 동맹국들에 중국과의 AI 경쟁에서 편을 택해야 한다고 통보할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709400)
@@ -61,6 +64,3 @@
 #### [두 건물의 이야기: 콜롬비아와 베네수엘라에서 지진 구조 활동이 어떻게 달랐는지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709348)
 #### [벨기에 국경 인근 독일 산불, 현지 당국 “진화 완료”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709347)
 #### [온라인에서 새로운 국경 돌파 시도를 촉구하는 목소리가 높아지자, 스페인, 세우타 보안 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709346)
-#### [숨을 곳 없는 상황: 에콰도르 어부들, 마약 카르텔과 미국의 공습에 직면하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709345)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709344)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709343)
