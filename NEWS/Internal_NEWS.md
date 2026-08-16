@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_1856 </title></head>
-<center>Vers : 20260816_1856 </center>
-<center>Vers : 20260817_0356 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1923 </title></head>
+<center>Vers : 20260816_1923 </center>
+<center>Vers : 20260817_0423 </center>
 <br><br><br>
+#### [제이미 다이먼, 영국 재무장관에게 은행세 인상에 경고 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709512)
+#### [매사추세츠주 기아 퇴치 운동가가 트럼프 행정부의 푸드스탬프 삭감에 항의하기 위해 단식 중?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709511)
+#### [미국 북서부 강 유수량 최대 83% 증가 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709510)
 #### [중부사령부(CENTCOM)의 쿠퍼 사령관은 USS 링컨호의 방문이 “경외심을 불러일으키는” 경험이었다고 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709509)
 #### [8월 16일 일요일 오후 2시 2분(EDT) 기준 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709508)
 #### [캐나다의 르블랑, 일요일 미국 무역대표 그리어와 화상 회담 예정: 대변인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709507)
@@ -67,8 +70,3 @@
 #### [160 Health, 상반기 순이익 100만~300만 위안 전망…작년 동기 1,960만 위안 적자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709454)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2656.HK/total>
 #### [헝가리에서 발생한 치명적인 버스 사고 후, 폴란드 버스 잔해 수습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709453)
-#### [[속보] 시노펙 엔지니어링, 상반기 순이익 전년 동기 대비 18% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709452)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2386.HK/total>
-#### [[속보] 선전 자오웨이 기계, 상반기 순이익 전년 동기 대비 34.1% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709451)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2692.HK/total>
-#### [벨기에 사상 최대 규모의 산불이 독일 쪽으로 확산되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709450)
