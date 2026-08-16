@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_2242 </title></head>
-<center>Vers : 20260816_2242 </center>
-<center>Vers : 20260817_0742 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_2258 </title></head>
+<center>Vers : 20260816_2258 </center>
+<center>Vers : 20260817_0758 </center>
 <br><br><br>
 #### [“갑자기 통장에 수십억 입금” 계좌 막아도 이 돈은 결국 사기꾼 손에 들어간다](https://m.stock.naver.com/news/ranknews/view/016/0002684491)
 #### [“여보, 삼전닉스 아직 안팔았지?”…‘300조’ 관측에 반도체 개미 ‘들썩’](https://m.stock.naver.com/news/ranknews/view/011/0004652197)

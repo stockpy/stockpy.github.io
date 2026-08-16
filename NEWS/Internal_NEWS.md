@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_2242 </title></head>
-<center>Vers : 20260816_2242 </center>
-<center>Vers : 20260817_0742 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_2258 </title></head>
+<center>Vers : 20260816_2258 </center>
+<center>Vers : 20260817_0758 </center>
 <br><br><br>
+#### [‘라라’가 열대성 폭풍으로 약화되면서 하와이에서 20만 명 이상이 정전 피해를 입었고, 100채의 주택이 파손됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709532)
 #### [킹스턴 코젠 온타리오 140 MW 데스텍(Destec) 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709531)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709530)
 #### [AUD/USD, 달러에 대한 신뢰도가 약화되면서 서서히 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709529)
@@ -62,4 +63,3 @@
 #### [글로벌스타용 MDA 스페이스 위성 성공적으로 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709475)
 #### [노르웨이의 Gassco는 8월 17일 04:00부터 8월 18일 04:00까지 하루 5.0 mcm 규모의 공급 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709474)
 #### [4 교체용 위성 8기 모두의 발사 성공 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709473)
-#### [사우디 민방위당국, 자잔 주에서 위험이 해소되었다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709472)
