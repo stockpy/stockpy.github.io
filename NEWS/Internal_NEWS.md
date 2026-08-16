@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_0932 </title></head>
-<center>Vers : 20260816_0932 </center>
-<center>Vers : 20260816_1832 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1021 </title></head>
+<center>Vers : 20260816_1021 </center>
+<center>Vers : 20260816_1921 </center>
 <br><br><br>
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709449)
+#### [[속보] 캔시노, 중국 당국이 Td5cp 청소년 및 성인용 신약 허가 신청을 승인했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709448)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6185.HK/total>
+#### [트럼프, 이란에 대한 경제적 압박 강화 추진. 어떤 선택지가 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709447)
+#### [브라질의 루라, 재선 출마 선언…노동자들을 다시 노동당으로 끌어들이기 위해 나선다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709446)
+#### [인도, 중동 전쟁 속 조리용 가스 생산 확대를 위해 석유 기업들에 목표치 설정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709445)
+#### [[업데이트 1] 통계에 따르면 독일 기업들의 미국 투자 규모가 3년 만에 최저 수준으로 감소했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709444)
+#### [타스 통신에 따르면, 러시아는 우크라이나 동부의 마을 두 곳을 추가로 점령했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709443)
+#### [우크라이나 군 당국은 우크라이나가 러시아 내 미사일 연료 생산 시설을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709442)
+#### [우크라이나의 대규모 드론 공격으로 모스크바 주가 타격을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709441)
+#### [[속보] 차이나 유니온: 캐나다 당국, 해당 기업의 아르젠텀 리튬 투자가 국가 안보에 영향을 미칠 수 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709440)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000036.SZ/total>
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709439)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709438)
 #### [벨기에 역사상 최대 규모의 산불이 독일 쪽으로 번지고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709437)
@@ -58,6 +70,10 @@
 #### [‘더 인포메이션’ 보도에 따르면, 엔비디아가 오픈AI 데이터센터 계약의 일환으로 SB 에너지에 30억 달러를 투자하는 방안을 협의 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709391)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
 #### [엔비디아, 오픈AI 데이터센터 계약의 일환으로 SB 에너지에 30억 달러 투자 협의 중 - 더 인포메이션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709390)
+<head><meta charset="utf-8"><title>Vers : 20260816_1021 </title></head>
+<center>Vers : 20260816_1021 </center>
+<center>Vers : 20260816_1921 </center>
+<br><br><br>
 #### [카타르, 이란 조종사 억류 사실 부인??](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709389)
 #### [더글러스, 팬퍼시픽 대회에서 50m 자유형 세계 신기록 수립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709388)
 #### [카타르는 이란 조종사들을 구금했다는 주장을 부인하며, 한 명의 유해를 발견했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709387)
@@ -68,10 +84,6 @@
 #### [리투아니아의 코기 경주견들은 자신들만의 속도로 달린다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709382)
 #### [영국의 번햄, 학자 아르데이의 사망에 대해 성찰을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709381)
 #### [모로코, 보안 단속 과정에서 스페인 세우타로 향하던 이주자 111명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709380)
-<head><meta charset="utf-8"><title>Vers : 20260816_0932 </title></head>
-<center>Vers : 20260816_0932 </center>
-<center>Vers : 20260816_1832 </center>
-<br><br><br>
 #### [모로코 보안 당국, 스페인 세우타로 향하던 이주자들 해산](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709379)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709378)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709377)
@@ -122,13 +134,3 @@
 #### [지진 사망자 수 38명으로 늘어… 인도네시아 재난관리청 관계자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709332)
 #### [식품 안전을 위해 앞장서고 있는 인도 한 주 식품안전국장이 대대적인 단속을 통해 ‘이터널’, ‘스위기’, ‘제프토’를 겨냥했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709331)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709330)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709329)
-#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709328)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709327)
-#### [앳코 파워 앨버타의 155MW 배틀 리버 4호 석탄 화력발전소 가동 중단 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709326)
-#### [우크라이나의 공격으로 러시아 사마라 지역의 산업 단지가 피해를 입었다고 현지 당국이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709325)
-#### [노스랜드 파워 온타리오의 287 MW 토롤드 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709324)
-#### [국경 근로자 노조들, “스페인 당국이 이민자 대량 유입 전 세우타에 대한 경고를 무시했다”고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709323)
-#### [헝가리, 원전 인근에 바지선 2척을 침몰시켜 다뉴브 강 수위를 높여 냉각 수를 확보할 예정??](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709322)
-#### [인도 한 주의 식품안전 책임자가 대대적인 단속을 통해 ‘이터널’, ‘스위기’, ‘제프토’를 집중 겨냥하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709321)
-#### [헝가리, 원전 인근에 바지선 두 척을 침몰시켜 다뉴브 강 수위를 높여 냉각을 확보할 계획인가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709320)
