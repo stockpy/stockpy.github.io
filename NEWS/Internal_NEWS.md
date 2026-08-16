@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_1923 </title></head>
-<center>Vers : 20260816_1923 </center>
-<center>Vers : 20260817_0423 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_2020 </title></head>
+<center>Vers : 20260816_2020 </center>
+<center>Vers : 20260817_0520 </center>
 <br><br><br>
+#### [BUZZ-COMMENT-이번 주 전망-연준 회의록, PMI, 이란 분쟁이 주목받을 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709519)
+#### [장기간 배치 중 상황이 악화되고 있다는 보도가 나오는 가운데, 제독이 USS 링컨호 승조원들을 칭찬했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709518)
+#### [디즈니 핀 수집가들은 모두가 탐내는 D23 수집품을 얻기 위해 먼 길을 마다하지 않고 오랫동안 기다린다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709517)
+#### [블랑쉬 미국 법무장관은 ‘리플렉팅 풀’을 둘러싼 트럼프의 비판 이후 피로를 공개적으로 지지했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709516)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709515)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709514)
+#### [천연가스 파이프라인 긴급 공지: 2026년 8월 17일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709513)
 #### [제이미 다이먼, 영국 재무장관에게 은행세 인상에 경고 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709512)
 #### [매사추세츠주 기아 퇴치 운동가가 트럼프 행정부의 푸드스탬프 삭감에 항의하기 위해 단식 중?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709511)
 #### [미국 북서부 강 유수량 최대 83% 증가 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709510)
@@ -58,15 +65,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0020.HK/total>
 #### [브라질의 카사스 바히아, 2분기 적자 폭 확대…매장 298곳 폐쇄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709461)
 #### [매사추세츠주 기아 퇴치 운동가가 트럼프 행정부의 푸드스탬프 삭감에 항의하기 위해 단식 투쟁을 벌이고 있다?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709460)
-#### [[속보] 쑤저우 베이스케어 메디컬, 상반기 매출 전년 동기 대비 24%~29% 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709459)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2170.HK/total>
-#### [[속보] 지진 골드, 상반기 순이익 전년 동기 대비 179% 증가한 14억 5천만 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709458)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2259.HK/total>
-#### [[속보] 시노펙 엔지니어링, 최대 1억 5천만 홍콩 달러 규모의 H주 자사주 매입 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709457)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2386.HK/total>
-#### [[속보] 젠스크립트 바이오텍, 상반기 조정 순이익 전년 동기 대비 203.3% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709456)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1548.HK/total>
-#### [르네상스 화가 안토넬로 다 메시나의 고향에서 그의 작품 4점 도난당해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709455)
-#### [160 Health, 상반기 순이익 100만~300만 위안 전망…작년 동기 1,960만 위안 적자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709454)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2656.HK/total>
-#### [헝가리에서 발생한 치명적인 버스 사고 후, 폴란드 버스 잔해 수습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709453)
