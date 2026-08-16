@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_1021 </title></head>
-<center>Vers : 20260816_1021 </center>
-<center>Vers : 20260816_1921 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1045 </title></head>
+<center>Vers : 20260816_1045 </center>
+<center>Vers : 20260816_1945 </center>
 <br><br><br>
+#### [160 Health, 상반기 순이익 100만~300만 위안 전망…작년 동기 1,960만 위안 적자 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709454)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2656.HK/total>
+#### [헝가리에서 발생한 치명적인 버스 사고 후, 폴란드 버스 잔해 수습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709453)
+#### [[속보] 시노펙 엔지니어링, 상반기 순이익 전년 동기 대비 18% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709452)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2386.HK/total>
+#### [[속보] 선전 자오웨이 기계, 상반기 순이익 전년 동기 대비 34.1% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709451)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2692.HK/total>
+#### [벨기에 사상 최대 규모의 산불이 독일 쪽으로 확산되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709450)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709449)
 #### [[속보] 캔시노, 중국 당국이 Td5cp 청소년 및 성인용 신약 허가 신청을 승인했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709448)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6185.HK/total>
@@ -64,16 +72,16 @@
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709396)
 #### [‘인포메이션’ 보도에 따르면, 엔비디아가 오픈AI 데이터센터 계약의 일환으로 SB 에너지에 30억 달러를 투자할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709395)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
+<head><meta charset="utf-8"><title>Vers : 20260816_1045 </title></head>
+<center>Vers : 20260816_1045 </center>
+<center>Vers : 20260816_1945 </center>
+<br><br><br>
 #### [강력한 지진이 발생한 지 며칠이 지나면서 시신이 더 많이 수습되자 콜롬비아에서 생존에 대한 희망이 희미해지고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709394)
 #### [민주당, 2028년 경선 첫 번째 주(州)로 사우스캐롤라이나를 선정??](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709393)
 #### [사우디 사육자 경매에서 캐나다산 매가 천문학적인 가격에 낙찰됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709392)
 #### [‘더 인포메이션’ 보도에 따르면, 엔비디아가 오픈AI 데이터센터 계약의 일환으로 SB 에너지에 30억 달러를 투자하는 방안을 협의 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709391)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
 #### [엔비디아, 오픈AI 데이터센터 계약의 일환으로 SB 에너지에 30억 달러 투자 협의 중 - 더 인포메이션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709390)
-<head><meta charset="utf-8"><title>Vers : 20260816_1021 </title></head>
-<center>Vers : 20260816_1021 </center>
-<center>Vers : 20260816_1921 </center>
-<br><br><br>
 #### [카타르, 이란 조종사 억류 사실 부인??](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709389)
 #### [더글러스, 팬퍼시픽 대회에서 50m 자유형 세계 신기록 수립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709388)
 #### [카타르는 이란 조종사들을 구금했다는 주장을 부인하며, 한 명의 유해를 발견했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709387)
@@ -129,8 +137,3 @@
 #### [버넘 영국 총리, 가뭄 피해를 입은 농민들을 위한 추가 지원금 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709337)
 #### [라인강 수위가 또다시 사상 최저치를 기록하며 운송 수단이 육상으로 전환되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709336)
 #### [탈레반 정권 수립 5주년을 맞이한 가운데, 구호 단체들은 위기 상황을 경고하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709335)
-#### [우크라이나는 우스트루가 소재 러시아 석유 시설을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709334)
-#### [우크라이나, 러시아 로켓 공장과 군 비행장을 공격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709333)
-#### [지진 사망자 수 38명으로 늘어… 인도네시아 재난관리청 관계자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709332)
-#### [식품 안전을 위해 앞장서고 있는 인도 한 주 식품안전국장이 대대적인 단속을 통해 ‘이터널’, ‘스위기’, ‘제프토’를 겨냥했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709331)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709330)

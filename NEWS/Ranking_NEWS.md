@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_1021 </title></head>
-<center>Vers : 20260816_1021 </center>
-<center>Vers : 20260816_1921 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1045 </title></head>
+<center>Vers : 20260816_1045 </center>
+<center>Vers : 20260816_1945 </center>
 <br><br><br>
 #### [매장 붐빌때 알아봤어야 했는데…햄버거 대신 주식사라는 월가](https://m.stock.naver.com/news/ranknews/view/008/0005400682)
 #### [“갑자기 통장에 수십억 입금” 계좌 막아도 이 돈은 결국 사기꾼 손에 들어간다](https://m.stock.naver.com/news/ranknews/view/016/0002684491)
