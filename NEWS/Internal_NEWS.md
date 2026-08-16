@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_0717 </title></head>
-<center>Vers : 20260816_0717 </center>
-<center>Vers : 20260816_1617 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_0828 </title></head>
+<center>Vers : 20260816_0828 </center>
+<center>Vers : 20260816_1728 </center>
 <br><br><br>
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709434)
+#### [인도, 신고되지 않은 해외 자산을 보유한 소규모 납세자를 대상으로 세금 특례 조치를 시행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709433)
+#### [우크라이나 드론이 모스크바 근교 지역을 공격해 1명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709432)
+#### [이란, 억류된 이란인 요원들에 대한 카타르와 쿠웨이트의 주장 반박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709431)
 #### [스페인 홍수로 여성 2명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709430)
 #### [우크라이나 당국, “러시아가 밤새 키예프를 공격해 3명 부상”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709429)
 #### [통계에 따르면 독일 기업들의 미국 투자 규모가 3년 만에 최저 수준으로 줄어들었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709428)
@@ -64,14 +68,14 @@
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709377)
 #### [쿠스라에 거주하는 팔레스타인인들은 수개월 동안 무장 정착민들의 공격을 받아왔다고 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709376)
 #### [스페인 그라나다에서 지진 발생, 건물과 차량 피해 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709375)
+<head><meta charset="utf-8"><title>Vers : 20260816_0828 </title></head>
+<center>Vers : 20260816_0828 </center>
+<center>Vers : 20260816_1728 </center>
+<br><br><br>
 #### [엘니뇨로 인해 농업 및 어업에 타격 입으면서 페루의 6월 경제 성장세 둔화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709374)
 #### [노르웨이의 가스코(Gassco)는 8월 15일 04:00부터 8월 16일 04:00까지 비순드(Visund) 가스전에서 하루 5.1 mcm 규모의 생산 중단을 실시할 예정이다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709373)
 #### [온타리오주 브룩필드 소재 189MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709372)
 #### [페루의 6월 경제 성장률이 1.75%로 둔화됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709371)
-<head><meta charset="utf-8"><title>Vers : 20260816_0717 </title></head>
-<center>Vers : 20260816_0717 </center>
-<center>Vers : 20260816_1617 </center>
-<br><br><br>
 #### [예측 시장 운영사 칼시(Kalshi), 지오펜싱 관련 과징금 부과에 대해 네바다주 규제 당국에 반박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709370)
 #### [헝가리, 원전 가동 유지 위해 다뉴브강에 바지선 침몰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709369)
 #### [헝가리, 원전 가동 유지 위해 다뉴브강에 바지선 침몰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709368)
@@ -128,7 +132,3 @@
 #### [UKMTO, “호르무즈 해협에서 벌크선 한 척이 정체 불명의 투사체에 피격됐다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709317)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709316)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709315)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709314)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709313)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709312)
-#### [호주, 팬퍼시픽 대회 400m 자유형 금메달 싹쓸이… 토프 기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709311)
