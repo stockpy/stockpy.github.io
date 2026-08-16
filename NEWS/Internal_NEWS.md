@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_1827 </title></head>
-<center>Vers : 20260816_1827 </center>
-<center>Vers : 20260817_0327 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_1856 </title></head>
+<center>Vers : 20260816_1856 </center>
+<center>Vers : 20260817_0356 </center>
 <br><br><br>
+#### [중부사령부(CENTCOM)의 쿠퍼 사령관은 USS 링컨호의 방문이 “경외심을 불러일으키는” 경험이었다고 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709509)
+#### [8월 16일 일요일 오후 2시 2분(EDT) 기준 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709508)
+#### [캐나다의 르블랑, 일요일 미국 무역대표 그리어와 화상 회담 예정: 대변인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709507)
+#### [지진 발생 약 일주일 만에 콜롬비아에서 수색대가 잔해 더미를 샅샅이 수색하는 가운데 구호 활동이 확대되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709506)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709505)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709504)
 #### [홍콩 증권감독당국은 부패방지 감독기관과의 합동 수사 끝에 전직 직원이 기소되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709503)
@@ -68,8 +72,3 @@
 #### [[속보] 선전 자오웨이 기계, 상반기 순이익 전년 동기 대비 34.1% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709451)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2692.HK/total>
 #### [벨기에 사상 최대 규모의 산불이 독일 쪽으로 확산되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709450)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709449)
-#### [[속보] 캔시노, 중국 당국이 Td5cp 청소년 및 성인용 신약 허가 신청을 승인했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709448)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6185.HK/total>
-#### [트럼프, 이란에 대한 경제적 압박 강화 추진. 어떤 선택지가 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709447)
-#### [브라질의 루라, 재선 출마 선언…노동자들을 다시 노동당으로 끌어들이기 위해 나선다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709446)
