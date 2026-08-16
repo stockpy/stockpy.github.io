@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_0503 </title></head>
-<center>Vers : 20260816_0503 </center>
-<center>Vers : 20260816_1403 </center>
+<head><meta charset="utf-8"><title>Vers : 20260816_0638 </title></head>
+<center>Vers : 20260816_0638 </center>
+<center>Vers : 20260816_1538 </center>
 <br><br><br>
+#### [헝가리에서 발생한 폴란드 버스 사고로 12명 사망, 최소 10명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709427)
+#### [헝가리에서 발생한 폴란드 버스 사고로 12명 사망, 최소 10명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709426)
+#### [빈다우드 홀딩스, 에스토니아 AS E-Piim Tootmine 유제품 자산 인수 입찰에 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709425)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709424)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709423)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709422)
+#### [분석-유럽의 폭염으로 기업 손실이 늘어나면서 보험 보장 공백이 드러나고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709421)
 #### [마카체프, 개리를 간발의 차로 꺾고 UFC 웰터급 타이틀 방어에 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709420)
 #### [주목할 요인 - 8월 16일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709419)
 #### [수영 - 더글러스, 하루 만에 50m 자유형 세계 신기록 두 차례 수립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709418)
@@ -61,10 +68,3 @@
 #### [예측 시장 운영사 칼시(Kalshi), 지오펜싱 관련 과징금 부과에 대해 네바다주 규제 당국에 반박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709370)
 #### [헝가리, 원전 가동 유지 위해 다뉴브강에 바지선 침몰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709369)
 #### [헝가리, 원전 가동 유지 위해 다뉴브강에 바지선 침몰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709368)
-#### [벨기에 국경 인근 독일 산불, 현지 당국 “진화 완료”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709367)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709366)
-#### [벨기에에서 사상 최대 규모의 산불이 발생하자 EU가 항공기를 파견했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709365)
-#### [영국의 번햄, 학자 아르데이의 사망에 대해 성찰을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709364)
-#### [NSN 디벨롭먼트 팀, 볼타 아 포르투갈에서 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709363)
-#### [경찰에 따르면 버지니아 주립대학교에서 발생한 총기 사건으로 5명이 부상을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709362)
-#### [러시아, 무기 이전 가능성 보도와 관련해 미국과 터키에 해명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709361)
