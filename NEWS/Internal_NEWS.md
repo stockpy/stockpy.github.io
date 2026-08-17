@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260817_2248 </title></head>
-<center>Vers : 20260817_2248 </center>
-<center>Vers : 20260818_0748 </center>
+<head><meta charset="utf-8"><title>Vers : 20260817_2308 </title></head>
+<center>Vers : 20260817_2308 </center>
+<center>Vers : 20260818_0808 </center>
 <br><br><br>
+#### [호주 CSL, 연간 순이익 2% 감소 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710797)
+#### [에르도안, 트럼프에게 이란과의 대화 추진 촉구하며 지원 의향 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710796)
+#### [호주의 릴라이언스 월드와이드, 브룩필드로부터 29억 달러 규모의 인수 제안을 받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710795)
+#### [기준가는 안정적인 추세를 보이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710794)
 #### [미국 평원 지역 HRW 밀 베이시스는 선물 가격 강세에 힘입어 보합세를 유지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710793)
 #### [트럼프: 이란은 자신이 필요하다고 생각하는 합의에 응하지 않을 것이며, 오만을 폭격하겠다고 위협했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710792)
 #### [유가 상승 속에 월가 지수 하락, 소매업 실적 발표 대기 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710791)
@@ -67,7 +71,3 @@
 #### [[속보] 타르가 리소시스, 엑슨모빌과 20년 계약 체결 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710740)
 #### [전문가, 잭슨홀에서 연준의 데이터 해석에 대한 명확한 설명 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710739)
 #### [미국, 광범위한 비판에 따라 빅 벤드 국립공원의 국경 시설 건설을 일시 중단했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710738)
-#### [‘Inside Debt’ - 8월 17일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710737)
-#### [미국 FDA: 하디스 프레시 푸드, 잠재적 건강 위험 우려로 할라피뇨 회수 조치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710736)
-#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas 유지보수 업데이트 #1, 구간 120 헬레나 조절기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710735)
-#### [열대성 폭풍 ‘라라’로 인해 하와이에서 11만 1천 명 이상의 주민이 정전 피해를 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710734)

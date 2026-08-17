@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260817_2248 </title></head>
-<center>Vers : 20260817_2248 </center>
-<center>Vers : 20260818_0748 </center>
+<head><meta charset="utf-8"><title>Vers : 20260817_2308 </title></head>
+<center>Vers : 20260817_2308 </center>
+<center>Vers : 20260818_0808 </center>
 <br><br><br>
 #### [“월요일에 장이 열렸어야 했는데”…日·대만서 메모리株 급등](https://m.stock.naver.com/news/ranknews/view/009/0005722070)
 #### [국민연금, 9600억 팔아치운 종목 뭐길래…'뜻밖의 결과'](https://m.stock.naver.com/news/ranknews/view/015/0005321586)
