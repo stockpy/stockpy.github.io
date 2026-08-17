@@ -1,7 +1,90 @@
-<head><meta charset="utf-8"><title>Vers : 20260816_2327 </title></head>
-<center>Vers : 20260816_2327 </center>
-<center>Vers : 20260817_0827 </center>
+<head><meta charset="utf-8"><title>Vers : 20260817_0113 </title></head>
+<center>Vers : 20260817_0113 </center>
+<center>Vers : 20260817_1013 </center>
 <br><br><br>
+#### [일본 2분기 GDP는 양호했으나 예상치에는 미치지 못했으나, 일본은행의 금리 인상을 막지는 못할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709587)
+#### [금리 인상 기대감이 완화되며 달러 약세에 힘입어 금값 소폭 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709586)
+#### 종목정보 : <https://m.stock.naver.com/marketindex/exchange/.DXY>
+#### [[속보] 허치메드(중국), 3상 임상시험에서 ‘오르파티스’와 ‘타그리소’ 병용 요법이 EGFR 돌연변이 비소세포폐암 환자의 생존율을 향상시킨다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709585)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0013.HK/total>
+#### [거래자들이 연준의 금리 인상 전망을 후퇴시키면서 엔화 소폭 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709584)
+#### [USD/JPY, 달러 약세에도 불구하고 간신히 159선을 유지하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709583)
+#### [이란 평화 회담이 교착 상태에 빠지고 호르무즈 해협을 오가는 선박 운항이 줄어들면서 유가는 제자리걸음을 보이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709582)
+#### [일본 경제, 4~6월 분기 성장세가 예상보다 둔화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709581)
+#### [뉴질랜드 a2 밀크, 실적 부진과 부진한 전망으로 2개월 만에 최저치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709580)
+#### [[속보] 후난 유넝 신에너지, 홍콩증권거래소에 상장 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709579)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301358.SZ/total>
+#### [[속보] 상하이 복성(Fosun) 계열사, 산도즈(Sandoz AG)와 10개 생물학적 제제 제품 개발 협력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709578)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600196.SS/total>
+#### [[속보] 산도즈, 헨리우스와 최대 10종의 바이오시밀러에 대한 전략적 협력 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709577)
+#### [커피부터 훠궈에 이르기까지, 각 브랜드들이 성장세를 보이는 중국 버거 시장을 선점하기 위해 치열한 경쟁을 벌이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709576)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6862.HK/total>
+#### [EU, 가을에 러시아를 상대로 역대 가장 강력한 제재 패키지 시행할 계획이라고 외교부 장관이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709575)
+#### [9월 30일까지의 정부 채권 입찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709574)
+#### [10월 29일까지의 신흥시장 경제 행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709573)
+#### [아시아 시장 전망-위험 선호 심리 위축, 일본과 중국의 경제 지표가 주목받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709572)
+#### [일본 경제, 4~6월 분기 연율 1.1% 성장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709571)
+#### [[업데이트 1] 유조선 공격 이후 호르무즈 해협을 통과하는 선박 운항이 둔화되고 있는 것으로 데이터가 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709570)
+#### [파이낸셜 타임스 - 8월 17일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709569)
+#### [데이터에 따르면 유조선 공격 이후 호르무즈 해협을 통한 선박 통행이 둔화되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709568)
+#### [- China Moly <603993.SS>의 마진 매수 잔고는 27,110(x10,000) 위안, 공매도 물량은 16(x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709567)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603993.SS/total>
+#### [- Phoenix Media <601928.SS>의 마진 매수 잔고는 258(x10000) 위안, 공매도 물량은 9(x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709565)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601928.SS/total>
+#### [- 상하이 일렉트릭 <601727.SS>의 신용매수 잔고는 1,996 (x10,000) 위안, 공매도 물량은 1 (x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709566)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601727.SS/total>
+#### [- CITIC HIC <601608.SS>의 마진 매수 잔고는 1,155(x10,000) 위안, 공매도 물량은 7(x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709564)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601608.SS/total>
+#### [- 광저우 자동차 그룹 <601238.SS>의 마진 매수 잔고는 548(x10000) 위안, 공매도 물량은 0.09(x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709563)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601238.SS/total>
+#### [- 퍼스트 트랙터 <601038.SS>의 마진 매수 잔고는 337(x10000) 위안, 공매도 물량은 1(x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709562)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601038.SS/total>
+#### [- SGSB 그룹 <600843.SS>의 매수 잔고는 491(x10000) 위안, 공매도 물량은 0.00(x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709561)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600843.SS/total>
+#### [- 스웰펀 <600779.SS>의 마진 매수 잔고는 700(×10,000) 위안, 공매도 물량은 0.01(×10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709560)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600779.SS/total>
+#### [- 텍스타일 시티 <600790.SS>의 마진 매수 잔고는 110 (x10000) 위안, 공매도 물량은 0.00 (x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709559)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600790.SS/total>
+#### [- 투파이 셰더 <600702.SS>의 마진 매수 잔고는 3,559 (x10,000) 위안, 공매도 물량은 0.00 (x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709558)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600702.SS/total>
+#### [- 톈진항 <600717.SS>의 마진 매수 잔고는 481(×10,000) 위안, 공매도 물량은 3(×10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709557)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600717.SS/total>
+#### [- JZYY <600750.SS>의 마진 매수 잔고는 484 (x10000) 위안, 공매도 물량은 0.42 (x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709556)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600750.SS/total>
+#### [- Sh Jiabao <600622.SS>의 마진 매수 잔고는 233 (x10000) 위안, 공매도 물량은 0.08 (x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709555)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600622.SS/total>
+#### [- 차이나 소프트웨어 <600536.SS>의 마진 매수 잔고는 2,075 (x10000) 위안, 공매도 물량은 0.07 (x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709554)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600536.SS/total>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709553)
+#### [- TASLY <600535.SS>의 마진 매수 잔고는 2,130 (x10000) 위안이며, 공매도 물량은 0.00 (x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709552)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600535.SS/total>
+#### [- SZ Expressway <600548.SS> 마진 매수 금액은 158 (x10000) 위안, 공매도 물량은 0.00 (x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709551)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600548.SS/total>
+#### [- Times New Mat <600458.SS>의 마진 매수 잔고는 1,534 (x10,000) 위안이며, 공매도 물량은 2 (x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709550)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600458.SS/total>
+#### [- Kingray Tech <600390.SS>의 마진 매수 잔고는 1,452 (x10,000) 위안이며, 공매도 물량은 0.00 (x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709549)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600390.SS/total>
+#### [- 레드스타 <600367.SS>의 마진 매수 잔고는 6,478 (x10,000) 위안, 공매도 물량은 0.11 (x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709548)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600367.SS/total>
+#### [- NNCI <600301.SS>의 마진 매수 잔고는 2,344 (x10000) 위안, 공매도 물량은 0.01 (x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709547)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600301.SS/total>
+#### [- 복성제약 <600196.SS>의 마진 매수 잔고는 7,167 (x10,000) 위안, 공매도 물량은 1 (x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709546)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600196.SS/total>
+#### [- 티베트 파마 <600211.SS>의 마진 매수 잔고는 2,359(x10,000) 위안, 공매도 물량은 2(x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709545)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600211.SS/total>
+#### [- SH Construction <600170.SS>의 마진 매수 잔고는 3,424 (x10000) 위안, 공매도 물량은 0.19 (x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709544)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600170.SS/total>
+#### [- Citychamp <600067.SS>의 신용매수 잔고는 302 (x10000) 위안, 공매도 물량은 0.00 (x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709543)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600067.SS/total>
+#### [- 야셩 그룹 <600108.SS>의 매수 신용거래 잔고는 1,554 (x10,000) 위안이며, 공매도 물량은 0.00 (x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709542)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600108.SS/total>
+#### [- 차이나 이스트 항공 <600115.SS>의 마진 매수 잔고는 2,391(x10,000) 위안, 공매도 물량은 7(x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709541)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600115.SS/total>
+#### [- 차이나 유니콤(China Unicom Ltd) <600050.SS>의 마진 매수 잔고는 5,180(x10,000) 위안이며, 공매도 물량은 25(x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709540)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600050.SS/total>
+#### [- 상하이증권거래소 배당주 <510880.SS>의 마진 매수 잔고는 1,867(x10,000) 위안이며, 공매도 물량은 8(x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709539)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/510880.SS/total>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709538)
 #### [OPG 온타리오 190MW 오터 래피즈 수력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709537)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709536)
 #### [영국 주택 매도 호가가 8년 만에 8월 기준 최대 하락폭을 기록했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709535)
@@ -12,6 +95,10 @@
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709530)
 #### [AUD/USD, 달러에 대한 신뢰도가 약화되면서 서서히 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709529)
 #### [트럼프, 국방부에 한국과의 합동 군사 훈련 축소 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709528)
+<head><meta charset="utf-8"><title>Vers : 20260817_0113 </title></head>
+<center>Vers : 20260817_0113 </center>
+<center>Vers : 20260817_1013 </center>
+<br><br><br>
 #### [주말 뉴스-미·중 AI 경쟁, 이란의 강경 태도, 중·한 관계](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709527)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709526)
 #### [트럼프 대통령은 국방장관에게 한국과의 합동 군사 훈련을 축소하라고 지시했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709525)
@@ -63,3 +150,13 @@
 #### [인도네시아에서 치명적인 지진 발생, 수천 명 대피하고 비상사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709480)
 #### [가자 평화 계획 추진을 위해 중동에 파견된 트럼프 특사단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709479)
 #### [이란 의회, 외국 영향력 억제 법안 처리 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709478)
+#### [[업데이트 1] 브라질의 카사스 바히아, 2분기 적자 폭 확대…부채 구조조정 검토](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709477)
+#### [방글라데시는 축출된 지도자를 둘러싼 갈등 속에서 인도 방문을 위해 더 나은 환경이 필요하다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709476)
+#### [글로벌스타용 MDA 스페이스 위성 성공적으로 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709475)
+#### [노르웨이의 Gassco는 8월 17일 04:00부터 8월 18일 04:00까지 하루 5.0 mcm 규모의 공급 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709474)
+#### [4 교체용 위성 8기 모두의 발사 성공 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709473)
+#### [사우디 민방위당국, 자잔 주에서 위험이 해소되었다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709472)
+#### [사우디 민방위청, 자잔 주 내 잠재적 위험에 대한 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709471)
+#### [월가 주간 전망-연준이 향후 행보에 대해 침묵을 지키는 가운데, 투자자들은 주가 하락을 막기 위해 기업 실적에 주목하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709470)
+#### [러시아의 키예프 공격으로 도서 시장이 활기를 띠다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709469)
+#### [교황, 팔레스타인인을 대상으로 한 요르단강 서안 지구 내 폭력 중단을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2709468)
