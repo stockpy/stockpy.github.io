@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260817_1915 </title></head>
-<center>Vers : 20260817_1915 </center>
-<center>Vers : 20260818_0415 </center>
+<head><meta charset="utf-8"><title>Vers : 20260817_2026 </title></head>
+<center>Vers : 20260817_2026 </center>
+<center>Vers : 20260818_0526 </center>
 <br><br><br>
 #### ["삼전닉스 다음 기회"…투자 고수들이 본 '텐배거' 파격 전망](https://m.stock.naver.com/news/ranknews/view/015/0005321607)
 #### ["너무 싸졌다"…40% 빠진 삼성전자·SK하이닉스, 증권가가 찍은 반전 포인트[주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005803686)

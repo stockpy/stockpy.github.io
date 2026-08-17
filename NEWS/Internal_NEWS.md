@@ -1,7 +1,41 @@
-<head><meta charset="utf-8"><title>Vers : 20260817_1915 </title></head>
-<center>Vers : 20260817_1915 </center>
-<center>Vers : 20260818_0415 </center>
+<head><meta charset="utf-8"><title>Vers : 20260817_2026 </title></head>
+<center>Vers : 20260817_2026 </center>
+<center>Vers : 20260818_0526 </center>
 <br><br><br>
+#### [[속보] 듀오스 테크놀로지스 그룹, 2분기 주당순이익(EPS) 1.35달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710691)
+#### [미국 농무부(USDA) 주간 작물 생육 현황 - 옥수수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710693)
+#### [미국 농무부(USDA) 주간 작물 생육 현황 - 면화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710692)
+#### [미국 6월 순자본유입액 1,335억 달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710690)
+#### [[속보] 나스닥, 2026년 12월 6일부터 미국 동부 표준시 기준 오후 9시부터 오전 4시까지 새로운 거래 세션 도입 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710689)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NDAQ.O/total>
+#### [[단독] 로이터/입소스 여론조사 결과, 트럼프 지지율 33%로 하락…대통령 취임 이후 최저치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710688)
+#### [스카이 뉴스 보도에 따르면, FIFA가 인판티노에 대한 비판을 제기한 케빈 라무르 고위 임원을 해임했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710687)
+#### [수확 현장 답사 결과 발표를 앞두고 CBOT 옥수수 가격이 소폭 상승했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710686)
+#### [소식통에 따르면, 미국과 캐나다는 자동차 관세 인하 가능성과 관련해 의견 차이를 좁히기 위해 노력하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710685)
+#### [CBOT 대두 가격, 대두 가공량 호조와 견조한 유가 영향으로 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710684)
+#### [증권사들, 뉴질랜드 ‘a2 Milk’가 중국 라벨 시장에서 점유율을 회복할 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710683)
+#### [[업데이트 1] 독일 규제 당국, “애플이 앱 데이터 동의 규정을 변경할 예정”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710682)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [[속보] 앤트로픽, 7월 말 기준 연간 매출 추정치가 650억 달러에 달해 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710681)
+#### [“Rest in Power”: 런던에서 학자 아르데이를 기리는 추모 행사에 수천 명이 모였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710680)
+#### [연준 금리 인상 기대감 완화로 라틴아메리카 외환 시장 상승…주가는 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710679)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
+#### [8월 17일 기준 앨버타주 카놀라 일일 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710678)
+#### [원유 가격 급등과 대두 가공량 증가에 힘입어 대두 가격 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710677)
+#### [이사회, 워싱턴 덜레스 공항 대대적 개편을 위한 199억 달러 규모 계획에 대한 표결 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710676)
+#### [미국 농무부(USDA), 옥수수·대두 등급 하향 조정할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710675)
+#### [[속보] 테슬라, 스티어링 휠이 없는 자율주행 택시 ‘사이버캡’ 8월 출시 준비 - 더 인포메이션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710674)
+#### [사상 최대 생산량과 온화한 날씨 전망에 힘입어 미국 천연가스 가격 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710673)
+#### [뉴욕 판사, 변호사들이 부상 배상 청구액을 부풀렸다고 주장하는 우버 소송 기각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710672)
+#### [미국, 북마리아나 제도 인근 해저 광물 채굴권 경매 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710671)
+#### [COMMENT-US 요약: 금리 상승과 이란 긴장 고조로 달러 약세 폭이 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710670)
+#### [루이지 망지오네의 주 살인 사건 재판, 연방 법원에서 유죄 인정 후 연기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710669)
+#### [[속보 1] 미국 유치원생 백신 접종률 하락…CDC 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710668)
+#### [원당이 1년 만에 최고치로 다시 상승하는 반면, 백당은 급등하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710667)
+#### [쿠슈너, “이란과 미국의 대화는 활발히 진행 중이지만 아직 합의에 이르지는 못했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710666)
+#### [루이지 망지오네의 주 살인 재판, 연방 법원에서 유죄를 인정한 후 연기되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710665)
+#### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710664)
+#### [공급 차질로 인해 미국 디젤 크랙 가격이 사상 처음으로 배럴당 100달러를 돌파했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710663)
 #### [Banco Macro SA <BMA.N>, 주당 1.42달러의 이익 기록 전망 - 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710662)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BMA/total>
 #### [로스앤젤레스 갱단 두목이 투팍의 차량 총격 살해 사건을 주모했다고 검찰이 배심원단에 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710661)
@@ -35,38 +69,3 @@
 #### [EUR/USD-미국 달러와 채권 수익률 반등으로 강세 세력이 수세에 몰렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710636)
 #### [뉴욕 연방준비은행, 상설 레포 거래 데이터 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710635)
 #### [이탈리아 장관, 콜레페로 탄약고 폭발 사고와 러시아의 연관성을 시사하는 징후는 없다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710634)
-#### [AUD/USD-강세 세력이 밤사이 기록한 상승분의 일부를 반납했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710633)
-#### [FFW 코퍼레이션, 6월 30일 종료된 분기 대출 잔액 증가에 힘입어 순이자수익 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710632)
-#### [미국 증시 동향 - 엔비디아, 금광 기업, 나이키](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710631)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ADIL.O/total>
-#### [북러너, 만다툼(Mandatum)과 AEO 간의 거래 가격이 주당 6.11유로로 책정될 전망이라고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710630)
-#### [지갑, 저금통, 신용카드: 실적 발표를 주시하는 소매업체들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710629)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
-#### [블룸버그 뉴스 보도에 따르면, 앤드리슨 호로위츠가 이사진 문제로 미 법무부의 조사 대상이 되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710628)
-#### [[속보] 캐나다의 카니 총리, 8월 19일 관세 부과 마감일 전 트럼프 대통령과 대화할 것으로 예상한다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710627)
-#### [[속보] 울프팩 리서치, 플로텍 인더스트리스에 대한 공매도 포지션 보유 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710626)
-#### [흑해 지역의 불확실성으로 시장이 혼란을 겪는 가운데 EU산 밀 가격이 하락세를 보였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710625)
-#### [이 남극 식물이 기후 변화에 강한 작물의 비밀을 밝혀낼 수 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710624)
-#### [만다툼 AEO, 주간사 “청약 수요가 전량 충족됐다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710623)
-#### [이 남극 식물이 기후 변화에 강한 작물의 비밀을 풀어줄 수 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710622)
-#### [모건 앤 모건(Morgan & Morgan) 로펌, 유명인 광고 금지 조치와 관련해 플로리다 변호사 협회를 상대로 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710621)
-#### [[속보] 앤드리슨 호로위츠, 이사회 구성원 관련 미 법무부 조사 대상 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710620)
-#### [예고: 투자자들이 CEO의 부재에 주목하는 가운데, 홈디포의 매출과 주당순이익(EPS)이 증가할 것으로 전망된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710619)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710618)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710617)
-#### [배심원단 증언에 따르면, 매사추세츠주 한 여성이 자녀들을 살해하기 며칠 전 온라인에서 ‘산후 정신병’을 검색한 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710616)
-#### [프랑스 대선 후보 필립, 다르마닌 장관의 지지를 얻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710615)
-#### [뉴욕 연방준비은행, 리버스 레포 시설 관련 자료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710614)
-#### [자주 비행하는 사람들이 유망한 재정적 길을 개척하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710613)
-#### [한 중립 금리 추산치에 따르면 연준의 정책 기조는 완화적이라고 이 보고서는 전했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710612)
-#### [데이터에 따르면, 미국 중간선거 관련 베팅 규모가 2024년 의회 선거 총액을 넘어섰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710611)
-#### [엔비디아, 오픈AI 데이터센터 수주 확정…주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710610)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [그리스 시프노스 섬에서 헬기 추락 사고로 3명 사망 - 소방당국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710609)
-#### [노르웨이의 Gassco, 예정된 가스 공급 중단 계획 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710608)
-#### [[속보 1] 라스베이거스 갱단 두목이 투팍의 차량 총격 살해 사건을 주모했다고 검찰이 배심원단에 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710607)
-#### [[속보 1] 소식통에 따르면, 제너럴 애틀랜틱이 재개된 기업공개(IPO)를 주도할 주간사로 JP모건을 선정했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710606)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
-#### [미국 쇠고기·돼지고기 가공업체의 마진 - Hedgersedge](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710605)
-#### [토탈에너지가 보니 원유를 공급하는 한편, ADNOC의 현물 판매가 시장에 부담을 주고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710604)
-#### [유럽 증류유·디젤 정제 마진, 사상 최고치 근접](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710603)
