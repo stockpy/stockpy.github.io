@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260817_2223 </title></head>
-<center>Vers : 20260817_2223 </center>
-<center>Vers : 20260818_0723 </center>
+<head><meta charset="utf-8"><title>Vers : 20260817_2248 </title></head>
+<center>Vers : 20260817_2248 </center>
+<center>Vers : 20260818_0748 </center>
 <br><br><br>
+#### [미국 평원 지역 HRW 밀 베이시스는 선물 가격 강세에 힘입어 보합세를 유지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710793)
+#### [트럼프: 이란은 자신이 필요하다고 생각하는 합의에 응하지 않을 것이며, 오만을 폭격하겠다고 위협했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710792)
+#### [유가 상승 속에 월가 지수 하락, 소매업 실적 발표 대기 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710791)
 #### [브라질 정부, 7월 말 설탕 생산량 17% 감소했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710790)
 #### [[속보] MDHHS, 미시간주 아동 백신 권장 사항 변경 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710789)
 #### [[속보] 노스클리프 리소스, 735만 달러 대출금 및 이자 대가로 약 3,300만 주를 지급하며 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710788)
@@ -68,6 +71,3 @@
 #### [미국 FDA: 하디스 프레시 푸드, 잠재적 건강 위험 우려로 할라피뇨 회수 조치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710736)
 #### [천연가스 파이프라인 긴급 공지: Southern Natural Gas 유지보수 업데이트 #1, 구간 120 헬레나 조절기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710735)
 #### [열대성 폭풍 ‘라라’로 인해 하와이에서 11만 1천 명 이상의 주민이 정전 피해를 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710734)
-#### [기술주 하락에 TSX, 사상 최고치에서 후퇴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710733)
-#### [회계법인 앤더슨, 2차 공모 실시 후 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710732)
-#### [[속보] 라운드 힐 뮤직, 수노와 앤트로픽을 상대로 저작권 침해 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710726)
