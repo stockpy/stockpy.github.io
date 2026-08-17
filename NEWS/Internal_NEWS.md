@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260817_1838 </title></head>
-<center>Vers : 20260817_1838 </center>
-<center>Vers : 20260818_0338 </center>
+<head><meta charset="utf-8"><title>Vers : 20260817_1915 </title></head>
+<center>Vers : 20260817_1915 </center>
+<center>Vers : 20260818_0415 </center>
 <br><br><br>
+#### [Banco Macro SA <BMA.N>, 주당 1.42달러의 이익 기록 전망 - 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710662)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BMA/total>
+#### [로스앤젤레스 갱단 두목이 투팍의 차량 총격 살해 사건을 주모했다고 검찰이 배심원단에 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710661)
+#### [이란 문제와 소매업체 실적에 주목하며 월가 지수 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710660)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMAT.O/total>
+#### [[속보] 엑슨모빌 모잠비크와 4구역 파트너사들, 11억 달러 규모의 로부마 LNG 1단계 사전 투자 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710659)
+#### [미국 카놀라 작황 조사에서 실망스러운 수확량 전망이 나오면서 ICE 카놀라 선물 가격이 상승했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710658)
+#### [엑슨모빌, 모잠비크 로부마 LNG 프로젝트에 11억 달러 규모 계약 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710657)
+#### [[속보] 텍사스주 코퍼스 크리스티 소재 플린트 힐스 웨스트 공장의 가동 현황 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710656)
+#### [인도, 파키스탄의 지원을 받는 무장세력의 공격을 저지하고 200명 이상의 요원을 체포했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710655)
+#### [[단독] 로이터/입소스 여론조사 결과, 트럼프 지지율이 33%로 하락해 대통령 취임 이후 최저치를 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710654)
+#### [미국 CDC, 유치원생 백신 접종률 하락 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710653)
+#### [[속보] 파라마운트, WBD 합병 지연 비용 충당 위해 주 법무장관들에게 18억 8천만 달러 채권 발행 요청 - CNBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710652)
+#### [오늘의 주요 관전 포인트 - 8월 18일 화요일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710651)
 #### [CEO에 따르면, AI 개발을 가속화하라는 국방부의 압박이 스맥(Smack)의 새로운 자금 조달 라운드를 이끌었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710650)
 #### [USD/JPY, 지정학적 요인이 달러를 지지하며 상승세로 돌아서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710649)
 #### [트럼프 일가, 은행 설립 허가 덕분에 돈만 불려가며 웃음꽃 피우다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710648)
@@ -56,17 +70,3 @@
 #### [미국 쇠고기·돼지고기 가공업체의 마진 - Hedgersedge](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710605)
 #### [토탈에너지가 보니 원유를 공급하는 한편, ADNOC의 현물 판매가 시장에 부담을 주고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710604)
 #### [유럽 증류유·디젤 정제 마진, 사상 최고치 근접](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710603)
-#### [소식통에 따르면, 제너럴 애틀랜틱이 재개된 기업공개(IPO)를 주도할 주간사로 JP모건을 선정했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710602)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
-#### [[업데이트 1] WSJ 보도에 따르면, 미국 검찰이 억만장자 마크 월터와 연관된 4개 기업에 주목하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710601)
-#### [[속보] 프로스페러스 프린팅, 차이 와이 쿤을 집행이사로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710600)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8385.HK/total>
-#### [칠레의 코델코, 신임 경영진의 파트너십 강화 및 자산 재검토 추진 속에 푸코브레 인수 협상 막바지 단계에 접어들어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710599)
-#### [달러 약세와 연준의 금리 인상 우려 완화로 금 관련주 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710598)
-#### [그리스 시프노스 섬에서 헬기 추락 사고로 3명 사망 - 소방당국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710597)
-#### [명품주 부진으로 유럽 증시 소폭 하락…미국-이란 간 긴장 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710596)
-#### [뉴펀들랜드와 퀘벡, 전력 생산에 관한 새로운 합의 도출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710595)
-#### [[속보] 플로팅 포인트, 복잡성 수용을 목표로 1억 2,500만 달러 규모의 펀드 III 출범 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710594)
-#### [투자자들이 실적 회복 속도에 지쳐가면서 나이키 주가가 12년 만에 최저치에 근접했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710593)
-#### [40조 달러짜리 의문: 왜 시장은 아직 걱정하지 않는가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710592)
-#### [[속보] 듀콘 인프라테크놀로지스, 인도 주요 알루미늄 제련소에 FCN 시스템 공급 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2710591)
