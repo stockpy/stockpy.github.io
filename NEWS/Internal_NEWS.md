@@ -1,7 +1,33 @@
-<head><meta charset="utf-8"><title>Vers : 20260818_1837 </title></head>
-<center>Vers : 20260818_1837 </center>
-<center>Vers : 20260819_0337 </center>
+<head><meta charset="utf-8"><title>Vers : 20260818_1914 </title></head>
+<center>Vers : 20260818_1914 </center>
+<center>Vers : 20260819_0414 </center>
 <br><br><br>
+#### [전쟁으로 인한 상승세가 주춤해지면서 CBOT 밀 가격이 하락했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712049)
+#### [[속보] 미국의 여러 독립 석유 생산업체들이 베네수엘라 국영 석유회사 PDVSA와 생산 계약을 체결할 것으로 예상된다 - 폴리티코 기자의 X 게시물](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712048)
+#### [COMMENT-US 요약: 안전자산 수요와 헤지 자금 유입에 힘입어 달러 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712047)
+#### [빌 게이츠가 지원하는 테라파워, 올해 두 번째 원전 건설 계획 발표 예정 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712046)
+#### [Hugging Face 해킹 사건 이후, OpenAI가 보안 강화를 위해 모델 훈련 속도를 늦췄다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712045)
+#### [채권 수익률 상승에 힘입어 기술주 매도세가 거세지며 월가 지수, 2주 만에 최저치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712044)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
+#### [프리뷰: 소비자 지출에 이목이 쏠리면서 타겟의 매출 증가 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712043)
+#### [라이베리아, 미국으로부터 제3국으로 추방되는 자 최대 1,200명을 수용하기로 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712042)
+#### [실수로 Dillard’s Capital Trust I에 태그가 지정된 알림 철회됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712041)
+#### [ICE 카놀라 선물, 조정 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712040)
+#### [중국, 미국산 대두 수입… 요르단, 밀 구매](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712039)
+#### [미국 대두 수확량에 대한 우려로 CBOT 대두 가격 소폭 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712038)
+#### [미국 FOB 현물 제분용 곡물 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712037)
+#### [미국이 법원 관계자들에게 제재를 가한 가운데, ICC는 직원들을 지지하고 나섰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712036)
+#### [볼리비아 의원들, 파스 대통령에게 타격이 되는 경제장관 해임을 강행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712035)
+#### [미국 증권거래위원회(SEC), 암호화폐 자산에 대한 새로운 규정 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712034)
+#### [[속보] ING, TMB타나차트 은행 지분 축소 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712033)
+#### [영화 업계 단체인 ‘시네마 유나이티드(Cinema United)’가 파라마운트와 캘리포니아주 법무장관에게 대화를 촉구했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712032)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PSKY.O/total>
+#### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712031)
+#### [아시아 모닝 콜 - 글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712030)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.SSEC>
+#### [볼리비아 의원들, 경제부 장관 해임을 강행하며 파스 대통령에게 타격 입혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712029)
+#### [프로 파머(Pro Farmer)의 작물 시찰이 진행되는 가운데, CBOT 옥수수 가격이 등락을 거듭하는 장세 속에서 하락세를 보였다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712028)
+#### [칩 설계업체 벨라우라 AI, 투자 유치 라운드에서 10억 달러 이상의 기업 가치를 인정받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712027)
 #### [오늘의 주요 관전 포인트 - 8월 19일 화요일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712026)
 #### [USD/JPY, 수익률 지지세가 약화되며 ‘클라우드’ 구간에서 횡보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712025)
 #### [프랑스 외무장관, “며칠 내로 이란 외교관 2명을 추방할 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712024)
@@ -41,27 +67,3 @@
 #### [[속보] ESPN, 창립자 빌 라스무센 씨 별세(향년 93세)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711992)
 #### [네덜란드 ‘알펜(Alfen)’, 스마트 그리드 솔루션 부문 호조에 힘입어 상반기 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711991)
 #### [서아프리카산 원유 - 시장 안정세 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711990)
-#### [샤키라, 콜롬비아 지진 피해 지역 방문해 학교 재건 지원 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711989)
-#### [샤키라, 콜롬비아 지진 피해 지역 방문해 학교 재건 지원 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711988)
-#### [미국, 베네수엘라 관련 제재 대상에 한 단체 지정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711987)
-#### [미 재무부 웹사이트에 따르면, 미국이 국제형사재판소(ICC) 소장을 제재한 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711986)
-#### [러시아의 푸틴, 미얀마 지도자 접견… 에너지 프로젝트 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711985)
-#### [바이브 코딩은 소프트웨어 기업들에 대한 은근한 위협이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711984)
-#### [세우타에서 노숙 생활을 하는 이주 여성들이 성희롱과 성폭행에 시달리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711983)
-#### [[속보] 알펜, 상반기 매출 2억 6,175만 유로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711982)
-#### [HIAG, 1억 스위스 프랑 규모의 세 번째 그린본드 발행으로 지속가능한 자금 조달 역량 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711981)
-#### [미국 항소법원, 일부 종교 시설 인근에서 트럼프 행정부의 이민 단속 조치 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711980)
-#### [트럼프 행정부, 수백만 에이커의 산림을 보호하는 규정을 철회하기 위한 조치에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711979)
-#### [악천후로 인해 폐쇄됐던 아르헨티나와 칠레 간의 주요 국경 검문소가 재개방됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711978)
-#### [휘발유 정제 마진 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711977)
-#### [[속보 1] 의료진 “쿠슈너와 네타냐후 회동 다음 날, 이스라엘이 가자에서 6명 사살”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711976)
-#### [WTI는 약세를 보인 반면, 포티스와 에코피스크는 더 낮은 가격에 호가가 나오고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711975)
-#### [러시아의 라브로프 외무장관은 영국이 우크라이나 전쟁의 당사자로 비춰질 위험이 있다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711974)
-#### [영국 데이터 기업 콴텍사(Quantexa), 영국 또는 미국 상장 검토 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711973)
-#### [채권 수익률이 수십 년 만에 최고 수준으로 치솟으면서 금 관련주 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711972)
-#### [제퍼슨 시큐리티 은행, 대출 수익률 상승에 힘입어 2분기 순이익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711971)
-#### [Soft 미국 경제 지표가 계속해서 달러 약세의 요인으로 작용하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711970)
-#### [볼리비아의 파즈, 아르헨티나의 밀레이의 고문이 한 분석가를 공격한 혐의로 체포됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711969)
-#### [[업데이트 1] 텍사스 증권거래소, 시장 점유율 확보를 위한 첫 번째 1차 상장 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711968)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TCBI.O/total>
-#### [유럽 증류유·디젤 정제 마진, 사상 최고치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711967)
