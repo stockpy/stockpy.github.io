@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260818_2222 </title></head>
-<center>Vers : 20260818_2222 </center>
-<center>Vers : 20260819_0722 </center>
+<head><meta charset="utf-8"><title>Vers : 20260818_2247 </title></head>
+<center>Vers : 20260818_2247 </center>
+<center>Vers : 20260819_0747 </center>
 <br><br><br>
+#### [미국, 8월 1일 기준 사육 중인 소 재고량이 2.4% 증가할 것으로 분석가들은 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712215)
+#### [[속보] 오픈AI, 6월 말 기준 3개월간 매출이 67억 달러로 증가했다고 밝혀 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712214)
+#### [워싱턴의 변호사 골드스타인이 조세 범죄 항소심 진행 중 구금 해제를 요청했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712213)
+#### [영국의 번햄, 지역 정부 허브인 ‘10번가 북부(No10 North)’가 재무부의 경제 성장 역할을 대신할 것이라고 밝혔다고 타임스가 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712212)
+#### [[업데이트 1] 소식통에 따르면, 미 법무부가 상원 현직 의원과 동명이인인 알래스카 주 후보에 대한 수사와 관련해 소환장을 발부했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712211)
+#### [마크 월터, 레이커스 지분을 담보로 아폴로 측에 대출 요청 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712210)
+#### [[속보] 마라톤 갤버스턴 베이 정유소, 설비 장애로 인한 배출 발생 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712209)
 #### [에어 뉴질랜드, 전 에어 인디아 CEO 캠벨 윌슨을 이사회 이사로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712208)
 #### [AI 붐 속에서 당국이 데이터센터 운영을 제한하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712207)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
@@ -68,13 +75,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BETR.O/total>
 #### [건강 소식: 연구 결과, 혈소판은 냉장 보관 시 며칠이 아닌 몇 주 동안 보관할 수 있는 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712157)
 #### [미국 FDA, 벡톤 디킨슨(Becton Dickinson) 편의형 키트의 고위험 문제에 대해 조기 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712156)
-#### [[속보] FT 베스트 토탈 리턴 인컴 펀드 시리즈 A4, A급 및 I급 주식 공모를 위한 S-1 등록 신고서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712155)
-#### [[속보] 라마코 리소시스(Ramaco Resources, Inc.), 인듐 코퍼레이션(Indium Corporation)과 구속력 없는 양해각서 체결 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712154)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/METC.O/total>
-#### [라이트, 2026년 주식 환매 프로그램 규모를 1억 달러 추가 확대한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712153)
-#### [Agenus - 자회사, 2026년 8월 12일 Ocean 1181과 두 번째 대출 조건 변경 계약 체결 - SEC 공시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712152)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AGEN.O/total>
-#### [AI 인프라 기업 화이트파이버, 전환사채 발행 계획 소식에 주가 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712151)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WYFI.O/total>
-#### [IDT Corp - 자회사, 2026년 8월 13일자 TD Bank와의 회전 신용 계약 수정안에 서명 - SEC 제출 문서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712150)
-#### [[속보] FT 베스트 토탈 리턴 인컴 펀드 시리즈 A3, A급 및 I급 주식 발행을 위해 SEC에 등록명세서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712149)

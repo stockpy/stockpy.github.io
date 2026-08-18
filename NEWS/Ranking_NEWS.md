@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260818_2222 </title></head>
-<center>Vers : 20260818_2222 </center>
-<center>Vers : 20260819_0722 </center>
+<head><meta charset="utf-8"><title>Vers : 20260818_2247 </title></head>
+<center>Vers : 20260818_2247 </center>
+<center>Vers : 20260819_0747 </center>
 <br><br><br>
 #### [“하닉 ADR -9.2%…오늘 삼전·닉스 불안하네” 뉴욕증시, 중동 긴장·미 국채금리 급등에 하락 마감](https://m.stock.naver.com/news/ranknews/view/021/0002812135)
 #### [“삼성전자 18만원에 3188주 샀다” 주주된 삼양식품…‘면비디아’가 사들인 종목들은?](https://m.stock.naver.com/news/ranknews/view/011/0004652699)
