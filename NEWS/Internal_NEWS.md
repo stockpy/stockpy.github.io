@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20260818_1630 </title></head>
-<center>Vers : 20260818_1630 </center>
-<center>Vers : 20260819_0130 </center>
+<head><meta charset="utf-8"><title>Vers : 20260818_1659 </title></head>
+<center>Vers : 20260818_1659 </center>
+<center>Vers : 20260819_0159 </center>
 <br><br><br>
+#### [채권 수익률이 수십 년 만에 최고 수준으로 치솟으면서 금 관련주 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711972)
+#### [제퍼슨 시큐리티 은행, 대출 수익률 상승에 힘입어 2분기 순이익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711971)
+#### [Soft 미국 경제 지표가 계속해서 달러 약세의 요인으로 작용하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711970)
+#### [볼리비아의 파즈, 아르헨티나의 밀레이의 고문이 한 분석가를 공격한 혐의로 체포됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711969)
+#### [[업데이트 1] 텍사스 증권거래소, 시장 점유율 확보를 위한 첫 번째 1차 상장 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711968)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TCBI.O/total>
+#### [유럽 증류유·디젤 정제 마진, 사상 최고치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711967)
+#### [대두, 옥수수 베이시스 대체로 보합세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711966)
+#### [[속보] EVS, 상반기 EBIT 1,560만 유로 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711965)
+#### [토마 브라보, 20억 달러 규모의 소포스 재융자에서 양보안 검토 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711964)
+#### [기술주 매도세 속에 유가와 금리가 상승하며 월가 지수, 2주 만에 최저치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711963)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTU.O/total>
+#### [소식통에 따르면, 영국의 데이터 기업 콴텍사(Quantexa)가 영국이나 미국에서 기업공개(IPO)를 검토하고 있다고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711962)
+#### [BP, 트라피구라와 비톨에 맞서 베네수엘라 석유 거래 시장에 진출 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711961)
+#### [[속보] 애플, 앱 스토어 외 디지털 거래에 대해 EU 기술 사용료 대신 5%의 핵심 기술 수수료를 부과하기로 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711960)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
+#### [[속보] 임페리얼 사니아 사업장, 플레어링 증가를 초래한 운영상 문제 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711959)
 #### [판사가 “기만 행위의 패턴”을 인정함에 따라 AIG, AIGFP 자금 조달 관련 판결에서 패소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711958)
 #### [채권 수익률이 수십 년 만에 최고 수준으로 치솟으면서 금값이 하락했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711957)
 #### [누빈, 비미국 주식 시장에서 성장 기회 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711956)
@@ -66,18 +83,3 @@
 #### [미국 6주 만기 국채 최고 금리 3.645%](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711915)
 #### [[속보] 울커, 2분기 순이익 전년 동기 대비 14억 리라 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711914)
 #### [팔레스타인계 미국인, 요르단강 서안 자택에서 미국 국기 게양](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711913)
-#### [미국 판사, 트럼프 행정부가 수천 명의 에티오피아인에 대한 추방 유예 조치를 종료하도록 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711912)
-#### [[속보] 그로버 주얼스, 사이버범죄 신고센터에 사기 사건 신고하고 피해 복구 조치 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711911)
-#### [[속보] 듀콘 인프라테크놀로지스, 알루미늄 제련소 강제 냉각 네트워크 시스템 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711910)
-#### [[속보] 코탁 마힌드라 은행, 10억 달러 규모의 유로 중기채 프로그램 하에 발행될 선순위 채권 조건 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711909)
-#### [[속보] 3I 인포테크, 경제범죄수사국이 자사가 엠듀라를 상대로 제기한 고발 건을 민사적 성격으로 판단했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711908)
-#### [[속보] Efor Yatirim, 주주 겸 회장이 Efor Capital Teknoloji에 그룹 B Efor 주식 1억 7,500만 주를 양도했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711907)
-#### [월스트리트저널(WSJ) 보도에 따르면, KKR이 UGI에 90억 달러 규모의 인수 제안을 했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711906)
-#### [아랍에미리트(UAE), 미사일 위협 탐지 후 “상황은 안전하다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711905)
-#### [노르웨이의 에퀴노르, 셰브론의 나미비아 탐사 라이선스 지분 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711904)
-#### [[속보] 울루소이 일렉트릭, 2분기 순이익 전년 동기 대비 3억 9,860만 리라 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711903)
-#### [노르웨이 캄비, 시기적 요인으로 2분기 매출 감소…수주 실적은 호조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711902)
-#### [7월 미국 주택시장 여전히 압박받아…공장 생산량 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711901)
-#### [미국 자동차 제조사들, 멕시코-캐나다 무역의 난관을 피하려 애쓰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711900)
-#### [[속보] 인실리코 메디신 케이맨 지주사, 투자 펀드 설립에 참여할 가능성 시사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2711899)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3696.HK/total>
