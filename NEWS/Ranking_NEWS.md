@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260818_0835 </title></head>
-<center>Vers : 20260818_0835 </center>
-<center>Vers : 20260818_1735 </center>
+<head><meta charset="utf-8"><title>Vers : 20260818_0906 </title></head>
+<center>Vers : 20260818_0906 </center>
+<center>Vers : 20260818_1806 </center>
 <br><br><br>
 #### ["5만전자 때 사들였다"…'삼성맨 아내' 이현이, 5배 잭팟 고백](https://m.stock.naver.com/news/ranknews/view/015/0005321887)
 #### ["5만원대에 삼전 매수"…'삼성맨 아내' 이현이, 추정 수익률만 무려](https://m.stock.naver.com/news/ranknews/view/215/0001262722)
