@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260818_1027 </title></head>
-<center>Vers : 20260818_1027 </center>
-<center>Vers : 20260818_1927 </center>
+<head><meta charset="utf-8"><title>Vers : 20260818_1056 </title></head>
+<center>Vers : 20260818_1056 </center>
+<center>Vers : 20260818_1956 </center>
 <br><br><br>
 #### [“삼성전자 18만원에 3188주 샀다” 주주된 삼양식품…‘면비디아’가 사들인 종목들은?](https://m.stock.naver.com/news/ranknews/view/011/0004652699)
 #### ["5만전자 때 사들였다"…'삼성맨 아내' 이현이, 5배 잭팟 고백](https://m.stock.naver.com/news/ranknews/view/015/0005321887)
