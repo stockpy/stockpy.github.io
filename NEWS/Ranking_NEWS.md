@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260818_0434 </title></head>
-<center>Vers : 20260818_0434 </center>
-<center>Vers : 20260818_1334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260818_0505 </title></head>
+<center>Vers : 20260818_0505 </center>
+<center>Vers : 20260818_1405 </center>
 <br><br><br>
 #### ["한달 월급이 2000만원"…이자이익에 천장 뚫은 은행권 연봉](https://m.stock.naver.com/news/ranknews/view/003/0014132369)
 #### [이은택 KB증권 이사 "AI 버블 붕괴 신호, '금리'서 찾아야"](https://m.stock.naver.com/news/ranknews/view/015/0005321890)
