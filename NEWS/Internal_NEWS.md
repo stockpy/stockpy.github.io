@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260818_2247 </title></head>
-<center>Vers : 20260818_2247 </center>
-<center>Vers : 20260819_0747 </center>
+<head><meta charset="utf-8"><title>Vers : 20260818_2308 </title></head>
+<center>Vers : 20260818_2308 </center>
+<center>Vers : 20260819_0808 </center>
 <br><br><br>
+#### [[속보] 인도 심비오텍 파마랩, IPO를 위해 주당 938~988 루피의 가격 범위를 설정 - 공시 자료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712221)
+#### [미국 현물 대두박 베이시스는 거래가 소강상태인 가운데 대체로 보합세를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712220)
+#### [[속보] 콜롬비아 그루포 수라(Grupo Sura) 산하 자회사, JP모건·BBVA와 2억 5천만 달러 규모 대출 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712219)
+#### [채권 수익률 상승에 따라 기술주 매도세가 이어지며 월가 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712218)
+#### [[속보] 승무원협회, 스피릿 항공의 데이터가 구글에 매각되는 것에 대해 이의를 제기했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712217)
+#### [미국 교통 규제 당국, 유니온 퍼시픽의 노퍽 인수 제안에 대한 재검토 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712216)
 #### [미국, 8월 1일 기준 사육 중인 소 재고량이 2.4% 증가할 것으로 분석가들은 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712215)
 #### [[속보] 오픈AI, 6월 말 기준 3개월간 매출이 67억 달러로 증가했다고 밝혀 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712214)
 #### [워싱턴의 변호사 골드스타인이 조세 범죄 항소심 진행 중 구금 해제를 요청했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712213)
@@ -68,10 +74,3 @@
 #### [중동 분쟁 우려 고조로 나스닥 하락, 금리 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712163)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.VIX>
 #### [‘더 인포메이션’ 보도에 따르면, 앤트로픽이 기업공개(IPO)를 앞두고 창업주들에게 슈퍼 투표권을 부여할 준비를 하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712162)
-#### [캐나다의 아티코 마이닝, 금 생산량 감소로 2분기 순손실 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712161)
-#### [미국 곡물 바지선 운임 현황 ? 8월 18일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712160)
-#### [WR 버클리가 E&S 사업부인 베루스와 벨라를 통합해 ‘버클리 메리디안’ 플랫폼을 출범시킬 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712159)
-#### [[속보] 베터 홈 앤 파이낸스 홀딩스, 전 CEO 비샬 가르그를 상대로 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712158)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BETR.O/total>
-#### [건강 소식: 연구 결과, 혈소판은 냉장 보관 시 며칠이 아닌 몇 주 동안 보관할 수 있는 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712157)
-#### [미국 FDA, 벡톤 디킨슨(Becton Dickinson) 편의형 키트의 고위험 문제에 대해 조기 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2712156)
