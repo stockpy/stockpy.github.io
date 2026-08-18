@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260818_2046 </title></head>
-<center>Vers : 20260818_2046 </center>
-<center>Vers : 20260819_0546 </center>
+<head><meta charset="utf-8"><title>Vers : 20260818_2108 </title></head>
+<center>Vers : 20260818_2108 </center>
+<center>Vers : 20260819_0608 </center>
 <br><br><br>
 #### [“백종원 믿었더니 대박났다” 단숨에 상한가…폭락하더니 이틀 연속 급등, 왜?](https://m.stock.naver.com/news/ranknews/view/011/0004652802)
 #### ["5만원대에 삼전 매수"…'삼성맨 아내' 이현이, 추정 수익률만 무려](https://m.stock.naver.com/news/ranknews/view/215/0001262722)
