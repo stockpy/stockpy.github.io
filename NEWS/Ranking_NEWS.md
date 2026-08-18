@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260818_1433 </title></head>
-<center>Vers : 20260818_1433 </center>
-<center>Vers : 20260818_2333 </center>
+<head><meta charset="utf-8"><title>Vers : 20260818_1504 </title></head>
+<center>Vers : 20260818_1504 </center>
+<center>Vers : 20260819_0004 </center>
 <br><br><br>
 #### [“삼성전자 18만원에 3188주 샀다” 주주된 삼양식품…‘면비디아’가 사들인 종목들은?](https://m.stock.naver.com/news/ranknews/view/011/0004652699)
 #### ["5만원대에 삼전 매수"…'삼성맨 아내' 이현이, 추정 수익률만 무려](https://m.stock.naver.com/news/ranknews/view/215/0001262722)
@@ -62,9 +62,9 @@
 #### [“5만전자에 매수”…역시 ‘삼성맨 아내’ 이현이, 5배 잭팟](https://m.stock.naver.com/news/ranknews/view/021/0002812076)
 #### [[단독] 개미 울 때 10조 번 증권가…"사회 기여" 착한 돈 쓰기 나선다](https://m.stock.naver.com/news/ranknews/view/008/0005401433)
 #### [고학력 신입부터 AI에 일자리 내줬다…다시 공시생 몰리는 노량진](https://m.stock.naver.com/news/ranknews/view/057/0001964294)
-<head><meta charset="utf-8"><title>Vers : 20260818_1433 </title></head>
-<center>Vers : 20260818_1433 </center>
-<center>Vers : 20260818_2333 </center>
+<head><meta charset="utf-8"><title>Vers : 20260818_1504 </title></head>
+<center>Vers : 20260818_1504 </center>
+<center>Vers : 20260819_0004 </center>
 <br><br><br>
 #### [[클릭 e종목]"베뉴지, 삼전닉스 주식만 최대 1조…시총보다 큰 자산가치"](https://m.stock.naver.com/news/ranknews/view/277/0005804192)
 #### ["삼성전자, '배당주' 인정되면…'美시총 1위' 애플 따라갈 수도"-하나](https://m.stock.naver.com/news/ranknews/view/015/0005321778)
