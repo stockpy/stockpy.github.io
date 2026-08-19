@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260819_1027 </title></head>
-<center>Vers : 20260819_1027 </center>
-<center>Vers : 20260819_1927 </center>
+<head><meta charset="utf-8"><title>Vers : 20260819_1056 </title></head>
+<center>Vers : 20260819_1056 </center>
+<center>Vers : 20260819_1956 </center>
 <br><br><br>
 #### [[단독] "부모님께 손 벌려 겨우 막았다"…2030 '4조 빚투' 대란](https://m.stock.naver.com/news/ranknews/view/015/0005322426)
 #### ['7월 폭락장' 공포에 떨던 개미들…뜻밖의 전망 나왔다](https://m.stock.naver.com/news/ranknews/view/015/0005322527)
@@ -62,9 +62,9 @@
 #### [원/달러 환율 1,300원대로…11개월 만에 최저(종합)](https://m.stock.naver.com/news/ranknews/view/001/0016259475)
 #### [美 국채 쇼크에 코스피 5.8% 급락... 140억弗 채권 투자한 개미들 비상](https://m.stock.naver.com/news/ranknews/view/014/0005563687)
 #### [개인 5조원 순매수에도 ‘삼전닉스’·코스피 털썩…6500선 무너져](https://m.stock.naver.com/news/ranknews/view/243/0000101876)
-<head><meta charset="utf-8"><title>Vers : 20260819_1027 </title></head>
-<center>Vers : 20260819_1027 </center>
-<center>Vers : 20260819_1927 </center>
+<head><meta charset="utf-8"><title>Vers : 20260819_1056 </title></head>
+<center>Vers : 20260819_1056 </center>
+<center>Vers : 20260819_1956 </center>
 <br><br><br>
 #### [美국채 금리 급등에 코스피 출렁…하이닉스 주주환원 효과 주목(종합)](https://m.stock.naver.com/news/ranknews/view/001/0016259592)
 #### ["증시 바닥 확인했지만…" 윤지호 평론가의 '전고점' 전망](https://m.stock.naver.com/news/ranknews/view/015/0005322402)
