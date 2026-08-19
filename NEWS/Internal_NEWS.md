@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260819_2249 </title></head>
-<center>Vers : 20260819_2249 </center>
-<center>Vers : 20260820_0749 </center>
+<head><meta charset="utf-8"><title>Vers : 20260819_2310 </title></head>
+<center>Vers : 20260819_2310 </center>
+<center>Vers : 20260820_0810 </center>
 <br><br><br>
+#### [미국산 현물 대두박의 CIF 및 FOB 가격이 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713860)
+#### [반코 두 브라질, 주주들에게 1억 9,700만 레알의 자기자본 이자 지급 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713859)
+#### [AIA 그룹의 상반기 신규 계약 가치 10% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713858)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1299.HK/total>
+#### [아르헨티나, 벨그라노 카르가스 철도 운영권 50년 계약 입찰 공고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713857)
+#### [장비 고장으로 브라질 최대 화력발전소 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713856)
+#### [이 mRNA 암 백신이 왜 새로운 치료의 희망을 불러일으키고 있는가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713855)
+#### [이 mRNA 암 백신이 왜 새로운 치료의 희망을 불러일으키고 있는가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713854)
+#### [이 mRNA 암 백신이 왜 새로운 치료의 희망을 불러일으키고 있는가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713853)
+#### [해리 왕자와 메건의 캘리포니아 생활 6년 동안의 주요 순간들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713852)
 #### [민주당, 케빈 워시 연준 의장에게 트럼프 대통령과의 통화 내용 공개 촉구 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713851)
 #### [미국 재무부가 채권 매입 규모 확대를 시사하자 NZD/USD 환율이 급등했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713850)
 #### [금리 상승세 완화로 월가 상승, 모더나 호조에 힘입어 헬스케어주 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713849)
@@ -60,13 +70,3 @@
 #### [빔 글로벌, 유럽 시장 성장과 비용 절감에 힘입어 2분기 매출 예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713803)
 #### [클리어사인 테크놀로지스, 버너 판매 증가로 2분기 매출 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713802)
 #### [브라질 부문 매출 호조에 힘입어 유니피 4분기 매출 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713801)
-#### [코티, 2027 회계연도를 EBITDA 감소가 예상되는 과도기로 전망…신임 CFO 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713800)
-#### [NACCO 인더스트리즈 산하 자회사, 8월 14일 노스다코타 광산에서 제107(A)조 명령 받음 - SEC 제출 서류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713799)
-#### [아이슬란드의 알보테크(Alvotech), 제조 프로그램으로 인해 상반기 매출 31% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713798)
-#### [트럼프, 미국인들은 채권 시장의 변동성을 걱정할 필요가 없다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713797)
-#### [미국 연방거래위원회(FTC), 맞춤형 가격 책정에 대한 정보 공개 의무화 검토 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713796)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CART.O/total>
-#### [미국 FOB 현금 밀피드 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713795)
-#### [[속보] 블랙록, 브라질 게르다우 지분을 우선주 기준 약 10%로 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713794)
-#### [[속보] 솔레센스(Solesence Inc), 2분기 매출총이익 474만 8천 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713793)
-#### [[속보] 산탄데르 브라질, 6억 300만 레알 규모의 현지 채권 발행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713792)
