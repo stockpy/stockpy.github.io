@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260819_1732 </title></head>
-<center>Vers : 20260819_1732 </center>
-<center>Vers : 20260820_0232 </center>
+<head><meta charset="utf-8"><title>Vers : 20260819_1834 </title></head>
+<center>Vers : 20260819_1834 </center>
+<center>Vers : 20260820_0334 </center>
 <br><br><br>
 #### [3만원이 17만원 됐다 '대박'…하루새 460% 폭등한 회사](https://m.stock.naver.com/news/ranknews/view/015/0005322512)
 #### ["SK하닉, 160층 뚫고 쭉쭉?"...역대급 주주환원, 주가 영향은](https://m.stock.naver.com/news/ranknews/view/008/0005402098)
