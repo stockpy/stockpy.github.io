@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260819_2223 </title></head>
-<center>Vers : 20260819_2223 </center>
-<center>Vers : 20260820_0723 </center>
+<head><meta charset="utf-8"><title>Vers : 20260819_2249 </title></head>
+<center>Vers : 20260819_2249 </center>
+<center>Vers : 20260820_0749 </center>
 <br><br><br>
 #### [“연 1.5%로 5억 빌려준다”…삼성맨들 ‘들썩’ 은행서 100% 추가대출도 가능?](https://m.stock.naver.com/news/ranknews/view/009/0005723168)
 #### ["한 주에 160만원은 부담"…40조 태운 SK하이닉스, 다음 카드는 '액면분할'? [증시는 왜]](https://m.stock.naver.com/news/ranknews/view/014/0005563799)

@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260819_2223 </title></head>
-<center>Vers : 20260819_2223 </center>
-<center>Vers : 20260820_0723 </center>
+<head><meta charset="utf-8"><title>Vers : 20260819_2249 </title></head>
+<center>Vers : 20260819_2249 </center>
+<center>Vers : 20260820_0749 </center>
 <br><br><br>
+#### [민주당, 케빈 워시 연준 의장에게 트럼프 대통령과의 통화 내용 공개 촉구 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713851)
+#### [미국 재무부가 채권 매입 규모 확대를 시사하자 NZD/USD 환율이 급등했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713850)
+#### [금리 상승세 완화로 월가 상승, 모더나 호조에 힘입어 헬스케어주 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713849)
+#### [독특한 비닐 슬리브가 ‘워 차일드(War Child)’의 ‘시크릿 7인치’ 자선 경매에 출품된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713848)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713847)
+#### [크루거 에너지 온타리오의 101MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713846)
+#### [우크라이나는 전쟁 중에도 선거를 치를 수 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713845)
+#### [홍콩 AIA 그룹, 신규 사업 성장에 힘입어 중간 순이익 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713844)
+#### [노스다코타주 석유 생산량, 6월 기준 5월 대비 하루 28,000 배럴 증가해 하루 1,153,000 배럴 기록 - 주 규제 당국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713843)
+#### [체리(Chery)의 로봇 사업부, 기업공개(IPO) 추진… 해외 경찰용 로봇 시장 공략 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713842)
+#### [AIA 그룹의 상반기 신규 계약 금액, 10% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713841)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1299.HK/total>
 #### [우크라이나 수도 키예프가 러시아의 탄도 미사일 공격을 받고 있다고 시장이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713840)
 #### [[속보] 카스텔리온, 저비용 초음속 무기 생산 확대를 위해 10억 달러 규모의 시리즈 C 투자 유치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713839)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CG.O/total>
@@ -58,16 +70,3 @@
 #### [[속보] 블랙록, 브라질 게르다우 지분을 우선주 기준 약 10%로 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713794)
 #### [[속보] 솔레센스(Solesence Inc), 2분기 매출총이익 474만 8천 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713793)
 #### [[속보] 산탄데르 브라질, 6억 300만 레알 규모의 현지 채권 발행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713792)
-#### [칼라일, 미사일 스타트업 카스텔리온의 10억 달러 투자 라운드에 참여 - WSJ](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713791)
-#### [EEI에 따르면, 미국의 주간 전력 생산량이 전년 동기 대비 2.4% 증가했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713790)
-#### [[속보] 코른 페리, 8월 18일 수정 및 재작성된 신용 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713789)
-#### [Wolfspeed Inc, 6월 30일 마감 분기 실적 발표 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713788)
-#### [[업데이트 1] 미국 항소법원, 집단소송 참가자들의 반대에도 불구하고 대규모 부동산 합의안 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713787)
-#### [[속보] 아레스 매니지먼트, 2026년 8월 만기 보통주 3,230만 주를 약 8억 달러에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713786)
-#### [베센트가 두각을 나타내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713785)
-#### [코티, 분기 매출 전망치 상회…전 BAT 재무 책임자를 CFO로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713784)
-#### [[속보] PDS 바이오테크놀로지, 라스 보스가드 최고재무책임자(CFO)가 9월 12일부로 사임한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713783)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PDSB.O/total>
-#### [분석-모더나와 머크의 획기적인 성과, 암 백신 붐을 불러올 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713782)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRNA.O/total>
-#### [[속보] 브라질의 페트로레콘카보, 가스 처리 시설에 대한 6,000만 달러 투자 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713781)
