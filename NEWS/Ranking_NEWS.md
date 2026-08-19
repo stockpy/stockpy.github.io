@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260819_1433 </title></head>
-<center>Vers : 20260819_1433 </center>
-<center>Vers : 20260819_2333 </center>
+<head><meta charset="utf-8"><title>Vers : 20260819_1504 </title></head>
+<center>Vers : 20260819_1504 </center>
+<center>Vers : 20260820_0004 </center>
 <br><br><br>
 #### [“연 1.5%로 5억 빌려준다”…삼성맨들 ‘들썩’ 은행서 100% 추가대출도 가능?](https://m.stock.naver.com/news/ranknews/view/009/0005723168)
 #### ["SK하닉, 160층 뚫고 쭉쭉?"...역대급 주주환원, 주가 영향은](https://m.stock.naver.com/news/ranknews/view/008/0005402098)
@@ -62,9 +62,9 @@
 #### ["또 떨어진다" vs "더 오른다"…개인·기관의 엇갈린 베팅](https://m.stock.naver.com/news/ranknews/view/088/0001024138)
 #### [3만원이 17만원 됐다 '대박'…하루새 460% 폭등한 회사](https://m.stock.naver.com/news/ranknews/view/015/0005322512)
 #### [[단독]"청년·중저신용자 대출은 충분히 공급"...금융당국, 지침 전달](https://m.stock.naver.com/news/ranknews/view/008/0005402060)
-<head><meta charset="utf-8"><title>Vers : 20260819_1433 </title></head>
-<center>Vers : 20260819_1433 </center>
-<center>Vers : 20260819_2333 </center>
+<head><meta charset="utf-8"><title>Vers : 20260819_1504 </title></head>
+<center>Vers : 20260819_1504 </center>
+<center>Vers : 20260820_0004 </center>
 <br><br><br>
 #### [주주단체 "삼성·SK하이닉스 성과급 협약 무효"…270조 원 주주환원 요구](https://m.stock.naver.com/news/ranknews/view/421/0009120738)
 #### [뉴턴도 물렸습니다…100년전 투자 바이블이 알려준 ‘개미의 마음가짐’](https://m.stock.naver.com/news/ranknews/view/009/0005723172)
