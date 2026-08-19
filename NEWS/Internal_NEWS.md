@@ -1,7 +1,41 @@
-<head><meta charset="utf-8"><title>Vers : 20260819_2026 </title></head>
-<center>Vers : 20260819_2026 </center>
-<center>Vers : 20260820_0526 </center>
+<head><meta charset="utf-8"><title>Vers : 20260819_2054 </title></head>
+<center>Vers : 20260819_2054 </center>
+<center>Vers : 20260820_0554 </center>
 <br><br><br>
+#### [금리 상승세 주춤하며 월가 상승, 모더나 호조에 헬스케어주 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713775)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRNA.O/total>
+#### [헤지포인트(Hedgepoint)에 따르면, 2026/27년 글로벌 코코아 시장 공급 과잉 규모가 11만 1,000톤으로 줄어들 것으로 전망된다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713774)
+#### [[속보] 브라질 마르코폴로, 최대 4,900만 주 규모의 자사주 매입 프로그램 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713773)
+#### [[속보] 블루 올 캐피털, 8월 3일 보통주 약 150만 주를 1,650만 달러에 매각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713772)
+#### [에데사 바이오테크, 주식 발행 계획 소식에 주가 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713771)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EDSA.O/total>
+#### [밴드 ‘데몬 헌터(Demon Hunter)’, ‘KPop Demon Hunters’를 두고 넷플릭스를 상대로 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713770)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
+#### [‘Inside Debt’ - 8월 19일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713769)
+#### [[속보] 프론트뷰 리트(FrontView REIT), 8월 19일 개정 및 재작성된 배당 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713765)
+#### [텍사스 프리포트 LNG 액화 플랜트, 3호 생산라인 가동 중단 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713764)
+#### [[속보] 알보텍, 상반기 제품 매출 2억 1,190만 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713763)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ALVO.O/total>
+#### [트럼프의 대통령 당선을 예측했던 ‘심슨 가족’ 작가, 직접 대선 출마 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713768)
+#### [[속보] 루프 인더스트리즈, 8월 13일 엘리트 및 에스터와 라이선스 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713767)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LOOP.O/total>
+#### [[속보 1] 트럼프·바이든 행정부 기간 동안 미국 부채가 두 배로 늘어나며 40조 달러 선을 돌파했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713766)
+#### [[속보] 콘스텔레이션 브랜즈, 미국 농민 지원 위해 향후 5년간 1억 달러 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713762)
+#### [[속보] 세라 프로그노스틱스, 스콧 글리슨을 최고재무책임자(CFO)로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713761)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SERA.O/total>
+#### [코티, 분기 매출 예상치를 상회…사업 구조 조정으로 2027 회계연도를 ‘과도기’로 규정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713760)
+#### [[속보] 노드슨, 3분기 매출 8억 1,766만 7천 달러…IBES 예상치 7억 8,010만 달러 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713759)
+#### [[속보] 코티(Coty) 4분기 조정 주당순이익(EPS) -0.02달러… IBES 예상치 -0.01달러](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713758)
+#### [코티, 전 BAT 재무 책임자 벤치크(Benchikh)를 CFO로 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713757)
+#### [TSX, 원자재 부문이 6년 만에 최대 상승폭을 기록하며 하락세 끊어내](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713756)
+#### [[속보] 코티, 소라야 벤치크 신임 최고재무책임자(CFO)로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713755)
+#### [[속보] QNB Corp, 보통주 공모 및 나스닥 상장(티커 심볼: QNBC) 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713754)
+#### [천연가스 파이프라인 긴급 공지: 2026년 8월 20일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713753)
+#### [연구 결과, 인공지능(AI) 기업들은 아직 자사가 개발한 기술을 통제하지 못하고 있는 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713752)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [북미, 8월 20일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713751)
+#### [[속보] 아르헨티나, 테크페트롤(Tecpetrol)의 바카 무에르타(Vaca Muerta) 석유 프로젝트에 대한 RIGI의 64억 달러 투자 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713750)
+#### [미국 부채, 트럼프·바이든 행정부 기간 동안 두 배로 늘어난 뒤 40조 달러 선 돌파](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713749)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713748)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713747)
 #### [[속보] 유니파이(Unifi), 4분기 매출 1억 4,422만 4천 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713746)
@@ -44,35 +78,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BVSP>
 #### [인도의 LIC, HDFC 은행 지분을 9.99%까지 늘리는 데 중앙은행의 승인을 받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713717)
 #### [트럼프는 캐나다와 무역에 관한 합의를 이뤘다고 생각한다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713716)
-#### [8월 19일 기준 앨버타주 카놀라 일일 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713715)
-#### [[속보] 스콜피온 캐피털, 트위스트 바이오사이언스 공매도 중이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713714)
-#### [[속보] 앰플리튜드 테라퓨틱스와 릴리, 감염병 치료용 트랜스-앰플리피케이션 RNA 백신 개발을 위한 협력 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713713)
-#### [현재 우크라이나의 드론 챔피언이 누구에게 도전장을 내밀고 있을까? 젤렌스키?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713712)
-#### [[업데이트 1] 인도, 사상 최고치인 설탕 가격 안정화를 위해 재고 한도 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713711)
-#### [소식통에 따르면, 미국과 캐나다는 자동차 최고 관세를 15%로 인하하고 철강 및 알루미늄 관세를 절반으로 줄이기로 합의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713710)
-#### [[단독] 소식통에 따르면, 모사드 국장과 시리아 외무장관이 공습 전 터키군의 병력 배치에 대해 논의했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713709)
-#### [트럼프, 다음 주 인공지능 분야 주요 인사들과 만날 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713708)
-#### [수요 부진 우려로 생우 선물 가격 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713707)
-#### [엘니뇨 위협으로 해운 업계에 대한 우려가 다시 고조되면서 브라질 항만 터미널들이 타파조스 강의 준설을 촉구하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713706)
-#### [미국 동부 표준시 기준 오후 3시 30분경 S&P 500 지수 내 상승률 및 하락률 상위 종목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713705)
-#### [[속보] OVBC, 최대 500만 달러 규모의 보통주 자사주 매입 프로그램 연장 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713704)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OVBC.O/total>
-#### [[속보] 노르테라, B&G 푸드 인수 거래와 관련해 캐나다 경쟁국의 입장을 검토 중이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713703)
-#### [[속보] 오하이오 밸리 뱅크 코퍼레이션, 자사주 매입 프로그램 기간을 2027년 8월 31일까지 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713702)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/OVBC.O/total>
-#### [더운 날씨와 강세를 보이는 유가 영향으로 미국 천연가스 선물 가격이 4주 만에 최고치에 근접했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713701)
-#### [[속보] 위스콘신 일렉트릭 파워, 2036년 6월 만기, 이자율 5.10%, 액면가 3억 달러의 사채 발행에 대한 가격 조건서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713700)
-#### [[속보] 오로라 캐나비스, 인터노드 파마 및 HAP 파마 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713699)
-#### [수출 수요와 대두 가격 강세에 힘입어 ICE 카놀라 선물 가격이 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713698)
-#### [미 재무부 유동성 지원 조치에 따라 미국 국채 수익률 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713697)
-#### [우버, 유럽 최초로 자그레브에서 자율주행 차량 서비스 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713696)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PONY.O/total>
-#### [체리(Chery)의 로봇 사업부, 기업공개(IPO) 추진…경찰용 로봇 해외 시장 공략](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713695)
-#### [트럼프는 금리가 내려가기를 정말로 바란다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713694)
-#### [케멍 파이낸셜 코퍼레이션, 주당 분기 배당금을 0.36달러로 인상한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713693)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CHMG.O/total>
-#### [[속보] 우버, 베른(Verne) 및 포니.AI와 손잡고 자그레브를 통해 유럽에서 자율주행 차량 서비스 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713692)
-#### [[속보] 리제네론, FDA가 진행성 골화성 섬유이형성증 성인 환자 대상 파사트루(가레토스마브-Grts) 승인했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713691)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/REGN.O/total>
-#### [[속보] 이퀴팩스 이사회, 주당 0.56달러의 분기 배당금 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713690)
-#### [[속보] 스텝스톤 프라이빗 크레딧 펀드, 2026년 7월 31일 기준 주당 순자산가치(NAV)가 26.02달러였다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713689)
