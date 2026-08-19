@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260819_0836 </title></head>
-<center>Vers : 20260819_0836 </center>
-<center>Vers : 20260819_1736 </center>
+<head><meta charset="utf-8"><title>Vers : 20260819_0914 </title></head>
+<center>Vers : 20260819_0914 </center>
+<center>Vers : 20260819_1814 </center>
 <br><br><br>
 #### [SK하이닉스, 사상 최대 ‘40조 자사주 소각’…주주환원 승부수 띄웠다](https://m.stock.naver.com/news/ranknews/view/666/0000119744)
 #### [[단독] "부모님께 손 벌려 겨우 막았다"…2030 '4조 빚투' 대란](https://m.stock.naver.com/news/ranknews/view/015/0005322426)
