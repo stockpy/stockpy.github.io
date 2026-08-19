@@ -1,7 +1,30 @@
-<head><meta charset="utf-8"><title>Vers : 20260819_1834 </title></head>
-<center>Vers : 20260819_1834 </center>
-<center>Vers : 20260820_0334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260819_1904 </title></head>
+<center>Vers : 20260819_1904 </center>
+<center>Vers : 20260820_0404 </center>
 <br><br><br>
+#### [프리넷, 와이푸.TV 소수 주주 인수 합의 임박? - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713673)
+#### [[속보] 그린 미네랄스, 스테일 몬스타드 이사가 이사회에서 물러나지만 CEO직은 유지한다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713672)
+#### [미국 평원 지대의 HRW 밀 베이시스는 농가 매도 물량이 제한적이어서 보합세에서 상승세를 보임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713671)
+#### [흑해 지역 수출 차질로 CBOT 밀 가격 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713670)
+#### [CBOT 대두, 미국 금리 상승 우려와 견조한 수요에 힘입어 상승세 이어가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713669)
+#### [COMMENT-US 요약: 재무부의 유동성 조정 이후 달러화 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713668)
+#### [암호화폐 기업 OKX, 홍콩에서 ‘클로드’ 사용 금지 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713667)
+#### [미시간주, 희귀 모기 매개 감염증의 인간 감염 사례 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713666)
+#### [금리 상승세 완화로 월가 상승, 모더나가 헬스케어주 견인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713665)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRNA.O/total>
+#### [[업데이트 1] SLB와 포르멘테라, 베네수엘라에서 시추 설비 가동 준비 중… 경영진 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713664)
+#### [인도, 설탕 유통업자의 15일 초과 재고 보유 금지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713663)
+#### [헝가리 원전, 수위가 충분히 높은 수준을 유지할 것으로 예상돼 가동 중단 위기 모면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713662)
+#### [[속보] 반도체 기업 프랙타일, 앤트로픽 인수 후 기업 가치 65억 달러 목표 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713661)
+#### [헤지포인트, “2027/28년 브라질 중남부 지역 사탕수수 가공량 및 설탕 생산량 증가할 전망”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713660)
+#### [[업데이트 1] 회의록에 따르면, 7월 회의에서 연방준비제도(Fed) 정책입안자들의 인플레이션에 대한 우려가 커졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713659)
+#### [오늘 하루 주목할 점 - 8월 20일 목요일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713658)
+#### [[업데이트 1] 칠레 광산 기업 SQM, 실적 호조와 리튬 전망 상향 조정 소식에 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713657)
+#### [비숍 스트리트, 신규 프로그램 ‘제이드’와 ‘온훅’을 시장에 출시하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713656)
+#### [NASA와 카탈리스트, 우주에서 구조선 문제로 SWIFT 구조 임무 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713655)
+#### [예고: 월마트, 목요일 발표될 실적에서 매출과 주당순이익(EPS) 증가 기록할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713654)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
+#### [[속보 1] 라이베리아 정부, 전 부통령이 국제 마약 조직 수사 과정에서 기소됐다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713653)
 #### [EU는 향후 몇 주 동안 전력 공급 상황이 빠듯해질 것으로 예상하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713652)
 #### [속보-미 재무부 조치로 매도세가 촉발된 후 USD/JPY, 안정세 회복](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713651)
 #### [노르웨이의 Gassco는 8월 19일 18시 16분부터 8월 20일 04시 00분까지 아스가르드 가스전에서 하루 5.7 mcm 규모의 가동 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713650)
@@ -16,7 +39,7 @@
 #### [프랑스, 국제형사재판소에 대한 미국의 제재를 규탄하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713642)
 #### [라이베리아 정부, 전 부통령이 국제 마약 수사 관련 혐의로 기소됐다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713641)
 #### [미국 철강사 주가, 미국이 캐나다산 금속 관세를 인하할 것이라는 보도에 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713640)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CENX.O/total>
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/STLD.O/total>
 #### [FHR 텍사스주 코퍼스 크리스티 소재 웨스트 정유소, 배관 구멍으로 인한 배출 발생 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713639)
 #### [AUD/USD-미국 국채, 전날 밤의 손실 만회하는 데 일조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713638)
 #### [EUR/USD-미국 달러 강세 세력이 큰 타격을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713637)
@@ -49,25 +72,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRNA.O/total>
 #### [에시티, 브라질 켄뷰의 여성 위생용품 사업부를 2억 8,400만 달러에 인수하기로 했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713614)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713613)
-#### [[업데이트 1] 20년 만기 국채 수익률, 입찰 후 하락세 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713612)
-#### [AI 수요 증가에 따라 미국 CFTC, 컴퓨팅 파생상품에 대한 의견 수렴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713615)
-#### [결제 기업 스트라이프(Stripe), AI 개발자 플랫폼 오픈라우터(OpenRouter) 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713611)
-#### [[속보] Qiiwi Games, ‘워딩턴 솔리테어’를 위해 Plan A Games와 전략적 성장 파트너십 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713610)
-#### [분석-ABC, 트럼프 행정부 산하 연방통신위원회(FCC)의 압박으로 프로그램 편성 변경을 강요당했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713609)
-#### [잭 헨리, 분기 순이익과 매출이 시장 예상치를 상회하며 주가 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713608)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/JKHY.O/total>
-#### [[속보] 스트라이프의 오픈라우터 인수 규모는 80억 달러 이상이며, 대부분 주식으로 지급됐다 - 액시오스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713607)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713606)
-#### [CPPIB, 고위직에서 여러 명이 퇴사한 것으로 전해져 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713605)
-#### [골드만삭스, 코어위브와 연계된 데이터센터 채권에 대해 투자자 반응 살피고 있다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713602)
-#### [[속보] HDFC 은행, 인도중앙은행(RBI)이 LIC의 HDFC 은행 지분 최대 9.99% 매입을 승인했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713604)
-#### [대두, 옥수수 베이시스 호가는 보합세에서 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713603)
-#### [포멘테라, 베네수엘라에 시추선 투입을 위한 협의 중… 관계자 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713601)
-#### [ICE 거래소에 따르면, 엘니뇨에 대한 우려로 설탕 선물 미결제 약정 잔고가 사상 최고치를 기록했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713600)
-#### [스트라이프, AI 기업 오픈라우터 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713599)
-#### [칠레 북부에서는 폭우가 쏟아지는 가운데에도 채굴 작업이 계속되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713598)
-#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas의 최신 파이프라인 현황 (2026년 8월 19일)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713597)
-#### [뉴욕 연방준비은행, 리버스 레포 시설 관련 자료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713596)
-#### [시장 소강 상태, 선적 일정 발표를 기다리는 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713595)
-#### [트럼프, 캐나다와 “매우 공정한” 무역 협정 타결…최종 확정 필요](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713594)
-#### [트럼프, 캐나다와 “매우 공정한” 무역 협정 타결…최종 확정 필요](https://m.stock.naver.com/news/worldnews/view/fnGuide/2713593)
