@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260820_2226 </title></head>
-<center>Vers : 20260820_2226 </center>
-<center>Vers : 20260821_0726 </center>
+<head><meta charset="utf-8"><title>Vers : 20260820_2256 </title></head>
+<center>Vers : 20260820_2256 </center>
+<center>Vers : 20260821_0756 </center>
 <br><br><br>
+#### [1 서류 제출 후 기업공개(IPO) 준비에 박차](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715508)
+#### [[속보] 애트리움 테라퓨틱스, 나스닥 상장 규정에 따른 인센티브 부여 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715507)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RNA.O/total>
+#### [에리스, 채무 집행 조치에 대해 최대 60일간의 유예를 요청하는 법원 신청서를 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715506)
+#### [[속보] 메타넥스, 천연가스올린 재융자 현황 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715505)
+#### [[속보] 트레데가, 아나 두트라의 이사회 선임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715504)
+#### [알파 컴퓨트(Alpha Compute)의 CEO 브리타니 카이저(Brittany Kaiser), 오늘 저녁 동부 표준시 오후 6시 방송되는 ‘When You Know, You Know’에 마이클 코헨과 함께 출연 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715503)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ALP.O/total>
+#### [[속보] GQG 파트너스, 상반기 순이익 2억 2,840만 달러 기록.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715502)
 #### [채권 수익률 상승으로 월가 주가 하락, 월마트 실적 부진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715501)
 #### [기술적 매매 흐름 속에 생우 선물은 상승, 비육용 송아지 선물은 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715500)
 #### [로스 스토어, 연간 이익 전망 상향 조정 소식에 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715499)
@@ -63,10 +72,3 @@
 #### [[속보] 버투스 인베스트먼트 파트너스, 이사 선임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715451)
 #### [[속보] 뉴몬트, 피터 비븐을 이사회 이사로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715450)
 #### [[속보] 애버크롬비 앤 피치, 메리 폭스 이사회 이사 선임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715449)
-#### [마리아나, 브라질 내 18개 도시가 발레-BHP 댐 붕괴 보상 합의에 추가로 합류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715448)
-#### [캐나다의 바이오사이언트, 오랄 헬스 인수에 힘입어 2분기 매출 95% 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715447)
-#### [[속보] AEVEX, 단방향 공격 시스템 공급 계약 4,100만 달러 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715446)
-#### [앳코 파워 앨버타의 155MW 배틀 리버 4호 석탄 화력발전소 가동 개시 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715445)
-#### [[속보] 인도의 아톰버그 테크놀로지스, 기업공개(IPO) 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715444)
-#### [제임스 하디, 9억 8,100만 달러 규모로 페르마셀을 홀심에 매각하기로 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715442)
-#### [미국 평원 지역 HRW 밀 베이시스, 매도세 증가 속에 보합세에서 소폭 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715443)

@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260820_2226 </title></head>
-<center>Vers : 20260820_2226 </center>
-<center>Vers : 20260821_0726 </center>
+<head><meta charset="utf-8"><title>Vers : 20260820_2256 </title></head>
+<center>Vers : 20260820_2256 </center>
+<center>Vers : 20260821_0756 </center>
 <br><br><br>
 #### [“내게도 이런 날이”…삼전닉스 폭등에 레버리지 개미들 936억 던졌다](https://m.stock.naver.com/news/ranknews/view/011/0004653666)
 #### [“이때다, 뒤도 안돌아본다”…삼전닉스 레버리지 거래대금 이틀만에 1조 넘어](https://m.stock.naver.com/news/ranknews/view/009/0005723605)
