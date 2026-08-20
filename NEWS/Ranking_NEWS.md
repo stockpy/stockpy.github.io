@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260820_1029 </title></head>
-<center>Vers : 20260820_1029 </center>
-<center>Vers : 20260820_1929 </center>
+<head><meta charset="utf-8"><title>Vers : 20260820_1059 </title></head>
+<center>Vers : 20260820_1059 </center>
+<center>Vers : 20260820_1959 </center>
 <br><br><br>
 #### [[단독] 국민연금 “누가 AI거품론을 말했는가”…오픈AI·앤트로픽 IPO 참여](https://m.stock.naver.com/news/ranknews/view/009/0005723687)
 #### [“미장했는데 1300원대 환율이 웬말” 속타는 서학개미 달러 더 사는 까닭은 [머니뭐니]](https://m.stock.naver.com/news/ranknews/view/016/0002686360)
