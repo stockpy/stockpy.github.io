@@ -1,5 +1,5 @@
-<center>Vers : 20260820_0437 </center>
-<center>Vers : 20260820_1337 </center>
+<center>Vers : 20260820_0501 </center>
+<center>Vers : 20260820_1401 </center>
 <br>
 <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -29,7 +29,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>0</th>
       <td>TIGER 코스닥150</td>
       <td>0%</td>
-      <td>14895</td>
+      <td>14860</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -38,7 +38,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>1</th>
       <td>TIGER 반도체TOP10</td>
       <td>0%</td>
-      <td>36160</td>
+      <td>35975</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -47,7 +47,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>2</th>
       <td>TIGER 미국필라델피아반도체나스닥</td>
       <td>0%</td>
-      <td>43115</td>
+      <td>43125</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -56,7 +56,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>3</th>
       <td>TIGER 골드선물(H)</td>
       <td>0%</td>
-      <td>26480</td>
+      <td>26460</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -74,7 +74,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>5</th>
       <td>KODEX 미국배당다우존스</td>
       <td>15%</td>
-      <td>13305</td>
+      <td>13310</td>
       <td>6</td>
       <td>12.0%</td>
       <td>52</td>
@@ -92,7 +92,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>7</th>
       <td>KODEX 미국30년국채액티브(H)</td>
       <td>10%</td>
-      <td>8310</td>
+      <td>8315</td>
       <td>7</td>
       <td>7.0%</td>
       <td>83</td>
@@ -119,7 +119,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>10</th>
       <td>KODEX 200TR</td>
       <td>0%</td>
-      <td>39305</td>
+      <td>39160</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -128,7 +128,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>11</th>
       <td>ACE 테슬라밸류체인액티브</td>
       <td>0%</td>
-      <td>18695</td>
+      <td>18645</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
