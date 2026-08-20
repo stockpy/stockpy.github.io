@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260820_1435 </title></head>
-<center>Vers : 20260820_1435 </center>
-<center>Vers : 20260820_2335 </center>
+<head><meta charset="utf-8"><title>Vers : 20260820_1508 </title></head>
+<center>Vers : 20260820_1508 </center>
+<center>Vers : 20260821_0008 </center>
 <br><br><br>
 #### [“이때다, 뒤도 안돌아본다”…삼전닉스 레버리지 거래대금 이틀만에 1조 넘어](https://m.stock.naver.com/news/ranknews/view/009/0005723605)
 #### [“본전 찾게 한번만 기회를” 7500선에 물린 개미 물량만 수십조원, 어쩌나 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002686409)
@@ -62,9 +62,9 @@
 #### ["공매도 1위였는데 하루 만에 주가 3배"&#8943;'암 백신' 성공에 177% 폭등한 '이 회사'](https://m.stock.naver.com/news/ranknews/view/031/0001050960)
 #### [1400원 밑으로 내려온 환율..."1350원까지 더 떨어진다"](https://m.stock.naver.com/news/ranknews/view/014/0005563845)
 #### [[마켓인]회사채 시장 온기 돌았는데…연말엔 다시 찬바람?](https://m.stock.naver.com/news/ranknews/view/018/0006355254)
-<head><meta charset="utf-8"><title>Vers : 20260820_1435 </title></head>
-<center>Vers : 20260820_1435 </center>
-<center>Vers : 20260820_2335 </center>
+<head><meta charset="utf-8"><title>Vers : 20260820_1508 </title></head>
+<center>Vers : 20260820_1508 </center>
+<center>Vers : 20260821_0008 </center>
 <br><br><br>
 #### [[美특징주]월마트, 호실적·가이던스 상향에도 개장전↓…제품 가격인하 계획에 '우려'](https://m.stock.naver.com/news/ranknews/view/018/0006355260)
 #### [NH농협은행, 최고 7.5% 원금보장형 지수연동예금 출시](https://m.stock.naver.com/news/ranknews/view/003/0014137487)
