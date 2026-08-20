@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260820_0837 </title></head>
-<center>Vers : 20260820_0837 </center>
-<center>Vers : 20260820_1737 </center>
+<head><meta charset="utf-8"><title>Vers : 20260820_0915 </title></head>
+<center>Vers : 20260820_0915 </center>
+<center>Vers : 20260820_1815 </center>
 <br><br><br>
 #### ["하루 새 19만원 넘게 뛰었다"…'훈풍' 확산 반도체 함박웃음](https://m.stock.naver.com/news/ranknews/view/215/0001263017)
 #### ["삼전닉스 흔들리면 끝장"…'롤러코스피'에 뼈 때리는 경고](https://m.stock.naver.com/news/ranknews/view/015/0005322795)
