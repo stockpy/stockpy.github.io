@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260820_0436 </title></head>
-<center>Vers : 20260820_0436 </center>
-<center>Vers : 20260820_1336 </center>
+<head><meta charset="utf-8"><title>Vers : 20260820_0507 </title></head>
+<center>Vers : 20260820_0507 </center>
+<center>Vers : 20260820_1407 </center>
 <br><br><br>
 #### [“지방 가면 퇴사하겠습니까” 내부 설문까지…술렁이는 금융기관](https://m.stock.naver.com/news/ranknews/view/016/0002685930)
 #### [초고수, 13% 뛴 SK하이닉스 더 샀다…삼성전자도 순매수 [주식초고수는 지금]](https://m.stock.naver.com/news/ranknews/view/011/0004653421)
