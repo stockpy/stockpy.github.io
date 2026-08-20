@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260820_2256 </title></head>
-<center>Vers : 20260820_2256 </center>
-<center>Vers : 20260821_0756 </center>
+<head><meta charset="utf-8"><title>Vers : 20260820_2326 </title></head>
+<center>Vers : 20260820_2326 </center>
+<center>Vers : 20260821_0826 </center>
 <br><br><br>
+#### [트랜살타 온타리오의 200 MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715521)
+#### [NZD/USD, 고점에서 하락했으나 상승세를 이어갈 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715520)
+#### [리비아, 전력 부족으로 철강 업체 생산 중단…TV 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715519)
+#### [악시아, 에너지 대출 소송 관련 부채 11억 레알 상각 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715518)
+#### [BUZZ-재방송-유로/달러 조정, 약세 달러, 달러/엔 하락 압력](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715517)
+#### [GfK, 영국 소비자 신뢰지수가 2년 만에 최고치를 기록했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715516)
+#### [[속보] 애브넷, 분기 배당금 5.7% 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715515)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AVT.O/total>
+#### [단독-소식통에 따르면 피델리티 인터내셔널이 자사가 100% 지분을 보유한 중국 펀드 자회사에서 철수할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715514)
+#### [중국과 인도네시아 장관들이 금요일 만나 안보 및 경제 현안을 논의할 예정이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715513)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300750.SZ/total>
+#### [AI, 고객들이 ‘더 적은 비용으로 더 많은 것’을 요구함에 따라 인도 IT 서비스 업계의 계약 형태를 재편하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715512)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CTSH.O/total>
+#### [[속보] 인도의 노벨 하이진, 기업공개(IPO) 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715511)
+#### [AI 기밀 유출 혐의로 유죄 판결을 받았던 전 구글 엔지니어의 판결이 일부 뒤집혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715510)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMZN.O/total>
+#### [[속보] 에어로바이런먼트(Aerovironment, Inc.), ‘Av Eagle’ 합작 투자를 통해 그리스에 사업 거점 구축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715509)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AVAV.O/total>
 #### [1 서류 제출 후 기업공개(IPO) 준비에 박차](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715508)
 #### [[속보] 애트리움 테라퓨틱스, 나스닥 상장 규정에 따른 인센티브 부여 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715507)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/RNA.O/total>
@@ -59,16 +77,3 @@
 #### [파나마 운하, 심각한 엘니뇨 현상 예상에 따라 일일 통행량 제한 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715463)
 #### [[속보] 라이브퍼슨, 합병안 승인에 필요한 표수 미달이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715462)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LPSN.O/total>
-#### [[속보] 제임스 하디, 유럽 사업부의 전략적 매각 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715461)
-#### [텍사스주 채널뷰에 위치한 라이온델바셀(LyondellBasell) 단지에서 발생한 소규모 화재에 내부 비상 대응팀이 출동했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715460)
-#### [[속보] 에너지 볼트(Energy Vault) 자회사들, 8월 14일 신용 계약 체결 - SEC 제출 서류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715459)
-#### [허커비, 정착민들의 토지 강탈 시도를 규탄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715458)
-#### [US는 에탄올 생산량은 늘렸으나 바이오디젤 혼합 크레딧은 줄였다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715457)
-#### [미국 곡물 바지선 운임 현황 ? 8월 20일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715456)
-#### [트랜살타 온타리오의 200MW 멜랭크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715455)
-#### [[속보] 뉴저지 리소스 코퍼레이션(New Jersey Resources Corp) - Njng, 원금 총액 1억 5천만 달러 규모의 선순위 사채 매각 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715454)
-#### [이사회, 주식 환매 프로그램에 2억 달러 추가 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715453)
-#### [[속보] 로열 캐리비안 그룹, 2034년 만기 12억 5천만 달러 규모의 선순위 무담보 채권 발행 완료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715452)
-#### [[속보] 버투스 인베스트먼트 파트너스, 이사 선임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715451)
-#### [[속보] 뉴몬트, 피터 비븐을 이사회 이사로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715450)
-#### [[속보] 애버크롬비 앤 피치, 메리 폭스 이사회 이사 선임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2715449)
