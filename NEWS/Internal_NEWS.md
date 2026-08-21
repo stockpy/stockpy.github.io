@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260821_1835 </title></head>
-<center>Vers : 20260821_1835 </center>
-<center>Vers : 20260822_0335 </center>
+<head><meta charset="utf-8"><title>Vers : 20260821_1910 </title></head>
+<center>Vers : 20260821_1910 </center>
+<center>Vers : 20260822_0410 </center>
 <br><br><br>
+#### [재방송-달러 약세, 잭슨홀 회의 기회, 파운드화 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716662)
+#### [미국 보건 당국은 알팔파 새싹과 관련된 대장균 및 살모넬라 감염 사례 55건을 보고했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716661)
+#### [캐나다 달러 강세, 기준 채권 수익률 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716660)
+#### [월가 지수, 주간 하락 전망…채권 수익률과 이란 문제 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716659)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOOD.O/total>
+#### [애플, 시리·비전 프로 몰입형 영상 및 게임 팀에서 인력 감축 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716658)
+#### [COMMENT-US 요약: 금속 가격 상승에 힘입어 달러, 원자재 통화 대비 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716657)
+#### [[속보] 스페이스XAI, 구글 클라우드 버텍스 AI에서 ‘그록 4.6’ 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716656)
+#### [[속보 1] 보도에 따르면 해리 왕자의 아내 메건이 가이 리치 감독의 넷플릭스 시리즈 출연을 논의 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716655)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
+#### [프랑스의 CMA CGM, 강 수위 저하로 인해 내륙 긴급 수수료를 부과할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716654)
+#### [프로 파머(Pro Farmer)는 미국의 옥수수 수확량을 에이커당 173.2 부셸로 전망했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716653)
+#### [다음 주 주목할 점 - 8월 24일 월요일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716652)
+#### [대법원, 트럼프가 당분간 백악관 연회장 공사를 계속하도록 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716651)
 #### [우버, 캘리포니아주 변호사 및 의사들을 상대로 제기된 조직범죄 소송 기각 신청이 기각되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716650)
 #### [피치, 실적 호조에 힘입어 머큐리 제너럴에 대해 긍정적 전망 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716649)
 #### [미국 보건복지부(HHS), 자폐증 환자 실종 사건 대응 개선을 위한 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716648)
@@ -57,16 +71,3 @@
 #### [다음 주 멕시코 기업 실적 발표 주간](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716605)
 #### [[속보] AI 클라우드 기업 Nscale, 미국 상장 통해 최대 30억 달러 조달 추진 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716604)
 #### [단독-미국, 막대한 유엔 채무 상환을 위해 7억 2,500만 달러 지급 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716603)
-#### [달러 약세와 강세 기술적 지표에 힘입어 금값, 3개월 만에 최고치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716602)
-#### [소식통에 따르면, 가이아나의 버킷이 유엔 사무총장 비공식 여론조사에서 선두를 달리고 있다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716601)
-#### [프랑스, 30만 개의 콘돔이 안전하지 않을 수 있다고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716600)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/5122.T/total>
-#### [노리스는 여전히 F1 챔피언 타이틀을 방어할 수 있다고 믿고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716599)
-#### [[속보] 반카 제네랄리, 반카 몬테 데이 파스키 디 시에나의 인수 제의와 관련해 “이 제의는 반카 제네랄리가 요청한 바도 없으며, 사전에 합의된 바도 없다”고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716598)
-#### [제미니 에디블스 앤 팻츠 인디아, 기업공개(IPO) 신청 -  공시 초안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716597)
-#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas의 최신 파이프라인 현황 (2026년 8월 21일)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716596)
-#### [아이즈(Space-Eyes)’가 전 델타포스 대원과 전직 은행가를 임명할 예정이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716595)
-#### [미국, 한국에 1억 2,500만 달러 규모의 무기 판매 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716594)
-#### [유럽 증시는 상승했으나, 인플레이션 우려로 인해 주간 기준 하락세를 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716593)
-#### [휘발유 정제 마진 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716592)
-#### [미국 국무부, 노르웨이에 23억 달러 규모의 블랙호크 헬기 판매를 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716591)
