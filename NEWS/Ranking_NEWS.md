@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260821_1029 </title></head>
-<center>Vers : 20260821_1029 </center>
-<center>Vers : 20260821_1929 </center>
+<head><meta charset="utf-8"><title>Vers : 20260821_1059 </title></head>
+<center>Vers : 20260821_1059 </center>
+<center>Vers : 20260821_1959 </center>
 <br><br><br>
 #### [‘2만닉스’ 전원주 “1주도 안 팔았다, 더 기다릴 것”…40조 푼 하이닉스 주가 방향은](https://m.stock.naver.com/news/ranknews/view/011/0004653935)
 #### [천스닥 믿었던 개미들, 영혼까지 털렸다…반도체 뛰자 코스닥 급락](https://m.stock.naver.com/news/ranknews/view/009/0005724194)
