@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260821_1434 </title></head>
-<center>Vers : 20260821_1434 </center>
-<center>Vers : 20260821_2334 </center>
+<head><meta charset="utf-8"><title>Vers : 20260821_1506 </title></head>
+<center>Vers : 20260821_1506 </center>
+<center>Vers : 20260822_0006 </center>
 <br><br><br>
 #### [“5일 만에 80% 급등” 폭풍 매수하더니…한 달 만에 60% 폭락한 ‘애국주’](https://m.stock.naver.com/news/ranknews/view/011/0004654015)
 #### [“또 쪼개기 상장”에 카카오 160만 주주 ‘부들부들’…새로 상장하는 AI 회사의 정체는 [플러스 관심 종목]](https://m.stock.naver.com/news/ranknews/view/009/0005724241)
