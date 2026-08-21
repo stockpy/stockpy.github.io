@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260821_2249 </title></head>
-<center>Vers : 20260821_2249 </center>
-<center>Vers : 20260822_0749 </center>
+<head><meta charset="utf-8"><title>Vers : 20260821_2309 </title></head>
+<center>Vers : 20260821_2309 </center>
+<center>Vers : 20260822_0809 </center>
 <br><br><br>
+#### [오픈AI 영업 부사장 케이린 보스, 세일즈포스로 복귀 - 더 인포메이션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716781)
+#### [월가, 이날은 상승했으나 주간 기준으로는 하락… 채권 수익률과 이란 문제가 주목받고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716780)
+#### [미 국방부, 미군 신문 지도부 해임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716779)
+#### [[속보 1] 데이터폴하 조사 결과, 브라질 대선 앞두고 루라가 플라비우 볼소나로보다 여전히 우세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716778)
 #### [트럼프, “이란은 ‘올바른 합의’를 맺을 준비가 되어 있지 않다”고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716777)
 #### [테슬라의 대중화된 도어 핸들이 중국 사상 최대 규모의 차량 리콜을 촉발하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716776)
 #### [[속보] 천식 센터, 데이터 이벤트 공지 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716775)
@@ -66,9 +70,3 @@
 #### [[속보] 인스틸 인더스트리스, 오하이오주 어퍼 샌더스키 공장 폐쇄 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716724)
 #### [북미, 8월 24일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716723)
 #### [[속보] GEE 그룹, 스타 에쿼티 펀드와 협력 계약 체결 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716722)
-#### [‘Inside Debt’ - 8월 21일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716721)
-#### [월가, 당일 상승했으나 주간 기준 하락…채권 수익률과 이란 문제 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716720)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOOD.O/total>
-#### [미국 현물 원유?변동성이 큰 롤오버 거래 기간 첫날, 등급별 가격 등락 엇갈려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716719)
-#### [미국 주식 주간 전망: 금리 변동성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716718)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOOD.O/total>
