@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260821_2024 </title></head>
-<center>Vers : 20260821_2024 </center>
-<center>Vers : 20260822_0524 </center>
+<head><meta charset="utf-8"><title>Vers : 20260821_2049 </title></head>
+<center>Vers : 20260821_2049 </center>
+<center>Vers : 20260822_0549 </center>
 <br><br><br>
+#### [보잉 사무직 노조, 계약 제안 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716714)
+#### [단독-미국 내 수사 건수가 늘어나면서 파우치 측 변호인단이 법적 방어 기금을 조성했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716717)
+#### [변동이 심했던 한 주가 마무리되는 가운데 광업주 상승에 힘입어 TSX 지수 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716716)
+#### [CIO, “미국 소비자들은 회복력을 보이고 있으나 점차 신중해지고 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716713)
+#### [미국 식용유 및 지방 - 8월 21일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716715)
+#### [천연가스 파이프라인 긴급 공지: 천연가스 파이프라인 가스 품질 - ONEOK CUSTER(LOC5388) - 해제됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716712)
+#### [미국 항소법원, 캘리포니아주와 기포즈의 ‘고스트 건’ 관련 소송 기각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716711)
+#### [천연가스 파이프라인 긴급 공지: 천연가스 파이프라인 가스 품질 - ONEOK CUSTER(LOC5388) - 해제됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716710)
+#### [연방준비제도(Fed) 관련 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716709)
+#### [SEC, 뱅크 오브 아메리카 전직 투자은행가를 내부자 거래 혐의로 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716708)
+#### [월가, 주간 손실 폭을 다소 줄이며 반등: 엔비디아, 잭슨홀 회의 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716707)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/DLTR.O/total>
+#### [거래자들이 흑해 지역 긴장 상황을 주시하면서 CBOT 밀 가격은 등락을 거듭하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716706)
+#### [미국 배심원단, 사이텍이 세포 분석 특허 소송에서 벡맨 컬터에 5,600만 달러를 배상해야 한다고 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716704)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CTKB.O/total>
+#### [미국 현물 대두박 베이시스 호가는 철도 및 트럭 하역지에서 변동 없이 유지됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716705)
 #### [멕시코, 미국-캐나다 간 신협정과 유사한 무역 결과 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716703)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716702)
 #### [단독-미국, 막대한 유엔 채무 상환을 위해 7억 2,500만 달러 지급 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716701)
@@ -52,19 +68,3 @@
 #### [월가 지수, 주간 하락 전망…채권 수익률과 이란 문제 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716659)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOOD.O/total>
 #### [애플, 시리·비전 프로 몰입형 영상 및 게임 팀에서 인력 감축 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716658)
-#### [COMMENT-US 요약: 금속 가격 상승에 힘입어 달러, 원자재 통화 대비 약세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716657)
-#### [[속보] 스페이스XAI, 구글 클라우드 버텍스 AI에서 ‘그록 4.6’ 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716656)
-#### [[속보 1] 보도에 따르면 해리 왕자의 아내 메건이 가이 리치 감독의 넷플릭스 시리즈 출연을 논의 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716655)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
-#### [프랑스의 CMA CGM, 강 수위 저하로 인해 내륙 긴급 수수료를 부과할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716654)
-#### [프로 파머(Pro Farmer)는 미국의 옥수수 수확량을 에이커당 173.2 부셸로 전망했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716653)
-#### [다음 주 주목할 점 - 8월 24일 월요일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716652)
-#### [대법원, 트럼프가 당분간 백악관 연회장 공사를 계속하도록 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716651)
-#### [우버, 캘리포니아주 변호사 및 의사들을 상대로 제기된 조직범죄 소송 기각 신청이 기각되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716650)
-#### [피치, 실적 호조에 힘입어 머큐리 제너럴에 대해 긍정적 전망 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716649)
-#### [미국 보건복지부(HHS), 자폐증 환자 실종 사건 대응 개선을 위한 계획 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716648)
-#### [FDA, 니코틴 파우치 11종 신규 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716647)
-#### [보도에 따르면 해리 왕자의 아내 메건이 가이 리치 감독의 넷플릭스 시리즈 출연을 논의 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716646)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFLX.O/total>
-#### [대법원, 트럼프의 백악관 연회장 공사 당분간 계속 허용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716645)
-#### [USD/JPY, 견조한 위험 선호 심리가 뒷받침되며 159로 반등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716644)
