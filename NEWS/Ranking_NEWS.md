@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260821_1703 </title></head>
-<center>Vers : 20260821_1703 </center>
-<center>Vers : 20260822_0203 </center>
+<head><meta charset="utf-8"><title>Vers : 20260821_1835 </title></head>
+<center>Vers : 20260821_1835 </center>
+<center>Vers : 20260822_0335 </center>
 <br><br><br>
 #### [“5일 만에 80% 급등” 폭풍 매수하더니…한 달 만에 60% 폭락한 ‘애국주’](https://m.stock.naver.com/news/ranknews/view/011/0004654015)
 #### [37만→18만 반토막 났던 삼성전자, 이번엔 '30만전자' 안착할까](https://m.stock.naver.com/news/ranknews/view/629/0000526541)
