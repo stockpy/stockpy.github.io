@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260821_2223 </title></head>
-<center>Vers : 20260821_2223 </center>
-<center>Vers : 20260822_0723 </center>
+<head><meta charset="utf-8"><title>Vers : 20260821_2249 </title></head>
+<center>Vers : 20260821_2249 </center>
+<center>Vers : 20260822_0749 </center>
 <br><br><br>
+#### [트럼프, “이란은 ‘올바른 합의’를 맺을 준비가 되어 있지 않다”고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716777)
+#### [테슬라의 대중화된 도어 핸들이 중국 사상 최대 규모의 차량 리콜을 촉발하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716776)
+#### [[속보] 천식 센터, 데이터 이벤트 공지 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716775)
+#### [[속보] 피치, 몰도바 신용등급 ‘B+’ 유지…전망 ‘안정적’](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716774)
+#### [’로 유지… 부정적 전망의 이유로 재정적 위험 꼽아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716773)
 #### [대마초 생산업체 플루언트 코퍼레이션(Fluent Corp), 플로리다 지역 가격 하락으로 2분기 매출 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716772)
 #### [중국이 신작물 구매를 확정함에 따라 CIF/FOB 걸프 지역 곡물·대두 베이시스는 보합세에서 강세를 보이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716771)
 #### [[표] 금요일 기준 미국 원자력 발전 설비 가동 중단 용량이 1,230 MW로 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716770)
@@ -67,8 +72,3 @@
 #### [미국 현물 원유?변동성이 큰 롤오버 거래 기간 첫날, 등급별 가격 등락 엇갈려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716719)
 #### [미국 주식 주간 전망: 금리 변동성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716718)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOOD.O/total>
-#### [보잉 사무직 노조, 계약 제안 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716714)
-#### [단독-미국 내 수사 건수가 늘어나면서 파우치 측 변호인단이 법적 방어 기금을 조성했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716717)
-#### [변동이 심했던 한 주가 마무리되는 가운데 광업주 상승에 힘입어 TSX 지수 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716716)
-#### [CIO, “미국 소비자들은 회복력을 보이고 있으나 점차 신중해지고 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716713)
-#### [미국 식용유 및 지방 - 8월 21일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716715)

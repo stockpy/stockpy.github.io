@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260821_2223 </title></head>
-<center>Vers : 20260821_2223 </center>
-<center>Vers : 20260822_0723 </center>
+<head><meta charset="utf-8"><title>Vers : 20260821_2249 </title></head>
+<center>Vers : 20260821_2249 </center>
+<center>Vers : 20260822_0749 </center>
 <br><br><br>
 #### [“5일 만에 80% 급등” 폭풍 매수하더니…한 달 만에 60% 폭락한 ‘애국주’](https://m.stock.naver.com/news/ranknews/view/011/0004654015)
 #### ["다음주 코스피 6400~7500 전망"…엔비디아·잭슨홀 분수령](https://m.stock.naver.com/news/ranknews/view/215/0001263199)
