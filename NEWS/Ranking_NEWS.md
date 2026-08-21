@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260821_0437 </title></head>
-<center>Vers : 20260821_0437 </center>
-<center>Vers : 20260821_1337 </center>
+<head><meta charset="utf-8"><title>Vers : 20260821_0514 </title></head>
+<center>Vers : 20260821_0514 </center>
+<center>Vers : 20260821_1414 </center>
 <br><br><br>
 #### [“내게도 이런 날이”…삼전닉스 폭등에 레버리지 개미들 936억 던졌다](https://m.stock.naver.com/news/ranknews/view/011/0004653666)
 #### ["여윳돈 있으면 사라" 했는데 한 달 새 27%↓…'캐시카우'도 흔들](https://m.stock.naver.com/news/ranknews/view/215/0001263129)
