@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260822_1237 </title></head>
-<center>Vers : 20260822_1237 </center>
-<center>Vers : 20260822_2137 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1317 </title></head>
+<center>Vers : 20260822_1317 </center>
+<center>Vers : 20260822_2217 </center>
 <br><br><br>
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716856)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716855)
@@ -65,9 +65,9 @@
 #### [[종합 1] 미국·이란, 새로운 제재 앞두고 적대적 발언 이어가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716799)
 #### [시진핑·트럼프 정상회담을 앞두고 미 해군 항공기가 대만 해협을 통과했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716798)
 #### [[속보] Cpkc와 IBEW, 파업 종결을 위한 구속력 있는 중재에 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716797)
-<head><meta charset="utf-8"><title>Vers : 20260822_1237 </title></head>
-<center>Vers : 20260822_1237 </center>
-<center>Vers : 20260822_2137 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1317 </title></head>
+<center>Vers : 20260822_1317 </center>
+<center>Vers : 20260822_2217 </center>
 <br><br><br>
 #### [한 단체에 따르면, 튀니지 연안에서 이주민 선박이 침몰해 최소 13명의 튀니지인이 실종된 것으로 알려졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716796)
 #### [미 해군 항공기가 대만 해협을 통과했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716795)
@@ -135,9 +135,9 @@
 #### [[속보 1] 미국 배심원단, 세포 분석 특허 소송에서 사이텍이 벡맨 콜터에 5,600만 달러를 배상해야 한다고 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716738)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CTKB.O/total>
 #### [[업데이트 1] 프로 파머(Pro Farmer), 변덕스러운 여름 날씨로 인해 미국 옥수수 수확량이 미국 농무부(USDA) 전망치를 훨씬 밑돌 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716737)
-<head><meta charset="utf-8"><title>Vers : 20260822_1237 </title></head>
-<center>Vers : 20260822_1237 </center>
-<center>Vers : 20260822_2137 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1317 </title></head>
+<center>Vers : 20260822_1317 </center>
+<center>Vers : 20260822_2217 </center>
 <br><br><br>
 #### [오리온180의 기업공개(IPO) 신청서에는 신규 시장 및 제품 라인에 대한 낙관적인 성장 전망이 담겨 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716736)
 #### [포지션 조정과 수입 관세 완화 속에 소 선물 시세 혼조세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716735)
@@ -208,9 +208,9 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
 #### [브라질 규제 당국, 하프비다의 보험료 인상 및 보험 계약 해지를 금지하던 조치를 해제했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716678)
 #### [액시오스(Axios) 보도에 따르면, 미국 법무부와 틱톡(TikTok)이 아동 개인정보 보호 소송과 관련해 4억 달러에 합의했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716677)
-<head><meta charset="utf-8"><title>Vers : 20260822_1237 </title></head>
-<center>Vers : 20260822_1237 </center>
-<center>Vers : 20260822_2137 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1317 </title></head>
+<center>Vers : 20260822_1317 </center>
+<center>Vers : 20260822_2217 </center>
 <br><br><br>
 #### [8월 21일 기준 앨버타주 카놀라 일일 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716676)
 #### [투기꾼들, 옥수수 순매수 포지션 확대?CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716675)
@@ -280,9 +280,9 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOWL.O/total>
 #### [캐나다의 대미 무역 담당 장관, 미국 무역 대표 그리어와의 회담을 마치고 “곧 돌아오겠다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716618)
 #### [유럽 증류유·디젤 정제 마진, 주간 마감 시 상승세 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716617)
-<head><meta charset="utf-8"><title>Vers : 20260822_1237 </title></head>
-<center>Vers : 20260822_1237 </center>
-<center>Vers : 20260822_2137 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1317 </title></head>
+<center>Vers : 20260822_1317 </center>
+<center>Vers : 20260822_2217 </center>
 <br><br><br>
 #### [치명적인 국경 난입 사태 이후 스페인 세우타에서 첫 이민자 장례식 거행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716616)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716615)
@@ -352,9 +352,9 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRNA.O/total>
 #### [미국 증시 동향-넷이즈, 웨어울프 테라퓨틱스, JP모건](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716557)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HOWL.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260822_1237 </title></head>
-<center>Vers : 20260822_1237 </center>
-<center>Vers : 20260822_2137 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1317 </title></head>
+<center>Vers : 20260822_1317 </center>
+<center>Vers : 20260822_2217 </center>
 <br><br><br>
 #### [페트로브라스, 가나 케타 분지의 4개 해상 광구 확보를 위한 협상 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716556)
 #### [트럼프는 왜 키스톤 XL 송유관 문제를 언급하고 있는가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716555)
@@ -439,9 +439,9 @@
 #### [[속보] 타타 모터스 승용차 부문, 인도 중앙은행으로부터 복합 주문 수주했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716499)
 #### [[속보] 비샬 메가 마트, 구넨더 카푸르를 대표이사 겸 최고경영자(CEO)로 재임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716498)
 #### [[속보] 하이웨이 인프라, 8억 170만 루피 규모 프로젝트 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716497)
-<head><meta charset="utf-8"><title>Vers : 20260822_1237 </title></head>
-<center>Vers : 20260822_1237 </center>
-<center>Vers : 20260822_2137 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1317 </title></head>
+<center>Vers : 20260822_1317 </center>
+<center>Vers : 20260822_2217 </center>
 <br><br><br>
 #### [Jyoti Ltd, 2026년 8월 20일 봄베이 시 민사법원이 자사를 상대로 제기된 소송을 기각했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716496)
 #### [전 세계 자동차 제조사들의 최대 규모 리콜 사례](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716495)
