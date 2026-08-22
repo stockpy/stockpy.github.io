@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260822_0431 </title></head>
-<center>Vers : 20260822_0431 </center>
-<center>Vers : 20260822_1331 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_0502 </title></head>
+<center>Vers : 20260822_0502 </center>
+<center>Vers : 20260822_1402 </center>
 <br><br><br>
 #### [“모더나의 ‘mRNA 암 백신’은 역사적 사건”…국내 증시 진짜 수혜주 2곳은 [여의도란도란]](https://m.stock.naver.com/news/ranknews/view/009/0005724291)
 #### ['170만원 하이닉스 주식' 비싸서 못 샀는데…개미들 설렌다 [투자톡]](https://m.stock.naver.com/news/ranknews/view/015/0005323488)
