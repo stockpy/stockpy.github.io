@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260822_2102 </title></head>
-<center>Vers : 20260822_2102 </center>
-<center>Vers : 20260823_0602 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_2220 </title></head>
+<center>Vers : 20260822_2220 </center>
+<center>Vers : 20260823_0720 </center>
 <br><br><br>
+#### [독일의 메르츠, 내각에 성장 촉진 개혁 가속화 촉구할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716910)
+#### [인도, 동부 해안에서 벌크선 침몰로 구조 작업 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716909)
 #### [세르비아 소방대원들, 자연 보호 구역에서 발생한 대규모 화재 진압에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716908)
 #### [천연가스 파이프라인 긴급 공지: 서던 내추럴 가스 유지보수 계약, LA 서부 구간 350번 구간](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716907)
 #### [캐나다 유니포르(Unifor) 노조와 GM, 잠정 합의에 도달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716906)
@@ -63,5 +65,3 @@
 #### [무역 협상 결렬에 따라 미국, 캐나다산 제품에 50% 관세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716853)
 #### [모터레이싱 - 러셀, 사기를 북돋아 준 네덜란드 그랑프리 스프린트 우승을 자축하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716852)
 #### [러셀, 네덜란드 그랑프리 스프린트 레이스에서 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716851)
-#### [트럼프가 퀘벡에서 분리주의의 매력을 떨어뜨리고 있는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716850)
-#### [트럼프가 퀘벡에서 분리주의의 매력을 떨어뜨리고 있는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716849)
