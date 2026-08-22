@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260822_1647 </title></head>
-<center>Vers : 20260822_1647 </center>
-<center>Vers : 20260823_0147 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1704 </title></head>
+<center>Vers : 20260822_1704 </center>
+<center>Vers : 20260823_0204 </center>
 <br><br><br>
+#### [크리비리흐 생존자, 러시아 공습 후 주차장에서 발생한 사상자 상황을 회상하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716879)
 #### [카니, 캐나다가 미국 내 여러 산업 분야에 보복 관세를 부과할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716878)
 #### [카니, 캐나다가 미국의 여러 분야에 보복 관세를 부과할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716877)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716876)
@@ -63,4 +64,3 @@
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716822)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716821)
 #### [피치, 폴란드 신용등급을 ‘A-’로 동결…부정적 전망 이유로 재정 리스크 지적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716820)
-#### [분석-트럼프, 외교 정책 성과 부족 속에서 중간선거 맞이해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716819)
