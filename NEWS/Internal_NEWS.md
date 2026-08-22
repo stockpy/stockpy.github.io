@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260822_2243 </title></head>
-<center>Vers : 20260822_2243 </center>
-<center>Vers : 20260823_0743 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_2300 </title></head>
+<center>Vers : 20260822_2300 </center>
+<center>Vers : 20260823_0800 </center>
 <br><br><br>
 #### [WPP, 칸타르 매각으로 10억 파운드 수익 증가 기대? - 더 타임스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716914)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716913)
