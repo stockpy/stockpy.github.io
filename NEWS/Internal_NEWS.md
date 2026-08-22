@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260822_2220 </title></head>
-<center>Vers : 20260822_2220 </center>
-<center>Vers : 20260823_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_2243 </title></head>
+<center>Vers : 20260822_2243 </center>
+<center>Vers : 20260823_0743 </center>
 <br><br><br>
+#### [WPP, 칸타르 매각으로 10억 파운드 수익 증가 기대? - 더 타임스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716914)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716913)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716912)
+#### [마일레이, F1을 아르헨티나로 다시 불러오기 위해 주도권을 잡았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716911)
 #### [독일의 메르츠, 내각에 성장 촉진 개혁 가속화 촉구할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716910)
 #### [인도, 동부 해안에서 벌크선 침몰로 구조 작업 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716909)
 #### [세르비아 소방대원들, 자연 보호 구역에서 발생한 대규모 화재 진압에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716908)
@@ -61,7 +65,3 @@
 #### [“사랑을 위한 투표”: 마그데부르크 프라이드 참가자들, 선거를 앞두고 AfD에 맞서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716857)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716856)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716855)
-#### [무역 협상 결렬 후, 미국, 캐나다산 제품에 50% 관세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716854)
-#### [무역 협상 결렬에 따라 미국, 캐나다산 제품에 50% 관세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716853)
-#### [모터레이싱 - 러셀, 사기를 북돋아 준 네덜란드 그랑프리 스프린트 우승을 자축하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716852)
-#### [러셀, 네덜란드 그랑프리 스프린트 레이스에서 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716851)
