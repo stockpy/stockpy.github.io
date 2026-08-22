@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260822_1046 </title></head>
-<center>Vers : 20260822_1046 </center>
-<center>Vers : 20260822_1946 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1102 </title></head>
+<center>Vers : 20260822_1102 </center>
+<center>Vers : 20260822_2002 </center>
 <br><br><br>
+#### [러셀, 네덜란드 그랑프리 스프린트 레이스에서 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716851)
 #### [트럼프가 퀘벡에서 분리주의의 매력을 떨어뜨리고 있는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716850)
 #### [트럼프가 퀘벡에서 분리주의의 매력을 떨어뜨리고 있는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716849)
 #### [이란 사우스 파스 14단계 정유소 보수 작업, 70% 완료 - SHANA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716848)
@@ -64,11 +65,11 @@
 #### [판사가 유니레버가 사회 운동 활동을 억압했다고 주장하는 벤 앤 제리스의 소송 범위를 축소했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716794)
 #### [천연가스 파이프라인 긴급 공지: Southern Natural Gas의 최신 파이프라인 현황 (2026년 8월 22일)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716793)
 #### [10월 29일까지의 신흥시장 경제 행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716792)
-#### [10월 29일까지의 정부 채권 입찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716791)
-<head><meta charset="utf-8"><title>Vers : 20260822_1046 </title></head>
-<center>Vers : 20260822_1046 </center>
-<center>Vers : 20260822_1946 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1102 </title></head>
+<center>Vers : 20260822_1102 </center>
+<center>Vers : 20260822_2002 </center>
 <br><br><br>
+#### [10월 29일까지의 정부 채권 입찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716791)
 #### [에코페트롤이 발주한 콜롬비아 태평양 연안 재기화 플랜트, 가동 지연 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716790)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716789)
 #### [캐나다의 르블랑은 미국과의 무역 문제와 관련해 “아직 해야 할 일이 많다”고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716788)
@@ -135,11 +136,11 @@
 #### [[속보] 콜럼버스 서클 캐피털 II, 엘로이 에어(Elroy Air)가 미 육군으로부터 최대 4,600만 달러 규모의 계약을 수주했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716733)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CMII.O/total>
 #### [[속보] KKR 인프라, 8월 18일 개정 및 재작성된 회전 신용 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716732)
-#### [트레이더들, 옥수수·대두·밀·대두박 순매수 -트레이더들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716731)
-<head><meta charset="utf-8"><title>Vers : 20260822_1046 </title></head>
-<center>Vers : 20260822_1046 </center>
-<center>Vers : 20260822_1946 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1102 </title></head>
+<center>Vers : 20260822_1102 </center>
+<center>Vers : 20260822_2002 </center>
 <br><br><br>
+#### [트레이더들, 옥수수·대두·밀·대두박 순매수 -트레이더들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716731)
 #### [월스트리트저널(WSJ) 보도에 따르면, 드리스콜 미 육군 장관이 연말까지 사임할 것으로 예상된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716730)
 #### [[속보] 파트리아 아그로노게시오스, “브라질 2026년 2차 옥수수 재배 면적의 84.4% 수확 완료”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716729)
 #### [[속보] 애플라이드 옵토일렉트로닉스, 레이먼드 제임스 및 니덤 앤 컴퍼니와 주식 배분 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716728)
@@ -207,11 +208,11 @@
 #### [투기꾼들, 미국 원유 순매수 포지션 축소-CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716674)
 #### [펀드 운용사들, 지난주 S&P 500 선물 순매수 포지션 확대?CFTC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716673)
 #### [오픈AI의 주요 영업 임원 케이린 보스 사임 - 더 인포메이션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716672)
-#### [천연가스 파이프라인 긴급 공지: 2026년 8월 22일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716671)
-<head><meta charset="utf-8"><title>Vers : 20260822_1046 </title></head>
-<center>Vers : 20260822_1046 </center>
-<center>Vers : 20260822_1946 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1102 </title></head>
+<center>Vers : 20260822_1102 </center>
+<center>Vers : 20260822_2002 </center>
 <br><br><br>
+#### [천연가스 파이프라인 긴급 공지: 2026년 8월 22일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716671)
 #### [미국 고속도로 관리청, 엔진 결함 문제로 GM 픽업트럭 및 SUV에 대한 조사 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716670)
 #### [Sugar, 인도의 수입 조치에 힘입어 1년여 만에 최고치를 넘어선 수준으로 반등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716669)
 #### [EU의 폰 데어 라이엔, 유럽 각국과 함께 이스라엘의 요르단강 서안 지구 계획을 규탄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716668)
@@ -279,11 +280,11 @@
 #### [엘리베이터 및 하천 터미널에서 대두 베이시스 호가가 보합세 또는 소폭 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716614)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716613)
 #### [뉴욕 연방준비은행, 리버스 레포 시설 관련 자료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716612)
-#### [유엔 사무총장 선거에 출마한 후보들은 누구인가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716611)
-<head><meta charset="utf-8"><title>Vers : 20260822_1046 </title></head>
-<center>Vers : 20260822_1046 </center>
-<center>Vers : 20260822_1946 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1102 </title></head>
+<center>Vers : 20260822_1102 </center>
+<center>Vers : 20260822_2002 </center>
 <br><br><br>
+#### [유엔 사무총장 선거에 출마한 후보들은 누구인가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716611)
 #### [베이커 휴즈에 따르면, 미국 에너지 기업들이 4주 만에 처음으로 시추 설비를 감축했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716610)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
 #### [WTI 미들랜드, 포티스 거래](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716609)
@@ -353,12 +354,12 @@
 #### [아이슬란드 국민들, EU 가입 재고. 이는 어업에 어떤 영향을 미칠까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716553)
 #### [보콤 인터내셔널, 프리퍼드 인베스트먼트가 IBRD 채권 II 2,000만 달러어치를 1장당 100달러에 매입했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716552)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3329.HK/total>
+<head><meta charset="utf-8"><title>Vers : 20260822_1102 </title></head>
+<center>Vers : 20260822_1102 </center>
+<center>Vers : 20260822_2002 </center>
+<br><br><br>
 #### [[속보] 혼브리지, 4억 2,480만 위안으로 주넝(장쑤) 파워 테크놀로지의 지분 51% 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716551)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8137.HK/total>
-<head><meta charset="utf-8"><title>Vers : 20260822_1046 </title></head>
-<center>Vers : 20260822_1046 </center>
-<center>Vers : 20260822_1946 </center>
-<br><br><br>
 #### [[속보] IRC, 고수익 채권 부문 순이익 100만 달러 이하로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716550)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1029.HK/total>
 #### [[속보] 데타이 뉴 에너지, 5억 500만 홍콩 달러 규모의 주식 매입 및 대출 계약 체결을 위한 양해각서(MOU) 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716549)
@@ -441,12 +442,12 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
 #### [[속보] 캐피탈 엔바이런먼트, 상반기 매출 18억 5,920만 위안 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716492)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3989.HK/total>
+<head><meta charset="utf-8"><title>Vers : 20260822_1102 </title></head>
+<center>Vers : 20260822_1102 </center>
+<center>Vers : 20260822_2002 </center>
+<br><br><br>
 #### [[속보] 그랜드 필드, 2026년 상반기 1,800만~2,400만 홍콩 달러의 적자 예상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716491)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0115.HK/total>
-<head><meta charset="utf-8"><title>Vers : 20260822_1046 </title></head>
-<center>Vers : 20260822_1046 </center>
-<center>Vers : 20260822_1946 </center>
-<br><br><br>
 #### [[속보] 반카 트란실바니아, 상반기 그룹 순이익 25억 레이… 전년 동기 대비 26.8% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716490)
 #### [[속보] 시프런 테크놀로지, 자회사 통해 장쑤 옵소프트 테크놀로지 지분 100% 인수할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716489)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1020.HK/total>
@@ -518,4 +519,3 @@
 #### [미군, 지난 5월 이후 호르무즈 해협을 통해 6억 6천만 배럴의 원유 수송 지원했다고 밝혀 - CNBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716434)
 #### [[속보] 그라심, UHG 홀딩스 IFSC가 구자라트 국제 금융 테크 시티 내 IFSC에 법인 등록했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716432)
 #### [아폴로 글로벌, 데이터 유출 사실 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716431)
-#### [[속보] 아폴로, 캘리포니아주 법무장관에게 보낸 서한에서 사회공학 공격 사고를 겪었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716430)
