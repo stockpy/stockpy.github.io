@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260822_0828 </title></head>
-<center>Vers : 20260822_0828 </center>
-<center>Vers : 20260822_1728 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_0858 </title></head>
+<center>Vers : 20260822_0858 </center>
+<center>Vers : 20260822_1758 </center>
 <br><br><br>
 #### ['170만원 하이닉스 주식' 비싸서 못 샀는데…개미들 설렌다 [투자톡]](https://m.stock.naver.com/news/ranknews/view/015/0005323488)
 #### ["금 대신 샀더니"…한 달 만에 30% 넘게 오르자 개미들 '들썩' [이수의 ETF줌인]](https://m.stock.naver.com/news/ranknews/view/015/0005323509)
