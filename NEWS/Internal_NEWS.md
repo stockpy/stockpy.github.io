@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260822_1420 </title></head>
-<center>Vers : 20260822_1420 </center>
-<center>Vers : 20260822_2320 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1442 </title></head>
+<center>Vers : 20260822_1442 </center>
+<center>Vers : 20260822_2342 </center>
 <br><br><br>
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716861)
 #### [우크라이나의 젤렌스키 대통령은 마크롱 대통령이 방공 장비 공급을 앞당기기로 합의했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716860)
@@ -65,9 +65,9 @@
 #### [캘리포니아주 뉴섬 주지사, 파라마운트와 워너브라더스 합병을 저지하는 소송의 합의 협상 지지 - 할리우드 리포터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716804)
 #### [크리비리흐의 한 쇼핑센터를 공격하는 러시아 무인기의 모습이 담긴 영상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716803)
 #### [미국 판사, 75개국에 대한 이민 비자 처리 중단 정책 무효화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716802)
-<head><meta charset="utf-8"><title>Vers : 20260822_1420 </title></head>
-<center>Vers : 20260822_1420 </center>
-<center>Vers : 20260822_2320 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1443 </title></head>
+<center>Vers : 20260822_1443 </center>
+<center>Vers : 20260822_2343 </center>
 <br><br><br>
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716801)
 #### [미국 우정청은 법원이 승인할 경우 우편 투표를 강화하기 위한 규정을 발표한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716800)
@@ -133,9 +133,9 @@
 #### [트럼프, “이란은 ‘올바른 합의’를 맺을 준비가 되어 있지 않다”고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716744)
 #### [니키 바이오솔루션스, 합병 후 전망에 ‘기업 존속 불확실성’ 경고가 드리워진 가운데 자금 조달 방안을 검토 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716743)
 #### [미국 곡물 바지선 운임 현황 ? 8월 21일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716742)
-<head><meta charset="utf-8"><title>Vers : 20260822_1420 </title></head>
-<center>Vers : 20260822_1420 </center>
-<center>Vers : 20260822_2320 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1443 </title></head>
+<center>Vers : 20260822_1443 </center>
+<center>Vers : 20260822_2343 </center>
 <br><br><br>
 #### [뉴 포트리스 에너지의 신임 CFO 귄타, 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716741)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFE.O/total>
@@ -207,9 +207,9 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
 #### [프랑스 CMA CGM, 하천 수위 저하로 인해 내륙 긴급 수수료 부과 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716683)
 #### [앨버타 주 농작물 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716682)
-<head><meta charset="utf-8"><title>Vers : 20260822_1420 </title></head>
-<center>Vers : 20260822_1420 </center>
-<center>Vers : 20260822_2320 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1443 </title></head>
+<center>Vers : 20260822_1443 </center>
+<center>Vers : 20260822_2343 </center>
 <br><br><br>
 #### [오늘의 특가 - 인수합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716681)
 #### [투기꾼들이 원당 선물 시장에서 숏 포지션에서 롱 포지션으로 전환하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716680)
@@ -279,9 +279,9 @@
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716623)
 #### [[업데이트 1] 베이커 휴즈, “미국 에너지 기업들, 4주 만에 처음으로 시추 장비 수 감축”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716622)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260822_1420 </title></head>
-<center>Vers : 20260822_1420 </center>
-<center>Vers : 20260822_2320 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1443 </title></head>
+<center>Vers : 20260822_1443 </center>
+<center>Vers : 20260822_2343 </center>
 <br><br><br>
 #### [[속보] KAP AG, 칼라일 그룹이 템퍼스 캐피털에 KAP 주식 대량을 매각했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716619)
 #### [트럼프 행정부, 변호사 단체의 로스쿨 감독 권한 철폐에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716621)
@@ -350,9 +350,9 @@
 #### [[속보] 히드로파르, 주주들이 지분 22.76%를 650만 달러에 매각하기 위한 지분 양도 계약에 서명했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716564)
 #### [미국 마약 카르텔 관련 혐의를 받고 휴직 중이던 멕시코 주지사가 직책에 복귀했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716563)
 #### [다가오는 미국 기업 실적 발표 주간](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716562)
-<head><meta charset="utf-8"><title>Vers : 20260822_1420 </title></head>
-<center>Vers : 20260822_1420 </center>
-<center>Vers : 20260822_2320 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1443 </title></head>
+<center>Vers : 20260822_1443 </center>
+<center>Vers : 20260822_2343 </center>
 <br><br><br>
 #### [캐나다 기업 실적 발표 주간 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716561)
 #### [[속보] 메르카토르 메디컬, 2분기 잠정 연결 순이익 4,440만 PLN 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716560)
@@ -439,9 +439,9 @@
 #### [[속보] TPL 플라스텍, 이사회에서 TPL 플라스텍의 타임 테크노플라스트 편입 합병안 검토 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716504)
 #### [[속보] 라구비르 신테틱스, 총 2,240만 루피의 세금 추징에 대해 사유 설명 통지서 수령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716503)
 #### [[속보] REC, 자회사가 루리 파워 트랜스미션의 지분 전부를 테랄라이트 솔라 에너지에 양도했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716502)
-<head><meta charset="utf-8"><title>Vers : 20260822_1420 </title></head>
-<center>Vers : 20260822_1420 </center>
-<center>Vers : 20260822_2320 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1443 </title></head>
+<center>Vers : 20260822_1443 </center>
+<center>Vers : 20260822_2343 </center>
 <br><br><br>
 #### [[속보] 카이저 코퍼레이션, 에메이징 딜즈의 합병 계획 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716501)
 #### [보잉 사무직 노조 단체협약 찬반 투표 결과, 오늘 발표될 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716500)
