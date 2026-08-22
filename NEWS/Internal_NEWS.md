@@ -1,7 +1,21 @@
-<head><meta charset="utf-8"><title>Vers : 20260822_1704 </title></head>
-<center>Vers : 20260822_1704 </center>
-<center>Vers : 20260823_0204 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1829 </title></head>
+<center>Vers : 20260822_1829 </center>
+<center>Vers : 20260823_0329 </center>
 <br><br><br>
+#### [온타리오주 브룩필드의 189MW 프린스 풍력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716893)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716892)
+#### [[속보] 유니포어, 제너럴 모터스와 잠정 합의 도달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716891)
+#### [[속보] 에피서프, 의료기기 사업 부문에 대한 전략적 검토 마무리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716890)
+#### [미국 북서부 강 유수량은 82%로 변동이 없었다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716889)
+#### [해설-트럼프, 이란에 대한 경제적 압박 강화 원해. 어떤 선택지가 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716888)
+#### [포가카르, 모나코 개인 타임트라이얼 우승… 부엘타 도전, 화려한 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716887)
+#### [인도 동부 해상에서 파나마 선적 화물선이 침몰했다고 해안경비대가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716886)
+#### [천연가스 파이프라인 긴급 공지: 서던 내추럴 가스 업데이트 #2 파이프라인 현황 2026년 8월 22일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716885)
+#### [이란 공격수 타레미, UAE 프로리그 선두 알 와슬에 합류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716884)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716883)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716882)
+#### [GFZ에 따르면 일본 혼슈 동부 해안 인근에서 규모 5.8의 지진이 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716881)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716880)
 #### [크리비리흐 생존자, 러시아 공습 후 주차장에서 발생한 사상자 상황을 회상하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716879)
 #### [카니, 캐나다가 미국 내 여러 산업 분야에 보복 관세를 부과할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716878)
 #### [카니, 캐나다가 미국의 여러 분야에 보복 관세를 부과할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716877)
@@ -49,18 +63,3 @@
 #### [타스님 통신에 따르면, 이란 당국자가 카타르 측에 구금 중인 조종사들을 육지의 병원으로 이송할 것을 촉구했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716836)
 #### [영국 경찰, 순찰차 사고로 여러 명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716835)
 #### [루마니아, 체르나보다 원전 냉각을 위해 다뉴브강 유량 증대를 위한 새로운 조치 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716834)
-#### [이란, 다수의 이라크 유조선에 호르무즈 해협 통과 허가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716833)
-#### [우크라이나 군 당국은 밤사이 노보쿠이비셰프스크 정유소를 공습했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716832)
-#### [[종합 2]?새로운 제재 시행을 앞두고 미국과 이란, 적대적 발언 이어가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716831)
-#### [우크라이나 드론이 밤사이 공습을 통해 러시아 온라인 소매업체 오존(Ozon)의 창고를 타격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716830)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716829)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716828)
-#### [소식통에 따르면 바티칸이 1억 유로 규모의 재생에너지 발전소를 건설할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716827)
-#### [서방 국가들의 우려 속, 한국 선박이 북극 상업 항로를 시험 항해한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716826)
-#### [이란이 이라크 유조선의 호르무즈 해협 통과를 허가했다고 국영 통신사가 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716825)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716824)
-#### [수페리어메드 홀딩스 리미티드, 스타리 씨 어퀴지션 코프와 합병 계약 및 계획 체결 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716823)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SSEA.O/total>
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716822)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716821)
-#### [피치, 폴란드 신용등급을 ‘A-’로 동결…부정적 전망 이유로 재정 리스크 지적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716820)
