@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260822_1442 </title></head>
-<center>Vers : 20260822_1442 </center>
-<center>Vers : 20260822_2342 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1500 </title></head>
+<center>Vers : 20260822_1500 </center>
+<center>Vers : 20260823_0000 </center>
 <br><br><br>
+#### [EU, 산불 진압을 위해 세르비아에 헬기와 소방대원 파견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716862)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716861)
 #### [우크라이나의 젤렌스키 대통령은 마크롱 대통령이 방공 장비 공급을 앞당기기로 합의했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716860)
 #### [학교에서 칼부림 사건으로 10대 소녀가 사망한 후, 스웨덴 경찰이 온라인 네트워크를 수사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716859)
@@ -64,11 +65,11 @@
 #### [튀니지 인근 해상에서 이주민 선박 침몰로 최소 13명의 튀니지인이 실종됐다고 한 단체가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716805)
 #### [캘리포니아주 뉴섬 주지사, 파라마운트와 워너브라더스 합병을 저지하는 소송의 합의 협상 지지 - 할리우드 리포터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716804)
 #### [크리비리흐의 한 쇼핑센터를 공격하는 러시아 무인기의 모습이 담긴 영상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716803)
-#### [미국 판사, 75개국에 대한 이민 비자 처리 중단 정책 무효화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716802)
-<head><meta charset="utf-8"><title>Vers : 20260822_1443 </title></head>
-<center>Vers : 20260822_1443 </center>
-<center>Vers : 20260822_2343 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1500 </title></head>
+<center>Vers : 20260822_1500 </center>
+<center>Vers : 20260823_0000 </center>
 <br><br><br>
+#### [미국 판사, 75개국에 대한 이민 비자 처리 중단 정책 무효화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716802)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716801)
 #### [미국 우정청은 법원이 승인할 경우 우편 투표를 강화하기 위한 규정을 발표한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716800)
 #### [[종합 1] 미국·이란, 새로운 제재 앞두고 적대적 발언 이어가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716799)
@@ -132,11 +133,11 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TSLA.O/total>
 #### [트럼프, “이란은 ‘올바른 합의’를 맺을 준비가 되어 있지 않다”고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716744)
 #### [니키 바이오솔루션스, 합병 후 전망에 ‘기업 존속 불확실성’ 경고가 드리워진 가운데 자금 조달 방안을 검토 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716743)
-#### [미국 곡물 바지선 운임 현황 ? 8월 21일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716742)
-<head><meta charset="utf-8"><title>Vers : 20260822_1443 </title></head>
-<center>Vers : 20260822_1443 </center>
-<center>Vers : 20260822_2343 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1500 </title></head>
+<center>Vers : 20260822_1500 </center>
+<center>Vers : 20260823_0000 </center>
 <br><br><br>
+#### [미국 곡물 바지선 운임 현황 ? 8월 21일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716742)
 #### [뉴 포트리스 에너지의 신임 CFO 귄타, 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716741)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NFE.O/total>
 #### [[업데이트 1] 월스트리트저널(WSJ) 보도에 따르면, 드리스콜 미 육군 장관이 연말까지 사임할 것으로 예상된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716740)
@@ -206,11 +207,11 @@
 #### [달러 약세와 원자재 가격 상승에 힘입어 라틴아메리카 자산이 반등하며 주간 상승세를 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716684)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
 #### [프랑스 CMA CGM, 하천 수위 저하로 인해 내륙 긴급 수수료 부과 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716683)
-#### [앨버타 주 농작물 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716682)
-<head><meta charset="utf-8"><title>Vers : 20260822_1443 </title></head>
-<center>Vers : 20260822_1443 </center>
-<center>Vers : 20260822_2343 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1500 </title></head>
+<center>Vers : 20260822_1500 </center>
+<center>Vers : 20260823_0000 </center>
 <br><br><br>
+#### [앨버타 주 농작물 보고서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716682)
 #### [오늘의 특가 - 인수합병](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716681)
 #### [투기꾼들이 원당 선물 시장에서 숏 포지션에서 롱 포지션으로 전환하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716680)
 #### [미국 서비스업 지표 호조에 따라 수익률 상승세 이어가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716679)
@@ -277,12 +278,12 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
 #### [AUD/USD-미국 매수세 무시된 가운데 6월 고점에 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716624)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716623)
+<head><meta charset="utf-8"><title>Vers : 20260822_1500 </title></head>
+<center>Vers : 20260822_1500 </center>
+<center>Vers : 20260823_0000 </center>
+<br><br><br>
 #### [[업데이트 1] 베이커 휴즈, “미국 에너지 기업들, 4주 만에 처음으로 시추 장비 수 감축”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716622)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BKR.O/total>
-<head><meta charset="utf-8"><title>Vers : 20260822_1443 </title></head>
-<center>Vers : 20260822_1443 </center>
-<center>Vers : 20260822_2343 </center>
-<br><br><br>
 #### [[속보] KAP AG, 칼라일 그룹이 템퍼스 캐피털에 KAP 주식 대량을 매각했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716619)
 #### [트럼프 행정부, 변호사 단체의 로스쿨 감독 권한 철폐에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716621)
 #### [미국 증시 동향-모더나, O-I 글래스, 아베아나 헬스케어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716620)
@@ -349,11 +350,11 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
 #### [[속보] 히드로파르, 주주들이 지분 22.76%를 650만 달러에 매각하기 위한 지분 양도 계약에 서명했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716564)
 #### [미국 마약 카르텔 관련 혐의를 받고 휴직 중이던 멕시코 주지사가 직책에 복귀했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716563)
-#### [다가오는 미국 기업 실적 발표 주간](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716562)
-<head><meta charset="utf-8"><title>Vers : 20260822_1443 </title></head>
-<center>Vers : 20260822_1443 </center>
-<center>Vers : 20260822_2343 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1500 </title></head>
+<center>Vers : 20260822_1500 </center>
+<center>Vers : 20260823_0000 </center>
 <br><br><br>
+#### [다가오는 미국 기업 실적 발표 주간](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716562)
 #### [캐나다 기업 실적 발표 주간 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716561)
 #### [[속보] 메르카토르 메디컬, 2분기 잠정 연결 순이익 4,440만 PLN 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716560)
 #### [7월 스위스 금 수출, 중국으로의 수출 감소로 2% 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716559)
@@ -438,11 +439,11 @@
 #### [[속보] DCW, 드랑가드라 공장 가동 전면 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716505)
 #### [[속보] TPL 플라스텍, 이사회에서 TPL 플라스텍의 타임 테크노플라스트 편입 합병안 검토 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716504)
 #### [[속보] 라구비르 신테틱스, 총 2,240만 루피의 세금 추징에 대해 사유 설명 통지서 수령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716503)
-#### [[속보] REC, 자회사가 루리 파워 트랜스미션의 지분 전부를 테랄라이트 솔라 에너지에 양도했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716502)
-<head><meta charset="utf-8"><title>Vers : 20260822_1443 </title></head>
-<center>Vers : 20260822_1443 </center>
-<center>Vers : 20260822_2343 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1500 </title></head>
+<center>Vers : 20260822_1500 </center>
+<center>Vers : 20260823_0000 </center>
 <br><br><br>
+#### [[속보] REC, 자회사가 루리 파워 트랜스미션의 지분 전부를 테랄라이트 솔라 에너지에 양도했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716502)
 #### [[속보] 카이저 코퍼레이션, 에메이징 딜즈의 합병 계획 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716501)
 #### [보잉 사무직 노조 단체협약 찬반 투표 결과, 오늘 발표될 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716500)
 #### [[속보] 타타 모터스 승용차 부문, 인도 중앙은행으로부터 복합 주문 수주했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716499)
@@ -515,4 +516,3 @@
 #### [인도에서 수요 증가와 공급 감소로 러시아 우랄스 원유 가격이 프리미엄으로 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716444)
 #### [8월 유로존 소비자 신뢰지수가 -15.5로 상승했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716443)
 #### [[업데이트 1] 소식통에 따르면, 에어버스가 항의 시위 이후 사무실 복귀 방침을 철회했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716442)
-#### [USD/CNH-현재로서는 하락세가 멈출 기미가 보이지 않는다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716441)

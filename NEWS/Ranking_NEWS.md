@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260822_1443 </title></head>
-<center>Vers : 20260822_1443 </center>
-<center>Vers : 20260822_2343 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1500 </title></head>
+<center>Vers : 20260822_1500 </center>
+<center>Vers : 20260823_0000 </center>
 <br><br><br>
 #### [“투자 손실, 빗물 받아 샤워해야 할 정도” 백진희, 투자실패 토로](https://m.stock.naver.com/news/ranknews/view/021/0002813046)
 #### ["금 대신 샀더니"…한 달 만에 30% 넘게 오르자 개미들 '들썩' [이수의 ETF줌인]](https://m.stock.naver.com/news/ranknews/view/015/0005323509)
