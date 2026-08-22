@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260822_2021 </title></head>
-<center>Vers : 20260822_2021 </center>
-<center>Vers : 20260823_0521 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_2044 </title></head>
+<center>Vers : 20260822_2044 </center>
+<center>Vers : 20260823_0544 </center>
 <br><br><br>
+#### [캐나다 유니포르(Unifor) 노조와 GM, 잠정 합의에 도달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716906)
 #### [크루거 에너지 온타리오의 101MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716905)
 #### [크루거 에너지 온타리오의 101MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716904)
 #### [엔브리지 온타리오의 182MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716903)
@@ -64,4 +65,3 @@
 #### [트럼프가 퀘벡에서 분리주의의 매력을 떨어뜨리고 있는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716849)
 #### [이란 사우스 파스 14단계 정유소 보수 작업, 70% 완료 - SHANA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716848)
 #### [학교에서 칼부림 사건으로 10대 소녀가 숨진 후, 스웨덴 경찰이 온라인 커뮤니티를 수사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716847)
-#### [[속보] Cemat A/S, 2026년 연결 매출 8,600만~8,800만 덴마크 크로네 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716846)
