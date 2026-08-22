@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260822_1622 </title></head>
-<center>Vers : 20260822_1622 </center>
-<center>Vers : 20260823_0122 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1647 </title></head>
+<center>Vers : 20260822_1647 </center>
+<center>Vers : 20260823_0147 </center>
 <br><br><br>
+#### [카니, 캐나다가 미국 내 여러 산업 분야에 보복 관세를 부과할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716878)
+#### [카니, 캐나다가 미국의 여러 분야에 보복 관세를 부과할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716877)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716876)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716875)
 #### [EU, 산불 진압을 위해 세르비아에 헬기와 소방대원 파견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716874)
 #### [[속보 1] 젤렌스키 대통령, “프랑스가 우크라이나에 대한 방공 장비 공급을 앞당기기로 합의했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716873)
 #### [업데이트 1-푸틴, 우크라이나가 경제 시설을 공격하며 “판도라의 상자”를 열었다고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716872)
@@ -60,7 +64,3 @@
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716821)
 #### [피치, 폴란드 신용등급을 ‘A-’로 동결…부정적 전망 이유로 재정 리스크 지적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716820)
 #### [분석-트럼프, 외교 정책 성과 부족 속에서 중간선거 맞이해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716819)
-#### [온타리오주 375MW 고어웨이 15(Goreway 15) 가스 발전소가 가동을 재개했습니다 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716818)
-#### [종합 1-미국과 이란, 새로운 제재 시행을 앞두고 적대적인 발언 이어가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716817)
-#### [업데이트 1-트럼프, “이란은 ‘올바른 합의’를 맺을 준비가 되어 있지 않다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716816)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716815)
