@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260822_1829 </title></head>
-<center>Vers : 20260822_1829 </center>
-<center>Vers : 20260823_0329 </center>
+<head><meta charset="utf-8"><title>Vers : 20260822_1900 </title></head>
+<center>Vers : 20260822_1900 </center>
+<center>Vers : 20260823_0400 </center>
 <br><br><br>
+#### [사이클-포가카르, 모나코 개인 타임트라이얼 우승…부엘타 도전, 화려한 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716896)
+#### [안토넬리, 네덜란드 그랑프리 주말이 좋은 경각심을 일깨워주었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716895)
+#### [[속보] 파라마운트와 캘리포니아, 8월 24일 워너브라더스 인수 관련 예비 협의 예정 - NYT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716894)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716893)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716892)
 #### [[속보] 유니포어, 제너럴 모터스와 잠정 합의 도달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716891)
@@ -60,6 +63,3 @@
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716839)
 #### [우크라이나 드론이 여러 명을 사살하고 러시아 온라인 유통업체 오존(Ozon)의 창고를 타격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716838)
 #### [인도 중앙은행, “인도, 해외 예금 및 대출을 통해 728억 달러 조달”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716837)
-#### [타스님 통신에 따르면, 이란 당국자가 카타르 측에 구금 중인 조종사들을 육지의 병원으로 이송할 것을 촉구했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716836)
-#### [영국 경찰, 순찰차 사고로 여러 명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716835)
-#### [루마니아, 체르나보다 원전 냉각을 위해 다뉴브강 유량 증대를 위한 새로운 조치 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716834)
