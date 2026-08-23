@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_0719 </title></head>
-<center>Vers : 20260823_0719 </center>
-<center>Vers : 20260823_1619 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_0828 </title></head>
+<center>Vers : 20260823_0828 </center>
+<center>Vers : 20260823_1728 </center>
 <br><br><br>
+#### [젤렌스키, “푸틴이 9월 선거 이후 30만 명의 신규 병력을 동원할 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716951)
+#### [스위스 신문 보도에 따르면, ECB의 라가르드 총재, WEF에서 “임무를 수행할 준비가 되어 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716950)
+#### [[속보] AVIC 청두 항공기, 상반기 순이익 전년 동기 대비 22.3% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716949)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/302132.SZ/total>
+#### [[속보] 중국 텅스텐·하이테크 머티리얼즈, 상반기 순이익 전년 동기 대비 280.5% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716948)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000657.SZ/total>
+#### [시노펙의 상반기 중간 순이익이 전년 동기 대비 19.3% 증가했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716947)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600028.SS/total>
+#### [이란, 파키스탄 육군 참모총장이 월요일 테헤란을 방문할 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716946)
+#### [시리아 외무장관, 신뢰가 없어도 이스라엘과의 안보 회담 재개될 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716945)
+#### [오렌부르크 주지사, 오렌부르크 주에 위치한 러시아 온라인 소매업체 오존(Ozon)의 물류센터가 드론 공격을 받았다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716944)
 #### [베트남, 지적재산권 집행 강화를 위한 관세법 개정안 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716943)
 #### [네바다주 산불 규모, 10,500에이커 이상으로 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716942)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716941)
@@ -59,6 +70,10 @@
 #### [[속보] 파라마운트와 캘리포니아, 8월 24일 워너브라더스 인수 관련 예비 협의 예정 - NYT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716894)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716893)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716892)
+<head><meta charset="utf-8"><title>Vers : 20260823_0828 </title></head>
+<center>Vers : 20260823_0828 </center>
+<center>Vers : 20260823_1728 </center>
+<br><br><br>
 #### [[속보] 유니포어, 제너럴 모터스와 잠정 합의 도달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716891)
 #### [[속보] 에피서프, 의료기기 사업 부문에 대한 전략적 검토 마무리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716890)
 #### [미국 북서부 강 유수량은 82%로 변동이 없었다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716889)
@@ -67,10 +82,6 @@
 #### [인도 동부 해상에서 파나마 선적 화물선이 침몰했다고 해안경비대가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716886)
 #### [천연가스 파이프라인 긴급 공지: 서던 내추럴 가스 업데이트 #2 파이프라인 현황 2026년 8월 22일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716885)
 #### [이란 공격수 타레미, UAE 프로리그 선두 알 와슬에 합류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716884)
-<head><meta charset="utf-8"><title>Vers : 20260823_0719 </title></head>
-<center>Vers : 20260823_0719 </center>
-<center>Vers : 20260823_1619 </center>
-<br><br><br>
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716883)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716882)
 #### [GFZ에 따르면 일본 혼슈 동부 해안 인근에서 규모 5.8의 지진이 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716881)
@@ -124,11 +135,3 @@
 #### [루마니아, 체르나보다 원전 냉각을 위해 다뉴브강 유량 증대를 위한 새로운 조치 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716834)
 #### [이란, 다수의 이라크 유조선에 호르무즈 해협 통과 허가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716833)
 #### [우크라이나 군 당국은 밤사이 노보쿠이비셰프스크 정유소를 공습했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716832)
-#### [[종합 2]?새로운 제재 시행을 앞두고 미국과 이란, 적대적 발언 이어가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716831)
-#### [우크라이나 드론이 밤사이 공습을 통해 러시아 온라인 소매업체 오존(Ozon)의 창고를 타격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716830)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716829)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716828)
-#### [소식통에 따르면 바티칸이 1억 유로 규모의 재생에너지 발전소를 건설할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716827)
-#### [서방 국가들의 우려 속, 한국 선박이 북극 상업 항로를 시험 항해한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716826)
-#### [이란이 이라크 유조선의 호르무즈 해협 통과를 허가했다고 국영 통신사가 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716825)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716824)
