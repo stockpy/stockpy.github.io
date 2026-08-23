@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_1649 </title></head>
-<center>Vers : 20260823_1649 </center>
-<center>Vers : 20260824_0149 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_1828 </title></head>
+<center>Vers : 20260823_1828 </center>
+<center>Vers : 20260824_0328 </center>
 <br><br><br>
+#### [포뮬러 원 선두 안토넬리, 몬차 홈 레이스에서 그리드 페널티 받게 돼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717007)
+#### [8월 23일 일요일 오후 1시 47분(EDT) 기준 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717006)
+#### [노르웨이 왕실, “입원 중인 국왕의 건강 상태가 악화되고 있다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717005)
+#### [의료진에 따르면, 가자지구에서 이스라엘의 공습으로 4세 소년을 포함해 2명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717004)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717003)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717002)
+#### [미국 북서부 강 유수량은 82%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717001)
+#### [ATCO/TransAlta 앨버타 390 MW Sheerness 2 석탄 화력발전소 가동 중단 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717000)
+#### [영화 ‘빅 쇼트’의 투자자 마이클 버리가 알리바바 주식을 매도했다고 밝혔으며, 주식 공모 전 주가가 비싸다고 지적했다고 블룸버그 뉴스가 보도했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716999)
+#### [터키 중앙은행, 1주물 레포 입찰 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716998)
+#### [이스라엘, 가자지구에서 드론·풍선 발사에 대한 보복 공습 강화할 것이라고 하마스에 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716997)
+#### [젤렌스키, 우크라이나가 노르드 스트림 파이프라인 폭발 사건과 무관하다고 밝히며 수사에 협력 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716996)
 #### [독일의 AfD, 연방 정권 장악을 향한 첫걸음으로 작센-안할트 주 선거 승리를 노린다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716995)
 #### [터키 중앙은행, 1주 만기 레포 입찰 재개 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716994)
 #### [사이클-영국의 브레넌, 부엘타 2단계 우승… 포가카르, 종합 선두 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716993)
@@ -56,17 +68,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/302132.SZ/total>
 #### [[속보] 중국 텅스텐·하이테크 머티리얼즈, 상반기 순이익 전년 동기 대비 280.5% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716948)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000657.SZ/total>
-#### [시노펙의 상반기 중간 순이익이 전년 동기 대비 19.3% 증가했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716947)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600028.SS/total>
-#### [이란, 파키스탄 육군 참모총장이 월요일 테헤란을 방문할 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716946)
-#### [시리아 외무장관, 신뢰가 없어도 이스라엘과의 안보 회담 재개될 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716945)
-#### [오렌부르크 주지사, 오렌부르크 주에 위치한 러시아 온라인 소매업체 오존(Ozon)의 물류센터가 드론 공격을 받았다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716944)
-#### [베트남, 지적재산권 집행 강화를 위한 관세법 개정안 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716943)
-#### [네바다주 산불 규모, 10,500에이커 이상으로 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716942)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716941)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716940)
-#### [대만 대통령, 중국 전쟁 기념일에 “힘을 통한 평화” 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716939)
-#### [인도 인근 해상에서 벌크선 침몰… 실종자 22명에 대한 수색 작업 계속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716938)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716937)
-#### [알리바바, 100억 달러 규모의 홍콩 주식 배정 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716936)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
