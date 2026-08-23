@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_1422 </title></head>
-<center>Vers : 20260823_1422 </center>
-<center>Vers : 20260823_2322 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_1446 </title></head>
+<center>Vers : 20260823_1446 </center>
+<center>Vers : 20260823_2346 </center>
 <br><br><br>
+#### [화물선 침몰로 실종된 22명을 찾기 위해 인도 구조대가 수색 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716984)
 #### [EMSC에 따르면 일본 홋카이도에서 규모 5.9의 지진이 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716982)
 #### [튀니지 해안경비대, 침몰한 선박에 타고 있던 이주자 8명의 시신 수습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716981)
 #### [자동차 경주 - 베르스타펜, 첫 랩에서 사고를 낸 뒤 네덜란드 그랑프리 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716983)
@@ -70,11 +71,11 @@
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716927)
 #### [크루거 에너지 온타리오의 101MW 포트 알마 1호 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716926)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716925)
-#### [카르텔 관련 혐의로 미국으로부터 기소된 멕시코 주지사가 거센 반발 속에 다시 휴직을 요청했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716924)
-<head><meta charset="utf-8"><title>Vers : 20260823_1422 </title></head>
-<center>Vers : 20260823_1422 </center>
-<center>Vers : 20260823_2322 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_1446 </title></head>
+<center>Vers : 20260823_1446 </center>
+<center>Vers : 20260823_2346 </center>
 <br><br><br>
+#### [카르텔 관련 혐의로 미국으로부터 기소된 멕시코 주지사가 거센 반발 속에 다시 휴직을 요청했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716924)
 #### [카르텔 관련 혐의로 미국으로부터 기소된 멕시코 주지사가 거센 반발 속에 다시 휴직을 요청했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716923)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716922)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716921)
@@ -137,11 +138,11 @@
 #### [카니는 캐나다의 미국산 제품에 대한 새로운 관세가 9월 8일부터 시행될 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716867)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716866)
 #### [푸틴, 우크라이나가 경제 시설을 공격하며 “판도라의 상자”를 열었다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716865)
-#### [헝가리의 팍스 원자력발전소가 토요일에 3호기를 재가동할 수 있을 것이라고 마자르 총리가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716864)
-<head><meta charset="utf-8"><title>Vers : 20260823_1422 </title></head>
-<center>Vers : 20260823_1422 </center>
-<center>Vers : 20260823_2322 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_1446 </title></head>
+<center>Vers : 20260823_1446 </center>
+<center>Vers : 20260823_2346 </center>
 <br><br><br>
+#### [헝가리의 팍스 원자력발전소가 토요일에 3호기를 재가동할 수 있을 것이라고 마자르 총리가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716864)
 #### [노리스, 잔드보르트에서 맥라렌을 폴 포지션으로 이끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716863)
 #### [EU, 산불 진압을 위해 세르비아에 헬기와 소방대원 파견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716862)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716861)
@@ -204,4 +205,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VPB.HM/total>
 #### [트럼프, “이란은 ‘올바른 합의’를 맺을 준비가 되어 있지 않다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716806)
 #### [튀니지 인근 해상에서 이주민 선박 침몰로 최소 13명의 튀니지인이 실종됐다고 한 단체가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716805)
-#### [캘리포니아주 뉴섬 주지사, 파라마운트와 워너브라더스 합병을 저지하는 소송의 합의 협상 지지 - 할리우드 리포터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716804)
