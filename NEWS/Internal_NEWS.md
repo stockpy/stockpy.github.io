@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_2044 </title></head>
-<center>Vers : 20260823_2044 </center>
-<center>Vers : 20260824_0544 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_2101 </title></head>
+<center>Vers : 20260823_2101 </center>
+<center>Vers : 20260824_0601 </center>
 <br><br><br>
+#### [아시아 모닝 콜 - 글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717024)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
 #### [NHC 폭풍 주의보: 이젤이 멕시코 연안에서 멀리 떨어진 해상에서 북서쪽으로 이동하며 세력을 강화하고 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717023)
 #### [리노를 위협하는 산불로 네바다주에서 수만 명에게 대피 명령이 내려졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717022)
 #### [주말 뉴스-미국-캐나다 무역 갈등, 이란-미국 대립](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717021)
@@ -63,4 +65,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002307.SZ/total>
 #### [교황 레오, 콩고 에볼라 확산에 대응하기 위한 전 세계적 조치를 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716966)
 #### [이란, 7.5조 입방피트 이상의 천연가스 매장량 발견…석유장관 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716965)
-#### [FT 보도에 따르면, 에니(Eni)가 2040년대 초까지 유럽에 핵융합 발전소를 건설할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716964)
