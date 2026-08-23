@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_0302 </title></head>
-<center>Vers : 20260823_0302 </center>
-<center>Vers : 20260823_1202 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_0435 </title></head>
+<center>Vers : 20260823_0435 </center>
+<center>Vers : 20260823_1335 </center>
 <br><br><br>
+#### [트랜살타 온타리오의 200 MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716934)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716933)
+#### [주목할 요소 - 8월 23일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716932)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716931)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716930)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716929)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716928)
@@ -61,14 +65,14 @@
 #### [카니, 캐나다가 미국의 여러 분야에 보복 관세를 부과할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716877)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716876)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716875)
+<head><meta charset="utf-8"><title>Vers : 20260823_0435 </title></head>
+<center>Vers : 20260823_0435 </center>
+<center>Vers : 20260823_1335 </center>
+<br><br><br>
 #### [EU, 산불 진압을 위해 세르비아에 헬기와 소방대원 파견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716874)
 #### [[속보 1] 젤렌스키 대통령, “프랑스가 우크라이나에 대한 방공 장비 공급을 앞당기기로 합의했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716873)
 #### [업데이트 1-푸틴, 우크라이나가 경제 시설을 공격하며 “판도라의 상자”를 열었다고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716872)
 #### [푸틴, 우크라이나가 경제 시설을 공격하며 ‘판도라의 상자’를 열었다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716871)
-<head><meta charset="utf-8"><title>Vers : 20260823_0302 </title></head>
-<center>Vers : 20260823_0302 </center>
-<center>Vers : 20260823_1202 </center>
-<br><br><br>
 #### [업데이트 1-캐나다가 미국의 다수 산업 분야에 보복 관세를 부과할 예정이라고 카니가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716870)
 #### [모터 레이싱 - 노리스, 러셀 제치고 폴 포지션 차지… 맥라렌, 네덜란드 그랑프리 3연속 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716869)
 #### [이란을 자극했던 파병 한 달 만에 미국 수송기 2대가 불가리아를 떠났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716868)
@@ -127,7 +131,3 @@
 #### [종합 1-미국과 이란, 새로운 제재 시행을 앞두고 적대적인 발언 이어가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716817)
 #### [업데이트 1-트럼프, “이란은 ‘올바른 합의’를 맺을 준비가 되어 있지 않다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716816)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716815)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716814)
-#### [종합 1-미국과 이란, 새로운 제재 시행을 앞두고 적대적인 발언 이어가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716813)
-#### [텍사스주, 공항 세차 시설에 대한 연방 조사 요청… 무슬림 단체, 이 조치에 반발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716812)
-#### [온타리오주 375MW 고어웨이 15(Goreway 15) 가스 화력발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716811)
