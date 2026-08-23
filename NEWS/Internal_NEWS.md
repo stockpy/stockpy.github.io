@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_1828 </title></head>
-<center>Vers : 20260823_1828 </center>
-<center>Vers : 20260824_0328 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_1858 </title></head>
+<center>Vers : 20260823_1858 </center>
+<center>Vers : 20260824_0358 </center>
 <br><br><br>
+#### [러셀, 자신에 대한 메르세데스의 팀 명령을 옹호하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717009)
+#### [모터 레이싱-포뮬러 원 선두 안토넬리, 홈 경기인 몬차에서 그리드 페널티 받게 돼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717008)
 #### [포뮬러 원 선두 안토넬리, 몬차 홈 레이스에서 그리드 페널티 받게 돼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717007)
 #### [8월 23일 일요일 오후 1시 47분(EDT) 기준 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717006)
 #### [노르웨이 왕실, “입원 중인 국왕의 건강 상태가 악화되고 있다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717005)
@@ -64,7 +66,3 @@
 #### [카자흐스탄, 대통령 권한 강화가 예상되는 선거에서 투표 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716952)
 #### [젤렌스키, “푸틴이 9월 선거 이후 30만 명의 신규 병력을 동원할 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716951)
 #### [스위스 신문 보도에 따르면, ECB의 라가르드 총재, WEF에서 “임무를 수행할 준비가 되어 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716950)
-#### [[속보] AVIC 청두 항공기, 상반기 순이익 전년 동기 대비 22.3% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716949)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/302132.SZ/total>
-#### [[속보] 중국 텅스텐·하이테크 머티리얼즈, 상반기 순이익 전년 동기 대비 280.5% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716948)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000657.SZ/total>
