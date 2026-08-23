@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_1927 </title></head>
-<center>Vers : 20260823_1927 </center>
-<center>Vers : 20260824_0427 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_2021 </title></head>
+<center>Vers : 20260823_2021 </center>
+<center>Vers : 20260824_0521 </center>
 <br><br><br>
+#### [BUZZ-COMMENT-이번 주 전망-잭슨 홀, 미국 PCE, 엔비디아 실적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717019)
+#### [비즈니스 인사이더에 따르면, 허깅 페이스가 기업 가치를 130억 달러로 책정한 매각 방안을 검토 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717018)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [천연가스 파이프라인 긴급 공지: 2026년 8월 24일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717017)
+#### [헤이터, 부엘타 대회 측이 잘못된 사이즈의 숏를 건네자 숏를 찢어버렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717016)
 #### [공화당은 진보 진영의 예비선거 승리를 기회로 삼는 반면, 민주당은 논쟁을 환영하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717015)
 #### [해밀턴, 페라리의 전략 탓에 포디움 입상을 놓쳤다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717014)
 #### [좌파 진영이 분열된 가운데 프랑스 정치인 글럭스만이 대선 출마를 선언했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717013)
@@ -62,7 +67,3 @@
 #### [[속보] 대형 석유 기업 에니, 핵융합을 ‘차세대 정유소’로 삼을 전망 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716961)
 #### [[속보 1] 이란 전쟁과 수요 감소에도 불구하고 시노펙의 상반기 순이익은 전년 동기 대비 19.3% 증가했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716960)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600028.SS/total>
-#### [트럼프, 워싱턴 시내를 가로지르는 자동차 경주로 미국 건국 250주년 여름을 마무리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716959)
-#### [젤렌스키 대통령, “푸틴 대통령이 30만 명의 신규 병력을 징집하려 한다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716958)
-#### [이란, 파키스탄 육군 참모총장이 월요일 테헤란을 방문할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716957)
-#### [잔드보르트, ‘마지막 랩’ 네덜란드 그랑프리 축하 행사 후 막을 내리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716956)
