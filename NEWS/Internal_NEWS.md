@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_0859 </title></head>
-<center>Vers : 20260823_0859 </center>
-<center>Vers : 20260823_1759 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_0935 </title></head>
+<center>Vers : 20260823_0935 </center>
+<center>Vers : 20260823_1835 </center>
 <br><br><br>
+#### [마자르 총리, 헝가리 팍스 원전이 수요일까지 최대 가동 능력에 도달할 수 있을 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716954)
+#### [노르웨이, 2027년에 우크라이나에 90억 달러 이상 지원할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716953)
 #### [카자흐스탄, 대통령 권한 강화가 예상되는 선거에서 투표 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716952)
 #### [젤렌스키, “푸틴이 9월 선거 이후 30만 명의 신규 병력을 동원할 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716951)
 #### [스위스 신문 보도에 따르면, ECB의 라가르드 총재, WEF에서 “임무를 수행할 준비가 되어 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716950)
@@ -68,12 +70,12 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBD.O/total>
 #### [사이클-포가카르, 모나코 개인 타임트라이얼 우승…부엘타 도전, 화려한 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716896)
 #### [안토넬리, 네덜란드 그랑프리 주말이 좋은 경각심을 일깨워주었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716895)
+<head><meta charset="utf-8"><title>Vers : 20260823_0935 </title></head>
+<center>Vers : 20260823_0935 </center>
+<center>Vers : 20260823_1835 </center>
+<br><br><br>
 #### [[속보] 파라마운트와 캘리포니아, 8월 24일 워너브라더스 인수 관련 예비 협의 예정 - NYT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716894)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716893)
-<head><meta charset="utf-8"><title>Vers : 20260823_0859 </title></head>
-<center>Vers : 20260823_0859 </center>
-<center>Vers : 20260823_1759 </center>
-<br><br><br>
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716892)
 #### [[속보] 유니포어, 제너럴 모터스와 잠정 합의 도달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716891)
 #### [[속보] 에피서프, 의료기기 사업 부문에 대한 전략적 검토 마무리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716890)
@@ -133,5 +135,3 @@
 #### [인도 중앙은행, “인도, 해외 예금 및 대출을 통해 728억 달러 조달”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716837)
 #### [타스님 통신에 따르면, 이란 당국자가 카타르 측에 구금 중인 조종사들을 육지의 병원으로 이송할 것을 촉구했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716836)
 #### [영국 경찰, 순찰차 사고로 여러 명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716835)
-#### [루마니아, 체르나보다 원전 냉각을 위해 다뉴브강 유량 증대를 위한 새로운 조치 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716834)
-#### [이란, 다수의 이라크 유조선에 호르무즈 해협 통과 허가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716833)
