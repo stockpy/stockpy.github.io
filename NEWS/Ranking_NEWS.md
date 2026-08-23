@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_0435 </title></head>
-<center>Vers : 20260823_0435 </center>
-<center>Vers : 20260823_1335 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_0505 </title></head>
+<center>Vers : 20260823_0505 </center>
+<center>Vers : 20260823_1405 </center>
 <br><br><br>
 #### [맘스터치 1조·노랑통닭 2천억 그리고 버거킹까지…M&A 맛집 총출동 [M&A복덕방]](https://m.stock.naver.com/news/ranknews/view/009/0005724400)
 #### ["두 달 전엔 삼전·하닉 몰빵했는데"…'다음 타자' 찾는 개미들, 한전·두빌에 '정찰주' [개미의 세계]](https://m.stock.naver.com/news/ranknews/view/014/0005564950)
