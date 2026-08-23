@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_0117 </title></head>
-<center>Vers : 20260823_0117 </center>
-<center>Vers : 20260823_1017 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_0302 </title></head>
+<center>Vers : 20260823_0302 </center>
+<center>Vers : 20260823_1202 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716930)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716929)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716928)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716927)
+#### [크루거 에너지 온타리오의 101MW 포트 알마 1호 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716926)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716925)
+#### [카르텔 관련 혐의로 미국으로부터 기소된 멕시코 주지사가 거센 반발 속에 다시 휴직을 요청했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716924)
 #### [카르텔 관련 혐의로 미국으로부터 기소된 멕시코 주지사가 거센 반발 속에 다시 휴직을 요청했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716923)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716922)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716921)
@@ -58,6 +65,10 @@
 #### [[속보 1] 젤렌스키 대통령, “프랑스가 우크라이나에 대한 방공 장비 공급을 앞당기기로 합의했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716873)
 #### [업데이트 1-푸틴, 우크라이나가 경제 시설을 공격하며 “판도라의 상자”를 열었다고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716872)
 #### [푸틴, 우크라이나가 경제 시설을 공격하며 ‘판도라의 상자’를 열었다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716871)
+<head><meta charset="utf-8"><title>Vers : 20260823_0302 </title></head>
+<center>Vers : 20260823_0302 </center>
+<center>Vers : 20260823_1202 </center>
+<br><br><br>
 #### [업데이트 1-캐나다가 미국의 다수 산업 분야에 보복 관세를 부과할 예정이라고 카니가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716870)
 #### [모터 레이싱 - 노리스, 러셀 제치고 폴 포지션 차지… 맥라렌, 네덜란드 그랑프리 3연속 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716869)
 #### [이란을 자극했던 파병 한 달 만에 미국 수송기 2대가 불가리아를 떠났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716868)
@@ -65,10 +76,6 @@
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716866)
 #### [푸틴, 우크라이나가 경제 시설을 공격하며 “판도라의 상자”를 열었다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716865)
 #### [헝가리의 팍스 원자력발전소가 토요일에 3호기를 재가동할 수 있을 것이라고 마자르 총리가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716864)
-<head><meta charset="utf-8"><title>Vers : 20260823_0117 </title></head>
-<center>Vers : 20260823_0117 </center>
-<center>Vers : 20260823_1017 </center>
-<br><br><br>
 #### [노리스, 잔드보르트에서 맥라렌을 폴 포지션으로 이끌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716863)
 #### [EU, 산불 진압을 위해 세르비아에 헬기와 소방대원 파견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716862)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716861)
@@ -124,11 +131,3 @@
 #### [종합 1-미국과 이란, 새로운 제재 시행을 앞두고 적대적인 발언 이어가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716813)
 #### [텍사스주, 공항 세차 시설에 대한 연방 조사 요청… 무슬림 단체, 이 조치에 반발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716812)
 #### [온타리오주 375MW 고어웨이 15(Goreway 15) 가스 화력발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716811)
-#### [[속보 1] 미국 우정청, 법원 승인 시 우편 투표 규정을 강화하는 지침 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716810)
-#### [미 국방부, 미군 신문사 지도부 해임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716809)
-#### [8월 24일 인도 경제·기업 관련 행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716808)
-#### [FTSE 러셀, 베트남 신흥시장 등급 상향 조정 대상 기업으로 호아팟, 빈그룹, FPT 선정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716807)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/VPB.HM/total>
-#### [트럼프, “이란은 ‘올바른 합의’를 맺을 준비가 되어 있지 않다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716806)
-#### [튀니지 인근 해상에서 이주민 선박 침몰로 최소 13명의 튀니지인이 실종됐다고 한 단체가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716805)
-#### [캘리포니아주 뉴섬 주지사, 파라마운트와 워너브라더스 합병을 저지하는 소송의 합의 협상 지지 - 할리우드 리포터](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716804)
