@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_1238 </title></head>
-<center>Vers : 20260823_1238 </center>
-<center>Vers : 20260823_2138 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_1319 </title></head>
+<center>Vers : 20260823_1319 </center>
+<center>Vers : 20260823_2219 </center>
 <br><br><br>
+#### [유가 상승으로 시장 심리가 개선되며 걸프 지역 증시 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716978)
+#### [의료진에 따르면, 이스라엘의 가자 지구 공습으로 4세 소년을 포함해 2명이 사망했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716977)
+#### [7’ 달 탐사 임무 연기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716976)
+#### [이란, 7.5조 입방피트 이상의 천연가스 매장량 발견했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716975)
+#### [튀니지 해안경비대가 침몰한 선박에 타고 있던 이주민 8명의 시신을 수습했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716974)
 #### [[종합 1] 이란, “절박한” 미국의 새로운 제재 위협은 실패할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716973)
 #### [배드민턴-라니에, 나라오카를 꺾고 프랑스인 최초로 단식 세계 챔피언 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716972)
 #### [라니에, 나라오카를 꺾고 프랑스인 최초로 단식 세계 챔피언에 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716971)
@@ -66,15 +71,15 @@
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716921)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716920)
 #### [천연가스 파이프라인 긴급 공지: Southern Natural Gas의 최신 파이프라인 현황 (2026년 8월 23일)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716919)
+<head><meta charset="utf-8"><title>Vers : 20260823_1319 </title></head>
+<center>Vers : 20260823_1319 </center>
+<center>Vers : 20260823_2219 </center>
+<br><br><br>
 #### [팔루, 워싱턴에서 시즌 7번째 인디카 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716918)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716917)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716916)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716915)
 #### [WPP, 칸타르 매각으로 10억 파운드 수익 증가 기대? - 더 타임스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716914)
-<head><meta charset="utf-8"><title>Vers : 20260823_1238 </title></head>
-<center>Vers : 20260823_1238 </center>
-<center>Vers : 20260823_2138 </center>
-<br><br><br>
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716913)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716912)
 #### [마일레이, F1을 아르헨티나로 다시 불러오기 위해 주도권을 잡았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716911)
@@ -133,8 +138,3 @@
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716861)
 #### [우크라이나의 젤렌스키 대통령은 마크롱 대통령이 방공 장비 공급을 앞당기기로 합의했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716860)
 #### [학교에서 칼부림 사건으로 10대 소녀가 사망한 후, 스웨덴 경찰이 온라인 네트워크를 수사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716859)
-#### [영국에서 역주행 차량이 경찰차를 들이받아 7명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716858)
-#### [“사랑을 위한 투표”: 마그데부르크 프라이드 참가자들, 선거를 앞두고 AfD에 맞서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716857)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716856)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716855)
-#### [무역 협상 결렬 후, 미국, 캐나다산 제품에 50% 관세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716854)
