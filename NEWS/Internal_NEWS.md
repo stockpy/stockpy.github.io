@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_2243 </title></head>
-<center>Vers : 20260823_2243 </center>
-<center>Vers : 20260824_0743 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_2300 </title></head>
+<center>Vers : 20260823_2300 </center>
+<center>Vers : 20260824_0800 </center>
 <br><br><br>
+#### [[속보 1] 시리아 통신, “시리아와 이스라엘, 긴장 완화를 위해 미국의 중재로 회담 진행”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717036)
+#### [우크라이나 하르키우 인근에서 러시아의 공격으로 3명 사망했다고 주지사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717035)
 #### [패스트 패션 대기업 셰인(Shein), 최대 18억 달러 규모의 홍콩 기업공개(IPO) 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717034)
 #### [스타브로폴 주 네빈노미스크 산업 단지에 대한 드론 공격을 러시아가 격퇴하고 있다고 주지사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717033)
 #### [Shein, 최대 18억 달러 규모의 홍콩 기업공개(IPO)에 나선다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717032)
@@ -62,5 +64,3 @@
 #### [싱가포르 총리는 관세 회피 행위에 대해서는 철저히 조사하겠지만, 무역 규모를 고려할 때 현실적인 접근이 필요하다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716979)
 #### [유가 상승으로 시장 심리가 개선되며 걸프 지역 증시 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716978)
 #### [의료진에 따르면, 이스라엘의 가자 지구 공습으로 4세 소년을 포함해 2명이 사망했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716977)
-#### [7’ 달 탐사 임무 연기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716976)
-#### [이란, 7.5조 입방피트 이상의 천연가스 매장량 발견했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716975)
