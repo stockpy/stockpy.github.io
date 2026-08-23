@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_1047 </title></head>
-<center>Vers : 20260823_1047 </center>
-<center>Vers : 20260823_1947 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_1107 </title></head>
+<center>Vers : 20260823_1107 </center>
+<center>Vers : 20260823_2007 </center>
 <br><br><br>
+#### [FT 보도에 따르면, 에니(Eni)가 2040년대 초까지 유럽에 핵융합 발전소를 건설할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716964)
 #### [[속보] 중국석유화공그룹, A주 1주당 0.105위안의 현금 배당금 지급 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716963)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600028.SS/total>
 #### [자위안 사이언스 앤 테크, 거래 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716962)
@@ -69,11 +70,11 @@
 #### [천연가스 파이프라인 긴급 공지: 서던 내추럴 가스 유지보수 계약, LA 서부 구간 350번 구간](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716907)
 #### [캐나다 유니포르(Unifor) 노조와 GM, 잠정 합의에 도달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716906)
 #### [크루거 에너지 온타리오의 101MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716905)
-#### [크루거 에너지 온타리오의 101MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716904)
-<head><meta charset="utf-8"><title>Vers : 20260823_1047 </title></head>
-<center>Vers : 20260823_1047 </center>
-<center>Vers : 20260823_1947 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_1107 </title></head>
+<center>Vers : 20260823_1107 </center>
+<center>Vers : 20260823_2007 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오의 101MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716904)
 #### [엔브리지 온타리오의 182MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716903)
 #### [[업데이트 1] 블룸버그 뉴스 보도에 따르면, 엔비디아 고객들에게 AI 관련 제품 가격 15% 이상 인상 소식이 전달되었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716902)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
@@ -136,4 +137,3 @@
 #### [학교에서 칼부림 사건으로 10대 소녀가 숨진 후, 스웨덴 경찰이 온라인 커뮤니티를 수사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716847)
 #### [[속보] Cemat A/S, 2026년 연결 매출 8,600만~8,800만 덴마크 크로네 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716846)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716845)
-#### [TranAlta Ontario의 198MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716844)

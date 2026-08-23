@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_1047 </title></head>
-<center>Vers : 20260823_1047 </center>
-<center>Vers : 20260823_1947 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_1107 </title></head>
+<center>Vers : 20260823_1107 </center>
+<center>Vers : 20260823_2007 </center>
 <br><br><br>
 #### [부모님 장례비·병원비 급한데…‘묶인 상속예금’ 1.9조원](https://m.stock.naver.com/news/ranknews/view/009/0005724597)
 #### [“하이닉스 주식 너무 비싸” 삼성전자처럼 못 해?…250만→5만원 ‘액면분할’ 소환 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002687123)
