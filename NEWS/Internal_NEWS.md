@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_0639 </title></head>
-<center>Vers : 20260823_0639 </center>
-<center>Vers : 20260823_1539 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_0719 </title></head>
+<center>Vers : 20260823_0719 </center>
+<center>Vers : 20260823_1619 </center>
 <br><br><br>
+#### [베트남, 지적재산권 집행 강화를 위한 관세법 개정안 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716943)
 #### [네바다주 산불 규모, 10,500에이커 이상으로 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716942)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716941)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716940)
@@ -66,11 +67,11 @@
 #### [인도 동부 해상에서 파나마 선적 화물선이 침몰했다고 해안경비대가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716886)
 #### [천연가스 파이프라인 긴급 공지: 서던 내추럴 가스 업데이트 #2 파이프라인 현황 2026년 8월 22일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716885)
 #### [이란 공격수 타레미, UAE 프로리그 선두 알 와슬에 합류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716884)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716883)
-<head><meta charset="utf-8"><title>Vers : 20260823_0639 </title></head>
-<center>Vers : 20260823_0639 </center>
-<center>Vers : 20260823_1539 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_0719 </title></head>
+<center>Vers : 20260823_0719 </center>
+<center>Vers : 20260823_1619 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716883)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716882)
 #### [GFZ에 따르면 일본 혼슈 동부 해안 인근에서 규모 5.8의 지진이 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716881)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716880)
@@ -131,5 +132,3 @@
 #### [서방 국가들의 우려 속, 한국 선박이 북극 상업 항로를 시험 항해한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716826)
 #### [이란이 이라크 유조선의 호르무즈 해협 통과를 허가했다고 국영 통신사가 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716825)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716824)
-#### [수페리어메드 홀딩스 리미티드, 스타리 씨 어퀴지션 코프와 합병 계약 및 계획 체결 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716823)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SSEA.O/total>
