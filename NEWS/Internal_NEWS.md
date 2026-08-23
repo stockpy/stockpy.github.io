@@ -1,7 +1,14 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_2101 </title></head>
-<center>Vers : 20260823_2101 </center>
-<center>Vers : 20260824_0601 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_2220 </title></head>
+<center>Vers : 20260823_2220 </center>
+<center>Vers : 20260824_0720 </center>
 <br><br><br>
+#### [프랑스와 독일의 성장에 힘입어 7월 유럽 전기차 시장 점유율이 25%를 넘어섰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717031)
+#### [AUD/USD는 장 초반 하락세를 보였으나, 약세를 보이는 달러가 지지선을 형성할 것으로 보인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717030)
+#### [멕시코에서 실종자 유가족들이 추모비를 청소하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717029)
+#### [[속보] Artmarket.Com, 에르만 가문과 Groupe Serveur가 Artmarket.Com 지분 확대 예정이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717028)
+#### [모터 레이싱 - 커크우드, 사고가 잇따른 워싱턴 ‘프리덤 250’에서 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717027)
+#### [시리아 국영 통신에 따르면, 시리아와 이스라엘이 긴장 완화를 위해 미국의 중재 하에 회담을 가졌다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717026)
+#### [젤렌스키, 우크라이나는 노르드 스트림 폭발 사건과 무관하다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717025)
 #### [아시아 모닝 콜 - 글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717024)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.DJI>
 #### [NHC 폭풍 주의보: 이젤이 멕시코 연안에서 멀리 떨어진 해상에서 북서쪽으로 이동하며 세력을 강화하고 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717023)
@@ -57,11 +64,3 @@
 #### [튀니지 해안경비대가 침몰한 선박에 타고 있던 이주민 8명의 시신을 수습했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716974)
 #### [[종합 1] 이란, “절박한” 미국의 새로운 제재 위협은 실패할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716973)
 #### [배드민턴-라니에, 나라오카를 꺾고 프랑스인 최초로 단식 세계 챔피언 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716972)
-#### [라니에, 나라오카를 꺾고 프랑스인 최초로 단식 세계 챔피언에 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716971)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716970)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716969)
-#### [젤렌스키 대통령, “전시 선거는 우크라이나를 ‘파멸’시킬 것”이라고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716968)
-#### [[속보] 신장 북신 도로·교량, 상반기 순손실 2억 5,810만 위안 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716967)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002307.SZ/total>
-#### [교황 레오, 콩고 에볼라 확산에 대응하기 위한 전 세계적 조치를 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716966)
-#### [이란, 7.5조 입방피트 이상의 천연가스 매장량 발견…석유장관 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716965)
