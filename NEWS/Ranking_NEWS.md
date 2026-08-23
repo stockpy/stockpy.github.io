@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_2220 </title></head>
-<center>Vers : 20260823_2220 </center>
-<center>Vers : 20260824_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_2243 </title></head>
+<center>Vers : 20260823_2243 </center>
+<center>Vers : 20260824_0743 </center>
 <br><br><br>
 #### [학습효과 없는 개미들 “삼전닉스 2배ETF 가즈아”…이틀만에 2조](https://m.stock.naver.com/news/ranknews/view/009/0005724636)
 #### [중국업체에 800억대 사기당한 기업은행…"허술한 내부통제"](https://m.stock.naver.com/news/ranknews/view/001/0016265890)

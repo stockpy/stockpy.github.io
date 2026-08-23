@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_2220 </title></head>
-<center>Vers : 20260823_2220 </center>
-<center>Vers : 20260824_0720 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_2243 </title></head>
+<center>Vers : 20260823_2243 </center>
+<center>Vers : 20260824_0743 </center>
 <br><br><br>
+#### [패스트 패션 대기업 셰인(Shein), 최대 18억 달러 규모의 홍콩 기업공개(IPO) 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717034)
+#### [스타브로폴 주 네빈노미스크 산업 단지에 대한 드론 공격을 러시아가 격퇴하고 있다고 주지사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717033)
+#### [Shein, 최대 18억 달러 규모의 홍콩 기업공개(IPO)에 나선다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717032)
 #### [프랑스와 독일의 성장에 힘입어 7월 유럽 전기차 시장 점유율이 25%를 넘어섰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717031)
 #### [AUD/USD는 장 초반 하락세를 보였으나, 약세를 보이는 달러가 지지선을 형성할 것으로 보인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717030)
 #### [멕시코에서 실종자 유가족들이 추모비를 청소하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717029)
@@ -61,6 +64,3 @@
 #### [의료진에 따르면, 이스라엘의 가자 지구 공습으로 4세 소년을 포함해 2명이 사망했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716977)
 #### [7’ 달 탐사 임무 연기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716976)
 #### [이란, 7.5조 입방피트 이상의 천연가스 매장량 발견했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716975)
-#### [튀니지 해안경비대가 침몰한 선박에 타고 있던 이주민 8명의 시신을 수습했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716974)
-#### [[종합 1] 이란, “절박한” 미국의 새로운 제재 위협은 실패할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716973)
-#### [배드민턴-라니에, 나라오카를 꺾고 프랑스인 최초로 단식 세계 챔피언 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716972)
