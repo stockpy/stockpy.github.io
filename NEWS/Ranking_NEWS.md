@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_1446 </title></head>
-<center>Vers : 20260823_1446 </center>
-<center>Vers : 20260823_2346 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_1503 </title></head>
+<center>Vers : 20260823_1503 </center>
+<center>Vers : 20260824_0003 </center>
 <br><br><br>
 #### [“하이닉스 주식 너무 비싸” 삼성전자처럼 못 해?…250만→5만원 ‘액면분할’ 소환 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002687123)
 #### ['110조' 푸는 삼성전자...증권사 "파격 배당땐 30만원 안착"](https://m.stock.naver.com/news/ranknews/view/014/0005565081)
