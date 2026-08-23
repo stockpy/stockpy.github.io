@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_1107 </title></head>
-<center>Vers : 20260823_1107 </center>
-<center>Vers : 20260823_2007 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_1238 </title></head>
+<center>Vers : 20260823_1238 </center>
+<center>Vers : 20260823_2138 </center>
 <br><br><br>
+#### [[종합 1] 이란, “절박한” 미국의 새로운 제재 위협은 실패할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716973)
+#### [배드민턴-라니에, 나라오카를 꺾고 프랑스인 최초로 단식 세계 챔피언 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716972)
+#### [라니에, 나라오카를 꺾고 프랑스인 최초로 단식 세계 챔피언에 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716971)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716970)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716969)
+#### [젤렌스키 대통령, “전시 선거는 우크라이나를 ‘파멸’시킬 것”이라고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716968)
+#### [[속보] 신장 북신 도로·교량, 상반기 순손실 2억 5,810만 위안 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716967)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002307.SZ/total>
+#### [교황 레오, 콩고 에볼라 확산에 대응하기 위한 전 세계적 조치를 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716966)
+#### [이란, 7.5조 입방피트 이상의 천연가스 매장량 발견…석유장관 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716965)
 #### [FT 보도에 따르면, 에니(Eni)가 2040년대 초까지 유럽에 핵융합 발전소를 건설할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716964)
 #### [[속보] 중국석유화공그룹, A주 1주당 0.105위안의 현금 배당금 지급 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716963)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600028.SS/total>
@@ -61,6 +71,10 @@
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716916)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716915)
 #### [WPP, 칸타르 매각으로 10억 파운드 수익 증가 기대? - 더 타임스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716914)
+<head><meta charset="utf-8"><title>Vers : 20260823_1238 </title></head>
+<center>Vers : 20260823_1238 </center>
+<center>Vers : 20260823_2138 </center>
+<br><br><br>
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716913)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716912)
 #### [마일레이, F1을 아르헨티나로 다시 불러오기 위해 주도권을 잡았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716911)
@@ -70,10 +84,6 @@
 #### [천연가스 파이프라인 긴급 공지: 서던 내추럴 가스 유지보수 계약, LA 서부 구간 350번 구간](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716907)
 #### [캐나다 유니포르(Unifor) 노조와 GM, 잠정 합의에 도달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716906)
 #### [크루거 에너지 온타리오의 101MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716905)
-<head><meta charset="utf-8"><title>Vers : 20260823_1107 </title></head>
-<center>Vers : 20260823_1107 </center>
-<center>Vers : 20260823_2007 </center>
-<br><br><br>
 #### [크루거 에너지 온타리오의 101MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716904)
 #### [엔브리지 온타리오의 182MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716903)
 #### [[업데이트 1] 블룸버그 뉴스 보도에 따르면, 엔비디아 고객들에게 AI 관련 제품 가격 15% 이상 인상 소식이 전달되었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716902)
@@ -128,12 +138,3 @@
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716856)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716855)
 #### [무역 협상 결렬 후, 미국, 캐나다산 제품에 50% 관세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716854)
-#### [무역 협상 결렬에 따라 미국, 캐나다산 제품에 50% 관세 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716853)
-#### [모터레이싱 - 러셀, 사기를 북돋아 준 네덜란드 그랑프리 스프린트 우승을 자축하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716852)
-#### [러셀, 네덜란드 그랑프리 스프린트 레이스에서 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716851)
-#### [트럼프가 퀘벡에서 분리주의의 매력을 떨어뜨리고 있는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716850)
-#### [트럼프가 퀘벡에서 분리주의의 매력을 떨어뜨리고 있는 이유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716849)
-#### [이란 사우스 파스 14단계 정유소 보수 작업, 70% 완료 - SHANA](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716848)
-#### [학교에서 칼부림 사건으로 10대 소녀가 숨진 후, 스웨덴 경찰이 온라인 커뮤니티를 수사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716847)
-#### [[속보] Cemat A/S, 2026년 연결 매출 8,600만~8,800만 덴마크 크로네 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716846)
-#### [온타리오주 브룩필드의 189MW 프린스 풍력발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716845)
