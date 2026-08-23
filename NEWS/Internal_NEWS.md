@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_0935 </title></head>
-<center>Vers : 20260823_0935 </center>
-<center>Vers : 20260823_1835 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_1022 </title></head>
+<center>Vers : 20260823_1022 </center>
+<center>Vers : 20260823_1922 </center>
 <br><br><br>
+#### [자위안 사이언스 앤 테크, 거래 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716962)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301117.SZ/total>
+#### [[속보] 대형 석유 기업 에니, 핵융합을 ‘차세대 정유소’로 삼을 전망 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716961)
+#### [[속보 1] 이란 전쟁과 수요 감소에도 불구하고 시노펙의 상반기 순이익은 전년 동기 대비 19.3% 증가했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716960)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600028.SS/total>
+#### [트럼프, 워싱턴 시내를 가로지르는 자동차 경주로 미국 건국 250주년 여름을 마무리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716959)
+#### [젤렌스키 대통령, “푸틴 대통령이 30만 명의 신규 병력을 징집하려 한다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716958)
+#### [이란, 파키스탄 육군 참모총장이 월요일 테헤란을 방문할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716957)
+#### [잔드보르트, ‘마지막 랩’ 네덜란드 그랑프리 축하 행사 후 막을 내리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716956)
+#### [노르웨이, 2027년에 우크라이나에 90억 달러 이상 지원할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716955)
 #### [마자르 총리, 헝가리 팍스 원전이 수요일까지 최대 가동 능력에 도달할 수 있을 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716954)
 #### [노르웨이, 2027년에 우크라이나에 90억 달러 이상 지원할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716953)
 #### [카자흐스탄, 대통령 권한 강화가 예상되는 선거에서 투표 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716952)
@@ -59,6 +69,10 @@
 #### [크루거 에너지 온타리오의 101MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716905)
 #### [크루거 에너지 온타리오의 101MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716904)
 #### [엔브리지 온타리오의 182MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716903)
+<head><meta charset="utf-8"><title>Vers : 20260823_1022 </title></head>
+<center>Vers : 20260823_1022 </center>
+<center>Vers : 20260823_1922 </center>
+<br><br><br>
 #### [[업데이트 1] 블룸버그 뉴스 보도에 따르면, 엔비디아 고객들에게 AI 관련 제품 가격 15% 이상 인상 소식이 전달되었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716902)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
 #### [천연가스 파이프라인 긴급 공지: 2026년 8월 23일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716901)
@@ -70,10 +84,6 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBD.O/total>
 #### [사이클-포가카르, 모나코 개인 타임트라이얼 우승…부엘타 도전, 화려한 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716896)
 #### [안토넬리, 네덜란드 그랑프리 주말이 좋은 경각심을 일깨워주었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716895)
-<head><meta charset="utf-8"><title>Vers : 20260823_0935 </title></head>
-<center>Vers : 20260823_0935 </center>
-<center>Vers : 20260823_1835 </center>
-<br><br><br>
 #### [[속보] 파라마운트와 캘리포니아, 8월 24일 워너브라더스 인수 관련 예비 협의 예정 - NYT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716894)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716893)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716892)
@@ -127,11 +137,3 @@
 #### [TranAlta Ontario의 198MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716844)
 #### [이번 주 브레이킹뷰스: 기업공개(IPO) 가격 책정의 기술](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716843)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRNA.O/total>
-#### [트럼프의 관세 조치 여파로 퀘벡, 캐나다로부터의 신속한 분리 의지 약화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716842)
-#### [이란 당국자, 카타르에 구금 중인 조종사들을 육지의 병원으로 이송할 것을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716841)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716840)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716839)
-#### [우크라이나 드론이 여러 명을 사살하고 러시아 온라인 유통업체 오존(Ozon)의 창고를 타격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716838)
-#### [인도 중앙은행, “인도, 해외 예금 및 대출을 통해 728억 달러 조달”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716837)
-#### [타스님 통신에 따르면, 이란 당국자가 카타르 측에 구금 중인 조종사들을 육지의 병원으로 이송할 것을 촉구했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716836)
-#### [영국 경찰, 순찰차 사고로 여러 명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716835)
