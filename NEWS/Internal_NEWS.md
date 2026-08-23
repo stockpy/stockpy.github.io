@@ -1,7 +1,11 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_1624 </title></head>
-<center>Vers : 20260823_1624 </center>
-<center>Vers : 20260824_0124 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_1649 </title></head>
+<center>Vers : 20260823_1649 </center>
+<center>Vers : 20260824_0149 </center>
 <br><br><br>
+#### [독일의 AfD, 연방 정권 장악을 향한 첫걸음으로 작센-안할트 주 선거 승리를 노린다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716995)
+#### [터키 중앙은행, 1주 만기 레포 입찰 재개 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716994)
+#### [사이클-영국의 브레넌, 부엘타 2단계 우승… 포가카르, 종합 선두 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716993)
+#### [EU 대원들이 세르비아의 델리블라토 샌즈 산불 진압을 돕고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716992)
 #### [영국의 브레넌, 부엘타 2단계 우승… 포가카르, 종합 선두 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716991)
 #### [임시 전력 공급업체 애그레코, 미국 상장 신청 예정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716990)
 #### [유니크레디트의 인수 제안 이후, 코메르츠방크 회장이 독일 인수 규정의 재검토를 촉구했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716989)
@@ -66,8 +70,3 @@
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716937)
 #### [알리바바, 100억 달러 규모의 홍콩 주식 배정 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716936)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [알리바바, 100억 달러 규모의 홍콩 주식 배정 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716935)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9988.HK/total>
-#### [트랜살타 온타리오의 200 MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716934)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716933)
-#### [주목할 요소 - 8월 23일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716932)

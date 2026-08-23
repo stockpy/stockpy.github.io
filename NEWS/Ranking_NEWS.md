@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_1624 </title></head>
-<center>Vers : 20260823_1624 </center>
-<center>Vers : 20260824_0124 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_1649 </title></head>
+<center>Vers : 20260823_1649 </center>
+<center>Vers : 20260824_0149 </center>
 <br><br><br>
 #### ['110조' 푸는 삼성전자...증권사 "파격 배당땐 30만원 안착"](https://m.stock.naver.com/news/ranknews/view/014/0005565081)
 #### [“내 계좌는 죄다 파란불인데…” 트럼프, 주식 뭐 사고 팔았나](https://m.stock.naver.com/news/ranknews/view/021/0002813193)
