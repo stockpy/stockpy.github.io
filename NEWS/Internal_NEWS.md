@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_1858 </title></head>
-<center>Vers : 20260823_1858 </center>
-<center>Vers : 20260824_0358 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_1927 </title></head>
+<center>Vers : 20260823_1927 </center>
+<center>Vers : 20260824_0427 </center>
 <br><br><br>
+#### [공화당은 진보 진영의 예비선거 승리를 기회로 삼는 반면, 민주당은 논쟁을 환영하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717015)
+#### [해밀턴, 페라리의 전략 탓에 포디움 입상을 놓쳤다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717014)
+#### [좌파 진영이 분열된 가운데 프랑스 정치인 글럭스만이 대선 출마를 선언했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717013)
+#### [[속보] 허깅 페이스, 최소 130억 달러 규모 인수합병(M&A) 제안을 받아온 것으로 알려짐 - 비즈니스 인사이더](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717012)
+#### [BUZZ-IMM: 캐나다 달러 숏 포지션 청산이 엔화 매도세를 앞지르면서 달러 매수 포지션이 축소됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717011)
+#### [모터레이싱-러셀, 자신을 대상으로 한 메르세데스의 팀 오더를 옹호하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717010)
 #### [러셀, 자신에 대한 메르세데스의 팀 명령을 옹호하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717009)
 #### [모터 레이싱-포뮬러 원 선두 안토넬리, 홈 경기인 몬차에서 그리드 페널티 받게 돼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717008)
 #### [포뮬러 원 선두 안토넬리, 몬차 홈 레이스에서 그리드 페널티 받게 돼](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717007)
@@ -60,9 +66,3 @@
 #### [젤렌스키 대통령, “푸틴 대통령이 30만 명의 신규 병력을 징집하려 한다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716958)
 #### [이란, 파키스탄 육군 참모총장이 월요일 테헤란을 방문할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716957)
 #### [잔드보르트, ‘마지막 랩’ 네덜란드 그랑프리 축하 행사 후 막을 내리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716956)
-#### [노르웨이, 2027년에 우크라이나에 90억 달러 이상 지원할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716955)
-#### [마자르 총리, 헝가리 팍스 원전이 수요일까지 최대 가동 능력에 도달할 수 있을 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716954)
-#### [노르웨이, 2027년에 우크라이나에 90억 달러 이상 지원할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716953)
-#### [카자흐스탄, 대통령 권한 강화가 예상되는 선거에서 투표 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716952)
-#### [젤렌스키, “푸틴이 9월 선거 이후 30만 명의 신규 병력을 동원할 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716951)
-#### [스위스 신문 보도에 따르면, ECB의 라가르드 총재, WEF에서 “임무를 수행할 준비가 되어 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716950)
