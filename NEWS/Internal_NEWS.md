@@ -1,7 +1,8 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_0828 </title></head>
-<center>Vers : 20260823_0828 </center>
-<center>Vers : 20260823_1728 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_0859 </title></head>
+<center>Vers : 20260823_0859 </center>
+<center>Vers : 20260823_1759 </center>
 <br><br><br>
+#### [카자흐스탄, 대통령 권한 강화가 예상되는 선거에서 투표 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716952)
 #### [젤렌스키, “푸틴이 9월 선거 이후 30만 명의 신규 병력을 동원할 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716951)
 #### [스위스 신문 보도에 따르면, ECB의 라가르드 총재, WEF에서 “임무를 수행할 준비가 되어 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716950)
 #### [[속보] AVIC 청두 항공기, 상반기 순이익 전년 동기 대비 22.3% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716949)
@@ -69,11 +70,11 @@
 #### [안토넬리, 네덜란드 그랑프리 주말이 좋은 경각심을 일깨워주었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716895)
 #### [[속보] 파라마운트와 캘리포니아, 8월 24일 워너브라더스 인수 관련 예비 협의 예정 - NYT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716894)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716893)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716892)
-<head><meta charset="utf-8"><title>Vers : 20260823_0828 </title></head>
-<center>Vers : 20260823_0828 </center>
-<center>Vers : 20260823_1728 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_0859 </title></head>
+<center>Vers : 20260823_0859 </center>
+<center>Vers : 20260823_1759 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716892)
 #### [[속보] 유니포어, 제너럴 모터스와 잠정 합의 도달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716891)
 #### [[속보] 에피서프, 의료기기 사업 부문에 대한 전략적 검토 마무리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716890)
 #### [미국 북서부 강 유수량은 82%로 변동이 없었다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716889)
@@ -134,4 +135,3 @@
 #### [영국 경찰, 순찰차 사고로 여러 명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716835)
 #### [루마니아, 체르나보다 원전 냉각을 위해 다뉴브강 유량 증대를 위한 새로운 조치 도입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716834)
 #### [이란, 다수의 이라크 유조선에 호르무즈 해협 통과 허가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716833)
-#### [우크라이나 군 당국은 밤사이 노보쿠이비셰프스크 정유소를 공습했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716832)

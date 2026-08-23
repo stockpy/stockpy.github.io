@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_0828 </title></head>
-<center>Vers : 20260823_0828 </center>
-<center>Vers : 20260823_1728 </center>
+<head><meta charset="utf-8"><title>Vers : 20260823_0859 </title></head>
+<center>Vers : 20260823_0859 </center>
+<center>Vers : 20260823_1759 </center>
 <br><br><br>
 #### [“하이닉스 주식 너무 비싸” 삼성전자처럼 못 해?…250만→5만원 ‘액면분할’ 소환 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002687123)
 #### [맘스터치 1조·노랑통닭 2천억 그리고 버거킹까지…M&A 맛집 총출동 [M&A복덕방]](https://m.stock.naver.com/news/ranknews/view/009/0005724400)
