@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260824_1636 </title></head>
-<center>Vers : 20260824_1636 </center>
-<center>Vers : 20260825_0136 </center>
+<head><meta charset="utf-8"><title>Vers : 20260824_1713 </title></head>
+<center>Vers : 20260824_1713 </center>
+<center>Vers : 20260825_0213 </center>
 <br><br><br>
 #### [‘72만원→34만원’ 반토막 비명 나더니…삼성株 줄줄이 빠질 때 혼자 50만원 뚫었다](https://m.stock.naver.com/news/ranknews/view/011/0004654709)
 #### ["3년 내 터진다, 금·비트코인 모아라"…세계 최대 헤지펀드 창업자 경고](https://m.stock.naver.com/news/ranknews/view/277/0005806697)
