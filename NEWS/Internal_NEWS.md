@@ -1,7 +1,55 @@
-<head><meta charset="utf-8"><title>Vers : 20260823_2300 </title></head>
-<center>Vers : 20260823_2300 </center>
-<center>Vers : 20260824_0800 </center>
+<head><meta charset="utf-8"><title>Vers : 20260824_0115 </title></head>
+<center>Vers : 20260824_0115 </center>
+<center>Vers : 20260824_1015 </center>
 <br><br><br>
+#### [[속보] 셰인(Shein), 에버레인(Everlane) 인수에 미 국가안보 심사 직면 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717077)
+#### [블룸버그 뉴스에 따르면, 셰인(Shein)의 에버레인(Everlane) 인수가 미국 국가안보 심사를 받게 될 전망이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717076)
+#### [기프트 홀딩스 <9279.T>-2025/26년 그룹 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717075)
+#### [KPMG 호주법인은 인력의 5%를 감원할 계획이며, 경기 침체세가 지속될 것이라고 경고했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717074)
+#### [미국 생산량 감소 전망에 따라 옥수수 가격이 3년 만에 최고치로 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717073)
+#### [BTC 상승세가 주춤해졌으며, 단기적인 조정 가능성이 높다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717072)
+#### [미국 물가 지표 및 연준 의장 연설을 앞두고 금값이 3개월여 만에 최고치를 기록했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717071)
+#### [이란 제재 소식과 엔비디아 실적 발표를 앞두고 아시아 증시 보합세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717070)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [[속보 1] 미국, 이란에 대한 새로운 제재 발표를 앞두고 유가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717069)
+#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas의 파이프라인 현황 업데이트 (2026년 8월 24일)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717068)
+#### [USD/CAD-미국-캐나다 무역 긴장으로 인한 초반 상승세가 가라앉고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717067)
+#### [[종합 1] 이란이 모든 원유 수출 중단을 위협하는 가운데, 미국 “경제적 D-데이” 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717066)
+#### [WSJ 보도에 따르면 캘리포니아주가 파라마운트-워너 측에 TV 채널 매각을 요구할 것으로 예상된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717065)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBD.O/total>
+#### [USD/JPY, 정체 국면… 159.00 아래로 다시 하락, 잭슨홀 회의 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717064)
+#### [[속보] 소프트뱅크 그룹, 최대 1조 엔 규모 채권 발행 예정…공시 자료에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717063)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
+#### [러시아 크라스노다르에서 드론 공격으로 어린이 2명 사망, 물류 허브 전소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717062)
+#### [[업데이트 1] 블룸버그 뉴스 보도에 따르면, 엑슨모빌이 화재 발생 후 가이아나 사업장의 운영을 일시 중단했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717059)
+#### [대만 남부, 폭우로 인해 사무실과 학교 휴업](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717061)
+#### [10월 29일까지의 국채 입찰 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717060)
+#### [10월 29일까지의 신흥 시장 경제 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717058)
+#### [원자재의 장중 목표치/주요 수준](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717057)
+#### [월스트리트저널(WSJ) 보도에 따르면 캘리포니아주가 파라마운트-워너 측에 TV 채널 매각을 요구할 것으로 예상된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717056)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WBD.O/total>
+#### [아시아 시장 전망-금리 상승, 지정학적 긴장, 무역 갈등이 주요 변수로 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717055)
+#### [[속보] 캘리포니아주, 파라마운트와 워너로부터 TV 채널 매각 제안 받을 전망 - 월스트리트저널](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717054)
+#### [러시아의 오존(Ozon), 드론 공격으로 크라스노다르 물류 허브에 화재 발생했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717053)
+#### [엑슨모빌, 소규모 화재 발생으로 가이아나 리자 유니티 운영 중단 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717052)
+#### [블룸버그 뉴스에 따르면, 엑슨모빌이 화재 발생 후 가이아나 사업장의 운영을 일시 중단했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717050)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717051)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717049)
+#### [- China Moly <603993.SS>의 마진 매수 잔고는 23,074(x10000) 위안이며, 공매도 물량은 10(x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717048)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603993.SS/total>
+#### [미국이 이란에 대한 추가 제재 조치를 발표할 예정인 가운데 유가가 1% 하락했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717047)
+#### [[속보] 셰인, 공모를 통해 131억 2천만 홍콩달러의 순조달액을 확보할 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717046)
+#### [러시아 크라스노다르에서 드론 파편으로 어린이 2명 사망…주지사 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717045)
+#### [Shein, B종주 2억 8천만 주를 주당 최대 49.50 홍콩달러에 글로벌 공모한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717044)
+#### [경제학자들은 영국의 생산성이 지속적인 개선세를 보이고 있다고 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717043)
+#### [일라이 릴리, 영국에서 경구용 체중 감량제 ‘파운다요’ 출시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717042)
+#### [영국의 번햄, 장거리 미사일 생산 지원 계획과 함께 우크라이나 방문 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717041)
+#### [[속보] 엔데버 실버, 테로네라 광산 봉쇄 해제 발표… 2026년 8월 24일부터 운영 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717040)
+#### [MMG, 페루 라스 밤바스 구리 광산 가동 재개 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717039)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1208.HK/total>
+#### [분석-에버그란데 판결 이후 중국의 부동산 위기가 계속되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717038)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000002.SZ/total>
+#### [NZD/USD, 2개월간의 상승세 이어가며 중요한 기술적 고비에 접근](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717037)
 #### [[속보 1] 시리아 통신, “시리아와 이스라엘, 긴장 완화를 위해 미국의 중재로 회담 진행”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717036)
 #### [우크라이나 하르키우 인근에서 러시아의 공격으로 3명 사망했다고 주지사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717035)
 #### [패스트 패션 대기업 셰인(Shein), 최대 18억 달러 규모의 홍콩 기업공개(IPO) 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717034)
@@ -23,6 +71,10 @@
 #### [BUZZ-COMMENT-이번 주 전망-잭슨 홀, 미국 PCE, 엔비디아 실적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717019)
 #### [비즈니스 인사이더에 따르면, 허깅 페이스가 기업 가치를 130억 달러로 책정한 매각 방안을 검토 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717018)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+<head><meta charset="utf-8"><title>Vers : 20260824_0115 </title></head>
+<center>Vers : 20260824_0115 </center>
+<center>Vers : 20260824_1015 </center>
+<br><br><br>
 #### [천연가스 파이프라인 긴급 공지: 2026년 8월 24일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717017)
 #### [헤이터, 부엘타 대회 측이 잘못된 사이즈의 숏를 건네자 숏를 찢어버렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717016)
 #### [공화당은 진보 진영의 예비선거 승리를 기회로 삼는 반면, 민주당은 논쟁을 환영하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2717015)
@@ -64,3 +116,26 @@
 #### [싱가포르 총리는 관세 회피 행위에 대해서는 철저히 조사하겠지만, 무역 규모를 고려할 때 현실적인 접근이 필요하다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716979)
 #### [유가 상승으로 시장 심리가 개선되며 걸프 지역 증시 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716978)
 #### [의료진에 따르면, 이스라엘의 가자 지구 공습으로 4세 소년을 포함해 2명이 사망했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716977)
+#### [7’ 달 탐사 임무 연기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716976)
+#### [이란, 7.5조 입방피트 이상의 천연가스 매장량 발견했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716975)
+#### [튀니지 해안경비대가 침몰한 선박에 타고 있던 이주민 8명의 시신을 수습했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716974)
+#### [[종합 1] 이란, “절박한” 미국의 새로운 제재 위협은 실패할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716973)
+#### [배드민턴-라니에, 나라오카를 꺾고 프랑스인 최초로 단식 세계 챔피언 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716972)
+#### [라니에, 나라오카를 꺾고 프랑스인 최초로 단식 세계 챔피언에 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716971)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716970)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716969)
+#### [젤렌스키 대통령, “전시 선거는 우크라이나를 ‘파멸’시킬 것”이라고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716968)
+#### [[속보] 신장 북신 도로·교량, 상반기 순손실 2억 5,810만 위안 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716967)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002307.SZ/total>
+#### [교황 레오, 콩고 에볼라 확산에 대응하기 위한 전 세계적 조치를 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716966)
+#### [이란, 7.5조 입방피트 이상의 천연가스 매장량 발견…석유장관 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716965)
+#### [FT 보도에 따르면, 에니(Eni)가 2040년대 초까지 유럽에 핵융합 발전소를 건설할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716964)
+#### [[속보] 중국석유화공그룹, A주 1주당 0.105위안의 현금 배당금 지급 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716963)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600028.SS/total>
+#### [자위안 사이언스 앤 테크, 거래 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716962)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301117.SZ/total>
+#### [[속보] 대형 석유 기업 에니, 핵융합을 ‘차세대 정유소’로 삼을 전망 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716961)
+#### [[속보 1] 이란 전쟁과 수요 감소에도 불구하고 시노펙의 상반기 순이익은 전년 동기 대비 19.3% 증가했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716960)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600028.SS/total>
+#### [트럼프, 워싱턴 시내를 가로지르는 자동차 경주로 미국 건국 250주년 여름을 마무리하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716959)
+#### [젤렌스키 대통령, “푸틴 대통령이 30만 명의 신규 병력을 징집하려 한다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2716958)
