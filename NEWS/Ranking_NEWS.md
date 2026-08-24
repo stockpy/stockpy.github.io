@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260824_2253 </title></head>
-<center>Vers : 20260824_2253 </center>
-<center>Vers : 20260825_0753 </center>
+<head><meta charset="utf-8"><title>Vers : 20260824_2317 </title></head>
+<center>Vers : 20260824_2317 </center>
+<center>Vers : 20260825_0817 </center>
 <br><br><br>
 #### [‘72만원→34만원’ 반토막 비명 나더니…삼성株 줄줄이 빠질 때 혼자 50만원 뚫었다](https://m.stock.naver.com/news/ranknews/view/011/0004654709)
 #### [외국인들, 삼성그룹주 던졌다…100조 넘는 주주환원책에 실망한 이유는](https://m.stock.naver.com/news/ranknews/view/009/0005725266)

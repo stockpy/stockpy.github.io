@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260824_2253 </title></head>
-<center>Vers : 20260824_2253 </center>
-<center>Vers : 20260825_0753 </center>
+<head><meta charset="utf-8"><title>Vers : 20260824_2317 </title></head>
+<center>Vers : 20260824_2317 </center>
+<center>Vers : 20260825_0817 </center>
 <br><br><br>
+#### [BUZZ-재방송-호주의 대담한 베팅, 파운드의 탄력성, 엔화의 위험 요인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718359)
+#### [Shein의 주식 시장 상장이 지속 가능성 문제를 가릴 수는 없을 것이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718358)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9988.HK/total>
+#### [[속보] 바린투스 바이오, 클라이웨도그 테라퓨틱스와의 합병 제안에 대한 최신 정보 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718357)
+#### [미국 FDA, 희귀 혈액 질환 치료제인 J&J의 약물 승인 범위 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718356)
+#### [미국 농무부(USDA), 옥수수 및 대두 작황 등급 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718355)
+#### [메타, 향후 몇 주 내 ‘해치(Hatch)’ AI 에이전트 플랫폼 출시 예정 - 더 인포메이션](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718354)
+#### [미국 평원 지역 HRW 밀: 침체된 현물 거래 속 베이시스 변동 없어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718353)
 #### [미국 FDA, J&J의 희귀 혈액 질환 치료제 승인 범위 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718352)
 #### [농구 - 소식통에 따르면 전 NBA 선수 칸터 프리덤과 화이트는 WNBA 출전 자격이 없는 것으로 알려졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718351)
 #### [[속보 1] 영국 번햄, 템즈 워터 관리 계획 철회…‘더 타임스’ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718350)
@@ -61,10 +69,3 @@
 #### [[속보 1] AP 통신에 따르면, 미국은 최대 20만 명의 외국인에 대한 관광 및 비즈니스 비자를 취소할 계획이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718302)
 #### [무역 긴장 고조 속 금값 상승에 힘입어 TSX 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718301)
 #### [요르단, 제분용 밀 및 사료용 보리 수입 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718300)
-#### [미국 대법원, 트럼프의 우편 투표 제한 조치에 대한 법적 장애물 제거](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718299)
-#### [미국 FOB 현물 제지용 펄프 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718298)
-#### [서울, 한국과 미국, 북한 문제에 대해 긴밀한 협력하기로 약속했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718297)
-#### [캘리포니아주 오렌지 카운티 지방검찰청, GKN 사고로 대피한 주민 5만 명을 위해 1억 달러 지원 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718295)
-#### [호멜 푸드, 타이슨 전 임원 애쉬 붐블라를 최고재무책임자(CFO)로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718294)
-#### [미국 곡물 바지선 운임 현황 ? 8월 24일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718296)
-#### [여름철 냉방 수요 증가로 미국 천연가스 선물 가격 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718293)
