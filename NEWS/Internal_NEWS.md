@@ -1,7 +1,10 @@
-<head><meta charset="utf-8"><title>Vers : 20260824_2225 </title></head>
-<center>Vers : 20260824_2225 </center>
-<center>Vers : 20260825_0725 </center>
+<head><meta charset="utf-8"><title>Vers : 20260824_2253 </title></head>
+<center>Vers : 20260824_2253 </center>
+<center>Vers : 20260825_0753 </center>
 <br><br><br>
+#### [미국 FDA, J&J의 희귀 혈액 질환 치료제 승인 범위 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718352)
+#### [농구 - 소식통에 따르면 전 NBA 선수 칸터 프리덤과 화이트는 WNBA 출전 자격이 없는 것으로 알려졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718351)
+#### [[속보 1] 영국 번햄, 템즈 워터 관리 계획 철회…‘더 타임스’ 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718350)
 #### [볼리비아 일부 지역에 폭설이 내렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718349)
 #### [15 프로그램 관련 최대 1,312억 달러 규모의 계약 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718348)
 #### [[속보] 맥웬, 최고운영책임자(COO)의 은퇴 계획 및 고위 경영진 승진 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718347)
@@ -65,8 +68,3 @@
 #### [호멜 푸드, 타이슨 전 임원 애쉬 붐블라를 최고재무책임자(CFO)로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718294)
 #### [미국 곡물 바지선 운임 현황 ? 8월 24일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718296)
 #### [여름철 냉방 수요 증가로 미국 천연가스 선물 가격 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718293)
-#### [타겟, 어린이용 할로윈 광대 의상 논란에 사과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718292)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WMT.O/total>
-#### [[속보 1] 뉴욕타임스(NYT) 보도에 따르면, 미국 증권거래위원회(SEC)가 ‘상황 인식(Situational Awareness)’과 관련해 월가 은행들에 소환장을 발부했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718291)
-#### [템페스트 테라퓨틱스, 저스틴 트로야노프스키 최고재무책임자(CFO) 겸 최고회계책임자(CAO)직 9월 1일부로 사임 예정 - SEC 제출 서류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2718290)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TPST.O/total>
