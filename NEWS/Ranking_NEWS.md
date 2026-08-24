@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260824_1036 </title></head>
-<center>Vers : 20260824_1036 </center>
-<center>Vers : 20260824_1936 </center>
+<head><meta charset="utf-8"><title>Vers : 20260824_1105 </title></head>
+<center>Vers : 20260824_1105 </center>
+<center>Vers : 20260824_2005 </center>
 <br><br><br>
 #### ["3년 안에 큰일 터진다, 금·비트코인 담아라"…고수의 섬뜩한 경고](https://m.stock.naver.com/news/ranknews/view/015/0005323960)
 #### ['72만→34만원' 비명 개미 '휴~'…독보적 강세 50만원 뚫었다](https://m.stock.naver.com/news/ranknews/view/215/0001263387)
