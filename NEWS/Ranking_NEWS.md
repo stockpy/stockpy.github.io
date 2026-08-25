@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260825_2056 </title></head>
-<center>Vers : 20260825_2056 </center>
-<center>Vers : 20260826_0556 </center>
+<head><meta charset="utf-8"><title>Vers : 20260825_2130 </title></head>
+<center>Vers : 20260825_2130 </center>
+<center>Vers : 20260826_0630 </center>
 <br><br><br>
 #### [“갑자기 너무 오른다” 계좌 열었다가 ‘깜짝’…비트코인 급등한 이유는 바로](https://m.stock.naver.com/news/ranknews/view/011/0004654983)
 #### [외인 매도 폭탄 받는 '뜻밖의' 큰손 떴다…'자사주 싹쓸이'로 증시 버팀목](https://m.stock.naver.com/news/ranknews/view/008/0005404602)
