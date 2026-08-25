@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260825_2255 </title></head>
-<center>Vers : 20260825_2255 </center>
-<center>Vers : 20260826_0755 </center>
+<head><meta charset="utf-8"><title>Vers : 20260825_2324 </title></head>
+<center>Vers : 20260825_2324 </center>
+<center>Vers : 20260826_0824 </center>
 <br><br><br>
+#### [볼리비아 파스 대통령, 장관 해임 후 부장관에게 경제 총괄 임무 맡겨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719829)
+#### [BUZZ-재방송-유로/달러는 등락폭 제한, 파운드화 지지세, 엔화 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719828)
+#### [[속보] Jatt III Acquisition Corp, 6,000만 달러 규모 기업공개(IPO) 가격 확정 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719827)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/JATT.O/total>
+#### [NZD/USD, 유가 안정세에 힘입어 상승세 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719826)
+#### [[속보] Joyy, 2026년 2분기 미감사 재무 실적 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719825)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/JOYY.O/total>
+#### [컨트리 가수 돌리 파튼의 사망 소식에 유명 인사들의 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719824)
+#### [[속보] 콘스텔레이션 오일 서비스 홀딩 S.A., 2026년 2분기 순영업수익이 81.3% 증가한 2억 5,180만 달러를 기록했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719823)
+#### [설문조사 결과, 영국 고용주 3명 중 1명이 초급 직종을 감축한 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719822)
+#### [엔화 약세론자들, 이제 관점을 재조정할 때다: 스티븐 젠](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719821)
+#### [스미토모, 5억 8,200만 달러를 제시하며 호주 ‘플리트파트너스’ 인수 경쟁에 불을 지폈다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719820)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8053.T/total>
+#### [브라질 재무부, 수요일 연간 자금 조달 계획 변경안 발표 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719819)
+#### [‘슈퍼 페소’가 돌아왔다? 그리고 그 여파가 나타나기 시작했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719818)
+#### [호르무즈 해협 문제를 놓고 이란과 오만이 회담을 가질 것이라는 기대감에 미국 유가가 추가 하락세를 이어갔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719817)
 #### [US 화요일 미국 원자력 발전 가동 중단 용량이 1,339 MW로 감소했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719816)
 #### [볼리비아의 파스 대통령, 경제장관 해임 후 부장관을 후임으로 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719815)
 #### [[속보] 블랙록, 브라질 아자스 2154 지분 4.87%로 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719814)
@@ -55,21 +71,3 @@
 #### [[속보] 1차 치료 단계 담도암 환자 대상 연구에서 이보네시마브와 화학요법 병용 요법이 두르발루맙과 화학요법 병용 요법 대비 유의미한 전체 생존율 개선 효과를 입증… ‘하모니-Gi1’ 연구, 1차 평가 변수 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719771)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9926.HK/total>
 #### [[속보] 프리먼 골드(Freeman Gold Corp.), TSX-V가 보통주로의 전환사채 이자 결제를 승인했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719770)
-#### [[속보] F&M 은행, 그레고리 R. 앨런을 이사회 이사로 영입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719769)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FMAO.O/total>
-#### [Wave Quantum, 최고재무책임자(CFO) 사임 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719768)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/QBTS.O/total>
-#### [[속보 1] 소식통에 따르면 브라질 정부가 휘발유 보조금 지급 기간을 9월 9일까지 연장할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719767)
-#### [엑셀론, 클레친스키를 최고재무책임자로 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719766)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/EXC.O/total>
-#### [HEICO Corporation, 7월 31일 종료된 분기 실적 발표 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719765)
-#### [숙련 근로자를 위한 H-1B 비자는 무엇이며, 어떤 변화가 예상되나요?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719764)
-#### [소식통에 따르면, 스페인이 데이터센터에 대한 새로운, 더 엄격한 규정을 마련할 계획이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719763)
-#### [현물 시장 부진과 롱 포지션 청산으로 소고기 가격 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719762)
-#### [미국 곡물 바지선 운임 현황 ? 8월 25일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719761)
-#### [판사, 우편 투표 규정에 대해 미국 우정공사를 질책했으나 시행을 막지는 않기로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719760)
-#### [[속보] SEC 인가 기업 Uc Asset(Ucasu)의 2차 공모 유가증권 설명서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719759)
-#### [모멘터스, 2026년 8월 21일자 주식매수계약 해지 - SEC 제출 서류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719758)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MNTS.O/total>
-#### [줌, 분기 순이익이 시장 예상치를 하회할 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719757)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
