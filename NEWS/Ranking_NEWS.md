@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260825_1032 </title></head>
-<center>Vers : 20260825_1032 </center>
-<center>Vers : 20260825_1932 </center>
+<head><meta charset="utf-8"><title>Vers : 20260825_1102 </title></head>
+<center>Vers : 20260825_1102 </center>
+<center>Vers : 20260825_2002 </center>
 <br><br><br>
 #### [“7600만원 넣으면 된다면서요”…15억 날린 투자자, 반대매매 오안내 법조계 판단은](https://m.stock.naver.com/news/ranknews/view/009/0005725661)
 #### [“세계에서 가장 미친 주식시장” WSJ…한국 개미들 ‘롤러코스피’에 쓴맛](https://m.stock.naver.com/news/ranknews/view/005/0001868882)
