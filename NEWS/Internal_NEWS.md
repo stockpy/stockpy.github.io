@@ -1,7 +1,31 @@
-<head><meta charset="utf-8"><title>Vers : 20260825_1838 </title></head>
-<center>Vers : 20260825_1838 </center>
-<center>Vers : 20260826_0338 </center>
+<head><meta charset="utf-8"><title>Vers : 20260825_1916 </title></head>
+<center>Vers : 20260825_1916 </center>
+<center>Vers : 20260826_0416 </center>
 <br><br><br>
+#### [FCC, 정당 위원회에도 TV 광고 할인 요금 적용 대상 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719646)
+#### [Banco BBVA Argentina SA <BBAR.N>, 주당 43센트의 이익 기록할 전망 - 실적 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719645)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BBAR.K/total>
+#### [트럼프 행정부, 케네디 센터 명칭 변경 계획 옹호하며 철거 위험 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719644)
+#### [컨트리 음악의 여왕 돌리 파튼, 향년 80세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719643)
+#### [[속보] 브라질 대두 수출량, 8월에 1,025만 톤에 달할 전망… ANEC 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719642)
+#### [영국, 이란 문제에 대한 미국의 외교적 해결 노력 지지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719641)
+#### [지난주 미국 원유 재고는 증가한 것으로 예상되며, 정제유 재고는 감소했을 것으로 보인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719640)
+#### [엑슨모빌, 화재 발생 후 가이아나 선박에서 운항 재개했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719639)
+#### [중국 매수와 압착업체 수요에 힘입어 CBOT 대두 가격 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719638)
+#### [닛케이 보도에 따르면, 일본이 주식 및 국채의 즉시 결제를 위해 블록체인 기술을 검토하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719637)
+#### [구겐하임 인베스트먼트, 계열사가 11억 8천만 달러 규모의 대출을 매입할 수 있다고 밝혀 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719636)
+#### [로이터/입소스 여론조사 결과, 미국 유권자들은 생활비 문제와 관련해 민주당을 지지하는 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719635)
+#### [[속보] CMS, 트럼프 행정부가 알래스카에 최첨단 기술을 도입하기 위해 1억 6천만 달러를 지원한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719634)
+#### [지멘스 에너지, ‘산업 변혁’ 사업부 매각 예정?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719633)
+#### [엔비디아 실적 발표를 앞두고 기술주 반등에 힘입어 월가 상승, 채권 수익률 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719632)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MRNA.O/total>
+#### [CBOT 옥수수는 작황 평가가 부진하고 수확량 전망이 어두워지면서 사상 최고가를 기록했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719631)
+#### [[속보] 하이랜드 코퍼 컴퍼니, 코퍼우드 프로젝트에 대한 5,000만 달러 규모의 SSRP 보조금 최종 승인 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719630)
+#### [[속보] FDA, 케톤 수치와 혈당을 동시에 지속적으로 모니터링하는 최초의 웨어러블 기기 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719629)
+#### [노조들, ‘적격성 해고’ 및 등급별 성과 평가 규정에 대해 OPM을 상대로 소송 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719628)
+#### [헬스 라운즈: 베이커리용 효모로 만든 독감 백신, 더 오래 지속되는 면역 효과 기대되며 제조 공정 간소화 가능](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719627)
+#### [오늘의 주요 관전 포인트 - 8월 26일 수요일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719626)
+#### [트럼프 탄핵을 촉구했던 미군 장교, 3건의 혐의로 기소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719625)
 #### [[속보] 지멘스 에너지, 산업 부문의 독립 법인화를 위한 사업 부문 개편 준비 착수한다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719624)
 #### [“우리는 앞으로도 계속 ‘온타리오 호수’라고 부를 것입니다,”라고 캐나다 장관이 트럼프에게 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719623)
 #### [캘리포니아주 법무장관, 파라마운트와의 합의 협상 일정 없음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719622)
@@ -46,27 +70,3 @@
 #### [미국 증시 동향-다이나트레이스, 플루언스 에너지, 시티 트렌드](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719588)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/KURA.O/total>
 #### [트레이더들이 연준의 정책 단서를 주시하는 가운데, 1.3620 부근에서 강력한 지지선이 형성되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719587)
-#### [[속보] 칼시(Kalshi), 총 15억 달러 규모의 공모 중 약 11억 2천만 달러의 주식 자금 조달을 완료했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719586)
-#### [[속보] 테크크리에이트 그룹, NYSE 아메리칸 패널 결정에 대한 NYSE 위원회 재검토 요청 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719585)
-#### [미국에서 증가하는 홍역 사례에 대해 알아야 할 점](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719584)
-#### [게바르트 그룹 최고재무책임자(CFO)로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719583)
-#### [브라질 대선 후보들, 높은 장기 금리 문제에 대해 서로 다른 해결책을 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719582)
-#### [한국에 본사를 둔 해운사 SK가스가 파나마 운하 통행료로 530만 달러를 지불했다 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719581)
-#### [‘슈퍼 페소’가 돌아왔나? 그리고 그 여파가 나타나기 시작했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719580)
-#### [프랑스에서 발생한 이례적으로 강력한 토네이도에 휩쓸린 주민이 겪은 공포를 전하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719579)
-#### [크로스마크의 돌, “국채 수익률 상한선 설정 시도는 실패할 것”이라고 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719578)
-#### [노르웨이의 노람 드릴링(NorAm Drilling), 시추 장비 효율성 향상으로 2분기 매출 전분기 대비 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719577)
-#### [[속보] 소노코 프로덕츠, EMEA 지역 판지 가격 톤당 60유로 인상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719576)
-#### [미국 북서부 강 유수량은 82%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719575)
-#### [뉴욕 연방준비은행, 리버스 레포 시설 관련 자료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719574)
-#### [Pr 프로젝트 가치 20억 5천만 달러 이상으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719573)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GRML.O/total>
-#### [미국 정책을 맹비난하는 헤지펀드 매니저들을 경계하라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719572)
-#### [FDA, HER2 양성 진행성 위식도암 치료제 ‘지이헤라’ 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719571)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/JAZZ.O/total>
-#### [[속보 1] 할로윈 의상 논란 여파로 타겟 주가 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719570)
-#### [독일의 상반기 디지털 부문 잠정 순매출이 두 배 이상 증가하며, 실적이 기대치를 상회했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719569)
-#### [홉킨스 증후군 치료제 ‘MZ-1866’에 대해 FDA로부터 희귀 소아 질환 지정 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719568)
-#### [브라질 7월 세수 8.97% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719567)
-#### [[속보] 프라이어리티 커머스, 탬파베이 버커니어스와 다년간의 파트너십 체결 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719563)
-#### [[속보] 노람 드릴링, 2분기 조정 EBITDA 630만 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719562)
