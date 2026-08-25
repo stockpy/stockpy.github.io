@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260825_2226 </title></head>
-<center>Vers : 20260825_2226 </center>
-<center>Vers : 20260826_0726 </center>
+<head><meta charset="utf-8"><title>Vers : 20260825_2255 </title></head>
+<center>Vers : 20260825_2255 </center>
+<center>Vers : 20260826_0755 </center>
 <br><br><br>
+#### [US 화요일 미국 원자력 발전 가동 중단 용량이 1,339 MW로 감소했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719816)
+#### [볼리비아의 파스 대통령, 경제장관 해임 후 부장관을 후임으로 지명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719815)
+#### [[속보] 블랙록, 브라질 아자스 2154 지분 4.87%로 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719814)
+#### [트럼프 대통령이 사우디와의 민간 원자력 협정을 의회에 회부했으며, 협정이 진전되려면 사우디가 이스라엘을 인정해야 한다는 기존 입장을 고수하고 있다고 미국 당국자가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719813)
+#### [미국과의 교착 상태가 지속되는 가운데 이란과 오만, 호르무즈 해협 임시 통행로 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719812)
 #### [[속보] 브릭스턴 메탈스, 사모 증자 2차 분할 유치 완료 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719811)
 #### [[속보 1] 트럼프, 교통 및 노숙자 지원 보조금에 조건 부과할 수 없다… 미국 항소법원 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719810)
 #### [젤렌스키, 우크라이나는 전쟁 종식을 위해 중국이 강력한 외교적 역할을 수행할 것으로 기대한다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719809)
@@ -68,9 +73,3 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MNTS.O/total>
 #### [줌, 분기 순이익이 시장 예상치를 하회할 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719757)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MSFT.O/total>
-#### [웨스트필드 보험, 히스콕스의 코박을 기업 리스크 관리 책임자로 영입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719756)
-#### [기술주 호조에 힘입어 주가 상승, 유가 하락에 따라 금리 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719755)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [[속보] 레나산트, 최고재무책임자(CFO) 교체 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719754)
-#### [[속보] 굿푸드, TSX 상장 현황에 대한 최신 정보 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719753)
-#### [CIF/FOB 걸프 지역 곡물·대두 베이시스, 미국 수출 판매에 힘입어 보합세 또는 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2719752)

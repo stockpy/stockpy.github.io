@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260825_2226 </title></head>
-<center>Vers : 20260825_2226 </center>
-<center>Vers : 20260826_0726 </center>
+<head><meta charset="utf-8"><title>Vers : 20260825_2255 </title></head>
+<center>Vers : 20260825_2255 </center>
+<center>Vers : 20260826_0755 </center>
 <br><br><br>
 #### [“죽다 겨우 살아났는데”…개미들 27·28일 주식창만 봐야하는 이유](https://m.stock.naver.com/news/ranknews/view/009/0005725812)
 #### [“갑자기 너무 오른다” 계좌 열었다가 ‘깜짝’…비트코인 급등한 이유는 바로](https://m.stock.naver.com/news/ranknews/view/011/0004654983)
