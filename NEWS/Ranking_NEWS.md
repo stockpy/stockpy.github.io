@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260825_0437 </title></head>
-<center>Vers : 20260825_0437 </center>
-<center>Vers : 20260825_1337 </center>
+<head><meta charset="utf-8"><title>Vers : 20260825_0516 </title></head>
+<center>Vers : 20260825_0516 </center>
+<center>Vers : 20260825_1416 </center>
 <br><br><br>
 #### [“1450억에 사서 84억에 팝니다”…LG생건 손절에 다들 박수친 까닭은 [오늘 나온 보고서]](https://m.stock.naver.com/news/ranknews/view/009/0005725300)
 #### ["14만원→3만원대 폭락" 3년뒤 무조건 간다던 박진영 회사...목표가 하향만 28건 [주주클럽]](https://m.stock.naver.com/news/ranknews/view/014/0005565853)
