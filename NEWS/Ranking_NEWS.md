@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260826_1655 </title></head>
-<center>Vers : 20260826_1655 </center>
-<center>Vers : 20260827_0155 </center>
+<head><meta charset="utf-8"><title>Vers : 20260826_1903 </title></head>
+<center>Vers : 20260826_1903 </center>
+<center>Vers : 20260827_0403 </center>
 <br><br><br>
 #### ["삼전닉스, 보고있나?"…'3위→1위'로 거침없는 선언 中](https://m.stock.naver.com/news/ranknews/view/215/0001263760)
 #### [‘금은 배신하지 않는다?’ 슬금슬금 오르더니…금리 상승에도 15% 급등 ‘기현상’, 왜?](https://m.stock.naver.com/news/ranknews/view/016/0002688885)
