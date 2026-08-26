@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260826_0438 </title></head>
-<center>Vers : 20260826_0438 </center>
-<center>Vers : 20260826_1338 </center>
+<head><meta charset="utf-8"><title>Vers : 20260826_0515 </title></head>
+<center>Vers : 20260826_0515 </center>
+<center>Vers : 20260826_1415 </center>
 <br><br><br>
 #### ["오늘밤~내일 새벽 큰거 발표" 숨죽인 주식시장…매수·매도 '멈칫'](https://m.stock.naver.com/news/ranknews/view/008/0005404921)
 #### ["아내가 알면 큰일" 순식간에 1000만원 잃었다…개미들 '패닉'](https://m.stock.naver.com/news/ranknews/view/015/0005324727)
