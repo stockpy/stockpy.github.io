@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260826_1034 </title></head>
-<center>Vers : 20260826_1034 </center>
-<center>Vers : 20260826_1934 </center>
+<head><meta charset="utf-8"><title>Vers : 20260826_1104 </title></head>
+<center>Vers : 20260826_1104 </center>
+<center>Vers : 20260826_2004 </center>
 <br><br><br>
 #### [코스피, 자사주 매입에 방긋… 엔비디아 실적 발표 후에도 웃을까](https://m.stock.naver.com/news/ranknews/view/008/0005405159)
 #### [너도나도 AI 쓰더니…130% 급등한 '이 회사' 1조3000억 잭팟](https://m.stock.naver.com/news/ranknews/view/015/0005325115)
