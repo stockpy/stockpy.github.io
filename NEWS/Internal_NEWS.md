@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260829_1913 </title></head>
-<center>Vers : 20260829_1913 </center>
-<center>Vers : 20260830_0413 </center>
+<head><meta charset="utf-8"><title>Vers : 20260829_2224 </title></head>
+<center>Vers : 20260829_2224 </center>
+<center>Vers : 20260830_0724 </center>
 <br><br><br>
+#### [온타리오 주지사, 명칭 논란 속 온타리오 호수 표지판 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724639)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724638)
 #### [천연가스 파이프라인 긴급 공지: 2026년 8월 30일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724637)
 #### [이라크 쿠르드 자치정부, 드론 공격 이후 일일 최대 23만 배럴 규모의 원유 생산 재개했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724636)
 #### [이집트 미스르은행, 미국의 이란 제재 통지서 검토 중… 아랍에미리트 중앙은행, 긴급 조사 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724635)
@@ -61,5 +63,3 @@
 #### [캐나다 원주민 추장, 온타리오 호수 명칭 변경을 ‘무례한 행위’라고 비판](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724582)
 #### [키예프 주지사, 러시아의 키예프 지역 공습으로 최소 27명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724581)
 #### [[업데이트 1] 테마섹, 비판 여론 고조 속 싱가포르항공의 에어 인디아 투자 지지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724580)
-#### [니더작센 주 총리, 이사회 회의 전 폭스바겐 구조조정 합의 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724579)
-#### [트랜살타 온타리오의 200 MW 멜란크톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724578)
