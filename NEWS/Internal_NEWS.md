@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20260829_1521 </title></head>
-<center>Vers : 20260829_1521 </center>
-<center>Vers : 20260830_0021 </center>
+<head><meta charset="utf-8"><title>Vers : 20260829_1913 </title></head>
+<center>Vers : 20260829_1913 </center>
+<center>Vers : 20260830_0413 </center>
 <br><br><br>
+#### [천연가스 파이프라인 긴급 공지: 2026년 8월 30일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724637)
+#### [이라크 쿠르드 자치정부, 드론 공격 이후 일일 최대 23만 배럴 규모의 원유 생산 재개했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724636)
+#### [이집트 미스르은행, 미국의 이란 제재 통지서 검토 중… 아랍에미리트 중앙은행, 긴급 조사 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724635)
+#### [GM의 노조와의 합의에 따라, 미국의 관세 위협에도 불구하고 캐나다 공장에서 시에라 픽업트럭 조립이 추가될 전망이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724634)
+#### [극우 논객 밀로 야노풀로스가 영국으로 추방됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724633)
+#### [미국 북서부 강 유량 비율은 83%로 변함없이 유지 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724632)
+#### [키프로스에서 폭풍으로 1명 사망, 2명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724631)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724630)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724629)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724628)
+#### [러시아의 키예프 인근 탄약고 공습으로 치명적인 폭발 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724627)
+#### [베센트는 엔화 환율의 무질서한 변동이 세계 시장의 안정을 해칠 수 있다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724626)
+#### [아르헨티나, 여자 하키 월드컵 우승 차지하며 네덜란드의 독주를 깼다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724625)
+#### [사이클 - 부엘타 선두 포가카르, 8단계에서 낙차 사고로 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724624)
+#### [부엘타 선두 포가카르, 8단계 경기 중 추락 사고로 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724623)
 #### [이탈리아의 컬러 사진 거장 프랑코 폰타나, 향년 92세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724622)
 #### [NHC 폭풍 주의보: 카리나가 태평양을 가로질러 북서쪽으로 이동하면서 세력을 유지하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724621)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724620)
@@ -48,18 +63,3 @@
 #### [[업데이트 1] 테마섹, 비판 여론 고조 속 싱가포르항공의 에어 인디아 투자 지지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724580)
 #### [니더작센 주 총리, 이사회 회의 전 폭스바겐 구조조정 합의 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724579)
 #### [트랜살타 온타리오의 200 MW 멜란크톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724578)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724577)
-#### [당국에 따르면 우크라이나의 러시아 벨고로드 주 공격으로 3명이 사망하고 9명이 부상했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724576)
-#### [러시아는 우크라이나 미콜라이우에 있는 환적 터미널을 공습했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724575)
-#### [러시아가 장악한 세바스토폴에서 우크라이나의 드론 공격으로 1명이 사망했다고 주지사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724574)
-#### [노르웨이, 하랄드 국왕의 서거에 애도… 왕궁에 군중 몰려들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724573)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724572)
-#### [단독 보도-네팔 홍수 피해 복구 비용이 국내총생산(GDP)의 최대 10분의 1에 달할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724571)
-#### [악천후로 구조 작업에 차질이 빚어지는 가운데, 네팔은 홍수 피해 복구를 위한 기술 지원과 수십억 달러의 지원을 요청하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724570)
-#### [감시 눈초리가 거세지는 가운데 테마섹, 싱가포르항공의 에어 인디아 투자 지원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724569)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724568)
-#### [NHC 열대기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724567)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724566)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724565)
-#### [이란 정부는 외교와 국방은 떼려야 뗄 수 없는 관계라고 밝히며, 미국의 제재에 맞서 싸우겠다고 다짐했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724564)
-#### [[단독] 네팔 재무장관, “재건에 최소 40억 달러 필요”라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724563)
