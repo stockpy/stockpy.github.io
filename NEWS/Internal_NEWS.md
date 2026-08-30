@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260830_0032 </title></head>
-<center>Vers : 20260830_0032 </center>
-<center>Vers : 20260830_0932 </center>
+<head><meta charset="utf-8"><title>Vers : 20260830_0544 </title></head>
+<center>Vers : 20260830_0544 </center>
+<center>Vers : 20260830_1444 </center>
 <br><br><br>
+#### [블릭(Blick)에 따르면, 스위스 레이브 행사 총격 사건에서 여러 명의 피해자가 발생했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724666)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724665)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724664)
+#### [유럽의 중앙은행 관계자들은 팽팽한 미·유럽 관계 속에서 추가적인 혼란이 발생할 것을 우려하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724663)
+#### [주목해야 할 요인들 - 8월 30일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724662)
+#### [네팔 산사태 사망자 수 734명으로 늘어… 재난 당국 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724661)
+#### [중국, 히말라야 산사태로 실종된 외국인 261명의 국적 파악](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724660)
+#### [노르웨이의 Gassco, 예정에 없던 가스 공급 중단 사태를 수정하고 사업 범위를 확대하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724659)
+#### [NHC 폭풍 주의보: 카리나가 오늘 밤 늦게 허리케인으로 발달할 것으로 예보됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724658)
+#### [베네수엘라 임시 대통령, 미국과의 에너지 협정이 25년간 지속될 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724657)
+#### [베네수엘라 임시 대통령은 미국과의 에너지 협정이 25년간 지속될 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724656)
+#### [월스트리트저널(WSJ) 보도에 따르면, 미국이 베네수엘라의 거물 베탄쿠르가 운영하는 석유 합작사에 지분 35%를 투자할 예정이다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724655)
+#### [NASA, NASA와 스페이스X가 크루-13 발사 일정을 조정했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724654)
+#### [파하리, 3연승 향해 질주 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724653)
+#### [아이슬란드 국민투표, ‘찬성’ 쪽으로 기울어 - 개표 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724652)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724651)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724650)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724649)
 #### [복싱 - 흐르고비치, 이타우마를 꺾고 IBF 헤비급 챔피언 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724648)
@@ -46,20 +62,3 @@
 #### [니제르 수도에서 반란군 병사들이 공항과 대통령 관저를 공격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724609)
 #### [[속보] HDFC 은행, 사시다르 자그디샨이 HDFC 은행 대표이사 겸 최고경영자(MD&CEO) 재임명을 요청하지 않기로 결정했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724608)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724607)
-#### [킹스턴 코젠 온타리오 140 MW 데스텍 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724606)
-#### [노르웨이의 Gassco는 8월 29일 04:00부터 8월 30일 03:59까지 드발린(Dvalin) 가스전에서 하루 6.8 mcm 규모의 생산 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724605)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724604)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724603)
-#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724602)
-#### [리히텐슈타인 해킹 사건 이후 스위스 자산운용사들, 소유권 등록 연기 촉구 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724601)
-#### [이팩스(Ifax) 보도에 따르면, 러시아가 디젤유 수출 금지 조치를 9월 30일까지 연장했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724600)
-#### [러시아, 우크라이나 도네츠크 및 수미 주 내 마을 3곳을 점령했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724599)
-#### [맥쿼리 온타리오 184 MW 카디널 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724598)
-#### [베제키, 랩 기록을 갈아치우며 마르케스 형제를 제치고 아라곤 그랑프리 폴 포지션을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724597)
-#### [타스 통신에 따르면, 러시아는 우크라이나 도네츠크주와 수미주에 있는 마을 3곳을 점령했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724596)
-#### [미군 가족들, 6개월간 이어진 이란 전쟁으로 ‘감정의 롤러코스터’를 타고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724595)
-#### [이번 주 브레이킹뷰스: 벌금이 오히려 도움이 될 때](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724594)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [배고픈 하락들이 미국 서부 지역의 주택과 상점으로 기록적인 수로 출몰하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724593)
-#### [하락과의 조우 사례가 늘고 있다. 하락을 마주쳤을 때 취해야 할 조치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724592)
-#### [키예프 인근 창고에 대한 러시아의 공습으로 폭발이 발생해 27명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724591)
