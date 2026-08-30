@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20260829_2224 </title></head>
-<center>Vers : 20260829_2224 </center>
-<center>Vers : 20260830_0724 </center>
+<head><meta charset="utf-8"><title>Vers : 20260830_0032 </title></head>
+<center>Vers : 20260830_0032 </center>
+<center>Vers : 20260830_0932 </center>
 <br><br><br>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724650)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724649)
+#### [복싱 - 흐르고비치, 이타우마를 꺾고 IBF 헤비급 챔피언 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724648)
+#### [흐르고비치, 이타우마를 꺾고 IBF 헤비급 타이틀 탈환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724647)
+#### [맥쿼리 온타리오 184MW 카디널 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724646)
+#### [크루거 에너지 온타리오의 101MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724645)
+#### [킹스턴 코젠 온타리오 140MW 데스텍 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724644)
+#### [핀란드의 스텁, 독일 신문과의 인터뷰에서 “러시아가 나토를 공격할 위험을 감수할 가능성은 낮다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724643)
+#### [[업데이트 1] GM 노조, 미국의 관세 압박 속 캐나다 자동차 공장에 11억 캐나다 달러 투자하기로 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724642)
+#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas, 예정에 없던 유지보수 작업 완료 (구간 150)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724641)
+#### [NHC 폭풍 주의보: 카리나가 더 유리한 기상 조건의 지역으로 계속 이동하면서 허리케인 강도에 근접한 세력으로 강화됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724640)
 #### [온타리오 주지사, 명칭 논란 속 온타리오 호수 표지판 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724639)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724638)
 #### [천연가스 파이프라인 긴급 공지: 2026년 8월 30일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724637)
@@ -52,14 +63,3 @@
 #### [배고픈 하락들이 미국 서부 지역의 주택과 상점으로 기록적인 수로 출몰하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724593)
 #### [하락과의 조우 사례가 늘고 있다. 하락을 마주쳤을 때 취해야 할 조치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724592)
 #### [키예프 인근 창고에 대한 러시아의 공습으로 폭발이 발생해 27명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724591)
-#### [모터레이싱 - 노리스, 계약을 2030년까지 연장… 맥라렌에서 선수 생활을 마무리하고 싶다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724590)
-#### [반크 미스르는 미국의 이란 제재 통지서를 검토 중이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724589)
-#### [노리스, 2030년까지 계약 연장… 맥라렌에서 선수 생활을 마무리하고 싶다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724588)
-#### [[속보 1] 스카이 뉴스 보도에 따르면, 독일 보험사 알리안츠가 도로 긴급 구조 업계의 거대 기업인 AA를 67억 7천만 달러에 인수하는 방안을 검토 중이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724587)
-#### [아이슬란드, EU 가입 협상 개시 여부 표결 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724586)
-#### [스카이 뉴스 보도에 따르면, 독일 보험사 알리안츠가 미국 도로 긴급 구조 업계의 거대 기업인 AA를 67억 7천만 달러에 인수하는 방안을 검토하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724585)
-#### [NHC 폭풍 주의보: 카리나는 바하 캘리포니아 반도 남단에서 남서쪽으로 꽤 떨어진 해상에서 여전히 강한 세력을 유지하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724584)
-#### [독일 보험사 알리안츠, 영국 도로 긴급 구조 업계 거대 기업 AA를 50억 파운드에 인수하는 방안 검토 중 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724583)
-#### [캐나다 원주민 추장, 온타리오 호수 명칭 변경을 ‘무례한 행위’라고 비판](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724582)
-#### [키예프 주지사, 러시아의 키예프 지역 공습으로 최소 27명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724581)
-#### [[업데이트 1] 테마섹, 비판 여론 고조 속 싱가포르항공의 에어 인디아 투자 지지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724580)
