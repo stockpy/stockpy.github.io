@@ -1,7 +1,127 @@
-<head><meta charset="utf-8"><title>Vers : 20260830_0544 </title></head>
-<center>Vers : 20260830_0544 </center>
-<center>Vers : 20260830_1444 </center>
+<head><meta charset="utf-8"><title>Vers : 20260830_1122 </title></head>
+<center>Vers : 20260830_1122 </center>
+<center>Vers : 20260830_2022 </center>
 <br><br><br>
+#### [가자 의료진에 따르면 이스라엘의 공습으로 3세 소년을 포함해 2명이 사망했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724739)
+#### [[속보] 성롱 홀딩스, 싱가포르 증권거래소 메인보드에서 자발적 상장폐지 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724738)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0834.HK/total>
+#### [1 수용체 작용제 ‘ASC30’의 글로벌 3상 임상 프로그램에서 첫 번째 피험자에게 약물 투여 시작했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724737)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1672.HK/total>
+#### [샌프란시스코 노선 운항을 재개할 것이라고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724736)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724735)
+#### [[속보] 랴오닝항, 상반기 순이익 전년 동기 대비 7.41% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724734)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601880.SS/total>
+#### [관세, 이란 전쟁, 채권 시장 혼란 속에서 미국 재무부의 베센트, G20 외교 시험대에 올라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724733)
+#### [터키, 사우디아라비아, 파키스탄, 첫 국방 협정 회의 개최 예정… 소식통에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724732)
+#### [러시아 측, 우크라이나의 러시아 점령 하 루한스크 지역 공격으로 1명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724731)
+#### [[속보] 충칭철강, 상반기 순손실 1억 7,890만 위안 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724730)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601005.SS/total>
+#### [조선중앙통신, 북한이 신임 국방부 장관 임명했다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724729)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724728)
+#### [젤렌스키 대통령, 키예프 주 파업 사망자 수가 38명으로 늘어났다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724727)
+#### [[속보] 수저우증권, 상반기 순이익 전년 동기 대비 25.32% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724726)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601555.SS/total>
+#### [[속보] 상하이 준시 바이오사이언스 주주, 지분 축소 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724725)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688180.SS/total>
+#### [[속보] 중국조선공업그룹, 상반기 순이익 전년 동기 대비 42.74% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724724)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600482.SS/total>
+#### [[속보] 치펑 지룽 금광, 상반기 순이익 전년 동기 대비 56.5% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724723)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600988.SS/total>
+#### [[속보] 쑤저우 골드 맨티스 건설 장식 산하 자회사들, 총 5억 1,590만 위안 규모 입찰 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724722)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002081.SZ/total>
+#### [글로벌 방위 금융 기관 설립을 둘러싼 경쟁](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724721)
+#### [[속보] 메타엑스 집적회로(상하이), 상반기 순이익 6억 1,240만 위안 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724720)
+#### [[속보] ZCZL 산업기술, 상반기 순이익 전년 동기 대비 36.25% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724719)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601717.SS/total>
+#### [[속보] 중국 에너지 엔지니어링, 상반기 순이익 전년 동기 대비 18.67% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724718)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601868.SS/total>
+#### [[속보] 광저우 개발 그룹, 상반기 순이익 전년 동기 대비 42.15% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724717)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600098.SS/total>
+#### [말레이시아 총리, 생활비 부담 완화 및 지역 기업 지원 방안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724716)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [[속보] 베이징 통런탕, 상반기 순이익 전년 동기 대비 23.19% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724715)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600085.SS/total>
+#### [[속보] 블루스타 아디세오, 상반기 순이익 전년 동기 대비 22.25% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724714)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600299.SS/total>
+#### [[속보] 신다 부동산, 상반기 순손실 13억 위안 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724713)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600657.SS/total>
+#### [[속보] 차이나 머천츠 에너지 쉬핑, 상반기 순이익 전년 동기 대비 227.57% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724712)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601872.SS/total>
+#### [[속보] 산이중공업, 상반기 순이익 전년 동기 대비 9.1% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724711)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600031.SS/total>
+#### [[속보] AVIC 중공업, 상반기 순이익 전년 동기 대비 9.9% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724710)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600765.SS/total>
+#### [[속보] 주니야오 항공, 상반기 순이익 전년 동기 대비 70.3% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724709)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603885.SS/total>
+#### [[속보] 앵커 이노베이션 테크놀로지, 상반기 순이익 전년 동기 대비 45.86% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724708)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300866.SZ/total>
+#### [[속보] 베이징 캐피탈 생태환경보호, 상반기 순이익 전년 동기 대비 9.7% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724707)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600008.SS/total>
+#### [상하이 고속철도, 상반기 순이익 전년 동기 대비 7.2% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724706)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601816.SS/total>
+#### [[속보] 베이징 유나이티드 정보기술, 상반기 순이익 전년 동기 대비 0.8% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724705)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603613.SS/total>
+#### [[속보] 홍타증권, 상반기 순이익 전년 동기 대비 23.93% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724704)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601236.SS/total>
+#### [[속보] SDIC 캐피털, 상반기 순이익 전년 동기 대비 29.3% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724703)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600061.SS/total>
+#### [[속보] 충칭 농촌상업은행, 상반기 순이익 전년 동기 대비 6.1% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724702)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601077.SS/total>
+#### [[속보] 롱지 그린 에너지 테크놀로지, 상반기 순손실 37억 위안 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724701)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601012.SS/total>
+#### [[속보] 세일룬 그룹, 상반기 순이익 전년 동기 대비 18.0% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724700)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601058.SS/total>
+#### [[속보] 이스턴 에어 로지스틱스, 상반기 순이익 전년 동기 대비 10.1% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724699)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601156.SS/total>
+#### [[속보] 랴오닝 청다, 상반기 순이익 전년 동기 대비 125.77% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724698)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600739.SS/total>
+#### [[속보] 중국 Cssc, 상반기 순이익 전년 동기 대비 163.5% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724697)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600150.SS/total>
+#### [[속보] SPIC 수력발전, 상반기 순이익 전년 동기 대비 123.1% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724696)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600292.SS/total>
+#### [[속보] 중국국유화학공정, 상반기 순이익 전년 동기 대비 1.41% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724695)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601117.SS/total>
+#### [우크라이나는 러시아 내 한 정유소와 군사 비행장을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724694)
+#### [[속보] 중국야금공사, 상반기 순이익 전년 동기 대비 24.95% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724693)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601618.SS/total>
+#### [니제르는 군인들의 반란 이후 공군 기지에 대한 통제권을 되찾았다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724692)
+#### [[속보] 안양철강, 상반기 순손실 12억 위안 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724691)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600569.SS/total>
+#### [[속보] 산시 싱화촨 펜 주조 공장, 상반기 순이익 전년 동기 대비 24.3% 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724690)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600809.SS/total>
+#### [[속보] 주하이 화파 프로퍼티즈, 자회사 등록 자본금 감액 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724689)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600325.SS/total>
+#### [[속보] 중국 양쯔전력, 상반기 순이익 전년 동기 대비 13.02% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724688)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600900.SS/total>
+#### [[속보] 상하이전기그룹, 상반기 순이익 전년 동기 대비 18.2% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724687)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601727.SS/total>
+#### [NHC 폭풍 주의보: 카리나가 허리케인으로 발달했으며, 세력이 계속 강해질 것으로 예상됩니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724686)
+#### [중국동방항공, 상반기 순손실 규모 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724685)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600115.SS/total>
+#### [공시 자료에 따르면, 중국국제항공(Air China)의 상반기 순손실이 약 3억 4,100만 달러로 확대된 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724684)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601111.SS/total>
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724683)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724682)
+#### [온타리오주 브룩필드 소재 189 MW 규모의 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724681)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724680)
+<head><meta charset="utf-8"><title>Vers : 20260830_1122 </title></head>
+<center>Vers : 20260830_1122 </center>
+<center>Vers : 20260830_2022 </center>
+<br><br><br>
+#### [파이낸셜타임스(FT)에 따르면, 새로 부임하는 스위스 은행 로비 단체 수장이 과도한 규제에 대해 경고했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724679)
+#### [[단독] 소식통에 따르면, 인도의 HDFC 은행이 부사장 바루차와 외부 인사를 CEO 후보로 검토 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724678)
+#### [RUV 보도에 따르면, 아이슬란드가 국민투표를 통해 EU 가입 계획을 부결했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724677)
+#### [러시아 국방부, 우크라이나 에너지 인프라를 겨냥한 대규모 공격 준비 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724676)
+#### [이란의 하메네이, 서한을 통해 걸프 지역 지도자들에게 ‘진정한 적’에 맞설 것을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724675)
+#### [러시아 레닌그라드 주에서 드론 공격 발생 후 화재 진압됐다고 주지사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724674)
+#### [[업데이트 1] 우크라이나의 주간 수출량이 28% 증가했다고 APK-Inform 컨설팅사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724673)
+#### [아이슬란드 공영방송 RUV에 따르면, EU 가입 국민투표 개표 결과 ‘반대’ 진영이 앞서고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724672)
+#### [Inform 컨설팅사에 따르면 우크라이나의 주간 수출량이 28% 증가했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724671)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724670)
+#### [이란의 하메네이, 서면 메시지를 통해 걸프 지역 지도자들에게 ‘진정한 적’에 맞서라고 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724669)
+#### [네팔·티베트 히말라야 홍수로 사망자 750명, 실종자 3,000명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724668)
+#### [경찰, 총기 사건으로 여러 명의 피해자가 발생했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724667)
 #### [블릭(Blick)에 따르면, 스위스 레이브 행사 총격 사건에서 여러 명의 피해자가 발생했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724666)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724665)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724664)
@@ -49,16 +169,3 @@
 #### [이탈리아의 컬러 사진 거장 프랑코 폰타나, 향년 92세로 별세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724622)
 #### [NHC 폭풍 주의보: 카리나가 태평양을 가로질러 북서쪽으로 이동하면서 세력을 유지하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724621)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724620)
-#### [오토바이 경주 - 마르케스 형제, 아라곤에서 1·2위 석권… 마르크, 통산 20번째 스프린트 우승으로 신기록 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724619)
-#### [아이슬란드 국민들, EU 가입 협상 개시 여부를 두고 의견이 엇갈린 채 투표소로 향하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724618)
-#### [미국이 압박을 가하는 가운데, 에니(Eni)가 베네수엘라와 협력해 에너지 부문 재건을 모색 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724617)
-#### [마크 마르케스가 형 알렉스와 베제키를 제치고 아라곤 스프린트에서 우승했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724616)
-#### [러시아, 디젤 수출 금지 조치 9월 30일까지 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724615)
-#### [크렘린은 EU를 적대적인 존재로 간주하며, 양국 관계 개선의 전망은 없다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724614)
-#### [노르웨이, 하랄드 국왕의 서거에 애도… 왕궁에 군중 몰려들다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724613)
-#### [이탈리아 국영 방송사 RAI가 베테랑 기자를 해임하면서 정치적 파문이 일고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724612)
-#### [인도 HDFC 은행의 자그디샨 CEO, 10월에 사임 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724611)
-#### [인도 HDFC 은행 CEO, 재임명 불출마…10월 은퇴 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724610)
-#### [니제르 수도에서 반란군 병사들이 공항과 대통령 관저를 공격했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724609)
-#### [[속보] HDFC 은행, 사시다르 자그디샨이 HDFC 은행 대표이사 겸 최고경영자(MD&CEO) 재임명을 요청하지 않기로 결정했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724608)
-#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724607)
