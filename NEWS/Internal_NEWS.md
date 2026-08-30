@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20260830_1918 </title></head>
-<center>Vers : 20260830_1918 </center>
-<center>Vers : 20260831_0418 </center>
+<head><meta charset="utf-8"><title>Vers : 20260830_2225 </title></head>
+<center>Vers : 20260830_2225 </center>
+<center>Vers : 20260831_0725 </center>
 <br><br><br>
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724826)
+#### [ONEOK, Brazos Midstream의 퍼미안 미들랜드 분지 자산을 44억 3천만 달러에 인수할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724825)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FANG.O/total>
+#### [AUD/USD, 연준의 인플레이션 우려 표명으로 압박 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724824)
+#### [주말 뉴스-베센트의 엔화 전망, 미국-베네수엘라 석유 문제, 미국의 이란 공습](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724823)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724822)
+#### [미들랜드 분지 자산을 44억 2,500만 달러에 인수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724821)
+#### [브라질 예산안에 코레이오스(Correios)에 대한 12억 달러 규모의 자본 투입이 포함될 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724820)
+#### [NHC 폭풍 주의보: 카리나가 세력을 키우며 태평양 상공으로 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724819)
+#### [[속보 1] 미 당국자, 미군이 이란 라락 섬에 있는 이란의 발사대 2기를 타격했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724818)
+#### [모닝스타와 씨티, 버진 오스트레일리아의 실적 예상치 상향 조정…실적 호조로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724817)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724816)
+#### [캘리포니아 주의회, 산불 위험 감소 및 복구를 위한 상원 법안 492호(SB 492) 개정; SB 492는 산불 배상 책임 체계로 인한 자금 조달 위험을 충분히 다루지 못하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724815)
+#### [이란 혁명수비대, 라락 섬에 대한 미국의 공격에 대응하겠다고 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724814)
+#### [천연가스 파이프라인 긴급 공지: 2026년 8월 31일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724813)
+#### [BUZZ-COMMENT-이번 주 전망-미국 고용 지표, 뉴질랜드 중앙은행(RBNZ) 및 캐나다 중앙은행(BoC)의 정책 결정, G20 회의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724812)
+#### [파르스 통신, 이란 라락 섬 인근에서 폭발음 들렸다고 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724811)
+#### [액시오스(Axios) 보도에 따르면, 미군이 이란 라락 섬에 위치한 이란의 발사대 2기를 타격했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724810)
+#### [8월 30일 일요일 오후 3시 16분(EDT) 기준 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724809)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724808)
 #### [BUZZ-재방송-매파적인 워시, 유로/달러 급등락, 달러/엔 강세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724807)
 #### [파하리가 파라과이 랠리에서 우승, 카츠타는 사고로 탈락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724806)
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지되었다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724805)
@@ -46,23 +66,3 @@
 #### [트럼프, 베네수엘라산 원유를 이용해 미국의 전략석유비축량을 보충하겠다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724769)
 #### [폴리티코 보도에 따르면, 예산 삭감과 부서 재배치로 인해 미국 농무부(USDA)의 사이클로스포라 연구 프로젝트가 보류되었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724768)
 #### [트럼프, 미국이 베네수엘라산 원유를 활용해 전략석유비축량을 보충할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724767)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724766)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724765)
-#### [네팔, 터널에 갇힌 수백 명을 구조하기 위해 구조 활동을 강화하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724764)
-#### [구글 지도에서는 미국 내 '온타리오 호수' 대신 '레이크 아메리카'가 표시됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724763)
-#### [우크라이나 국방장관, 조기 대출 지급 확보를 위해 ‘명확한’ 전쟁 계획 수립을 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724762)
-#### [아이슬란드 총리, “EEA와의 관계를 지속적으로 강화해 나갈 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724761)
-#### [오토바이 경주 - 두카티의 마르케스, 아라곤 대회 1-2위를 휩쓸며 마틴의 우승 경쟁 리드를 좁혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724760)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724759)
-#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724758)
-#### [트럼프, NBC의 웰커를 연방통신위원회(FCC)에 신고하겠다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724757)
-#### [월가 주간 전망-고용 보고서와 브로드컴 실적, 주식 시장 상승세의 다음 걸림돌로 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724756)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [워시 발언 이후 연준 금리 인상 기대감 고조로 걸프 지역 증시 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724755)
-#### [두카티의 마르케스, 아라곤 대회에서 1-2위를 휩쓸며 마르틴의 우승 점수 차 줄여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724754)
-#### [홍콩의 한 독립 서점이 문을 닫기 전, 많은 사람들이 몰려들었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724753)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724752)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724751)
-#### [네팔, 신원 미상의 홍수 희생자들에 대한 집단 매장을 시작하는 가운데 유가족들은 실종자 수색에 나서고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724750)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724749)
-#### [[속보] 선양 쯔이화 금은 보석, 9월 1일부터 주식 거래 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724748)
