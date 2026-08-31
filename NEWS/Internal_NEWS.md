@@ -1,7 +1,48 @@
-<head><meta charset="utf-8"><title>Vers : 20260830_2225 </title></head>
-<center>Vers : 20260830_2225 </center>
-<center>Vers : 20260831_0725 </center>
+<head><meta charset="utf-8"><title>Vers : 20260831_0046 </title></head>
+<center>Vers : 20260831_0046 </center>
+<center>Vers : 20260831_0946 </center>
 <br><br><br>
+#### [USD, 매파적인 워시 발언에 매수세 강화… USD/JPY, 다시 160선 회복](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724863)
+#### [워시 의원의 매파적 입장 표명으로 3% 하락한 후 금값이 선방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724862)
+#### [원자재 일중 목표가/주요 수준](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724861)
+#### [INSIGHT-홍수 재앙이 닥치기 전, 네팔은 위험이 커짐에 따라 중국에 조기 경보를 요청했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724860)
+#### [유가와 금리가 높은 수준을 유지하면서 아시아 증시 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724859)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [호주 카지노 운영사 스타 엔터테인먼트, 연간 적자 규모 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724858)
+#### [구글 지도에서 미국 내 '온타리오 호수' 대신 '레이크 아메리카'가 표시됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724857)
+#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas의 최신 파이프라인 현황 (2026년 8월 31일)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724856)
+#### [호주 카지노 운영사 스타 엔터테인먼트, 연간 적자 규모 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724853)
+#### [아시아 시장 전망-G20을 앞두고 연준의 매파적 기조 전망과 미국 국채 수익률 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724855)
+#### [400억 엔 규모, 최대 지분 8.88% 자사주 매입 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724852)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7988.T/total>
+#### [10월 29일까지의 국채 입찰 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724854)
+#### [10월 29일까지의 신흥시장 경제 행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724851)
+#### [비트코인 매수 세력이 ‘워시아웃’되며 강세 차트 전망에 차질을 빚고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724850)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724849)
+#### [일본 7월 산업생산, 전월 대비 0.1% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724848)
+#### [베센트는 이란에 대한 압박을 강화하기 위해 매주 새로운 미국의 2차 제재가 부과될 것으로 예상하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724847)
+#### [Soft 인수에 따른 비용 증가로 상반기 적자 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724846)
+#### [NHC 폭풍 주의보: 카리나가 급속히 세력을 키워 대형 허리케인으로 발전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724845)
+#### [중국자원랜드, 개발용 부동산 부진 속 상반기 매출 급감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724844)
+#### [덴츠 그룹 - 덴츠 그룹, 덴츠 소켄을 이토추 그룹과의 합작회사로 전환할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724843)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/4324.T/total>
+#### [덴츠 소켄에 대해 주당 2,880엔에 공개매수 실시 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724842)
+#### [중국의 선전 롱시스, 홍콩 주식 공모를 통해 8억 달러 조달 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724841)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0992.HK/total>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724840)
+#### [트랜살타 온타리오 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724839)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724838)
+#### [베센트는 G20 국가들이 무역 불균형을 해소하기 위해 중국에 대한 무역 장벽을 강화하는 방안을 검토해야 한다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724837)
+#### [이란 혁명수비대(IRGC), 요르단 내 미군 기지 2곳을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724836)
+#### [SK On, NeoVolta Power와 에너지 저장 시스템용 배터리 공급 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724835)
+#### [베센트, 엔화 변동폭은 “상당히 제한적”이며 무질서하지 않다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724834)
+#### [주말 동안 호르무즈 해협을 통과하는 선박 수가 하루 5척으로 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724833)
+#### [주말 동안 호르무즈 해협을 통과하는 선박이 하루 5척으로 줄어들었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724832)
+#### [당국에 따르면 러시아 벨고로드에서 미사일 공격으로 2명이 사망하고 16명이 부상했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724831)
+#### [니폰 유센, 라틴 아메리카 및 아프리카산 원유 수입을 위해 일본 정유사들과 협의 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724830)
+#### [폭스 뉴스는 미국 소식통을 인용해 이란이 요르단에 주둔 중인 미군을 공격하고 있다고 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724829)
+#### [뉴질랜드 중앙은행(RBNZ)이 뒤에서 지켜보는 가운데 NZD/USD 환율이 주춤하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724828)
+#### [베센트는 엔화 등락폭이 “상당히 제한적”이며 무질서하지 않다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724827)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724826)
 #### [ONEOK, Brazos Midstream의 퍼미안 미들랜드 분지 자산을 44억 3천만 달러에 인수할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724825)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FANG.O/total>
@@ -26,6 +67,10 @@
 #### [파하리가 파라과이 랠리에서 우승, 카츠타는 사고로 탈락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724806)
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지되었다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724805)
 #### [파이낸셜타임스(FT) 보도에 따르면, 우크라이나 전 국방장관이 방위 기술 펀드를 위한 미국 투자를 모색하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724804)
+<head><meta charset="utf-8"><title>Vers : 20260831_0046 </title></head>
+<center>Vers : 20260831_0046 </center>
+<center>Vers : 20260831_0946 </center>
+<br><br><br>
 #### [BUZZ-IMM: 캐나다 달러, 유로, 영국 파운드에 대한 대규모 매수세 속에 달러 매수 포지션이 상당히 축소됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724803)
 #### [파키스탄, 이스탄불에서 국방위원회 첫 회의 개최 예정이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724802)
 #### [스위스 레이브 파티 총격 사건으로 사망자가 발생한 가운데 용의자 수색 작전 진행 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724801)
@@ -66,3 +111,28 @@
 #### [트럼프, 베네수엘라산 원유를 이용해 미국의 전략석유비축량을 보충하겠다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724769)
 #### [폴리티코 보도에 따르면, 예산 삭감과 부서 재배치로 인해 미국 농무부(USDA)의 사이클로스포라 연구 프로젝트가 보류되었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724768)
 #### [트럼프, 미국이 베네수엘라산 원유를 활용해 전략석유비축량을 보충할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724767)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724766)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724765)
+#### [네팔, 터널에 갇힌 수백 명을 구조하기 위해 구조 활동을 강화하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724764)
+#### [구글 지도에서는 미국 내 '온타리오 호수' 대신 '레이크 아메리카'가 표시됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724763)
+#### [우크라이나 국방장관, 조기 대출 지급 확보를 위해 ‘명확한’ 전쟁 계획 수립을 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724762)
+#### [아이슬란드 총리, “EEA와의 관계를 지속적으로 강화해 나갈 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724761)
+#### [오토바이 경주 - 두카티의 마르케스, 아라곤 대회 1-2위를 휩쓸며 마틴의 우승 경쟁 리드를 좁혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724760)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724759)
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724758)
+#### [트럼프, NBC의 웰커를 연방통신위원회(FCC)에 신고하겠다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724757)
+#### [월가 주간 전망-고용 보고서와 브로드컴 실적, 주식 시장 상승세의 다음 걸림돌로 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724756)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [워시 발언 이후 연준 금리 인상 기대감 고조로 걸프 지역 증시 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724755)
+#### [두카티의 마르케스, 아라곤 대회에서 1-2위를 휩쓸며 마르틴의 우승 점수 차 줄여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724754)
+#### [홍콩의 한 독립 서점이 문을 닫기 전, 많은 사람들이 몰려들었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724753)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724752)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724751)
+#### [네팔, 신원 미상의 홍수 희생자들에 대한 집단 매장을 시작하는 가운데 유가족들은 실종자 수색에 나서고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724750)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724749)
+#### [[속보] 선양 쯔이화 금은 보석, 9월 1일부터 주식 거래 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724748)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724747)
+#### [NASA, 플로리다에서 강력한 신형 ‘로만 우주 망원경’ 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724746)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [[속보 1] 언론 보도에 따르면, 북키프로스 인근 해상에서 약 270명이 탑승한 배가 전복됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724745)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2724744)
