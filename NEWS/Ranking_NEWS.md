@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260901_1755 </title></head>
-<center>Vers : 20260901_1755 </center>
-<center>Vers : 20260902_0255 </center>
+<head><meta charset="utf-8"><title>Vers : 20260901_2040 </title></head>
+<center>Vers : 20260901_2040 </center>
+<center>Vers : 20260902_0540 </center>
 <br><br><br>
 #### [살 빼는 사람 늘자 '대박' 터졌다…주가 87% 뛴 '뜻밖의 종목' [종목+]](https://m.stock.naver.com/news/ranknews/view/015/0005327437)
 #### ['170조' 판 외국인…"삼전닉스, 정치가 놔둬야 주가 오른다" [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005327476)
