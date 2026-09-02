@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260902_1806 </title></head>
-<center>Vers : 20260902_1806 </center>
-<center>Vers : 20260903_0306 </center>
+<head><meta charset="utf-8"><title>Vers : 20260902_2059 </title></head>
+<center>Vers : 20260902_2059 </center>
+<center>Vers : 20260903_0559 </center>
 <br><br><br>
 #### [“코스피 고점 가까워졌다”…전문가가 주식 대신 늘리라는 ‘이 자산’](https://m.stock.naver.com/news/ranknews/view/009/0005729628)
 #### ["삼전닉스 더 떨어지면 큰일인데"…'운명의 3일' 무슨 일이 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005328133)
