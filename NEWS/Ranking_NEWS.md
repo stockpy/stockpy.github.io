@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260903_1700 </title></head>
-<center>Vers : 20260903_1700 </center>
-<center>Vers : 20260904_0200 </center>
+<head><meta charset="utf-8"><title>Vers : 20260903_2034 </title></head>
+<center>Vers : 20260903_2034 </center>
+<center>Vers : 20260904_0534 </center>
 <br><br><br>
 #### [“혼자 산 지 13년, 결혼 생각은 없습니다”…평균자산 4.3억, 4050 ‘비혼족’](https://m.stock.naver.com/news/ranknews/view/009/0005729812)
 #### [삼전닉스 믿고 샀는데 어쩌나…"잔치는 끝났다" 충격 전망 [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005328562)
