@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260904_1745 </title></head>
-<center>Vers : 20260904_1745 </center>
-<center>Vers : 20260905_0245 </center>
+<head><meta charset="utf-8"><title>Vers : 20260904_2020 </title></head>
+<center>Vers : 20260904_2020 </center>
+<center>Vers : 20260905_0520 </center>
 <br><br><br>
 #### [코스피 1만2천 간다더니…골드만삭스 “향후 1년간 글로벌 증시 수익률 한 자릿수”](https://m.stock.naver.com/news/ranknews/view/021/0002816263)
 #### [“67만전자·470만닉스 간다”…삼전닉스 ‘심각하게 싸다’는 노무라](https://m.stock.naver.com/news/ranknews/view/009/0005730498)
