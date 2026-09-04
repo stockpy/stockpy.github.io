@@ -1,17 +1,9 @@
 ---
 layout: default
 ---
-
-<article class="post">
+<article>
   <h1>{{ page.title }}</h1>
-
-  <div class="entry">
-    {{ content }}
-  </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
-  {% include disqus.html %}
+  <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+  <hr>
+  {{ content }}
 </article>
