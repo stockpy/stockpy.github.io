@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SLS SAP GUI SSO — Attribute Mapping 설정 가이드 (Corporate IdP + IAS)
+categories: sso-auth
 ---
 
 # SLS SAP GUI SSO — Attribute Mapping 설정 가이드 (Corporate IdP + IAS)

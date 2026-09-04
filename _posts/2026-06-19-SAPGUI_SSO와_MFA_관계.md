@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SAPGUI SSO (Kerberos/Logon Ticket)와 MFA의 관계
+categories: sso-auth
 ---
 
 # SAPGUI SSO (Kerberos/Logon Ticket)와 MFA의 관계

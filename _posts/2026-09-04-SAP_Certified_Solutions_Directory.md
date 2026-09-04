@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SAP Certified Solutions Directory — 등록 제품 vs 미등록 제품
+categories: general
 ---
 
 # SAP Certified Solutions Directory — 등록 제품 vs 미등록 제품

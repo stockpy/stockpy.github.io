@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SAP Object Store on SAP BTP — 종합 가이드
+categories: btp
 ---
 
 # SAP Object Store on SAP BTP — 종합 가이드

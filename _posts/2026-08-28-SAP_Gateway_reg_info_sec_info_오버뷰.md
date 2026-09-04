@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SAP Note 1305851 — SAP Gateway reg_info 및 sec_info 오버뷰
+categories: general
 ---
 
 # SAP Note 1305851 정리

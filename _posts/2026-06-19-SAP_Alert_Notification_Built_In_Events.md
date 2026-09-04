@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SAP Alert Notification Service — Built-In Events 전체 목록
+categories: monitoring
 ---
 
 # SAP Alert Notification Service — Built-In Events 전체 목록

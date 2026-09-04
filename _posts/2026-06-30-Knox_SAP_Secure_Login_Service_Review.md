@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Knox Portal + SAP Secure Login Service 연계 검토
+categories: general
 ---
 
 # Knox Portal + SAP Secure Login Service 연계 검토

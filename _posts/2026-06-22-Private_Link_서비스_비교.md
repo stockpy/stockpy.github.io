@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Private Link 서비스 비교 가이드
+categories: btp
 ---
 
 # Private Link 서비스 비교 가이드

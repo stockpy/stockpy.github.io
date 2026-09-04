@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SAP Secure Login Service for SAP GUI — 종합 가이드
+categories: sapgui
 ---
 
 # SAP Secure Login Service for SAP GUI — 종합 가이드

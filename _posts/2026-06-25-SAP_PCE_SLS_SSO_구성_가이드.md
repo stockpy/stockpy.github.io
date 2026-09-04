@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SAP PCE 환경 — SAPGUI SSO 구성 가이드 (사내 AD 없음)
+categories: sso-auth
 ---
 
 # SAP PCE 환경 - SAPGUI SSO 구성 가이드 (사내 AD 없음)

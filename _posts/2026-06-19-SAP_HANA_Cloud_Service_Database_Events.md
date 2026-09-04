@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SAP HANA Cloud Service Database Events (HDB) — 전체 목록
+categories: monitoring
 ---
 
 # SAP HANA Cloud Service Database Events (HDB) — 전체 목록

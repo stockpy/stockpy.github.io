@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SAP Alert Notification Service — Basis Consultant 관점 요약
+categories: monitoring
 ---
 
 # SAP Alert Notification Service — Basis Consultant 관점 요약

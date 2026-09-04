@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SAP PCE 환경 — 사내 SAP GUI SSO 인증 가이드 (Kerberos)
+categories: sso-auth
 ---
 
 # SAP PCE 환경 — 사내 SAP GUI SSO 인증 가이드 (Kerberos)
