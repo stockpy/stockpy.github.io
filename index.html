@@ -1,18 +1,16 @@
-<div class="directory-archive">
-  {% for category in site.categories %}
-    <details style="margin-bottom: 15px; cursor: pointer;">
-      <summary style="font-size: 1.17em; font-weight: bold; outline: none;">
-        📁 {{ category[0] }} ({{ category[1].size }})
-      </summary>
-      
-      <ul style="list-style-type: none; padding-left: 20px; margin-top: 8px;">
-        {% for post in category[1] %}
-          <li style="margin-bottom: 6px;">
-            📄 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            <span style="color: #888; font-size: 0.85em;">({{ post.date | date: "%Y-%m-%d" }})</span>
-          </li>
-        {% endfor %}
-      </ul>
-    </details>
+---
+layout: default
+---
+<h1>{{ site.title }}</h1>
+<p>{{ site.description }}</p>
+
+<h2>Posts</h2>
+<ul>
+  {% for post in site.posts %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <br>
+    <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+  </li>
   {% endfor %}
-</div>
+</ul>
