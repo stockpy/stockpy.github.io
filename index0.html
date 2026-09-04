@@ -1,16 +1,16 @@
 ---
 layout: default
 ---
-<h1>{{ site.title }}</h1>
-<p>{{ site.description }}</p>
-
-<h2>Posts</h2>
-<ul>
-  {% for post in site.posts %}
+{% for cat in site.categories %}
+{% assign cat_key = cat[0] %}
+{% assign cat_label = site.data.category_labels[cat_key] %}
+<h2 class="section-title">{{ cat_label | default: cat_key }}</h2>
+<ul class="post-list">
+  {% for post in cat[1] %}
   <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <br>
-    <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+    <a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a>
+    <div class="post-date">{{ post.date | date: "%Y-%m-%d" }}</div>
   </li>
   {% endfor %}
 </ul>
+{% endfor %}
