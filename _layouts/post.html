@@ -2,8 +2,11 @@
 layout: default
 ---
 <article>
+  <a href="{{ '/categories/' | append: page.categories | append: '.html' | relative_url }}" class="back-link">&larr; {{ site.data.category_labels[page.categories] | default: page.categories }}</a>
   <h1>{{ page.title }}</h1>
-  <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+  <div class="post-meta">
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+  </div>
   <hr>
   {{ content }}
 </article>
