@@ -1,0 +1,17 @@
+---
+layout: default
+permalink: /categories/general.html
+categories: general
+---
+<div class="category-header">
+  <h1>기타</h1>
+  <p>SAP 인증, Gateway, Knox 등 기타 문서</p>
+</div>
+<ul class="post-list">
+  {% for post in site.categories.general %}
+  <li>
+    <a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a>
+    <div class="post-date">{{ post.date | date: "%Y-%m-%d" }}</div>
+  </li>
+  {% endfor %}
+</ul>
