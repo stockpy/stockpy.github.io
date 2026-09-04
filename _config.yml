@@ -1,22 +1,23 @@
-title: TEST
-description: TEST
+title: SAP Notes & Guides
+description: SAP 관련 기술 문서 및 가이드 모음
 baseurl: ""
 url: ""
-
-theme: minima
-
-minima:
-  skin: auto
-  social_links:
-    github: 
 
 defaults:
   - scope:
       path: "_posts"
     values:
       layout: post
-      author: AI
+      author: SAP Team
 
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
+
+categories:
+  - sso-auth
+  - identity
+  - btp
+  - monitoring
+  - sapgui
+  - general
