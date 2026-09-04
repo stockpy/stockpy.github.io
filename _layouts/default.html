@@ -3,21 +3,104 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}{% if site.title %} — {{ site.title }}{% endif %}</title>
-  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <title>{{ page.title }}{% if page.title != site.title %} — {{ site.title }}{% endif %}</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.7; color: #333; background: #f8f9fa; }
+    a { color: #0366d6; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* Header */
+    header { background: #24292e; color: #fff; padding: 16px 0; }
+    header .container { display: flex; align-items: center; justify-content: space-between; }
+    header h1 { font-size: 1.4rem; }
+    header h1 a { color: #fff; }
+    header p { font-size: 0.85rem; color: #adb5bd; }
+
+    /* Container */
+    .container { max-width: 960px; margin: 0 auto; padding: 0 20px; }
+
+    /* Category Nav */
+    .category-nav { background: #fff; border-bottom: 1px solid #e1e4e8; padding: 12px 0; }
+    .category-nav ul { list-style: none; display: flex; flex-wrap: wrap; gap: 8px; }
+    .category-nav li a { display: inline-block; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 500; background: #f1f3f5; color: #495057; border: 1px solid #dee2e6; transition: all 0.2s; }
+    .category-nav li a:hover, .category-nav li a.active { background: #0366d6; color: #fff; border-color: #0366d6; text-decoration: none; }
+    .category-nav li a .count { font-size: 0.75rem; opacity: 0.7; margin-left: 4px; }
+
+    /* Main */
+    main { padding: 32px 0; min-height: 60vh; }
+
+    /* Post List */
+    .post-list { list-style: none; }
+    .post-list li { background: #fff; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px 20px; margin-bottom: 12px; transition: box-shadow 0.2s; }
+    .post-list li:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+    .post-list .post-title { font-size: 1.1rem; font-weight: 600; }
+    .post-list .post-date { font-size: 0.8rem; color: #868e96; margin-top: 4px; }
+    .post-list .post-category { display: inline-block; font-size: 0.75rem; padding: 2px 8px; border-radius: 10px; background: #e9ecef; color: #495057; margin-top: 6px; }
+
+    /* Category Header */
+    .category-header { margin-bottom: 24px; }
+    .category-header h1 { font-size: 1.6rem; margin-bottom: 4px; }
+    .category-header p { color: #868e96; }
+
+    /* Post Content */
+    article { max-width: 720px; padding: 0 24px; }
+    article h1 { font-size: 1.8rem; margin-bottom: 8px; }
+    article .post-meta { color: #868e96; font-size: 0.85rem; margin-bottom: 20px; }
+    article hr { border: none; border-top: 1px solid #e1e4e8; margin: 24px 0; }
+    article h2 { font-size: 1.4rem; margin: 28px 0 12px; padding-bottom: 6px; border-bottom: 1px solid #e1e4e8; }
+    article h3 { font-size: 1.15rem; margin: 20px 0 8px; }
+    article p { margin-bottom: 14px; }
+    article table { border-collapse: collapse; width: 100%; margin: 16px 0; }
+    article th, article td { border: 1px solid #e1e4e8; padding: 8px 12px; text-align: left; }
+    article th { background: #f6f8fa; font-weight: 600; }
+    article blockquote { border-left: 4px solid #0366d6; padding: 8px 16px; margin: 16px 0; background: #f6f8fa; color: #586069; }
+    article code { background: #f6f8fa; padding: 2px 6px; border-radius: 3px; font-size: 0.9em; }
+    article pre { background: #f6f8fa; padding: 16px; border-radius: 6px; overflow-x: auto; margin: 16px 0; }
+    article pre code { background: none; padding: 0; }
+    article ul, article ol { margin: 12px 0; padding-left: 24px; }
+    article li { margin-bottom: 4px; }
+    article img { max-width: 100%; }
+
+    /* Back Link */
+    .back-link { display: inline-block; margin-bottom: 20px; font-size: 0.9rem; }
+
+    /* Footer */
+    footer { border-top: 1px solid #e1e4e8; padding: 20px 0; text-align: center; color: #868e96; font-size: 0.8rem; }
+
+    /* Section title on index */
+    .section-title { font-size: 1.2rem; font-weight: 600; margin: 28px 0 12px; padding-bottom: 6px; border-bottom: 2px solid #0366d6; }
+    .section-title:first-child { margin-top: 0; }
+  </style>
 </head>
 <body>
   <header>
-    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-    {% if site.description %}
-    <p>{{ site.description }}</p>
-    {% endif %}
+    <div class="container">
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <p>{{ site.description }}</p>
+    </div>
   </header>
+  <nav class="category-nav">
+    <div class="container">
+      <ul>
+        <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>전체</a></li>
+        {% for cat in site.categories %}
+        {% assign cat_key = cat[0] %}
+        {% assign cat_label = site.data.category_labels[cat_key] %}
+        <li><a href="{{ '/categories/' | append: cat_key | append: '.html' | relative_url }}"{% if page.categories == cat_key %} class="active"{% endif %}>{{ cat_label | default: cat_key }}<span class="count">{{ cat[1].size }}</span></a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
   <main>
-    {{ content }}
+    <div class="container">
+      {{ content }}
+    </div>
   </main>
   <footer>
-    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+    <div class="container">
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+    </div>
   </footer>
 </body>
 </html>
