@@ -1,0 +1,17 @@
+---
+layout: default
+permalink: /categories/sapgui.html
+categories: sapgui
+---
+<div class="category-header">
+  <h1>SAP GUI</h1>
+  <p>SAP GUI, WebGUI, Secure Login Service 관련 문서</p>
+</div>
+<ul class="post-list">
+  {% for post in site.categories.sapgui %}
+  <li>
+    <a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a>
+    <div class="post-date">{{ post.date | date: "%Y-%m-%d" }}</div>
+  </li>
+  {% endfor %}
+</ul>
