@@ -1,0 +1,17 @@
+---
+layout: default
+permalink: /categories/identity.html
+categories: identity
+---
+<div class="category-header">
+  <h1>Identity / IdP</h1>
+  <p>Identity Authentication, Corporate IdP, 신뢰 설정 관련 문서</p>
+</div>
+<ul class="post-list">
+  {% for post in site.categories.identity %}
+  <li>
+    <a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a>
+    <div class="post-date">{{ post.date | date: "%Y-%m-%d" }}</div>
+  </li>
+  {% endfor %}
+</ul>
