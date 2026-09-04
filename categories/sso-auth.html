@@ -1,0 +1,17 @@
+---
+layout: default
+permalink: /categories/sso-auth.html
+categories: sso-auth
+---
+<div class="category-header">
+  <h1>SSO / 인증</h1>
+  <p>SSO 구성, 인증 솔루션, MFA 관련 문서</p>
+</div>
+<ul class="post-list">
+  {% for post in site.categories.sso-auth %}
+  <li>
+    <a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a>
+    <div class="post-date">{{ post.date | date: "%Y-%m-%d" }}</div>
+  </li>
+  {% endfor %}
+</ul>
