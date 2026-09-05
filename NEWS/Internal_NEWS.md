@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20260905_2202 </title></head>
-<center>Vers : 20260905_2202 </center>
-<center>Vers : 20260906_0702 </center>
+<head><meta charset="utf-8"><title>Vers : 20260905_2348 </title></head>
+<center>Vers : 20260905_2348 </center>
+<center>Vers : 20260906_0848 </center>
 <br><br><br>
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732270)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732269)
+#### [농구-유로리그 CEO, “NBA 유럽 진출 협상은 양측 모두에게 이익이 되어야 한다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732268)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732267)
+#### [천연가스 파이프라인 긴급 공지: 사빈 파이프라인 유지보수 / 운영 경보 / 기타 / 파이프라인 상태 / 일정 변경 알림](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732266)
+#### [복싱-테일러, 만장일치 판정으로 필리를 꺾고 무결점 챔피언으로서 은퇴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732265)
+#### [정착민들의 폭력 사태가 확산되는 가운데 미국 대사가 팔레스타인 마을을 방문했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732264)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732263)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732262)
+#### [테일러, 만장일치 판정으로 필리를 꺾고 무결점 챔피언으로서 은퇴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732261)
 #### [크렘린궁 보좌관은 푸틴 대통령과 미국 특사들이 우크라이나 전쟁을 종식시킬 방안에 대해 유익한 논의를 가졌다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732260)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732259)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732258)
@@ -53,13 +63,3 @@
 #### [오픈AI는 ‘위키 사건’을 인정하고, 의도치 않은 AI 행동에 대해 더 큰 투명성이 필요함을 시사했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732213)
 #### [NHC 폭풍 주의보: 마리 태풍은 향후 며칠 동안 세력이 약화될 것으로 예상됩니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732212)
 #### [우크라이나의 젤렌스키 대통령은 미국 특사들과 대화를 나눴다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732211)
-#### [이탈리아 극우 인사 반나치, 비즈니스 정상회의에서 EU를 신랄히 비판](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732210)
-#### [페루, 범죄 조직 퇴치를 위해 보안 수준이 높은 5개 교도소에 비상사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732209)
-#### [맥쿼리 온타리오 184MW 카디널 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732208)
-#### [엔브리지 온타리오의 182MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732207)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732206)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732205)
-#### [베니스 영화제 출품작 ‘프라이머타임’, 뉴스와 연예계의 경계를 탐구하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732204)
-#### [미 중앙사령부, “미군이 이란 원유 운반선 3척을 공습했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732203)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732202)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732201)
