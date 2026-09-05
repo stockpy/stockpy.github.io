@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260905_1756 </title></head>
-<center>Vers : 20260905_1756 </center>
-<center>Vers : 20260906_0256 </center>
+<head><meta charset="utf-8"><title>Vers : 20260905_2005 </title></head>
+<center>Vers : 20260905_2005 </center>
+<center>Vers : 20260906_0505 </center>
 <br><br><br>
 #### [20,000,000,000,000,000원 넘어선 재산…'돈벼락' 맞은 슈퍼리치, 돈 몰린 곳 따로 있었다](https://m.stock.naver.com/news/ranknews/view/277/0005812288)
 #### ["둘이서 국민연금 월 120만원?"...연 배당금 '1억' 만드는 투자 전략](https://m.stock.naver.com/news/ranknews/view/008/0005409816)
