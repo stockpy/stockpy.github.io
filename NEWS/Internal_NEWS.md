@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20260905_2005 </title></head>
-<center>Vers : 20260905_2005 </center>
-<center>Vers : 20260906_0505 </center>
+<head><meta charset="utf-8"><title>Vers : 20260905_2202 </title></head>
+<center>Vers : 20260905_2202 </center>
+<center>Vers : 20260906_0702 </center>
 <br><br><br>
+#### [크렘린궁 보좌관은 푸틴 대통령과 미국 특사들이 우크라이나 전쟁을 종식시킬 방안에 대해 유익한 논의를 가졌다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732260)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732259)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732258)
+#### [트럼프의 ‘MAGA Inc’가 중간선거를 앞두고 팩스턴의 상원 선거 캠페인에 1,000만 달러를 기부했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732257)
+#### [푸틴, 미국 특사 스티브 위트코프와 재러드 쿠슈너와 만나 ‘어려운’ 회담 진행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732256)
+#### [미 중앙사령부, 이란 유조선 3척을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732255)
+#### [러시아 관리, 미국 특사단의 모스크바 방문을 “중요한 평화 구축 방문”이라고 평가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732254)
+#### [NHC 폭풍 주의보: 마리는 현재 세력이 유지되고 있으나 이번 주말 후반에 세력이 약화될 것으로 전망됩니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732253)
+#### [독일 우주 로켓, 노르웨이 기지에서 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732252)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [독일 우주 로켓, 노르웨이 기지에서 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732251)
+#### [ABN 암로 계열사, 일본 전력 거래 시장 진출 - 닛케이 아시아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732250)
 #### [이란은 미국의 공격에 대응해 유조선과 미국 선박을 공격 대상으로 삼았다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732249)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732248)
 #### [천연가스 파이프라인 긴급 공지: 2026년 9월 6일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732247)
@@ -51,14 +63,3 @@
 #### [미 중앙사령부, “미군이 이란 원유 운반선 3척을 공습했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732203)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732202)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732201)
-#### [인디언 이뮤놀로지스 - 광견병 백신 ‘아바이랍’에 관한 성명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732200)
-#### [파라지와 바르델라의 ‘소형 선박’ 협정이 프랑스에서 비판을 받고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732199)
-#### [크로아티아의 폐기물 처리 지연 문제로 자그레브에서 수만 명이 집회를 열었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732198)
-#### [아테네 인근 에어쇼 도중 그리스 F-4 전투기 추락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732197)
-#### [메르츠, 폭스바겐 구조조정 합의 환영… “지분은 자동차 제조사를 넘어선다”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732196)
-#### [메르츠, 러시아와 연계된 드론 공격이 독일이 ‘심각한 분열’에 직면했음을 보여준다고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732195)
-#### [인도 TCS 자회사, AI 데이터센터 단지에 최대 74억 달러 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732194)
-#### [ERT 보도에 따르면, 아테네 인근에서 열린 에어쇼 도중 그리스 공군의 F-4 전투기가 추락했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732193)
-#### [인터팩스 통신에 따르면, 러시아는 우크라이나로 향하는 군사 물자를 실은 선박 4척을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732192)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732191)
-#### [미주리주, 공화당이 작성한 연방 하원 선거구 구획안을 부활시켜 달라고 대법원에 요청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732190)
