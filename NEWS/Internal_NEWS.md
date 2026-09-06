@@ -1,7 +1,30 @@
-<head><meta charset="utf-8"><title>Vers : 20260906_0312 </title></head>
-<center>Vers : 20260906_0312 </center>
-<center>Vers : 20260906_1212 </center>
+<head><meta charset="utf-8"><title>Vers : 20260906_0823 </title></head>
+<center>Vers : 20260906_0823 </center>
+<center>Vers : 20260906_1723 </center>
 <br><br><br>
+#### [소식통에 따르면 OPEC+는 일요일 원유 생산 정책을 현행대로 유지할 것으로 보인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732301)
+#### [네팔 국경, 한때 분주했던 항구의 흔적은 찾아볼 수 없다 ? 로이터 취재진 목격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732300)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732299)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732298)
+#### [빌트지 보도에 따르면, 독일은 공항 드론 공격 이후 방해 공작 방지 대책을 마련할 계획이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732297)
+#### [미 항공모함 ‘에이브러햄 링컨’호, 휴식 차 방문을 마치고 태국을 떠나다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732296)
+#### [노르웨이의 가스코(Gassco), 예기치 못한 가스 공급 중단 기간 단축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732295)
+#### [노르웨이의 가스코, 예기치 못한 가스 공급 중단 기간 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732294)
+#### [노르웨이의 Gassco는 9월 6일 04:00부터 9월 7일 03:59까지 오세베르그 가스전에서 일일 7.4 mcm 규모의 생산 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732293)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732292)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732291)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732290)
+#### [2027년에도 부동산 재해 보험의 주요 협상 쟁점은 여전히 가격이 될 것인가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732289)
+#### [주파수 관련 위험을 해결하고 상위 계층에서 경쟁력을 확보하기 위해 마련된 파라메트릭 커버리지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732288)
+#### [시더 트레이스, 3억 달러 규모의 로이드 신디케이트 출범 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732287)
+#### [“고객에게는 선택권이 있다”: 윌리스 리(Willis Re)의 서머스, 과점화된 중개 시장을 혁신할 기회에 대해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732286)
+#### [초서 CEO, “재보험 요율이 예상보다 빠르게 하락했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732285)
+#### [스위스 리, 인프라 투자 붐으로 2,000억 달러 규모의 상업 보험 시장 기회 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732284)
+#### [주목할 요인 - 9월 6일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732283)
+#### [로이드의 터크, 재산 보험료율이 “경각심을 불러일으킬 만한” 속도로 하락하고 있다고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732282)
+#### [로이드, 행동 문제 우려로 약 2개월마다 보험 취급사 한 곳을 제명하고 있다: 터크](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732281)
+#### [이스라엘 군, 헤즈볼라가 드론을 발사한 후 레바논 남부를 공습했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732280)
+#### [이스라엘 군 당국은 헤즈볼라가 드론을 발사한 후 레바논 남부를 공습했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732279)
 #### [NHC 폭풍 주의보: 마리, 일요일부터 세력이 약화될 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732278)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732277)
 #### [미국과 러시아 관리들, 우크라이나 협상 관련 향후 조치 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732276)
@@ -40,6 +63,10 @@
 #### [안토넬리, 몬차 예선에서 좋은 팀 동료로서 행동했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732244)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732243)
 #### [미국 북서부 강 유량, 83%로 변함없이 유지 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732242)
+<head><meta charset="utf-8"><title>Vers : 20260906_0823 </title></head>
+<center>Vers : 20260906_0823 </center>
+<center>Vers : 20260906_1723 </center>
+<br><br><br>
 #### [그리스 총리, 선거를 앞두고 소득 증대 방안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732241)
 #### [푸틴, 위트코프·쿠슈너와 회담 시작하며 미·러 간 접촉이 유익하다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732240)
 #### [가스리가 트랙 안팎에서 러셀을 견제하기 위해 공세를 펼쳤다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732239)
@@ -63,10 +90,6 @@
 #### [연방 항소법원, 트럼프 측의 유권자 신원 확인을 위해 시민권자 명부를 활용하려는 시도에 대한 금지 조치를 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732221)
 #### [아테네 인근 에어쇼 도중 그리스 F-4 전투기 추락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732220)
 #### [모터 레이싱-알파인의 가스리가 몬차에서 러셀을 제치고 F1 데뷔 첫 폴 포지션을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732219)
-<head><meta charset="utf-8"><title>Vers : 20260906_0312 </title></head>
-<center>Vers : 20260906_0312 </center>
-<center>Vers : 20260906_1212 </center>
-<br><br><br>
 #### [인터팩스 통신에 따르면 푸틴 대통령은 로스네프트의 보스토크 오일 파이프라인을 통해 첫 원유가 유입되기 시작했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732218)
 #### [다큐멘터리가 재결합을 기념하는 가운데, 오아시스가 베니스에 당당한 매력을 선사하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732217)
 #### [미국 특사, “나토는 회원국을 겨냥한 하이브리드 작전을 용납하지 않을 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732216)
@@ -104,27 +127,3 @@
 #### [영국 도버 항구에서 가면을 쓴 남성들이 시위를 벌이며, 영국과 프랑스 간 해협 횡단 교통에 차질을 빚게 했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732184)
 #### [인도의 TCS, AI 데이터센터 단지에 최대 74억 달러 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732183)
 #### [브리아토레가 심판에게 비판을 가한 가운데, FIA 항소법원이 공정성과 청렴성을 강조하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732182)
-#### [인도 이베리아 제약, 기업공개(IPO) 신청 - 투자설명서 초안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732181)
-#### [요르단강 서안 지구에서 정착민들의 폭력 사태가 증가하는 가운데 미국 대사가 팔레스타인 마을을 방문했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732180)
-#### [[속보] TCS의 ‘하이퍼볼트(Hypervault)’, 인도 텔랑가나주에 대규모 AI 데이터센터 캠퍼스 조성 예정 - 성명서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732179)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732178)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732177)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732176)
-#### [미국 주이스라엘 대사는 팔레스타인인들을 가자지구에서 강제로 내쫓을 계획은 없다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732175)
-#### [미국인들, 노동절 연휴 기간 사상 최고치 기록한 휘발유 가격에 시달려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732174)
-#### [국경에서 마주한 말 밀수꾼과 나사벌레](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732173)
-#### [제네바에서 열린 자율무기 회담에서 각국이 합의에 도달했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732172)
-#### [국경에서 마주한 말 밀수범과 나방유충](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732171)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732170)
-#### [이번 주 브레이킹뷰스: 이사회를 위한 새로운 기준](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732169)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [미국이 자금 세탁 혐의로 수사했던 베네수엘라의 억만장자가 이제 미 국방부와 석유 계약을 체결했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732168)
-#### [말 밀수 사건이 미국 스크류웜 방어 체계의 허점을 드러내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732167)
-#### [[업데이트 1] 소식통에 따르면, 푸틴 대통령의 특사 드미트리예프가 위트코프와 쿠슈너가 모스크바에 도착하는 대로 이들을 만날 예정이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732166)
-#### [러시아가 장악한 루한스크 주에서 5명 사망… 러시아가 임명한 주지사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732165)
-#### [터키, 교량 및 고속도로를 30년간 민영화할 예정… 터키 관보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732164)
-#### [소식통에 따르면, 푸틴 대통령의 특사 드미트리예프가 위트코프와 쿠슈너가 모스크바에 도착하면 그들과 만날 예정이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732163)
-#### [[속보] 바이오레텍, 자사의 ‘액티바스크류(Activascrew) 관형 생분해성 압박 나사’에 대해 FDA 510(k) 승인을 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732162)
-#### [프랑스, 니제르에서 좌절된 군인 반란 사건 연루설 부인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732161)
-#### [메틴베스트, “러시아 공습으로 우크라이나 제철소 가동 중단… 5명 사망”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732160)
-#### [영국 도버 항구에서 시위를 벌이던 복면을 쓴 남성들이 영국-프랑스 해협을 오가는 교통을 방해했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732159)
