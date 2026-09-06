@@ -1,7 +1,16 @@
-<head><meta charset="utf-8"><title>Vers : 20260906_2020 </title></head>
-<center>Vers : 20260906_2020 </center>
-<center>Vers : 20260907_0520 </center>
+<head><meta charset="utf-8"><title>Vers : 20260906_2210 </title></head>
+<center>Vers : 20260906_2210 </center>
+<center>Vers : 20260907_0710 </center>
 <br><br><br>
+#### [독일 주 선거에서 극우 정당 AfD가 역사적인 승리를 거두었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732424)
+#### [네덜란드 사모펀드 회사 워터랜드(Waterland), 감마(Gamma) 인수 경쟁에 뛰어들 계획 - 선데이 타임스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732423)
+#### [[업데이트 3] 의료진에 따르면, 이스라엘의 공습으로 가자에서 한 남성과 그의 딸이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732422)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732421)
+#### [아마존 프라임 에어 화물기, 마이애미 공항에서 추락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732420)
+#### [NHC 폭풍 주의보: 마리 폭풍이 앞으로 며칠 동안 더 바하 캘리포니아와 남부 캘리포니아 해안 일대에서 위험한 해변 상황을 지속시킬 전망입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732419)
+#### [주말 뉴스-이란, 독일 주 선거, 중국 자본 유입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732418)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732417)
+#### [스웨덴 포스마크 2호기 원자로, 예기치 못한 가동 중단 - 전력 거래소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732416)
 #### [BUZZ-COMMENT-이번 주 전망-미국 물가, 유럽중앙은행(ECB) 금리 결정, 미국-이란](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732415)
 #### [씨티, 호주의 ‘스토리지 킹’에 대한 투자의견을 ‘매수’로 상향 조정했으나 목표 주가는 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732414)
 #### [미국, 우크라이나 전쟁 종식을 위한 노력 재개…쿠슈너 “보장할 수 없다”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732413)
@@ -53,12 +62,3 @@
 #### [의료진에 따르면 이스라엘의 공습으로 가자에서 2명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732367)
 #### [소식통에 따르면 이스라엘의 네타냐후 총리가 요르단강 서안 지구 내 정착촌 전초기지 철거를 지시했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732366)
 #### [NHC 폭풍 주의보: 마리 태풍이 앞으로 며칠 동안 더 바하 캘리포니아와 남부 캘리포니아 해안 지역에서 위험한 해변 상황을 지속시킬 전망입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732365)
-#### [뮌헨 재보험: 사이버 보험 시장 성장세가 주춤해졌으며, 업계는 새로운 사업 기회를 모색해야 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732364)
-#### [타스 통신에 따르면 러시아는 흑해에서 우크라이나 화물선을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732363)
-#### [쿠슈너, 우크라이나 주재 미국 특사들이 평화 협상에서 더 큰 진전을 기대하고 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732362)
-#### [에실로럭소티카 창립자의 아들이 안경 그룹을 위한 새로운 전략을 촉구했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732361)
-#### [캘파인 온타리오의 212 MW 그린필드 에너지 센터 2호기 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732360)
-#### [모터레이싱 - 르클레르의 충돌로 인한 리타이어 후 이탈리아 그랑프리 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732359)
-#### [[종합 2] 이란, 경제 문제 해결에 나설 것…추가 공격은 “더 큰 고통을 안길 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732358)
-#### [ANI 보도에 따르면, 인도 델리에서 다층 건물이 붕괴되어 6명이 구조됐다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732357)
-#### [르클레르의 충돌로 인한 리타이어로 이탈리아 그랑프리 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732356)
