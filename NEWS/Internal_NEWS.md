@@ -1,7 +1,58 @@
-<head><meta charset="utf-8"><title>Vers : 20260906_0823 </title></head>
-<center>Vers : 20260906_0823 </center>
-<center>Vers : 20260906_1723 </center>
+<head><meta charset="utf-8"><title>Vers : 20260906_1213 </title></head>
+<center>Vers : 20260906_1213 </center>
+<center>Vers : 20260906_2113 </center>
 <br><br><br>
+#### [[속보] 안톤 오일필드, 이라크 원유 판매 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732342)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3337.HK/total>
+#### [독일, 공항 드론 공격 이후 방해 행위 방지 대책 마련 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732341)
+#### [[종합 1] 이란, 경제 문제 해결에 나설 것…추가 공격은 “더 큰 고통을 안길 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732340)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732339)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732338)
+#### [[속보 1] 타스 통신 보도에 따르면, 러시아의 라브로프 외무장관은 라이프치히 드론 사건에 모스크바가 연루되었다는 의혹을 “실제 전쟁의 시작”이라고 일축했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732337)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732336)
+#### [그리스 총리, 감세 및 임금 인상 방안 발표 후 조기 총선 가능성 일축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732335)
+#### [우크라이나 전쟁 평화 추진 속에서 미국 특사단, 키예프 첫 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732334)
+#### [소식통에 따르면, 미국 특사와의 회담을 앞두고 유럽 각국의 국가안보보좌관들이 키예프에 머물고 있다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732333)
+#### [타스 통신에 따르면, 러시아의 라브로프 외무장관은 라이프치히 드론 사건에 모스크바가 연루되었다는 비난을 “실제 전쟁의 시작”이라고 일축했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732332)
+#### [[속보] 동우 시멘트, 상반기 1,600만 홍콩달러 순손실 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732331)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0695.HK/total>
+#### [나이지리아 반독점 당국, 우버의 나이지리아 시장 철수 조사 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732330)
+#### [터키의 중기 경제 프로그램 전망치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732329)
+#### [[속보] 복성제약, 최대 10억 홍콩 달러 규모의 H주 자사주 매입 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732328)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2196.HK/total>
+#### [독일 작센안할트주 유권자들이 투표소로 향하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732327)
+#### [터키의 일마즈, 이란 전쟁의 여파로 인플레이션 억제 노력에 더 오랜 시간이 걸렸다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732326)
+#### [[업데이트 4] 유럽 최초의 상업용 발사 임무에서 독일 우주 로켓이 궤도에 진입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732325)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [영국 기업부 장관, 감원 문제로 재규어 랜드로버 CEO와 회동 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732324)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732323)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732322)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732321)
+#### [악사 XL 리 CEO, “우리는 소유권 측면에서 ‘최적의 시기’에 있다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732320)
+#### [이란 의회 의장, “미국의 공격에 대한 이란의 대응은 ‘더 고통스러울 것’”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732319)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732318)
+#### [온타리오주 브룩필드 소재 189MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732317)
+#### [터키, 중기 계획에서 2029년 GDP 성장률 5% 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732316)
+#### [터키 부통령, “2029년 물가상승률 한 자릿수 기록할 것”이라고 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732315)
+#### [작센안할트주 선거를 앞두고 독일 극우 정당 AfD, 주 선거 사상 첫 승리를 노린다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732314)
+#### [[속보] 복성제약, 자회사 글랜드 파마 지분 2억 9,400만 달러에 매각했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732313)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600196.SS/total>
+#### [NHC 폭풍 주의보: 마리 태풍은 오늘 늦게부터 세력이 약화될 것으로 예보됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732312)
+#### [[속보 1] 타스 통신에 따르면 모스크바 측은 러시아·미국·중국 3국 정상 간 3자 회담 가능성을 배제하지 않았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732311)
+#### [[속보] AgBank, A주 배정을 통해 중국담배지분을 유치할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732310)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601288.SS/total>
+#### [[속보] 쑤저우 유어베스트, 9월 7일 주식 거래 재개 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732309)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301266.SZ/total>
+#### [프랑스계 EDF 에너지, 소규모 경쟁사 So Energy 인수 협상 중 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732308)
+#### [중국국유건설 부사장 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732307)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601668.SS/total>
+#### [[속보] 저장 통리 주주, 지분 2.1% 매각 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732306)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301255.SZ/total>
+#### [[속보] PICC, 최대 150억 위안 규모의 사모 증자 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732305)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601319.SS/total>
+#### [타스 통신에 따르면, 러시아는 러시아·미국·중국 3국 정상 간 3자 회담 가능성을 배제하지 않았다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732304)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732303)
+#### [홍수로 폐허가 된 중국-네팔 국경, 한때 번성했던 항구의 흔적은 찾아볼 수 없다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732302)
 #### [소식통에 따르면 OPEC+는 일요일 원유 생산 정책을 현행대로 유지할 것으로 보인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732301)
 #### [네팔 국경, 한때 분주했던 항구의 흔적은 찾아볼 수 없다 ? 로이터 취재진 목격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732300)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732299)
@@ -21,6 +72,10 @@
 #### [초서 CEO, “재보험 요율이 예상보다 빠르게 하락했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732285)
 #### [스위스 리, 인프라 투자 붐으로 2,000억 달러 규모의 상업 보험 시장 기회 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732284)
 #### [주목할 요인 - 9월 6일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732283)
+<head><meta charset="utf-8"><title>Vers : 20260906_1213 </title></head>
+<center>Vers : 20260906_1213 </center>
+<center>Vers : 20260906_2113 </center>
+<br><br><br>
 #### [로이드의 터크, 재산 보험료율이 “경각심을 불러일으킬 만한” 속도로 하락하고 있다고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732282)
 #### [로이드, 행동 문제 우려로 약 2개월마다 보험 취급사 한 곳을 제명하고 있다: 터크](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732281)
 #### [이스라엘 군, 헤즈볼라가 드론을 발사한 후 레바논 남부를 공습했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732280)
@@ -63,10 +118,6 @@
 #### [안토넬리, 몬차 예선에서 좋은 팀 동료로서 행동했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732244)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732243)
 #### [미국 북서부 강 유량, 83%로 변함없이 유지 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732242)
-<head><meta charset="utf-8"><title>Vers : 20260906_0823 </title></head>
-<center>Vers : 20260906_0823 </center>
-<center>Vers : 20260906_1723 </center>
-<br><br><br>
 #### [그리스 총리, 선거를 앞두고 소득 증대 방안 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732241)
 #### [푸틴, 위트코프·쿠슈너와 회담 시작하며 미·러 간 접촉이 유익하다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732240)
 #### [가스리가 트랙 안팎에서 러셀을 견제하기 위해 공세를 펼쳤다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732239)
@@ -86,6 +137,10 @@
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732225)
 #### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732224)
 #### [브레너, 부엘타 14단계에서 우승… 마스, 레드 저지 지켜내](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732223)
+<head><meta charset="utf-8"><title>Vers : 20260906_1213 </title></head>
+<center>Vers : 20260906_1213 </center>
+<center>Vers : 20260906_2113 </center>
+<br><br><br>
 #### [스파이어 헬스케어, 토스카펀드 등으로부터 10억 3천만 파운드 규모의 인수에 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732222)
 #### [연방 항소법원, 트럼프 측의 유권자 신원 확인을 위해 시민권자 명부를 활용하려는 시도에 대한 금지 조치를 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732221)
 #### [아테네 인근 에어쇼 도중 그리스 F-4 전투기 추락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732220)
@@ -127,3 +182,23 @@
 #### [영국 도버 항구에서 가면을 쓴 남성들이 시위를 벌이며, 영국과 프랑스 간 해협 횡단 교통에 차질을 빚게 했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732184)
 #### [인도의 TCS, AI 데이터센터 단지에 최대 74억 달러 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732183)
 #### [브리아토레가 심판에게 비판을 가한 가운데, FIA 항소법원이 공정성과 청렴성을 강조하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732182)
+#### [인도 이베리아 제약, 기업공개(IPO) 신청 - 투자설명서 초안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732181)
+#### [요르단강 서안 지구에서 정착민들의 폭력 사태가 증가하는 가운데 미국 대사가 팔레스타인 마을을 방문했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732180)
+#### [[속보] TCS의 ‘하이퍼볼트(Hypervault)’, 인도 텔랑가나주에 대규모 AI 데이터센터 캠퍼스 조성 예정 - 성명서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732179)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732178)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732177)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732176)
+#### [미국 주이스라엘 대사는 팔레스타인인들을 가자지구에서 강제로 내쫓을 계획은 없다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732175)
+#### [미국인들, 노동절 연휴 기간 사상 최고치 기록한 휘발유 가격에 시달려](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732174)
+#### [국경에서 마주한 말 밀수꾼과 나사벌레](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732173)
+#### [제네바에서 열린 자율무기 회담에서 각국이 합의에 도달했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732172)
+#### [국경에서 마주한 말 밀수범과 나방유충](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732171)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732170)
+#### [이번 주 브레이킹뷰스: 이사회를 위한 새로운 기준](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732169)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [미국이 자금 세탁 혐의로 수사했던 베네수엘라의 억만장자가 이제 미 국방부와 석유 계약을 체결했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732168)
+#### [말 밀수 사건이 미국 스크류웜 방어 체계의 허점을 드러내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732167)
+#### [[업데이트 1] 소식통에 따르면, 푸틴 대통령의 특사 드미트리예프가 위트코프와 쿠슈너가 모스크바에 도착하는 대로 이들을 만날 예정이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732166)
+#### [러시아가 장악한 루한스크 주에서 5명 사망… 러시아가 임명한 주지사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732165)
+#### [터키, 교량 및 고속도로를 30년간 민영화할 예정… 터키 관보](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732164)
+#### [소식통에 따르면, 푸틴 대통령의 특사 드미트리예프가 위트코프와 쿠슈너가 모스크바에 도착하면 그들과 만날 예정이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732163)
