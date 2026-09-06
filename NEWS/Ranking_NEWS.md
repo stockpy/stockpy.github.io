@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260906_1803 </title></head>
-<center>Vers : 20260906_1803 </center>
-<center>Vers : 20260907_0303 </center>
+<head><meta charset="utf-8"><title>Vers : 20260906_2020 </title></head>
+<center>Vers : 20260906_2020 </center>
+<center>Vers : 20260907_0520 </center>
 <br><br><br>
 #### [“월요일에 삼전닉스의 시간 옵니까”…GPT-6에 불붙은 美반도체](https://m.stock.naver.com/news/ranknews/view/009/0005731141)
 #### [“하닉 믿고 샀는데” ‘218만원→94만원’ 주가 반토막…‘이 주식’ 목표가마저 ‘뚝’](https://m.stock.naver.com/news/ranknews/view/011/0004659071)

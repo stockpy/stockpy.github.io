@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20260906_1803 </title></head>
-<center>Vers : 20260906_1803 </center>
-<center>Vers : 20260907_0303 </center>
+<head><meta charset="utf-8"><title>Vers : 20260906_2020 </title></head>
+<center>Vers : 20260906_2020 </center>
+<center>Vers : 20260907_0520 </center>
 <br><br><br>
+#### [BUZZ-COMMENT-이번 주 전망-미국 물가, 유럽중앙은행(ECB) 금리 결정, 미국-이란](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732415)
+#### [씨티, 호주의 ‘스토리지 킹’에 대한 투자의견을 ‘매수’로 상향 조정했으나 목표 주가는 하향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732414)
+#### [미국, 우크라이나 전쟁 종식을 위한 노력 재개…쿠슈너 “보장할 수 없다”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732413)
+#### [아마존 프라임 에어 소속 보잉 767기가 마이애미 공항에서 활주로를 벗어나](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732412)
+#### [9월 6일 일요일 오후 3시 18분(미국 동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732411)
+#### [BUZZ-IMM: 유로와 캐나다 달러 매수, 엔화 매도로 인해 달러 순 투기적 매수 포지션이 소폭 감소했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732410)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732409)
+#### [러셀, “키미가 챔피언십 경쟁을 주도하고 있으며, 그럴 자격이 충분하다”고 말하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732408)
+#### [이란 정부, 다량 사용자에 대한 연료 가격 인상 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732407)
+#### [천연가스 파이프라인 긴급 공지: 2026년 9월 7일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732406)
+#### [이란, 페르시아만에 새로운 제한 구역 지정할 예정이라고 고위 안보 당국자가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732405)
+#### [해밀턴, 르클레르와의 충돌 이후 페라리 측에 서면으로 된 교전 규칙 마련을 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732404)
+#### [쿠슈너, 우크라이나 평화에 대해 “보장할 수 없다”고 밝혔으나 계속 노력하겠다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732403)
+#### [트랜살타 온타리오의 200 MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732402)
+#### [트랜스캐나다 온타리오의 197MW 포트랜즈 1호 가스 화력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732401)
+#### [트랜스캐나다 온타리오의 245MW 포트랜즈 3호 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732400)
+#### [마치 물 위를 걷는 듯: 울프, 안토넬리의 몬차 기적을 극찬하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732399)
 #### [AfD의 크루팔라, 유권자들이 독일 주류 정당들의 ‘방화벽’을 거부했다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732398)
 #### [[속보 1] 의료진에 따르면 이스라엘의 공습으로 가자지구에서 한 남성과 그의 딸이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732397)
 #### [트랜스캐나다 온타리오의 197 MW 포트랜즈 1호 가스 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732396)
@@ -45,21 +62,3 @@
 #### [[종합 2] 이란, 경제 문제 해결에 나설 것…추가 공격은 “더 큰 고통을 안길 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732358)
 #### [ANI 보도에 따르면, 인도 델리에서 다층 건물이 붕괴되어 6명이 구조됐다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732357)
 #### [르클레르의 충돌로 인한 리타이어로 이탈리아 그랑프리 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732356)
-#### [라이트는 미국의 휘발유 가격이 오를 가능성보다 내릴 가능성이 더 높다고 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732355)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732354)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732353)
-#### [가족이 장례 의식을 시작한 지 며칠 뒤 네팔 여성 한 명이 살아있는 채로 발견되었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732352)
-#### [폴란드, 영공 침범 의심 사례는 새 떼가 원인이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732351)
-#### [월가 주간 전망-투자자들, 금리 전망에 대한 단서를 찾기 위해 물가 상승률 데이터를 면밀히 분석할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732350)
-#### [이탈리아, 올해 GDP 성장률 약 1% 기록…예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732349)
-#### [분석-미국의 경제적 압박이 가중되면서 이란의 호르무즈 해협 영향력이 약화되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732348)
-#### [젤렌스키, 푸틴과의 회담 후 키예프를 방문한 미국 평화 특사단을 환영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732347)
-#### [보도 기관에 따르면, 카보베르데 포고 섬에서 발생한 버스 사고로 최소 25명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732346)
-#### [이탈리아, 올해 GDP 성장률 최대 1% 기록…예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732345)
-#### [폴란드, 벨라루스에서 날아온 물체의 영공 침범 의혹 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732344)
-#### [OPEC+, 10월 원유 생산 정책 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732343)
-#### [[속보] 안톤 오일필드, 이라크 원유 판매 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732342)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3337.HK/total>
-#### [독일, 공항 드론 공격 이후 방해 행위 방지 대책 마련 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732341)
-#### [[종합 1] 이란, 경제 문제 해결에 나설 것…추가 공격은 “더 큰 고통을 안길 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732340)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732339)
