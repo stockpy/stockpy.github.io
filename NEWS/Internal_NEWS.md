@@ -1,7 +1,36 @@
-<head><meta charset="utf-8"><title>Vers : 20260906_2210 </title></head>
-<center>Vers : 20260906_2210 </center>
-<center>Vers : 20260907_0710 </center>
+<head><meta charset="utf-8"><title>Vers : 20260906_2354 </title></head>
+<center>Vers : 20260906_2354 </center>
+<center>Vers : 20260907_0854 </center>
 <br><br><br>
+#### [[속보] 오스탈, 언론 보도에 대한 입장 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732447)
+#### [오하이오 주지사 후보 에이미 액턴, 박람회에서 습격당해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732446)
+#### [시마무라 주식회사 - 사업 인수 관련 공고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732445)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8227.T/total>
+#### [호주의 잉제니아 커뮤니티즈, 워버그 핀커스의 14억 달러 인수 제안을 거절](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732444)
+#### [NZD/USD는 안정세, 이란 전쟁과 연준의 개입에 이목 집중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732443)
+#### [아시아 시장 전망-연준의 매파적 기조 전망과 신중한 위험 선호 심리가 주도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732442)
+#### [미국과 이란의 선박 공격 이후 호르무즈 해협 선박 통행량이 5월 이후 최저 수준으로 떨어졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732441)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732440)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732439)
+#### [- China Moly <603993.SS>의 마진 매수 잔고는 20,035 (x10000) 위안이며, 공매도 물량은 7 (x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732438)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603993.SS/total>
+#### [- 피닉스 미디어 <601928.SS>의 마진 매수 잔고는 560(x10000) 위안, 공매도 물량은 2(x10000)주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732437)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601928.SS/total>
+#### [- CITIC HIC <601608.SS>의 마진 매수 잔고는 884 (x10000) 위안, 공매도 물량은 0.00 (x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732436)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601608.SS/total>
+#### [- 상하이 일렉트릭 <601727.SS>의 신용매수 잔고는 2,797 (x10000) 위안이며, 공매도 물량은 0.00 (x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732435)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601727.SS/total>
+#### [- Ggzhou Auto Grp <601238.SS>의 마진 매수 잔고는 998 (x10000) 위안이며, 공매도 물량은 5 (x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732434)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601238.SS/total>
+#### [영국 채용 담당자들, 2022년 이후 처음으로 정규직 채용 증가세 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732433)
+#### [영국 재무장관 힐리, 권한 이양을 통한 성장 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732432)
+#### ['선데이 타임스' 보도에 따르면, 영국의 감마(Gamma)가 네덜란드 사모펀드 회사로부터 더 높은 인수 제안을 받게 될 전망이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732431)
+#### [러시아가 장악한 세바스토폴에서 1명 사망, 3명 부상… 주지사 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732430)
+#### [미국, ‘가장 힘든’ 월드컵에서 이탈리아를 상대로 아슬아슬한 승리를 거두다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732429)
+#### [호주의 잉제니아 커뮤니티즈(Ingenia Communities), 워버그 핀커스(Warburg Pincus)의 14억 달러 인수 제안을 거절했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732428)
+#### [스웨덴 포스마크 2호기 원자로, 예기치 않은 가동 중단 발생 - 전력 거래소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732427)
+#### [마이애미 공항에서 활주로를 벗어나 멈춰 선 아마존 제트기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732426)
+#### [AUD/USD, 시장이 이란 사태의 격화를 염두에 두면서 소폭 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732425)
 #### [독일 주 선거에서 극우 정당 AfD가 역사적인 승리를 거두었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732424)
 #### [네덜란드 사모펀드 회사 워터랜드(Waterland), 감마(Gamma) 인수 경쟁에 뛰어들 계획 - 선데이 타임스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732423)
 #### [[업데이트 3] 의료진에 따르면, 이스라엘의 공습으로 가자에서 한 남성과 그의 딸이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732422)
@@ -39,26 +68,3 @@
 #### [AfD의 바이델, 작센안할트주 선거 승리 후 “이성적인” 파트너라면 누구와도 대화할 준비가 되어 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732390)
 #### [독일 SPD 공동대표, 작센안할트 주 선거 결과가 베를린에 보내는 신호라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732389)
 #### [미국 북서부 하천 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732388)
-#### [트럼프 행정부, 우편 투표 제한을 위한 대법원 제소 재개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732387)
-#### [사이클 - 부엘타 스테이지 거리 단축 후 반 아에르트 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732386)
-#### [AfD의 지그문트, 작센안할트주에서 파트너들과 협력할 용의 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732385)
-#### [베니스 영화제에서 유일한 여성 솔로 출연자는 영화계가 여전히 불평등하다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732384)
-#### [트랜살타 온타리오의 200MW 멜랭크톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732383)
-#### [위트코프 미국 특사는 모스크바와 키예프에서 열린 평화 회담에 대해 “긍정적으로 보고 있다”고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732382)
-#### [독일의 AfD, 작센안할트 주 선거 결과로 명확한 지지 기반을 확보했다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732381)
-#### [우크라이나의 젤렌스키 대통령은 미국 특사들과의 회담이 “매우 실속 있었다”고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732380)
-#### [출구조사 결과, 극우 정당 AfD가 독일 주 선거에서 역사적인 승리를 거둔 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732379)
-#### [우크라이나 전쟁 평화 노력 속에서 미국 특사단, 키예프 첫 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732378)
-#### [부엘타 스테이지 거리 단축 후, 사이클링-반 아에르트가 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732377)
-#### [거대 중국 대표팀, 월드컵 행보 다시 궤도에 올려놓다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732376)
-#### [모터레이싱-안토넬리, 그리드 맨 뒤에서 출발해 이탈리아 그랑프리에서 극적인 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732375)
-#### [사란돈은 여전히 팔레스타인 지지 입장으로 인해 영화 배역을 놓치고 있다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732374)
-#### [유럽이 위성 발사 경쟁에 뛰어들면서 독일 로켓이 우주에 도달했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732373)
-#### [유럽이 위성 발사 경쟁에 뛰어들면서 독일 로켓이 우주에 도달했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732372)
-#### [영국해협 횡단 실패로 프랑스 해변에 수십 명이 남겨지다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732371)
-#### [[업데이트 1] 우크라이나 전쟁 평화 추진 속에서 미국 특사단, 키예프 첫 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732370)
-#### [안토넬리, 그리드 맨 뒤에서 출발해 이탈리아 그랑프리에서 놀라운 우승을 차지하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732369)
-#### [브라질 법원, 시그마 리튬 광산의 허가 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732368)
-#### [의료진에 따르면 이스라엘의 공습으로 가자에서 2명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732367)
-#### [소식통에 따르면 이스라엘의 네타냐후 총리가 요르단강 서안 지구 내 정착촌 전초기지 철거를 지시했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732366)
-#### [NHC 폭풍 주의보: 마리 태풍이 앞으로 며칠 동안 더 바하 캘리포니아와 남부 캘리포니아 해안 지역에서 위험한 해변 상황을 지속시킬 전망입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2732365)
