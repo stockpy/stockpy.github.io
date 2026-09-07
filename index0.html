@@ -3,7 +3,11 @@ layout: default
 ---
 {% for cat in site.categories %}
 {% assign cat_key = cat[0] %}
-<div style="text-align: right;"><a href=https://choiyoungmin.com/NEWS/Today_Invest>InV</a></div>
+<div style="text-align: right;">
+  <p style="font-size: 0.875rem;">
+    <a href=https://choiyoungmin.com/NEWS/Today_Invest>InV</a>
+  </p>
+</div>
 {% assign cat_label = site.data.category_labels[cat_key] %}
 <h2 class="section-title">{{ cat_label | default: cat_key }}</h2>
 <ul class="post-list">
