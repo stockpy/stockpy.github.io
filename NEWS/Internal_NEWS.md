@@ -1,7 +1,36 @@
-<head><meta charset="utf-8"><title>Vers : 20260907_1936 </title></head>
-<center>Vers : 20260907_1936 </center>
-<center>Vers : 20260908_0436 </center>
+<head><meta charset="utf-8"><title>Vers : 20260907_2232 </title></head>
+<center>Vers : 20260907_2232 </center>
+<center>Vers : 20260908_0732 </center>
 <br><br><br>
+#### [수사당국, 마이애미 화물기 추락 사고 현장에서 블랙박스 회수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733398)
+#### [미 남부사령부는 자국 군이 동태평양에서 부유식 급유 시설을 차단했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733397)
+#### [동남아시아, 중국 청정기술 수출의 핵심 동력으로 부상: 매과이어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733396)
+#### [NZD/USD, 소폭 반등했으나 전반적으로 여전히 약세 압력 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733395)
+#### [에버뱅크, 39억 달러 규모의 역합병을 통해 WaFd와 합병 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733394)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WAFD.O/total>
+#### [AUD/USD, 상승 모멘텀이 강화되며 4개월 만에 최고치를 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733393)
+#### [삿포로 맥주, 관세 부과로 캐나다에서 미국으로 생산기지 이전 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733392)
+#### [퀘스트(Quaest) 여론조사 결과, 브라질 대선 결선 투표에서 루라와 플라비우 볼소나루가 동률을 기록했다고 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733391)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733390)
+#### [포스테 이탈리아네, 텔레콤 이탈리아 인수 제안가 인상…인수 조건 중 하나 면제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733389)
+#### [WSJ 보도에 따르면, 에버뱅크(EverBank)가 와프드(WaFd)와 합병해 750억 달러 규모의 은행을 설립할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733388)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/WAFD.O/total>
+#### [파리 당국, 에펠탑에서 힌두교 대표단에게 여성들이 숨겨졌다는 주장을 조사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733387)
+#### [NHC 폭풍 주의보: 향후 며칠 동안 바하 캘리포니아와 남부 캘리포니아 연안에서 해변 상황이 위험할 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733386)
+#### [아시아 모닝 콜 - 글로벌 시장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733385)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [트럼프, “캐나다의 봄바디어는 미국 내 공장을 짓지 않는 한 미국에 제품을 판매할 수 없다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733384)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/HONA.O/total>
+#### [온타리오주 브룩필드의 189MW 프린스 풍력발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733383)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733382)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소가 가동을 재개했습니다 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733381)
+#### [포스테 이탈리아네, 텔레콤 이탈리아 인수 제안가 인상…한도 조건 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733380)
+#### [연방준비제도(Fed)의 신호에 대비하는 가운데 라틴 아메리카 증시 소폭 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733379)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MERV>
+#### [공개매수 제안에서 티엠(Tim) 주식 1주당 총 현금 지급액이 1.97유로로 인상됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733378)
+#### [멕시코, 8월 물가 상승률 상승 전망…핵심 물가 상승 압력은 완화될 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733377)
+#### [천연가스 파이프라인 긴급 공지: 2026년 9월 8일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733376)
+#### [9월 7일 기준 앨버타주 카놀라 일일 가격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733375)
 #### [씨티, 파푸아뉴기니 지분 인수 소식에 호주 산토스 목표주가 상향 조정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733374)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/index/.AXJO>
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733373)
@@ -40,30 +69,3 @@
 #### [주 선거 이후 미래를 우려하는 독일 이민 단체](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733341)
 #### [보고서에 따르면 아이티 갱단들이 활동 무대를 시골로 옮기고 있다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733340)
 #### [문구류 및 라이터 제조사 BIC, 2030년까지 연간 유기적 매출 성장률 3% 달성 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733339)
-#### [EU 공급량 감소 조짐이 계속되면서 백설탕 가격 소폭 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733338)
-#### [NTSB, 마이애미에서 발생한 아마존 프라임 에어 화물기 추락 사고에 대한 최신 정보를 제공할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733337)
-#### [미국 방문 후 우크라이나 사태에 대한 희망이 거의 보이지 않자 유럽 밀 가격이 강세를 보였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733336)
-#### [쿠바 외무장관은 미국과의 협상이 진행 중이 아니라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733335)
-#### [[업데이트 2] 원유 가격 급등으로 ECB 금리 정책 방향에 대한 관심이 높아지면서 유럽 증시, 소폭 등락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733334)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FCHI>
-#### [찰스 국왕, 해리와 메건이 여전히 비공무 왕실 구성원으로 남는다고 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733333)
-#### [라트비아, 러시아와 벨라루스산 곡물에 300% 관세 부과 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733332)
-#### [트럼프, 뉴멕시코주의 이름을 ‘뉴 아메리카’로 바꾸자는 구상을 제시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733331)
-#### [포르투갈, 주택난 해소 위해 EIB로부터 15억 유로 대출 확보 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733330)
-#### [[속보] WDP, 젤릭 물류 클러스터 내 델하이즈 부지에 5,500만 유로 투자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733329)
-#### [멕시코 텔레비사, 벤치마크 지수 편출로 주가 급락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733328)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.MXX>
-#### [유가 상승과 금리 인상 기대감이 부담으로 작용하며 런던 증시, 하락 마감](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733327)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.FTSE>
-#### [58억 달러 규모 구조조정이 진행 중인 가운데 세르바 은행 부채 매각-블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733326)
-#### [[속보] mPay, Meest Transfer와 협력 협약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733325)
-#### [라트비아, 러시아와 벨라루스에서 수입되는 곡물에 300% 관세 부과 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733324)
-#### [프랑스의 윈팜, 농업 생산 회복과 농업 자재 판매 증가에 힘입어 상반기 매출 2.4% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733323)
-#### [[속보] 독일, 국영 기업 유니퍼 SE 및 세페와 천연가스 저장 지원 방안 논의 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733322)
-#### [문구 및 라이터 제조업체 BIC는 2030년까지 연간 유기적 매출 성장률 3%를 달성할 것으로 전망한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733321)
-#### [일본 영화감독 고레에다 히로카즈, 사랑받는 우정을 다룬 만화 원작을 베니스 영화제에 선보인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733320)
-#### [인도 주요 은행들, 국영 전력 금융기관 REC의 토큰화 채권 매입 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733319)
-#### [[속보] 에어버스, 이집트의 에어 카이로로부터 협폭기 수주 확보 전망 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733318)
-#### [[속보] 라이부 테라퓨틱스(Ryvu Therapeutics)의 ‘듀알리스(Dualis)’ 프로젝트, 2,220만 즐로티 보조금 지원 대상 선정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733317)
-#### [비크, 2030년까지 조정 EBIT 마진 15.5% 이상 달성 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733316)
-#### [미국 고용 지표 호조로 연준 금리 인상 기대감 고조되며 금값 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2733315)
