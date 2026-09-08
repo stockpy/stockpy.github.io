@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260908_1808 </title></head>
-<center>Vers : 20260908_1808 </center>
-<center>Vers : 20260909_0308 </center>
+<head><meta charset="utf-8"><title>Vers : 20260908_2107 </title></head>
+<center>Vers : 20260908_2107 </center>
+<center>Vers : 20260909_0607 </center>
 <br><br><br>
 #### [곽튜브, SK하닉 '몰빵' 하더니…초호화 비행서 "-14% 손실" 고백](https://m.stock.naver.com/news/ranknews/view/243/0000102795)
 #### [SK하이닉스 298만원에 물렸는데, 어떡해? ‘엔비디아도 같은 늪 건넜다’ [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002694534)
