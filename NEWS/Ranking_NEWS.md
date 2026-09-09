@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260909_1736 </title></head>
-<center>Vers : 20260909_1736 </center>
-<center>Vers : 20260910_0236 </center>
+<head><meta charset="utf-8"><title>Vers : 20260909_2031 </title></head>
+<center>Vers : 20260909_2031 </center>
+<center>Vers : 20260910_0531 </center>
 <br><br><br>
 #### [“개미들, 내일 장 막판 주목”…1조8000억 ‘수급 폭풍’ 몰려온다](https://m.stock.naver.com/news/ranknews/view/009/0005732677)
 #### ["축의금 뽑으려 했는데 없네"…은행 이어 편의점 ATM도 사라진다](https://m.stock.naver.com/news/ranknews/view/057/0001968201)
