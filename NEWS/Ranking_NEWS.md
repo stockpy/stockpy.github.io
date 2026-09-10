@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260910_1753 </title></head>
-<center>Vers : 20260910_1753 </center>
-<center>Vers : 20260911_0253 </center>
+<head><meta charset="utf-8"><title>Vers : 20260910_2028 </title></head>
+<center>Vers : 20260910_2028 </center>
+<center>Vers : 20260911_0528 </center>
 <br><br><br>
 #### ["30년 전 20%대 적금, 은행이 전화와도 안깼다"... 송은이, 누적 수익률은?](https://m.stock.naver.com/news/ranknews/view/014/0005573990)
 #### [[단독] “빚 천천히 갚을걸”…코로나 피해 소상공인 빚 1억 탕감](https://m.stock.naver.com/news/ranknews/view/009/0005733464)
