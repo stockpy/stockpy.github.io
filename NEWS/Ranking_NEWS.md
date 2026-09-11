@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260911_1754 </title></head>
-<center>Vers : 20260911_1754 </center>
-<center>Vers : 20260912_0254 </center>
+<head><meta charset="utf-8"><title>Vers : 20260911_2032 </title></head>
+<center>Vers : 20260911_2032 </center>
+<center>Vers : 20260912_0532 </center>
 <br><br><br>
 #### [‘10월이면 돈줄 마른다’ 자사주 매입에 버티는 코스피…벌써 ‘25조’나 썼다 [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002696195)
 #### ["엔진 하나로 1조 잭팟" 주가 뒤늦게 '꿈틀'…목표가 '80만원' 뚫었다](https://m.stock.naver.com/news/ranknews/view/215/0001265705)
