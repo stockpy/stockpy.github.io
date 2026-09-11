@@ -1,6 +1,6 @@
-sso-auth: "SSO / 인증"
-identity: "Identity / IdP"
+sso: "SSO / 인증"
 btp: "BTP / 플랫폼"
 monitoring: "모니터링 / 알림"
 sapgui: "SAP GUI"
 general: "기타"
+english: "English"
