@@ -15,8 +15,7 @@ kramdown:
   syntax_highlighter: rouge
 
 categories:
-  - sso-auth
-  - identity
+  - sso
   - btp
   - monitoring
   - sapgui
