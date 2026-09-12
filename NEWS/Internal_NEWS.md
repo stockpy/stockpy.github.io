@@ -1,7 +1,28 @@
-<head><meta charset="utf-8"><title>Vers : 20260912_1646 </title></head>
-<center>Vers : 20260912_1646 </center>
-<center>Vers : 20260913_0146 </center>
+<head><meta charset="utf-8"><title>Vers : 20260912_1849 </title></head>
+<center>Vers : 20260912_1849 </center>
+<center>Vers : 20260913_0349 </center>
 <br><br><br>
+#### [래리 엘리슨, 오라클 주식 매각 계획 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739575)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [존 말코비치, 마틸드 아르셀, 베니스 영화제 남우주연상·여우주연상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739574)
+#### [영국의 밀리밴드, 사우디 아라비아 측 상대와 사우디 아라비아에 대한 공격 문제를 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739573)
+#### [캐나다 소비자들이 미국 제품을 외면: “미국에 좀 화가 났어요”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739572)
+#### [캐나다 소비자들이 미국 제품을 외면하고 있다: “미국에 좀 화가 나요”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739571)
+#### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739570)
+#### [금요일 저녁 드론이 목격되면서 브뤼셀 공항의 항공 운항에 차질이 빚어졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739569)
+#### [천연가스 파이프라인 중요 공지: 콜로라도 인터스테이트 가스 컴퍼니 운영 계획 보고서 V4, 2026년 9월](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739568)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739567)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739566)
+#### [트랜살타 온타리오 200MW 멜란크톤(아마란스) 풍력 발전소 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739565)
+#### [마드링에서 추월? 버스트펜은 “절대 안 된다”고 말한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739564)
+#### [러시아의 공격으로 경제가 타격을 입으면서 우크라이나는 혹독한 겨울을 대비하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739563)
+#### [당국 발표에 따르면, 러시아군이 우크라이나 크라마토르스크에서 차량을 공격해 3명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739562)
+#### [Revolut, 가짜 정부 요청에 속아 민감한 고객 정보 유출 사실을 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739561)
+#### [천연가스 파이프라인 긴급 공지: 콜로라도 인터스테이트 가스 컴퍼니(Colorado Interstate Gas Company), FMJ 155A 라인(그리스우드) 공사 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739560)
+#### [오만 간 합의에는 호르무즈 해협의 즉각적인 재개방 조항이 포함되어 있지 않다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739559)
+#### [사이클 - 마스, 마지막 고비를 넘기며 부엘타 우승을 사실상 확정지었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739558)
+#### [맨체스터 시티의 돈나룸마를 상대로 한 강도 사건으로 한 남성이 9년형을 선고받았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739557)
+#### [러시아의 공격으로 우크라이나에서 6명 사망, 수십 명 부상… 모스크바, 선박 및 공장 타격했다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739556)
 #### [래리 엘리슨, 오라클 주식 매각 계획 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739555)
 #### [[속보] 오라클, 래리 엘리슨이 오라클 주식 매도를 위한 10b5-1 계획을 취소했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739554)
 #### [[업데이트 1] 캐나다의 미국산 제품 불매 운동으로 식료품점들이 대응책을 모색하고 새로운 공급처를 찾아 나서고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739553)
@@ -42,24 +63,3 @@
 #### [이란의 페제스키안, 인도에서 열린 브릭스(BRICS) 회의 기간 중 아부다비 왕세자와 회동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739518)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739517)
 #### [영국 총리실은 트럼프의 발언 이후 아일랜드 통일 문제에 대한 입장에 변함이 없다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739516)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739515)
-#### [IFX 보도에 따르면, 러시아는 이란 부셰르 원자력 발전소의 직원 수를 조만간 150명으로 늘릴 계획이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739514)
-#### [멕시코 산속에 숨겨진 암호화폐 채굴장이 카르텔의 자금 조달 방식에 대한 관심을 불러일으키고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739513)
-#### [중국 시진핑 주석, 브릭스(BRICS)에 중동 분쟁에서 평화 중재자 역할 수행 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739512)
-#### [브릭스(BRICS) 공동 선언 채택… 인도 모디 총리 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739511)
-#### [[종합 1] 브릭스(BRICS), 중동 긴장 속에서도 단결을 시험하는 가운데 공동 성명에 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739510)
-#### [크루거 에너지 온타리오의 101MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739508)
-#### [트럼프, 사우디 송유관 공격은 이란의 소행일 가능성이 높다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739507)
-#### [불가리아 내 또 다른 EMCO 무기 시설에서 폭발 발생…조사 진행 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739506)
-#### [트럼프는 아일랜드가 통일되는 모습을 보는 것을 “정말 기쁘게” 생각하겠다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739505)
-#### [베제키, 산마리노 서킷 랩 기록을 경신하며 마르케스를 제치고 폴 포지션을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739504)
-#### [캐나다 무역 협정 “조만간” 체결될 전망이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739503)
-#### [트럼프, 사우디 송유관 공격은 이란 소행일 가능성이 높다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739502)
-#### [캐나다의 미국산 제품 불매 운동으로 인해 식료품점들이 대응책을 모색하고 새로운 공급처를 찾아 나서고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739501)
-#### [이번 주 브레이킹뷰스: 월스트리트의 새로운 신들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739500)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [트럼프, “이란과의 전쟁은 미국 중간선거가 끝나면 종식될 것”이라고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739499)
-#### [중국이 제19차 브릭스(BRICS) 정상회의를 주최할 것이라고 중국중앙텔레비전(CCTV)이 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739498)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739497)
-#### [트럼프, 호르무즈 해협과 사우디의 우려는 “문제없이 잘 해결될 것”이라고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739496)
-#### [코스타리카의 119세 남성, 세계 최고령자로 인정받기 위해 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739495)
