@@ -1,7 +1,13 @@
-<head><meta charset="utf-8"><title>Vers : 20260912_2102 </title></head>
-<center>Vers : 20260912_2102 </center>
-<center>Vers : 20260913_0602 </center>
+<head><meta charset="utf-8"><title>Vers : 20260912_2346 </title></head>
+<center>Vers : 20260912_2346 </center>
+<center>Vers : 20260913_0846 </center>
 <br><br><br>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739598)
+#### [팝 슈퍼스타 리사, 토론토 국제 영화제(TIFF) 다큐멘터리 시사회에서 팬들의 열광을 불러일으켰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739597)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739596)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739595)
+#### [ATCO/TransAlta 앨버타 390 MW Sheerness 2 석탄 화력발전소 가동 개시 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739594)
+#### [앳코 파워 앨버타의 155 MW 배틀 리버 4 석탄 화력발전소 가동 개시 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739593)
 #### [코트니 콕스 주연의 스릴러 영화, 토론토 국제 영화제(TIFF)에서 피자 폭탄 테러 사건의 이면에 숨겨진 ‘비정상적인 사랑 이야기’를 다룬다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739592)
 #### [리벨 윌슨의 신작은 감독 데뷔작에서 ‘실패’를 겪은 뒤 ‘걸 파워’를 찬양한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739591)
 #### [알트먼, “AI 안전성 우려로 인해 2026년에는 OpenAI의 기업공개(IPO)가 이루어지지 않을 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739590)
@@ -58,9 +64,3 @@
 #### [피아스트리, 2027년 챔피언십 도전을 위한 발판을 마련하기 위해 여전히 레이스 우승을 노리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739541)
 #### [제너럴 모터스, 미국 내 차세대 배터리 개발 계획 - CNBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739540)
 #### [오토바이 경주 - 무자비한 마르케스가 베제키를 제치고 산마리노 스프린트에서 우승, 마틴의 리드를 좁혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739539)
-#### [후티의 공격 이후, 미국이 개입할 것인가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739538)
-#### [이란 당국자, “월요일 오만 회의에서 호르무즈 협정 서명은 아직 없을 것으로 보인다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739537)
-#### [마르케스가 베제키를 제치고 산마리노 스프린트에서 우승, 마틴과의 격차를 좁혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739536)
-#### [헝가리의 마자르 총리, 오르반 정권 시절 도입된 동성 커플의 입양 제한을 철폐하겠다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739535)
-#### [분석-예멘에서 후티의 진격으로 미국이 새로운 곤경에 처했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739534)
-#### [이라크, 드론 발사 기지에 대한 공동 조사 요청을 이란 측에 수락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739533)
