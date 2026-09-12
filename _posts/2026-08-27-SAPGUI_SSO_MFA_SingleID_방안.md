@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SAPGUI SSO + MFA 방안 (SingleID 환경)
-categories: sso-auth
+categories: sso
 ---
 
 # SAPGUI SSO + MFA 방안 (SingleID 환경)
