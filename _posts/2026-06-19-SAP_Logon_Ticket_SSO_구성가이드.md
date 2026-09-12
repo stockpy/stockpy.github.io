@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SAP Logon Ticket 기반 SAPGUI SSO 구성 가이드
-categories: sso-auth
+categories: sso
 ---
 
 # SAP Logon Ticket 기반 SAPGUI SSO 구성 가이드
