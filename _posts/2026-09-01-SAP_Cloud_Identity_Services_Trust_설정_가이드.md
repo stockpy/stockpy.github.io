@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SAP Cloud Identity Services - Corporate IdP 신뢰 설정 가이드
-categories: identity
+categories: sso
 ---
 
 # SAP Cloud Identity Services - Corporate IdP 신뢰 설정 가이드
