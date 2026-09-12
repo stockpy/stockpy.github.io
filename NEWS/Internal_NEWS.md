@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260912_1849 </title></head>
-<center>Vers : 20260912_1849 </center>
-<center>Vers : 20260913_0349 </center>
+<head><meta charset="utf-8"><title>Vers : 20260912_2102 </title></head>
+<center>Vers : 20260912_2102 </center>
+<center>Vers : 20260913_0602 </center>
 <br><br><br>
+#### [코트니 콕스 주연의 스릴러 영화, 토론토 국제 영화제(TIFF)에서 피자 폭탄 테러 사건의 이면에 숨겨진 ‘비정상적인 사랑 이야기’를 다룬다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739592)
+#### [리벨 윌슨의 신작은 감독 데뷔작에서 ‘실패’를 겪은 뒤 ‘걸 파워’를 찬양한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739591)
+#### [알트먼, “AI 안전성 우려로 인해 2026년에는 OpenAI의 기업공개(IPO)가 이루어지지 않을 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739590)
+#### [오스본, 영국 클래식 대회에서 우승한 최초의 여성 기수로 역사에 이름을 올렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739589)
+#### [미국, 스페인을 꺾고 여자 월드컵 결승 진출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739588)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739587)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739586)
+#### [테슬라, 오랫동안 출시가 미뤄졌던 로드스터의 10월 1일 출시를 시사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739585)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [France’와의 언론 인터뷰 내용 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739584)
+#### [우크라이나 고위 관계자, 키예프가 10월 회담 재개를 준비 중이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739583)
+#### [모터 레이싱-마드링에서 추월? 버스트펜, “절대 불가능하다”고 일축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739582)
+#### [미국 판사, 트럼프 행정부의 FEMA 인력 절반 감축 계획이 법을 위반했다고 판결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739581)
+#### [오픈AI, 2026년 상장하지 않을 전망… CEO “AI 안전성 우려로 인해 지금은 ‘상장하기에 부적절한 시기’”라고 밝혀 - 포춘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739580)
+#### [유일한 여성 경쟁작이 우승하며, 『Woman Unknown』이 베니스 영화제 최고상을 수상했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739579)
+#### [천연가스 파이프라인 긴급 공지: 2026년 9월 13일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739578)
+#### [2026 베니스 영화제 수상자 명단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739577)
+#### ['Woman Unknown'이 베니스 영화제에서 최우수 작품상을 수상했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739576)
 #### [래리 엘리슨, 오라클 주식 매각 계획 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739575)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
 #### [존 말코비치, 마틸드 아르셀, 베니스 영화제 남우주연상·여우주연상 수상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739574)
@@ -46,20 +64,3 @@
 #### [헝가리의 마자르 총리, 오르반 정권 시절 도입된 동성 커플의 입양 제한을 철폐하겠다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739535)
 #### [분석-예멘에서 후티의 진격으로 미국이 새로운 곤경에 처했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739534)
 #### [이라크, 드론 발사 기지에 대한 공동 조사 요청을 이란 측에 수락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739533)
-#### [바레인은 외교 관계가 정상화될 때까지 호르무즈 해협 문제를 논의하기 위한 이란과의 회담을 배제했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739532)
-#### [IFX, 크렘린 측 발언 인용해 러시아가 바브 엘 만데브 해협의 ‘통제 불능’ 상황에 우려 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739531)
-#### [시진핑, 중국과 인도에 BRICS 협력 강화를 위해 손을 잡을 것을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739530)
-#### [크렘린, 푸틴 대통령의 G20 참석 여부에 대해 아직 결정되지 않았다고 밝히며, 젤렌스키 대통령의 회담 제안을 일축했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739529)
-#### [모터 레이싱-스페인 그랑프리 최종 연습 주행에서 해밀턴과 베어맨 충돌, 안토넬리가 1위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739528)
-#### [“제발 도와주세요”: 여동생을 잃게 한 러시아 공습을 회상하는 생존자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739527)
-#### [파라지의 ‘리폼 UK’, 암호화폐 투자자로부터 두 번째로 3,600만 파운드 기부금 수령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739526)
-#### [브릭스(BRICS), 공동 성명 채택…중동 사태에 “극도의 자제” 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739525)
-#### [텔레그래프 보도에 따르면, ‘리폼 UK’가 48시간 만에 두 번째로 3,600만 파운드의 기부금을 받았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739524)
-#### [인도의 HDFC 은행, 차기 CEO 후보 2명을 인도 중앙은행(RBI)에 추천](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739523)
-#### [젤렌스키 대통령, “러시아의 공격으로 우크라이나에서 3명 사망, 수십 명 부상”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739522)
-#### [블룸버그 뉴스에 따르면, HDFC 은행이 인도 중앙은행에 CEO 후보자 2명의 명단을 제출했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739521)
-#### [해밀턴, 스페인 그랑프리 최종 연습 주행 중 사고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739520)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739519)
-#### [이란의 페제스키안, 인도에서 열린 브릭스(BRICS) 회의 기간 중 아부다비 왕세자와 회동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739518)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739517)
-#### [영국 총리실은 트럼프의 발언 이후 아일랜드 통일 문제에 대한 입장에 변함이 없다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739516)

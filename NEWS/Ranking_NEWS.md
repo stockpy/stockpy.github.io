@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260912_1849 </title></head>
-<center>Vers : 20260912_1849 </center>
-<center>Vers : 20260913_0349 </center>
+<head><meta charset="utf-8"><title>Vers : 20260912_2102 </title></head>
+<center>Vers : 20260912_2102 </center>
+<center>Vers : 20260913_0602 </center>
 <br><br><br>
 #### ["오늘부터 통신비 25% 추가 할인?"…온라인서 퍼진 '메시지' 확인해보니](https://m.stock.naver.com/news/ranknews/view/215/0001265758)
 #### ["한국 오면 꼭 사야해" 올영도 다이소도 아닌 이곳 꼭 간다…외국인이 바꾼 '돈 버는 공식'[주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005815377)
