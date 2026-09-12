@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
 title: SAP Cloud Identity Services — Corporate Identity Provider 가이드
-categories: identity
+categories: sso
 ---
 
 # SAP Cloud Identity Services — Corporate Identity Provider 가이드
