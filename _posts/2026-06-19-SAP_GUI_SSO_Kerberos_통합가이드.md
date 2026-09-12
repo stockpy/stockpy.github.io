@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SAP GUI SSO (Kerberos 인증) — 통합 가이드
-categories: sso-auth
+categories: sso
 ---
 
 # SAP GUI SSO (Kerberos 인증) — 통합 가이드
