@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260913_1723 </title></head>
-<center>Vers : 20260913_1723 </center>
-<center>Vers : 20260914_0223 </center>
+<head><meta charset="utf-8"><title>Vers : 20260913_2023 </title></head>
+<center>Vers : 20260913_2023 </center>
+<center>Vers : 20260914_0523 </center>
 <br><br><br>
 #### [“월급 끊겨도 매달 400만원 들어옵니다”...은퇴 앞둔 직장인이 알아야 할 자산](https://m.stock.naver.com/news/ranknews/view/009/0005734488)
 #### [“인생역전 꿈꿨는데 망했다”…‘빚투’ 개미들 어쩌나, 주식 팔고도 못 갚은 돈 1년 새 ‘5배’](https://m.stock.naver.com/news/ranknews/view/011/0004661344)
