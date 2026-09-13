@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20260913_2023 </title></head>
-<center>Vers : 20260913_2023 </center>
-<center>Vers : 20260914_0523 </center>
+<head><meta charset="utf-8"><title>Vers : 20260913_2232 </title></head>
+<center>Vers : 20260913_2232 </center>
+<center>Vers : 20260914_0732 </center>
 <br><br><br>
+#### [중국의 리젠트 테크놀로지스, 홍콩 기업공개(IPO)를 통해 최대 7억 2,300만 달러 조달 목표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739753)
+#### [[속보] 리젠트 테크놀로지스, 1억 7,200만 주 글로벌 공모 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739752)
+#### [야당 대표 안데르손은 중도좌파 진영의 선두가 유지된다면 스웨덴에 새 정부가 출범할 것이라고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739751)
+#### [일론 머스크, 스페이스X가 내년에 우주에서 엔비디아 VR NLV72 AI 컴퓨터를 발사할 것이라고 확신한다고 밝혀 - X 게시물](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739750)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [AUD/USD, 중동 정세 악화 및 연준 금리 인상 전망에 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739749)
+#### [[업데이트 2] 연준 회의 앞두고 트럼프, “미국은 세계에서 가장 낮은 금리를 유지해야 한다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739748)
+#### [버넘 영국 총리, 경제 성장 논의 위해 기업 지도자들과 회동 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739747)
+#### [스웨덴 선거관리위원회, 중도좌파 야권 연합이 의석 1석 차로 승리할 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739746)
+#### [OPG 온타리오 123MW Beck 2 PGS 수력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739745)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739744)
+#### [[속보] 재즈 에비에이션, 회사와 캐나다 승무원 노조가 모든 단체교섭 분쟁을 해결하는 잠정 단체협약을 체결했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739743)
+#### [W/E 뉴스-이란 전쟁, 2026년 오픈AI 기업공개(IPO) 무산, 손쉽게 5,000달러 지급](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739742)
+#### [BUZZ-IMM: 엔화 순 투기 포지션이 매수로 전환, 유로화 매도 포지션 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739741)
+#### [트럼프, 9·11 관련 기록 추가 공개 요청을 검토하겠다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739740)
+#### [[속보] SES, 자사의 마지막 3기의 O3b MPower 위성 발사 성공 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739739)
 #### [BUZZ-재전송-EUR/USD, 연준의 상승세와 강세를 보이는 파운드, 꺾이지 않는 엔화 매수세에 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739738)
 #### [미국 대표팀, 14점 차 열세를 뒤집고 프랑스를 97-79로 꺾고 여자 월드컵 우승을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739737)
 #### [BUZZ-COMMENT-이번 주 전망-연준, 영란은행, 일본은행 회의, 바쁜 일정, 이란 전쟁](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739736)
@@ -47,18 +63,3 @@
 #### [천연가스 파이프라인 긴급 공지: Southern Natural Gas의 최신 파이프라인 현황 (2026년 9월 13일)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739696)
 #### [연준 회의 앞두고 트럼프, “미국은 세계 최저 금리를 유지해야 한다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739695)
 #### [모터레이싱-안토넬리, 느린 피트스톱으로 노리스의 우승을 저지하며 마드링 소속 첫 F1 우승자 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739694)
-#### [트럼프, “베네수엘라 사례처럼 미국이 이란에 주둔하며 원유를 확보할 수도 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739693)
-#### [천연가스 파이프라인 긴급 공지: 펠 시티 동쪽 N Main Ln 구간의 Southern Natural Gas FMJ 조치 해제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739692)
-#### [안토넬리가 선두 격차를 벌이며, 마드링이 F1 첫 우승을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739691)
-#### [프랑스, 미국의 회의 퇴장을 촉발한 인권 비판에 대해 사과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739690)
-#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas, Gwinville 400 구간 공사 관련 예정에 없던 가동 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739689)
-#### [연준의 결정에 대한 질문에 트럼프, “미국은 세계에서 가장 낮은 금리를 적용해야 한다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739688)
-#### [트럼프, 우크라이나 젤렌스키 대통령에게 러시아산 디젤유 공격 중단 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739687)
-#### [노르웨이의 가스코, 예기치 않은 가스 공급 중단 기간 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739686)
-#### [트럼프, “매우 부정적인 세력”이 AI에 대해 과장된 우려를 부추기고 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739685)
-#### [코소보 의회, 알빈 쿠르티를 총리로 재선출…정치적 위기 지속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739684)
-#### [프랑스, 미국의 회의장 퇴장을 촉발한 인권 비판에 대해 사과했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739683)
-#### [Revolut, 가짜 정부 요청으로 인한 민감한 고객 정보 유출 사실 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739682)
-#### [네팔 터널 사고 생존자, 고향 마을로 돌아와 위안을 얻다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739681)
-#### [트럼프, 아일랜드 통일에 대한 지지를 재차 밝히며 스코틀랜드 문제에 대해서는 “아직” 언급하지 않겠다고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739680)
-#### [연준의 결정에 대한 질문에 트럼프, “미국은 세계에서 가장 낮은 금리를 유지해야 한다”고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739679)
