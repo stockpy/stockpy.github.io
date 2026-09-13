@@ -1,7 +1,89 @@
-<head><meta charset="utf-8"><title>Vers : 20260913_0328 </title></head>
-<center>Vers : 20260913_0328 </center>
-<center>Vers : 20260913_1228 </center>
+<head><meta charset="utf-8"><title>Vers : 20260913_1405 </title></head>
+<center>Vers : 20260913_1405 </center>
+<center>Vers : 20260913_2305 </center>
 <br><br><br>
+#### [트럼프, 아일랜드 통일에 대한 지지를 재차 밝히며 스코틀랜드 문제에 대해서는 “아직” 언급하지 않겠다고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739680)
+#### [연준의 결정에 대한 질문에 트럼프, “미국은 세계에서 가장 낮은 금리를 유지해야 한다”고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739679)
+#### [코소보 의회, 알빈 쿠르티를 총리로 재선출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739678)
+#### [터키, LGBTQ+ 단체를 겨냥한 대대적인 단속 작전 후 수십 명을 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739677)
+#### [트럼프, “매우 부정적인 세력”이 AI에 대해 과장된 우려를 부추기고 있다고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739676)
+#### [오토바이 경주 - 베제키의 추락 사고로 마르케스가 산마리노 대회에서 우승하며 챔피언십 선두로 올라섰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739675)
+#### [트럼프, 우크라이나 젤렌스키 대통령에게 러시아산 디젤유 공격 중단을 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739674)
+#### [트럼프, 미국 중간선거 이후 이란 전쟁이 끝날 것으로 본다는 입장을 재차 강조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739673)
+#### [노르웨이의 Gassco는 9월 13일 12시 57분부터 9월 14일 03시 59분까지 니함나 가스전에서 하루 28.0 mcm 규모의 가동 중단을 예정하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739672)
+#### [월가 주간 전망-불확실한 연준 회의에서 금리 인상 가능성에 대비하는 투자자들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739671)
+#### [베제키의 추락 사고 이후, 마르케스가 산 마리노 대회에서 우승하며 챔피언십 선두에 올랐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739670)
+#### [이란 대통령은 아부다비 왕세자와 유익한 대화를 나눴으며, “과거의 일들은 뒤로 미루기로 합의했다”고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739669)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739668)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739667)
+#### [리비아에서 카다피의 얼굴이 그려진 마약 압수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739666)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739665)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739664)
+#### [WSJ 보도에 따르면, 카니는 캐나다를 EU의 ‘준회원국’으로 만들자는 구상을 추진하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739663)
+#### [스웨덴, 극우 정당의 승리가 예상되는 박빙의 선거 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739662)
+#### [리투아니아, 빌뉴스 공항 폐쇄… 나토, 드론 출현 가능성에 대응해 전투기 출동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739661)
+#### [엔브리지 온타리오의 182MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739660)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739659)
+#### [[업데이트 1] FT 보도에 따르면, GE 헬스케어, 소피 바이오사이언스 인수와 관련해 10억 달러 규모 거래 가능성 논의 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739658)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GEHC.O/total>
+#### [[업데이트 1] 한국, 이번 주 내 미국 투자 계획 세부 사항 확정 목표…장관 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739657)
+#### [[속보] 왕구오 골드, 블랙록 펀드에 투자](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739656)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3939.HK/total>
+#### [[속보] 브레톤 테크놀로지, 프로젝트 및 기술 연구개발 자금 조달을 위한 주식 매각 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739655)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1333.HK/total>
+#### [리투아니아, 빌뉴스 공항 폐쇄… 나토, 드론 위협 가능성에 대응해 전투기 출동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739654)
+#### [[업데이트 1] 중국 Z.AI, 신주 및 전환사채 발행으로 50억 달러 조달…공시 자료에 따르면](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739653)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2513.HK/total>
+#### [한국은 이번 주 중 미국 투자 계획의 세부 사항을 확정할 계획이라고 장관이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739652)
+#### [SOMO에 따르면, 이라크는 10월 바스라 중질 원유의 아시아 수출 가격(OSP)을 동결했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739651)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739650)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739649)
+#### [터키, LGBTQ+ 단체를 대상으로 한 급습 후 26명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739648)
+#### [파이낸셜타임스(FT) 보도에 따르면, GE 헬스케어가 소피 바이오사이언스(Sofie Biosciences)를 10억 달러에 인수하는 방안을 놓고 협상을 진행 중이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739647)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GEHC.O/total>
+#### [마허샬라 알리가 주연을 맡은, 신앙과 가족, 모성을 다룬 액션 스릴러가 토론토 영화제에서 상영된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739646)
+#### [러시아, 폴란드 국경 인근 트럭을 타격… 나토 인근에서 발생한 최근 공격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739645)
+#### [10대 우고추쿠, 미국인 최초로 F3 챔피언 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739644)
+#### [[속보 1] 키예프 당국, “러시아가 우크라이나-폴란드 국경 지역을 공격했다”고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739643)
+#### [극우 세력이 정부에 입각할 가능성을 안고 있는 선거에서 스웨덴 국민들이 투표에 참여했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739642)
+#### [우크라이나 군 당국은 러시아 타타르스탄에 위치한 타네코 정유소를 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739641)
+#### [의료진에 따르면 이스라엘의 공습으로 가자에서 2명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739640)
+#### [종합 1-시진핑, 브릭스(BRICS)의 글로벌 역할 확대를 위해 ‘확대된 브릭스’ 경제 협력 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739639)
+#### [재무부, “ECB의 금리 인상 속에 이탈리아는 재정 건전성을 유지해야 한다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739638)
+#### [톰 티파니 미국 하원의원은 비행기가 비상 착륙한 후 경미한 부상을 입었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739637)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739636)
+#### [폴란드 국경의 국경 검문소를 공격했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739635)
+#### [[속보] 광둥 고월드, 이상 주가 변동에 대한 입장 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739634)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000823.SZ/total>
+#### [[속보] 골든맥스 인터내셔널, 이상 주가 변동에 대한 입장 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739633)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002636.SZ/total>
+#### [우크라이나 군 당국은 러시아 크라스노다르 지역의 정유 시설을 타격했다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739632)
+#### [당국자들에 따르면, 우크라이나 오데사에서 러시아의 드론 공격으로 5명이 부상을 입었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739631)
+#### [[속보] 광저우 상핀 홈 컬렉션, 주식 매각 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739630)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300616.SZ/total>
+#### [[속보 1] 호르무즈 해협에서 공격을 받은 선박의 승무원들이 대피했다고 영국해운테러방지기구(UKMTO)가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739629)
+#### [[속보] 청두 RML 테크놀로지 주주, 회사 주식 매각 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739628)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/301050.SZ/total>
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739627)
+#### [러시아 원자력청장은 우크라이나가 연료 수송 트럭을 공격해 자포리자 원전을 위험에 빠뜨렸다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739626)
+#### [타스 통신에 따르면, 크렘린은 모디와 시진핑이 우크라이나 평화 회담을 위해 중재에 나서겠다고 제안했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739625)
+#### [IW 연구 결과, 미국 기업의 투자 감소 속 독일 기업들의 중국 투자 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739624)
+#### [중국의 시진핑, ‘확대된 브릭스(BRICS)’ 간 추가 협력 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739623)
+#### [[속보] 알루자인(Alujain Corp), CEO 사임 및 후임자 임명 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739622)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739621)
+<head><meta charset="utf-8"><title>Vers : 20260913_1405 </title></head>
+<center>Vers : 20260913_1405 </center>
+<center>Vers : 20260913_2305 </center>
+<br><br><br>
+#### [사인츠, 그리드 3계단 하락 페널티로 홈 경기인 스페인 그랑프리 20번 그리드에서 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739620)
+#### [뉴욕타임스(NYT)에 따르면, 오바마 전 대통령은 인공지능(AI)에 대해 신중한 입장을 표명하며 민주당에 이에 대처할 것을 촉구했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739619)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739618)
+#### [케슘 섬 인근 해상에서 이란 상선이 충돌해 1명 사망, 3명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739617)
+#### [주목할 요인 - 9월 13일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739616)
+#### [[속보] CVC, 레코라티 107억 유로 규모 비공개화 추진에 주주 반발 직면 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739615)
+#### [이퀴닉스, 남아공 하이퍼스케일 데이터센터 문제로 난항 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739614)
+#### [ATCO/TransAlta 앨버타 390 MW Sheerness 2 석탄 화력발전소 가동 중단 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739613)
+#### [오픈AI의 알트만, 올해 IPO는 하지 않을 것… AI 멸종 위험을 “용납할 수 없다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739612)
 #### [캘파인 온타리오의 212 MW 그린필드 에너지 센터 2호기 가스 발전소가 가동을 재개했습니다 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739611)
 #### [투기 세력이 2월 이후 처음으로 엔화 순매수 포지션을 취했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739610)
 #### [민주당 후보의 TV 인터뷰는 FCC의 카르에게서 승인을 받지 못했지만, 공화당 상원의원의 인터뷰는 승인을 받았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739609)
@@ -58,6 +140,10 @@
 #### [러시아의 공격으로 경제가 타격을 입으면서 우크라이나는 혹독한 겨울을 대비하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739563)
 #### [당국 발표에 따르면, 러시아군이 우크라이나 크라마토르스크에서 차량을 공격해 3명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739562)
 #### [Revolut, 가짜 정부 요청에 속아 민감한 고객 정보 유출 사실을 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739561)
+<head><meta charset="utf-8"><title>Vers : 20260913_1405 </title></head>
+<center>Vers : 20260913_1405 </center>
+<center>Vers : 20260913_2305 </center>
+<br><br><br>
 #### [천연가스 파이프라인 긴급 공지: 콜로라도 인터스테이트 가스 컴퍼니(Colorado Interstate Gas Company), FMJ 155A 라인(그리스우드) 공사 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739560)
 #### [오만 간 합의에는 호르무즈 해협의 즉각적인 재개방 조항이 포함되어 있지 않다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739559)
 #### [사이클 - 마스, 마지막 고비를 넘기며 부엘타 우승을 사실상 확정지었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739558)
@@ -67,10 +153,6 @@
 #### [[속보] 오라클, 래리 엘리슨이 오라클 주식 매도를 위한 10b5-1 계획을 취소했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739554)
 #### [[업데이트 1] 캐나다의 미국산 제품 불매 운동으로 식료품점들이 대응책을 모색하고 새로운 공급처를 찾아 나서고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739553)
 #### [마스, 마지막 고비를 넘기며 부엘타 우승을 사실상 확정지었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739552)
-<head><meta charset="utf-8"><title>Vers : 20260913_0328 </title></head>
-<center>Vers : 20260913_0328 </center>
-<center>Vers : 20260913_1228 </center>
-<br><br><br>
 #### [불가리아에서 몇 주 만에 두 번째 무기 보관 시설에서 폭발 사고 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739551)
 #### [펨엑스(Pemex), 멕시코만 원유 유출 사태가 수습되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739550)
 #### [모터 레이싱 - 노리스, 스페인 그랑프리 폴 포지션 차지하며 커리어 최고 랩 기록 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739549)
@@ -123,12 +205,3 @@
 #### [캐나다의 미국산 제품 불매 운동으로 인해 식료품점들이 대응책을 모색하고 새로운 공급처를 찾아 나서고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739501)
 #### [이번 주 브레이킹뷰스: 월스트리트의 새로운 신들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739500)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [트럼프, “이란과의 전쟁은 미국 중간선거가 끝나면 종식될 것”이라고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739499)
-#### [중국이 제19차 브릭스(BRICS) 정상회의를 주최할 것이라고 중국중앙텔레비전(CCTV)이 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739498)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739497)
-#### [트럼프, 호르무즈 해협과 사우디의 우려는 “문제없이 잘 해결될 것”이라고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739496)
-#### [코스타리카의 119세 남성, 세계 최고령자로 인정받기 위해 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739495)
-#### [소식통에 따르면, 브릭스(BRICS)는 뉴델리 정상회담을 앞두고 공동 성명에 합의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739494)
-#### [우크라이나는 사마라 공습에서 러시아의 주요 고무 생산 업체를 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739493)
-#### [Tourn Agency 경보 및 브리핑 철회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739492)
-#### [인도 금융감독당국, 파생상품 만기 가격 산정 방식 개편 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2739491)
