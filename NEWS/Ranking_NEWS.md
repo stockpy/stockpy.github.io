@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260914_1757 </title></head>
-<center>Vers : 20260914_1757 </center>
-<center>Vers : 20260915_0257 </center>
+<head><meta charset="utf-8"><title>Vers : 20260914_2142 </title></head>
+<center>Vers : 20260914_2142 </center>
+<center>Vers : 20260915_0642 </center>
 <br><br><br>
 #### ["삼전닉스 믿었는데" 개미들 허탈…석 달 만에 무슨 일이? [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005332265)
 #### [“이건 정말 드문 일” SK하이닉스 주식, 왜 이래?…개인도 외국인도 기관도 모두 ‘순매도’ [투자360]](https://m.stock.naver.com/news/ranknews/view/016/0002697151)
