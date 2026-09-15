@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260915_1623 </title></head>
-<center>Vers : 20260915_1623 </center>
-<center>Vers : 20260916_0123 </center>
+<head><meta charset="utf-8"><title>Vers : 20260915_1945 </title></head>
+<center>Vers : 20260915_1945 </center>
+<center>Vers : 20260916_0445 </center>
 <br><br><br>
 #### [“잃은거 겨우 복구했더니 세금 1000만원 내라뇨”…코인 투자자들 ‘눈물’](https://m.stock.naver.com/news/ranknews/view/009/0005735263)
 #### ['85,000원→62,000원' 단숨에 27% 낮췄다...방산사업 매각 어떻길래](https://m.stock.naver.com/news/ranknews/view/215/0001266080)
