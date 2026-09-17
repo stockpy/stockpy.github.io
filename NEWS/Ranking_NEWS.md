@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260917_1621 </title></head>
-<center>Vers : 20260917_1621 </center>
-<center>Vers : 20260918_0121 </center>
+<head><meta charset="utf-8"><title>Vers : 20260917_1946 </title></head>
+<center>Vers : 20260917_1946 </center>
+<center>Vers : 20260918_0446 </center>
 <br><br><br>
 #### ["당장 月 70만원씩 더 내라니"…40대 영끌족 '날벼락'](https://m.stock.naver.com/news/ranknews/view/015/0005333577)
 #### [브레이크 걸린 현대차 3사…석달새 시총 100조 증발](https://m.stock.naver.com/news/ranknews/view/011/0004663049)
