@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260918_1752 </title></head>
-<center>Vers : 20260918_1752 </center>
-<center>Vers : 20260919_0252 </center>
+<head><meta charset="utf-8"><title>Vers : 20260918_2028 </title></head>
+<center>Vers : 20260918_2028 </center>
+<center>Vers : 20260919_0528 </center>
 <br><br><br>
 #### ["은행에 넣으면 3.5%인데"…배당수익률 21% 찍은 ETF 뭐길래[주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005818632)
 #### ["한국인들, 얼마나 책을 안 읽으면"…매물로 나온 문학동네 누가 인수할까[주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005818604)
