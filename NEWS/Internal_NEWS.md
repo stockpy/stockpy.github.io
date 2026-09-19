@@ -1,7 +1,9 @@
-<head><meta charset="utf-8"><title>Vers : 20260919_2007 </title></head>
-<center>Vers : 20260919_2007 </center>
-<center>Vers : 20260920_0507 </center>
+<head><meta charset="utf-8"><title>Vers : 20260919_2218 </title></head>
+<center>Vers : 20260919_2218 </center>
+<center>Vers : 20260920_0718 </center>
 <br><br><br>
+#### [[속보] 파라마운트, 캘리포니아에 잔류하겠다는 약속을 포함한 합의 협상 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746806)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746805)
 #### [터키, 방위 협정에 따라 사우디의 군사적 요구 충족을 지원할 수 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746804)
 #### [400 미사일 문제 해결을 위해 미국과 ‘창의적인 방안’을 모색 중이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746803)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746802)
@@ -60,6 +62,3 @@
 #### [목격자에 따르면 리야드 공항 인근에서 불길과 검은 연기가 목격되었다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746749)
 #### [그린란드와 덴마크, 미국과의 협정이 주권 양도로 이어지지 않을 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746748)
 #### [러시아 선거, 분리주의 지역 내 투표 문제를 둘러싸고 몰도바와 갈등 촉발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746747)
-#### [러시아, 의회 선거 둘째 날 선거 시스템에 대한 사이버 공격 발생했다고 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746746)
-#### [AI의 흐름을 바꾼 10일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746745)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
