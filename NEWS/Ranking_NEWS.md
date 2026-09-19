@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260919_1706 </title></head>
-<center>Vers : 20260919_1706 </center>
-<center>Vers : 20260920_0206 </center>
+<head><meta charset="utf-8"><title>Vers : 20260919_2007 </title></head>
+<center>Vers : 20260919_2007 </center>
+<center>Vers : 20260920_0507 </center>
 <br><br><br>
 #### ["9000 넘었던 코스피, 내년엔 5200 아래로 떨어진다"…전문가 예측 배경은](https://m.stock.naver.com/news/ranknews/view/277/0005818730)
 #### [“주식은 무섭고 예금은 아쉬웠는데”…‘연 5.5%’ 파격 금리 준다는데](https://m.stock.naver.com/news/ranknews/view/009/0005737626)
