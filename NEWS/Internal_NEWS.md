@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20260920_2024 </title></head>
-<center>Vers : 20260920_2024 </center>
-<center>Vers : 20260921_0524 </center>
+<head><meta charset="utf-8"><title>Vers : 20260920_2235 </title></head>
+<center>Vers : 20260920_2235 </center>
+<center>Vers : 20260921_0735 </center>
 <br><br><br>
+#### [중국의 로보테크닉, 최대 6억 6,030만 달러 규모의 홍콩 주식 공모 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746990)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300757.SZ/total>
+#### [[속보] 인도 ‘머니뷰’, 기업공개(IPO) 주당 가격 범위를 32~34 루피로 책정 - 공시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746989)
+#### [USD/JPY-거래량이 적은 시장에서 개입 위협이 감돌며 경계 태세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746988)
+#### [후티 반군의 사우디 수도 공격 이후 유가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746987)
+#### [마크롱, 카니, 대서양 섬 국가 회의에서 긴밀한 협력 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746986)
+#### [이집트가 러시아와 우크라이나에 대한 밀 수입을 다각화하고 있다고 한 장관이 밝혔다고 전해졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746985)
+#### [AUD/USD, 시장이 RBA의 의도를 가늠하는 가운데 등락폭이 좁은 양상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746984)
+#### [터키 기업 테라 포트포이(Tera Portfoy), 청산 조사 진행 중인 가운데 투자자 상환을 위해 노력 중이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746983)
+#### [[속보 1] 소식통에 따르면 트럼프 행정부가 국제형사재판소(ICC)에 대한 제재 조치를 준비 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746982)
+#### [이란이 테헤란의 어학 센터를 폐쇄한 데 대해 프랑스, 대응 조치 예고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746981)
+#### [NHC 폭풍 주의보: 멕시코 남쪽 해상에서 새로운 열대저기압이 발생했습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746980)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746979)
+#### [에어버스, 북웨일스에 900개의 일자리를 창출할 예정 - 더 타임스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746978)
+#### [극좌 정당이 베를린 선거에서 승리하며 주택 국유화를 공약으로 내걸었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746977)
+#### [유엔 총회가 열리면서 트럼프, 바쁜 회의 일정을 앞두고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746976)
+#### [NHC 폭풍 주의보: 오달리스가 하루 정도 내에 허리케인으로 발달할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746975)
+#### [주말 뉴스-사우디 수도 공격, 베센트-헤 회동, 중국 LPR 동결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746974)
+#### [독일 주 선거에서 메르츠의 정당이 참패한 후 주목할 점 4가지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746973)
+#### [NHC 폭풍 주의보: 페이가 계속해서 세력을 키우고 있으며 허리케인 등급에 도달할 가능성이 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746972)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746971)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746970)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746969)
@@ -43,22 +63,3 @@
 #### [[속보 1] 연준의 카슈카리, 폭스 뉴스 인터뷰에서 “미국 경제 전반에 걸쳐 인플레이션이 여전히 너무 높다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746933)
 #### [카타르에너지, 호르무즈 위기 여파로 일부 확장 프로젝트가 지연될 수 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746932)
 #### [트랜살타 온타리오의 200MW 멜랭크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746931)
-#### [노르웨이의 Gassco는 9월 21일 04:00부터 9월 22일 04:00까지 슬레이프너 가스전에서 하루 10.5 mcm 규모의 생산 중단을 실시할 예정이다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746930)
-#### [폭스 뉴스와의 인터뷰에서 연방준비제도(Fed)의 카슈카리 위원은 인플레이션이 유가 문제를 넘어선다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746929)
-#### [미국 재무부의 베센트와 중국의 허, AI·무역·핵심 광물 관련 협의 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746928)
-#### [이란, 미국과 동맹국들의 새로운 긴장 고조를 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746927)
-#### [NHC 폭풍 주의보: 열대성 폭풍 ‘페이’가 북동쪽으로 이동하며 세력을 키우고 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746926)
-#### [카타르, 국내 투자 전담 부문을 신설](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746925)
-#### [MSC 메디터레니언 쉬핑, 독일 국영 기업 마이어 베르프트(Meyer Werft) 지분 약 80% 인수 협상 중?- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746924)
-#### [‘데일리 미러’ 발행사 리치(Reach), 경영 정상화 전문가 클라이브 와일리(Clive Whiley)를 이사회에 영입 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746923)
-#### [러시아 망명자들이 푸틴과 우크라이나 전쟁에 대한 반대를 표명하기 위해 투표를 했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746922)
-#### [카타르, 국내 투자 전담 부문을 신설](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746921)
-#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746920)
-#### [오토바이 경주 - 부활한 아코스타, 마틴을 꺾고 오스트리아에서 생애 첫 모토GP 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746919)
-#### [알테라, 기후 투자 자금 조달을 위해 핀데브 캐나다와 파트너십 체결 - AD 미디어 오피스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746918)
-#### [이란, 미국과 동맹국들의 새로운 긴장 고조를 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746917)
-#### [아코스타, 스프린트 단계에서 탈락 위기를 딛고 마틴을 제치고 오스트리아에서 생애 첫 모토GP 우승을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746916)
-#### [월가 주간 전망-연준 금리 인상 이후 투자자들, 금리 경로와 AI 성장 둔화에 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746915)
-#### [후티 반군이 리야드 공격 주장을 제기한 후 사우디 및 걸프 지역 증시 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746914)
-#### [[속보] 타타 트러스트, N. 찬드라세카란을 타타 손스 회장으로 재선임하기로 한 결의안이 유효하게 통과되지 않았으며 법적 효력이 없다고 재차 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746913)
-#### [극우 세력의 부상으로 메르츠에게 압박이 가해지는 가운데 독일에서 주 선거 투표 진행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746912)
