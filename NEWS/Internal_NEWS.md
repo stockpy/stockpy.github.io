@@ -1,7 +1,12 @@
-<head><meta charset="utf-8"><title>Vers : 20260919_2218 </title></head>
-<center>Vers : 20260919_2218 </center>
-<center>Vers : 20260920_0718 </center>
+<head><meta charset="utf-8"><title>Vers : 20260920_0010 </title></head>
+<center>Vers : 20260920_0010 </center>
+<center>Vers : 20260920_0910 </center>
 <br><br><br>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746811)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746810)
+#### [베네수엘라의 로드리게스 지도자, 프랑스 석유 기업 토탈 에너지스와 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746809)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746808)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746807)
 #### [[속보] 파라마운트, 캘리포니아에 잔류하겠다는 약속을 포함한 합의 협상 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746806)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746805)
 #### [터키, 방위 협정에 따라 사우디의 군사적 요구 충족을 지원할 수 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746804)
@@ -57,8 +62,3 @@
 #### [[속보] 유로배터리 미네랄스, CEO에 대한 법원 판결과 형사 혐의 관련 정보를 입수했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746754)
 #### [말레이시아 민주행동당(DAP) 당수가 수감 중이던 나집 전 총리에게 가택연금 조치가 내려지자 사퇴 의사를 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746753)
 #### [한델스블라트 보도에 따르면, 포르쉐가 추가로 4,000명의 인력을 감원할 수 있다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746752)
-#### [헝가리인과 슬로바키아인들이 전쟁과 분단을 견뎌낸 다뉴브 강 다리 위에서 함께 아침 식사를 나누고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746751)
-#### [아프릴리아의 마틴, 타이틀 경쟁자 마르케스를 제치고 오스트리아 MotoGP 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746750)
-#### [목격자에 따르면 리야드 공항 인근에서 불길과 검은 연기가 목격되었다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746749)
-#### [그린란드와 덴마크, 미국과의 협정이 주권 양도로 이어지지 않을 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746748)
-#### [러시아 선거, 분리주의 지역 내 투표 문제를 둘러싸고 몰도바와 갈등 촉발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746747)
