@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260920_1722 </title></head>
-<center>Vers : 20260920_1722 </center>
-<center>Vers : 20260921_0222 </center>
+<head><meta charset="utf-8"><title>Vers : 20260920_2024 </title></head>
+<center>Vers : 20260920_2024 </center>
+<center>Vers : 20260921_0524 </center>
 <br><br><br>
 #### [사자마자 한 달 만에 -30% “나 어떡해”…외인·기관 던질 때 개미만 800억 ‘줍줍’](https://m.stock.naver.com/news/ranknews/view/011/0004663732)
 #### [59세 싱글맘 "사적연금 없이 국민연금뿐인데 내년에 은퇴해도 될까요"[재테크 Q&A]](https://m.stock.naver.com/news/ranknews/view/014/0005578534)
