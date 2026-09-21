@@ -1,7 +1,25 @@
-<head><meta charset="utf-8"><title>Vers : 20260920_2235 </title></head>
-<center>Vers : 20260920_2235 </center>
-<center>Vers : 20260921_0735 </center>
+<head><meta charset="utf-8"><title>Vers : 20260921_0028 </title></head>
+<center>Vers : 20260921_0028 </center>
+<center>Vers : 20260921_0928 </center>
 <br><br><br>
+#### [파이낸셜 타임스 - 9월 21일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2747005)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0992.HK/total>
+#### [11월 30일까지의 신흥 시장 경제 행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2747006)
+#### [호주의 잉제니아(Ingenia), 워버그 핀커스(Warburg Pincus)의 수정된 15억 달러 인수 제안을 거절했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2747004)
+#### [아시아 시장 전망-금리 상승, 엔화 변동성 확대, 베센트-헤 회동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2747003)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2747002)
+#### [2024년 NFL 드래프트 1, 2순위 지명자인 윌리엄스와 다니엘스가 부상으로 들것에 실려 나갔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2747001)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2747000)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746999)
+#### [호주의 텔릭스 파마(Telix Pharma), 독일의 ITM 아이소토프(ITM Isotope)를 약 16억 5천만 달러에 인수하기로 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746998)
+#### [FOMC 회의 주간이 끝난 후 EUR/USD 환율이 안정세를 보이기 시작하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746997)
+#### [시 당국에 따르면, 텍사스주 오스틴에서 ICE 요원이 총격 사건으로 한 남성을 다치게 했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746996)
+#### [라이트무브(Rightmove)에 따르면, 영국 부동산 매도 호가가 5월 이후 처음으로 상승했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746995)
+#### [[속보] 텔릭스 파마슈티컬스, ITM 아이소토프 테크놀로지스 뮌헨 SE를 16억 5천만 달러에 인수할 예정이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746994)
+#### [어떤 아세안 주식의 부진 종목이 조만간 선두주자가 될 수 있을까?: 마니시 라이차우두리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746993)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.KLSE>
+#### [말레이시아 규제 당국, 상장 기업에 엘니뇨 대비 계획 제출 요청…중동과의 관계 심화 모색](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746992)
+#### [호주의 텔릭스 파마(Telix Pharma)가 독일의 ITM 아이소토프(ITM Isotope)를 약 16억 5천만 달러에 인수하기로 합의했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746991)
 #### [중국의 로보테크닉, 최대 6억 6,030만 달러 규모의 홍콩 주식 공모 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746990)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300757.SZ/total>
 #### [[속보] 인도 ‘머니뷰’, 기업공개(IPO) 주당 가격 범위를 32~34 루피로 책정 - 공시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746989)
@@ -47,6 +65,10 @@
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746949)
 #### [2021년 아이티 대통령 암살 사건 용의자들, 재판을 받기 위해 미국으로 이송됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746948)
 #### [생일을 맞은 로이서, 몬트리올에서 세계 개인 타임트라이얼 타이틀 방어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746947)
+<head><meta charset="utf-8"><title>Vers : 20260921_0028 </title></head>
+<center>Vers : 20260921_0028 </center>
+<center>Vers : 20260921_0928 </center>
+<br><br><br>
 #### [캐나다의 카니, 새로운 글로벌 위협에 맞서 프랑스와의 유대 강화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746946)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746945)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746944)
@@ -63,3 +85,48 @@
 #### [[속보 1] 연준의 카슈카리, 폭스 뉴스 인터뷰에서 “미국 경제 전반에 걸쳐 인플레이션이 여전히 너무 높다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746933)
 #### [카타르에너지, 호르무즈 위기 여파로 일부 확장 프로젝트가 지연될 수 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746932)
 #### [트랜살타 온타리오의 200MW 멜랭크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746931)
+#### [노르웨이의 Gassco는 9월 21일 04:00부터 9월 22일 04:00까지 슬레이프너 가스전에서 하루 10.5 mcm 규모의 생산 중단을 실시할 예정이다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746930)
+#### [폭스 뉴스와의 인터뷰에서 연방준비제도(Fed)의 카슈카리 위원은 인플레이션이 유가 문제를 넘어선다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746929)
+#### [미국 재무부의 베센트와 중국의 허, AI·무역·핵심 광물 관련 협의 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746928)
+#### [이란, 미국과 동맹국들의 새로운 긴장 고조를 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746927)
+#### [NHC 폭풍 주의보: 열대성 폭풍 ‘페이’가 북동쪽으로 이동하며 세력을 키우고 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746926)
+#### [카타르, 국내 투자 전담 부문을 신설](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746925)
+#### [MSC 메디터레니언 쉬핑, 독일 국영 기업 마이어 베르프트(Meyer Werft) 지분 약 80% 인수 협상 중?- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746924)
+#### [‘데일리 미러’ 발행사 리치(Reach), 경영 정상화 전문가 클라이브 와일리(Clive Whiley)를 이사회에 영입 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746923)
+#### [러시아 망명자들이 푸틴과 우크라이나 전쟁에 대한 반대를 표명하기 위해 투표를 했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746922)
+#### [카타르, 국내 투자 전담 부문을 신설](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746921)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746920)
+#### [오토바이 경주 - 부활한 아코스타, 마틴을 꺾고 오스트리아에서 생애 첫 모토GP 우승 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746919)
+#### [알테라, 기후 투자 자금 조달을 위해 핀데브 캐나다와 파트너십 체결 - AD 미디어 오피스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746918)
+#### [이란, 미국과 동맹국들의 새로운 긴장 고조를 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746917)
+#### [아코스타, 스프린트 단계에서 탈락 위기를 딛고 마틴을 제치고 오스트리아에서 생애 첫 모토GP 우승을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746916)
+#### [월가 주간 전망-연준 금리 인상 이후 투자자들, 금리 경로와 AI 성장 둔화에 주목](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746915)
+#### [후티 반군이 리야드 공격 주장을 제기한 후 사우디 및 걸프 지역 증시 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746914)
+#### [[속보] 타타 트러스트, N. 찬드라세카란을 타타 손스 회장으로 재선임하기로 한 결의안이 유효하게 통과되지 않았으며 법적 효력이 없다고 재차 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746913)
+#### [극우 세력의 부상으로 메르츠에게 압박이 가해지는 가운데 독일에서 주 선거 투표 진행](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746912)
+#### [CATL, 무역 장벽에도 불구하고 미국용 픽업트럭 배터리 개발 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746911)
+#### [룩셈부르크, 드론 목격 사례에 따라 추가 탐지 장비를 배치](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746910)
+#### [트럼프, 개선문을 군사 단지로 전환할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746909)
+#### [셰브론, 석유·가스 탐사 전략 전면 개편에 따라 대규모 시추 계획 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746908)
+#### [[속보] 나프토가즈와 헝가리의 MOL, 우크라이나 전략적 연료 비축량 확보를 위한 양해각서 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746907)
+#### [멜로니 총리, “이탈리아, 학교 내 베일 착용 금지 및 학급당 외국인 학생 수 제한 시행할 것”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746906)
+#### [RIA 통신은 선거 관계자의 말을 인용해, 원격 투표 시스템에 대한 지속적인 공격이 모스크바 선거에는 영향을 미치지 않았다고 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746905)
+#### [볼보 자동차, 클라우스 젤머를 새 CEO로 선임해 사무엘손의 후임으로 임명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746904)
+#### [이란, 테헤란의 프랑스어 센터 폐쇄… 불법 활동 혐의 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746903)
+#### [트럼프, 개선문을 군사 단지로 전환할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746902)
+#### [유럽연합 집행위원, 이스라엘 장관과 EU-이스라엘 관계 및 가자 문제 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746901)
+#### [경기-일본, 홈 대회 첫 금메달 획득… 신동 유, 중국 수영 대표팀의 돌풍 주도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746900)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746899)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746898)
+#### [타타 그룹의 대립 진영, 임박한 법적 분쟁을 앞두고 변호사 선임 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746897)
+#### [칠레의 바첼레트, 유엔 사무총장 후보에서 사퇴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746896)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746895)
+#### [마크롱과 카니, 트럼프에 보내는 신호로 프랑스 대서양 군도에서 회동 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746894)
+#### [당의 행진 예정에 앞서 경찰이 라호르에서 파키스탄 전 총리 ‘임란 칸’의 여동생을 체포했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746893)
+#### [볼보 자동차, 클라우스 젤머를 CEO로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746892)
+#### [이란이 미국이 조치를 재개할 계획이라고 밝혔다고 국영 매체가 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746891)
+#### [이라크 법원, 이슬람국가(IS) 소속으로 의심되는 프랑스인 6명에 대한 재판 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746890)
+#### [테크볼, 아시안게임 첫 메달이 수여되며 올림픽 꿈에 불이 붙다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746889)
+#### [단독] 소식통에 따르면, 중국 희토류 그룹이 MP 머티리얼스의 주주인 성허 리소스를 인수하기 위한 협상을 진행 중이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746888)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600392.SS/total>
+#### [중국의 선박용 연료 수출이 22개월 만에 최저치를 기록했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2746887)
