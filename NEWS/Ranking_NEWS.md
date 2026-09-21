@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260921_1811 </title></head>
-<center>Vers : 20260921_1811 </center>
-<center>Vers : 20260922_0311 </center>
+<head><meta charset="utf-8"><title>Vers : 20260921_2159 </title></head>
+<center>Vers : 20260921_2159 </center>
+<center>Vers : 20260922_0659 </center>
 <br><br><br>
 #### ["또 사이드카 쏟아지나"…한숨 돌리던 개미들 떨게 한 '경고' [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005334883)
 #### [“1000주에 460만원, 막차 타자”…역대급 배당 '27만전자' 1조 쓸어담은 외국인](https://m.stock.naver.com/news/ranknews/view/030/0003469041)
