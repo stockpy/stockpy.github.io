@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260922_1623 </title></head>
-<center>Vers : 20260922_1623 </center>
-<center>Vers : 20260923_0123 </center>
+<head><meta charset="utf-8"><title>Vers : 20260922_1948 </title></head>
+<center>Vers : 20260922_1948 </center>
+<center>Vers : 20260923_0448 </center>
 <br><br><br>
 #### [[속보] 나스닥 장중 ‘사상 최고치’ 찍었다…미·이란 회담 기대에 4개월만](https://m.stock.naver.com/news/ranknews/view/009/0005739263)
 #### ['1만원→10만원'…도수치료 막았더니 '어떻게 이럴 수가'](https://m.stock.naver.com/news/ranknews/view/015/0005335376)
