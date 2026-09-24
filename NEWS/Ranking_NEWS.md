@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260924_1635 </title></head>
-<center>Vers : 20260924_1635 </center>
-<center>Vers : 20260925_0135 </center>
+<head><meta charset="utf-8"><title>Vers : 20260924_2006 </title></head>
+<center>Vers : 20260924_2006 </center>
+<center>Vers : 20260925_0506 </center>
 <br><br><br>
 #### [“엄마, 이번에 1000만원 드릴게”…추석 용돈에도 세금 붙나요](https://m.stock.naver.com/news/ranknews/view/018/0006375224)
 #### [도수치료 막히니 ‘이 치료’에 환자 북적…실손보험 적자 줄인다더니, 효과는](https://m.stock.naver.com/news/ranknews/view/009/0005739878)
