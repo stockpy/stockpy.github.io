@@ -1,7 +1,15 @@
-<head><meta charset="utf-8"><title>Vers : 20260926_2041 </title></head>
-<center>Vers : 20260926_2041 </center>
-<center>Vers : 20260927_0541 </center>
+<head><meta charset="utf-8"><title>Vers : 20260926_2309 </title></head>
+<center>Vers : 20260926_2309 </center>
+<center>Vers : 20260927_0809 </center>
 <br><br><br>
+#### [[종합 1] 트럼프 대통령이 평화안을 거부한 가운데 이란, 외교적 해결을 고수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754140)
+#### [퀘벡에서 헬기 추락 사고로 4명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754139)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754138)
+#### [트럼프, 미·쿠바 간 합의 전망…군사 행동 가능성은 낮다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754137)
+#### [이란, 트럼프 대통령의 제안에 대한 반응에 이어 중재자를 통한 답변을 기다리고 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754136)
+#### [트럼프, 호르무즈 해협 개방 및 교전 중단이라는 이란의 제안을 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754135)
+#### [NHC 폭풍 주의보: 페이가 서서히 남쪽으로 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754134)
+#### [NHC 폭풍 주의보: 폴로가 강력한 허리케인으로 변하며 북서쪽으로 방향을 틀고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754133)
 #### [NHC 폭풍 주의보: 오달리스가 계속해서 급속히 세력을 잃고 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754132)
 #### [트럼프, 바이든 행정부의 전기차 의무화 조치를 종료하는 연비 기준을 승인했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754131)
 #### [보잉, 737 MAX 착륙 항법 기능에 영향을 미치는 소프트웨어 결함 발생, 월스트리트저널 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754130)
@@ -55,12 +63,3 @@
 #### [히스로 공항의 제3활주로 개통이 2039년으로 연기될 전망 - BBC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754083)
 #### [NHC 폭풍 주의보: 오달리스가 동태평양 해상에서 급속히 약화될 것으로 예상됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754082)
 #### [러시아 측, “러시아·독일 외무장관들이 유엔 총회 기간 중 별도 회동했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754081)
-#### [NHC 폭풍 주의보: 곤잘로가 카보베르데 제도 북쪽으로 이동 중이며, 일요일까지 잔류 저기압으로 약화될 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754080)
-#### [NHC 폭풍 주의보: 페이가 서남서 방향으로 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754079)
-#### [트럼프, 쿠바와 미국이 합의에 도달할 것이라고 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754078)
-#### [스위스 재무장관은 UBS가 본사를 떠날 가능성은 낮다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754077)
-#### [중국, 유엔 연설에서 이란과 쿠바 문제를 놓고 미국에 반박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754076)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754075)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754074)
-#### [미국 배심원단, 햅틱 기술 특허 소송에서 애플에 사상 최대 규모인 57억 달러 배상 명령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754073)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
