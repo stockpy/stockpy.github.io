@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260926_1745 </title></head>
-<center>Vers : 20260926_1745 </center>
-<center>Vers : 20260927_0245 </center>
+<head><meta charset="utf-8"><title>Vers : 20260926_2041 </title></head>
+<center>Vers : 20260926_2041 </center>
+<center>Vers : 20260927_0541 </center>
 <br><br><br>
 #### ["10년 전 1억 주고 샀는데 지금 138억?…" 최고 수익률 1위는](https://m.stock.naver.com/news/ranknews/view/018/0006375724)
 #### [“78층인데 구조대 오나요?” 55% 빠진 현대차…증권사도 목표가 줄하향](https://m.stock.naver.com/news/ranknews/view/009/0005740049)
