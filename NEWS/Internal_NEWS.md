@@ -1,7 +1,28 @@
-<head><meta charset="utf-8"><title>Vers : 20260927_1933 </title></head>
-<center>Vers : 20260927_1933 </center>
-<center>Vers : 20260928_0433 </center>
+<head><meta charset="utf-8"><title>Vers : 20260927_2250 </title></head>
+<center>Vers : 20260927_2250 </center>
+<center>Vers : 20260928_0750 </center>
 <br><br><br>
+#### [[속보] 베이징 에스윈 컴퓨팅 테크놀로지, 글로벌 공모 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754303)
+#### [교황 레오, 프랑스에서 성폭력 피해자들과 만나 ‘특별한 순간’ 연출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754302)
+#### [[속보] 인도의 핀테크 기업 애셋그로(Assetgro), 비공개 방식으로 기업공개(IPO) 신청 - 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754301)
+#### [인도의 골디 솔라, 비공개 방식으로 기업공개(IPO) 신청 - 제출 서류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754300)
+#### [인도 ‘말라디 드럭스 앤드 파마슈티컬스’, 비공개 방식으로 기업공개(IPO) 신청 - 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754299)
+#### [트럼프, 이란 평화 협정 거부하자 유가 반등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754298)
+#### [환경 단체에 따르면, 이란과 관련된 디젤 가격 급등으로 인해 주요 EU 시장에서 전기 트럭이 디젤 트럭보다 저렴해졌다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754297)
+#### [AUD/USD, 트레이더들이 RBA 금리 인상 이후의 암울한 전망을 주시하며 약세 전환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754296)
+#### [보스턴행 델타 항공편, 객실 내 연기로 인해 포르투갈에 비상 착륙](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754295)
+#### [[업데이트 1] 스위스 신문 보도에 따르면, 외국 은행들이 UBS와의 합병에 관심을 표명했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754294)
+#### [NHC 폭풍 주의보: NOAA 허리케인 탐사팀이 폴로가 여전히 3등급 허리케인으로 남아 있음을 확인했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754293)
+#### [NHC 폭풍 주의보: 저기압이 열대성 폭풍으로 발달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754292)
+#### [사이클 - 맥널티, 도로 경기 세계 챔피언 등극…미국 남자부 33년 만에 우승 가뭄 끝내](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754291)
+#### [한국, 북한 포로 정보 유출과 관련해 우크라이나에 사과 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754290)
+#### [BUZZ-재방송-EUR/USD에 필요한 것, 부진한 파운드, 엔화 관련 발언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754289)
+#### [BUZZ-COMMENT-이번 주 전망-미국 PCE, 고용 지표, 호주 중앙은행(RBA) 금리 결정, 이란 전쟁](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754288)
+#### [[속보 1] 이스라엘 당국자, 네타냐후 총리가 일요일 아부다비를 방문했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754287)
+#### [BUZZ-IMM: 유로 순 투기적 숏 포지션 급증, 엔화 롱 포지션 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754286)
+#### [맥널티, 도로 경기 세계 챔피언 등극…미국 남자부 33년 만에 우승 가뭄 끝내](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754285)
+#### [이스라엘, 라말라 주재 네덜란드 외교관들의 외교적 지위 박탈](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754284)
+#### [검찰에 따르면, 러시아 무인기가 키예프 외곽 지역을 공격해 2명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754283)
 #### [천연가스 파이프라인 긴급 공지: 2026년 9월 28일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754282)
 #### [액시오스(Axios) 보도에 따르면, 이스라엘의 네타냐후 총리가 일요일 아부다비를 방문했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754281)
 #### [프랑스 극우 지도자들은 상원 의원 모임을 구성하기에 충분한 의석을 확보했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754280)
@@ -44,26 +65,3 @@
 #### [영국의 번햄, 다음 총선에서 사회 복지 개혁을 공약으로 내세우겠다고 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754246)
 #### [액시오스(Axios) 보도에 따르면, 앤트로픽(Anthropic)의 아모데이 CEO가 트럼프 전 대통령과 백악관에서 만찬을 가질 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754245)
 #### [노르웨이의 Gassco, 예정된 가스 공급 중단 계획 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754244)
-#### [노르웨이의 Gassco, 예정된 가스 공급 중단 계획 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754242)
-#### [연합뉴스 보도에 따르면, 한국은 우크라이나가 북한 전쟁포로 협정을 거부한 데 대해 유감을 표명했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754243)
-#### [노르웨이의 Gassco, 예정된 가스 공급 중단 계획 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754241)
-#### [[속보] 중국, 바이트댄스와 알리바바의 엔비디아 신형 칩 구매 허용 여부 검토 중 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754240)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [‘더 인포메이션’ 보도에 따르면, 중국이 바이트댄스와 알리바바의 엔비디아 신형 칩 구매를 허용할지 검토 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754239)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754238)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754237)
-#### [SOCAR, 이탈리아 IP 네트워크 내 연료 가격 상한선 설정 방침 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754236)
-#### [이탈리아, 나폴리에서 열린 아메리카스 컵 예선 레가타에서 압도적인 승리를 거두며 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754235)
-#### [러시아, 우크라이나 내 군사 시설 및 선박을 공격했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754234)
-#### [액시오스(Axios)에 따르면 트럼프 대통령은 미국이 이번 주 이란과 회담을 가질 것으로 예상하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754233)
-#### [NHC 폭풍 주의보: 폴로가 북쪽으로 방향을 틀며 세력이 다소 강해지고 있음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754232)
-#### [아르마니, ‘진화’를 추구하는 반짝이는 컬렉션 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754231)
-#### [노르웨이의 Gassco, 예정된 가스 공급 중단 계획 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754230)
-#### [노르웨이의 Gassco, 예기치 못한 가스 공급 중단 사태에 대응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754229)
-#### [e호 열대저기압이 멕시코 남부 해안 외해에 머무는 동안 세력이 강해질 것으로 예상됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754228)
-#### [NHC 폭풍 주의보: 오달리스가 급속히 세력을 잃고 있음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754227)
-#### [NHC 폭풍 주의보: 페이가 남남동 방향으로 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754226)
-#### [러시아, 우크라이나 최대 이동통신사 공격… 데이터 센터 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754225)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754224)
-#### [교황 레오, 프랑스 성폭력 피해자들과의 만남을 앞두고 교회에 결점을 직시할 것을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754223)
