@@ -1,7 +1,51 @@
-<head><meta charset="utf-8"><title>Vers : 20260927_0956 </title></head>
-<center>Vers : 20260927_0956 </center>
-<center>Vers : 20260927_1856 </center>
+<head><meta charset="utf-8"><title>Vers : 20260927_1501 </title></head>
+<center>Vers : 20260927_1501 </center>
+<center>Vers : 20260928_0001 </center>
 <br><br><br>
+#### [아르마니, ‘진화’를 추구하는 반짝이는 컬렉션 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754231)
+#### [노르웨이의 Gassco, 예정된 가스 공급 중단 계획 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754230)
+#### [노르웨이의 Gassco, 예기치 못한 가스 공급 중단 사태에 대응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754229)
+#### [e호 열대저기압이 멕시코 남부 해안 외해에 머무는 동안 세력이 강해질 것으로 예상됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754228)
+#### [NHC 폭풍 주의보: 오달리스가 급속히 세력을 잃고 있음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754227)
+#### [NHC 폭풍 주의보: 페이가 남남동 방향으로 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754226)
+#### [러시아, 우크라이나 최대 이동통신사 공격… 데이터 센터 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754225)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754224)
+#### [교황 레오, 프랑스 성폭력 피해자들과의 만남을 앞두고 교회에 결점을 직시할 것을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754223)
+#### [페라리 대표 바세르, 호너와의 연결설 속 미래에 대한 추측에 답답해해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754222)
+#### [경기-태국의 선구자? 비 내리는 나고야에서 아시안게임 단거리 2관왕 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754221)
+#### [검찰, 테더와 연관된 몬태나 주 기업의 은행 계좌 압수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754219)
+#### [교황, 성폭력 피해자들과의 만남을 앞두고 교회에 결점을 직시할 것을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754220)
+#### [파키스탄 재무장관의 미국 수출입은행(Exim)과의 회담에서는 보잉 항공기 자금 조달 문제가 논의됐다고 고문이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754218)
+#### [카타르의 바르심, 아시안게임 높이뛰기 결승에서 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754217)
+#### [노르웨이의 Gassco는 9월 28일 04:00부터 9월 30일 04:00까지 하루 5.3 mcm 규모의 생산 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754216)
+#### [온타리오주 브룩필드 소재 189MW 규모의 프린스 풍력발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754215)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754214)
+#### [영국 경찰, 테러방지법에 따라 공군 기지 인근에서 5명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754213)
+#### [이란과 미국의 대립 속에 걸프 지역 증시 혼조세, 사우디 증시는 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754212)
+#### [[업데이트 1] 블룸버그 보도에 따르면, 배릭 마이닝이 말리 금광 노조와 합의에 도달해 파업을 막았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754211)
+#### [월드 T20 챔피언? 일본전서 위기를 겪은 인도, 아프가니스탄전에 경계 태세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754210)
+#### [미국이 사용하는 영국 공군 기지에서 발생한 ‘중대 사건’으로 여러 명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754209)
+#### [태국의 선구자 분손, 비 내리는 나고야에서 아시안게임 단거리 종목 2관왕 달성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754208)
+#### [나고야에서 열린 대회 주최 측, 침대 크기에 대한 불만 일축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754207)
+#### [아르마니, 지분 15% 매각에 여러 투자자 유치 가능성 열어둬… CEO 발언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754206)
+#### [블룸버그 뉴스에 따르면, 배릭 마이닝이 말리 금광 노조들과 합의에 도달했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754205)
+#### [NHC 폭풍 주의보: 강력한 폭풍 ‘폴로’가 접근함에 따라 바하 캘리포니아 수르 지역에서는 인명과 재산을 보호하기 위한 대비 조치를 서둘러 완료해야 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754204)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754203)
+#### [[속보 1] 밀라노 미국 총영사관 건설사, 노동 관련 조사 결과 3,500만 달러 배상 결정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754202)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754201)
+#### [아르마니 CEO, 지분 매각에 여러 투자자가 참여할 수 있으나 아직 결정된 바 없다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754200)
+#### [자금 위기 속 상호 비난이 오가자 터키 정의개발당(AK당) 부의장이 사임했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754199)
+#### [후티 반군이 운영하는 예멘 보건부, 시장 공격으로 7명 사망했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754198)
+#### [치명적 사고 직전부터 올림픽 출전권 획득까지, 말레이시아의 시바상가리가 자신만의 이야기를 써 내려간다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754197)
+#### [[속보 1] 스위스 유권자들, 나토와의 협력을 제한할 수 있는 강화된 중립 규정을 거부할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754196)
+#### [후티가 운영하는 예멘 보건부, 시장 공격으로 7명 사망했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754195)
+#### [이란이 미국의 수중 탐사선을 나포했다고 국영 매체가 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754194)
+#### [홍수와 산사태로 인도에서 56명, 네팔에서 14명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754193)
+#### [스위스 유권자들, 중립성 규정을 강화하려는 주민발의안을 부결할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754192)
+#### [월가 주간 전망-고용 보고서와 물가 지표, 미국 금리 인상 경로와 경제 건전성 가늠할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754191)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
+#### [공화당, 이전에는 ‘안정적’으로 여겨졌던 수십 개의 미국 하원 선거구에 자금을 쏟아붓고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754190)
+#### [아프가니스탄, 파키스탄에서 넘어온 전투원 28명 사살했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754189)
 #### [영국의 번햄, 차기 총선에서 사회 복지 개혁을 추진하겠다고 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754188)
 #### [중국, 남중국해 분쟁 수역 인근에서 해군·공군 합동 훈련 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754187)
 #### [이란 군, 미국의 재공격 가능성에 대비 태세 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754186)
@@ -21,6 +65,10 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000002.SZ/total>
 #### [영국 경찰, 공군 기지 보안 강화 이후 폭발물 관련 법 위반 혐의로 남성들 체포-스카이](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754173)
 #### [강 수위가 상승하면서 인도에서 홍수와 산사태로 15명, 네팔에서 4명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754172)
+<head><meta charset="utf-8"><title>Vers : 20260927_1501 </title></head>
+<center>Vers : 20260927_1501 </center>
+<center>Vers : 20260928_0001 </center>
+<br><br><br>
 #### [러시아는 우크라이나 내 군사 시설과 선박을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754171)
 #### [영국 소재 미국 페어포드 공군 기지의 경비가 강화됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754170)
 #### [복싱 - 화이트, 블록버스터급 대결 개최 여부 불확실… 퓨리-조슈아 경기 성사 여럿 불투명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754169)
@@ -65,10 +113,6 @@
 #### [보잉, 737 MAX 착륙 항법 기능에 영향을 미치는 소프트웨어 결함 발생, 월스트리트저널 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754130)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
 #### [천연가스 파이프라인 긴급 공지: 2026년 9월 27일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754129)
-<head><meta charset="utf-8"><title>Vers : 20260927_0956 </title></head>
-<center>Vers : 20260927_0956 </center>
-<center>Vers : 20260927_1856 </center>
-<br><br><br>
 #### [트럼프, 바이든 행정부의 전기차 의무화 조치를 종료하는 연비 기준을 승인했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754128)
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754127)
 #### [볼레링, 라이벌 니에비아도마-핀니를 제치고 도로 경기 세계 챔피언 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754126)
@@ -86,6 +130,10 @@
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754114)
 #### [북아일랜드 법원, 가톨릭 지역을 지나는 오렌지 오더 행진을 일시적으로 중단시켰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754113)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754112)
+<head><meta charset="utf-8"><title>Vers : 20260927_1501 </title></head>
+<center>Vers : 20260927_1501 </center>
+<center>Vers : 20260928_0001 </center>
+<br><br><br>
 #### [영국, 10월 예산안에서 주택 구입 대출 지원 방안 확정할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754111)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754110)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754109)
@@ -130,3 +178,20 @@
 #### [트럼프 미국 대통령은 중국의 시진핑 주석이 대만에 대한 자신의 입장을 이해하고 있다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754071)
 #### [독일 장관, 대규모 국경 침입 사태에 대한 신속한 추방 조치 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754070)
 #### [노르웨이의 가스코(Gassco)는 9월 26일 13시 41분부터 9월 27일 03시 59분까지 슬레이프너(Sleipner) 가스전에서 하루 9.4 mcm 규모의 생산 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754069)
+#### [인도 선거관리위원회, 유권자 명부 변경 사항 재검토 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754068)
+#### [모터 레이싱 - 러셀, 베르스타펜을 제치고 바쿠에서 우승… 안토넬리 5위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754067)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754066)
+#### [[업데이트 1] 미시간 유권자들을 대상으로 공화당이 민주당을 ‘극단주의자’로 묘사하는 메시지를 전파했으나 반응은 엇갈렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754065)
+#### [뮌헨, 독일의 하계 올림픽 개최 후보 도시로 선정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754064)
+#### [러셀, 아제르바이잔 그랑프리 우승으로 안토넬리의 챔피언십 선두 격차 좁혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754063)
+#### [5등급 허리케인 ‘폴로’가 멕시코 해안을 위협하고 있으며, 월요일에 상륙할 것으로 예상된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754062)
+#### [방글라데시, 치명적인 홍역 유행 속에 예방접종 캠페인 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754061)
+#### [교황 레오, 프랑스에서 역대 최대 규모의 행사 개최 예정… 군중들은 평화의 메시지를 기대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754060)
+#### [강등인가, 막대한 벌금인가? 재정 규정 위반으로 맨체스터 시티가 직면한 상황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754059)
+#### [NHC 폭풍 주의보: 폴로가 극도로 위험한 5등급 허리케인으로 서북서 방향으로 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754058)
+#### [[속보] 토탈에너지스, 압셰론 유전 전체 개발에 대한 최종 투자 결정 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754057)
+#### [에트나 화산의 화산재로 인해 항공편 운항이 중단되면서 이탈리아 카타니아 공항이 폐쇄됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754056)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754055)
+#### [“무사히 살아남은 게 기적”: 키예프 주민, 러시아의 공격을 회상하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754054)
+#### [경기-주최 측, 운영 혼란에 사과…중국, 금메달 100개 돌파](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754053)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754052)
