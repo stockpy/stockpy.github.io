@@ -1,7 +1,43 @@
-<head><meta charset="utf-8"><title>Vers : 20260927_0358 </title></head>
-<center>Vers : 20260927_0358 </center>
-<center>Vers : 20260927_1258 </center>
+<head><meta charset="utf-8"><title>Vers : 20260927_0956 </title></head>
+<center>Vers : 20260927_0956 </center>
+<center>Vers : 20260927_1856 </center>
 <br><br><br>
+#### [영국의 번햄, 차기 총선에서 사회 복지 개혁을 추진하겠다고 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754188)
+#### [중국, 남중국해 분쟁 수역 인근에서 해군·공군 합동 훈련 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754187)
+#### [이란 군, 미국의 재공격 가능성에 대비 태세 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754186)
+#### [교황 레오, 프랑스 성폭력 피해자들과의 만남을 앞두고 교회에 결점을 직시할 것을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754185)
+#### [아프가니스탄, 파키스탄에서 넘어온 무장세력 28명 사살했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754184)
+#### [영국 번햄 총리, 히스로 공항 제3활주로 건설 계획 지지 거부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754183)
+#### [NHC 폭풍 주의보: 바하 캘리포니아 일부 지역과 멕시코 북서부 본토 지역에 새로운 주의보 및 경보 발령](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754182)
+#### [NHC 폭풍 주의보: 카테고리 1 허리케인 ‘오달리스’가 급속히 세력을 잃고 있음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754181)
+#### [이탈리아 카타니아 공항, 에트나 화산재로 인해 자정까지 항공편 운항 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754180)
+#### [NHC 폭풍 주의보: 페이가 남쪽으로 이동하며 현재 상태를 유지하고 있음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754179)
+#### [이란 군, 미국의 잠재적 재공격에 대비하고 있음을 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754178)
+#### [[속보] 포산 골든 밀키웨이 지능형 장비, A주 사모발행을 통해 자금 조달 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754177)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300619.SZ/total>
+#### [[속보] 절강 허다 테크 주주들, 지분 매각 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754176)
+#### [경찰, 미 공군이 사용하는 영국 페어포드 공군기지에서 중대 사건 발생을 선언](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754175)
+#### [[속보] 중국 반케, 자회사 2억 위안 대출 만기 1년 연장 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754174)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000002.SZ/total>
+#### [영국 경찰, 공군 기지 보안 강화 이후 폭발물 관련 법 위반 혐의로 남성들 체포-스카이](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754173)
+#### [강 수위가 상승하면서 인도에서 홍수와 산사태로 15명, 네팔에서 4명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754172)
+#### [러시아는 우크라이나 내 군사 시설과 선박을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754171)
+#### [영국 소재 미국 페어포드 공군 기지의 경비가 강화됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754170)
+#### [복싱 - 화이트, 블록버스터급 대결 개최 여부 불확실… 퓨리-조슈아 경기 성사 여럿 불투명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754169)
+#### [퓨리 대 조슈아 경기, 화이트가 이 대형 대결에 대해 불확실한 입장을 보이면서 성사 여부 불투명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754168)
+#### [한 연구에 따르면, 1980년대 후반 동독의 첩보 활동이 국내총생산(GDP)을 7.4% 증가시킨 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754167)
+#### [술집 총기 난사 사건으로 17명 사망, 남아공 경찰 수배에 나서](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754166)
+#### [스위스, 중립 규정 강화 및 평시 NATO와의 협력 종결에 대한 국민투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754165)
+#### [NHC 폭풍 주의보: 바하 캘리포니아 수르 지역에서는 인명과 재산을 보호하기 위한 대비 조치를 서둘러 완료해야 합니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754164)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754163)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754162)
+#### [인도 배드민턴 메달리스트, 아이치·나고야 아시안 게임이 선수들에게 “슬픈” 대회라고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754161)
+#### [문서에 따르면, 밀라노 주재 미국 총영사관 건설업체가 노동 관련 조사와 관련해 3,500만 달러를 지불하게 될 전망이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754160)
+#### [오픈AI와 앤트로픽 CEO들, 호주 AI 조사에 출석 요청받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754159)
+#### [[속보] 아르마니, LVMH 및 로레알과 지분 매각 협상 개시 예정 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754158)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754157)
+#### [파이낸셜타임스(FT) 보도에 따르면 아르마니가 LVMH 및 로레알과 지분 매각 협상을 시작할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754156)
+#### [주목할 요인 - 9월 27일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754155)
 #### [기세를 되찾은 러셀, 매주 우승을 다툴 수 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754154)
 #### [NHC 폭풍 주의보: 오달리스가 계속해서 급속히 세력을 잃고 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754153)
 #### [NHC 폭풍 주의보: NOAA 허리케인 탐사팀이 폴로가 여전히 대형 허리케인임을 확인했습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754152)
@@ -29,6 +65,10 @@
 #### [보잉, 737 MAX 착륙 항법 기능에 영향을 미치는 소프트웨어 결함 발생, 월스트리트저널 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754130)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/UAL.O/total>
 #### [천연가스 파이프라인 긴급 공지: 2026년 9월 27일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754129)
+<head><meta charset="utf-8"><title>Vers : 20260927_0956 </title></head>
+<center>Vers : 20260927_0956 </center>
+<center>Vers : 20260927_1856 </center>
+<br><br><br>
 #### [트럼프, 바이든 행정부의 전기차 의무화 조치를 종료하는 연비 기준을 승인했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754128)
 #### [미국 북서부 강 유수량은 83%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754127)
 #### [볼레링, 라이벌 니에비아도마-핀니를 제치고 도로 경기 세계 챔피언 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754126)
@@ -63,10 +103,6 @@
 #### [엑슨모빌의 졸리엣 정유소가 정전 발생 약 2주 만에 가동을 재개했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754097)
 #### [트럼프, 쿠바와 미국이 합의에 이를 것이라고 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754096)
 #### [영국 번햄 총리, 주택 건설 촉진 위해 ‘헬프 투 바이(Help to Buy)’ 제도 부활할 전망 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754095)
-<head><meta charset="utf-8"><title>Vers : 20260927_0358 </title></head>
-<center>Vers : 20260927_0358 </center>
-<center>Vers : 20260927_1258 </center>
-<br><br><br>
 #### [블룸버그 뉴스에 따르면, 아람코는 에버코어와 함께 가스 사업부 계획 수립을 진행 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754094)
 #### [[속보] 사우디 아람코, 가스 사업부 계획 수립을 위해 에버코어와 협력 중이라는 보도 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754093)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754092)
@@ -94,38 +130,3 @@
 #### [트럼프 미국 대통령은 중국의 시진핑 주석이 대만에 대한 자신의 입장을 이해하고 있다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754071)
 #### [독일 장관, 대규모 국경 침입 사태에 대한 신속한 추방 조치 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754070)
 #### [노르웨이의 가스코(Gassco)는 9월 26일 13시 41분부터 9월 27일 03시 59분까지 슬레이프너(Sleipner) 가스전에서 하루 9.4 mcm 규모의 생산 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754069)
-#### [인도 선거관리위원회, 유권자 명부 변경 사항 재검토 지시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754068)
-#### [모터 레이싱 - 러셀, 베르스타펜을 제치고 바쿠에서 우승… 안토넬리 5위](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754067)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754066)
-#### [[업데이트 1] 미시간 유권자들을 대상으로 공화당이 민주당을 ‘극단주의자’로 묘사하는 메시지를 전파했으나 반응은 엇갈렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754065)
-#### [뮌헨, 독일의 하계 올림픽 개최 후보 도시로 선정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754064)
-#### [러셀, 아제르바이잔 그랑프리 우승으로 안토넬리의 챔피언십 선두 격차 좁혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754063)
-#### [5등급 허리케인 ‘폴로’가 멕시코 해안을 위협하고 있으며, 월요일에 상륙할 것으로 예상된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754062)
-#### [방글라데시, 치명적인 홍역 유행 속에 예방접종 캠페인 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754061)
-#### [교황 레오, 프랑스에서 역대 최대 규모의 행사 개최 예정… 군중들은 평화의 메시지를 기대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754060)
-#### [강등인가, 막대한 벌금인가? 재정 규정 위반으로 맨체스터 시티가 직면한 상황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754059)
-#### [NHC 폭풍 주의보: 폴로가 극도로 위험한 5등급 허리케인으로 서북서 방향으로 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754058)
-#### [[속보] 토탈에너지스, 압셰론 유전 전체 개발에 대한 최종 투자 결정 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754057)
-#### [에트나 화산의 화산재로 인해 항공편 운항이 중단되면서 이탈리아 카타니아 공항이 폐쇄됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754056)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754055)
-#### [“무사히 살아남은 게 기적”: 키예프 주민, 러시아의 공격을 회상하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754054)
-#### [경기-주최 측, 운영 혼란에 사과…중국, 금메달 100개 돌파](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754053)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754052)
-#### [유권자들의 열기가 식어가면서 미시간주 상원 의원 선거가 공화당의 현장 조직력을 시험대에 올렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754051)
-#### [필리핀 역도 선수 델로스 산토스, 고(故) 아버지의 유산을 이어받아 아시안게임 시상대에 올랐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754050)
-#### [브라질에서 생활비 상승에 대한 불만이 루라의 재선 도전을 위태롭게 하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754049)
-#### [퓨리, 프로모터들 간의 갈등으로 조슈아와의 경기가 위기에 처했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754048)
-#### [아제르바이잔, 100억 달러 이상의 투자 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754047)
-#### [노르웨이의 가스스코, 계획된 가스 공급 중단 기간 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754046)
-#### [체스-카자흐스탄의 투르로프, FIDE 회장으로 선출… 러시아 및 지배구조 문제 주목받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754045)
-#### [러시아의 푸틴, 세르비아의 부치치와 에너지 협력 및 우크라이나 문제를 논의하기 위해 전화 회담을 가졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754044)
-#### [스위스 국립은행의 슐레겔, 폭염이 식료품 물가 상승에 미치는 영향 주시 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754043)
-#### [미시간주 유권자들을 대상으로 공화당은 민주당을 ‘극단주의자’로 묘사하는 메시지를 전파하고 있으나, 그 성과는 엇갈리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754042)
-#### [이번 주의 브레이킹뷰: 업계의 새로운 리더들](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754041)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [분석-베네수엘라 대통령, 미국 방문 후 합의도, 구체적인 선거 일정도 없이 귀국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754040)
-#### [카자흐스탄의 투르로프, FIDE 회장으로 선출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754039)
-#### [아테네에서 폭발로 건물 붕괴… 2명 사망, 4명 실종](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754038)
-#### [파리에서 인파가 몰려들며, 교황 레오의 프랑스 순방 중 최대 규모의 행사가 열릴 예정이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754037)
-#### [[업데이트 2] 스카이 뉴스 보도에 따르면, 몬조가 약 100억 파운드의 기업 가치를 기준으로 누뱅크에 매각하는 방안을 협의 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754036)
-#### [SOCAR, 토탈에너지스(TotalEnergies), XRG, ‘압셰론(Absheron)’ 가스전에 대한 최종 투자 결정 내리다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754035)
