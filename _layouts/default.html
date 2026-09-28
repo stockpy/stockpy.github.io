@@ -93,6 +93,9 @@
         <li><a href="{{ '/categories/' | append: cat_key | append: '.html' | relative_url }}"{% if page.categories == cat_key %} class="active"{% endif %}>{{ cat_label | default: cat_key }}<span class="count">{{ cat[1].size }}</span></a></li>
         {% endfor %}
       </ul>
+      <li>
+      <a href="{{ '/archive/' | relative_url }}">Archive</a>
+      </li>
     </div>
   </nav>
   <main>
