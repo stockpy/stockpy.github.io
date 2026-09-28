@@ -1,7 +1,42 @@
-<head><meta charset="utf-8"><title>Vers : 20260927_2250 </title></head>
-<center>Vers : 20260927_2250 </center>
-<center>Vers : 20260928_0750 </center>
+<head><meta charset="utf-8"><title>Vers : 20260928_0114 </title></head>
+<center>Vers : 20260928_0114 </center>
+<center>Vers : 20260928_1014 </center>
 <br><br><br>
+#### [중국의 우주 외교, 파키스탄 우주비행사를 궤도로 이끈다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754334)
+#### [[업데이트 1] 미·이란 평화 협상 교착 상태에 빠지자 유가 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754333)
+#### [[업데이트 1] 일본은행, 7월 회의록에 따르면 금리 인상 속도 가속화 필요성 논의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754332)
+#### [일본은행(BOJ) 7월 회의록, 9월 금리 인상 토대 마련](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754331)
+#### [모멘타와 스텔란티스, 동풍과 중국 합작사를 통해 지능형 주행 기술 공동 개발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754330)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6880.HK/total>
+#### [유가 상승과 금리 인상으로 아시아 증시, 신중한 흐름](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754329)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.N225>
+#### [호주의 잉지니아 커뮤니티즈, 15억 달러 규모의 인수 제안에 7개월 반 만에 최고치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754328)
+#### [1 지분 20.6%에 대한 9,066억 원 인수 제안을 거절했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754327)
+#### [모멘타, 스텔란티스와 동풍의 중국 합작사, 지능형 주행 기술 공동 개발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754326)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/6880.HK/total>
+#### [일본 기업 서비스 물가 상승률, 2년 만에 최고치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754325)
+#### [USD/JPY, 아시아 장 개장 시 지난주 고점보다 한참 낮은 수준에서 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754324)
+#### [연준의 긴축 전망이 금 가격에 부담으로 작용](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754323)
+#### [온타리오주 브룩필드의 189 MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754322)
+#### [일본은행(BOJ) 내부에서 많은 이들이 인플레이션 위험에 주목할 필요가 있다고 봤다는 사실이 7월 회의록을 통해 드러났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754321)
+#### [파이낸셜 타임스 - 9월 28일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754320)
+#### [사우디아라비아가 수출량을 늘리면서 9월 중동 지역 원유 수출이 반등했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754317)
+#### [파이낸셜 타임스(FT) 보도에 따르면, JCB의 밤포드 회장이 막내 자녀를 공동 회장으로 임명했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754319)
+#### [NZD/USD, 연초 이후 최저치에 점점 더 가까워지고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754318)
+#### [11월 30일까지의 정부 채권 입찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754316)
+#### [11월 30일까지의 신흥시장 경제 행사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754315)
+#### [NHC 폭풍 주의보: 폴로가 바하 캘리포니아 반도로 향하고 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754314)
+#### [호주의 잉지니아 커뮤니티즈, 워버그 핀커스의 개선된 인수 제안을 검토 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754313)
+#### [아시아 시장 전망-엔화 구두 개입, 미국 장기 금리 상승이 주도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754312)
+#### [펩시코 사장이 향후 5년 동안 콜롬비아에 10억 달러를 투자할 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754311)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PEP.O/total>
+#### [JCB의 앤서니 밤포드, 막내 아들 조지를 공동 의장으로 임명 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754310)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754309)
+#### [트랜살타 온타리오의 200MW 멜랑크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754308)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754307)
+#### [영국의 힐리, 재산업화 추진을 위해 국방에 중점을 둠](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754306)
+#### [아시아에서 연준의 긴축 정책이 가장 큰 타격을 줄 곳은 어디인가?: 마니시 라이차우두리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754305)
+#### [ROI-AI, 원유 거래업계의 기성 세력에 도전장: 러셀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754304)
 #### [[속보] 베이징 에스윈 컴퓨팅 테크놀로지, 글로벌 공모 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754303)
 #### [교황 레오, 프랑스에서 성폭력 피해자들과 만나 ‘특별한 순간’ 연출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754302)
 #### [[속보] 인도의 핀테크 기업 애셋그로(Assetgro), 비공개 방식으로 기업공개(IPO) 신청 - 신청서 제출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754301)
@@ -31,6 +66,10 @@
 #### [세르비아의 부치치 대통령, 10월 총선 앞두고 사임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754277)
 #### [바티칸은 레오 교황이 프랑스 생존자들과의 만남에서 사제들의 성추행을 근절하겠다고 다짐했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754276)
 #### [자이언트 판다들이 애틀랜타 동물원에 도착해 10년간 머물게 된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754275)
+<head><meta charset="utf-8"><title>Vers : 20260928_0114 </title></head>
+<center>Vers : 20260928_0114 </center>
+<center>Vers : 20260928_1014 </center>
+<br><br><br>
 #### [미국 북서부 강 유수량은 83%로 변동이 없었다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754274)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754273)
 #### [다우닝 스트리트에 따르면, 버넘 영국 총리가 노르웨이의 스토레와 회동했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754272)
@@ -65,3 +104,34 @@
 #### [영국의 번햄, 다음 총선에서 사회 복지 개혁을 공약으로 내세우겠다고 다짐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754246)
 #### [액시오스(Axios) 보도에 따르면, 앤트로픽(Anthropic)의 아모데이 CEO가 트럼프 전 대통령과 백악관에서 만찬을 가질 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754245)
 #### [노르웨이의 Gassco, 예정된 가스 공급 중단 계획 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754244)
+#### [노르웨이의 Gassco, 예정된 가스 공급 중단 계획 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754242)
+#### [연합뉴스 보도에 따르면, 한국은 우크라이나가 북한 전쟁포로 협정을 거부한 데 대해 유감을 표명했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754243)
+#### [노르웨이의 Gassco, 예정된 가스 공급 중단 계획 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754241)
+#### [[속보] 중국, 바이트댄스와 알리바바의 엔비디아 신형 칩 구매 허용 여부 검토 중 - The Information](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754240)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [‘더 인포메이션’ 보도에 따르면, 중국이 바이트댄스와 알리바바의 엔비디아 신형 칩 구매를 허용할지 검토 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754239)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754238)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754237)
+#### [SOCAR, 이탈리아 IP 네트워크 내 연료 가격 상한선 설정 방침 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754236)
+#### [이탈리아, 나폴리에서 열린 아메리카스 컵 예선 레가타에서 압도적인 승리를 거두며 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754235)
+#### [러시아, 우크라이나 내 군사 시설 및 선박을 공격했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754234)
+#### [액시오스(Axios)에 따르면 트럼프 대통령은 미국이 이번 주 이란과 회담을 가질 것으로 예상하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754233)
+#### [NHC 폭풍 주의보: 폴로가 북쪽으로 방향을 틀며 세력이 다소 강해지고 있음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754232)
+#### [아르마니, ‘진화’를 추구하는 반짝이는 컬렉션 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754231)
+#### [노르웨이의 Gassco, 예정된 가스 공급 중단 계획 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754230)
+#### [노르웨이의 Gassco, 예기치 못한 가스 공급 중단 사태에 대응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754229)
+#### [e호 열대저기압이 멕시코 남부 해안 외해에 머무는 동안 세력이 강해질 것으로 예상됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754228)
+#### [NHC 폭풍 주의보: 오달리스가 급속히 세력을 잃고 있음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754227)
+#### [NHC 폭풍 주의보: 페이가 남남동 방향으로 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754226)
+#### [러시아, 우크라이나 최대 이동통신사 공격… 데이터 센터 타격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754225)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754224)
+#### [교황 레오, 프랑스 성폭력 피해자들과의 만남을 앞두고 교회에 결점을 직시할 것을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754223)
+#### [페라리 대표 바세르, 호너와의 연결설 속 미래에 대한 추측에 답답해해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754222)
+#### [경기-태국의 선구자? 비 내리는 나고야에서 아시안게임 단거리 2관왕 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754221)
+#### [검찰, 테더와 연관된 몬태나 주 기업의 은행 계좌 압수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754219)
+#### [교황, 성폭력 피해자들과의 만남을 앞두고 교회에 결점을 직시할 것을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754220)
+#### [파키스탄 재무장관의 미국 수출입은행(Exim)과의 회담에서는 보잉 항공기 자금 조달 문제가 논의됐다고 고문이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754218)
+#### [카타르의 바르심, 아시안게임 높이뛰기 결승에서 기권](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754217)
+#### [노르웨이의 Gassco는 9월 28일 04:00부터 9월 30일 04:00까지 하루 5.3 mcm 규모의 생산 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754216)
+#### [온타리오주 브룩필드 소재 189MW 규모의 프린스 풍력발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2754215)
