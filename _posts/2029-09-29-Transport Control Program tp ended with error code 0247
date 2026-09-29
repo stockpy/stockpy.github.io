@@ -1,0 +1,51 @@
+---
+layout: post
+title: "SAP STMS 에러 해결: Transport Control Program tp ended with error code 0247"
+date: 2026-09-29 13:07:00 +0900
+categories: [SAP, Basis]
+tags: [SAP, STMS, tp-error, Basis, Troubleshooting]
+---
+
+SAP STMS에서 주로 마주치는 **Error Code 0247**은 전송 버퍼에 티켓(Transport Request)을 추가하는 과정에서 **Cofile 또는 Datafile을 정상적으로 읽거나 찾지 못해(addtobuffer has problems with data- and/or cofile)** 발생하는 대표적인 전송 오류입니다.
+
+이 문제가 발생하는 가장 흔한 원인 4가지와 해결 방법을 정리했습니다.
+
+---
+
+### 1. 소스 시스템에서 CTS가 아직 릴리즈(Release)되지 않음
+가장 먼저 확인해야 할 원인입니다. 해당 CTS가 소스 시스템에서 완전히 릴리즈되지 않은 상태에서 타겟 시스템 큐에 수동으로 추가(`Extras -> Other Requests -> Add`)하려고 하면 이 에러가 발생합니다.
+
+*   **해결 방법:** 소스 시스템의 **`SE01`** 또는 **`SE10`** 트랜잭션으로 이동하여 하위 태스크와 메인 CTS가 모두 정상적으로 **Release(V 표시)** 되었는지 확인하세요. 릴리즈가 완료되어야 실제 물리 파일이 생성됩니다.
+
+---
+
+### 2. OS 레벨 전송 파일(Cofile, Datafile) 누락
+타사 패키지(예: 인포매티카, 클릭 등)를 설치하기 위해 외부 파일을 다운로드받아 수동으로 전송 디렉토리에 넣었거나, 시스템 간 네트워크 공유(NFS/Samba) 문제로 파일 복사가 누락되었을 수 있습니다.
+
+*   **해결 방법:** SAP 서버 OS 환경에서 `/usr/sap/trans` 디렉토리 아래에 파일이 정확한 형식의 이름으로 존재하는지 확인합니다.
+    *   **Cofile 확인:** `/usr/sap/trans/cofiles/Kxxxxxx.<SID>`
+    *   **Datafile 확인:** `/usr/sap/trans/data/Rxxxxxx.<SID>`
+    *   *외부 솔루션 파일인 경우, 파일명의 접두사나 확장자가 소문자/대문자 규칙에 맞게 정확히 매칭되는지 체크하세요.*
+
+---
+
+### 3. 파일 권한(Permission) 및 소유자(Owner) 문제
+파일은 정상 위치에 존재하지만 타겟 시스템의 `tp` 프로그램이나 `<SID>adm` 계정이 해당 파일에 접근하거나 읽을 권한이 없을 때 발생합니다.
+
+*   **해결 방법:** OS 레벨에서 권한 및 소유자를 올바르게 변경해 줍니다.
+    *   **Linux/Unix 기준 명령어:**
+        ```bash
+        cd /usr/sap/trans
+        chown <SID>adm:sapsys cofiles/Kxxxxxx.<SID> data/Rxxxxxx.<SID>
+        chmod 775 cofiles/Kxxxxxx.<SID> data/Rxxxxxx.<SID>
+        ```
+    *   **Windows 기준:** 파일 속성에서 보안 탭을 확인하고 `<SID>adm` 및 `SAP_LocalAdmin` 그룹에 읽기/쓰기 권한이 부여되어 있는지, '읽기 전용'으로 체크되어 있지 않은지 확인합니다.
+
+---
+
+### 4. STMS 가상 전송 경로 및 도메인 구성 오류
+시스템 간의 전송 그룹(Transport Group) 설정이 잘못되었거나 `TRANSDIR` 파라미터가 꼬여 타겟 시스템이 소스 시스템의 파일 경로를 올바르게 바라보지 못할 때 발생합니다.
+
+*   **해결 방법:** 
+    1. `STMS` -> `Overview` -> `Systems`로 이동합니다.
+    2. 상단 메뉴에서 `SAP System` -> `Check` -> `Connection Test` 및 `Transport Tool`을 수행하여 네트워크 및 `tp` 인터페이스에 에러가 없는지 검증합니다.
