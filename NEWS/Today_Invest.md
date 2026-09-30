@@ -1,5 +1,5 @@
-<center>Vers : 20260930_0727 </center>
-<center>Vers : 20260930_1627 </center>
+<center>Vers : 20260930_1033 </center>
+<center>Vers : 20260930_1933 </center>
 <br>
 <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -77,7 +77,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <td>12210</td>
       <td>7</td>
       <td>12.0%</td>
-      <td>63</td>
+      <td>64</td>
     </tr>
     <tr>
       <th>6</th>
@@ -86,7 +86,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <td>23470</td>
       <td>12</td>
       <td>57.0%</td>
-      <td>-76</td>
+      <td>-78</td>
     </tr>
     <tr>
       <th>7</th>
@@ -95,7 +95,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <td>7870</td>
       <td>7</td>
       <td>7.0%</td>
-      <td>98</td>
+      <td>100</td>
     </tr>
     <tr>
       <th>8</th>
@@ -104,7 +104,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <td>10975</td>
       <td>5</td>
       <td>13.0%</td>
-      <td>-70</td>
+      <td>-71</td>
     </tr>
     <tr>
       <th>9</th>
@@ -113,7 +113,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <td>10275</td>
       <td>8</td>
       <td>11.0%</td>
-      <td>100</td>
+      <td>102</td>
     </tr>
     <tr>
       <th>10</th>
