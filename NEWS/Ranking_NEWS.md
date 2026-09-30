@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20260930_1629 </title></head>
-<center>Vers : 20260930_1629 </center>
-<center>Vers : 20261001_0129 </center>
+<head><meta charset="utf-8"><title>Vers : 20260930_2057 </title></head>
+<center>Vers : 20260930_2057 </center>
+<center>Vers : 20261001_0557 </center>
 <br><br><br>
 #### [1주만 사도 "상한가" 주가 급등 이상하다 했더니...시세조종 딱 걸렸다](https://m.stock.naver.com/news/ranknews/view/008/0005420603)
 #### ["경제사 새로 쓴다"…삼전닉스 초유의 상황에 개미들 '들썩' [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005337867)
