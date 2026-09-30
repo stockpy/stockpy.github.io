@@ -1,3 +1,4 @@
+---
 layout: post
 title: SAP 로그인 관련 프로파일 파라미터 정리 (암호/로그인 실패/GUI/중복 로그인)
 categories: [SAPGUI, loging, Param]
