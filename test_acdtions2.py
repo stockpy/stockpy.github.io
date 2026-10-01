@@ -63,18 +63,33 @@ MY_STOCK_PRICE, MY_PERC, MY_Target_PEC, MY_Target_Count = [], [], [], []
 #                        'KODEX 200TR' : 61,
 #                        'ACE 테슬라밸류체인액티브' : 795}
 
+# 2026-10-01
+# MY_STOCK_COUNT_Dict = {'TIGER 코스닥150' : 292,
+#                        'TIGER 반도체TOP10': 620,
+#                        'TIGER 미국필라델피아반도체나스닥' : 334,
+#                        'TIGER 골드선물' : 71,
+#                        'TIGER CD금리1년' : 5,
+#                        'KODEX 미국배당다우존스' : 267,
+#                        'KODEX 미국S&P500' : 641,
+#                        'KODEX 미국30년국채액티브(H)' : 240,
+#                        'KODEX 미국10년국채선물' : 305,
+#                        'KODEX iShares미국투자등급회사채액티브' : 272,
+#                        'KODEX 200TR' : 297,
+#                        'ACE 테슬라밸류체인액티브' : 495}
+
 MY_STOCK_COUNT_Dict = {'TIGER 코스닥150' : 292,
                        'TIGER 반도체TOP10': 620,
-                       'TIGER 미국필라델피아반도체나스닥' : 334,
+             ..          'TIGER 미국필라델피아반도체나스닥' : 334,
                        'TIGER 골드선물' : 71,
                        'TIGER CD금리1년' : 5,
-                       'KODEX 미국배당다우존스' : 267,
-                       'KODEX 미국S&P500' : 641,
-                       'KODEX 미국30년국채액티브(H)' : 240,
-                       'KODEX 미국10년국채선물' : 305,
-                       'KODEX iShares미국투자등급회사채액티브' : 272,
+                       'KODEX 미국배당다우존스' : 331,
+                       'KODEX 미국S&P500' : 563,
+                       'KODEX 미국30년국채액티브(H)' : 340,
+                       'KODEX 미국10년국채선물' : 234,
+                       'KODEX iShares미국투자등급회사채액티브' : 374,
                        'KODEX 200TR' : 297,
                        'ACE 테슬라밸류체인액티브' : 495}
+
 
 def __Read_Blog() :
 
