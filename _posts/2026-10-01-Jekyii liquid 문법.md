@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Jekyll Liquid 문법 이해하기 - site, page, post, categories, data"
+title: Jekyll Liquid 문법 이해하기
 date: 2026-10-01
-categories: [jekyii]
+categories: [general]
 tags: [Jekyll, Liquid, Markdown, site, categories, data]
 ---
 
