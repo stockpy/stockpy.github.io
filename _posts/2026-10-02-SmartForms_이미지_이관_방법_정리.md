@@ -1,8 +1,15 @@
 ---
 layout: post
-title: SmartForms "이미지(그래픽) 이관 방법 — 개별/전체 이관 및 RSTXSCRP 한계"
-categories: [general]
+title: Jekyll 블로그 운영 가이드
+categories: general
 ---
+
+
+* ---
+* layout: post
+* title: SmartForms "이미지(그래픽) 이관 방법 — 개별/전체 이관 및 RSTXSCRP 한계"
+* categories: [general]
+* ---
 
 # SmartForms 이미지(그래픽) 이관 방법 정리
 
