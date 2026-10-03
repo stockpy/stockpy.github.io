@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll Liquid 문법 이해하기
 date: 2026-10-01
-categories: general
+categories: [general]
 tags: [Jekyll, Liquid, Markdown, site, categories, data]
 ---
 
