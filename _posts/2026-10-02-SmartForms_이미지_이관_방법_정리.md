@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SmartForms 이미지(그래픽) 이관 방법 — 개별/전체 이관 및 RSTXSCRP 한계
+title: SmartForms "이미지(그래픽) 이관 방법 — 개별/전체 이관 및 RSTXSCRP 한계"
 categories: [general]
 ---
 
