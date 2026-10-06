@@ -79,7 +79,7 @@ MY_STOCK_PRICE, MY_PERC, MY_Target_PEC, MY_Target_Count = [], [], [], []
 
 MY_STOCK_COUNT_Dict = {'TIGER 코스닥150' : 292,
                        'TIGER 반도체TOP10': 620,
-             ..          'TIGER 미국필라델피아반도체나스닥' : 334,
+                       'TIGER 미국필라델피아반도체나스닥' : 334,
                        'TIGER 골드선물' : 71,
                        'TIGER CD금리1년' : 5,
                        'KODEX 미국배당다우존스' : 331,
