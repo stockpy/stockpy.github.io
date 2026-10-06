@@ -12,7 +12,7 @@ Jekyll에서 HTML을 동적으로 구성할 때는 **Liquid 템플릿 문법**�
 
 특히 다음과 같은 코드를 이해하려면 Liquid의 기본 개념을 알아야 합니다.
 
-~~~
+```
 {% assign cat_label = site.data.category_labels[cat_key] %}
 <h2 class="section-title">{{ cat_label | default: cat_key }}</h2>
 
@@ -24,24 +24,24 @@ Jekyll에서 HTML을 동적으로 구성할 때는 **Liquid 템플릿 문법**�
   </li>
   {% endfor %}
 </ul>
-~~~
+```
 
 또 다른 예:
 
-~~~
+```
 {% for post in site.categories.sso %}
   <li>
     <a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a>
     <div class="post-date">{{ post.date | date: "%Y-%m-%d" }}</div>
   </li>
 {% endfor %}
-~~~
+```
 
 이 문서에서는 `site`, `site.categories`, `site.data`, `post`, `cat`, `cat_key` 등이 무엇인지 알아봅니다.
 
 ---
 
-# 1. `{% ... %}`와 `{{ ... }}`의 차이
+# 1. "{% ... %}"와 "{{ ... }}"의 차이
 
 Liquid에서 가장 먼저 구분해야 하는 것은 두 가지 문법입니다.
 
