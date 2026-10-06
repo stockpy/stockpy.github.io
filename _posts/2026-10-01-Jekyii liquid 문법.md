@@ -12,7 +12,7 @@ Jekyll에서 HTML을 동적으로 구성할 때는 **Liquid 템플릿 문법**�
 
 특히 다음과 같은 코드를 이해하려면 Liquid의 기본 개념을 알아야 합니다.
 
-~~~liquid
+~~~
 {% assign cat_label = site.data.category_labels[cat_key] %}
 <h2 class="section-title">{{ cat_label | default: cat_key }}</h2>
 
@@ -28,7 +28,7 @@ Jekyll에서 HTML을 동적으로 구성할 때는 **Liquid 템플릿 문법**�
 
 또 다른 예:
 
-~~~liquid
+~~~
 {% for post in site.categories.sso %}
   <li>
     <a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a>
