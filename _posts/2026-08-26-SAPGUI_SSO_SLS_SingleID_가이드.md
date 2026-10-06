@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SAPGUI SSO + SLS 연동 가이드 - Corporate IdP: SingleID
+title: SAPGUI SSO + SLS 연동 가이드
 categories: sso
 ---
 
