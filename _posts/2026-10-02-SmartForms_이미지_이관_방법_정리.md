@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll 블로그 운영 가이드
+title: 스마트폼 SmartForms 이미지 이관
 categories: general
 ---
 
