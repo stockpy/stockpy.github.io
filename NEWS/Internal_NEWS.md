@@ -1,7 +1,23 @@
-<head><meta charset="utf-8"><title>Vers : 20261010_1957 </title></head>
-<center>Vers : 20261010_1957 </center>
-<center>Vers : 20261011_0457 </center>
+<head><meta charset="utf-8"><title>Vers : 20261010_2322 </title></head>
+<center>Vers : 20261010_2322 </center>
+<center>Vers : 20261011_0822 </center>
 <br><br><br>
+#### [뉴욕타임스 보도에 따르면, 법무부가 트럼프 대통령의 풀 취재 관련 TV 방송사들을 조사하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769967)
+#### [인도, 수천 명의 시위대와 ‘코크로치’ 설립자 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769966)
+#### [[종합 1] 트럼프, 러시아와의 디젤유 거래 갈등 속에서 우크라이나 젤렌스키 대통령 교체 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769965)
+#### [칠레 센티넬라 구리 광산, 파업 속 노사 양측 화요일 협상 재개 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769964)
+#### [영국 해상무역기구(UKMTO)에 따르면, 호르무즈 해협에서 유조선이 투사체에 맞아 화재가 발생했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769963)
+#### [[속보] 머크, 레미그로미그를 평가한 핵심 2B/3상 브루넬로(Brunello) 임상시험의 1년 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769962)
+#### [사우디 민간항공청에 따르면 리야드 공항에서 발생한 공격으로 최소 12명이 사망하고 309명이 부상했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769961)
+#### [[속보] 로슈, 포도막염성 황반부종 치료제 ‘바미키바트’의 새로운 3상 1년 추적 관찰 결과 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769960)
+#### [멕시코 연안에서 허리케인 사이먼이 4등급으로 세력을 강화했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769959)
+#### [[속보] 허리케인 이사야스의 피해를 복구 중인 걸프 연안 지역 사회를 위해 T-Mobile 직원 및 팀들이 통신 서비스를 복구하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769958)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/TMUS.O/total>
+#### [NHC 폭풍 주의보: 4등급 허리케인 ‘사이먼’이 북쪽으로 천천히 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769957)
+#### [NHC 폭풍 주의보: 레이첼이 북동쪽으로 빠르게 이동하면서 세력이 약간 강해지고 있음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769956)
+#### [트럼프, 우크라이나에 새로운 지도부 구성 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769955)
+#### [펜실베이니아주 이리에서 발생한 총기 난사 사건으로 9명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769954)
+#### [트럼프, 포트 후드 사형 집행 생중계 여부를 결정하겠다고 밝혀?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769953)
 #### [클리블랜드-클리프의 캐나다 철강 자회사, 법적 위협에도 불구하고 인력 감축 예정- 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769952)
 #### [UKMTO에 따르면, 아랍에미리트(UAE) 라스 알 카이마 인근에 있는 선박들에 정박지를 떠나라는 지시가 내려졌다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769951)
 #### [[속보] 버라이즌, 허리케인 이사야스 여파로 네트워크 복구 작업 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769950)
@@ -49,18 +65,3 @@
 #### [모터 레이싱-레드불의 베르스타펜, 싱가포르에서 가장 빠른 기록을 세우며 통산 50번째 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769910)
 #### [NHC 폭풍 주의보: 시몬, 시속 150마일의 강풍을 동반한 위험한 4등급 허리케인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769909)
 #### [NHC 폭풍 주의보: 오늘 저녁까지 바하 캘리포니아 반도 서해안에서 열대성 폭풍 상황이 시작될 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769908)
-#### [레드불의 베르스타펜, 싱가포르 그랑프리 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769907)
-#### [[속보] 쉘, 허리케인 이사야스 여파로 해상 상황 호전되는지 모니터링 중이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769906)
-#### [폴란드에서 4일 만에 세 번째로 발생한 청소년 칼부림 사건으로 3명 부상](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769905)
-#### [리야드 공항에서 큰 폭발음 들리며, 항공사들 추가 항공편 취소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769904)
-#### [스페인 변호사 곤살레스·두란테스가 11월 선거를 앞두고 중도 정당을 창당했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769903)
-#### [목격자와 소식통에 따르면 리야드 공항에서 큰 폭발음이 들렸다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769902)
-#### [[속보] 듀크 에너지 플로리다, 허리케인 이사야스 피해 복구 마무리… 전략적 전력망 개선으로 고객 혜택 제공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769901)
-#### [크렘린 측 보좌관은 “매우 우호적인” 통화 후, 푸틴과 트럼프 모두 먼저 전화를 끊고 싶어 하지 않았다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769900)
-#### [라이더들, 지로 디 롬바르디아 개막 전 안전 시위 벌여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769899)
-#### [필립스, 리콜 문제를 둘러싼 주주들과의 네덜란드 법정 공방에서 승소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769898)
-#### [모터 레이싱?해밀턴과 베르스타펜, “싱가포르는 스프린트 경주에 적합하지 않다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769897)
-#### [NHC 폭풍 주의보: 사이먼이 시속 150마일의 강풍을 동반하며 계속해서 급속히 세력을 키우고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769896)
-#### [NHC 폭풍 주의보: 레이첼이 멕시코 바하 캘리포니아 방향으로 동북동쪽으로 빠르게 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769895)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769894)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769893)
