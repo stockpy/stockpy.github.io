@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20261011_1633 </title></head>
-<center>Vers : 20261011_1633 </center>
-<center>Vers : 20261012_0133 </center>
+<head><meta charset="utf-8"><title>Vers : 20261011_2032 </title></head>
+<center>Vers : 20261011_2032 </center>
+<center>Vers : 20261012_0532 </center>
 <br><br><br>
 #### ['코리아 할인'에 삼성전자 주식 던졌다…외인 지분율 금융위기 이후 최저](https://m.stock.naver.com/news/ranknews/view/008/0005424534)
 #### [‘75만→32만원’, 아직도 바닥이 아냐?…현대차 주가 도대체 어디까지 [종목Pick]](https://m.stock.naver.com/news/ranknews/view/016/0002707647)
