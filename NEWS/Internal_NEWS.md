@@ -1,7 +1,70 @@
-<head><meta charset="utf-8"><title>Vers : 20261011_0420 </title></head>
-<center>Vers : 20261011_0420 </center>
-<center>Vers : 20261011_1320 </center>
+<head><meta charset="utf-8"><title>Vers : 20261011_1054 </title></head>
+<center>Vers : 20261011_1054 </center>
+<center>Vers : 20261011_1954 </center>
 <br><br><br>
+#### [[속보] 한소제약, EMA가 아우몰레르티닙 시판 허가 신청 심사 착수했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770036)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/3692.HK/total>
+#### [트럼프, 석유 시설 공격 이후 젤렌스키 축출을 위한 우크라이나 선거 실시 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770035)
+#### [교황 레오, 폐에 생긴 작은 종양 제거 수술 받을 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770034)
+#### [레오 교황, 초기 단계 폐 결절 발견…수술 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770033)
+#### [젤렌스키 대통령, “러시아가 에너지 시설에 대한 공격을 중단하면 우크라이나도 정유소에 대한 공습을 중단할 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770032)
+#### [허리케인 사이먼, 멕시코 연안에서 대형 허리케인으로 발달할 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770031)
+#### [예멘 후티 반군, 리야드 테러 사건 이후 사우디 공항에 대한 경고 재차 제기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770030)
+#### [인도, 선거관리위원장 반대 시위 지속… ‘바퀴벌레’로 불린 청년 지도자들 석방](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770029)
+#### [이팩스 통신에 따르면, 러시아는 우크라이나 내 4개 마을을 점령했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770028)
+#### [?ICG, 버즈 빙고 매각 검토 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770027)
+#### [NHC 폭풍 주의보: 극도로 위험한 허리케인 사이먼의 눈벽이 멕시코 중서부 해안 바로 인근에 위치해 있음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770026)
+#### [NHC 폭풍 주의보: 레이첼이 바하 캘리포니아와 미국 남서부 일부 지역에 계속해서 폭우와 돌풍을 몰고 오고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770025)
+#### [폴란드, 경찰이 총리와 국방장관에 대한 테러 가능성 관련 정보를 입수했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770024)
+#### [[단독] 소식통에 따르면, INWIT 투자자들이 잠재적인 비상장화를 위한 자금 조달을 준비 중이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770023)
+#### [폴란드 측은 경찰이 총리와 국방장관에 대한 테러 가능성에 대한 정보를 입수했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770022)
+#### [하얼빈제약 사장, 수사 받아 구금](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770021)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600664.SS/total>
+#### [[속보] 하이스코 제약 이사회, 회장 선출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770020)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002653.SZ/total>
+#### [[속보] 상하이 하이신 최대주주, 지분 10% 양도 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770019)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600851.SS/total>
+#### [[속보] 상하이 야오화 필킹턴 글래스, 주주 측이 지분 매각을 계획 중이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770018)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600819.SS/total>
+#### [오토바이 경주 - 베제키, 페르난데스를 간발의 차로 제치고 인도네시아 그랑프리 우승… 마틴, 챔피언십 선두 자리 탈환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770017)
+#### [[속보] 윌링 뉴 에너지, 주식 거래 재개 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770016)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002667.SZ/total>
+#### [[속보] 베이부만항, 주식 거래 재개 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770015)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000582.SZ/total>
+#### [[속보] 티안펑 증권의 자회사와 파트너사, 합작법인에 자본 투입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770014)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601162.SS/total>
+#### [[속보] 포커스 미디어의 신차오 미디어 인수, 조건부 승인 획득](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770013)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002027.SZ/total>
+#### [[속보] 무위안푸드, 9월 돼지고기 매출액 전년 동기 대비 6.0% 감소했다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770012)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002714.SZ/total>
+#### [[속보] 두크 미디어 주주, 보유 지분 3% 매각 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770011)
+#### [무대에서 거리까지, Z세대 시위자 네하 보라, 인도 청년 불만의 새로운 얼굴](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770010)
+#### [[속보] 폭스콘 인더스트리얼 인터넷, 미국 ITC가 비코르의 특허 침해 주장과 관련해 제337조 조사에 착수했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770009)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601138.SS/total>
+#### [[속보] 절강 롄샹 스마트 홈 최대주주, 지분 매각 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770008)
+#### [베제키, 페르난데스를 간발의 차로 제치고 인도네시아 그랑프리 우승… 마틴, 챔피언십 선두 자리 탈환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770007)
+#### [리야드 공항 테러 발생 후 사우디 증시 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770006)
+#### [예멘의 후티 반군이 항공사와 여행객들에게 사우디 공항 이용을 자제할 것을 재차 경고했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770005)
+#### [러시아의 얀덱스, 블라디미르 지역 데이터 센터가 드론 공격으로 가동을 중단했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770004)
+#### [BUZZ-IMM: 재정 우려 고조 속에 달러 매수세가 확대됨; 유로와 호주달러는 대거 매도됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770003)
+#### [사우디 에너지부, 리야드에서 WPC 에너지 회의 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770002)
+#### [머스크, 암바니의 사상 최대 규모 지오(Jio) 기업공개(IPO)를 며칠 앞두고 인도에서 저렴한 스타링크 서비스를 제공하겠다고 약속했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770001)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [노르웨이의 Gassco는 10월 11일 06:00부터 10월 12일 04:00까지 카르스토(Karstø) 가스전에서 일일 12.6 mcm 규모의 생산 중단을 실시할 예정입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2770000)
+#### [NHC 폭풍 주의보: 극도로 위험한 허리케인 사이먼이 멕시코 중서부 해안으로 접근 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769999)
+#### [방가 총재, “세계은행이 수십 개국과 위기 지원에 대해 협의 중”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769998)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769997)
+#### [NHC 폭풍 주의보: 오늘 밤 바하 캘리포니아와 미국 남서부 일부 지역에 폭우가 내릴 것으로 예상됩니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769996)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769995)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769994)
+#### [인도 수도, 선거관리위원장 반대 시위 2일째를 앞두고 긴장 고조](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769993)
+#### [QNB Corp에 잘못 태그된 경보 철회됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769992)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/QNBC.O/total>
+#### [인도 총영사관, “아랍에미리트(UAE) 연안에서 발생한 사고로 실종됐던 인도인 선원 22명 전원이 구조되어 무사하다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769991)
+#### [변호사에 따르면, 인도의 ‘바퀴벌레’ 운동 지도자가 구금에서 풀려났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769990)
+#### [BP, 나키카 및 썬더 호스 플랫폼에서 생산 재개에 박차](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769989)
+#### [[속보] BP, 기상 상황이 호전됨에 따라 인력을 복귀시키고 나 키카(Na Kika) 및 썬더 호스(Thunder Horse) 플랫폼에서 생산을 안전하게 재개하기 위해 노력 중이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769988)
+#### [주목할 요인 - 10월 11일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769987)
 #### [JPMorgan, 유럽 자산운용 시장 성장에 주목 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769986)
 #### [인도, 2047년까지 생산 능력 6억 400만 톤 달성을 목표로 하는 철강 정책 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769985)
 #### [방콕에서 열리는 IMF·세계은행 회의, 중동 전쟁과 높은 부채 수준이 주요 의제로 다뤄질 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769984)
@@ -12,6 +75,10 @@
 #### [미군, 이란 봉쇄를 뚫으려던 화물선을 무력화했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769979)
 #### [유럽 상업 항해 성공적으로 마쳐…위험 요인에도 불구하고 정기 운항 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769978)
 #### [미군은 이란 봉쇄를 뚫으려던 화물선을 무력화했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769977)
+<head><meta charset="utf-8"><title>Vers : 20261011_1054 </title></head>
+<center>Vers : 20261011_1054 </center>
+<center>Vers : 20261011_1954 </center>
+<br><br><br>
 #### [트럼프는 민주당 소속 페터만 상원의원이 공화당원으로 전환하는 모습을 보고 싶다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769976)
 #### [루비오는 미국이 최근 사우디아라비아를 겨냥한 공격들을 강력히 규탄한다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769975)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769974)
@@ -65,10 +132,6 @@
 #### [이란 혁명수비대는 호르무즈 해협에서 유조선이 기뢰에 부딪힌 뒤 폭발했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769929)
 #### [이사야스 태풍이 다가오면서 미국 걸프 연안 석유 생산량의 약 69%가 중단됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769928)
 #### [트럼프, 젤렌스키에게 러시아 정유소 공격을 “당장 그만두는 게 좋을 것”이라며 촉구, 신임 지도자에게 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769927)
-<head><meta charset="utf-8"><title>Vers : 20261011_0420 </title></head>
-<center>Vers : 20261011_0420 </center>
-<center>Vers : 20261011_1320 </center>
-<br><br><br>
 #### [메르세데스의 안토넬리, “차량은 더 나은 상태”라고 밝혔으나 러셀은 “한 걸음 후퇴”했다고 평가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769926)
 #### [미국, 미얀마 군부와 연계된 사업가의 딸에 대한 제재 해제](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769925)
 #### [세계보건기구(WHO)는 러시아가 연구소에서 사망자가 발생했음을 확인했으나, 페스트 확진 사례는 보고되지 않았다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769924)
@@ -79,6 +142,10 @@
 #### [[속보] 셰브론, 허리케인 이사야스 관련 성명… “멕시코만 내 4개 유전에서 생산 지속, 5개 시설 가동 중단”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769919)
 #### [러시아는 자국 드론이 키예프의 데이터 처리 센터와 화물선을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769918)
 #### [사이클-프랑스의 신동 세이샤스, 지로 디 롬바르디아 우승… 생애 첫 ‘모뉴먼트’ 제패](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769917)
+<head><meta charset="utf-8"><title>Vers : 20261011_1054 </title></head>
+<center>Vers : 20261011_1054 </center>
+<center>Vers : 20261011_1954 </center>
+<br><br><br>
 #### [모터 레이싱-노리스, 충돌로 맥라렌의 스프린트 우승 희망이 무산되자 사과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769916)
 #### [영국 한 동물원, 호랑이 우리에서 ‘심각한 사고’ 발생했다고 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769915)
 #### [프랑스의 신동 세이샤스가 지로 디 롬바르디아에서 우승하며 생애 첫 ‘모뉴먼트’ 타이틀을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769914)
@@ -131,3 +198,13 @@
 #### [EU 의장국은 2028~2034년 EU 예산을 8% 삭감해 1조 6천억 유로로 책정할 것을 제안했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769868)
 #### [포르투갈 정부가 REN 지분 5.3%를 매입하며 지분율을 19%로 높였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769867)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/0656.HK/total>
+#### [오토바이 경주 - 마르케스, 인도네시아 그랑프리 스프린트 우승으로 챔피언십 선두 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769866)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769865)
+#### [인도, 선거관리위원장 반대 시위 진압 위해 청년 시위 지도자 구금](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769864)
+#### [‘바퀴벌레’라는 비난에서 시위 지도자로: 인도의 딥케, 모디 정부에 도전장을 내밀다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769863)
+#### [‘바퀴벌레’라는 비난에서 시위 지도자로: 인도의 딥케, 모디 정부에 도전장을 내밀다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769862)
+#### [마르케스, 인도네시아 그랑프리 스프린트 우승으로 챔피언십 선두 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769861)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769860)
+#### [조지아주 더글라스 소재 주택에서 5명 총격 사망, 경찰 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769859)
+#### [배리어, 대양 요트 경주계의 거물을 타고 ‘루트 뒤 뤼’에서 역사를 쓸 준비 완료](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769858)
+#### [조지아주 더글라스의 한 주택에서 5명이 총에 맞아 사망했다고 경찰이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2769857)
