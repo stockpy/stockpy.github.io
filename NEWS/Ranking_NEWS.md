@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20261014_1818 </title></head>
-<center>Vers : 20261014_1818 </center>
-<center>Vers : 20261015_0318 </center>
+<head><meta charset="utf-8"><title>Vers : 20261014_2148 </title></head>
+<center>Vers : 20261014_2148 </center>
+<center>Vers : 20261015_0648 </center>
 <br><br><br>
 #### ["뉴욕 택시기사들도 코스피 얘기, 韓 증시 1년 안에 다시 9000 돌파"…'월가 족집게' 콕 집었다](https://m.stock.naver.com/news/ranknews/view/277/0005828410)
 #### [이대로 가면 '육천피' 붕괴…"개미들, 물타기 할 돈도 없다" [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005342649)
