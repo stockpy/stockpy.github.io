@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20261015_1840 </title></head>
-<center>Vers : 20261015_1840 </center>
-<center>Vers : 20261016_0340 </center>
+<head><meta charset="utf-8"><title>Vers : 20261015_2147 </title></head>
+<center>Vers : 20261015_2147 </center>
+<center>Vers : 20261016_0647 </center>
 <br><br><br>
 #### [“그 돈이 전재산이란 말이에요”…하락장 못 견딘 이들, 20대가 가장 많았다](https://m.stock.naver.com/news/ranknews/view/009/0005749340)
 #### ["폭락 전 93조 팔아치웠다" 허탈…남은 개미들만 '피눈물' [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005343109)
