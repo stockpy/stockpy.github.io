@@ -2,7 +2,7 @@
 layout: post
 title: "Talking About My Coffee Habit"
 date: 2026-09-09
-categories: [English, Speaking]
+categories: [English]
 tags: [OPIc, Daily English, Coffee, Caffeine]
 ---
 
