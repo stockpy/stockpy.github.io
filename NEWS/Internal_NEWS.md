@@ -1,7 +1,28 @@
-<head><meta charset="utf-8"><title>Vers : 20261017_1549 </title></head>
-<center>Vers : 20261017_1549 </center>
-<center>Vers : 20261018_0049 </center>
+<head><meta charset="utf-8"><title>Vers : 20261017_1811 </title></head>
+<center>Vers : 20261017_1811 </center>
+<center>Vers : 20261018_0311 </center>
 <br><br><br>
+#### [미국 북서부 강 유수량은 85%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778023)
+#### [NHC 폭풍 주의보: 트루디가 세력에 큰 변화 없이 북서쪽으로 계속 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778022)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778021)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778020)
+#### [밀라노 도심에서 이탈리아 경찰과 시위대가 충돌했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778019)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778018)
+#### [[속보 1] 벨기에, “이스라엘 정착민들이 요르단강 서안에서 팔레스타인인과 유럽 외교관들을 공격했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778017)
+#### [[속보 1] NDTV 보도에 따르면, 인도 콜카타에서 열린 종교 축제에서 발생한 압사 사고로 최소 17명이 사망했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778016)
+#### [리스본에서 주택 문제와 생활비 인상을 요구하며 수만 명이 행진했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778015)
+#### [NDTV 보도에 따르면, 인도 콜카타에서 열린 종교 축제에서 발생한 압사 사고로 최소 17명이 사망했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778014)
+#### [루마니아 F-16 전투기, 루마니아 영해 상공에서 드론 2대 격추](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778013)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778012)
+#### [16 전투기들이 자국 영해 상공에서 드론 2대를 격추했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778011)
+#### [시위 이후 레코르누 총리, “프랑스는 폭력에 굴하지 않을 것”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778010)
+#### [체코 바비스 총리, 상원 선거에서 차질을 빚다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778009)
+#### [알바니아 시위대, 경찰과 충돌… 최루탄과 화염병 투척](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778008)
+#### [러시아, 우크라이나 제철소·전력 인프라·선박을 타격했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778007)
+#### [스페인의 극좌 진영이 선거를 앞두고 단결에 실패하면서, 집권 유지 가능성이 위태로워졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778006)
+#### [벨기에, “요르단강 서안 정착민들이 팔레스타인인과 서방 외교관들을 공격했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778005)
+#### [학생 시위가 격화되자 알바니아 경찰이 고무탄을 발사했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778004)
+#### [파리 경찰, 생활비 인상 반대 시위대에 발포하고 최루탄을 발사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778003)
 #### [분석-트럼프-젤렌스키 간 갈등, 키예프에 대한 핵심 지원에 위협이 되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778002)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778001)
 #### [예스뱅크 2분기 순이익 증가했으나, 추가 항소 가능성 고려해 AT1 관련 판결 반영되지 않아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778000)
@@ -41,26 +62,3 @@
 #### [우크라이나, 스타링크 제한으로 요격 미사일 사용 불가…미국과 협의 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777966)
 #### [스텔란티스, 유럽과 미국에서 엔지니어 수백 명 추가 채용 계획 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777965)
 #### [RIA 통신에 따르면, 우크라이나의 드론 공격으로 러시아 브랸스크 주에서 한 남성이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777964)
-#### [인도 HDFC 은행, 2분기 순이익 4.7% 증가…바루차 부사장 사임 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777963)
-#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777962)
-#### [튀니지 국민들, 사이드 대통령에 반대해 수년 만에 최대 규모의 시위 벌여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777961)
-#### [인도 식품 규제 당국, 유아식 내 첨가 당분 사용 금지 제안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777960)
-#### [물가 상승에 항의하는 시위 도중 프랑스 경찰이 최루탄을 발사했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777959)
-#### [우크라이나 중앙은행 총재, IMF에서 러시아 대표의 발언 도중 퇴장한 것을 환영](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777958)
-#### [인도 주 식품안전 당국, 유통기한이 지난 식품 조사에서 블링크잇·릴라이언스 임원들 실명 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777957)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PEP.O/total>
-#### [인도 ICICI 은행, 2분기 순이익 20.1% 증가…예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777956)
-#### [이집트의 시시 대통령, 자신의 임기가 2030년에 끝날 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777955)
-#### [우크라이나는 동부 도시 도브로필리아가 여전히 키예프의 통제 하에 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777954)
-#### [이례적으로 강한 엘니뇨 현상의 영향으로 캘리포니아 연안에서 외래종이 출현했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777953)
-#### [공화당의 중간선거 전망이 어두워지자 트럼프, 측근들을 탓하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777952)
-#### [분석-트럼프-젤렌스키 간 갈등, 키예프에 대한 핵심 지원에 위협이 되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777951)
-#### [이번 주 브레이킹뷰스: 혁신에 대한 열망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777950)
-#### [폐암 수술을 받은 레오 교황, 토요일에 퇴원 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777949)
-#### [물가 상승과 사회적 긴장에 항의하는 프랑스 시위대, 거리로 쏟아져 나와](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777948)
-#### [인도 주 식품안전 당국, 유통기한이 지난 식품 조사에서 블링크잇·릴라이언스 임원들 실명 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777947)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PEP.O/total>
-#### [교황 레오, 퇴원 예정 - 바티칸](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777946)
-#### [러시아는 우크라이나의 마을 8곳을 추가로 점령했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777945)
-#### [젤렌스키 대통령은 러시아가 밤새 우크라이나의 에너지 시설 15곳 이상을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777944)
-#### [앤트로픽(Anthropic)의 클라크는 AI의 영향력이 빠르게 확대되고 있으며, 이는 미국 GDP를 크게 끌어올릴 수 있다고 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777943)
