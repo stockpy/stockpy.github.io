@@ -1,7 +1,17 @@
-<head><meta charset="utf-8"><title>Vers : 20261017_1811 </title></head>
-<center>Vers : 20261017_1811 </center>
-<center>Vers : 20261018_0311 </center>
+<head><meta charset="utf-8"><title>Vers : 20261017_2037 </title></head>
+<center>Vers : 20261017_2037 </center>
+<center>Vers : 20261018_0537 </center>
 <br><br><br>
+#### [미국 FDA, 리들 US가 리스테리아 오염 위험으로 젤라텔리 커피 및 바닐라 젤라토를 리콜한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778033)
+#### [천연가스 파이프라인 긴급 공지: 2026년 10월 18일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778032)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778031)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778030)
+#### [레바논, 미국 회담에서 이스라엘의 긴장 고조 중단을 촉구하기 위해 군사 대표단을 파견할 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778029)
+#### [우크라이나 외무장관은 러시아가 점령한 이 마을이 굶주린 주민들이 있는 ‘죽음의 덫’이라고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778028)
+#### [밀라노와 볼로냐에서 이탈리아 경찰과 시위대가 충돌](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778027)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778026)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778025)
+#### [멕시코의 페멕스(Pemex), 해외 구매자 대상 11월 원유 가격 책정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778024)
 #### [미국 북서부 강 유수량은 85%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778023)
 #### [NHC 폭풍 주의보: 트루디가 세력에 큰 변화 없이 북서쪽으로 계속 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778022)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778021)
@@ -52,13 +62,3 @@
 #### [튀니지 국민들, 사이드 대통령에 반대해 수년 만에 최대 규모의 시위 벌여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777976)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777975)
 #### [젤렌스키 대통령이 이웃 국가들에 곡물 수송을 통과시켜 줄 것을 요청했다고 헝가리의 마자르 총리가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777974)
-#### [티라나에서 알바니아 반정부 시위대가 경찰과 충돌했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777973)
-#### [NHC 폭풍 주의보: 트루디가 북서쪽으로 이동하며 현재 상태를 유지하고 있음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777972)
-#### [젤렌스키 대통령은 G20 정상회의에서 3국 정상회담이 열릴 가능성이 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777971)
-#### [[업데이트 1] 앤트로픽의 클라크, 정책 입안자들에게 “AI가 급속히 발전하고 있으며 미국 GDP를 크게 끌어올릴 수 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777970)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777969)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777968)
-#### [젤렌스키 대통령, “우크라이나와 미국의 평화 협상 대표들이 다음 주에 만날 수 있을 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777967)
-#### [우크라이나, 스타링크 제한으로 요격 미사일 사용 불가…미국과 협의 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777966)
-#### [스텔란티스, 유럽과 미국에서 엔지니어 수백 명 추가 채용 계획 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777965)
-#### [RIA 통신에 따르면, 우크라이나의 드론 공격으로 러시아 브랸스크 주에서 한 남성이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777964)

@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20261017_1811 </title></head>
-<center>Vers : 20261017_1811 </center>
-<center>Vers : 20261018_0311 </center>
+<head><meta charset="utf-8"><title>Vers : 20261017_2037 </title></head>
+<center>Vers : 20261017_2037 </center>
+<center>Vers : 20261018_0537 </center>
 <br><br><br>
 #### ["월요일엔 사도 될까"…폭락장 버틴 개미들에 전문가 조언은](https://m.stock.naver.com/news/ranknews/view/215/0001269505)
 #### ["7만전자·20만닉스" 외친 애널..."신기루처럼 없어질 거품" 또 모진 전망, 왜?](https://m.stock.naver.com/news/ranknews/view/014/0005590503)
