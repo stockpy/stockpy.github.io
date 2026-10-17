@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20261017_2037 </title></head>
-<center>Vers : 20261017_2037 </center>
-<center>Vers : 20261018_0537 </center>
+<head><meta charset="utf-8"><title>Vers : 20261017_2239 </title></head>
+<center>Vers : 20261017_2239 </center>
+<center>Vers : 20261018_0739 </center>
 <br><br><br>
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778044)
+#### [두보아, 2라운드에서 워들리를 KO로 꺾고 WBO 헤비급 타이틀 방어에 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778043)
+#### [수년 만에 최악의 소요 사태 속 프랑스 도시들에서 발생한 약탈 및 방화 사건](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778042)
+#### [버지니아주, 홍역 확진 사례 보고…잠재적 노출자 추적 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778041)
+#### [로그네인, 1923년 이후 영국 최연소 챔피언 기수로 등극](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778040)
+#### [[속보] 버지니아주 보건당국, 북서부 지역에서 발생한 홍역 확진 사례 조사 중이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778039)
+#### [모스크바 시장은 우크라이나 드론 약 200대가 도시로 향하던 중 격추되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778038)
+#### [NHC 폭풍 주의보: 허리케인 탐사기가 트루디의 세기가 약간 더 강해진 것을 확인했습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778037)
+#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas의 최신 파이프라인 현황 (2026년 10월 17일)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778036)
+#### [과테말라의 저명한 반부패 변호사, 총격 사건으로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778035)
+#### [레바논, 미국 회담에서 군사 대표단이 이스라엘의 공격 중단을 강력히 촉구할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778034)
 #### [미국 FDA, 리들 US가 리스테리아 오염 위험으로 젤라텔리 커피 및 바닐라 젤라토를 리콜한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778033)
 #### [천연가스 파이프라인 긴급 공지: 2026년 10월 18일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778032)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778031)
@@ -51,14 +62,3 @@
 #### [방글라데시 해변 리조트 화재로 최소 10명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777987)
 #### [UKMTO, 예멘 알무칼라 남동쪽 140해리 지점에서 발생한 사건 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777986)
 #### [이란 혁명수비대, 호르무즈 해협에서 유조선 2척이 기뢰에 부딪혔다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777985)
-#### [알바니아 Z세대 의원, 시위 지지하며 라마 총리에게 등을 돌렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777984)
-#### [메티인베스트, “러시아가 우크라이나 자포리자스탈 제철소를 다시 공격했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777983)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777982)
-#### [헝가리 마자르 총리, “젤렌스키 대통령이 이웃 국가들에 곡물 수송을 허용해 달라고 요청했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777981)
-#### [중국 중앙은행 총재, 재정 위험에 대한 IMF의 더 철저한 감시를 지지한다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777980)
-#### [물가 상승에 대한 프랑스 시위 와중에 리옹 관광청에 방화 사건 발생 - BFMTV](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777979)
-#### [젤렌스키, G20 정상회의에서 미국 및 러시아와 회담 희망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777978)
-#### [우크라이나, 러시아가 주장하는 영토 점령은 “환상”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777977)
-#### [튀니지 국민들, 사이드 대통령에 반대해 수년 만에 최대 규모의 시위 벌여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777976)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777975)
-#### [젤렌스키 대통령이 이웃 국가들에 곡물 수송을 통과시켜 줄 것을 요청했다고 헝가리의 마자르 총리가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777974)
