@@ -1,7 +1,30 @@
-<head><meta charset="utf-8"><title>Vers : 20261018_2010 </title></head>
-<center>Vers : 20261018_2010 </center>
-<center>Vers : 20261019_0510 </center>
+<head><meta charset="utf-8"><title>Vers : 20261018_2225 </title></head>
+<center>Vers : 20261018_2225 </center>
+<center>Vers : 20261019_0725 </center>
 <br><br><br>
+#### [[속보] 젠탈리스 파마슈티컬스, 사이클린 E1 양성 전립선암 환자 대상 아제노세르티브 치료 시 전체 생존 기간 중앙값 15.8개월 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778198)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/ZNTL.O/total>
+#### [트럼프 대통령이 러시아에 대한 제재를 유예한 후 브렌트유 선물 <LCOc1>이 배럴당 1달러 하락한 108.86달러를 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778197)
+#### [키예프 시장, “러시아의 공습으로 우크라이나 키예프에서 1명 사망, 2명 부상”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778196)
+#### [RBNZ의 금리 인상 전망에 힘입어 NZD/USD 환율이 강세를 보이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778195)
+#### [‘말라바르 골드 앤 다이아몬드’로 잘못 태그된 경보 철회됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778194)
+#### [블룸버그 뉴스에 따르면, AI 클라우드 기업 Nscale이 기업공개(IPO) 평가액 문제로 투자자들의 반발을 겪고 있다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778193)
+#### [[속보] AI 클라우드 기업 Nscale, 기업공개(IPO) 평가액 문제로 투자자들의 반발에 직면 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778192)
+#### [호주의 챌린저, 일본 다이이치 생명 계열사로부터 인수 제의 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778191)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8750.T/total>
+#### [에버코어, 던과 나타라지를 공동 대표로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778190)
+#### [브라질 대선 후보들을 지지하는 지지자들이 대규모 집회를 열었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778189)
+#### [호주의 챌린저, 일본 다이이치 생명 계열사로부터 인수 제안을 받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778188)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8750.T/total>
+#### [월요일 초반, AUD/EUR 거래량 급증으로 AUD/USD 환율이 급등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778187)
+#### [[속보] 에버코어, 나이젤 던과 나빈 나타라지를 2027년 1월 1일부로 공동 대표로 선임](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778186)
+#### [트럼프, 러시아 제재 유예 조치는 러시아를 협상 테이블에 붙잡아 두기 위한 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778185)
+#### [이란 혁명수비대(IRGC) 해군은 호르무즈 해협에서 유조선 한 척이 기뢰에 부딪혀 화재가 발생했다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778184)
+#### [NHC 폭풍 주의보: 트루디는 오늘 밤 늦게 급속히 세력이 약화될 것으로 예상됩니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778183)
+#### [천연가스 파이프라인 긴급 공지: 2026년 10월 19일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778182)
+#### [유럽의 여러 분야에서 문제가 불거지면서 유로/달러 환율이 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778181)
+#### [파이낸셜타임스(FT) 보도에 따르면, 뉴욕의 에버코어가 던과 나타라지를 공동 대표로 임명했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778180)
+#### [[속보] 더그 버거론, 에단 앨런에 11월 4일 연례 주주총회 전에 2027년 1분기 실적 발표할 것을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778179)
 #### [주말 뉴스-프랑스 시위, 타카이치 지지율 하락, 미국-우크라이나](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778178)
 #### [[속보] 앤트로픽, 지분의 5%를 공익 기금에 기부하기로 결정… 기업 가치가 50% 상승할 때마다 추가로 2%씩 기부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778177)
 #### [루비오, 트럼프 대통령이 러시아 제재 여부를 검토하는 데 최대 60일이 걸릴 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778176)
@@ -42,26 +65,3 @@
 #### [정착민들이 외교관들을 공격한 사건 이후 미국 관리들이 팔레스타인 마을을 방문했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778141)
 #### [WAM 보도에 따르면, 아랍에미리트(UAE) 부통령이 아부다비에서 사우디 장관과 지역 정세에 대해 논의했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778140)
 #### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778139)
-#### [젤렌스키 대통령은 미국 특사 위트코프, 쿠슈너와 대화를 나눴다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778138)
-#### [리투아니아, 스타링크 방화 미수 사건이 러시아와 연계된 사보타주라고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778137)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
-#### [트럼프, 이스라엘 총선에서 네타냐후 지지 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778136)
-#### [트럼프, 이스라엘 총선에서 네타냐후 지지 표명…트루스 소셜 게시물](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778135)
-#### [NHC 폭풍 주의보: 트루디가 오늘 오후 멕시코 해안에서 멀어질 것으로 예상됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778134)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778133)
-#### [블룸버그 뉴스에 따르면, 젤렌스키 대통령은 평화 회담과 관련해 위트코프, 쿠슈너와 논의 중이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778132)
-#### [러시아는 우크라이나 오데사 항구 인근에서 군사 물자를 실은 선박을 공격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778131)
-#### [영국 재무부, 예산 유출 차단 위해 새로운 보안 조치 도입 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778130)
-#### [젤렌스키 대통령, “미국이 일시 중단했던 우크라이나와의 정보 공유를 재개했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778129)
-#### [허리케인 트루디가 멕시코 태평양 연안을 강타하고 있지만, 오늘 밤에는 세력이 약해질 전망이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778128)
-#### [알바니아 총리, 시위가 정부에 대한 위협이 아니라 EU 가입에 위협이 된다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778127)
-#### [[속보] 오만 항공과 핀에어, 핀란드·오만·호주 간 연결성 강화를 위한 코드셰어 운항 개시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778126)
-#### [우크라이나 외무부는 자국 드론이 리투아니아 상공을 우회했을 가능성에 대해 “유감”을 표명했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778125)
-#### [월가 주간 전망-AI 랠리가 주춤하면서 주식 시장의 관심은 실적 발표로 쏠리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778124)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/CRWV.O/total>
-#### [분석-카니 총재의 송유관 추진이 캐나다 석유 산업의 일자리 호황을 되살리기는 어려울 것으로 보인다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778123)
-#### [서울의 한 신문 보도에 따르면, 삼성전자가 엔비디아의 차세대 메모리 칩 생산에 TSMC의 기술을 활용할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778122)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/MU.O/total>
-#### [프랑스 리모주에서 화재로 큰 피해를 입은 시청이 노트르담 대성당의 기억을 되살리고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778121)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778120)
-#### [NHC 폭풍 주의보: 트루디가 멕시코 해안을 따라 북서쪽으로 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778119)
