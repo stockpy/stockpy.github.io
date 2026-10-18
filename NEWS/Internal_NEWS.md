@@ -1,7 +1,18 @@
-<head><meta charset="utf-8"><title>Vers : 20261017_2239 </title></head>
-<center>Vers : 20261017_2239 </center>
-<center>Vers : 20261018_0739 </center>
+<head><meta charset="utf-8"><title>Vers : 20261018_0020 </title></head>
+<center>Vers : 20261018_0020 </center>
+<center>Vers : 20261018_0920 </center>
 <br><br><br>
+#### [서호주 연안에서 그린피스의 시위가 벌어진 후 우드사이드 천연가스 프로젝트 사업이 일시 중단됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778055)
+#### [영국, 겨울을 앞두고 응급 진료 역량 확충에 1억 4천만 파운드 투자할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778054)
+#### [[속보 1] 루비오 상원의원, “미국은 이스라엘이 요르단강 서안 지구에서 정착민들의 폭력 행위에 대해 ‘강력히 단속’하기를 원한다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778053)
+#### [NHC 폭풍 주의보: 트루디가 오늘 밤과 일요일 멕시코 중서부 일부 지역에 영향을 미칠 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778052)
+#### [허리케인 트루디가 멕시코 연안 부근에서 세력을 키우고 있으나, 일요일까지는 세력이 약화될 것으로 예상된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778051)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778050)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778049)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778048)
+#### [루비오는 요르단강 서안 지역에서 발생한 정착민들의 폭력 행위에 대해 우려를 표명했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778047)
+#### [복싱 - 두보아, 워들리를 단숨에 꺾고 WBO 헤비급 타이틀 방어에 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778046)
+#### [베네수엘라, 향후 5년간 약 760억 달러 규모의 석유 투자 유치 전망… 대통령 직무대행 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778045)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778044)
 #### [두보아, 2라운드에서 워들리를 KO로 꺾고 WBO 헤비급 타이틀 방어에 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778043)
 #### [수년 만에 최악의 소요 사태 속 프랑스 도시들에서 발생한 약탈 및 방화 사건](https://m.stock.naver.com/news/worldnews/view/fnGuide/2778042)
@@ -51,14 +62,3 @@
 #### [NHC 폭풍 주의보: 트루디가 세력에 큰 변화 없이 북서쪽으로 이동 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777998)
 #### [이집트의 시시 대통령은 요청이 있을 경우 사우디아라비아를 방어하는 데 도움을 주기 위해 의회의 지지를 구하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777997)
 #### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777996)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777995)
-#### [브뤼셀에서 시위대와 경찰이 충돌했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777994)
-#### [헝가리의 마자르 총리, 월요일 의회에서 2027년 예산안 제출 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777993)
-#### [인도의 예스뱅크, 분기 흑자 기록했으나 AT-1 판결로 인한 타격 우려 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777992)
-#### [맥클렘 총재, 유가 급등으로 캐나다 중앙은행이 인플레이션 전망치를 대폭 상향 조정했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777991)
-#### [교황 레오, 암 수술 4일 만에 퇴원](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777990)
-#### [[업데이트 1] 중국 중앙은행 총재, 재정 및 파급 위험에 대한 IMF의 강화된 감시를 지지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777989)
-#### [헝가리의 마자르 총리, 월요일 의회에서 2027년 예산안을 제출할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777988)
-#### [방글라데시 해변 리조트 화재로 최소 10명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777987)
-#### [UKMTO, 예멘 알무칼라 남동쪽 140해리 지점에서 발생한 사건 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777986)
-#### [이란 혁명수비대, 호르무즈 해협에서 유조선 2척이 기뢰에 부딪혔다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2777985)
