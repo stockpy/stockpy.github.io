@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20261018_1704 </title></head>
-<center>Vers : 20261018_1704 </center>
-<center>Vers : 20261019_0204 </center>
+<head><meta charset="utf-8"><title>Vers : 20261018_2010 </title></head>
+<center>Vers : 20261018_2010 </center>
+<center>Vers : 20261019_0510 </center>
 <br><br><br>
 #### [개미들 곡소리 나는데 “삼성전자 제발 10만원까지 빠져라”…자사주 성과급의 역설](https://m.stock.naver.com/news/ranknews/view/011/0004672381)
 #### ["한국 가서 한탕 벌자"…외국인들 우르르 몰려든 '이곳' [주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005829912)
