@@ -78,8 +78,9 @@
 	  /* Homepage Hero */
     .hero {
       width: 100%;
+	  height: calc(100vh - 180px);
       height: calc(100dvh - 180px);
-      min-height: 400px;
+      min-height: min(400px, calc(100dvh - 100px));
       display: flex;
       justify-content: center;
       align-items: center;
