@@ -1,22 +1,21 @@
 <style>
-  .hero {
-    height: calc(100vh - 180px);
-    height: calc(100dvh - 180px);
-    min-height: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
-  }
+.hero {
+  height: calc(100dvh - 180px);
+  min-height: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
 
-  .hero img {
-    display: block;
-    max-width: 94%;
-    max-height: 94%;
-    width: auto;
-    height: auto;
-    object-fit: contain;
-  }
+.hero img {
+  display: block;
+  max-width: 94%;
+  max-height: calc(100% - 48px);
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
 </style>
 
 <section class="hero">
