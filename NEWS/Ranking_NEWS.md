@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20261019_1709 </title></head>
-<center>Vers : 20261019_1709 </center>
-<center>Vers : 20261020_0209 </center>
+<head><meta charset="utf-8"><title>Vers : 20261019_2202 </title></head>
+<center>Vers : 20261019_2202 </center>
+<center>Vers : 20261020_0702 </center>
 <br><br><br>
 #### ["목에 칼 들어와도 투자 안 해"… 황현희 3개월 전 발언 '재조명'](https://m.stock.naver.com/news/ranknews/view/469/0000960394)
 #### [“결혼자금 다 날려, 미칠 지경”…코스피 급락에 ‘결혼 포기’ 선언](https://m.stock.naver.com/news/ranknews/view/025/0003558926)
