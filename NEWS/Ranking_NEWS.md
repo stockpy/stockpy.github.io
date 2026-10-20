@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20261020_1821 </title></head>
-<center>Vers : 20261020_1821 </center>
-<center>Vers : 20261021_0321 </center>
+<head><meta charset="utf-8"><title>Vers : 20261020_2145 </title></head>
+<center>Vers : 20261020_2145 </center>
+<center>Vers : 20261021_0645 </center>
 <br><br><br>
 #### ["겨울에 일본 가려고 했는데 잘됐네"…여행 앞두고 '희소식'](https://m.stock.naver.com/news/ranknews/view/015/0005344671)
 #### [“하닉 470만, 삼전 67만 간다”…파격 전망 내놓은 노무라의 분석](https://m.stock.naver.com/news/ranknews/view/009/0005751467)
