@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20261021_1642 </title></head>
-<center>Vers : 20261021_1642 </center>
-<center>Vers : 20261022_0142 </center>
+<head><meta charset="utf-8"><title>Vers : 20261021_2022 </title></head>
+<center>Vers : 20261021_2022 </center>
+<center>Vers : 20261022_0522 </center>
 <br><br><br>
 #### [“집에 가기 무섭습니다” 위기의 40대…16만개 계좌서 2조원 사라졌다](https://m.stock.naver.com/news/ranknews/view/009/0005752128)
 #### ["정말 피가 마릅니다"…SK하이닉스 폭등에도 개미들은 '한숨' [분석+]](https://m.stock.naver.com/news/ranknews/view/015/0005345161)
