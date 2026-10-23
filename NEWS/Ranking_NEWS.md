@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20261023_1806 </title></head>
-<center>Vers : 20261023_1806 </center>
-<center>Vers : 20261024_0306 </center>
+<head><meta charset="utf-8"><title>Vers : 20261023_2120 </title></head>
+<center>Vers : 20261023_2120 </center>
+<center>Vers : 20261024_0620 </center>
 <br><br><br>
 #### ["들어오겠다는 사람 없어요" 꼬마빌딩 팔아도 반포 소형아파트 못 산다](https://m.stock.naver.com/news/ranknews/view/057/0001974910)
 #### ["이체 실패했는데 '띵동' 돈이 들어왔다"…토스서 터진 325억 금융 사고](https://m.stock.naver.com/news/ranknews/view/277/0005832397)
