@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20261024_2019 </title></head>
-<center>Vers : 20261024_2019 </center>
-<center>Vers : 20261025_0519 </center>
+<head><meta charset="utf-8"><title>Vers : 20261024_2234 </title></head>
+<center>Vers : 20261024_2234 </center>
+<center>Vers : 20261025_0734 </center>
 <br><br><br>
+#### [모터 레이싱 - F1 챔피언십 우승을 눈앞에 둔 안토넬리, 미국 그랑프리 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786601)
+#### [[정정] ‘반체제’ 시위대가 상점을 약탈하고 방화를 자행한 뒤 바르셀로나에서 체포자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786600)
+#### [[속보] GSK, 젬퍼리(도스타르리마브) 단독 요법을 평가하는 2상 Azur-1 임상시험에서 긍정적인 중간 결과를 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786599)
+#### [F1 챔피언십 우승을 눈앞에 둔 안토넬리, 미국 그랑프리 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786598)
+#### [‘반체제’ 시위대가 상점을 약탈하고 방화를 자행한 뒤 바르셀로나에서 체포자 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786597)
+#### [브라질 대통령 결선 투표를 하루 앞둔 마지막 날, 루라와 보우소나루가 지지자들을 결집시켰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786596)
+#### [볼카노프스키, UFC 333에서 에블로예프를 상대로 빠른 승리를 거두며 약속을 지켰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786595)
+#### [[속보] 홈토고, 자회사 ‘세크라 부킹스’가 사이버 공격의 표적이 되었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786594)
+#### [린트 회장, CEO 해임 후 “초콜릿 가격 인상을 잘못 판단했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786593)
+#### [영국 예산안, 잉글랜드 시장들에게 새로운 차입 권한과 성장 자금 지원 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786592)
+#### [소식통에 따르면 트럼프 대통령은 아우디가 조지아주에 미국 공장을 건설할 계획임을 발표할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786591)
+#### [브라스켐, 투자자들에게 부채 재조정 방안 세부 내용 공개 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786590)
+#### [프랑스 전역에서 시위가 확산되는 가운데 시위대와 경찰이 충돌](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786589)
+#### [노르웨이의 가스코(Gassco)는 10월 25일 05:00부터 10월 26일 05:00까지 오세베르그 가스전에서 하루 7.7 mcm 규모의 생산 중단을 실시할 예정이다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786588)
+#### [NHC 폭풍 주의보: 밴스가 북북서 방향으로 계속 이동하면서 세력이 다소 더 약화되고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786587)
+#### [트럼프 행정부, 캘리포니아주 카운티 선거 관리 당국에 비시민권자 유권자 신원 파악 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786586)
+#### [텍(Teck), 브리티시컬럼비아주 하이랜드 밸리 구리 광산에서 파업 시작했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786585)
 #### [리야드 공항, 10월 25일부터 제1·2터미널을 각각 국내선 및 국제선 전용으로 지정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786584)
 #### [텍(Teck), 캐나다 브리티시컬럼비아주 하이랜드 밸리 구리 광산에서 파업 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786583)
 #### [Teck, 하이랜드 밸리 구리 사업 현황 업데이트 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786582)
@@ -47,21 +64,3 @@
 #### [CNT/MDA 여론조사 결과, 브라질 대선 결선 투표를 앞두고 플라비오 볼소나루와 루라가 거의 박빙을 이루고 있는 것으로 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786544)
 #### [모스크바 측, 우크라이나의 공격으로 크림반도와 러시아가 장악한 지역의 전력 공급이 중단됐다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786543)
 #### [우크라이나 드론이 러시아 옴스크의 산업 단지를 공격했다고 주지사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786542)
-#### [미국의 베테랑 몰츠안, 월드컵 시즌 첫 경기에서 생애 첫 우승을 차지하며 시즌을 시작했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786541)
-#### [미국, 후티의 ‘공격’ 위협을 이유로 걸프·중동 여행 경보 업데이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786540)
-#### [중국, 미국에 해외 투자 제한 확대 계획 중단을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786539)
-#### [러시아 극동 지역에서 열차가 미니버스를 들이받아 6명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786538)
-#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786537)
-#### [영국 런던 경찰청(Met)은 메건에게만 혐의 통지서를 보냈으며 다른 경찰 기관에는 보내지 않았다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786536)
-#### [[속보 1] 경찰이 새로운 소요 사태를 막기 위해 나서는 가운데, 삼엄한 경비 속에 프랑스에서 시위가 시작됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786535)
-#### [이란의 페제스키안, 잠정 합의 실패를 미국의 탓으로 돌리며 재협상 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786534)
-#### [트럼프, 백악관 취재진 재배치 가능성 시사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786533)
-#### [젤렌스키, 스타링크 제한이 완전히 해제되었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786532)
-#### [[속보] 파라빌리스 메디신스, 졸루카테타이드의 업데이트된 1/2상 임상 데이터 발표… 탁월한 효능 입증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786531)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/PBLS.O/total>
-#### [인근 지역들이 기름 유출 사태로 골머리를 앓는 가운데, 아랍에미리트(UAE)의 라스 알 카이마가 모든 해변을 폐쇄했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786530)
-#### [시위 우려로 파리 박물관들이 문을 닫으면서 모나리자 관람이 금지됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786529)
-#### [트럼프, 백악관 취재진 재배치 가능성 시사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786528)
-#### [메르츠, 독일이 직면한 위협을 경고하며 단결을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786527)
-#### [2’ 유정, 이집트 해상에서 고품질 저류층 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786526)
-#### [RIA 통신에 따르면 러시아 극동 지역에서 열차가 미니버스를 들이받아 6명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786525)
