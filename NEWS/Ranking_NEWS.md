@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20261024_1713 </title></head>
-<center>Vers : 20261024_1713 </center>
-<center>Vers : 20261025_0213 </center>
+<head><meta charset="utf-8"><title>Vers : 20261024_2019 </title></head>
+<center>Vers : 20261024_2019 </center>
+<center>Vers : 20261025_0519 </center>
 <br><br><br>
 #### ["에르메스, 너마저"…'-40%'에 명품업계 줄줄이 난리](https://m.stock.naver.com/news/ranknews/view/018/0006395342)
 #### ["월요일 또 줄줄 흐르게 생겼다"…개미들 벌벌 떠는 이유](https://m.stock.naver.com/news/ranknews/view/015/0005346067)
