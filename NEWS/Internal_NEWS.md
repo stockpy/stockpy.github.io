@@ -1,7 +1,44 @@
-<head><meta charset="utf-8"><title>Vers : 20261025_1050 </title></head>
-<center>Vers : 20261025_1050 </center>
-<center>Vers : 20261025_1950 </center>
+<head><meta charset="utf-8"><title>Vers : 20261025_1436 </title></head>
+<center>Vers : 20261025_1436 </center>
+<center>Vers : 20261025_2336 </center>
 <br><br><br>
+#### [마이크로포트 사이언티픽, 조나단 첸을 CEO로 선임하고 이사진 한 명이 사임했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786703)
+#### [우크라이나의 산업단지 공습으로 러시아 리페츠크에서 경비원 1명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786702)
+#### [노르웨이의 Gassco는 10월 25일 13시 35분부터 10월 26일 04시 59분까지 카르스토(Karstø) 가스전에서 하루 7.6 mcm 규모의 가동 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786701)
+#### [브라질의 피네이로 브라텐, 시즌 개막전 남자 대회전 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786700)
+#### [레오 교황, 수술 2주 만에 연설을 통해 예멘 내 폭력 사태 종식을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786699)
+#### [오바마가 민주당 지지자들을 대상으로 유세를 벌인 다음 날, 트럼프가 미시간주에서 유세를 펼쳤다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786698)
+#### [관계자 “미국이 주도한 지역 긴장 완화 노력의 일환으로 카타르 중재자들이 테헤란을 방문했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786697)
+#### [[속보 1] 오바마, 중간선거를 앞두고 민주당 유세 중 트럼프를 신랄하게 비판](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786696)
+#### [파리 경기가 차분한 분위기 속에서 시작될 예정이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786695)
+#### [브라질 유권자들의 주요 관심사는 무엇인가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786694)
+#### [월가 주간 전망-실적 발표 쇄도, 연준 회의가 위태로운 AI 시장 반등세를 시험대에 올릴 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786693)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
+#### [[업데이트 1] FT 보도에 따르면, 에어버스가 GCAP 제트기 프로그램에서의 역할과 관련해 BAE와 협상을 진행할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786692)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7011.T/total>
+#### [마크롱 대통령이 어려운 선택에 직면한 가운데, 프랑스의 시위 단체들이 추가 집회를 요구하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786691)
+#### [브라질, 좌파 루라와 보우소나루 주니어 간의 박빙 결선 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786690)
+#### [아우디 CEO, 트럼프 관련 비판과 독일의 투자 삭감 논란 속 미국 투자 계획 옹호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786689)
+#### [크렘린 보좌관, “우크라이나 평화 논의에 유럽도 포함되어야 한다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786688)
+#### [브리티시컬럼비아주에서 보수당이 거의 1세기 만에 첫 선거 승리를 거뒀다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786687)
+#### [네타냐후, 경제 제재를 우회하기 위해 암호화폐를 활용하려는 계획으로 비판받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786686)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786685)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786684)
+#### [포르투갈 경찰, 리스본 주택 시위 캠프 해산하고 25명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786683)
+#### [영국, 훈련 집중 일정으로 SailGP 막판 반전을 노린다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786682)
+#### [에어버스, GCAP 전투기 프로그램 참여와 관련해 BAE와 협의 예정  - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786681)
+#### [파이낸셜타임스(FT) 보도에 따르면, 에어버스가 GCAP 제트기 프로그램에서의 역할과 관련해 BAE와 협의를 가질 예정이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786680)
+#### [직원 단체, UBS가 본사를 이전할 경우 스위스에서 대규모 일자리 감소가 발생할 것이라고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786679)
+#### [[속보] 젠맙(Genmab), 페토셈타맙(Petosemtamab)의 2상 임상시험에 대한 최신 추적 분석 결과, 전이성 대장암 환자에서 유의미한 객관적 반응률을 보였다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786678)
+#### [[속보] 아제너스(Agenus), ESMO 2026에서 발표한 2상 Neoasis 연구 결과, 국소 진행성 DMMR 대장암 환자 중 72%가 6주간의 Bot+Bal 치료 후 수술 시 암이 완전히 소실된 것으로 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786677)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AGEN.O/total>
+#### [세르비아 선거: 주요 인물, 유권자들의 우려, 그리고 이번 선거의 쟁점](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786676)
+#### [[속보] 인디고 항공과 에어 인디아, 일부 항공편을 아다니 그룹의 새로운 나비 뭄바이 공항으로 이전할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786675)
+#### [[속보] 쑤저우 동산 정밀 제조, H주 1주당 공모가 86.80 홍콩달러로 확정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786674)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002384.SZ/total>
+#### [[속보] 에어 인디아, 자사와 아다니 에어포트스가 뭄바이에서 나비 뭄바이 공항으로의 항공 운항을 단계적으로 이전한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786673)
+#### [국영 TV 보도에 따르면, 부총리는 러시아가 미국에 어떤 양의 디젤유라도 공급할 준비가 되어 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786672)
+#### [영국의 번햄, EU 내 인적 이동에 대한 논의에 개방적 입장 표명](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786671)
 #### [11월 선거에서 민주당이 승리할 경우 미국 외교 정책이 바뀔 수 있는 네 가지 방안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786670)
 #### [트럼프 대통령의 남은 임기 2년을 좌우할 수 있는 중간선거 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786669)
 #### [우크라이나의 러시아 에너지 시설 공습이 트럼프와의 갈등을 어떻게 심화시켰는가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786668)
@@ -42,6 +79,10 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600621.SS/total>
 #### [[속보] 티베트 가오정 폭발물, 자산 인수 절차 진행 중 거래 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786644)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002827.SZ/total>
+<head><meta charset="utf-8"><title>Vers : 20261025_1436 </title></head>
+<center>Vers : 20261025_1436 </center>
+<center>Vers : 20261025_2336 </center>
+<br><br><br>
 #### [[속보] 헝이 석유화학, 3분기 순이익 21억 위안 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786643)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000703.SZ/total>
 #### [[속보] 티안치 리튬, 3분기 순이익 전년 동기 대비 1,324.0% 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786642)
@@ -79,10 +120,6 @@
 #### [세르비아에서 조기 총선이 치러지는 가운데, 학생들이 부치치 대통령을 물러나게 하려 하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786613)
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786612)
 #### [베르스타펜이 안토넬리에게 건넨 조언: 레이스를 즐기고 승리를 만끽하라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786611)
-<head><meta charset="utf-8"><title>Vers : 20261025_1050 </title></head>
-<center>Vers : 20261025_1050 </center>
-<center>Vers : 20261025_1950 </center>
-<br><br><br>
 #### [흑해에서 발생한 치명적인 드론 공격 사태 이후, 불가리아에서 대통령 선거가 치러진다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786610)
 #### [학대 생존자들, 뉴욕 대교구와의 8억 달러 합의안을 승인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786609)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786608)
@@ -110,6 +147,10 @@
 #### [트럼프 행정부, 캘리포니아주 카운티 선거 관리 당국에 비시민권자 유권자 신원 파악 요구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786586)
 #### [텍(Teck), 브리티시컬럼비아주 하이랜드 밸리 구리 광산에서 파업 시작했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786585)
 #### [리야드 공항, 10월 25일부터 제1·2터미널을 각각 국내선 및 국제선 전용으로 지정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786584)
+<head><meta charset="utf-8"><title>Vers : 20261025_1436 </title></head>
+<center>Vers : 20261025_1436 </center>
+<center>Vers : 20261025_2336 </center>
+<br><br><br>
 #### [텍(Teck), 캐나다 브리티시컬럼비아주 하이랜드 밸리 구리 광산에서 파업 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786583)
 #### [Teck, 하이랜드 밸리 구리 사업 현황 업데이트 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786582)
 #### [텍(Teck)은 캐나다 브리티시컬럼비아주에 위치한 하이랜드 밸리 구리 광산에서 파업이 시작되었다고 밝혔다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786581)
@@ -143,10 +184,6 @@
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786553)
 #### [천연가스 파이프라인 긴급 공지: 콜로라도 인터스테이트 가스 컴퍼니 수취 지점의 성능 저하](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786552)
 #### [달모어, 신벤(Cinven)이 소유한 영국 공급업체 JLA에 관심을 표명한 것으로 전해져 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786551)
-<head><meta charset="utf-8"><title>Vers : 20261025_1050 </title></head>
-<center>Vers : 20261025_1050 </center>
-<center>Vers : 20261025_1950 </center>
-<br><br><br>
 #### [베네수엘라, 중국의 도움으로 핵심 발전소 가동 재개 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786550)
 #### [NHC 폭풍 주의보: 밴스가 북북서 방향으로 천천히 이동하면서 세력이 다소 약화되고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786549)
 #### [[속보] 앰젠, 1차 치료 폐암 환자에서 임델트라 병용 요법이 사망 위험을 58% 감소시켰다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786548)
@@ -177,37 +214,3 @@
 #### [2’ 유정, 이집트 해상에서 고품질 저류층 발견](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786526)
 #### [RIA 통신에 따르면 러시아 극동 지역에서 열차가 미니버스를 들이받아 6명이 사망했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786525)
 #### [외교부 발표에 따르면, 요르단강 서안 지구에서 억류되었던 이탈리아인 활동가 5명이 본국으로 송환되었다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786524)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786523)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786522)
-#### [독일의 메르츠, 극우 정당 AfD와의 협력설을 일축](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786521)
-#### [러시아, 드론 공격으로 톨리아티 시설 피해 발생했다고 발표…우크라이나, 석유화학 공장 피격 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786520)
-#### [이탈리아 IGD, CEO 겸 대표이사 로베르토 조이아의 갑작스러운 별세 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786519)
-#### [우크라이나, 일주일간의 속도 제한 끝에 스타링크 서비스 정상화되었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786518)
-#### [MPS의 투자사인 노르게스(Norges), 몬테 데이 파스키(Monte dei Paschi)의 반코 BPM 및 반카 제네랄리(Banca Generali) 인수 제안에 반대할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786517)
-#### [메르츠, “독일은 러시아로부터 막대한 위협에 직면해 있다”고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786516)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786515)
-#### [사우디 주도 연합군, 사우디 도시들을 겨냥한 후티 반군의 탄도 미사일을 요격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786514)
-#### [루라는 첫 스마트폰을 통해 브라질의 ‘온라인 세대’를 따라잡고자 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786513)
-#### [겨울이 다가오면서, 미국 상원 선거에서 난방유가 공화당의 걸림돌로 대두되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786512)
-#### [카말라 해리스, 중간선거와 2028년을 염두에 두고 미국 선거 유세에 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786511)
-#### [최근 미·우크라이나 관계 악화의 주요 연표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786510)
-#### [트럼프의 중간선거 유세에서 얻은 5가지 교훈](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786509)
-#### [체이스 앤 스테이터스, 음악 분야에서 AI의 긍정적 측면을 조명하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786508)
-#### [이스라엘 문제를 놓고 의견이 엇갈리던 디트로이트 민주당원들이 중간선거 비용 증가 문제에 대해서는 뜻을 모았다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786507)
-#### [이번 주 브레이킹뷰스: 데이터에 대한 기대, 지연되다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786506)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
-#### [태풍 ‘샴피’가 대만을 강타하며 나무를 쓰러뜨리고 정전을 일으켰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786505)
-#### [시위대가 행진을 준비하는 가운데, 프랑스가 대규모 보안 작전을 펼치고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786504)
-#### [프랑스 명품 매장들, 새로운 시위를 앞두고 창문에 판자를 덧대다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786503)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786502)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786501)
-#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786500)
-#### [우크라이나는 일주일간의 속도 제한 이후 스타링크와 스타쉴드가 시속 400km로 운영되고 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786499)
-#### [ATCO/TransAlta 앨버타 390 MW Sheerness 2 석탄 화력발전소 가동 개시 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786498)
-#### [인도 코탁 은행, 2분기 순이익 29% 증가…예상치 상회](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786497)
-#### [우크라이나의 러시아 오렐 소재 기업 공습으로 3명 사망…주지사 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786496)
-#### [NHC 폭풍 주의보: 밴스가 현재 상태를 유지하고 있음](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786495)
-#### [우크라이나는 토글리아티에 있는 러시아의 석유화학 공장을 공습했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786494)
-#### [러시아, 토글리아티의 산업 시설이 드론 공격으로 피해를 입었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786493)
-#### [존슨앤드존슨의 전립선암 치료제, 초기 임상시험에서 종양 크기 감소 효과 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786492)
-#### [체코 연정, 밤새 서둘러 진행된 표결을 통해 미디어 개혁안 추진](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786491)
