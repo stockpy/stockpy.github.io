@@ -1,7 +1,34 @@
-<head><meta charset="utf-8"><title>Vers : 20261025_1750 </title></head>
-<center>Vers : 20261025_1750 </center>
-<center>Vers : 20261026_0250 </center>
+<head><meta charset="utf-8"><title>Vers : 20261025_2026 </title></head>
+<center>Vers : 20261025_2026 </center>
+<center>Vers : 20261026_0526 </center>
 <br><br><br>
+#### [브라질 대법원, 대통령 결선 투표 시간을 2시간 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786755)
+#### [머스크, 스페이스X가 GPU 구매를 위해 400억 달러의 차입금을 조달했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786754)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [[속보] 엘론 머스크, 스페이스X가 GPU 관련 부채 400억 달러를 청산했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786753)
+#### [파이낸셜타임스(FT) 보도에 따르면, 본 세쿠르(Bon Secours)가 베인(Bain)이 지원하는 서저리 파트너스(Surgery Partners)를 60억 달러에 인수할 예정이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786752)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SGRY.O/total>
+#### [젤렌스키 대통령은 탄도 미사일 공격에 대한 미국의 경고가 완전히 재개되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786751)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [BUZZ-재방송-엔화 저항선, 호주달러의 강세, 파운드화 상승세 주춤, 비트코인 지지선](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786750)
+#### [2026년 10월 25일 일요일 오후 2시 44분(미국 동부 표준시) 로이터 미국 스포츠 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786749)
+#### [[속보 1] 소식통에 따르면 영국은 캐나다의 국방은행에 참여하지 않을 것이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786748)
+#### [BUZZ-COMMENT-이번 주 전망-주요 금리 결정, 이스라엘 선거, 영국 예산안](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786747)
+#### [다케다, 내년에 위암 치료제에 대한 일본 내 허가 신청 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786746)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1801.HK/total>
+#### [BUZZ-IMM: 파운드, 엔, 캐나다 달러에 대한 상당한 매수세 속에 달러 순 투기적 매수 포지션이 축소됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786745)
+#### [천연가스 파이프라인 긴급 공지: 2026년 10월 26일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786744)
+#### [미국 북서부 강 유수량은 84%로 변함없이 유지됐다 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786743)
+#### [로슈, 폐암 임상시험에서 디바라시브가 사망 위험을 44% 감소시켰다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786742)
+#### [[속보] J&J, 1차 치료용 두경부암 치료제 ‘라이브레반트 파스프로’의 반응률 77% 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786741)
+#### [영국과 캐나다, 국방 자금 조달 이니셔티브를 위한 협력 체제 마련하기로](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786740)
+#### [본 세쿠르, 베인 캐피털이 지원하는 서저리 파트너스를 60억 달러에 인수할 전망 - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786739)
+#### [아스트라제네카의 위암 치료제, 전체 생존 기간 연장 효과 확인…말기 임상시험 결과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786738)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1801.HK/total>
+#### [세르비아 선거 투표율, 34년 만에 최고치 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786737)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786736)
+#### [프랑스에서 시위가 전국을 뒤흔드는 가운데 르펜이 대선 출마를 선언했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786735)
+#### [서둘러 진행된 표결 이후, 수천 명이 체코 정부의 공영 미디어 개편안에 반대하며 시위를 벌였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786734)
 #### [닛케이 보도에 따르면, 일본의 소프트뱅크가 말레이시아에서 진행되는 500억 달러 규모의 AI 투자에 참여할 계획이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786733)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9984.T/total>
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786732)
@@ -42,29 +69,3 @@
 #### [오바마가 민주당 지지자들을 대상으로 유세를 벌인 다음 날, 트럼프가 미시간주에서 유세를 펼쳤다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786698)
 #### [관계자 “미국이 주도한 지역 긴장 완화 노력의 일환으로 카타르 중재자들이 테헤란을 방문했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786697)
 #### [[속보 1] 오바마, 중간선거를 앞두고 민주당 유세 중 트럼프를 신랄하게 비판](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786696)
-#### [파리 경기가 차분한 분위기 속에서 시작될 예정이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786695)
-#### [브라질 유권자들의 주요 관심사는 무엇인가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786694)
-#### [월가 주간 전망-실적 발표 쇄도, 연준 회의가 위태로운 AI 시장 반등세를 시험대에 올릴 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786693)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/INTC.O/total>
-#### [[업데이트 1] FT 보도에 따르면, 에어버스가 GCAP 제트기 프로그램에서의 역할과 관련해 BAE와 협상을 진행할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786692)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7011.T/total>
-#### [마크롱 대통령이 어려운 선택에 직면한 가운데, 프랑스의 시위 단체들이 추가 집회를 요구하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786691)
-#### [브라질, 좌파 루라와 보우소나루 주니어 간의 박빙 결선 투표 실시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786690)
-#### [아우디 CEO, 트럼프 관련 비판과 독일의 투자 삭감 논란 속 미국 투자 계획 옹호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786689)
-#### [크렘린 보좌관, “우크라이나 평화 논의에 유럽도 포함되어야 한다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786688)
-#### [브리티시컬럼비아주에서 보수당이 거의 1세기 만에 첫 선거 승리를 거뒀다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786687)
-#### [네타냐후, 경제 제재를 우회하기 위해 암호화폐를 활용하려는 계획으로 비판받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786686)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786685)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786684)
-#### [포르투갈 경찰, 리스본 주택 시위 캠프 해산하고 25명 체포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786683)
-#### [영국, 훈련 집중 일정으로 SailGP 막판 반전을 노린다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786682)
-#### [에어버스, GCAP 전투기 프로그램 참여와 관련해 BAE와 협의 예정  - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786681)
-#### [파이낸셜타임스(FT) 보도에 따르면, 에어버스가 GCAP 제트기 프로그램에서의 역할과 관련해 BAE와 협의를 가질 예정이라고 한다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786680)
-#### [직원 단체, UBS가 본사를 이전할 경우 스위스에서 대규모 일자리 감소가 발생할 것이라고 경고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786679)
-#### [[속보] 젠맙(Genmab), 페토셈타맙(Petosemtamab)의 2상 임상시험에 대한 최신 추적 분석 결과, 전이성 대장암 환자에서 유의미한 객관적 반응률을 보였다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786678)
-#### [[속보] 아제너스(Agenus), ESMO 2026에서 발표한 2상 Neoasis 연구 결과, 국소 진행성 DMMR 대장암 환자 중 72%가 6주간의 Bot+Bal 치료 후 수술 시 암이 완전히 소실된 것으로 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786677)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AGEN.O/total>
-#### [세르비아 선거: 주요 인물, 유권자들의 우려, 그리고 이번 선거의 쟁점](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786676)
-#### [[속보] 인디고 항공과 에어 인디아, 일부 항공편을 아다니 그룹의 새로운 나비 뭄바이 공항으로 이전할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786675)
-#### [[속보] 쑤저우 동산 정밀 제조, H주 1주당 공모가 86.80 홍콩달러로 확정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786674)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002384.SZ/total>

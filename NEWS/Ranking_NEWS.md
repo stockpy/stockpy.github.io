@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20261025_1750 </title></head>
-<center>Vers : 20261025_1750 </center>
-<center>Vers : 20261026_0250 </center>
+<head><meta charset="utf-8"><title>Vers : 20261025_2026 </title></head>
+<center>Vers : 20261025_2026 </center>
+<center>Vers : 20261026_0526 </center>
 <br><br><br>
 #### [삼전닉스 197조 던진 외국인…조용히 쓸어담은 '종목' 뭐길래](https://m.stock.naver.com/news/ranknews/view/015/0005346229)
 #### ["주가 계속 오르길래"…퇴직금 3억원 투자한 50대, 한 달 만에 손실](https://m.stock.naver.com/news/ranknews/view/014/0005593895)
