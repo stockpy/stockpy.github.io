@@ -1,7 +1,53 @@
-<head><meta charset="utf-8"><title>Vers : 20261025_2244 </title></head>
-<center>Vers : 20261025_2244 </center>
-<center>Vers : 20261026_0744 </center>
+<head><meta charset="utf-8"><title>Vers : 20261026_0044 </title></head>
+<center>Vers : 20261026_0044 </center>
+<center>Vers : 20261026_0944 </center>
 <br><br><br>
+#### [USD/JPY 157.00이 새로운 158.00이 되었으며, 당분간 피벗 포인트가 될 것으로 보입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786818)
+#### [[업데이트 1] 공급 우려에도 불구하고 유가, 6개월 만에 최고치 근방에서 하락](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786817)
+#### [루라 대통령의 재선에 따라 도쿄 증시에 상장된 브라질 ETF가 급락했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786816)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1325.T/total>
+#### [원자재 장중 목표가/주요 수준](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786815)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786814)
+#### [브라질의 루라, 결선 투표에서 대통령에 재선](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786813)
+#### [월요일, 대만 증시는 공휴일로 휴장합니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786812)
+#### [12월 29일까지의 정부 채권 입찰](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786811)
+#### [팩트박스-10월 26일부터 29일까지 열리는 중국 공산당 전원회의의 운영 방식](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786810)
+#### [울프, 미국 대회 우승 후 안토넬리의 ‘지금까지 최고의 경기’를 극찬](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786809)
+#### [리비아, 트럼프 발언에 항의하며 미국 특사를 소환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786808)
+#### [세르비아 ‘학생 명단’의 선거 승리에 대한 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786807)
+#### [데이터폴하, 브라질 대선 결선 투표에서 루라 승리 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786806)
+#### [아시아 시장 전망-유가 급등과 주가 약세, 다사다난한 한 주 시작](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786805)
+#### [트럼프, 미시간주 국경 집회에서 캐나다 관세 합의가 “곧” 이루어질 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786804)
+#### [철광석 시장의 평온한 이면에는 중국과 호주 광산업자들 간의 줄다리기가 도사리고 있다: 러셀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786803)
+#### [연결 자회사의 하우프트 파마 울플링(Haupt Pharma Wulfling GmbH) 지분 인수(이를 통해 간접 자회사로 편입)에 관한 공시](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786802)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/4559.T/total>
+#### [브라질 대선 결선 투표에서 루라가 볼소나루를 제쳤다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786801)
+#### [호주의 챌린저, 다이이치 생명 계열사의 인수 제안을 거절했으나 향후 추가 협의에는 열려 있는 입장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786800)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/8750.T/total>
+#### [- China Moly <603993.SS>의 마진 매수 금액은 10,608(x10000) 위안, 공매도 물량은 22(x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786799)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603993.SS/total>
+#### [- Phoenix Media <601928.SS>의 마진 매수 잔고는 871(x10000) 위안, 공매도 물량은 4(x10000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786798)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601928.SS/total>
+#### [- CITIC HIC <601608.SS>의 마진 매수 잔고는 1,915 (x10,000) 위안이며, 공매도 물량은 0.00 (x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786797)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601608.SS/total>
+#### [- 상하이 일렉트릭 <601727.SS>의 마진 매수 잔고는 1,988 (x10,000) 위안, 공매도 물량은 0.01 (x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786796)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601727.SS/total>
+#### [- 광저우 자동차 그룹 <601238.SS>의 마진 매수 잔고는 1,037(x10,000) 위안, 공매도 물량은 5(x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786795)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601238.SS/total>
+#### [- 퍼스트 트랙터 <601038.SS>의 마진 매수 잔고는 361(×10,000) 위안, 공매도 물량은 1(×10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786794)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601038.SS/total>
+#### [액시오스 보도에 따르면, 앤트로픽의 ‘클로드’가 유료 구독자 전용 영역에 있는 조지아 주 개표 정보를 열람했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786793)
+#### [아틀라스인텔 CEO, “룰라, 브라질 대선 결선에서 승리할 것”이라고 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786792)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786791)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786790)
+#### [세르비아 ‘학생 명단’의 선거 승리에 대한 반응](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786789)
+#### [왜 중국의 경기 부양책은 계속해서 효과를 거두지 못하는가: 마니시 라이차우두리](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786788)
+#### [세르비아 학생들이 역사적인 선거에서 부치치를 축출하자 베오그라드가 열광에 휩싸였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786787)
+#### [브라질 대선 결선 투표에서 볼소나루가 루라를 앞선 것으로 개표 초기 집계 결과 나타났다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786786)
+#### [액시오스(Axios) 보도에 따르면, ‘앤트로픽(Anthropic)’의 클로드(Claude)가 미국 조지아주 유권자 공개 정보에 접근한 것으로 나타났다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786785)
+#### [세르비아의 부치치, 역사적인 조기 총선에서 패배를 인정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786784)
+#### [브라질 대통령 결선 투표에서 루라가 볼소나르를 상대로 초반 우위를 점했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786783)
+#### [영국, 노숙 문제 해결을 위해 4억 3,200만 파운드를 추가로 지원하기로 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786782)
 #### [야당 지도자 마차도, 베네수엘라 귀국 후 지지자들에게 인사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786781)
 #### [[속보] BNSF, 뉴멕시코주 라구나 인근에서 본선에 영향을 미친 선로 유실 사고 발생 보도에 대해 밝히다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786780)
 #### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786779)
@@ -26,6 +72,10 @@
 #### [세르비아의 부치치, 의회 선거에서 학생 주도의 운동에 패배를 인정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786761)
 #### [세르비아의 부치치, 의회 선거에서 학생들이 주도한 운동에 패배를 인정하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786760)
 #### [NHC 폭풍 주의보: 멕시코 남서부 연안에서 열대성 폭풍 ‘밴스’가 맹위를 떨치고 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786759)
+<head><meta charset="utf-8"><title>Vers : 20261026_0044 </title></head>
+<center>Vers : 20261026_0044 </center>
+<center>Vers : 20261026_0944 </center>
+<br><br><br>
 #### [젤렌스키, 미국의 탄도 미사일 공격에 대한 경고가 완전히 재개되었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786758)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
 #### [브라질, 투표 시간 연장 후 대통령 결선 투표 개표 작업 일시 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786757)
@@ -70,3 +120,27 @@
 #### [케인, 야말, 푸텔라스, 파호르: 발롱도르 유력 후보는 누구일까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786724)
 #### [업데이트 1-베네수엘라 야당 지도자 마리아 코리나 마차도, 베네수엘라로 귀국](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786723)
 #### [루라와 플라비오 볼소나루, 대통령 결선 투표에서 투표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786722)
+#### [이탈리아 연립정부 대표 살비니, 내년 선거를 앞두고 재선임 확정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786721)
+#### [베네수엘라 야당 지도자 마리아 코리나 마차도가 베네수엘라로 돌아왔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786720)
+#### [베네수엘라 야당 지도자 마리아 코리나 마차도가 베네수엘라로 돌아왔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786719)
+#### [러시아 벨고로드 주에서 발생한 두 건의 드론 공격으로 4명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786718)
+#### [불안을 진정시키기 위한 새로운 조치가 취해졌음에도 티라나에서 새로운 시위가 벌어졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786717)
+#### [베네수엘라 야당 지도자 마리아 코리나 마차도가 베네수엘라로 돌아왔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786716)
+#### [베네수엘라 야당 지도자 마리아 코리나 마차도가 베네수엘라로 돌아왔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786715)
+#### [베네수엘라 야당 지도자 마리아 코리나 마차도가 베네수엘라로 돌아왔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786714)
+#### [역도 - IWF, 모스크바에서 2030년 세계 역도 선수권 대회 개최 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786713)
+#### [러시아, 화물선 2척과 우크라이나 물류 거점 타격했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786712)
+#### [[속보] 로슈의 디바라시브, 동종 최상의 효능 입증… 기존 치료를 받은 KRAS G12C 돌연변이 폐암의 표준 치료법 발전 이끌어](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786711)
+#### [아스트라제네카의 위암 치료제, 후기 임상시험에서 전체 생존율 연장 기준 충족](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786710)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1801.HK/total>
+#### [리비아, 트럼프 발언에 따라 미국 대리대사 소환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786709)
+#### [그비르와 스모트리치가 차기 이스라엘 정부에 참여해서는 안 된다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786708)
+#### [오바마가 민주당 지지자들을 대상으로 유세를 벌인 다음 날, 트럼프가 미시간주에서 유세를 펼쳤다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786707)
+#### [IWF, 2030년 세계 역도 선수권 대회를 모스크바에서 개최한다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786706)
+#### [NHC 폭풍 주의보: 밴스가 계속 약화되고 있습니다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786705)
+#### [세르비아의 ‘역사적인’ 선거에서 ‘희망에 찬’ 유권자들이 투표를 위해 몇 시간씩 줄을 섰다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786704)
+#### [마이크로포트 사이언티픽, 조나단 첸을 CEO로 선임하고 이사진 한 명이 사임했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786703)
+#### [우크라이나의 산업단지 공습으로 러시아 리페츠크에서 경비원 1명 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786702)
+#### [노르웨이의 Gassco는 10월 25일 13시 35분부터 10월 26일 04시 59분까지 카르스토(Karstø) 가스전에서 하루 7.6 mcm 규모의 가동 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786701)
+#### [브라질의 피네이로 브라텐, 시즌 개막전 남자 대회전 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786700)
+#### [레오 교황, 수술 2주 만에 연설을 통해 예멘 내 폭력 사태 종식을 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2786699)
