@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20261028_1649 </title></head>
-<center>Vers : 20261028_1649 </center>
-<center>Vers : 20261029_0149 </center>
+<head><meta charset="utf-8"><title>Vers : 20261028_2123 </title></head>
+<center>Vers : 20261028_2123 </center>
+<center>Vers : 20261029_0623 </center>
 <br><br><br>
 #### ["와~ 역대급이다!" 하이닉스에 탄성…주가 14만원 올라 140만원대 탈환](https://m.stock.naver.com/news/ranknews/view/008/0005433079)
 #### ["한국 주식 싸도 너무 싸다"…6000억 달러 '큰손'의 파격 평가](https://m.stock.naver.com/news/ranknews/view/215/0001270852)
@@ -44,7 +44,7 @@
 #### [[주식 매매 상위 종목 및 환율] 2026년 10월 28일자](https://m.stock.naver.com/news/ranknews/view/023/0004006518)
 #### [코스피 6000선 탈환…"추가 상승 열쇠는 결국 외국인"](https://m.stock.naver.com/news/ranknews/view/003/0014285815)
 #### [[코인뉴스] 비트코인 약세장 끝?…“매집 단계 진입”](https://m.stock.naver.com/news/ranknews/view/119/0003148259)
-#### [갤럭시 하나로 세계 어디서나 결제](https://m.stock.naver.com/news/ranknews/view/015/0005347646)
+#### [삼성월렛머니, 세계 어디서나 결제](https://m.stock.naver.com/news/ranknews/view/015/0005347646)
 #### [‘이정재·정우성 투자’ 미리 알고…12.5억 부당이득 챙긴 일당 적발](https://m.stock.naver.com/news/ranknews/view/011/0004676257)
 #### [“코스피 8100 간다고?”…증권사가 찍은 반등 시점은](https://m.stock.naver.com/news/ranknews/view/018/0006397919)
 #### [국민연금이 국내주식 33조 팔았다면…김성주 “증시 충격 컸을 것"](https://m.stock.naver.com/news/ranknews/view/018/0006397488)
