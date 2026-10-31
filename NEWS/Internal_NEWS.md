@@ -1,7 +1,24 @@
-<head><meta charset="utf-8"><title>Vers : 20261031_1944 </title></head>
-<center>Vers : 20261031_1944 </center>
-<center>Vers : 20261101_0444 </center>
+<head><meta charset="utf-8"><title>Vers : 20261031_2306 </title></head>
+<center>Vers : 20261031_2306 </center>
+<center>Vers : 20261101_0806 </center>
 <br><br><br>
+#### [모터 레이싱 - 해밀턴, 멕시코시티에서 페라리를 폴 포지션으로 이끌고, 안토넬리는 4번 그리드에서 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796315)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796314)
+#### [베트남, 11월 1일부터 소매 전기요금 인하 및 휘발유세 폐지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796313)
+#### [해밀턴, 멕시코시티 그랑프리에서 폴 포지션 가뭄 끝내다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796312)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796311)
+#### [영국 번햄 총리, 노예제에 대한 공식 사과에는 “열린 자세”를 보였으나 배상 문제는 배제했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796310)
+#### [캐나다 재무장관의 전 비서실장 이안 푸셰, IMF 이사회 위원으로 선임-블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796309)
+#### [FBI, 바이낸스에서 발생한 60억 달러 탈취 사건과 북한을 연관 지었다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796308)
+#### [의상을 입은 시위대, 파리 집회에 할로윈 분위기를 더하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796307)
+#### [아난드, “캐나다가 새로운 무역 협정을 통해 ‘중견국’ 전략을 추진하고 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796306)
+#### [판사, 엡스타인 관련 보도와 관련해 트럼프가 월스트리트저널을 상대로 제기한 소송 시도를 기각](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796305)
+#### [천연가스 파이프라인 중요 공지: 콜로라도 인터스테이트 가스 컴퍼니 운영 계획 보고서 V3, 2026년 11월](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796304)
+#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796303)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796302)
+#### [폴란드의 투스크 총리, 사법 위기 속 재판소 지원 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796301)
+#### [미국과 캐나다, 흑해 지역에서의 제한적 휴전에 대한 관심이 높아지고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796300)
+#### [가나, 러시아가 2,000 MW 원전 건설을 지원하고 양국 관계를 더욱 공고히 할 것이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796299)
 #### [수천 명이 리스본 광장으로 다시 모여 정부에 임대료 법안 철회를 촉구했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796298)
 #### [미국 판사, 트럼프가 월스트리트저널을 상대로 제기한 소송을 기각하고 재소 금지 결정을 내렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796297)
 #### [칼라일, KKR, 오크트리, 저가 대출 매입 준비 중 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796296)
@@ -46,20 +63,3 @@
 #### [예비 드라이버 히라카와, 오콘 대신 하스 소속으로 F1 데뷔전 출전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796258)
 #### [[속보 1] 소식통에 따르면, 선거로 인한 긴장 국면 이후 루비오와 브라질 외무장관이 회동할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796257)
 #### [바이낸스, 도난당한 자산의 90%를 보충했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796256)
-#### [노르웨이의 Gassco는 11월 1일 05:00부터 11월 2일 05:00까지 오세베르그 가스전에서 하루 8.9 mcm 규모의 가동 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796255)
-#### [중간선거 이후 미국의 공습 위협이 고조되는 가운데, 이란 특사들이 카타르 중재단과 회동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796254)
-#### [[속보] 바이낸스, 해킹 사건과 관련해 도난당한 자산의 90%를 보충했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796253)
-#### [[속보] 바이낸스, 도난당한 자산의 90%를 보충했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796252)
-#### [베트남, 11월 1일부터 소매 전기요금을 2% 인하할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796251)
-#### [노르웨이의 가스스코, 예기치 못한 가스 공급 중단 기간 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796250)
-#### [Z세대의 시위가 독일로 확산되며 수천 명이 할로윈 집회에 참여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796249)
-#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796248)
-#### [중국 해경이 대만 동쪽 해역에서 순찰을 실시하고 있다고 중국중앙텔레비전(CCTV)이 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796247)
-#### [세네갈 의원들, IMF와의 새로운 협정 체결에 핵심이 되는 수정 예산안 부결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796246)
-#### [유럽의 박물관들이 잇따르는 미술품 도난 사태를 막을 수 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796245)
-#### [이란 외무장관, 알자지라와의 인터뷰에서 “이란은 고위급 차원에서 밴스 서한을 논의했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796244)
-#### [미국 대사는 G20 정상회의를 앞두고 인도와 협의를 진행 중이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796243)
-#### [젤렌스키 대통령, “올레쉬키에서 대피한 주민들이 우크라이나에 도착했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796242)
-#### [농구 라이벌 팀들이 바티칸으로 몰려드는 가운데, 교황 레오는 중립을 지키려 애쓰고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796241)
-#### [[속보 1] 텍사스 당국, ICE 관련 교통사고와 관련해 대배심이 기소장을 발부했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796240)
-#### [폴란드 대통령이 투스크 전 총리가 폴란드 최고 법원을 강제로 장악했다고 비난했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796239)
