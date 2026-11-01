@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20261101_1741 </title></head>
-<center>Vers : 20261101_1741 </center>
-<center>Vers : 20261102_0241 </center>
+<head><meta charset="utf-8"><title>Vers : 20261101_2144 </title></head>
+<center>Vers : 20261101_2144 </center>
+<center>Vers : 20261102_0644 </center>
 <br><br><br>
 #### ["52년 만에 최대 폭락"…삼전닉스 개미들 월요일이 두렵다](https://m.stock.naver.com/news/ranknews/view/215/0001271269)
 #### ["빨래 못 하는 거 아냐?" 전 세계 '발칵'…한국서 몰래 웃는 기업 어디[주末머니]](https://m.stock.naver.com/news/ranknews/view/277/0005836190)
