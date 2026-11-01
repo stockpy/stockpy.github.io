@@ -1,7 +1,46 @@
-<head><meta charset="utf-8"><title>Vers : 20261031_2306 </title></head>
-<center>Vers : 20261031_2306 </center>
-<center>Vers : 20261101_0806 </center>
+<head><meta charset="utf-8"><title>Vers : 20261101_0440 </title></head>
+<center>Vers : 20261101_0440 </center>
+<center>Vers : 20261101_1340 </center>
 <br><br><br>
+#### [델리에서 대규모 야당 시위가 열릴 예정인 가운데 인도 당국이 경비를 강화하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796350)
+#### [주목할 요인 - 11월 1일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796349)
+#### [델리에서 대규모 야당 시위가 열릴 예정인 가운데 인도 당국이 경비를 강화하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796348)
+#### [Nio Inc., 2026년 10월 인도 현황 업데이트 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796347)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9866.HK/total>
+#### [델리에서 대규모 야당 시위가 열릴 예정인 가운데 인도 당국이 경비를 강화하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796346)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796345)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796344)
+#### [MotoGP, 말레이시아에서 팀들과 회동한 후 카타르 그랑프리 일정 유지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796343)
+#### [모터 레이싱 - 로슨, 멕시코시티 그랑프리 예선에서 실격 처리되어 최후미에서 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796342)
+#### [말레이시아 항공은 아마데우스(Amadeus)의 정보 유출 사고로 인해 고객들이 영향을 받을 수 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796341)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9201.T/total>
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796340)
+#### [[속보] Xpeng, 2026년 10월 차량 인도 실적 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796339)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/9868.HK/total>
+#### [의류 업계 시위로 공장이 문을 닫자 방글라데시, 임금 위원회 구성 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796338)
+#### [해밀턴, 페라리 첫 폴 포지션 달성 후 슈마허를 회상하며 안토넬리를 칭찬하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796337)
+#### [오토바이 경주 - 모토GP, 라이더들의 반발에도 불구하고 카타르 경기가 정상적으로 열릴 수 있을 것으로 확신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796336)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796335)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796334)
+#### [트럼프, 전 변호사 하바 밀던과의 5천만 달러 계약에 대해 “용납할 수 없다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796333)
+#### [리오토, 2026년 10월 29,025대 인도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796332)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2015.HK/total>
+#### [한화, 미 해군과 2억 6,900만 달러 규모의 조선 계약 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796331)
+#### [AI 투자 붐에 힘입어 10월 한국 수출이 거의 두 배로 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796330)
+#### [대만, 중국이 동해안 순찰을 통해 선박에 대한 괴롭힘을 가하고 있다고 주장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796329)
+#### [트럼프, 플라비오 볼소나루가 “원하는 만큼” 미국에 머물 수 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796328)
+#### [‘소버린티’, 브리더스 컵 클래식에서 우승하며 복귀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796327)
+#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas의 최신 파이프라인 현황 (2026년 11월 1일)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796326)
+#### [노르웨이의 가스스코, 예기치 못한 가스 공급 중단 기간 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796325)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796324)
+#### [캘리포니아 주지사가 트럼프의 투표용지 압수 시도에 맞서줄 것을 미국 판사들에게 요청했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796323)
+#### [살바도르 가족들, ‘죽은 자의 날’을 맞아 공정한 재판을 요구하며 교도소 사망자들을 추모하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796322)
+#### [로슨, 연습 주행 중 충돌 사고 후 베르스타펜에게 사과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796321)
+#### [안토넬리, 우승 경쟁의 압박감 때문에 더 긴장했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796320)
+#### [복싱 - 카넬로, 세계 챔피언 타이틀 탈환하며 링과의 사랑이 더욱 뜨겁게 타오르다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796319)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796318)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796317)
+#### [카넬로, 만장일치 판정으로 음빌리를 꺾고 슈퍼 미들급 타이틀 탈환](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796316)
 #### [모터 레이싱 - 해밀턴, 멕시코시티에서 페라리를 폴 포지션으로 이끌고, 안토넬리는 4번 그리드에서 출발](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796315)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796314)
 #### [베트남, 11월 1일부터 소매 전기요금 인하 및 휘발유세 폐지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796313)
@@ -27,6 +66,10 @@
 #### [천연가스 파이프라인 긴급 공지: 2026년 11월 1일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796293)
 #### [노리스, 멕시코시티 연습 주행에서 안토넬리를 제치고 1위 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796292)
 #### [[속보 1] 아나돌루 통신, 펀드 수사 관련 보르사 이스탄불 총괄 매니저 체포 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796291)
+<head><meta charset="utf-8"><title>Vers : 20261101_0440 </title></head>
+<center>Vers : 20261101_0440 </center>
+<center>Vers : 20261101_1340 </center>
+<br><br><br>
 #### [이란, 핵무기 금지 조치 유지 여부 논의 중…안보 책임자 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796290)
 #### [사예드는 민주당 경쟁자가 개입하지 않기를 바란다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796289)
 #### [[업데이트 1] 소식통에 따르면, OPEC+는 12월 원유 생산 목표를 현 수준으로 유지하기로 원칙적으로 합의했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796288)
@@ -63,3 +106,29 @@
 #### [예비 드라이버 히라카와, 오콘 대신 하스 소속으로 F1 데뷔전 출전](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796258)
 #### [[속보 1] 소식통에 따르면, 선거로 인한 긴장 국면 이후 루비오와 브라질 외무장관이 회동할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796257)
 #### [바이낸스, 도난당한 자산의 90%를 보충했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796256)
+#### [노르웨이의 Gassco는 11월 1일 05:00부터 11월 2일 05:00까지 오세베르그 가스전에서 하루 8.9 mcm 규모의 가동 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796255)
+#### [중간선거 이후 미국의 공습 위협이 고조되는 가운데, 이란 특사들이 카타르 중재단과 회동](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796254)
+#### [[속보] 바이낸스, 해킹 사건과 관련해 도난당한 자산의 90%를 보충했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796253)
+#### [[속보] 바이낸스, 도난당한 자산의 90%를 보충했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796252)
+#### [베트남, 11월 1일부터 소매 전기요금을 2% 인하할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796251)
+#### [노르웨이의 가스스코, 예기치 못한 가스 공급 중단 기간 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796250)
+#### [Z세대의 시위가 독일로 확산되며 수천 명이 할로윈 집회에 참여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796249)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796248)
+#### [중국 해경이 대만 동쪽 해역에서 순찰을 실시하고 있다고 중국중앙텔레비전(CCTV)이 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796247)
+#### [세네갈 의원들, IMF와의 새로운 협정 체결에 핵심이 되는 수정 예산안 부결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796246)
+#### [유럽의 박물관들이 잇따르는 미술품 도난 사태를 막을 수 있을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796245)
+#### [이란 외무장관, 알자지라와의 인터뷰에서 “이란은 고위급 차원에서 밴스 서한을 논의했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796244)
+#### [미국 대사는 G20 정상회의를 앞두고 인도와 협의를 진행 중이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796243)
+#### [젤렌스키 대통령, “올레쉬키에서 대피한 주민들이 우크라이나에 도착했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796242)
+#### [농구 라이벌 팀들이 바티칸으로 몰려드는 가운데, 교황 레오는 중립을 지키려 애쓰고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796241)
+#### [[속보 1] 텍사스 당국, ICE 관련 교통사고와 관련해 대배심이 기소장을 발부했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796240)
+#### [폴란드 대통령이 투스크 전 총리가 폴란드 최고 법원을 강제로 장악했다고 비난했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796239)
+#### [우크라이나 올레쉬키에서 대피한 주민들이 우크라이나로 향하는 도중 벨라루스에 도착했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796238)
+#### [이란 협상단이 미국과 이란 간의 전쟁을 종식시키기 위한 카타르 주재 회담에 참석하기 위해 도하에 도착했다고 한 관계자가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796237)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796236)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796235)
+#### [Vale S.A., 9월 30일 종료된 분기 실적 발표 - 실적 요약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796234)
+#### [[속보 1] 스카이 뉴스 보도에 따르면 버진 미디어 O2가 수천 명의 직원을 감원할 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796233)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LBTYA.O/total>
+#### [러시아 정부, 디젤유 수출 금지 조치를 1월 말까지 연장한다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796232)
+#### [키예프 당국, 우크라이나가 로스토프 지역의 러시아 미사일 연료 생산 시설을 타격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2796231)
