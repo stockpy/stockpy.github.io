@@ -1,7 +1,27 @@
-<head><meta charset="utf-8"><title>Vers : 20261107_2011 </title></head>
-<center>Vers : 20261107_2011 </center>
-<center>Vers : 20261108_0511 </center>
+<head><meta charset="utf-8"><title>Vers : 20261107_2338 </title></head>
+<center>Vers : 20261107_2338 </center>
+<center>Vers : 20261108_0838 </center>
 <br><br><br>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805697)
+#### [[속보] 파이어플라이 에어로스페이스, NASA의 100억 달러 규모 CLPS 2 계약에 공급업체로 선정되었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805696)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FLY.O/total>
+#### [폴 포지션 경쟁 중 랩이 중단되자 러셀이 격분했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805695)
+#### [외교부 발표에 따르면, 크라쿠프 총격 사건으로 오스트리아, 독일, 포르투갈, 러시아, 영국 국적자들이 부상을 입었다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805694)
+#### [프랑스 내무장관, “경찰관의 자택이 화재로 전소했다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805693)
+#### [11월 초 카나리아 제도로 유입되는 이민자 수 급증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805692)
+#### [아이스하키 - 벨라루스, 새로운 판결에 따라 2027년 선수권 대회 참가 배제 결정에 대해 IIHF에 항소할 가능성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805691)
+#### [UKMTO, 오만만에서 벌어진 사건에 벌크선과 군 부대가 연루되었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805690)
+#### [모터 레이싱 - 비가 내린 브라질에서 노리스, 3년 연속 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805689)
+#### [미군, 오만만에서 화물선 작전 불능 상태로 만들었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805688)
+#### [신문 보도에 따르면, 브라질의 CSN이 시멘트 사업부를 중국의 화신(Huaxin)에 매각하는 계약을 체결했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805687)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600801.SS/total>
+#### [투스크 총리, “폴란드 총격범의 집에서 사망자 3명 발견”](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805686)
+#### [법무부, 텍사스주가 플랜트 패런트후드를 상대로 제기한 소송에 합류](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805685)
+#### [미군, 오만만에서 상선 운항 중단시켜](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805684)
+#### [폴란드 경찰은 크라쿠프 총격 사건으로 영국인 1명이 사망했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805683)
+#### [비가 내린 브라질 그랑프리에서 노리스, 3년 연속 폴 포지션 차지](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805682)
+#### [역대 최연소 챔피언 피티팔디, 안토넬리의 부상을 높이 평가하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805681)
+#### [이란 언론 보도에 따르면 이란 케슘 섬에서 폭발음이 들렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805680)
 #### [트럼프, UFC 대표 데이나 화이트를 백악관 대변인으로 기용하고 싶다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805679)
 #### [천연가스 파이프라인 긴급 공지: 2026년 11월 8일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805678)
 #### [[속보] 머스크, 향후 효율성 개선을 통해 40kWh ‘사이버캡’ 배터리 팩 출시 가능할 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805677)
@@ -47,25 +67,3 @@
 #### [TVN24 보도에 따르면, 폴란드 크라쿠프에서 발생한 총기 난사 사건으로 2명이 사망하고 최소 10명이 부상했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805640)
 #### [단독-공화당이 2028년을 내다보는 가운데 루비오, 핵심 참모들에게 이해상충 주의 당부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805639)
 #### [[속보] 아르젠엑스(Argenx), ‘Acr Convergence 2026’에서 ALKIVIA 3상 임상 데이터 발표… 자가면역 근염 환자에서 에프가르티기모드 투여 시 신속하고 지속적인 개선 효과 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805638)
-#### [이탈리아 외무장관, 우크라이나 지지 문제로 친러 해커들의 표적이 되었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805637)
-#### [J&J의 1일 1회 복용 알약, 후기 임상시험에서 건선성 관절염 증상 완화 효과 입증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805636)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMGN.O/total>
-#### [노바티스와 노보 노르디스크의 심장 질환 치료제 임상시험 실패로 전문가들은 추측만 하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805635)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IONS.O/total>
-#### [젤렌스키, 부패 스캔들 이후 SBU에서 추가적인 ‘인적 쇄신’이 있을 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805634)
-#### [과테말라 국회의원 1명과 경찰관 3명, 무장 공격으로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805633)
-#### [캘리포니아 항만의 고용주와 경비원들이 단체협약 협상을 연장하기로 했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805632)
-#### [파라과이 페냐 전 대통령, 탄핵 및 가택 연금 후 검찰에 출두](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805631)
-#### [포뮬러 원, 상파울루 계약 기간을 2035년까지 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805630)
-#### [파라과이 전 대통령 페냐, 검찰 청문회 참석 위해 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805629)
-#### [ECB, 요미우리 신문과의 인터뷰 내용 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805628)
-#### [버크셔 해서웨이, 자사주 매입 확대…영업이익 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805627)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
-#### [아르헨티나 국경의 갈등 해소 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805626)
-#### [[속보] 버크셔 해서웨이, 3분기 영업이익 12,705백만 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805625)
-#### [[속보] 버크셔 해서웨이, 3분기 매출 11% 증가한 1,056억 5천만 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805624)
-#### [10월 28일까지 4분기에 A종 주식 약 2,554주 상당을 자사주 매입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805623)
-#### [단독-해상 봉쇄를 확대하며, 미군은 이란의 육상 무역 제한을 모색하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805622)
-#### [단독-해상 봉쇄를 확대하며, 미군은 이란의 육상 무역 제한을 모색하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805621)
-#### [푸틴, 러시아 내 재팬 토바코 자산에 대한 임시 관리 범위 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805620)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2914.T/total>
