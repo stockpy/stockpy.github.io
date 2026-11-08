@@ -1,7 +1,19 @@
-<head><meta charset="utf-8"><title>Vers : 20261107_2338 </title></head>
-<center>Vers : 20261107_2338 </center>
-<center>Vers : 20261108_0838 </center>
+<head><meta charset="utf-8"><title>Vers : 20261108_0443 </title></head>
+<center>Vers : 20261108_0443 </center>
+<center>Vers : 20261108_1343 </center>
 <br><br><br>
+#### [주목할 요인 - 11월 8일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805708)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805707)
+#### [앳코 파워 앨버타의 385 MW 배틀 리버 5 석탄 화력발전소 가동 중단 - 앨버타 ESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805706)
+#### [일본 언론 보도에 따르면, 중국에서 수감 중인 아스텔라스 직원이 12월에 석방될 예정이라고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805705)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/4503.T/total>
+#### [프랑스'의 라페르슈, 루트 뒤 뤼무 울팀에서 신기록으로 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805704)
+#### [요키치, 멕시코시티전에서 승리… 너겟츠, 페이서스 제압](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805703)
+#### [페라리 드라이버들, 협상 끝에 멕시코 논란 해결됐다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805702)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805701)
+#### [영국의 허친슨, 부아츠이를 꺾고 공석이었던 WBC 라이트헤비급 타이틀을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805700)
+#### [온타리오주 브룩필드의 189MW 프린스 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805699)
+#### [비가 내린 상파울루 예선에서 브라질 출신 두 선수가 부진을 겪다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805698)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805697)
 #### [[속보] 파이어플라이 에어로스페이스, NASA의 100억 달러 규모 CLPS 2 계약에 공급업체로 선정되었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805696)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/FLY.O/total>
@@ -56,6 +68,10 @@
 #### [뉴스 사이트 ‘오넷(Onet)’은 경찰을 인용해 크라쿠프 총격범이 폴란드인이라고 보도했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805651)
 #### [사우디와의 군사적 유대 강화 속, 시리아는 예멘에 병력을 파견할 계획이 없다고 부인했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805650)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805649)
+<head><meta charset="utf-8"><title>Vers : 20261108_0443 </title></head>
+<center>Vers : 20261108_0443 </center>
+<center>Vers : 20261108_1343 </center>
+<br><br><br>
 #### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805648)
 #### [단독-해상 봉쇄를 확대하며, 미군은 이란의 육상 무역 제한을 모색하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805647)
 #### [베르스타펜, 상파울루 최종 연습 주행에서 안토넬리를 제치고 1위 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805646)
@@ -67,3 +83,58 @@
 #### [TVN24 보도에 따르면, 폴란드 크라쿠프에서 발생한 총기 난사 사건으로 2명이 사망하고 최소 10명이 부상했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805640)
 #### [단독-공화당이 2028년을 내다보는 가운데 루비오, 핵심 참모들에게 이해상충 주의 당부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805639)
 #### [[속보] 아르젠엑스(Argenx), ‘Acr Convergence 2026’에서 ALKIVIA 3상 임상 데이터 발표… 자가면역 근염 환자에서 에프가르티기모드 투여 시 신속하고 지속적인 개선 효과 확인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805638)
+#### [이탈리아 외무장관, 우크라이나 지지 문제로 친러 해커들의 표적이 되었다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805637)
+#### [J&J의 1일 1회 복용 알약, 후기 임상시험에서 건선성 관절염 증상 완화 효과 입증](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805636)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AMGN.O/total>
+#### [노바티스와 노보 노르디스크의 심장 질환 치료제 임상시험 실패로 전문가들은 추측만 하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805635)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/IONS.O/total>
+#### [젤렌스키, 부패 스캔들 이후 SBU에서 추가적인 ‘인적 쇄신’이 있을 것이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805634)
+#### [과테말라 국회의원 1명과 경찰관 3명, 무장 공격으로 사망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805633)
+#### [캘리포니아 항만의 고용주와 경비원들이 단체협약 협상을 연장하기로 했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805632)
+#### [파라과이 페냐 전 대통령, 탄핵 및 가택 연금 후 검찰에 출두](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805631)
+#### [포뮬러 원, 상파울루 계약 기간을 2035년까지 연장](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805630)
+#### [파라과이 전 대통령 페냐, 검찰 청문회 참석 위해 도착](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805629)
+#### [ECB, 요미우리 신문과의 인터뷰 내용 공개](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805628)
+#### [버크셔 해서웨이, 자사주 매입 확대…영업이익 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805627)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/GOOGL.O/total>
+#### [아르헨티나 국경의 갈등 해소 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805626)
+#### [[속보] 버크셔 해서웨이, 3분기 영업이익 12,705백만 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805625)
+#### [[속보] 버크셔 해서웨이, 3분기 매출 11% 증가한 1,056억 5천만 달러 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805624)
+#### [10월 28일까지 4분기에 A종 주식 약 2,554주 상당을 자사주 매입](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805623)
+#### [단독-해상 봉쇄를 확대하며, 미군은 이란의 육상 무역 제한을 모색하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805622)
+#### [단독-해상 봉쇄를 확대하며, 미군은 이란의 육상 무역 제한을 모색하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805621)
+#### [푸틴, 러시아 내 재팬 토바코 자산에 대한 임시 관리 범위 확대](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805620)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2914.T/total>
+#### [트랜스캐나다 온타리오의 305 MW 할턴 힐스 3호 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805619)
+#### [트랜스캐나다 온타리오의 226 MW 할턴 힐스 2호 가스 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805618)
+#### [버크셔 해서웨이, 자사주 매입 확대… 영업이익 감소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805617)
+#### [인도 석유부, 카르나타카주의 휘발유 내 에탄올 과다 함유 조사 결과 반박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805616)
+#### [은행 파산 사태에 항의하는 시위대가 격렬하게 시위를 벌이는 가운데, 파라과이의 페나 전 대통령이 가택 연금 상태에 놓였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805615)
+#### [은행 파산 사태에 시위대가 격렬히 반발하는 가운데 파라과이의 페나 전 대통령, 가택 연금 상태에 놓여](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805614)
+#### [프랑스 대선 유력 후보 멜랑숑, 최저임금 인상과 60세 정년 보장 공약](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805613)
+#### [벨라루스, 새로운 판결에 따라 2027년 선수권 대회 참가 배제 결정에 대해 IIHF에 항소할 가능성](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805612)
+#### [베제키, 랩 기록을 두 차례나 경신하며 마르케스를 제치고 카타르 모토GP 폴 포지션을 차지했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805611)
+#### [[속보] 유로배터리 미네랄스(Eurobattery Minerals) 이사 겸 CEO 로베르토 가르시아 마르티네스, 스웨덴에서 구속 영장 발부](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805610)
+#### [스페인의 ACS, 호흐티프에 대한 공개매수 검토한 적 없다고 밝혀 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805609)
+#### [이탈리아 외무장관은 우크라이나 지지 입장을 이유로 친러 해커들의 표적이 되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805608)
+#### [기온이 급격히 떨어지는 가운데 러시아, 키예프 전역의 전력 시설을 집중 포격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805607)
+#### [기온이 급격히 떨어지는 가운데 러시아, 키예프 전역의 전력 시설을 집중 포격](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805606)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805605)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805604)
+#### [엔브리지 온타리오의 182 MW 언더우드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805603)
+#### [단독-공화당이 2028년을 내다보는 가운데 루비오, 국무부에서 질서 확립에 나서다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805602)
+#### [민주당이 어떻게 중간선거에서 압도적인 승리를 거두었는가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805601)
+#### [파라과이의 신임 대통령 페드로 알리아나는 누구인가?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805600)
+#### [에반 게르시코비치가 말하는 감옥, 러시아, 그리고 자유](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805599)
+#### [2028년 선거를 앞두고 미국의 트랜스젠더 반대 주민투표 통과가 민주당에 도전 과제를 안겨주고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805598)
+#### [이번 주 브레이킹뷰스: 대홍수 이후](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805597)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [중간선거 참패 이후, 밴스는 2028년을 위한 자신만의 브랜드를 구축하려 하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805596)
+#### [이란 해군, 호르무즈 해협에서 유조선이 기뢰에 부딪혀 화재 발생했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805595)
+#### [천문학자들이 행성 잔해로 이루어진 두 개의 고리를 가진 백색왜성을 발견했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805594)
+#### [나프토가즈 측에 따르면, 러시아가 지난밤 우크라이나 중부의 나프토가즈 시설을 세 차례 공습했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805593)
+#### [코카콜라의 인도 병입 업체인 힌두스탄 코카콜라, 기업공개(IPO) 신청](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805592)
+#### [[업데이트 1] 블룸버그 뉴스 보도에 따르면, 소프트뱅크와 ABB가 로봇 사업 계약을 살리기 위해 중국 사업 분할 방안을 모색 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805591)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
+#### [[속보] 소프트뱅크·ABB, 로봇 사업 계약 성사 위해 중국 사업 분할 검토 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805590)
+#### [[속보 1] 크렘린궁, “러시아 외교관 및 군 관계자들이 미국·우크라이나와의 회담에 참여할 예정”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805589)
