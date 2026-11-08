@@ -1,6 +1,6 @@
-<head><meta charset="utf-8"><title>Vers : 20261108_1740 </title></head>
-<center>Vers : 20261108_1740 </center>
-<center>Vers : 20261109_0240 </center>
+<head><meta charset="utf-8"><title>Vers : 20261108_2144 </title></head>
+<center>Vers : 20261108_2144 </center>
+<center>Vers : 20261109_0644 </center>
 <br><br><br>
 #### [“개미들은 이번 월요일만 기다립니다”…일단 美 반도체는 회복 성공](https://m.stock.naver.com/news/ranknews/view/009/0005760691)
 #### [폭락장에 하이닉스 3배 담은 고수들...셀트리온·현대차 저평가주도 [1% 고수의 선택]](https://m.stock.naver.com/news/ranknews/view/014/0005600957)
