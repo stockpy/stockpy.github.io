@@ -1,7 +1,62 @@
-<head><meta charset="utf-8"><title>Vers : 20261108_2144 </title></head>
-<center>Vers : 20261108_2144 </center>
-<center>Vers : 20261109_0644 </center>
+<head><meta charset="utf-8"><title>Vers : 20261109_0127 </title></head>
+<center>Vers : 20261109_0127 </center>
+<center>Vers : 20261109_1027 </center>
 <br><br><br>
+#### [USD/THB-지지선에서 강하게 반등하며 상승세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805851)
+#### [러시아, 레닌그라드 주에서 드론 40대 가까이 격추했다고 주지사가 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805850)
+#### [호주의 LTR 파마, 발기부전 치료제 제형에 대한 인도 특허 취득으로 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805849)
+#### [터키에서 COP31 개막… 전쟁과 인공지능으로 인해 기후 목표 달성 압박 가중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805848)
+#### [일본의 7월 엔화 매수 개입 규모, 일일 신기록 경신](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805847)
+#### [AI 관련 불확실성으로 급락했던 일본 국채 수익률이 반등](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805846)
+#### [월가 안정세에 달러, 기세를 되찾으며 USD/JPY 매수세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805845)
+#### [AUD/USD, 강세를 보이지만 추가 하락 테스트가 예상됨](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805844)
+#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas의 최신 파이프라인 현황 (2026년 11월 9일)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805843)
+#### [트럼프, 중국 APEC 정상회의에서 시진핑·푸틴과 만날 것으로 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805842)
+#### [멕시코, DEA의 정보 지원을 받은 작전을 통해 카르텔 조직의 수배 중인 지도자를 체포했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805841)
+#### [원유 가격 하락으로 인플레이션 우려가 누그러지면서 금값 소폭 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805840)
+#### [러시아 내 모든 법인이 임시 관리 하에 놓이면서 일본담배 주가 거래 중단](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805839)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2914.T/total>
+#### [트럼프는 루비오가 국무장관직을 계속 맡을 것으로 예상한다고 말했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805838)
+#### [[업데이트 1] 가디언 보도에 따르면, 영국이 2030년 전기차 판매 목표를 60%로 하향 조정할 것으로 예상된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805837)
+#### [트럼프, “AI 위험은 관리 가능”이라며 규제 도입에 개방적인 태도 시사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805836)
+#### [[속보 1] 브라질의 루라, 높은 금리 우려에 예산 건전성 유지 약속](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805835)
+#### [UBS CEO는 해당 부문이 급격한 조정 국면에 접어들기 전까지 AI 투자자들이 “완벽함을 반영한 가격 책정”을 하고 있었다고 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805834)
+#### [트럼프, AI 위험은 관리 가능하다고 말하며, 안전장치 도입에 개방적인 태도 시사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805833)
+#### [호주의 엘사이트, 100만 달러 규모의 미국 국방부 수주 계약으로 성장세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805832)
+#### [아시아 시장 전망-강세 달러, 기술주 소폭 반등, 중국 물가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805831)
+#### [호주의 퍼슈트 미네랄스, 에코프로가 리튬 프로젝트에 4,000만 달러를 제안하자 주가 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805830)
+#### [일본의 7월 엔화 매수 개입 규모가 일일 사상 최고치를 경신했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805829)
+#### [영국 고용주들, 10월 채용은 위축됐으나 임금 상승세는 강해졌다고 보고](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805828)
+#### [Gold의 단기 변동성은 장기적인 상승세와 대조를 이룬다: 러셀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805827)
+#### [일본의 10월 외환보유고, 1조 1,790억 달러로 증가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805826)
+#### [트럼프, UFC CEO를 백악관 대변인으로 지명하겠다는 발언에 대해 “농담일 뿐”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805825)
+#### [트럼프 대통령이 이란의 추가 공격은 “가능성이 낮다”고 밝히자 개장 직후 유가가 하락했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805824)
+#### [트럼프, 엔비디아의 황 회장을 “존경할 만한 인물”이라고 칭하며, 관련 의혹에 대해 그와 논의한 적이 없다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805823)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [브라질의 루라 대통령은 높은 금리를 우려하며 예산 건전성을 지키겠다고 다짐했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805822)
+#### [RadNet, 3분기 조정 주당순이익(EPS) 예상치를 상회하며 2026년 실적 전망 상향](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805821)
+#### [트럼프는 중국에서 열리는 APEC 정상회의에서 시진핑 주석과 푸틴 대통령과 만날 것으로 예상한다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805820)
+#### [트럼프는 해당 의혹과 관련해 엔비디아의 황 회장과 대화한 적이 없다고 밝히며, 그를 훌륭한 사람이라고 칭했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805819)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805818)
+#### [트럼프, UFC CEO를 백악관 대변인으로 지명하겠다는 발언에 대해 “농담일 뿐”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805817)
+#### [업데이트 2-우에다 일본은행 총재, 물가에 “일부 상승 위험” 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805816)
+#### [호주 ASIC, 바슬라(Bathla)에 대한 정보 공개가 불충분하다는 이유로 앙가스(Angas) 펀드에 대해 잠정 거래 정지 명령을 내렸다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805815)
+#### [가디언 보도에 따르면, 영국 정부가 2030년 전기차 판매 목표를 60%로 하향 조정할 것으로 예상된다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805814)
+#### [- China Moly <603993.SS>의 마진 매수 잔고는 18,301(x10,000) 위안, 공매도 물량은 16(x10,000) 주입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805813)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603993.SS/total>
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805812)
+#### [메타, 영국에서 ‘뮤즈(Muse)’ AI 어시스턴트 출시 준비 중 - 더 타임스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805811)
+#### [일본담배(Japan Tobacco Inc.) - JT 그룹의 러시아 사업 현황 업데이트](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805810)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/2914.T/total>
+#### [[속보] 삼성C&T, 2조 3,800억 원 규모 계약 수주](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805809)
+#### [[속보] 엔비디아, CEO가 외국 정보기관의 표적이 되었다는 보도에 따라 자체 조사 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805808)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [페르솔 홀딩스 <2181.T>-2026/27 회계연도 그룹 실적 전망 (IFRS 기준)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805807)
+#### [레드불의 메키스 단장, 하자르가 브라질에서 최고의 레이스를 펼쳤다고 평가](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805806)
+#### [울프, “안토넬리는 아직 세나 수준은 아니지만 ‘세니냐’는 성장할 수 있다”고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805805)
+#### [중미 이민자들, 트럼프의 중간선거 패배에 환호](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805804)
+#### [노리스, 병과 불꽃놀이 사고에도 무사히 빠져나와](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805803)
 #### [소수 정당의 영향력이 강화된 접전 끝에 NZD/USD 환율이 상승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805802)
 #### [[속보] 리제네론 파마슈티컬스, CIDEB(siRNA) 1회 투여로 간 지방이 최대 80% 감소했으며, 이 효과가 36주 동안 지속되었다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805801)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/REGN.O/total>
@@ -16,6 +71,10 @@
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
 #### [11월 8일 일요일 오후 3시 19분(미국 동부 표준시) 기준 로이터 미국 스포츠 경기 일정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805793)
 #### [소식통에 따르면, 이라크의 호르 모르 가스전을 겨냥한 드론 공격이 발생했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805792)
+<head><meta charset="utf-8"><title>Vers : 20261109_0127 </title></head>
+<center>Vers : 20261109_0127 </center>
+<center>Vers : 20261109_1027 </center>
+<br><br><br>
 #### [천연가스 파이프라인 긴급 공지: 2026년 11월 9일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805791)
 #### [BUZZ-IMM: 일시적인 파운드·캐나다 달러 매수세에 달러 매수 포지션 축소](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805790)
 #### [엔비디아, 황 CEO가 외국 정보기관의 표적이 되었다는 보도에 따라 조사 착수](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805789)
@@ -67,3 +126,16 @@
 #### [파이낸셜 타임스(FT) 보도에 따르면, 앤트로픽이 데이터센터용 발전기 공급 계약을 34억 달러에 체결했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805745)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805744)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805743)
+#### [브라질의 CSN, 시멘트 사업부를 중국 화신(Huaxin)에 23억 달러에 매각하기로 합의](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805742)
+#### [자포리자 원전, 외부 전력 공급이 끊긴 후 다시 발전기에 의존 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805741)
+#### [[속보] 앤트로픽, 데이터센터용 가스 발전 공급 계약 34억 달러 체결 - 파이낸셜 타임스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805740)
+#### [주 법무장관 선거에서 민주당이 승리를 거두며 트럼프에게 새로운 골칫거리가 생겼다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805739)
+#### [민주당 소속 법무장관 당선으로 낙태, 이민 등 미국 내 소송 양상이 바뀔 수 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805738)
+#### [스티븐 밀러가 지휘봉을 잡은 가운데, 트럼프는 갈등의 길을 걷고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805737)
+#### [일본 중부 지역에서 규모 5.7의 지진이 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805736)
+#### [7일 연속 상승세 이후 디왈리 연휴 기간 동안 인도 증시 보합세](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805735)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/index/.BSESN>
+#### [[속보] FEG 홀딩스, 양젠웨이 회장이 이사회 의장으로 재선임되었다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805734)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/1413.HK/total>
+#### [브라질의 CSN이 시멘트 사업부를 중국의 화신(Huaxin)에 매각하기로 합의했으며, 해당 사업부의 가치는 23억 달러로 평가됐다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805733)
+#### [영국 장관, “미디어 업계에는 여전히 성폭력 문제가 남아 있다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2805732)
