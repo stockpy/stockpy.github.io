@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20261114_2027 </title></head>
-<center>Vers : 20261114_2027 </center>
-<center>Vers : 20261115_0527 </center>
+<head><meta charset="utf-8"><title>Vers : 20261115_0006 </title></head>
+<center>Vers : 20261115_0006 </center>
+<center>Vers : 20261115_0906 </center>
 <br><br><br>
+#### [교황 레오, 페루 순방 중 특별히 안데스 산맥의 외딴 마을을 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815602)
+#### [NTSB, 뉴올리언스에서 발생한 유조선과 유람선 충돌 사고 현장에서 유조선의 데이터 기록기를 회수했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815601)
+#### [“어떻게 해야 할지 모르겠어요”: 미국 정부 셧다운으로 첫 단독 비행에 차질을 빚은 비행 훈련생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815600)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815599)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815598)
+#### [스페이스X의 ‘스타십’, 텍사스로의 첫 귀환에 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815597)
+#### [스페이스X 스타십, 궤도에서 착륙대로 귀환… 재사용형 로켓 시험을 성공적으로 마쳐](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815596)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [영국, 청년 대상 일자리 보장 제도 확대 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815595)
+#### [교황 레오, 주교로 재직했던 페루의 외딴 마을을 다시 방문하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815594)
+#### [스페이스X의 ‘스타십’, 텍사스로의 첫 귀환에 성공](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815593)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/SPCX.O/total>
+#### [폭발물 관련 ‘신빙성 있는 위협’이 제기되자 법 집행 당국이 일리노이주 공장을 수색했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815592)
+#### [쿠슈너, “미국이 우크라이나 회담 이후 유럽과 러시아 간의 직접적 대화를 주선하고 있다”고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815591)
+#### [미국 북서부 강 유량 74%로 감소 - NWRFC](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815590)
 #### [L3 해리스가 설치한 라우터가 미국 항공 운항 중단 원인으로 지목됐다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815589)
 #### [천연가스 파이프라인 긴급 공지: 2026년 11월 15일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815588)
 #### [ATCO/TransAlta의 앨버타주 390MW 셰어니스 2호 석탄 화력발전소 가동 중단 - 앨버타주 전력시스템운영기구(ESO)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815587)
@@ -58,18 +73,3 @@
 #### [파키스탄 기후변화부 장관, 뉴델리에서 열리는 상하이협력기구(SCO) 대화에 참석할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815545)
 #### [아드반타, 하이테크의 전략적 인수를 통해 아프리카 시장 입지 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815544)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815543)
-#### [소식통에 따르면 트럼프 대통령은 새로운 도발이 없는 한 이란에 대한 공격을 보류할 수도 있다고 참모들에게 말했다고 한다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815542)
-#### [NASA의 보이저 1호 탐사선, 초장거리 기록 달성 임박](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815541)
-#### [1 제제의 월 가격이 350달러 미만이면 비용을 절감할 수 있다고 밝혔습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815540)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/LLY/total>
-#### [이번 주 브레이킹뷰스: 황 씨와의 통화 끊기](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815539)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/AAPL.O/total>
-#### [데보라 칸, 정치적 격변의 시대 속 외교에 대해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815538)
-#### [분석-새로운 ‘얄타’가 될까? 트럼프와 푸틴은 회담을 추진하고 있지만, 시진핑은 이를 주최하는 데 신중한 태도를 보이고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815537)
-#### [트럼프는 대법원에서 판사들의 권한을 다시 한 번 축소하려 하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815536)
-#### ["우리는 여전히 굳건히 서 있다"… 찰스 국왕, 생일 영상에서 엘튼 존과 농담을 주고받다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815535)
-#### [이란 해군, 호르무즈 해협에서 기뢰에 충돌해 유조선 화재 발생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815534)
-#### [센트리카, 에퀴노르, 독일 유니퍼 매각 다음 단계에 참여-블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815533)
-#### [템즈 워터 채권단, 취약 계층 고객을 위한 7,500만 파운드 기금 조성 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815532)
-#### [트랜살타 온타리오의 200MW 멜란크톤(아마란스) 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815531)
-#### [이란 해군은 호르무즈 해협에서 기뢰에 충돌한 유조선에서 화재가 발생했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815530)
