@@ -1,7 +1,20 @@
-<head><meta charset="utf-8"><title>Vers : 20261115_0006 </title></head>
-<center>Vers : 20261115_0006 </center>
-<center>Vers : 20261115_0906 </center>
+<head><meta charset="utf-8"><title>Vers : 20261115_0619 </title></head>
+<center>Vers : 20261115_0619 </center>
+<center>Vers : 20261115_1519 </center>
 <br><br><br>
+#### [[속보] 힌달코, 노벨리스가 중국 알루미늄 자회사 매각 계약 체결했다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815615)
+#### [‘키즈 초이스 어워드’에서 크리스 프랫과 방탄소년단(BTS)이 수상했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815614)
+#### [남중국해를 둘러싼 필리핀과 중국 간의 갈등이 심화되고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815613)
+#### [인도 증권거래위원회(SEBI): SEBI 위원장 주재로 2026년 IITF에서 SEBI 전시관 개관식 개최](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815612)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815611)
+#### [브룩필드와 KKR, 걸프 지역 소매업체 ‘에이와(Eyewa)’ 인수전을 벌이고 있다? - FT](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815610)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815609)
+#### [과테말라, 의원 피습 사망 사건 발생 후 두 주에 비상사태 선포](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815608)
+#### [필리핀과 호주, 중국을 겨냥해 국방 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815607)
+#### [주목할 요인 - 11월 15일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815606)
+#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas의 최신 파이프라인 현황 (2026년 11월 15일)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815605)
+#### [긴장 완화 및 수요 감소로 미국 디젤유 가격이 갤런당 6달러 아래로 떨어져 2개월 만에 최저치를 기록](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815604)
+#### [영국의 윌리엄 왕자가 아내 케이트와 함께 인도를 방문할 예정이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815603)
 #### [교황 레오, 페루 순방 중 특별히 안데스 산맥의 외딴 마을을 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815602)
 #### [NTSB, 뉴올리언스에서 발생한 유조선과 유람선 충돌 사고 현장에서 유조선의 데이터 기록기를 회수했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815601)
 #### [“어떻게 해야 할지 모르겠어요”: 미국 정부 셧다운으로 첫 단독 비행에 차질을 빚은 비행 훈련생](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815600)
@@ -58,18 +71,3 @@
 #### [이탈리아, 안드로이드 사용자 데이터 접근 문제로 메타에 8억 8,700만 달러 과징금 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815557)
 #### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
 #### [영란은행(BoE)의 그린은 지금 인플레이션에 대해 선제적으로 대응하는 것이 상황을 가장 적게 ‘망칠’ 것이라고 말했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815556)
-#### [레이놀즈 기업부 장관, 파운드랜드 구제 협상 속 소유주들과 추가 회담 예정 - 스카이 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815555)
-#### [이탈리아는 독일의 차세대 전투기 프로젝트 참여를 지지한다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815554)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/7011.T/total>
-#### [이탈리아, 안드로이드 사용자 데이터 접근 문제로 메타에 8억 8,700만 달러 과징금 부과](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815553)
-#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/META.O/total>
-#### [[속보 1] 젤렌스키 대통령, “미국이 우크라이나의 나토 가입 조건으로 돈바스 양도 방안을 제시했다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815552)
-#### [상하이협력기구(SCO) 회의 개최에 맞춰 파키스탄 장관, 3년 만에 처음으로 인도 방문](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815551)
-#### [베르프트(Meyer-Werft)의 지분 과반수를 인수하는 계약을 거의 마무리 지은 것으로 알려졌다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815550)
-#### [전문가 “9·11 테러 이후 처음”인 항공 운항 중단… 시스템 업그레이드가 필요하다고 지적](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815549)
-#### [전문가 “9·11 테러 이후 처음”인 항공 운항 중단… 시스템 업그레이드 필요](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815548)
-#### [드 레디스, 미국 식품의약국(USFDA)이 현장 조사 결과를 ‘VAI’로 분류하고 조사를 공식적으로 종결했다고 밝힘](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815547)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815546)
-#### [파키스탄 기후변화부 장관, 뉴델리에서 열리는 상하이협력기구(SCO) 대화에 참석할 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815545)
-#### [아드반타, 하이테크의 전략적 인수를 통해 아프리카 시장 입지 강화](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815544)
-#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2815543)
