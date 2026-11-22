@@ -1,7 +1,22 @@
-<head><meta charset="utf-8"><title>Vers : 20261121_2127 </title></head>
-<center>Vers : 20261121_2127 </center>
-<center>Vers : 20261122_0627 </center>
+<head><meta charset="utf-8"><title>Vers : 20261122_0155 </title></head>
+<center>Vers : 20261122_0155 </center>
+<center>Vers : 20261122_1055 </center>
 <br><br><br>
+#### [천연가스 파이프라인 긴급 공지: Southern Natural Gas의 파이프라인 현황 업데이트 (2026년 11월 22일)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824074)
+#### [호주, AUKUS 관련 발언을 두고 미국 의회예산처(CBO)를 비판](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824073)
+#### [COP31 기후 회담, 최종 합의에 가까워졌다고 정상회의 의장이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824072)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824071)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824070)
+#### [IG 메탈 노조가 파업 기간을 연장함에 따라 독일 자동차 및 조선소 노동자들이 파업에 나설 예정이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824069)
+#### [크로아티아 수도에서 정신병원 사망 사건에 항의하는 수천 명의 시위대가 모였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824068)
+#### [블룸버그 뉴스 보도에 따르면, 미국 정부가 FDA 지도부 직책에 사라 브레너와 제프 바시르카를 후보로 검토하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824067)
+#### [다우닝 스트리트에 따르면, 영국과 네덜란드 총리가 회동하고 우크라이나에 대한 지원을 계속하겠다고 약속했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824066)
+#### [버크셔가 소유한 유틸리티 기업, 오리건주 대법원의 산불 소송에 대한 심리를 확대한 결정을 높이 평가했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824065)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/BRKa/total>
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 1 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824064)
+#### [크루거 에너지 온타리오의 101 MW 포트 알마 2 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824063)
+#### [사우디 주도의 연합군은 서부 지역을 겨냥한 후티 반군의 탄도 미사일을 요격했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824062)
+#### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소, 가동 재개 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824061)
 #### [노르웨이의 Gassco는 11월 22일 05:00부터 11월 23일 04:59까지 슬레이프너 가스전에서 하루 5.5 mcm 규모의 생산 중단을 실시할 예정입니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824060)
 #### [TranAlta 온타리오의 198 MW 울프 아일랜드 풍력 발전소 가동 중단 - 온타리오 IESO](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824059)
 #### [천연가스 파이프라인 긴급 공지: 2026년 11월 22일 기준 서던 천연가스 파이프라인 현황](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824058)
@@ -49,17 +64,3 @@
 #### [캐나다 국방장관, 미군과의 관계에 변화 없다며 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824017)
 #### [알파인 스키 - 콜투리, 월드컵 첫 우승을 차지하며 알바니아에 사상 첫 우승을 안겼다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824016)
 #### [핀란드 국경수비대 관계자는 핀란드 해역에서 화재가 발생한 선박이 러시아 군과 연관이 있는 것으로 알려져 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824015)
-#### [아르테미스와 미국 대표팀, 두바이에서 강력한 출발을 보이며 그랜드 파이널 진출 희망을 키웠다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824014)
-#### [이란 당국자, 카타르 대표단이 회담을 위해 테헤란을 방문했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824013)
-#### [멕시코에 NFL을 알린 방송인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824012)
-#### [COP31 기후 회의가 왜 ‘역대 최악’이라는 평가를 받았을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824011)
-#### [COP31 기후 회의가 왜 ‘역대 최악’이라는 평가를 받았을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824010)
-#### [루테 총리, “나토는 폴란드 영토의 모든 구석을 방어할 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824009)
-#### [콜투리, 월드컵에서 첫 우승을 차지하며 알바니아에 사상 첫 우승을 안겼다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824008)
-#### [핀란드 정부, 러시아 헬리콥터가 핀란드 영공을 침범한 것으로 의심된다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824007)
-#### [16 전투기가 미사일에 피격되어 비상 착륙을 할 수밖에 없었다고 밝혔으나, 미국 측은 이를 확인하지 않았다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824006)
-#### [EU 정상회의 의장, 2028~2034년 EU 예산안 추가 삭감 제안…디지털 세금 도입 시사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824005)
-#### [EU와 인도네시아, 10년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824004)
-#### [프랑스 배우 드파르디외와 작가 우엘벡, 성폭행 혐의로 수사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824003)
-#### [영국의 웨일스 공비 케이트, 암 극복 과정을 다룬 다큐멘터리에 출연 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824002)
-#### [젤렌스키, 중국 정상회담이 러시아에 있어 “매우 실패한” 행사였다고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824001)
