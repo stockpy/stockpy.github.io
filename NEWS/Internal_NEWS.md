@@ -1,7 +1,44 @@
-<head><meta charset="utf-8"><title>Vers : 20261122_0155 </title></head>
-<center>Vers : 20261122_0155 </center>
-<center>Vers : 20261122_1055 </center>
+<head><meta charset="utf-8"><title>Vers : 20261122_0925 </title></head>
+<center>Vers : 20261122_0925 </center>
+<center>Vers : 20261122_1825 </center>
 <br><br><br>
+#### [[속보] 아다니 에너지 솔루션스, 2026년 11월 21일 비크람실라 전력 송전사 지분 100% 인수를 위한 주식매매계약(SPA) 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824101)
+#### [[속보] 상하이 푸순제약, A주 자사주 매입 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824100)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600196.SS/total>
+#### [젤렌스키 대통령, 키예프 지역 건물에 러시아 드론이 충돌해 최소 14명이 실종됐다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824099)
+#### [맥라렌 듀오, 2025년 실격 처분 이후 라스베이거스에서 포디움 등극으로 명예를 회복하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824098)
+#### [모터 레이싱-베르스타펜, 라스베이거스에서 러셀의 불운을 만끽하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824097)
+#### [[속보] 저장 화유 코발트, A주 자사주 매입 계획](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824096)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/603799.SS/total>
+#### [공격당한 후 핀란드 근해에서 러시아 화물선이 여전히 불타고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824095)
+#### [산발적인 공격이 이어지면서 대부분의 걸프 지역 증시가 하락세를 보였다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824094)
+#### [[속보] 쑤저우 TFC 광통신, 광학 소자 연구개발 및 제조 프로젝트에 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824093)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300394.SZ/total>
+#### [제이드 페트롤리엄, 정보 공시 위반 의혹으로 조사 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824092)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/600759.SS/total>
+#### [[속보] 진커 프로퍼티 최대주주들, 정보공개 위반 혐의로 수사 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824091)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/000656.SZ/total>
+#### [Design, 11월 23일 자사주 거래 중단 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824090)
+#### [[속보] 스마트센스 테크놀로지, IC 이미지 센서 기업에 투자 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824089)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688213.SS/total>
+#### [[속보] 탠선 테크놀로지, 정보 공시 위반 의혹으로 증권 규제 당국의 조사 받아](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824088)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/300872.SZ/total>
+#### [[속보] 지린 OLED 소재테크 자회사, AMOLED 프로젝트 수주 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824087)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/688378.SS/total>
+#### [[속보] 쑤저우 동산 정밀 제조, 160만 H주에 대한 초과배정 옵션이 부분적으로 행사되었다고 발표](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824086)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/002384.SZ/total>
+#### [스위스 중앙은행(SNB) 부총재, 신문과의 인터뷰에서 2차 인플레이션 파급 효과를 면밀히 주시하고 있다고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824085)
+#### [베르스타펜, 라스베이거스에서 러셀의 불운을 기뻐하다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824084)
+#### [모터 레이싱 - 베르스타펜, 라스베이거스에서 4년 만에 세 번째 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824083)
+#### [[속보 1] COP31 기후 회의 의장, “최종 합의 임박”이라고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824082)
+#### [베르스타펜, 라스베이거스에서 4년 만에 세 번째 우승](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824081)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824080)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824079)
+#### [주목해야 할 요인들 - 11월 22일](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824078)
+#### [워싱턴주 주지사와 노조, 시애틀 공항에서 여행객을 대상으로 한 ICE의 체포 조치 규탄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824077)
+#### [워싱턴주 주지사와 노동조합, 시애틀 공항에서 여행객을 대상으로 한 ICE의 체포 조치를 규탄](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824076)
+#### [중국은 미국 연방통신위원회(FCC)가 중국 통신사들의 미국 전화번호에 대한 직접 접속을 금지한 조치에 반대하고 있다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824075)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/601728.SS/total>
 #### [천연가스 파이프라인 긴급 공지: Southern Natural Gas의 파이프라인 현황 업데이트 (2026년 11월 22일)](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824074)
 #### [호주, AUKUS 관련 발언을 두고 미국 의회예산처(CBO)를 비판](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824073)
 #### [COP31 기후 회담, 최종 합의에 가까워졌다고 정상회의 의장이 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824072)
@@ -36,6 +73,10 @@
 #### [트럼프는 배리 본즈의 명예의 전당 입성 추진을 지지하는 방안을 검토하겠다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824044)
 #### [브뤼셀 공항은 월요일 대부분의 항공편이 결항될 것으로 예상하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824043)
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824042)
+<head><meta charset="utf-8"><title>Vers : 20261122_0925 </title></head>
+<center>Vers : 20261122_0925 </center>
+<center>Vers : 20261122_1825 </center>
+<br><br><br>
 #### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824041)
 #### [캘리포니아주 법무장관, 엔비디아 조사 대상에 잠재적 형법 위반 사항 포함됐다고 밝혀 - 블룸버그 뉴스](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824040)
 #### [바르셀로나에서 주택 및 교육 문제를 둘러싸고 시위대가 행진했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824039)
@@ -64,3 +105,37 @@
 #### [캐나다 국방장관, 미군과의 관계에 변화 없다며 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824017)
 #### [알파인 스키 - 콜투리, 월드컵 첫 우승을 차지하며 알바니아에 사상 첫 우승을 안겼다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824016)
 #### [핀란드 국경수비대 관계자는 핀란드 해역에서 화재가 발생한 선박이 러시아 군과 연관이 있는 것으로 알려져 있다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824015)
+#### [아르테미스와 미국 대표팀, 두바이에서 강력한 출발을 보이며 그랜드 파이널 진출 희망을 키웠다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824014)
+#### [이란 당국자, 카타르 대표단이 회담을 위해 테헤란을 방문했다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824013)
+#### [멕시코에 NFL을 알린 방송인](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824012)
+#### [COP31 기후 회의가 왜 ‘역대 최악’이라는 평가를 받았을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824011)
+#### [COP31 기후 회의가 왜 ‘역대 최악’이라는 평가를 받았을까?](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824010)
+#### [루테 총리, “나토는 폴란드 영토의 모든 구석을 방어할 것”이라고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824009)
+#### [콜투리, 월드컵에서 첫 우승을 차지하며 알바니아에 사상 첫 우승을 안겼다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824008)
+#### [핀란드 정부, 러시아 헬리콥터가 핀란드 영공을 침범한 것으로 의심된다고 밝혔다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824007)
+#### [16 전투기가 미사일에 피격되어 비상 착륙을 할 수밖에 없었다고 밝혔으나, 미국 측은 이를 확인하지 않았다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824006)
+#### [EU 정상회의 의장, 2028~2034년 EU 예산안 추가 삭감 제안…디지털 세금 도입 시사](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824005)
+#### [EU와 인도네시아, 10년간의 협상 끝에 무역 협정 체결](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824004)
+#### [프랑스 배우 드파르디외와 작가 우엘벡, 성폭행 혐의로 수사 중](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824003)
+#### [영국의 웨일스 공비 케이트, 암 극복 과정을 다룬 다큐멘터리에 출연 예정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824002)
+#### [젤렌스키, 중국 정상회담이 러시아에 있어 “매우 실패한” 행사였다고 말해](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824001)
+#### [[속보 1] EU 제재 발효 며칠 만에 러시아 ‘와일드베리스’ CEO 사임…언론 보도](https://m.stock.naver.com/news/worldnews/view/fnGuide/2824000)
+#### [EU 정상회의 의장이 2028~2034년 EU 예산안에서 추가 삭감을 제안하고, 디지털 세금 도입을 시사했다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823999)
+#### [월스트리트저널(WSJ) 보도에 따르면, 백악관이 직원들의 특별 지위를 축소했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823998)
+#### [마피아 수사 와중에 이탈리아 전 경찰청장 데 제나로 자살](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823997)
+#### [노르웨이의 가스스코, 예정된 가스 공급 중단 계획 수정](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823996)
+#### [노르웨이의 Gassco는 11월 21일 12시 28분부터 11월 22일 05시 00분까지 하루 49.0 mcm의 공급 중단을 예정하고 있습니다.](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823995)
+#### [베제키, 포르투갈에서 랩 기록을 경신하며 마르케스로부터 폴 포지션을 빼앗다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823994)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823993)
+#### [NHC 열대 기상 전망](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823992)
+#### [남부 캘리포니아 항만 고용주 측과 경비원 노조, 잠정 합의 도출](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823991)
+#### [러시아는 화물선이 드론에 피격당했다고 밝혔으며, 핀란드는 자국 영해 내에서 해당 선박이 화재가 발생했다고 전했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823990)
+#### [단독-덴마크, 테러 음모 저지 후 EU에 러시아인에 대한 여행 제한 강화 촉구](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823989)
+#### [핀란드 국경수비대에 따르면, 핀란드 만 동부에서 러시아 화물선이 화재가 발생했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823988)
+#### [남부 캘리포니아 항만 고용주 측과 경비원 노조, 잠정 합의에 도달](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823987)
+#### [[업데이트 1] 프랑스 의장국, “최신 EU 예산안 매우 실망스럽다”고 밝혀](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823986)
+#### [언론 보도에 따르면, 러시아 ‘와일드베리스’ CEO가 EU 제재 발효 며칠 만에 사임했다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823985)
+#### [수십 년 만에 가장 많은 수의 흑인 민주당 신인 의원들이 미국 의회에 입성하며, 정책과 당내에 큰 영향을 미칠 전망이다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823984)
+#### [이번 주 브레이킹뷰스: 반도체 고객을 파악하라](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823983)
+#### 종목정보 : <https://m.stock.naver.com/worldstock/stock/NVDA.O/total>
+#### [전동 자전거 배터리 화재가 잇따르자, 뉴욕시는 더 강력한 규제 도입을 검토하고 있다](https://m.stock.naver.com/news/worldnews/view/fnGuide/2823982)
