@@ -1,5 +1,5 @@
-<center>Vers : 20261122_2318 </center>
-<center>Vers : 20261123_0818 </center>
+<center>Vers : 20261123_0230 </center>
+<center>Vers : 20261123_1130 </center>
 <br>
 <style type="text/css"> .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -29,7 +29,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>0</th>
       <td>TIGER 코스닥150</td>
       <td>0%</td>
-      <td>10720</td>
+      <td>10395</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -38,7 +38,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>1</th>
       <td>TIGER 반도체TOP10</td>
       <td>0%</td>
-      <td>24125</td>
+      <td>23190</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -47,7 +47,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>2</th>
       <td>TIGER 미국필라델피아반도체나스닥</td>
       <td>0%</td>
-      <td>31975</td>
+      <td>30305</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -56,7 +56,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>3</th>
       <td>TIGER 골드선물(H)</td>
       <td>0%</td>
-      <td>20755</td>
+      <td>20915</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -65,7 +65,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>4</th>
       <td>TIGER CD1년금리액티브(합성)</td>
       <td>0%</td>
-      <td>1084455</td>
+      <td>1084522</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -74,7 +74,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>5</th>
       <td>KODEX 미국배당다우존스</td>
       <td>15%</td>
-      <td>12475</td>
+      <td>12515</td>
       <td>7</td>
       <td>16.0%</td>
       <td>-20</td>
@@ -83,16 +83,16 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>6</th>
       <td>KODEX 미국S&amp;P500</td>
       <td>50%</td>
-      <td>21445</td>
-      <td>13</td>
-      <td>48.0%</td>
-      <td>23</td>
+      <td>21350</td>
+      <td>14</td>
+      <td>47.0%</td>
+      <td>35</td>
     </tr>
     <tr>
       <th>7</th>
       <td>KODEX 미국30년국채액티브(H)</td>
       <td>10%</td>
-      <td>8045</td>
+      <td>8100</td>
       <td>7</td>
       <td>11.0%</td>
       <td>-31</td>
@@ -101,7 +101,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>8</th>
       <td>KODEX 미국10년국채선물</td>
       <td>10%</td>
-      <td>11055</td>
+      <td>11175</td>
       <td>5</td>
       <td>10.0%</td>
       <td>0</td>
@@ -110,7 +110,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>9</th>
       <td>KODEX iShares미국투자등급회사채액티브</td>
       <td>15%</td>
-      <td>10265</td>
+      <td>10410</td>
       <td>8</td>
       <td>15.0%</td>
       <td>0</td>
@@ -119,7 +119,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>10</th>
       <td>KODEX 200TR</td>
       <td>0%</td>
-      <td>27695</td>
+      <td>26285</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -128,7 +128,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
       <th>11</th>
       <td>ACE 테슬라밸류체인액티브</td>
       <td>0%</td>
-      <td>15370</td>
+      <td>14905</td>
       <td>0</td>
       <td>0%</td>
       <td>0</td>
@@ -139,7 +139,7 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 var chart = bb.generate({
 data: {
 columns: [
-['KODEX 미국S&P500', '48.0'],
+['KODEX 미국S&P500', '47.0'],
 ['KODEX iShares미국투자등급회사채액티브', '15.0'],
 ['KODEX 미국10년국채선물', '10.0'],
 ['KODEX 미국30년국채액티브(H)', '11.0'],
